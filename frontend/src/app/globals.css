@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --color-politics: #3b82f6;
+  --color-economy: #22c55e;
+  --color-science: #a855f7;
+  --color-society: #f97316;
+  --color-environment: #14b8a6;
+  --color-crime: #ef4444;
+  --color-health: #ec4899;
+  --color-uncategorised: #6b7280;
+
+  --font-serif: "Georgia", "Times New Roman", serif;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #fafaf8;
+  color: #1a1a1a;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-serif);
+}
