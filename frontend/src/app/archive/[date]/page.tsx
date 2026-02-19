@@ -39,14 +39,14 @@ export default async function ArchiveDatePage({ params }: ArchiveDatePageProps) 
     return (
       <div className="max-w-3xl mx-auto px-5 py-12">
         <nav className="mb-8">
-          <Link href="/archive" className="flex items-center gap-1 text-[13px] text-neutral-400 hover:text-neutral-900 transition-colors">
+          <Link href="/archive" className="flex items-center gap-1 text-[13px] text-zinc-600 hover:text-zinc-100 transition-colors">
             <ArrowLeft size={14} />
             Archive
           </Link>
         </nav>
         <div className="text-center py-20">
-          <h1 className="text-2xl font-bold text-neutral-900 mb-2">No Briefing Found</h1>
-          <p className="text-neutral-500 text-[15px]">{error}</p>
+          <h1 className="text-2xl font-bold text-zinc-100 mb-2">No Briefing Found</h1>
+          <p className="text-zinc-400 text-[15px]">{error}</p>
         </div>
       </div>
     );
