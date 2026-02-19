@@ -3,8 +3,11 @@ import time
 from datetime import date, datetime
 
 from backend.agents.categoriser import categorise_stories
+from backend.agents.deep_thinker import run_deep_analysis
 from backend.agents.ranker import rank_stories
 from backend.agents.simplifier import simplify_stories
+from backend.agents.story_linker import link_stories
+from backend.agents.verifier import verify_stories
 from backend.database.connection import init_db
 from backend.database.repositories.briefing_repo import save_briefing
 from backend.database.repositories.story_repo import save_stories
@@ -26,8 +29,11 @@ async def run_pipeline() -> dict:
         3. Deduplicate
         4. Categorise (Claude Haiku)
         5. Rank and select top 15 (Claude Haiku)
-        6. Simplify (Claude Sonnet)
-        7. Save briefing to database
+        6. Verify sources (Claude Sonnet)
+        7. Simplify (Claude Sonnet)
+        8. Deep analysis (Claude Opus)
+        9. Link related stories (Claude Haiku)
+        10. Save briefing to database
 
     Returns a summary dict with counts at each stage.
     """
@@ -68,20 +74,32 @@ async def run_pipeline() -> dict:
     ranked = rank_stories(categorised_stories, classifications)
     logger.info("Selected %d stories for today's briefing", len(ranked))
 
-    # Stage 6: Simplify with Claude Sonnet
-    logger.info("Stage 6: Simplifying selected stories...")
-    simplified = simplify_stories(ranked)
+    # Stage 6: Verify sources with Claude Sonnet
+    logger.info("Stage 6: Verifying %d stories...", len(ranked))
+    verified = verify_stories(ranked)
 
-    # Stage 7: Save to database
-    logger.info("Stage 7: Saving briefing to database...")
-    saved = save_stories(simplified)
+    # Stage 7: Simplify with Claude Sonnet
+    logger.info("Stage 7: Simplifying selected stories...")
+    simplified = simplify_stories(verified)
+
+    # Stage 8: Deep analysis with Claude Opus
+    logger.info("Stage 8: Running deep analysis on %d stories...", len(simplified))
+    analysed = run_deep_analysis(simplified)
+
+    # Stage 9: Link related stories
+    logger.info("Stage 9: Linking related stories...")
+    linked = link_stories(analysed)
+
+    # Stage 10: Save to database
+    logger.info("Stage 10: Saving briefing to database...")
+    saved = save_stories(linked)
 
     # Build and save briefing
     briefing = Briefing(
         date=date.today(),
-        local_stories=[s for s in simplified if s.tier == "LOCAL"],
-        national_stories=[s for s in simplified if s.tier == "NATIONAL"],
-        global_stories=[s for s in simplified if s.tier == "GLOBAL"],
+        local_stories=[s for s in linked if s.tier == "LOCAL"],
+        national_stories=[s for s in linked if s.tier == "NATIONAL"],
+        global_stories=[s for s in linked if s.tier == "GLOBAL"],
     )
     save_briefing(briefing)
 
@@ -95,7 +113,10 @@ async def run_pipeline() -> dict:
         "unique_stories": len(unique_stories),
         "stories_categorised": len(categorised_stories),
         "stories_ranked": len(ranked),
+        "stories_verified": len(verified),
         "stories_simplified": len(simplified),
+        "stories_deep_analysed": sum(1 for s in analysed if s.deep_analysis),
+        "stories_linked": sum(1 for s in linked if s.related_story_ids),
         "briefing_stories": briefing.story_count,
         "saved_to_db": saved,
         "elapsed_seconds": round(elapsed, 1),

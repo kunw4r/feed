@@ -3,9 +3,10 @@
 interface HeaderProps {
   date: string;
   storyCount: number;
+  regionCount: number;
 }
 
-export default function Header({ date, storyCount }: HeaderProps) {
+export default function Header({ date, storyCount, regionCount }: HeaderProps) {
   const formatted = new Date(date + "T00:00:00").toLocaleDateString("en-AU", {
     weekday: "long",
     day: "numeric",
@@ -14,18 +15,22 @@ export default function Header({ date, storyCount }: HeaderProps) {
   });
 
   return (
-    <header className="border-b-2 border-neutral-900 pb-6 mb-10">
-      <div className="text-center">
-        <p className="text-xs tracking-[0.3em] uppercase text-neutral-500 mb-2">
-          {formatted}
-        </p>
-        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-3">
-          The Daily Briefing
-        </h1>
-        <p className="text-sm md:text-base text-neutral-500 font-sans">
-          {storyCount} stories &middot; 3 perspectives &middot; Zero jargon.
-        </p>
+    <header className="pb-6 mb-6">
+      <div className="flex items-center gap-2 mb-4">
+        <span className="text-sm font-semibold text-zinc-100 tracking-tight">
+          Brainfeed
+        </span>
       </div>
+
+      <p className="text-xs font-medium text-zinc-600 uppercase tracking-widest mb-2">
+        {formatted}
+      </p>
+      <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-zinc-100 mb-2">
+        What&apos;s Happening in the World
+      </h1>
+      <p className="text-zinc-400 text-[15px]">
+        {storyCount} stories across {regionCount} regions — simplified so you actually understand what&apos;s going on.
+      </p>
     </header>
   );
 }

@@ -3,6 +3,12 @@ export interface Source {
   url: string;
 }
 
+export interface Concept {
+  term: string;
+  definition: string;
+  context: string;
+}
+
 export interface Story {
   id: string;
   title: string;
@@ -10,22 +16,25 @@ export interface Story {
   simplified_body: string;
   quick_summary: string;
   deep_analysis: string | null;
+  why_it_matters: string | null;
+  concepts: Concept[];
+  region: string | null;
+  region_code: string | null;
   description: string;
-  tier: "LOCAL" | "NATIONAL" | "GLOBAL";
+  tier: string;
   category: Category;
   impact_score: number;
   sources: Source[];
   source_count: number;
   confidence: number;
+  related_story_ids: string[];
   created_at: string;
   published_date: string | null;
 }
 
 export interface Briefing {
   date: string;
-  local_stories: Story[];
-  national_stories: Story[];
-  global_stories: Story[];
+  regions: Record<string, Story[]>;
   total_stories: number;
 }
 
@@ -41,64 +50,86 @@ export type Category =
 
 export type Depth = "quick" | "standard" | "deep";
 
+export const REGION_CONFIG: Record<
+  string,
+  { label: string; description: string }
+> = {
+  OCEANIA: {
+    label: "Australia & Pacific",
+    description: "Australia, New Zealand & Pacific Islands",
+  },
+  ASIA: {
+    label: "Asia",
+    description: "China, Japan, India, Southeast Asia & more",
+  },
+  EUROPE: {
+    label: "Europe",
+    description: "EU, UK, Russia-Ukraine & NATO",
+  },
+  MIDDLE_EAST_AFRICA: {
+    label: "Middle East & Africa",
+    description: "Conflicts, oil, development & transformation",
+  },
+  AMERICAS: {
+    label: "Americas",
+    description: "US politics, trade wars, Latin America",
+  },
+  GLOBAL_SYSTEMS: {
+    label: "Global Systems",
+    description: "Finance, international orgs & how the world works",
+  },
+  ADF: {
+    label: "ADF & Defence",
+    description: "Australian Defence Force, RAAF, AUKUS & military",
+  },
+  AI_TECH: {
+    label: "AI & Tech",
+    description: "AI models, autonomous vehicles, partnerships & innovation",
+  },
+};
+
 export const CATEGORY_CONFIG: Record<
   Category,
   { label: string; colour: string; bg: string }
 > = {
   POLITICS_POLICY: {
     label: "Politics",
-    colour: "text-politics",
-    bg: "bg-politics",
+    colour: "text-violet-400",
+    bg: "bg-violet-500/10",
   },
   ECONOMY_MARKETS: {
     label: "Economy",
-    colour: "text-economy",
-    bg: "bg-economy",
+    colour: "text-emerald-400",
+    bg: "bg-emerald-500/10",
   },
   SCIENCE_TECH: {
     label: "Science & Tech",
-    colour: "text-science",
-    bg: "bg-science",
+    colour: "text-sky-400",
+    bg: "bg-sky-500/10",
   },
   SOCIETY_CULTURE: {
     label: "Society",
-    colour: "text-society",
-    bg: "bg-society",
+    colour: "text-amber-400",
+    bg: "bg-amber-500/10",
   },
   ENVIRONMENT_CLIMATE: {
     label: "Environment",
-    colour: "text-environment",
-    bg: "bg-environment",
+    colour: "text-teal-400",
+    bg: "bg-teal-500/10",
   },
   CRIME_SAFETY: {
     label: "Crime",
-    colour: "text-crime",
-    bg: "bg-crime",
+    colour: "text-red-400",
+    bg: "bg-red-500/10",
   },
   HEALTH: {
     label: "Health",
-    colour: "text-health",
-    bg: "bg-health",
+    colour: "text-rose-400",
+    bg: "bg-rose-500/10",
   },
   UNCATEGORISED: {
     label: "General",
-    colour: "text-uncategorised",
-    bg: "bg-uncategorised",
+    colour: "text-zinc-400",
+    bg: "bg-zinc-500/10",
   },
 };
-
-export const TIER_LABELS: Record<string, { title: string; subtitle: string }> =
-  {
-    LOCAL: {
-      title: "Local",
-      subtitle: "Brisbane & Queensland",
-    },
-    NATIONAL: {
-      title: "National",
-      subtitle: "Australia",
-    },
-    GLOBAL: {
-      title: "Global",
-      subtitle: "Around the World",
-    },
-  };

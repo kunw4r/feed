@@ -5,7 +5,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from backend.api.routes import briefings, health, stories
+from backend.api.routes import briefings, chat, health, stories
 from backend.config.settings import ENVIRONMENT, LOG_LEVEL
 from backend.database.connection import init_db
 from backend.scheduler.jobs import run_daily_pipeline
@@ -37,6 +37,7 @@ app.add_middleware(
 app.include_router(health.router)
 app.include_router(stories.router)
 app.include_router(briefings.router)
+app.include_router(chat.router)
 
 # APScheduler — runs pipeline daily at 5am AEST (UTC+10 = 19:00 UTC previous day)
 scheduler = BackgroundScheduler()

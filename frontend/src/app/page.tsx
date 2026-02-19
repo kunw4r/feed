@@ -1,6 +1,6 @@
+import { Suspense } from "react";
 import { fetchTodaysBriefing } from "@/lib/api";
-import Header from "@/components/Header";
-import TierSection from "@/components/TierSection";
+import Dashboard from "@/components/Dashboard";
 
 export default async function HomePage() {
   let briefing;
@@ -9,38 +9,27 @@ export default async function HomePage() {
   try {
     briefing = await fetchTodaysBriefing();
   } catch (e) {
-    error =
-      e instanceof Error ? e.message : "Failed to load today's briefing.";
+    error = e instanceof Error ? e.message : "Failed to load briefing.";
   }
 
   if (error || !briefing) {
     return (
-      <main className="max-w-3xl mx-auto px-4 py-10">
-        <div className="text-center py-20">
-          <h1 className="text-4xl font-bold font-serif mb-4">
-            The Daily Briefing
+      <div className="flex items-center justify-center min-h-[60vh]">
+        <div className="text-center">
+          <h1 className="text-xl font-bold text-zinc-100 mb-2">
+            Unable to load briefing
           </h1>
-          <p className="text-neutral-500">
-            {error || "No briefing available yet. Check back soon."}
+          <p className="text-zinc-400 text-[14px]">
+            {error || "Check back soon."}
           </p>
         </div>
-      </main>
+      </div>
     );
   }
 
   return (
-    <main className="max-w-3xl mx-auto px-4 py-10">
-      <Header date={briefing.date} storyCount={briefing.total_stories} />
-
-      <TierSection tier="LOCAL" stories={briefing.local_stories} />
-      <TierSection tier="NATIONAL" stories={briefing.national_stories} />
-      <TierSection tier="GLOBAL" stories={briefing.global_stories} />
-
-      <footer className="text-center text-xs text-neutral-400 py-8 border-t border-neutral-200 mt-8">
-        <p>
-          Powered by AI. Sourced from trusted outlets. Verified where possible.
-        </p>
-      </footer>
-    </main>
+    <Suspense>
+      <Dashboard briefing={briefing} />
+    </Suspense>
   );
 }
