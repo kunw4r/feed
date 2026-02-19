@@ -1,0 +1,178 @@
+{
+  "title": "Music Theory",
+  "description": "Learn the fundamentals of music theory from scratch. This track covers everything from how sound works to reading sheet music, with practical examples and clear explanations.",
+  "lessons": [
+    {
+      "title": "What is Sound and How Music Works",
+      "content": "Sound is vibration. When something vibrates, it creates waves that travel through the air to your ears. Think of dropping a stone in water—the ripples spread outward. Sound works the same way, except the vibrations are invisible.\n\nMusic is organised sound. Instead of random vibrations, we use specific vibrations that our brains find pleasing. These vibrations happen at different speeds, which we call frequencies. A fast vibration creates a high sound (like a whistle), while a slow vibration creates a low sound (like a drum).\n\nEvery musical note is a specific frequency. When you hear a piano play middle C, that's a vibration happening 262 times per second. An octave higher (the next C up) vibrates twice as fast—524 times per second. This relationship between frequencies is what makes music work.\n\nInstruments create these vibrations in different ways. A guitar string vibrates when plucked. A drum head vibrates when struck. Your vocal cords vibrate when you sing. All of these create the frequencies we hear as music.\n\nThe key thing to understand is that music isn't magic—it's physics. Once you know how sound works, understanding music becomes much easier. Everything in music theory builds on this simple idea: organised vibrations at specific frequencies create the sounds we enjoy.",
+      "key_takeaways": [
+        "Sound is vibration travelling through air",
+        "Music uses specific frequencies our brains find pleasing",
+        "Each note is a particular frequency",
+        "Different instruments create vibrations in different ways",
+        "Music is organised physics"
+      ],
+      "concepts": [
+        {
+          "term": "Frequency",
+          "definition": "How many times something vibrates per second, measured in Hertz (Hz). Higher frequency = higher pitch"
+        },
+        {
+          "term": "Pitch",
+          "definition": "How high or low a sound is, determined by its frequency"
+        },
+        {
+          "term": "Vibration",
+          "definition": "Rapid back-and-forth movement that creates sound waves"
+        }
+      ]
+    },
+    {
+      "title": "Notes, Scales and Keys Explained",
+      "content": "A note is a single sound at a specific pitch. Think of notes like letters in the alphabet—they're the building blocks of music. In Western music, we have 12 basic notes that repeat in different octaves (higher or lower versions).\n\nThe 12 notes are: C, C#, D, D#, E, F, F#, G, G#, A, A#, B. The # symbol means 'sharp' (slightly higher). These 12 notes repeat forever—after B comes C again, just higher.\n\nA scale is a selection of notes in a specific order. The most common scale is the major scale, which has 8 notes (the 8th note is the same as the 1st, just higher). If you start on C and play every white key on a piano, you're playing a C major scale: C, D, E, F, G, A, B, C.\n\nA key is the home base of a piece of music. If a song is 'in the key of C major', it means the song revolves around C and uses the notes from the C major scale. Think of it like a home address—C is home, and the other notes in the scale are nearby.\n\nDifferent scales create different feelings. Major scales sound happy and bright. Minor scales sound sad or mysterious. This is why composers choose specific keys for their songs.\n\nUnderstanding scales and keys helps you predict which notes will sound good together. If you know a song is in G major, you know which notes to use without thinking about it. This is incredibly useful for songwriting and improvisation.",
+      "key_takeaways": [
+        "Notes are individual sounds at specific pitches",
+        "There are 12 basic notes that repeat",
+        "A scale is a selection of notes in order",
+        "A key is the home base of a piece of music",
+        "Major scales sound happy; minor scales sound sad"
+      ],
+      "concepts": [
+        {
+          "term": "Note",
+          "definition": "A single sound at a specific pitch"
+        },
+        {
+          "term": "Scale",
+          "definition": "A sequence of notes in ascending or descending order"
+        },
+        {
+          "term": "Key",
+          "definition": "The tonal centre of a piece of music; the 'home' note"
+        },
+        {
+          "term": "Octave",
+          "definition": "The interval between a note and the same note at double or half the frequency"
+        }
+      ]
+    },
+    {
+      "title": "Rhythm, Tempo and Time Signatures",
+      "content": "Rhythm is the pattern of sounds and silences in music. It's the 'when' of music—when notes happen. Without rhythm, music would just be a collection of random notes. Rhythm is what makes you want to tap your foot.\n\nTempo is the speed of the music, measured in beats per minute (BPM). A slow song might be 60 BPM (one beat per second), while a fast dance song might be 120 BPM (two beats per second). Tempo is like the heartbeat of the music.\n\nA time signature tells you how many beats are in each bar (or measure) and what type of note gets one beat. The most common time signature is 4/4, which means 'four beats per bar, and a quarter note gets one beat'. You count: 1, 2, 3, 4, 1, 2, 3, 4.\n\nThink of time signatures like containers. 4/4 is a container that holds exactly four beats. 3/4 (used in waltzes) holds three beats. 6/8 holds six beats. Different time signatures create different feels—3/4 feels like a waltz, while 4/4 feels like a march.\n\nWithin each bar, you can divide the beats into smaller notes. A quarter note is one beat. An eighth note is half a beat. A half note is two beats. A whole note is four beats. This is how you create interesting rhythmic patterns.\n\nRhythm is what separates music from just playing notes. Two songs can use the same notes but sound completely different because of their rhythm and tempo. Mastering rhythm is essential to understanding music.",
+      "key_takeaways": [
+        "Rhythm is the pattern of sounds and silences",
+        "Tempo is the speed of music in beats per minute",
+        "Time signatures show beats per bar and note type",
+        "4/4 is the most common time signature",
+        "Different note lengths create rhythmic variety"
+      ],
+      "concepts": [
+        {
+          "term": "Rhythm",
+          "definition": "The pattern of sounds and silences in music over time"
+        },
+        {
+          "term": "Tempo",
+          "definition": "The speed of music, measured in beats per minute (BPM)"
+        },
+        {
+          "term": "Time Signature",
+          "definition": "A notation showing how many beats per bar and what note value gets one beat"
+        },
+        {
+          "term": "Beat",
+          "definition": "The basic pulse or unit of time in music"
+        }
+      ]
+    },
+    {
+      "title": "Chords and Harmony: Why Some Notes Sound Good Together",
+      "content": "A chord is a group of notes played together. When notes are played simultaneously, they create harmony. Some combinations of notes sound pleasant (consonant), while others sound harsh or tense (dissonant).\n\nThe most basic chord is a triad, which has three notes. A major triad is built by taking a note (the root), skipping one note, taking the next note, skipping one, and taking the next note. For example, C major is C, E, G. These three notes sound happy and stable together.\n\nA minor triad is similar, but the middle note is lowered. C minor is C, Eb, G. This sounds sad or dark compared to C major. The difference is just one note, but it completely changes the feeling.\n\nHarmony works because of frequency ratios. When two notes have frequencies in a simple ratio (like 2:1 or 3:2), they sound good together. This is why certain chords work and others don't—it's based on maths, not opinion.\n\nChords are the foundation of most songs. A typical song might use three or four chords that repeat throughout. For example, many pop songs use C major, F major, and G major. These three chords work together because they share common notes and create a pleasing harmonic progression.\n\nUnderstanding chords helps you understand why songs sound the way they do. When you hear a sad song, it's probably using minor chords. When you hear a happy song, it's probably using major chords. Learning to build and use chords is one of the most practical skills in music.",
+      "key_takeaways": [
+        "A chord is multiple notes played together",
+        "Triads are the most basic chords with three notes",
+        "Major chords sound happy; minor chords sound sad",
+        "Harmony works because of frequency ratios",
+        "Most songs use a repeating set of chords"
+      ],
+      "concepts": [
+        {
+          "term": "Chord",
+          "definition": "Three or more notes played simultaneously"
+        },
+        {
+          "term": "Triad",
+          "definition": "A three-note chord built from a root note plus two other notes"
+        },
+        {
+          "term": "Major Chord",
+          "definition": "A triad with a happy, bright sound (root, major third, perfect fifth)"
+        },
+        {
+          "term": "Minor Chord",
+          "definition": "A triad with a sad, dark sound (root, minor third, perfect fifth)"
+        }
+      ]
+    },
+    {
+      "title": "Song Structure: Verses, Chorus and Bridge",
+      "content": "Song structure is the blueprint of a song. It's how the different sections are arranged. Understanding structure helps you write better songs and appreciate why songs are arranged the way they are.\n\nThe verse is where the story happens. Verses usually have different lyrics each time they appear and tell the narrative of the song. Think of verses like paragraphs in a book—each one adds new information. Most songs have two to four verses.\n\nThe chorus is the memorable, repeating part. The chorus has the same lyrics and melody every time it appears. It's usually the catchiest part of the song—the part people remember and sing along to. The chorus typically appears after each verse and reinforces the main message.\n\nThe bridge is a contrasting section that appears once, usually near the end. It breaks up the repetition of verses and choruses by introducing something different—different melody, different lyrics, different feel. After the bridge, the song usually returns to the chorus, which feels satisfying because you've heard something new.\n\nA typical pop song structure is: Verse, Chorus, Verse, Chorus, Bridge, Chorus. Some songs add an intro (instrumental at the start) and an outro (ending section). Some songs have pre-choruses (a short section before the chorus that builds anticipation).\n\nDifferent genres use different structures. Hip-hop might have longer verses with shorter choruses. Country songs might have longer storytelling sections. Electronic dance music might repeat the same section many times.\n\nUnderstanding structure helps you write songs that feel complete and satisfying. It also helps you predict what's coming next when you listen to music, which deepens your appreciation.",
+      "key_takeaways": [
+        "Song structure is the arrangement of sections",
+        "Verses tell the story with different lyrics each time",
+        "Choruses are memorable and repeat with the same lyrics",
+        "Bridges provide contrast and appear once",
+        "Different genres use different structures"
+      ],
+      "concepts": [
+        {
+          "term": "Verse",
+          "definition": "A section with different lyrics each time, usually telling the story"
+        },
+        {
+          "term": "Chorus",
+          "definition": "A repeating section with the same lyrics and melody, usually the most memorable part"
+        },
+        {
+          "term": "Bridge",
+          "definition": "A contrasting section that appears once, usually near the end"
+        },
+        {
+          "term": "Pre-Chorus",
+          "definition": "A short section before the chorus that builds anticipation"
+        }
+      ]
+    },
+    {
+      "title": "Reading Sheet Music Basics",
+      "content": "Sheet music is the written language of music. It shows you exactly what notes to play, when to play them, and how long to play them. Learning to read sheet music opens up the entire world of written music.\n\nThe foundation is the staff, which has five horizontal lines. Notes sit on the lines or in the spaces between them. The higher a note sits on the staff, the higher the pitch. The lower it sits, the lower the pitch.\n\nAt the beginning of the staff is a clef symbol. The treble clef (looks like a fancy G) is used for higher instruments like flute, violin, and right hand of piano. The bass clef (looks like a backwards C) is used for lower instruments like cello, tuba, and left hand of piano. The clef tells you which notes are which.\n\nNote shapes tell you duration. A whole note (hollow oval) lasts four beats. A half note (hollow oval with a stem) lasts two beats. A quarter note (filled oval with a stem) lasts one beat. An eighth note (filled oval with a stem and a flag) lasts half a beat. This is how rhythm is written.\n\nOther symbols add information. A sharp (#) raises a note by one semitone. A flat (b) lowers it by one semitone. A natural (♮) cancels a sharp or flat. Rests (symbols that look like pauses) show silence.\n\nThe time signature appears at the start, after the clef. The key signature (sharps or flats) shows which key the piece is in. Dynamics (like 'p' for soft and 'f' for loud) tell you how loudly to play.\n\nReading sheet music takes practice, but it's like learning to read any language. Start slowly, learn the basics, and gradually build speed. Once you can read music, you can play any written piece.",
+      "key_takeaways": [
+        "Sheet music is the written language of music",
+        "The staff has five lines where notes sit",
+        "Clefs show which notes are which",
+        "Note shapes show how long to play",
+        "Symbols add information about dynamics and expression"
+      ],
+      "concepts": [
+        {
+          "term": "Staff",
+          "definition": "Five horizontal lines on which musical notes are written"
+        },
+        {
+          "term": "Clef",
+          "definition": "A symbol at the start of the staff showing which notes are which"
+        },
+        {
+          "term": "Treble Clef",
+          "definition": "The clef used for higher-pitched instruments"
+        },
+        {
+          "term": "Bass Clef",
+          "definition": "The clef used for lower-pitched instruments"
+        }
+      ]
+    }
+  ],
+  "slug": "music-theory",
+  "icon": "music"
+}

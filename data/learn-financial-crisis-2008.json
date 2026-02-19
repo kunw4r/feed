@@ -1,0 +1,142 @@
+{
+  "title": "The 2008 Global Financial Crisis",
+  "subtitle": "How banks' risky bets crashed the world economy and affected millions of ordinary people",
+  "sections": [
+    {
+      "heading": "What Was the Housing Crisis?",
+      "content": "In the early 2000s, banks in America started lending money to people to buy houses, even if those people couldn't really afford the payments. These were called 'subprime mortgages' – 'subprime' means the borrowers had poor credit histories. Banks thought house prices would keep rising forever, so they didn't worry about the risk. Millions of Americans took out these dodgy loans, hoping to flip houses for profit or live beyond their means."
+    },
+    {
+      "heading": "How Did Banks Turn Mortgages Into Dangerous Games?",
+      "content": "Here's where it got tricky. Banks didn't keep the mortgages themselves – they sold them to investment companies. These companies bundled thousands of mortgages together into packages called 'Mortgage-Backed Securities' (MBS). They then sliced these packages into different risk levels and sold them to investors worldwide, including pension funds that held Australians' retirement money. Banks also created even more complex products called 'Collateralised Debt Obligations' (CDOs) – basically bets on bets. Nobody really understood what was inside these packages anymore, but everyone assumed they were safe because house prices never fell... until they did."
+    },
+    {
+      "heading": "The House of Cards Collapses",
+      "content": "Around 2006-2007, house prices stopped rising and started falling. People who'd borrowed money they couldn't afford began defaulting – that means they stopped paying their mortgages. Suddenly, all those mortgage-backed securities were worthless. Banks and investment firms worldwide discovered they were holding toxic assets (investments that had lost almost all their value). Nobody wanted to buy these packages anymore, and nobody trusted each other. The financial system basically froze."
+    },
+    {
+      "heading": "Lehman Brothers and the Panic",
+      "content": "Lehman Brothers was one of America's biggest investment banks, operating for 158 years. In September 2008, it collapsed spectacularly – the largest bankruptcy in US history. This terrified everyone. If a giant bank could disappear overnight, what other banks might fail? Investors panicked and rushed to withdraw their money from banks everywhere. This is called a 'bank run'. The global financial system was on the edge of complete meltdown."
+    },
+    {
+      "heading": "Government Bailouts: Saving the System",
+      "content": "Governments and central banks (the banks that control a country's money supply) stepped in with massive bailouts – emergency loans and cash injections to prevent more banks from collapsing. The US government spent over $700 billion just on the initial rescue package. Australia's government also guaranteed bank deposits and provided emergency funding. The idea was that if major banks failed, ordinary people's savings would disappear and the entire economy would collapse. It was controversial – many people felt angry that banks got rescued while ordinary workers lost their jobs."
+    },
+    {
+      "heading": "Quantitative Easing: Printing Money to Fix It",
+      "content": "Central banks tried something radical called 'quantitative easing' (QE). Basically, they created new money electronically and used it to buy government bonds and other assets from banks. This pumped cash into the financial system to get lending moving again. It's like the central bank saying, 'We'll buy your dodgy stuff so you have cash to lend to businesses and people.' The Reserve Bank of Australia didn't do as much QE as other countries because Australia's economy was more resilient, partly due to strong demand from China for our resources."
+    },
+    {
+      "heading": "How It Hit Ordinary Australians",
+      "content": "Even though Australia didn't have a housing crisis like America, we felt the pain. The global recession meant less demand for our exports like iron ore and coal. Unemployment rose. People's superannuation (retirement savings) lost value as share markets crashed – many Australians lost 30-40% of their retirement funds. House prices fell. Small businesses struggled to get loans. However, Australia recovered faster than most countries because the government spent money on infrastructure projects (the 'stimulus package') and interest rates were cut, making mortgages cheaper for those who kept their jobs."
+    },
+    {
+      "heading": "The Aftermath and Lessons",
+      "content": "The crisis officially ended around 2009-2010, but the effects lasted years. Millions of people lost homes through foreclosure (when banks take back houses because owners can't pay). Unemployment stayed high. Governments had massive debts from bailouts and stimulus spending. The crisis sparked global anger at banks and led to new regulations like the Dodd-Frank Act in America. People learned that the financial system was fragile and that banks had taken crazy risks with other people's money. Trust in banks and governments took years to rebuild."
+    }
+  ],
+  "key_concepts": [
+    {
+      "term": "Mortgage",
+      "definition": "A loan from a bank to buy a house, where the house itself is the security (collateral) – if you don't pay, the bank can take the house.",
+      "context": "Subprime mortgages were given to people with poor credit who couldn't really afford them, creating the initial crisis."
+    },
+    {
+      "term": "Securities",
+      "definition": "Financial products (like shares or bonds) that represent ownership or debt and can be bought and sold.",
+      "context": "Mortgage-backed securities bundled home loans together and sold them as investments."
+    },
+    {
+      "term": "Derivatives",
+      "definition": "Complex financial products whose value depends on the value of something else (like mortgages or shares). They're bets on bets.",
+      "context": "CDOs and credit default swaps were derivatives that made the crisis worse because they were so complicated nobody understood the real risks."
+    },
+    {
+      "term": "Hedge Funds",
+      "definition": "Investment firms that manage money for wealthy people and institutions, often taking big risks to make big profits.",
+      "context": "Many hedge funds invested heavily in mortgage-backed securities and lost enormous amounts when the housing market crashed."
+    },
+    {
+      "term": "Credit Default Swaps",
+      "definition": "Insurance-like contracts where you pay money to protect yourself if a loan goes bad. If the loan defaults, you get paid.",
+      "context": "Banks and investors bought these to protect their mortgage investments, but when mortgages failed en masse, the companies selling the insurance couldn't pay out."
+    },
+    {
+      "term": "Bailout",
+      "definition": "Emergency government or central bank money given to a failing company to prevent it from collapsing.",
+      "context": "Governments bailed out banks to prevent the entire financial system from failing and taking the real economy with it."
+    },
+    {
+      "term": "Central Bank",
+      "definition": "A country's main bank that controls the money supply, sets interest rates, and manages the financial system. Australia's is the Reserve Bank of Australia (RBA).",
+      "context": "Central banks worldwide cut interest rates and did quantitative easing to fight the crisis."
+    },
+    {
+      "term": "Recession",
+      "definition": "A period when the economy shrinks – people earn less, businesses make less profit, and unemployment rises. Usually defined as two consecutive quarters of negative growth.",
+      "context": "The 2008 crisis triggered the worst global recession since the Great Depression of the 1930s."
+    },
+    {
+      "term": "Interest Rates",
+      "definition": "The percentage of money you pay to borrow (or earn if you save). Higher rates make borrowing expensive; lower rates make it cheaper.",
+      "context": "Central banks cut interest rates dramatically during the crisis to encourage people and businesses to borrow and spend money."
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2000-2006",
+      "event": "US housing boom – banks lend recklessly, subprime mortgages explode, house prices soar"
+    },
+    {
+      "date": "2006-2007",
+      "event": "US house prices peak and start falling; defaults on subprime mortgages begin rising"
+    },
+    {
+      "date": "August 2007",
+      "event": "Credit markets freeze as investors realise mortgage-backed securities are toxic; banks stop trusting each other"
+    },
+    {
+      "date": "March 2008",
+      "event": "Bear Stearns, a major US investment bank, collapses; US government arranges emergency sale to JPMorgan"
+    },
+    {
+      "date": "September 15, 2008",
+      "event": "Lehman Brothers declares bankruptcy – largest in US history; global panic intensifies"
+    },
+    {
+      "date": "September-October 2008",
+      "event": "US government passes $700 billion TARP bailout; governments worldwide announce emergency measures"
+    },
+    {
+      "date": "October 2008",
+      "event": "Australian government guarantees bank deposits and announces stimulus spending; RBA cuts interest rates"
+    },
+    {
+      "date": "November 2008",
+      "event": "G20 leaders meet to coordinate global response; quantitative easing begins in major economies"
+    },
+    {
+      "date": "2009",
+      "event": "Global recession deepens; unemployment rises worldwide; stock markets hit bottom in March"
+    },
+    {
+      "date": "2009-2010",
+      "event": "Recovery begins as stimulus spending and low interest rates take effect; Australia recovers faster than most countries"
+    },
+    {
+      "date": "2010 onwards",
+      "event": "New financial regulations introduced; debate continues about whether banks are still too risky"
+    }
+  ],
+  "why_it_still_matters": "The 2008 crisis shaped the world we live in today. It's why banks are now more heavily regulated and why central banks keep interest rates low – they're terrified of another crash. It explains why many young people today are cynical about banks and big business. It showed that the financial system can fail catastrophically if people take too many risks. Australia's relatively strong response (stimulus spending, interest rate cuts, bank guarantees) became a model other countries studied. The crisis also led to the rise of cryptocurrencies like Bitcoin – people wanted alternatives to traditional banks. Understanding 2008 helps you understand economic news today, why governments worry about 'financial stability', and why some people distrust big institutions. It's a reminder that the economy isn't just abstract – it directly affects whether people can keep their homes, find jobs, and plan for the future.",
+  "discussion_questions": [
+    "If banks are 'too big to fail' and get government bailouts, does that encourage them to take even bigger risks? Is that fair to ordinary taxpayers?",
+    "Should there be limits on how much money banks can lend for mortgages? Who decides what's 'too much'?",
+    "Why do you think the people who created the risky mortgage products weren't prosecuted more heavily? Should they have been?",
+    "Australia recovered faster than many countries – was this just luck, or did the government's decisions help? What would you have done differently?",
+    "If you were a bank manager in 2007, how would you have known the housing market would crash? Is it fair to blame banks for not predicting the future?",
+    "Should governments always bail out failing banks, or should they let them fail so people learn not to take risks? What would happen if they didn't?",
+    "How might the 2008 crisis have been prevented? What rules or regulations would have helped?"
+  ],
+  "slug": "financial-crisis-2008"
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "finance",
+    "title": "Finance Fundamentals",
+    "description": "A beginner-friendly introduction to personal finance, investing, and how money works in the modern economy. Learn the basics of banking, shares, interest rates, and cryptocurrency in bite-sized lessons.",
+    "icon": "trending-up",
+    "lesson_count": 6
+  },
+  {
+    "slug": "photography",
+    "title": "Photography Basics",
+    "description": "Learn the fundamental skills to take better photos. From understanding how cameras work to editing your images, this track covers everything a beginner needs to start their photography journey.",
+    "icon": "camera",
+    "lesson_count": 6
+  },
+  {
+    "slug": "coding",
+    "title": "Coding Essentials",
+    "description": "Master the fundamentals of writing good code. Learn what code actually is, how to structure your thinking, write readable programs, debug problems, connect with other apps, and collaborate with version control. Perfect for beginners with zero coding experience.",
+    "icon": "code",
+    "lesson_count": 6
+  },
+  {
+    "slug": "gym",
+    "title": "Fitness & Training",
+    "description": "A beginner-friendly guide to understanding how your body responds to exercise, building effective workout routines, and achieving your fitness goals through science-backed principles.",
+    "icon": "dumbbell",
+    "lesson_count": 6
+  },
+  {
+    "slug": "psychology",
+    "title": "Psychology Basics",
+    "description": "An introductory journey into the science of human behaviour, the brain, and why we think and act the way we do. Perfect for beginners with zero psychology knowledge.",
+    "icon": "brain",
+    "lesson_count": 6
+  },
+  {
+    "slug": "writing",
+    "title": "Writing Skills",
+    "description": "Master the fundamentals of effective writing, from clarity and structure to persuasion and storytelling. Learn how to organise your thoughts, write concisely, and edit like a professional.",
+    "icon": "pen-tool",
+    "lesson_count": 6
+  },
+  {
+    "slug": "cooking",
+    "title": "Cooking Fundamentals",
+    "description": "Master the essential skills and knowledge every home cook needs. Learn kitchen safety, heat science, flavour building, knife skills, classic sauces, and smart meal planning. Perfect for complete beginners.",
+    "icon": "chef-hat",
+    "lesson_count": 6
+  },
+  {
+    "slug": "music-theory",
+    "title": "Music Theory",
+    "description": "Learn the fundamentals of music theory from scratch. This track covers everything from how sound works to reading sheet music, with practical examples and clear explanations.",
+    "icon": "music",
+    "lesson_count": 6
+  },
+  {
+    "slug": "public-speaking",
+    "title": "Public Speaking",
+    "description": "Master the art of public speaking with practical, bite-sized lessons. Learn to overcome fear, structure compelling speeches, command a room with body language, engage audiences, handle tough questions, and create effective visual aids. Perfect for beginners who want to speak with confidence and impact.",
+    "icon": "mic",
+    "lesson_count": 6
+  },
+  {
+    "slug": "mathematics",
+    "title": "Everyday Maths",
+    "description": "Master practical maths skills you'll use every day. From mental maths shortcuts to spotting dodgy statistics, learn how numbers actually work in the real world.",
+    "icon": "calculator",
+    "lesson_count": 6
+  },
+  {
+    "slug": "geography",
+    "title": "World Geography",
+    "description": "Discover how Earth's physical features, climate systems, and human populations shape our world. Learn why earthquakes happen, how oceans work, where people live, and how geography influences global power and resources.",
+    "icon": "globe",
+    "lesson_count": 6
+  }
+]

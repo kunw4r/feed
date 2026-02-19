@@ -1,0 +1,902 @@
+[
+  {
+    "year": "2589 BCE",
+    "title": "Great Pyramid of Giza Built",
+    "slug": "great-pyramid-giza",
+    "summary": "The Egyptians constructed the largest stone structure of the ancient world as a tomb for Pharaoh Khufu, using approximately 2.3 million limestone blocks.",
+    "era": "ANCIENT",
+    "significance": "It demonstrates ancient engineering mastery and remains the oldest surviving wonder of the ancient world, showing how civilisations organised massive labour forces.",
+    "has_content": false
+  },
+  {
+    "year": "1200 BCE",
+    "title": "Iron Age Begins",
+    "slug": "iron-age-begins",
+    "summary": "Societies across Europe, Asia, and Africa began using iron tools and weapons instead of bronze, creating stronger and more durable implements.",
+    "era": "ANCIENT",
+    "significance": "Iron's abundance and superior strength transformed agriculture, warfare, and manufacturing, enabling civilisations to advance more rapidly.",
+    "has_content": false
+  },
+  {
+    "year": "776 BCE",
+    "title": "First Ancient Olympic Games",
+    "slug": "first-olympic-games",
+    "summary": "The ancient Greeks held the first recorded Olympic Games in Olympia, featuring athletic competitions that would continue for nearly 12 centuries.",
+    "era": "CLASSICAL",
+    "significance": "The Olympics established the tradition of international sporting competition and demonstrated the Greek value of physical excellence and peaceful competition.",
+    "has_content": false
+  },
+  {
+    "year": "509 BCE",
+    "title": "Roman Republic Established",
+    "slug": "roman-republic-established",
+    "summary": "Romans overthrew their last king and established a republic with elected officials, a senate, and a system of checks and balances.",
+    "era": "CLASSICAL",
+    "significance": "The Roman Republic created foundational concepts of representative government that influenced modern democracies and legal systems worldwide.",
+    "has_content": false
+  },
+  {
+    "year": "508 BCE",
+    "title": "Athenian Democracy Founded",
+    "slug": "athenian-democracy",
+    "summary": "Athens introduced direct democracy where citizens voted on laws and policies, allowing ordinary people to participate in government decisions.",
+    "era": "CLASSICAL",
+    "significance": "Athenian democracy established the principle that ordinary citizens should have a voice in governance, forming the basis of modern democratic systems.",
+    "has_content": false
+  },
+  {
+    "year": "480 BCE",
+    "title": "Battle of Salamis",
+    "slug": "battle-salamis",
+    "summary": "The Greek navy defeated the invading Persian fleet in a decisive naval battle, preventing Persian conquest of Greece.",
+    "era": "CLASSICAL",
+    "significance": "This victory preserved Greek independence and allowed Greek culture, philosophy, and democracy to flourish and influence Western civilisation.",
+    "has_content": false
+  },
+  {
+    "year": "221 BCE",
+    "title": "Great Wall of China Construction Begins",
+    "slug": "great-wall-china",
+    "summary": "Chinese dynasties began constructing massive defensive walls across northern China to protect against invasions from nomadic peoples.",
+    "era": "CLASSICAL",
+    "significance": "The Great Wall represents one of humanity's largest construction projects and demonstrates China's engineering capabilities and military strategy.",
+    "has_content": false
+  },
+  {
+    "year": "206 BCE",
+    "title": "Han Dynasty Established",
+    "slug": "han-dynasty",
+    "summary": "The Han Dynasty began ruling China, establishing a centralised government and expanding Chinese territory and influence across Asia.",
+    "era": "CLASSICAL",
+    "significance": "The Han Dynasty created a stable, prosperous empire that lasted 400 years and established many Chinese governmental and cultural traditions still recognised today.",
+    "has_content": false
+  },
+  {
+    "year": "100 BCE",
+    "title": "Silk Road Trade Routes Established",
+    "slug": "silk-road-established",
+    "summary": "Trade routes connecting China, Central Asia, the Middle East, and Europe began operating, allowing merchants to exchange silk, spices, and goods.",
+    "era": "CLASSICAL",
+    "significance": "The Silk Road enabled unprecedented cultural, technological, and commercial exchange between distant civilisations, shaping global trade patterns for centuries.",
+    "has_content": false
+  },
+  {
+    "year": "27 BCE",
+    "title": "Roman Empire Begins",
+    "slug": "roman-empire-begins",
+    "summary": "Augustus became the first Roman Emperor, transforming the republic into an empire that would dominate the Mediterranean for centuries.",
+    "era": "CLASSICAL",
+    "significance": "The Roman Empire created a vast, unified political system that spread Roman law, engineering, and culture across three continents, influencing Western civilisation.",
+    "has_content": false
+  },
+  {
+    "year": "1 CE",
+    "title": "Birth of Jesus Christ",
+    "slug": "birth-jesus-christ",
+    "summary": "Jesus Christ was born in Bethlehem, and his teachings would eventually become the foundation of Christianity, the world's largest religion.",
+    "era": "CLASSICAL",
+    "significance": "Christianity became the dominant religion in the Western world, profoundly shaping European culture, law, art, and morality for two millennia.",
+    "has_content": false
+  },
+  {
+    "year": "320 CE",
+    "title": "Gupta Empire Flourishes",
+    "slug": "gupta-empire",
+    "summary": "The Gupta Empire in India experienced a golden age of scientific, mathematical, and artistic achievement, including advances in astronomy and mathematics.",
+    "era": "CLASSICAL",
+    "significance": "The Gupta period produced the decimal system and the concept of zero, mathematical innovations that revolutionised mathematics and science worldwide.",
+    "has_content": false
+  },
+  {
+    "year": "330 CE",
+    "title": "Constantinople Founded",
+    "slug": "constantinople-founded",
+    "summary": "Roman Emperor Constantine established Constantinople (modern Istanbul) as a new capital city on the Bosporus Strait between Europe and Asia.",
+    "era": "CLASSICAL",
+    "significance": "Constantinople became one of the world's most important cities, serving as the capital of the Byzantine Empire and a major centre of Christianity and trade.",
+    "has_content": false
+  },
+  {
+    "year": "476 CE",
+    "title": "Fall of the Western Roman Empire",
+    "slug": "fall-western-roman-empire",
+    "summary": "The last Western Roman Emperor was deposed by Germanic invaders, marking the end of the Roman Empire in the West and the beginning of the Medieval period.",
+    "era": "CLASSICAL",
+    "significance": "The fall of Rome ended classical civilisation in the West, leading to the fragmentation of Europe and the rise of feudalism and medieval kingdoms.",
+    "has_content": false
+  },
+  {
+    "year": "570 CE",
+    "title": "Birth of Prophet Muhammad",
+    "slug": "birth-prophet-muhammad",
+    "summary": "Muhammad was born in Mecca, and he would later found Islam, a religion that would become the world's second-largest faith.",
+    "era": "MEDIEVAL",
+    "significance": "Islam became a major world religion shaping the cultures, politics, and societies of the Middle East, North Africa, and Asia for over 1,400 years.",
+    "has_content": false
+  },
+  {
+    "year": "1066 CE",
+    "title": "Norman Conquest of England",
+    "slug": "norman-conquest-england",
+    "summary": "William the Conqueror and his Norman forces defeated the English King Harold at the Battle of Hastings, establishing Norman rule over England.",
+    "era": "MEDIEVAL",
+    "significance": "The Norman Conquest transformed English culture, language, and governance, blending Norman-French and Anglo-Saxon traditions that shaped modern Britain.",
+    "has_content": false
+  },
+  {
+    "year": "1215 CE",
+    "title": "Magna Carta Signed",
+    "slug": "magna-carta",
+    "summary": "English barons forced King John to sign the Magna Carta, a document limiting royal power and establishing that even kings must obey the law.",
+    "era": "MEDIEVAL",
+    "significance": "The Magna Carta established the principle of rule of law and limited government, becoming a foundational document for modern democracy and human rights.",
+    "has_content": false
+  },
+  {
+    "year": "1347 CE",
+    "title": "Black Death Arrives in Europe",
+    "slug": "black-death",
+    "summary": "Bubonic plague spread from Asia to Europe via trade routes, killing approximately 75 million people and devastating European populations.",
+    "era": "MEDIEVAL",
+    "significance": "The Black Death fundamentally transformed European society, economy, and culture, leading to labour shortages that increased workers' rights and wages.",
+    "has_content": false
+  },
+  {
+    "year": "1368 CE",
+    "title": "Ming Dynasty Established",
+    "slug": "ming-dynasty",
+    "summary": "The Ming Dynasty began ruling China, ending Mongol rule and initiating a period of cultural flourishing, architectural achievement, and maritime exploration.",
+    "era": "MEDIEVAL",
+    "significance": "The Ming Dynasty produced iconic Chinese achievements including the Forbidden City and sponsored voyages that demonstrated advanced maritime technology.",
+    "has_content": false
+  },
+  {
+    "year": "1453 CE",
+    "title": "Fall of Constantinople",
+    "slug": "fall-constantinople",
+    "summary": "Ottoman forces conquered Constantinople, ending the Byzantine Empire and establishing Ottoman control over the strategic city linking Europe and Asia.",
+    "era": "MEDIEVAL",
+    "significance": "The fall of Constantinople marked the end of the Byzantine Empire and shifted the balance of power in the Mediterranean, prompting European exploration westward.",
+    "has_content": false
+  },
+  {
+    "year": "1440",
+    "title": "Printing Press Invented",
+    "slug": "printing-press-invented",
+    "summary": "Johannes Gutenberg developed the movable type printing press in Germany, allowing books to be mass-produced for the first time.",
+    "era": "RENAISSANCE",
+    "significance": "This invention democratised knowledge and enabled the rapid spread of ideas, fundamentally transforming education and communication.",
+    "has_content": false
+  },
+  {
+    "year": "1492",
+    "title": "Columbus Reaches the Americas",
+    "slug": "columbus-reaches-americas",
+    "summary": "Christopher Columbus sailed across the Atlantic Ocean and arrived in the Caribbean, initiating sustained European contact with the Americas.",
+    "era": "EARLY_MODERN",
+    "significance": "This voyage triggered the age of European colonisation and globalisation, reshaping world demographics, trade, and politics.",
+    "has_content": false
+  },
+  {
+    "year": "1517",
+    "title": "Protestant Reformation Begins",
+    "slug": "protestant-reformation-begins",
+    "summary": "Martin Luther challenged the Catholic Church's authority by posting his 95 Theses, sparking a religious revolution across Europe.",
+    "era": "EARLY_MODERN",
+    "significance": "This schism created religious diversity in Europe and established principles of individual conscience that influenced modern democracy.",
+    "has_content": false
+  },
+  {
+    "year": "1543",
+    "title": "Copernican Revolution",
+    "slug": "copernican-revolution",
+    "summary": "Nicolaus Copernicus published his theory that the Earth orbits the Sun, challenging centuries of accepted astronomical belief.",
+    "era": "EARLY_MODERN",
+    "significance": "This heliocentric model launched the Scientific Revolution and demonstrated that established authorities could be wrong, enabling modern science.",
+    "has_content": false
+  },
+  {
+    "year": "1588",
+    "title": "Spanish Armada Defeated",
+    "slug": "spanish-armada-defeated",
+    "summary": "England's naval forces defeated the Spanish Armada, establishing England as a major maritime power and protecting Protestant England.",
+    "era": "EARLY_MODERN",
+    "significance": "This victory enabled England to become a global colonial power and eventually the world's dominant empire.",
+    "has_content": false
+  },
+  {
+    "year": "1607",
+    "title": "Jamestown Colony Founded",
+    "slug": "jamestown-colony-founded",
+    "summary": "English settlers established Jamestown in Virginia, creating the first permanent English colony in North America.",
+    "era": "EARLY_MODERN",
+    "significance": "This colony became the foundation for English-speaking North America and introduced slavery to what would become the United States.",
+    "has_content": false
+  },
+  {
+    "year": "1620",
+    "title": "Mayflower Arrives at Plymouth",
+    "slug": "mayflower-arrives-plymouth",
+    "summary": "English Pilgrims sailed aboard the Mayflower and established Plymouth Colony in Massachusetts, seeking religious freedom.",
+    "era": "EARLY_MODERN",
+    "significance": "This settlement became a foundational myth for American identity and represented early religious tolerance in the colonies.",
+    "has_content": false
+  },
+  {
+    "year": "1687",
+    "title": "Newton's Principia Published",
+    "slug": "newton-principia-published",
+    "summary": "Isaac Newton published his Principia Mathematica, establishing the laws of motion and universal gravitation that explain how the physical world works.",
+    "era": "EARLY_MODERN",
+    "significance": "Newton's laws became the foundation of classical physics and demonstrated that nature operates according to mathematical principles.",
+    "has_content": false
+  },
+  {
+    "year": "1700",
+    "title": "Age of Enlightenment Flourishes",
+    "slug": "age-of-enlightenment",
+    "summary": "European philosophers like Locke, Voltaire, and Rousseau promoted reason, individual rights, and questioning of absolute authority.",
+    "era": "EARLY_MODERN",
+    "significance": "Enlightenment ideas directly inspired modern democracy, human rights, and the scientific method we use today.",
+    "has_content": false
+  },
+  {
+    "year": "1707",
+    "title": "Act of Union Creates Great Britain",
+    "slug": "act-of-union-great-britain",
+    "summary": "Scotland and England unified politically under one monarch and parliament, creating the Kingdom of Great Britain.",
+    "era": "EARLY_MODERN",
+    "significance": "This union created a powerful nation-state that would become the world's dominant imperial power for two centuries.",
+    "has_content": false
+  },
+  {
+    "year": "1720",
+    "title": "South Sea Bubble Bursts",
+    "slug": "south-sea-bubble",
+    "summary": "Speculative investment in the South Sea Company collapsed, causing massive financial losses and revealing the dangers of unregulated markets.",
+    "era": "EARLY_MODERN",
+    "significance": "This early financial crisis demonstrated the need for market regulation and remains a cautionary tale about investment bubbles.",
+    "has_content": false
+  },
+  {
+    "year": "1756",
+    "title": "Seven Years' War Begins",
+    "slug": "seven-years-war-begins",
+    "summary": "A global conflict erupted between Britain and France over colonial territories in North America, India, and elsewhere.",
+    "era": "EARLY_MODERN",
+    "significance": "Britain's victory made it the world's dominant colonial power and left France financially weakened, contributing to the French Revolution.",
+    "has_content": false
+  },
+  {
+    "year": "1760",
+    "title": "Industrial Revolution Begins",
+    "slug": "industrial-revolution-begins",
+    "summary": "Britain began mechanising textile production with inventions like the spinning jenny and water frame, transforming manufacturing from handcraft to factory-based.",
+    "era": "EARLY_MODERN",
+    "significance": "This shift to machine production created modern industrial society, urbanisation, and the working class that defines contemporary life.",
+    "has_content": false
+  },
+  {
+    "year": "1776",
+    "title": "American Revolution Declared",
+    "slug": "american-revolution-declared",
+    "summary": "Thirteen British colonies in North America declared independence, rejecting British rule and establishing the United States of America.",
+    "era": "EARLY_MODERN",
+    "significance": "This revolution created the first modern democratic republic and inspired democratic movements worldwide.",
+    "has_content": false
+  },
+  {
+    "year": "1776",
+    "title": "Adam Smith's Wealth of Nations",
+    "slug": "wealth-of-nations-published",
+    "summary": "Scottish economist Adam Smith published his influential work explaining how free markets and division of labour create economic prosperity.",
+    "era": "EARLY_MODERN",
+    "significance": "Smith's ideas became the foundation of modern capitalism and continue to influence economic policy globally.",
+    "has_content": false
+  },
+  {
+    "year": "1789",
+    "title": "French Revolution Begins",
+    "slug": "french-revolution-begins",
+    "summary": "French citizens stormed the Bastille and overthrew the absolute monarchy, establishing a republic based on liberty, equality, and fraternity.",
+    "era": "EARLY_MODERN",
+    "significance": "This revolution established modern concepts of human rights, citizenship, and democracy that shaped the modern world.",
+    "has_content": false
+  },
+  {
+    "year": "1791",
+    "title": "Haitian Revolution Begins",
+    "slug": "haitian-revolution-begins",
+    "summary": "Enslaved people in Haiti rebelled against French colonial rule and slavery, eventually establishing the first Black republic.",
+    "era": "EARLY_MODERN",
+    "significance": "This revolution demonstrated that enslaved people could successfully fight for freedom and challenged the legitimacy of slavery globally.",
+    "has_content": false
+  },
+  {
+    "year": "1793",
+    "title": "Reign of Terror in France",
+    "slug": "reign-of-terror-france",
+    "summary": "Revolutionary France executed thousands of perceived enemies, including King Louis XVI, during a period of extreme political violence.",
+    "era": "EARLY_MODERN",
+    "significance": "This period showed how revolutionary ideals could descend into authoritarianism, warning against unchecked political violence.",
+    "has_content": false
+  },
+  {
+    "year": "1798",
+    "title": "Malthus Publishes Population Theory",
+    "slug": "malthus-population-theory",
+    "summary": "Thomas Malthus argued that population growth would outpace food production, creating inevitable poverty and suffering.",
+    "era": "EARLY_MODERN",
+    "significance": "Malthus's theory influenced debates about resource scarcity, poverty, and environmental limits that remain relevant today.",
+    "has_content": false
+  },
+  {
+    "year": "1799",
+    "title": "Napoleon Takes Power in France",
+    "slug": "napoleon-takes-power",
+    "summary": "Military general Napoleon Bonaparte seized control of France, ending the Revolutionary period and establishing himself as a powerful authoritarian leader.",
+    "era": "EARLY_MODERN",
+    "significance": "Napoleon's rise demonstrated how revolutionary ideals could be corrupted by individual ambition, reshaping European politics for decades.",
+    "has_content": false
+  },
+  {
+    "year": "1804",
+    "title": "Napoleon Crowns Himself Emperor",
+    "slug": "napoleon-emperor-france",
+    "summary": "French military leader Napoleon Bonaparte declared himself Emperor of France, ending the French Republic and establishing a powerful empire across Europe.",
+    "era": "MODERN",
+    "significance": "Demonstrated how individual ambition could reshape entire nations and established patterns of authoritarian rule that influenced European politics for centuries.",
+    "has_content": false
+  },
+  {
+    "year": "1815",
+    "title": "Battle of Waterloo",
+    "slug": "battle-waterloo",
+    "summary": "British and allied forces defeated Napoleon's army in Belgium, ending his rule and reshaping the European balance of power.",
+    "era": "MODERN",
+    "significance": "Marked the end of Napoleonic Wars and established a new international system that influenced European diplomacy and stability for decades.",
+    "has_content": false
+  },
+  {
+    "year": "1833",
+    "title": "British Slavery Abolition Act",
+    "slug": "british-slavery-abolition",
+    "summary": "Britain abolished slavery throughout its empire, freeing over 800,000 enslaved people and marking a major shift in moral attitudes towards human rights.",
+    "era": "MODERN",
+    "significance": "Set a precedent for other nations to abolish slavery and established that human freedom was a universal principle worth fighting for.",
+    "has_content": false
+  },
+  {
+    "year": "1851",
+    "title": "Great Exhibition in London",
+    "slug": "great-exhibition-london",
+    "summary": "The world's first international exposition showcased industrial innovations and products from around the globe in a massive glass building called the Crystal Palace.",
+    "era": "MODERN",
+    "significance": "Celebrated industrial progress and globalisation, demonstrating how technology and trade were transforming society and connecting the world.",
+    "has_content": false
+  },
+  {
+    "year": "1859",
+    "title": "Darwin Publishes Origin of Species",
+    "slug": "darwin-origin-species",
+    "summary": "Charles Darwin published his theory of evolution by natural selection, explaining how all living things descended from common ancestors and adapted over time.",
+    "era": "MODERN",
+    "significance": "Fundamentally changed how we understand biology, human origins and our place in nature, influencing science, philosophy and society ever since.",
+    "has_content": false
+  },
+  {
+    "year": "1861",
+    "title": "American Civil War Begins",
+    "slug": "american-civil-war-begins",
+    "summary": "Southern states seceded from the United States to preserve slavery, triggering a devastating four-year war that killed over 600,000 people.",
+    "era": "MODERN",
+    "significance": "Determined whether the United States would survive as a unified nation and whether slavery would continue, shaping modern America's identity.",
+    "has_content": false
+  },
+  {
+    "year": "1865",
+    "title": "Abolition of Slavery in America",
+    "slug": "abolition-slavery-america",
+    "summary": "The 13th Amendment to the US Constitution abolished slavery throughout the United States, freeing approximately 4 million enslaved people.",
+    "era": "MODERN",
+    "significance": "Ended one of history's greatest moral evils and established that all people in America were born free, though equality took much longer to achieve.",
+    "has_content": false
+  },
+  {
+    "year": "1869",
+    "title": "Suez Canal Opens",
+    "slug": "suez-canal-opens",
+    "summary": "The Suez Canal in Egypt opened, creating a major shipping route between Europe and Asia and dramatically reducing travel time for international trade.",
+    "era": "MODERN",
+    "significance": "Transformed global commerce and gave European powers greater access to Asian markets, accelerating colonialism and reshaping world trade patterns.",
+    "has_content": false
+  },
+  {
+    "year": "1871",
+    "title": "Unification of Germany",
+    "slug": "unification-germany",
+    "summary": "German states united under Prussian leadership to form the German Empire, creating a powerful new nation that would dominate European politics.",
+    "era": "MODERN",
+    "significance": "Created a major European power that would shape global politics for the next century, leading to both industrial advancement and future conflicts.",
+    "has_content": false
+  },
+  {
+    "year": "1872",
+    "title": "Australian Gold Rush Begins",
+    "slug": "australian-gold-rush",
+    "summary": "Discovery of gold in Victoria sparked a massive migration to Australia, bringing hundreds of thousands of people seeking fortune and transforming the colony.",
+    "era": "MODERN",
+    "significance": "Accelerated Australia's development, brought diverse populations, created wealth and infrastructure, and laid foundations for modern Australian society.",
+    "has_content": false
+  },
+  {
+    "year": "1876",
+    "title": "Telephone Invented",
+    "slug": "telephone-invented",
+    "summary": "Alexander Graham Bell patented the telephone, enabling people to communicate across distances instantly for the first time in human history.",
+    "era": "MODERN",
+    "significance": "Revolutionised communication and business, connecting people across the world and becoming one of the most important inventions in human history.",
+    "has_content": false
+  },
+  {
+    "year": "1879",
+    "title": "Electric Light Bulb Developed",
+    "slug": "electric-light-bulb",
+    "summary": "Thomas Edison developed a practical electric light bulb that could burn for hours, making electric lighting affordable and accessible to ordinary people.",
+    "era": "MODERN",
+    "significance": "Transformed daily life by extending productive hours beyond daylight, enabling modern cities, factories and homes, and fundamentally changing human society.",
+    "has_content": false
+  },
+  {
+    "year": "1882",
+    "title": "Scramble for Africa Accelerates",
+    "slug": "scramble-for-africa",
+    "summary": "European powers rapidly colonised Africa, dividing the continent among themselves and exploiting its resources and people for economic gain.",
+    "era": "MODERN",
+    "significance": "Established colonial rule that extracted wealth from Africa, created artificial borders causing lasting conflicts, and left a legacy of inequality still felt today.",
+    "has_content": false
+  },
+  {
+    "year": "1871",
+    "title": "Unification of Italy",
+    "slug": "unification-italy",
+    "summary": "Italian states united under King Victor Emmanuel II to form the Kingdom of Italy, creating another major European power and ending papal territorial control.",
+    "era": "MODERN",
+    "significance": "Created a unified Italian nation that would become a major European power and demonstrated nationalism as a powerful force reshaping the continent.",
+    "has_content": false
+  },
+  {
+    "year": "1901",
+    "title": "Australian Federation",
+    "slug": "australian-federation",
+    "summary": "The six Australian colonies united to form the Commonwealth of Australia, creating a new independent nation with its own federal government.",
+    "era": "MODERN",
+    "significance": "Established modern Australia as a unified nation, enabling coordinated development and establishing it as a significant player in the Asia-Pacific region.",
+    "has_content": false
+  },
+  {
+    "year": "1903",
+    "title": "Wright Brothers' First Flight",
+    "slug": "wright-brothers-first-flight",
+    "summary": "Orville and Wilbur Wright successfully flew the first powered aeroplane for 12 seconds near Kitty Hawk, North Carolina.",
+    "era": "MODERN",
+    "significance": "This achievement launched aviation technology that transformed global transportation, commerce, and warfare.",
+    "has_content": false
+  },
+  {
+    "year": "1914",
+    "title": "Assassination of Archduke Franz Ferdinand",
+    "slug": "assassination-archduke-franz-ferdinand",
+    "summary": "The heir to the Austro-Hungarian throne was assassinated in Sarajevo, triggering a chain of events that started World War I.",
+    "era": "MODERN",
+    "significance": "This single event led to the deadliest conflict the world had seen, reshaping European politics and society.",
+    "has_content": false
+  },
+  {
+    "year": "1917",
+    "title": "Russian Revolution",
+    "slug": "russian-revolution",
+    "summary": "Russian workers and soldiers overthrew the Tsar and established the world's first communist state under Vladimir Lenin.",
+    "era": "MODERN",
+    "significance": "This created the Soviet Union, which became a superpower that shaped global politics for the next 74 years.",
+    "has_content": false
+  },
+  {
+    "year": "1918",
+    "title": "End of World War I",
+    "slug": "end-world-war-one",
+    "summary": "World War I ended with an armistice on 11 November, leaving approximately 20 million people dead.",
+    "era": "MODERN",
+    "significance": "The war's devastating consequences and unfair peace terms directly led to the rise of fascism and World War II.",
+    "has_content": false
+  },
+  {
+    "year": "1919",
+    "title": "Treaty of Versailles",
+    "slug": "treaty-of-versailles",
+    "summary": "Allied powers imposed harsh peace terms on Germany, including massive reparations and territorial losses.",
+    "era": "MODERN",
+    "significance": "The treaty's severe punishments humiliated Germany and created resentment that fuelled the rise of Adolf Hitler.",
+    "has_content": false
+  },
+  {
+    "year": "1929",
+    "title": "Stock Market Crash and Great Depression",
+    "slug": "the-great-depression",
+    "summary": "The New York stock market collapsed, triggering a global economic crisis that left millions unemployed and destitute.",
+    "era": "MODERN",
+    "significance": "The Depression's economic devastation destabilised democracies worldwide and enabled the rise of authoritarian leaders.",
+    "has_content": true
+  },
+  {
+    "year": "1933",
+    "title": "Adolf Hitler Becomes Chancellor of Germany",
+    "slug": "hitler-chancellor-germany",
+    "summary": "Adolf Hitler and the Nazi Party took control of Germany, establishing a totalitarian dictatorship.",
+    "era": "MODERN",
+    "significance": "Hitler's rise to power led directly to World War II and the Holocaust, the most destructive events of the 20th century.",
+    "has_content": false
+  },
+  {
+    "year": "1937",
+    "title": "Japan Invades China",
+    "slug": "japan-invades-china",
+    "summary": "Japan launched a full-scale military invasion of China, beginning years of brutal warfare and occupation.",
+    "era": "MODERN",
+    "significance": "This invasion marked the beginning of the Asian theatre of World War II and demonstrated the failure of international peacekeeping.",
+    "has_content": false
+  },
+  {
+    "year": "1939",
+    "title": "Germany Invades Poland; World War II Begins",
+    "slug": "germany-invades-poland-wwii",
+    "summary": "Nazi Germany invaded Poland on 1 September, prompting Britain and France to declare war and starting World War II.",
+    "era": "MODERN",
+    "significance": "World War II became the deadliest conflict in history, killing over 70 million people and redrawing the global map.",
+    "has_content": false
+  },
+  {
+    "year": "1941",
+    "title": "The Holocaust Intensifies",
+    "slug": "holocaust-intensifies",
+    "summary": "Nazi Germany systematically murdered six million Jews and millions of others in concentration camps and death camps.",
+    "era": "MODERN",
+    "significance": "The Holocaust remains history's most infamous genocide, serving as a stark warning about the dangers of hatred and totalitarianism.",
+    "has_content": false
+  },
+  {
+    "year": "1945",
+    "title": "Atomic Bombs Dropped on Japan",
+    "slug": "atomic-bombs-japan",
+    "summary": "The United States dropped atomic bombs on Hiroshima and Nagasaki, instantly killing over 200,000 people and ending World War II.",
+    "era": "MODERN",
+    "significance": "Nuclear weapons introduced the possibility of human extinction, fundamentally changing global politics and military strategy.",
+    "has_content": false
+  },
+  {
+    "year": "1945",
+    "title": "End of World War II",
+    "slug": "end-world-war-two",
+    "summary": "World War II ended in Europe in May and in the Pacific in September after Germany and Japan surrendered.",
+    "era": "MODERN",
+    "significance": "The war's conclusion established the United States and Soviet Union as superpowers and divided the world into competing ideological blocs.",
+    "has_content": false
+  },
+  {
+    "year": "1945",
+    "title": "United Nations Founded",
+    "slug": "united-nations-founded",
+    "summary": "The United Nations was established to promote international peace and cooperation, replacing the failed League of Nations.",
+    "era": "MODERN",
+    "significance": "The UN remains the primary forum for international diplomacy and continues to shape global governance today.",
+    "has_content": false
+  },
+  {
+    "year": "1947",
+    "title": "Indian Independence",
+    "slug": "indian-independence",
+    "summary": "India gained independence from British rule under Mahatma Gandhi's leadership, becoming the world's largest democracy.",
+    "era": "MODERN",
+    "significance": "Indian independence sparked decolonisation across Asia and Africa, fundamentally reshaping the global balance of power.",
+    "has_content": false
+  },
+  {
+    "year": "1948",
+    "title": "Creation of the State of Israel",
+    "slug": "creation-state-israel",
+    "summary": "The State of Israel was established in Palestine as a homeland for Jewish people following the Holocaust.",
+    "era": "MODERN",
+    "significance": "Israel's creation sparked decades of conflict in the Middle East that continues to influence global politics today.",
+    "has_content": false
+  },
+  {
+    "year": "1950",
+    "title": "Korean War Begins",
+    "slug": "korean-war-begins",
+    "summary": "North Korea invaded South Korea, triggering a three-year conflict that divided the peninsula and involved the United Nations and China.",
+    "era": "CONTEMPORARY",
+    "significance": "The war established the demilitarised zone that still separates North and South Korea today, shaping modern geopolitics in East Asia.",
+    "has_content": false
+  },
+  {
+    "year": "1952",
+    "title": "DNA Structure Discovered",
+    "slug": "dna-structure-discovered",
+    "summary": "Scientists Watson, Crick, and Franklin revealed that DNA has a double helix structure, explaining how genetic information is stored and passed on.",
+    "era": "CONTEMPORARY",
+    "significance": "This discovery became the foundation for modern genetics, medicine, and biotechnology, revolutionising our understanding of life itself.",
+    "has_content": false
+  },
+  {
+    "year": "1954",
+    "title": "French Indochina War Ends",
+    "slug": "french-indochina-war-ends",
+    "summary": "France withdrew from Indochina after military defeat, leading to the independence of Vietnam, Laos, and Cambodia.",
+    "era": "CONTEMPORARY",
+    "significance": "This marked a major shift in decolonisation and set the stage for the Vietnam War, demonstrating the end of European colonial dominance in Asia.",
+    "has_content": false
+  },
+  {
+    "year": "1956",
+    "title": "Suez Crisis",
+    "slug": "suez-crisis",
+    "summary": "Egypt's President Nasser nationalised the Suez Canal, prompting military intervention by Britain, France, and Israel.",
+    "era": "CONTEMPORARY",
+    "significance": "The crisis demonstrated the declining power of European nations and the rising influence of the United States and Soviet Union in global affairs.",
+    "has_content": false
+  },
+  {
+    "year": "1960",
+    "title": "African Decolonisation Accelerates",
+    "slug": "african-decolonisation-accelerates",
+    "summary": "Seventeen African nations gained independence in a single year, including Nigeria and the Congo, as European colonial powers withdrew.",
+    "era": "CONTEMPORARY",
+    "significance": "This wave of independence transformed the global political landscape and established the foundation for modern African nations and their ongoing development.",
+    "has_content": false
+  },
+  {
+    "year": "1962",
+    "title": "Cuban Missile Crisis",
+    "slug": "cold-war",
+    "summary": "The Soviet Union placed nuclear missiles in Cuba, bringing the United States and Soviet Union to the brink of nuclear war for thirteen days.",
+    "era": "CONTEMPORARY",
+    "significance": "This crisis demonstrated the terrifying reality of nuclear weapons and led to improved communication between superpowers to prevent accidental war.",
+    "has_content": true
+  },
+  {
+    "year": "1963",
+    "title": "JFK Assassination",
+    "slug": "jfk-assassination",
+    "summary": "US President John F. Kennedy was assassinated in Dallas, Texas, shocking the nation and raising questions about the circumstances of his death.",
+    "era": "CONTEMPORARY",
+    "significance": "Kennedy's death marked a turning point in American politics and culture, influencing public trust in government for decades to come.",
+    "has_content": false
+  },
+  {
+    "year": "1964",
+    "title": "Civil Rights Act Passed",
+    "slug": "civil-rights-act-passed",
+    "summary": "The United States passed landmark legislation outlawing racial discrimination in employment, education, and public facilities.",
+    "era": "CONTEMPORARY",
+    "significance": "This act became the legal foundation for ending segregation and racial discrimination, though the struggle for equality continues today.",
+    "has_content": false
+  },
+  {
+    "year": "1965",
+    "title": "Vietnam War Escalates",
+    "slug": "vietnam-war-escalates",
+    "summary": "The United States began sustained bombing of North Vietnam and deployed combat troops, escalating American involvement in the conflict.",
+    "era": "CONTEMPORARY",
+    "significance": "The war became deeply divisive in America, sparking massive protests and ultimately changing how the nation views military intervention abroad.",
+    "has_content": false
+  },
+  {
+    "year": "1969",
+    "title": "Moon Landing",
+    "slug": "moon-landing",
+    "summary": "Apollo 11 astronauts Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon, watched by millions worldwide.",
+    "era": "CONTEMPORARY",
+    "significance": "The achievement demonstrated human capability to accomplish extraordinary goals and remains a symbol of scientific progress and exploration.",
+    "has_content": false
+  },
+  {
+    "year": "1973",
+    "title": "Watergate Scandal Unfolds",
+    "slug": "watergate-scandal-unfolds",
+    "summary": "A break-in at Democratic National Committee headquarters led to investigations revealing widespread abuse of power by President Richard Nixon's administration.",
+    "era": "CONTEMPORARY",
+    "significance": "Watergate established that no one, including the president, is above the law, and strengthened checks and balances in government.",
+    "has_content": false
+  },
+  {
+    "year": "1979",
+    "title": "Iranian Revolution",
+    "slug": "iranian-revolution",
+    "summary": "Iranians overthrew their Shah and established an Islamic Republic under Ayatollah Khomeini, fundamentally transforming the nation's government.",
+    "era": "CONTEMPORARY",
+    "significance": "The revolution reshaped Middle Eastern politics, created lasting tensions with Western nations, and influenced global Islamic movements.",
+    "has_content": false
+  },
+  {
+    "year": "1986",
+    "title": "Chernobyl Nuclear Disaster",
+    "slug": "chernobyl-nuclear-disaster",
+    "summary": "A catastrophic explosion at a Soviet nuclear power plant released massive amounts of radiation across Europe, killing dozens and contaminating vast areas.",
+    "era": "CONTEMPORARY",
+    "significance": "Chernobyl became a symbol of nuclear danger and environmental catastrophe, influencing global energy policy and public perception of nuclear power.",
+    "has_content": false
+  },
+  {
+    "year": "1989",
+    "title": "Fall of the Berlin Wall",
+    "slug": "fall-of-the-berlin-wall",
+    "summary": "The Berlin Wall, which had divided East and West Berlin for 28 years, was torn down as Cold War tensions eased and Germany moved toward reunification.",
+    "era": "CONTEMPORARY",
+    "significance": "The wall's fall symbolised the end of the Cold War and became an iconic moment representing freedom and the collapse of communist control in Eastern Europe.",
+    "has_content": true
+  },
+  {
+    "year": "1989",
+    "title": "Tiananmen Square Protests",
+    "slug": "tiananmen-square-protests",
+    "summary": "Chinese students and workers gathered in Beijing's Tiananmen Square to demand democracy and freedom, resulting in a military crackdown that killed hundreds.",
+    "era": "CONTEMPORARY",
+    "significance": "The protests highlighted the tension between economic reform and political freedom in China, and remain a symbol of resistance to authoritarian rule.",
+    "has_content": false
+  },
+  {
+    "year": "1991",
+    "title": "Collapse of the Soviet Union",
+    "slug": "collapse-soviet-union",
+    "summary": "The USSR officially dissolved, ending the Cold War and splitting into 15 independent countries including Russia, Ukraine, and Kazakhstan.",
+    "era": "CONTEMPORARY",
+    "significance": "Reshaped global politics and removed the primary counterbalance to American power for decades.",
+    "has_content": false
+  },
+  {
+    "year": "1994",
+    "title": "Rwandan Genocide",
+    "slug": "rwandan-genocide",
+    "summary": "In just 100 days, approximately 800,000 Tutsi and moderate Hutu people were systematically murdered by Hutu extremists in Rwanda.",
+    "era": "CONTEMPORARY",
+    "significance": "Demonstrated the world's failure to prevent mass atrocities and led to international laws against genocide.",
+    "has_content": false
+  },
+  {
+    "year": "1995",
+    "title": "World Wide Web Goes Public",
+    "slug": "world-wide-web-public",
+    "summary": "The internet transitioned from academic use to mainstream public access, with browsers like Netscape making it accessible to ordinary people.",
+    "era": "CONTEMPORARY",
+    "significance": "Fundamentally transformed communication, commerce, and information sharing, creating the digital world we live in today.",
+    "has_content": false
+  },
+  {
+    "year": "2001",
+    "title": "September 11 Terrorist Attacks",
+    "slug": "september-11",
+    "summary": "Al-Qaeda terrorists hijacked four planes and crashed them into the World Trade Centre, Pentagon, and a field in Pennsylvania, killing nearly 3,000 people.",
+    "era": "CONTEMPORARY",
+    "significance": "Triggered the War on Terror, reshaped global security policies, and led to decades of military interventions in the Middle East.",
+    "has_content": true
+  },
+  {
+    "year": "2003",
+    "title": "Iraq War Begins",
+    "slug": "iraq-war-begins",
+    "summary": "The United States and allies invaded Iraq based on claims of weapons of mass destruction, toppling Saddam Hussein's government.",
+    "era": "CONTEMPORARY",
+    "significance": "Destabilised the Middle East, cost hundreds of thousands of lives, and created power vacuums that enabled the rise of ISIS.",
+    "has_content": false
+  },
+  {
+    "year": "2007",
+    "title": "iPhone Released",
+    "slug": "iphone-released",
+    "summary": "Apple released the first iPhone, combining a phone, internet device, and music player into one touchscreen device that revolutionised mobile technology.",
+    "era": "CONTEMPORARY",
+    "significance": "Sparked the smartphone revolution, fundamentally changing how people communicate, work, and access information globally.",
+    "has_content": false
+  },
+  {
+    "year": "2008",
+    "title": "Global Financial Crisis",
+    "slug": "financial-crisis-2008",
+    "summary": "Major banks collapsed and the world economy entered severe recession after the housing market crashed, triggered by risky financial practices.",
+    "era": "CONTEMPORARY",
+    "significance": "Caused millions of job losses and home foreclosures, leading to lasting economic inequality and distrust in financial institutions.",
+    "has_content": true
+  },
+  {
+    "year": "2011",
+    "title": "Arab Spring Uprisings",
+    "slug": "arab-spring-uprisings",
+    "summary": "Pro-democracy protests and armed rebellions swept across the Middle East and North Africa, toppling several authoritarian governments.",
+    "era": "CONTEMPORARY",
+    "significance": "Demonstrated popular desire for democratic change in the region, though many uprisings were ultimately suppressed or led to new conflicts.",
+    "has_content": false
+  },
+  {
+    "year": "2011",
+    "title": "Syrian Civil War Begins",
+    "slug": "syrian-civil-war-begins",
+    "summary": "Anti-government protests escalated into a brutal civil war between President Bashar al-Assad's forces and various rebel groups, drawing in foreign powers.",
+    "era": "CONTEMPORARY",
+    "significance": "Created the worst humanitarian crisis of the 21st century, displacing millions and becoming a proxy battleground for global powers.",
+    "has_content": false
+  },
+  {
+    "year": "2016",
+    "title": "Brexit Vote",
+    "slug": "brexit",
+    "summary": "British voters narrowly chose to leave the European Union in a referendum, triggering years of negotiations and political upheaval.",
+    "era": "CONTEMPORARY",
+    "significance": "Marked a major shift towards nationalism in developed countries and fundamentally changed Britain's relationship with Europe.",
+    "has_content": true
+  },
+  {
+    "year": "2019",
+    "title": "Climate Crisis Acceleration",
+    "slug": "climate-change",
+    "summary": "Global temperatures reached record highs, wildfires devastated Australia and California, and climate scientists warned of accelerating environmental collapse.",
+    "era": "CONTEMPORARY",
+    "significance": "Forced climate change to the centre of global politics and demonstrated the urgent need for action to prevent catastrophic warming.",
+    "has_content": true
+  },
+  {
+    "year": "2020",
+    "title": "COVID-19 Pandemic",
+    "slug": "covid-19-pandemic",
+    "summary": "A novel coronavirus spread globally, killing millions, overwhelming healthcare systems, and forcing lockdowns that paralysed economies and society.",
+    "era": "CONTEMPORARY",
+    "significance": "Exposed global vulnerabilities, accelerated digital transformation, and reshaped how people work, learn, and interact.",
+    "has_content": true
+  },
+  {
+    "year": "2022",
+    "title": "Russia Invades Ukraine",
+    "slug": "russia-invades-ukraine",
+    "summary": "Russia launched a full-scale military invasion of Ukraine, triggering Europe's largest conflict since World War II and a global energy crisis.",
+    "era": "CONTEMPORARY",
+    "significance": "Ended decades of relative peace in Europe, united Western nations against Russian aggression, and reshaped global geopolitics.",
+    "has_content": false
+  },
+  {
+    "year": "2022",
+    "title": "ChatGPT and AI Revolution",
+    "slug": "chatgpt-ai-revolution",
+    "summary": "OpenAI released ChatGPT, a powerful artificial intelligence that could write essays, code, and answer questions, sparking global debate about AI's future.",
+    "era": "CONTEMPORARY",
+    "significance": "Demonstrated AI's potential to transform work and society, raising urgent questions about job displacement, misinformation, and ethical AI use.",
+    "has_content": false
+  },
+  {
+    "year": "2024",
+    "title": "AI Integration into Daily Life",
+    "slug": "ai-integration-daily-life",
+    "summary": "Artificial intelligence became embedded in everyday tools including search engines, smartphones, workplaces, and creative industries worldwide.",
+    "era": "CONTEMPORARY",
+    "significance": "Represents a fundamental shift in human-technology interaction, reshaping economies, education, and raising critical questions about human agency and control.",
+    "has_content": false
+  }
+]
