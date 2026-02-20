@@ -44,22 +44,22 @@ function Tooltip({
 
   return (
     <div
-      className="fixed z-30 w-[300px] bg-[#111111] rounded-xl shadow-lg border border-white/[0.06] p-4 animate-in"
+      className="fixed z-30 w-[300px] bg-surface-raised rounded-xl shadow-lg border border-edge p-4 animate-in"
       style={{ top: `${pos.top}px`, left: `${pos.left}px` }}
     >
       <div className="flex items-center gap-2 mb-2">
-        <span className="text-[10px] font-semibold text-violet-400 uppercase tracking-wider bg-violet-500/10 px-1.5 py-0.5 rounded">
+        <span className="text-[10px] font-semibold text-accent uppercase tracking-wider bg-accent-soft px-1.5 py-0.5 rounded">
           Concept
         </span>
-        <span className="text-[13px] font-semibold text-zinc-100">
+        <span className="text-[13px] font-semibold text-content">
           {concept.term}
         </span>
       </div>
-      <p className="text-[13px] text-zinc-400 leading-relaxed mb-2">
+      <p className="text-[13px] text-content-dim leading-relaxed mb-2">
         {concept.definition}
       </p>
       {concept.context && (
-        <p className="text-[12px] text-zinc-600 leading-relaxed italic">
+        <p className="text-[12px] text-content-faint leading-relaxed italic">
           In this story: {concept.context}
         </p>
       )}
@@ -78,7 +78,6 @@ export default function ConceptHighlight({
     return <>{text}</>;
   }
 
-  // Build a regex to find all concept terms in the text
   const sortedConcepts = [...concepts].sort(
     (a, b) => b.term.length - a.term.length
   );
@@ -104,7 +103,7 @@ export default function ConceptHighlight({
                   e.stopPropagation();
                   setActiveConcept(activeConcept === concept ? null : concept);
                 }}
-                className="underline decoration-dotted decoration-violet-400/60 underline-offset-2 cursor-help hover:decoration-violet-400 hover:bg-violet-500/10 transition-colors rounded-sm px-0.5 -mx-0.5"
+                className="underline decoration-dotted decoration-accent/60 underline-offset-2 cursor-help hover:decoration-accent hover:bg-accent-soft transition-colors rounded-sm px-0.5 -mx-0.5"
               >
                 {part}
               </span>

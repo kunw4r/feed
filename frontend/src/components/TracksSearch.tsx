@@ -61,13 +61,13 @@ export default function TracksSearch({ tracks }: TracksSearchProps) {
     <>
       {/* Search */}
       <div className="relative mb-6">
-        <Search size={16} className="absolute left-3 top-1/2 -translate-y-1/2 text-zinc-600" />
+        <Search size={16} className="absolute left-3 top-1/2 -translate-y-1/2 text-content-faint" />
         <input
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Search tracks... (e.g. gym, cooking, psychology)"
-          className="w-full pl-10 pr-4 py-2.5 rounded-xl border border-white/[0.06] text-[14px] text-zinc-200 placeholder:text-zinc-600 focus:outline-none focus:border-violet-500/40 focus:ring-1 focus:ring-violet-500/20 bg-[#111111] transition-colors"
+          className="w-full pl-10 pr-4 py-2.5 rounded-xl border border-edge text-[14px] text-content placeholder:text-content-faint focus:outline-none focus:border-edge-focus focus:ring-1 focus:ring-edge-accent bg-surface-raised transition-colors"
         />
       </div>
 
@@ -79,26 +79,26 @@ export default function TracksSearch({ tracks }: TracksSearchProps) {
             <Link
               key={track.slug}
               href={`/tracks/${track.slug}`}
-              className="group block bg-[#111111] rounded-2xl border border-white/[0.06] hover:border-violet-500/20 hover:glow-violet transition-all duration-150 px-5 py-5"
+              className="group block bg-surface-raised rounded-2xl border border-edge hover:border-edge-accent hover:glow-card transition-all duration-150 px-5 py-5"
             >
               <div className="flex items-start gap-3">
-                <div className="w-10 h-10 rounded-lg bg-white/[0.06] group-hover:bg-violet-500/15 transition-colors flex items-center justify-center flex-shrink-0">
-                  <Icon size={18} className="text-zinc-400 group-hover:text-violet-400 transition-colors" />
+                <div className="w-10 h-10 rounded-lg bg-surface-hover group-hover:bg-nav-active transition-colors flex items-center justify-center flex-shrink-0">
+                  <Icon size={18} className="text-content-dim group-hover:text-accent transition-colors" />
                 </div>
                 <div className="flex-1 min-w-0">
-                  <h2 className="text-[15px] font-semibold text-zinc-100 mb-0.5 group-hover:text-violet-300 transition-colors">
+                  <h2 className="text-[15px] font-semibold text-content mb-0.5 group-hover:text-accent-hover transition-colors">
                     {track.title}
                   </h2>
-                  <p className="text-[12px] text-zinc-400 leading-relaxed line-clamp-2 mb-1.5">
+                  <p className="text-[12px] text-content-dim leading-relaxed line-clamp-2 mb-1.5">
                     {track.description}
                   </p>
-                  <span className="text-[11px] font-medium text-zinc-600">
+                  <span className="text-[11px] font-medium text-content-faint">
                     {track.lesson_count} lessons
                   </span>
                 </div>
                 <ArrowRight
                   size={14}
-                  className="text-zinc-700 group-hover:text-violet-400 transition-colors mt-1 flex-shrink-0"
+                  className="text-content-faint group-hover:text-accent transition-colors mt-1 flex-shrink-0"
                 />
               </div>
             </Link>
@@ -108,10 +108,10 @@ export default function TracksSearch({ tracks }: TracksSearchProps) {
 
       {filtered.length === 0 && query && (
         <div className="text-center py-12">
-          <p className="text-zinc-400 text-[14px] mb-1">
+          <p className="text-content-dim text-[14px] mb-1">
             No tracks matching &ldquo;{query}&rdquo;
           </p>
-          <p className="text-zinc-600 text-[13px]">
+          <p className="text-content-faint text-[13px]">
             More tracks are being added regularly.
           </p>
         </div>

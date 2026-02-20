@@ -1,11 +1,230 @@
 @import "tailwindcss";
 
+/* ── Light theme (default) ── */
+:root {
+  /* Surfaces */
+  --t-surface: #fafafa;
+  --t-surface-raised: #ffffff;
+  --t-surface-inset: #ffffff;
+  --t-surface-hover: rgba(0,0,0,0.04);
+  --t-surface-overlay: rgba(0,0,0,0.2);
+  --t-surface-header: rgba(255,255,255,0.9);
+
+  /* Text */
+  --t-content: #171717;
+  --t-content-dim: #525252;
+  --t-content-faint: #a3a3a3;
+  --t-content-subtle: #737373;
+
+  /* Accent */
+  --t-accent: #4f46e5;
+  --t-accent-hover: #6366f1;
+  --t-accent-soft: #eef2ff;
+  --t-accent-bold: #4f46e5;
+  --t-accent-bold-hover: #4338ca;
+
+  /* Borders */
+  --t-edge: #e5e5e5;
+  --t-edge-accent: rgba(79,70,229,0.2);
+  --t-edge-focus: rgba(79,70,229,0.4);
+
+  /* Interactive */
+  --t-btn: #171717;
+  --t-btn-hover: #262626;
+  --t-nav-active: rgba(0,0,0,0.06);
+  --t-nav-active-fg: #171717;
+
+  /* Misc */
+  --t-ring-offset: #ffffff;
+  --t-glow: transparent;
+  --t-scroll-thumb: #ccc;
+  --t-scroll-hover: #aaa;
+  --t-selection: rgba(79,70,229,0.2);
+  --t-code-bg: #f5f5f5;
+
+  /* Category colours — light: *-600 text, *-50 bg */
+  --t-cat-politics: #7c3aed;
+  --t-cat-politics-bg: #f5f3ff;
+  --t-cat-economy: #059669;
+  --t-cat-economy-bg: #ecfdf5;
+  --t-cat-scitech: #0284c7;
+  --t-cat-scitech-bg: #f0f9ff;
+  --t-cat-society: #d97706;
+  --t-cat-society-bg: #fffbeb;
+  --t-cat-environment: #0d9488;
+  --t-cat-environment-bg: #f0fdfa;
+  --t-cat-crime: #dc2626;
+  --t-cat-crime-bg: #fef2f2;
+  --t-cat-health: #e11d48;
+  --t-cat-health-bg: #fff1f2;
+  --t-cat-general: #71717a;
+  --t-cat-general-bg: #f4f4f5;
+
+  /* Era colours — light */
+  --t-era-ancient: #d97706;
+  --t-era-ancient-bg: #fffbeb;
+  --t-era-classical: #ea580c;
+  --t-era-classical-bg: #fff7ed;
+  --t-era-medieval: #dc2626;
+  --t-era-medieval-bg: #fef2f2;
+  --t-era-renaissance: #9333ea;
+  --t-era-renaissance-bg: #faf5ff;
+  --t-era-early-modern: #7c3aed;
+  --t-era-early-modern-bg: #f5f3ff;
+  --t-era-modern: #2563eb;
+  --t-era-modern-bg: #eff6ff;
+  --t-era-contemporary: #059669;
+  --t-era-contemporary-bg: #ecfdf5;
+}
+
+/* ── Dark theme ── */
+.dark {
+  --t-surface: #000000;
+  --t-surface-raised: #111111;
+  --t-surface-inset: #0a0a0a;
+  --t-surface-hover: rgba(255,255,255,0.06);
+  --t-surface-overlay: rgba(0,0,0,0.6);
+  --t-surface-header: rgba(0,0,0,0.9);
+
+  --t-content: #f5f5f5;
+  --t-content-dim: #a1a1aa;
+  --t-content-faint: #52525b;
+  --t-content-subtle: #71717a;
+
+  --t-accent: #a78bfa;
+  --t-accent-hover: #c4b5fd;
+  --t-accent-soft: rgba(139,92,246,0.1);
+  --t-accent-bold: #7c3aed;
+  --t-accent-bold-hover: #6d28d9;
+
+  --t-edge: rgba(255,255,255,0.06);
+  --t-edge-accent: rgba(139,92,246,0.2);
+  --t-edge-focus: rgba(139,92,246,0.4);
+
+  --t-btn: #7c3aed;
+  --t-btn-hover: #6d28d9;
+  --t-nav-active: rgba(139,92,246,0.15);
+  --t-nav-active-fg: #a78bfa;
+
+  --t-ring-offset: #000000;
+  --t-glow: rgba(139,92,246,0.08);
+  --t-scroll-thumb: #333;
+  --t-scroll-hover: #555;
+  --t-selection: rgba(167,139,250,0.3);
+  --t-code-bg: #000000;
+
+  /* Category colours — dark: *-400 text, *-500/10 bg */
+  --t-cat-politics: #a78bfa;
+  --t-cat-politics-bg: rgba(139,92,246,0.1);
+  --t-cat-economy: #34d399;
+  --t-cat-economy-bg: rgba(16,185,129,0.1);
+  --t-cat-scitech: #38bdf8;
+  --t-cat-scitech-bg: rgba(14,165,233,0.1);
+  --t-cat-society: #fbbf24;
+  --t-cat-society-bg: rgba(245,158,11,0.1);
+  --t-cat-environment: #2dd4bf;
+  --t-cat-environment-bg: rgba(20,184,166,0.1);
+  --t-cat-crime: #f87171;
+  --t-cat-crime-bg: rgba(239,68,68,0.1);
+  --t-cat-health: #fb7185;
+  --t-cat-health-bg: rgba(244,63,94,0.1);
+  --t-cat-general: #a1a1aa;
+  --t-cat-general-bg: rgba(113,113,122,0.1);
+
+  /* Era colours — dark */
+  --t-era-ancient: #fbbf24;
+  --t-era-ancient-bg: rgba(245,158,11,0.1);
+  --t-era-classical: #fb923c;
+  --t-era-classical-bg: rgba(249,115,22,0.1);
+  --t-era-medieval: #f87171;
+  --t-era-medieval-bg: rgba(239,68,68,0.1);
+  --t-era-renaissance: #c084fc;
+  --t-era-renaissance-bg: rgba(168,85,247,0.1);
+  --t-era-early-modern: #a78bfa;
+  --t-era-early-modern-bg: rgba(139,92,246,0.1);
+  --t-era-modern: #60a5fa;
+  --t-era-modern-bg: rgba(59,130,246,0.1);
+  --t-era-contemporary: #34d399;
+  --t-era-contemporary-bg: rgba(16,185,129,0.1);
+}
+
+/* ── Map CSS vars → Tailwind utilities via @theme ── */
 @theme {
   --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui,
     sans-serif;
   --font-heading: "Space Grotesk", "Inter", -apple-system, BlinkMacSystemFont,
     system-ui, sans-serif;
   --font-mono: "JetBrains Mono", "SF Mono", "Fira Code", monospace;
+
+  /* Surfaces */
+  --color-surface: var(--t-surface);
+  --color-surface-raised: var(--t-surface-raised);
+  --color-surface-inset: var(--t-surface-inset);
+  --color-surface-hover: var(--t-surface-hover);
+  --color-surface-overlay: var(--t-surface-overlay);
+  --color-surface-header: var(--t-surface-header);
+
+  /* Text */
+  --color-content: var(--t-content);
+  --color-content-dim: var(--t-content-dim);
+  --color-content-faint: var(--t-content-faint);
+  --color-content-subtle: var(--t-content-subtle);
+
+  /* Accent */
+  --color-accent: var(--t-accent);
+  --color-accent-hover: var(--t-accent-hover);
+  --color-accent-soft: var(--t-accent-soft);
+  --color-accent-bold: var(--t-accent-bold);
+  --color-accent-bold-hover: var(--t-accent-bold-hover);
+
+  /* Borders */
+  --color-edge: var(--t-edge);
+  --color-edge-accent: var(--t-edge-accent);
+  --color-edge-focus: var(--t-edge-focus);
+
+  /* Interactive */
+  --color-btn: var(--t-btn);
+  --color-btn-hover: var(--t-btn-hover);
+  --color-nav-active: var(--t-nav-active);
+  --color-nav-active-fg: var(--t-nav-active-fg);
+
+  /* Misc */
+  --color-ring-offset: var(--t-ring-offset);
+  --color-code-bg: var(--t-code-bg);
+
+  /* Category colours */
+  --color-cat-politics: var(--t-cat-politics);
+  --color-cat-politics-bg: var(--t-cat-politics-bg);
+  --color-cat-economy: var(--t-cat-economy);
+  --color-cat-economy-bg: var(--t-cat-economy-bg);
+  --color-cat-scitech: var(--t-cat-scitech);
+  --color-cat-scitech-bg: var(--t-cat-scitech-bg);
+  --color-cat-society: var(--t-cat-society);
+  --color-cat-society-bg: var(--t-cat-society-bg);
+  --color-cat-environment: var(--t-cat-environment);
+  --color-cat-environment-bg: var(--t-cat-environment-bg);
+  --color-cat-crime: var(--t-cat-crime);
+  --color-cat-crime-bg: var(--t-cat-crime-bg);
+  --color-cat-health: var(--t-cat-health);
+  --color-cat-health-bg: var(--t-cat-health-bg);
+  --color-cat-general: var(--t-cat-general);
+  --color-cat-general-bg: var(--t-cat-general-bg);
+
+  /* Era colours */
+  --color-era-ancient: var(--t-era-ancient);
+  --color-era-ancient-bg: var(--t-era-ancient-bg);
+  --color-era-classical: var(--t-era-classical);
+  --color-era-classical-bg: var(--t-era-classical-bg);
+  --color-era-medieval: var(--t-era-medieval);
+  --color-era-medieval-bg: var(--t-era-medieval-bg);
+  --color-era-renaissance: var(--t-era-renaissance);
+  --color-era-renaissance-bg: var(--t-era-renaissance-bg);
+  --color-era-early-modern: var(--t-era-early-modern);
+  --color-era-early-modern-bg: var(--t-era-early-modern-bg);
+  --color-era-modern: var(--t-era-modern);
+  --color-era-modern-bg: var(--t-era-modern-bg);
+  --color-era-contemporary: var(--t-era-contemporary);
+  --color-era-contemporary-bg: var(--t-era-contemporary-bg);
 }
 
 * {
@@ -15,8 +234,8 @@
 
 body {
   font-family: var(--font-sans);
-  background-color: #000000;
-  color: #f5f5f5;
+  background-color: var(--t-surface);
+  color: var(--t-content);
   font-size: 15px;
   line-height: 1.6;
   letter-spacing: -0.011em;
@@ -26,11 +245,11 @@ h1, h2, h3, h4 {
   font-family: var(--font-heading);
   font-weight: 700;
   letter-spacing: -0.025em;
-  color: #f5f5f5;
+  color: var(--t-content);
 }
 
 ::selection {
-  background-color: rgba(167, 139, 250, 0.3);
+  background-color: var(--t-selection);
 }
 
 ::-webkit-scrollbar {
@@ -41,11 +260,11 @@ h1, h2, h3, h4 {
   background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: #333;
+  background-color: var(--t-scroll-thumb);
   border-radius: 999px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #555;
+  background-color: var(--t-scroll-hover);
 }
 
 .scrollbar-hide::-webkit-scrollbar {
@@ -72,7 +291,7 @@ h1, h2, h3, h4 {
   animation: slideIn 0.2s ease-out;
 }
 
-/* Violet glow for card hovers */
-.glow-violet {
-  box-shadow: 0 0 20px rgba(139, 92, 246, 0.08);
+/* Glow for card hovers */
+.glow-card {
+  box-shadow: 0 0 20px var(--t-glow);
 }

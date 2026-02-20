@@ -65,13 +65,13 @@ export default function SelectionPopup({ onAsk }: SelectionPopupProps) {
           onAsk(selectedText);
           setShow(false);
         }}
-        className="flex items-center gap-1.5 bg-violet-600 text-white text-[12px] font-medium px-3 py-1.5 rounded-lg shadow-lg shadow-violet-500/20 hover:bg-violet-500 transition-colors whitespace-nowrap"
+        className="flex items-center gap-1.5 bg-accent-bold text-white text-[12px] font-medium px-3 py-1.5 rounded-lg shadow-lg hover:bg-accent-bold-hover transition-colors whitespace-nowrap"
       >
         <HelpCircle size={12} />
         Ask about this
       </button>
       <div className="flex justify-center">
-        <div className="w-2 h-2 bg-violet-600 rotate-45 -mt-1" />
+        <div className="w-2 h-2 bg-accent-bold rotate-45 -mt-1" />
       </div>
     </div>
   );

@@ -94,42 +94,42 @@ export const CATEGORY_CONFIG: Record<
 > = {
   POLITICS_POLICY: {
     label: "Politics",
-    colour: "text-violet-400",
-    bg: "bg-violet-500/10",
+    colour: "text-cat-politics",
+    bg: "bg-cat-politics-bg",
   },
   ECONOMY_MARKETS: {
     label: "Economy",
-    colour: "text-emerald-400",
-    bg: "bg-emerald-500/10",
+    colour: "text-cat-economy",
+    bg: "bg-cat-economy-bg",
   },
   SCIENCE_TECH: {
     label: "Science & Tech",
-    colour: "text-sky-400",
-    bg: "bg-sky-500/10",
+    colour: "text-cat-scitech",
+    bg: "bg-cat-scitech-bg",
   },
   SOCIETY_CULTURE: {
     label: "Society",
-    colour: "text-amber-400",
-    bg: "bg-amber-500/10",
+    colour: "text-cat-society",
+    bg: "bg-cat-society-bg",
   },
   ENVIRONMENT_CLIMATE: {
     label: "Environment",
-    colour: "text-teal-400",
-    bg: "bg-teal-500/10",
+    colour: "text-cat-environment",
+    bg: "bg-cat-environment-bg",
   },
   CRIME_SAFETY: {
     label: "Crime",
-    colour: "text-red-400",
-    bg: "bg-red-500/10",
+    colour: "text-cat-crime",
+    bg: "bg-cat-crime-bg",
   },
   HEALTH: {
     label: "Health",
-    colour: "text-rose-400",
-    bg: "bg-rose-500/10",
+    colour: "text-cat-health",
+    bg: "bg-cat-health-bg",
   },
   UNCATEGORISED: {
     label: "General",
-    colour: "text-zinc-400",
-    bg: "bg-zinc-500/10",
+    colour: "text-cat-general",
+    bg: "bg-cat-general-bg",
   },
 };

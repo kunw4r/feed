@@ -52,12 +52,12 @@ export default async function LearnEventPage({ params }: LearnPageProps) {
     return (
       <div className="max-w-2xl mx-auto px-5 py-12">
         <div className="text-center py-20">
-          <h1 className="text-2xl font-bold text-zinc-100 mb-2">
+          <h1 className="text-2xl font-bold text-content mb-2">
             Topic Not Found
           </h1>
           <Link
             href="/learn"
-            className="text-[13px] text-zinc-400 hover:text-zinc-100 transition-colors"
+            className="text-[13px] text-content-dim hover:text-content transition-colors"
           >
             Back to Learn
           </Link>
@@ -73,7 +73,7 @@ export default async function LearnEventPage({ params }: LearnPageProps) {
         <nav className="flex items-center gap-2 mb-8 text-[13px]">
           <Link
             href="/learn"
-            className="flex items-center gap-1 text-zinc-600 hover:text-zinc-100 transition-colors"
+            className="flex items-center gap-1 text-content-faint hover:text-content transition-colors"
           >
             <ArrowLeft size={14} />
             Learn
@@ -84,26 +84,26 @@ export default async function LearnEventPage({ params }: LearnPageProps) {
           {/* Header */}
           <div className="mb-8">
             <div className="flex items-center gap-2 mb-3">
-              <BookOpen size={16} className="text-violet-400" />
-              <span className="text-[11px] font-semibold text-violet-400 uppercase tracking-wider">
+              <BookOpen size={16} className="text-accent" />
+              <span className="text-[11px] font-semibold text-accent uppercase tracking-wider">
                 Learn
               </span>
             </div>
-            <h1 className="text-2xl md:text-3xl font-bold text-zinc-100 tracking-tight mb-2">
+            <h1 className="text-2xl md:text-3xl font-bold text-content tracking-tight mb-2">
               {event.title}
             </h1>
             {event.subtitle && (
-              <p className="text-[15px] text-zinc-400">{event.subtitle}</p>
+              <p className="text-[15px] text-content-dim">{event.subtitle}</p>
             )}
           </div>
 
           {/* Why it matters today */}
           {event.why_it_still_matters && (
-            <div className="bg-violet-500/10 rounded-xl px-5 py-4 mb-8 border border-violet-500/20">
-              <p className="text-[11px] font-semibold text-violet-400 uppercase tracking-wider mb-1.5">
+            <div className="bg-accent-soft rounded-xl px-5 py-4 mb-8 border border-edge-accent">
+              <p className="text-[11px] font-semibold text-accent uppercase tracking-wider mb-1.5">
                 Why this still matters today
               </p>
-              <p className="text-[14px] text-zinc-300 leading-relaxed">
+              <p className="text-[14px] text-content-dim leading-relaxed">
                 {event.why_it_still_matters}
               </p>
             </div>
@@ -113,24 +113,24 @@ export default async function LearnEventPage({ params }: LearnPageProps) {
           {event.timeline && event.timeline.length > 0 && (
             <div className="mb-8">
               <div className="flex items-center gap-2 mb-3">
-                <Clock size={14} className="text-zinc-600" />
-                <h2 className="text-[13px] font-semibold text-zinc-600 uppercase tracking-wider">
+                <Clock size={14} className="text-content-faint" />
+                <h2 className="text-[13px] font-semibold text-content-faint uppercase tracking-wider">
                   Timeline
                 </h2>
               </div>
               <div className="space-y-2">
                 {event.timeline.map((t, i) => (
                   <div key={i} className="flex gap-3">
-                    <span className="text-[12px] font-mono text-zinc-600 w-16 flex-shrink-0 pt-0.5 text-right">
+                    <span className="text-[12px] font-mono text-content-faint w-16 flex-shrink-0 pt-0.5 text-right">
                       {t.date}
                     </span>
                     <div className="flex flex-col items-center flex-shrink-0">
-                      <div className="w-1.5 h-1.5 rounded-full bg-zinc-700 mt-1.5" />
+                      <div className="w-1.5 h-1.5 rounded-full bg-content-faint mt-1.5" />
                       {i < event.timeline.length - 1 && (
-                        <div className="w-px flex-1 bg-white/[0.06] mt-1" />
+                        <div className="w-px flex-1 bg-edge mt-1" />
                       )}
                     </div>
-                    <p className="text-[13px] text-zinc-400 pb-3">
+                    <p className="text-[13px] text-content-dim pb-3">
                       {t.event}
                     </p>
                   </div>
@@ -143,14 +143,14 @@ export default async function LearnEventPage({ params }: LearnPageProps) {
           <div className="space-y-8 mb-8">
             {event.sections.map((section, i) => (
               <div key={i}>
-                <h2 className="text-lg font-bold text-zinc-100 mb-3">
+                <h2 className="text-lg font-bold text-content mb-3">
                   {section.heading}
                 </h2>
                 <div className="space-y-3">
                   {section.content.split("\n\n").map((para, j) => (
                     <p
                       key={j}
-                      className="text-[15px] text-zinc-400 leading-relaxed"
+                      className="text-[15px] text-content-dim leading-relaxed"
                     >
                       {para}
                     </p>
@@ -162,24 +162,24 @@ export default async function LearnEventPage({ params }: LearnPageProps) {
 
           {/* Key concepts */}
           {event.key_concepts && event.key_concepts.length > 0 && (
-            <div className="mb-8 bg-[#111111] rounded-xl px-5 py-4 border border-white/[0.06]">
+            <div className="mb-8 bg-surface-raised rounded-xl px-5 py-4 border border-edge">
               <div className="flex items-center gap-2 mb-3">
-                <BookOpen size={14} className="text-violet-400" />
-                <h2 className="text-[13px] font-semibold text-violet-400 uppercase tracking-wider">
+                <BookOpen size={14} className="text-accent" />
+                <h2 className="text-[13px] font-semibold text-accent uppercase tracking-wider">
                   Key Concepts
                 </h2>
               </div>
               <div className="space-y-3">
                 {event.key_concepts.map((c, i) => (
-                  <div key={i} className="bg-black/50 rounded-lg px-3 py-2.5 border border-white/[0.04]">
-                    <p className="text-[13px] font-semibold text-zinc-200">
+                  <div key={i} className="bg-surface rounded-lg px-3 py-2.5 border border-edge">
+                    <p className="text-[13px] font-semibold text-content">
                       {c.term}
                     </p>
-                    <p className="text-[13px] text-zinc-400 leading-relaxed">
+                    <p className="text-[13px] text-content-dim leading-relaxed">
                       {c.definition}
                     </p>
                     {c.context && (
-                      <p className="text-[12px] text-zinc-600 mt-1 italic">
+                      <p className="text-[12px] text-content-faint mt-1 italic">
                         {c.context}
                       </p>
                     )}
@@ -193,8 +193,8 @@ export default async function LearnEventPage({ params }: LearnPageProps) {
           {event.discussion_questions && event.discussion_questions.length > 0 && (
             <div className="mb-8">
               <div className="flex items-center gap-2 mb-3">
-                <HelpCircle size={14} className="text-zinc-600" />
-                <h2 className="text-[13px] font-semibold text-zinc-600 uppercase tracking-wider">
+                <HelpCircle size={14} className="text-content-faint" />
+                <h2 className="text-[13px] font-semibold text-content-faint uppercase tracking-wider">
                   Think About
                 </h2>
               </div>
@@ -202,7 +202,7 @@ export default async function LearnEventPage({ params }: LearnPageProps) {
                 {event.discussion_questions.map((q, i) => (
                   <p
                     key={i}
-                    className="text-[14px] text-zinc-400 pl-4 border-l-2 border-violet-500/30 py-1"
+                    className="text-[14px] text-content-dim pl-4 border-l-2 border-edge-accent py-1"
                   >
                     {q}
                   </p>
@@ -212,8 +212,8 @@ export default async function LearnEventPage({ params }: LearnPageProps) {
           )}
 
           {/* Hint */}
-          <div className="text-center mt-8 pt-6 border-t border-white/[0.06]">
-            <p className="text-[12px] text-zinc-600 flex items-center justify-center gap-1.5">
+          <div className="text-center mt-8 pt-6 border-t border-edge">
+            <p className="text-[12px] text-content-faint flex items-center justify-center gap-1.5">
               <MessageCircle size={12} />
               Highlight any text to ask about it, or tap the chat button
             </p>

@@ -24,13 +24,13 @@ export default async function TracksPage() {
   return (
     <div className="max-w-4xl mx-auto px-5 py-8">
       <div className="mb-8">
-        <p className="text-[11px] font-medium text-zinc-600 uppercase tracking-widest mb-1">
+        <p className="text-[11px] font-medium text-content-faint uppercase tracking-widest mb-1">
           Train Your Brain
         </p>
-        <h1 className="text-2xl font-bold text-zinc-100 tracking-tight mb-2">
+        <h1 className="text-2xl font-bold text-content tracking-tight mb-2">
           Learning Tracks
         </h1>
-        <p className="text-[14px] text-zinc-400 leading-relaxed">
+        <p className="text-[14px] text-content-dim leading-relaxed">
           Bite-sized lessons on topics that matter. Each lesson takes 5-10 minutes
           and assumes zero prior knowledge.
         </p>

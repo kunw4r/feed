@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowLeft, CheckCircle, BookOpen } from "lucide-react";
+import { ArrowLeft, BookOpen } from "lucide-react";
 import TrackLessonViewer from "@/components/TrackLessonViewer";
 
 const IS_STATIC = process.env.NEXT_PUBLIC_STATIC === "true";
@@ -53,14 +53,14 @@ export default async function TrackPage({ params }: TrackPageProps) {
     return (
       <div className="max-w-3xl mx-auto px-5 py-12">
         <nav className="mb-8">
-          <Link href="/tracks" className="flex items-center gap-1 text-[13px] text-zinc-600 hover:text-zinc-100 transition-colors">
+          <Link href="/tracks" className="flex items-center gap-1 text-[13px] text-content-faint hover:text-content transition-colors">
             <ArrowLeft size={14} />
             Learning Tracks
           </Link>
         </nav>
         <div className="text-center py-20">
-          <h1 className="text-2xl font-bold text-zinc-100 mb-2">Track Not Found</h1>
-          <p className="text-zinc-400 text-[15px]">This learning track doesn&apos;t exist yet.</p>
+          <h1 className="text-2xl font-bold text-content mb-2">Track Not Found</h1>
+          <p className="text-content-dim text-[15px]">This learning track doesn&apos;t exist yet.</p>
         </div>
       </div>
     );
@@ -70,7 +70,7 @@ export default async function TrackPage({ params }: TrackPageProps) {
     <div className="max-w-3xl mx-auto px-5 py-8">
       {/* Breadcrumb */}
       <nav className="mb-6">
-        <Link href="/tracks" className="flex items-center gap-1 text-[13px] text-zinc-600 hover:text-zinc-100 transition-colors">
+        <Link href="/tracks" className="flex items-center gap-1 text-[13px] text-content-faint hover:text-content transition-colors">
           <ArrowLeft size={14} />
           Learning Tracks
         </Link>
@@ -78,21 +78,21 @@ export default async function TrackPage({ params }: TrackPageProps) {
 
       {/* Header */}
       <div className="mb-8">
-        <h1 className="text-2xl font-bold text-zinc-100 tracking-tight mb-2">
+        <h1 className="text-2xl font-bold text-content tracking-tight mb-2">
           {track.title}
         </h1>
-        <p className="text-[14px] text-zinc-400 leading-relaxed mb-3">
+        <p className="text-[14px] text-content-dim leading-relaxed mb-3">
           {track.description}
         </p>
-        <div className="flex items-center gap-2 text-[12px] text-zinc-600">
+        <div className="flex items-center gap-2 text-[12px] text-content-faint">
           <BookOpen size={13} />
           <span>{track.lessons.length} lessons</span>
-          <span className="text-zinc-800">|</span>
+          <span className="text-content-faint">|</span>
           <span>~{track.lessons.length * 7} min total</span>
         </div>
       </div>
 
-      {/* Lessons - Client component for interactivity */}
+      {/* Lessons */}
       <TrackLessonViewer lessons={track.lessons} />
     </div>
   );

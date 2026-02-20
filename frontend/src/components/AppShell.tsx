@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
+import { useTheme } from "@/lib/ThemeProvider";
 import {
   Globe,
   Map,
@@ -20,7 +21,6 @@ import {
   X,
   Newspaper,
   Shield,
-  Plane,
   Brain,
   Camera,
   Code,
@@ -28,6 +28,8 @@ import {
   Lightbulb,
   DollarSign,
   Clock,
+  Sun,
+  Moon,
 } from "lucide-react";
 
 const NEWS_REGIONS = [
@@ -87,6 +89,7 @@ export default function AppShell({ children }: AppShellProps) {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const pathname = usePathname();
   const searchParams = useSearchParams();
+  const { theme, toggle } = useTheme();
 
   const basePath = process.env.NEXT_PUBLIC_STATIC === "true" ? "/feed" : "";
 
@@ -94,7 +97,6 @@ export default function AppShell({ children }: AppShellProps) {
     const [pathPart, queryPart] = path.split("?");
     const full = basePath + pathPart;
 
-    // For paths with query params (like /?region=ASIA)
     if (queryPart) {
       const isOnRoot = pathname === full || pathname === basePath + "/";
       if (!isOnRoot) return false;
@@ -110,7 +112,6 @@ export default function AppShell({ children }: AppShellProps) {
 
   const isExactActive = (path: string) => {
     const full = basePath + path;
-    // Only active when on root with NO query params
     return pathname === full && !searchParams.get("region") && !searchParams.get("topic");
   };
 
@@ -123,18 +124,18 @@ export default function AppShell({ children }: AppShellProps) {
         onClick={() => setSidebarOpen(false)}
         className={`flex items-center gap-2.5 px-3 py-1.5 rounded-lg text-[13px] transition-colors ${
           isCurrentlyActive
-            ? "bg-violet-500/15 text-violet-400 font-medium"
-            : "text-zinc-400 hover:text-zinc-100 hover:bg-white/[0.06]"
+            ? "bg-nav-active text-nav-active-fg font-medium"
+            : "text-content-dim hover:text-content hover:bg-surface-hover"
         }`}
       >
-        <Icon size={15} className={isCurrentlyActive ? "text-violet-400" : "text-zinc-600"} />
+        <Icon size={15} className={isCurrentlyActive ? "text-accent" : "text-content-faint"} />
         <span className="truncate">{label}</span>
       </Link>
     );
   };
 
   const sectionHeader = (label: string) => (
-    <p className="px-3 text-[10px] font-semibold text-zinc-600 uppercase tracking-wider mb-1.5">
+    <p className="px-3 text-[10px] font-semibold text-content-faint uppercase tracking-wider mb-1.5">
       {label}
     </p>
   );
@@ -142,9 +143,9 @@ export default function AppShell({ children }: AppShellProps) {
   const sidebar = (
     <div className="flex flex-col h-full">
       {/* Brand */}
-      <div className="px-4 py-5 border-b border-white/[0.06]">
+      <div className="px-4 py-5 border-b border-edge">
         <Link href="/" onClick={() => setSidebarOpen(false)} className="flex items-center gap-2.5">
-          <div className="w-7 h-7 bg-violet-600 rounded-lg flex items-center justify-center">
+          <div className="w-7 h-7 bg-accent-bold rounded-lg flex items-center justify-center">
             <svg width="16" height="16" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
               <circle cx="30" cy="70" r="8" fill="white"/>
               <path d="M30 50 a20 20 0 0 1 20 20" stroke="white" strokeWidth="7" strokeLinecap="round"/>
@@ -152,8 +153,8 @@ export default function AppShell({ children }: AppShellProps) {
             </svg>
           </div>
           <div>
-            <p className="text-[14px] font-bold text-zinc-100 leading-tight">Brainfeed</p>
-            <p className="text-[11px] text-zinc-600 leading-tight">Feed your curiosity</p>
+            <p className="text-[14px] font-bold text-content leading-tight">Brainfeed</p>
+            <p className="text-[11px] text-content-faint leading-tight">Feed your curiosity</p>
           </div>
         </Link>
       </div>
@@ -204,7 +205,7 @@ export default function AppShell({ children }: AppShellProps) {
               <Link
                 href="/tracks"
                 onClick={() => setSidebarOpen(false)}
-                className="flex items-center gap-2.5 px-3 py-1 text-[12px] text-zinc-600 hover:text-zinc-400 transition-colors"
+                className="flex items-center gap-2.5 px-3 py-1 text-[12px] text-content-faint hover:text-content-dim transition-colors"
               >
                 +{TRACKS.length - 5} more tracks
               </Link>
@@ -226,11 +227,11 @@ export default function AppShell({ children }: AppShellProps) {
                 onClick={() => setSidebarOpen(false)}
                 className={`flex items-center gap-2.5 px-3 py-1.5 rounded-lg text-[13px] transition-colors ${
                   isActive(`/learn/${l.slug}`)
-                    ? "bg-violet-500/15 text-violet-400 font-medium"
-                    : "text-zinc-400 hover:text-zinc-100 hover:bg-white/[0.06]"
+                    ? "bg-nav-active text-nav-active-fg font-medium"
+                    : "text-content-dim hover:text-content hover:bg-surface-hover"
                 }`}
               >
-                <Lightbulb size={15} className={isActive(`/learn/${l.slug}`) ? "text-violet-400" : "text-zinc-600"} />
+                <Lightbulb size={15} className={isActive(`/learn/${l.slug}`) ? "text-accent" : "text-content-faint"} />
                 <span className="truncate">{l.label}</span>
               </Link>
             ))}
@@ -239,10 +240,17 @@ export default function AppShell({ children }: AppShellProps) {
       </div>
 
       {/* Footer */}
-      <div className="px-4 py-3 border-t border-white/[0.06]">
-        <p className="text-[11px] text-zinc-600">
+      <div className="px-4 py-3 border-t border-edge flex items-center justify-between">
+        <p className="text-[11px] text-content-faint">
           Feed your curiosity
         </p>
+        <button
+          onClick={toggle}
+          className="p-1.5 rounded-lg hover:bg-surface-hover transition-colors text-content-dim"
+          title={theme === "dark" ? "Switch to light mode" : "Switch to dark mode"}
+        >
+          {theme === "dark" ? <Sun size={16} /> : <Moon size={16} />}
+        </button>
       </div>
     </div>
   );
@@ -250,38 +258,46 @@ export default function AppShell({ children }: AppShellProps) {
   return (
     <div className="flex min-h-screen">
       {/* Desktop sidebar */}
-      <aside className="hidden lg:flex w-[240px] flex-shrink-0 bg-[#0a0a0a] border-r border-white/[0.06] flex-col fixed inset-y-0 left-0 z-20">
+      <aside className="hidden lg:flex w-[240px] flex-shrink-0 bg-surface-inset border-r border-edge flex-col fixed inset-y-0 left-0 z-20">
         {sidebar}
       </aside>
 
       {/* Mobile header */}
-      <header className="lg:hidden fixed top-0 left-0 right-0 z-30 bg-black/90 backdrop-blur-sm border-b border-white/[0.06] px-4 py-3 flex items-center justify-between">
+      <header className="lg:hidden fixed top-0 left-0 right-0 z-30 bg-surface-header backdrop-blur-sm border-b border-edge px-4 py-3 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
-          <div className="w-6 h-6 bg-violet-600 rounded-md flex items-center justify-center">
+          <div className="w-6 h-6 bg-accent-bold rounded-md flex items-center justify-center">
             <svg width="12" height="12" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
               <circle cx="30" cy="70" r="8" fill="white"/>
               <path d="M30 50 a20 20 0 0 1 20 20" stroke="white" strokeWidth="7" strokeLinecap="round"/>
               <path d="M30 32 a38 38 0 0 1 38 38" stroke="white" strokeWidth="7" strokeLinecap="round"/>
             </svg>
           </div>
-          <span className="text-[14px] font-bold text-zinc-100">Brainfeed</span>
+          <span className="text-[14px] font-bold text-content">Brainfeed</span>
         </Link>
-        <button
-          onClick={() => setSidebarOpen(!sidebarOpen)}
-          className="p-1.5 rounded-lg hover:bg-white/[0.06] transition-colors text-zinc-400"
-        >
-          {sidebarOpen ? <X size={20} /> : <Menu size={20} />}
-        </button>
+        <div className="flex items-center gap-1">
+          <button
+            onClick={toggle}
+            className="p-1.5 rounded-lg hover:bg-surface-hover transition-colors text-content-dim"
+          >
+            {theme === "dark" ? <Sun size={18} /> : <Moon size={18} />}
+          </button>
+          <button
+            onClick={() => setSidebarOpen(!sidebarOpen)}
+            className="p-1.5 rounded-lg hover:bg-surface-hover transition-colors text-content-dim"
+          >
+            {sidebarOpen ? <X size={20} /> : <Menu size={20} />}
+          </button>
+        </div>
       </header>
 
       {/* Mobile sidebar overlay */}
       {sidebarOpen && (
         <>
           <div
-            className="lg:hidden fixed inset-0 bg-black/60 z-30"
+            className="lg:hidden fixed inset-0 bg-surface-overlay z-30"
             onClick={() => setSidebarOpen(false)}
           />
-          <aside className="lg:hidden fixed inset-y-0 left-0 w-[280px] bg-[#0a0a0a] z-40 shadow-xl slide-in">
+          <aside className="lg:hidden fixed inset-y-0 left-0 w-[280px] bg-surface-inset z-40 shadow-xl slide-in">
             {sidebar}
           </aside>
         </>

@@ -31,9 +31,9 @@ interface ChallengesClientProps {
 }
 
 const TYPE_CONFIG: Record<string, { label: string; icon: React.ComponentType<{ size?: number; className?: string }>; colour: string; bg: string }> = {
-  coding: { label: "Coding", icon: Code, colour: "text-sky-400", bg: "bg-sky-500/10" },
-  brain_teaser: { label: "Brain Teaser", icon: Brain, colour: "text-amber-400", bg: "bg-amber-500/10" },
-  finance: { label: "Finance", icon: DollarSign, colour: "text-emerald-400", bg: "bg-emerald-500/10" },
+  coding: { label: "Coding", icon: Code, colour: "text-cat-scitech", bg: "bg-cat-scitech-bg" },
+  brain_teaser: { label: "Brain Teaser", icon: Brain, colour: "text-cat-society", bg: "bg-cat-society-bg" },
+  finance: { label: "Finance", icon: DollarSign, colour: "text-cat-economy", bg: "bg-cat-economy-bg" },
 };
 
 const DIFFICULTY_CONFIG: Record<string, { label: string; colour: string }> = {
@@ -66,13 +66,13 @@ export default function ChallengesClient({ challenges }: ChallengesClientProps) 
     <div className="max-w-3xl mx-auto px-5 py-8">
       {/* Header */}
       <div className="mb-6">
-        <p className="text-[11px] font-medium text-zinc-600 uppercase tracking-widest mb-1">
+        <p className="text-[11px] font-medium text-content-faint uppercase tracking-widest mb-1">
           Train Your Brain
         </p>
-        <h1 className="text-2xl font-bold text-zinc-100 tracking-tight mb-2">
+        <h1 className="text-2xl font-bold text-content tracking-tight mb-2">
           Daily Challenges
         </h1>
-        <p className="text-[14px] text-zinc-400 leading-relaxed">
+        <p className="text-[14px] text-content-dim leading-relaxed">
           Quick 5-10 minute exercises to sharpen your thinking. Try to solve them
           before revealing the solution.
         </p>
@@ -84,8 +84,8 @@ export default function ChallengesClient({ challenges }: ChallengesClientProps) 
           onClick={() => setActiveType(null)}
           className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-[12px] font-medium transition-all ${
             !activeType
-              ? "bg-violet-600 text-white"
-              : "bg-[#111111] text-zinc-400 border border-white/[0.06] hover:border-white/[0.12]"
+              ? "bg-accent-bold text-white"
+              : "bg-surface-raised text-content-dim border border-edge hover:border-edge-accent"
           }`}
         >
           <Zap size={12} />
@@ -101,8 +101,8 @@ export default function ChallengesClient({ challenges }: ChallengesClientProps) 
               onClick={() => setActiveType(activeType === type ? null : type)}
               className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-[12px] font-medium transition-all ${
                 activeType === type
-                  ? "bg-violet-600 text-white"
-                  : "bg-[#111111] text-zinc-400 border border-white/[0.06] hover:border-white/[0.12]"
+                  ? "bg-accent-bold text-white"
+                  : "bg-surface-raised text-content-dim border border-edge hover:border-edge-accent"
               }`}
             >
               <Icon size={12} />
@@ -123,12 +123,12 @@ export default function ChallengesClient({ challenges }: ChallengesClientProps) 
           return (
             <div
               key={challenge.id}
-              className="bg-[#111111] rounded-2xl border border-white/[0.06] overflow-hidden transition-all"
+              className="bg-surface-raised rounded-2xl border border-edge overflow-hidden transition-all"
             >
               {/* Challenge header */}
               <button
                 onClick={() => setExpandedId(isExpanded ? null : challenge.id)}
-                className="w-full text-left px-5 py-4 flex items-start gap-3 hover:bg-white/[0.03] transition-colors"
+                className="w-full text-left px-5 py-4 flex items-start gap-3 hover:bg-surface-hover transition-colors"
               >
                 <div className={`w-8 h-8 rounded-lg ${typeConfig.bg} flex items-center justify-center flex-shrink-0`}>
                   <TypeIcon size={16} className={typeConfig.colour} />
@@ -141,28 +141,28 @@ export default function ChallengesClient({ challenges }: ChallengesClientProps) 
                     <span className={`text-[11px] font-medium ${diffConfig.colour}`}>
                       {diffConfig.label}
                     </span>
-                    <span className="flex items-center gap-0.5 text-[11px] text-zinc-600">
+                    <span className="flex items-center gap-0.5 text-[11px] text-content-faint">
                       <Clock size={10} />
                       {challenge.estimated_minutes} min
                     </span>
                   </div>
-                  <h3 className="text-[15px] font-semibold text-zinc-100">
+                  <h3 className="text-[15px] font-semibold text-content">
                     {challenge.title}
                   </h3>
                 </div>
                 {isExpanded ? (
-                  <ChevronDown size={16} className="text-zinc-600 mt-1 flex-shrink-0" />
+                  <ChevronDown size={16} className="text-content-faint mt-1 flex-shrink-0" />
                 ) : (
-                  <ChevronRight size={16} className="text-zinc-700 mt-1 flex-shrink-0" />
+                  <ChevronRight size={16} className="text-content-faint mt-1 flex-shrink-0" />
                 )}
               </button>
 
               {/* Expanded content */}
               {isExpanded && (
                 <div className="px-5 pb-5 pt-0">
-                  <div className="border-t border-white/[0.06] pt-4">
+                  <div className="border-t border-edge pt-4">
                     {/* Description */}
-                    <p className="text-[14px] text-zinc-300 leading-relaxed mb-4">
+                    <p className="text-[14px] text-content-dim leading-relaxed mb-4">
                       {challenge.description}
                     </p>
 
@@ -190,7 +190,7 @@ export default function ChallengesClient({ challenges }: ChallengesClientProps) 
                     <div>
                       <button
                         onClick={() => toggleSolution(challenge.id)}
-                        className="flex items-center gap-2 px-3 py-2 rounded-lg text-[13px] font-medium bg-white/[0.06] text-zinc-300 hover:bg-white/[0.1] transition-colors"
+                        className="flex items-center gap-2 px-3 py-2 rounded-lg text-[13px] font-medium bg-surface-hover text-content-dim hover:text-content transition-colors"
                       >
                         {showSolution[challenge.id] ? (
                           <><EyeOff size={14} /> Hide solution</>
@@ -200,7 +200,7 @@ export default function ChallengesClient({ challenges }: ChallengesClientProps) 
                       </button>
                       {showSolution[challenge.id] && (
                         <div className="mt-2">
-                          <pre className="bg-black text-zinc-200 rounded-lg px-4 py-3 text-[13px] font-mono leading-relaxed overflow-x-auto whitespace-pre-wrap border border-white/[0.06]">
+                          <pre className="bg-code-bg text-content rounded-lg px-4 py-3 text-[13px] font-mono leading-relaxed overflow-x-auto whitespace-pre-wrap border border-edge">
                             {challenge.solution}
                           </pre>
                         </div>

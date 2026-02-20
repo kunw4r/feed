@@ -17,18 +17,18 @@ export default function Header({ date, storyCount, regionCount }: HeaderProps) {
   return (
     <header className="pb-6 mb-6">
       <div className="flex items-center gap-2 mb-4">
-        <span className="text-sm font-semibold text-zinc-100 tracking-tight">
+        <span className="text-sm font-semibold text-content tracking-tight">
           Brainfeed
         </span>
       </div>
 
-      <p className="text-xs font-medium text-zinc-600 uppercase tracking-widest mb-2">
+      <p className="text-xs font-medium text-content-faint uppercase tracking-widest mb-2">
         {formatted}
       </p>
-      <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-zinc-100 mb-2">
+      <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-content mb-2">
         What&apos;s Happening in the World
       </h1>
-      <p className="text-zinc-400 text-[15px]">
+      <p className="text-content-dim text-[15px]">
         {storyCount} stories across {regionCount} regions — simplified so you actually understand what&apos;s going on.
       </p>
     </header>

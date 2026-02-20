@@ -37,7 +37,6 @@ function generateOfflineAnswer(
 ): string {
   const q = question.toLowerCase();
 
-  // Check if question matches a concept
   const relevant = findRelevantConcepts(question, concepts);
   if (relevant.length > 0) {
     const parts = relevant.map(
@@ -46,7 +45,6 @@ function generateOfflineAnswer(
     return parts.join("\n\n---\n\n") + "\n\n*Tap other highlighted terms in the story to learn more.*";
   }
 
-  // Generic helpful responses
   if (q.includes("why") && (q.includes("care") || q.includes("matter"))) {
     return "Check the 'Why should you care?' section above the story — it explains how this directly affects you. The key concepts glossary below also breaks down the important terms.";
   }
@@ -76,7 +74,6 @@ export default function AskChat({
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
-  // Check if API is available
   useEffect(() => {
     if (!API_URL) {
       setApiAvailable(false);
@@ -87,7 +84,6 @@ export default function AskChat({
       .catch(() => setApiAvailable(false));
   }, []);
 
-  // Send initial question if provided
   useEffect(() => {
     if (initialQuestion && apiAvailable !== null) {
       sendMessage(initialQuestion);
@@ -111,7 +107,6 @@ export default function AskChat({
     setInput("");
     setLoading(true);
 
-    // Try live API first
     if (apiAvailable) {
       try {
         const res = await fetch(`${API_URL}/api/chat`, {
@@ -139,7 +134,6 @@ export default function AskChat({
       }
     }
 
-    // Offline mode: use concept data
     const answer = generateOfflineAnswer(text.trim(), concepts, storyContext);
     setMessages((prev) => [...prev, { role: "assistant", content: answer }]);
     setLoading(false);
@@ -149,28 +143,28 @@ export default function AskChat({
     <div className="fixed inset-0 z-50 flex justify-end">
       {/* Backdrop */}
       <div
-        className="absolute inset-0 bg-black/60 backdrop-blur-sm"
+        className="absolute inset-0 bg-surface-overlay backdrop-blur-sm"
         onClick={onClose}
       />
 
       {/* Panel */}
-      <div className="relative w-full max-w-md bg-[#0a0a0a] shadow-xl flex flex-col animate-in border-l border-white/[0.06]">
+      <div className="relative w-full max-w-md bg-surface-inset shadow-xl flex flex-col animate-in border-l border-edge">
         {/* Header */}
-        <div className="flex items-center justify-between px-5 py-4 border-b border-white/[0.06]">
+        <div className="flex items-center justify-between px-5 py-4 border-b border-edge">
           <div>
-            <h3 className="text-[14px] font-semibold text-zinc-100">
+            <h3 className="text-[14px] font-semibold text-content">
               Ask about this story
             </h3>
-            <p className="text-[12px] text-zinc-600 mt-0.5 line-clamp-1">
+            <p className="text-[12px] text-content-faint mt-0.5 line-clamp-1">
               {storyTitle}
             </p>
           </div>
           <button
             onClick={onClose}
-            className="p-1.5 rounded-lg hover:bg-white/[0.06] transition-colors"
+            className="p-1.5 rounded-lg hover:bg-surface-hover transition-colors"
           >
             <svg
-              className="w-4 h-4 text-zinc-600"
+              className="w-4 h-4 text-content-faint"
               fill="none"
               viewBox="0 0 24 24"
               strokeWidth={2}
@@ -190,10 +184,10 @@ export default function AskChat({
           {messages.length === 0 && (
             <div className="text-center py-8">
               <div className="text-2xl mb-3">💬</div>
-              <p className="text-[14px] text-zinc-300 mb-1">
+              <p className="text-[14px] text-content-dim mb-1">
                 Ask me anything about this story
               </p>
-              <p className="text-[12px] text-zinc-600 mb-4">
+              <p className="text-[12px] text-content-faint mb-4">
                 I&apos;ll explain terms, context, and why it matters
               </p>
               <div className="flex flex-wrap gap-2 justify-center">
@@ -206,7 +200,7 @@ export default function AskChat({
                   <button
                     key={q}
                     onClick={() => sendMessage(q)}
-                    className="text-[12px] px-3 py-1.5 bg-white/[0.06] text-zinc-400 rounded-full hover:bg-white/[0.1] transition-colors"
+                    className="text-[12px] px-3 py-1.5 bg-surface-hover text-content-dim rounded-full hover:text-content transition-colors"
                   >
                     {q}
                   </button>
@@ -223,8 +217,8 @@ export default function AskChat({
               <div
                 className={`max-w-[85%] rounded-2xl px-4 py-2.5 text-[14px] leading-relaxed ${
                   msg.role === "user"
-                    ? "bg-violet-600 text-white"
-                    : "bg-white/[0.06] text-zinc-300"
+                    ? "bg-accent-bold text-white"
+                    : "bg-surface-hover text-content-dim"
                 }`}
               >
                 {msg.content.split("\n\n").map((para, j) => (
@@ -244,15 +238,15 @@ export default function AskChat({
 
           {loading && (
             <div className="flex justify-start">
-              <div className="bg-white/[0.06] rounded-2xl px-4 py-3">
+              <div className="bg-surface-hover rounded-2xl px-4 py-3">
                 <div className="flex gap-1.5">
-                  <span className="w-2 h-2 bg-violet-400 rounded-full animate-bounce" />
+                  <span className="w-2 h-2 bg-accent rounded-full animate-bounce" />
                   <span
-                    className="w-2 h-2 bg-violet-400 rounded-full animate-bounce"
+                    className="w-2 h-2 bg-accent rounded-full animate-bounce"
                     style={{ animationDelay: "0.15s" }}
                   />
                   <span
-                    className="w-2 h-2 bg-violet-400 rounded-full animate-bounce"
+                    className="w-2 h-2 bg-accent rounded-full animate-bounce"
                     style={{ animationDelay: "0.3s" }}
                   />
                 </div>
@@ -264,7 +258,7 @@ export default function AskChat({
         </div>
 
         {/* Input */}
-        <div className="px-5 py-4 border-t border-white/[0.06]">
+        <div className="px-5 py-4 border-t border-edge">
           <form
             onSubmit={(e) => {
               e.preventDefault();
@@ -279,12 +273,12 @@ export default function AskChat({
               onChange={(e) => setInput(e.target.value)}
               placeholder="Ask a question..."
               disabled={loading}
-              className="flex-1 bg-[#111111] rounded-xl px-4 py-2.5 text-[14px] text-zinc-100 placeholder-zinc-600 outline-none focus:ring-2 focus:ring-violet-500/30 border border-white/[0.06] transition-all disabled:opacity-50"
+              className="flex-1 bg-surface-raised rounded-xl px-4 py-2.5 text-[14px] text-content placeholder-content-faint outline-none focus:ring-2 focus:ring-edge-focus border border-edge transition-all disabled:opacity-50"
             />
             <button
               type="submit"
               disabled={!input.trim() || loading}
-              className="bg-violet-600 text-white rounded-xl px-4 py-2.5 text-[13px] font-medium hover:bg-violet-500 transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
+              className="bg-accent-bold text-white rounded-xl px-4 py-2.5 text-[13px] font-medium hover:bg-accent-bold-hover transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
             >
               Ask
             </button>

@@ -25,7 +25,7 @@ export default function ShareButton({ title }: { title: string }) {
 
   return (
     <button
-      className="inline-flex items-center gap-2 px-3.5 py-2 text-[13px] font-medium text-zinc-400 bg-white/[0.06] rounded-lg hover:bg-white/[0.1] hover:text-zinc-200 transition-all duration-150"
+      className="inline-flex items-center gap-2 px-3.5 py-2 text-[13px] font-medium text-content-dim bg-surface-hover rounded-lg hover:text-content transition-all duration-150"
       onClick={handleShare}
     >
       <svg

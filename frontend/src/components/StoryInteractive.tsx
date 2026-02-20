@@ -44,7 +44,7 @@ export default function StoryInteractive({
           setInitialQuestion(undefined);
           setChatOpen(true);
         }}
-        className="fixed bottom-6 right-6 z-30 bg-violet-600 text-white rounded-full p-3.5 shadow-lg shadow-violet-500/20 hover:bg-violet-500 hover:scale-105 transition-all duration-150"
+        className="fixed bottom-6 right-6 z-30 bg-accent-bold text-white rounded-full p-3.5 shadow-lg hover:bg-accent-bold-hover hover:scale-105 transition-all duration-150"
         title="Ask about this story"
       >
         <MessageCircle size={20} />

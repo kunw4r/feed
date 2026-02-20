@@ -55,7 +55,6 @@ export default function Dashboard({ briefing }: DashboardProps) {
   const [activeRegion, setActiveRegion] = useState<string | null>(urlRegion);
   const [activeTopic, setActiveTopic] = useState<string | null>(urlTopic);
 
-  // Sync state with URL params when sidebar links are clicked
   useEffect(() => {
     setActiveRegion(urlRegion);
     setActiveTopic(urlTopic);
@@ -132,17 +131,17 @@ export default function Dashboard({ briefing }: DashboardProps) {
     <div className="max-w-4xl mx-auto px-5 py-8">
       {/* Header */}
       <div className="mb-6">
-        <p className="text-[11px] font-medium text-zinc-600 uppercase tracking-widest mb-1">
+        <p className="text-[11px] font-medium text-content-faint uppercase tracking-widest mb-1">
           {formatted}
         </p>
-        <h1 className="text-2xl font-bold text-zinc-100 tracking-tight mb-1">
+        <h1 className="text-2xl font-bold text-content tracking-tight mb-1">
           {activeRegion
             ? REGION_CONFIG[activeRegion]?.label || "Stories"
             : activeTopic
               ? (CATEGORY_CONFIG[activeTopic as keyof typeof CATEGORY_CONFIG]?.label || activeTopic)
               : "Today's Feed"}
         </h1>
-        <p className="text-[14px] text-zinc-400">
+        <p className="text-[14px] text-content-dim">
           {filteredStories.length} stories
           {hasFilters ? " matching your filters" : ` across ${Object.keys(briefing.regions).length} regions`}
         </p>
@@ -150,9 +149,8 @@ export default function Dashboard({ briefing }: DashboardProps) {
 
       {/* Filter pills */}
       <div className="flex items-center gap-2 mb-6 overflow-x-auto scrollbar-hide pb-1">
-        <Filter size={14} className="text-zinc-600 flex-shrink-0" />
+        <Filter size={14} className="text-content-faint flex-shrink-0" />
 
-        {/* Region filters */}
         {Object.keys(REGION_CONFIG).map((code) => {
           const config = REGION_CONFIG[code];
           const Icon = REGION_ICONS[code] || Globe;
@@ -166,8 +164,8 @@ export default function Dashboard({ briefing }: DashboardProps) {
               onClick={() => setActiveRegion(isActive ? null : code)}
               className={`flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[12px] font-medium whitespace-nowrap transition-all ${
                 isActive
-                  ? "bg-violet-600 text-white"
-                  : "bg-[#111111] text-zinc-400 border border-white/[0.06] hover:border-white/[0.12] hover:text-zinc-200"
+                  ? "bg-accent-bold text-white"
+                  : "bg-surface-raised text-content-dim border border-edge hover:border-edge-accent hover:text-content"
               }`}
             >
               <Icon size={12} />
@@ -179,7 +177,7 @@ export default function Dashboard({ briefing }: DashboardProps) {
         {hasFilters && (
           <button
             onClick={clearFilters}
-            className="flex items-center gap-1 px-2 py-1 rounded-lg text-[12px] text-zinc-600 hover:text-zinc-400 transition-colors"
+            className="flex items-center gap-1 px-2 py-1 rounded-lg text-[12px] text-content-faint hover:text-content-dim transition-colors"
           >
             <X size={12} />
             Clear
@@ -187,7 +185,7 @@ export default function Dashboard({ briefing }: DashboardProps) {
         )}
       </div>
 
-      {/* Topic sub-filters (show when not filtering by topic already) */}
+      {/* Topic sub-filters */}
       {!activeTopic && (
         <div className="flex gap-1.5 mb-6 overflow-x-auto scrollbar-hide pb-1">
           {Object.entries(CATEGORY_CONFIG).map(([code, config]) => {
@@ -199,11 +197,11 @@ export default function Dashboard({ briefing }: DashboardProps) {
               <button
                 key={code}
                 onClick={() => setActiveTopic(code)}
-                className="flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[11px] font-medium whitespace-nowrap bg-[#111111] text-zinc-400 border border-white/[0.06] hover:border-white/[0.12] hover:text-zinc-200 transition-all"
+                className="flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[11px] font-medium whitespace-nowrap bg-surface-raised text-content-dim border border-edge hover:border-edge-accent hover:text-content transition-all"
               >
                 <Icon size={11} />
                 {config.label}
-                <span className="text-zinc-600">{count}</span>
+                <span className="text-content-faint">{count}</span>
               </button>
             );
           })}
@@ -213,7 +211,7 @@ export default function Dashboard({ briefing }: DashboardProps) {
       {activeTopic && (
         <button
           onClick={() => setActiveTopic(null)}
-          className="flex items-center gap-1.5 mb-6 px-2.5 py-1 rounded-lg text-[12px] font-medium bg-violet-600 text-white"
+          className="flex items-center gap-1.5 mb-6 px-2.5 py-1 rounded-lg text-[12px] font-medium bg-accent-bold text-white"
         >
           {CATEGORY_CONFIG[activeTopic as keyof typeof CATEGORY_CONFIG]?.label || activeTopic}
           <X size={12} />
@@ -229,12 +227,12 @@ export default function Dashboard({ briefing }: DashboardProps) {
 
       {filteredStories.length === 0 && (
         <div className="text-center py-16">
-          <p className="text-zinc-600 text-[14px] mb-2">
+          <p className="text-content-faint text-[14px] mb-2">
             No stories match these filters.
           </p>
           <button
             onClick={clearFilters}
-            className="text-[13px] text-zinc-400 hover:text-zinc-100 underline underline-offset-2"
+            className="text-[13px] text-content-dim hover:text-content underline underline-offset-2"
           >
             Clear filters
           </button>

@@ -34,7 +34,7 @@ function parseAnalysis(raw: string): Section[] {
     const content = part.slice(newlineIdx + 1).trim();
     if (!content) continue;
 
-    const config = SECTION_CONFIG[title] || { icon: Eye, accent: "border-l-zinc-700" };
+    const config = SECTION_CONFIG[title] || { icon: Eye, accent: "border-l-content-faint" };
 
     sections.push({
       title,
@@ -58,30 +58,29 @@ function SectionBlock({
   const Icon = section.icon;
 
   return (
-    <div className={`border-l-2 ${section.accent} rounded-r-lg bg-[#111111]`}>
+    <div className={`border-l-2 ${section.accent} rounded-r-lg bg-surface-raised`}>
       <button
         onClick={() => setOpen(!open)}
-        className="w-full flex items-center gap-2.5 px-3 py-2.5 text-left hover:bg-white/[0.03] transition-colors rounded-r-lg"
+        className="w-full flex items-center gap-2.5 px-3 py-2.5 text-left hover:bg-surface-hover transition-colors rounded-r-lg"
       >
-        <Icon size={14} className="text-zinc-600" />
-        <span className="text-[13px] font-semibold text-zinc-200 flex-1">
+        <Icon size={14} className="text-content-faint" />
+        <span className="text-[13px] font-semibold text-content flex-1">
           {section.title}
         </span>
         <ChevronDown
           size={14}
-          className={`text-zinc-600 transition-transform duration-200 ${open ? "rotate-180" : ""}`}
+          className={`text-content-faint transition-transform duration-200 ${open ? "rotate-180" : ""}`}
         />
       </button>
       {open && (
         <div className="px-3 pb-3 animate-in">
-          <div className="text-[13px] text-zinc-400 leading-relaxed space-y-2 pl-7">
+          <div className="text-[13px] text-content-dim leading-relaxed space-y-2 pl-7">
             {section.content.split("\n\n").map((para, i) => {
-              // Handle bold text (**text**)
               const parts = para.split(/\*\*(.+?)\*\*/g);
               return (
                 <p key={i}>
                   {parts.map((seg, j) =>
-                    j % 2 === 1 ? <strong key={j} className="text-zinc-200">{seg}</strong> : <span key={j}>{seg}</span>
+                    j % 2 === 1 ? <strong key={j} className="text-content">{seg}</strong> : <span key={j}>{seg}</span>
                   )}
                 </p>
               );
@@ -101,7 +100,7 @@ export default function DeepAnalysisView({
 
   if (sections.length === 0) {
     return (
-      <div className="text-zinc-400 text-[14px] leading-relaxed space-y-3">
+      <div className="text-content-dim text-[14px] leading-relaxed space-y-3">
         {analysis.split("\n\n").map((para, i) => (
           <p key={i}>{para}</p>
         ))}
@@ -111,7 +110,7 @@ export default function DeepAnalysisView({
 
   return (
     <div>
-      <h2 className="text-[13px] font-semibold text-zinc-600 uppercase tracking-wider mb-3">
+      <h2 className="text-[13px] font-semibold text-content-faint uppercase tracking-wider mb-3">
         Deep Analysis
       </h2>
       <div className="space-y-1.5">

@@ -36,9 +36,9 @@ export default function SourcePanel({
   const isSingleSource = sourceCount <= 1 && sources.length <= 1;
 
   return (
-    <div className="mt-4 pt-4 border-t border-white/[0.06]">
+    <div className="mt-4 pt-4 border-t border-edge">
       <div className="flex items-center gap-3 flex-wrap mb-3">
-        <span className="text-[11px] font-semibold text-zinc-600 uppercase tracking-wider">
+        <span className="text-[11px] font-semibold text-content-faint uppercase tracking-wider">
           Sources
         </span>
         <ConfidencePill confidence={confidence} />
@@ -71,11 +71,11 @@ export default function SourcePanel({
               href={source.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-2 text-[13px] text-zinc-400 hover:text-zinc-100 transition-colors group"
+              className="flex items-center gap-2 text-[13px] text-content-dim hover:text-content transition-colors group"
             >
-              <span className="w-1 h-1 rounded-full bg-zinc-700 group-hover:bg-zinc-400 transition-colors flex-shrink-0" />
+              <span className="w-1 h-1 rounded-full bg-content-faint group-hover:bg-content-dim transition-colors flex-shrink-0" />
               <span className="hover:underline underline-offset-2">{source.name}</span>
-              <svg className="w-3 h-3 text-zinc-700 group-hover:text-zinc-400 transition-colors" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
+              <svg className="w-3 h-3 text-content-faint group-hover:text-content-dim transition-colors" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
               </svg>
             </a>

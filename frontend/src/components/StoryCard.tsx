@@ -16,7 +16,7 @@ export default function StoryCard({ story }: StoryCardProps) {
   return (
     <Link
       href={`/story/${story.id}`}
-      className="block group bg-[#111111] rounded-2xl border border-white/[0.06] hover:border-violet-500/20 hover:glow-violet transition-all duration-150 px-5 py-4"
+      className="block group bg-surface-raised rounded-2xl border border-edge hover:border-edge-accent hover:glow-card transition-all duration-150 px-5 py-4"
     >
       <div className="flex items-start gap-3">
         <div className="flex-1 min-w-0">
@@ -28,7 +28,7 @@ export default function StoryCard({ story }: StoryCardProps) {
               {catConfig.label}
             </span>
             {regionConfig && (
-              <span className="text-[11px] text-zinc-600">
+              <span className="text-[11px] text-content-faint">
                 {regionConfig.label}
               </span>
             )}
@@ -41,25 +41,25 @@ export default function StoryCard({ story }: StoryCardProps) {
           </div>
 
           {/* Title */}
-          <h3 className="text-[15px] font-semibold leading-snug text-zinc-100 mb-1 group-hover:text-violet-300 transition-colors">
+          <h3 className="text-[15px] font-semibold leading-snug text-content mb-1 group-hover:text-accent-hover transition-colors">
             {story.simplified_title}
           </h3>
 
           {/* Summary */}
-          <p className="text-zinc-400 text-[13px] leading-relaxed line-clamp-2 mb-1.5">
+          <p className="text-content-dim text-[13px] leading-relaxed line-clamp-2 mb-1.5">
             {story.quick_summary}
           </p>
 
           {/* Bottom meta */}
           <div className="flex items-center gap-3">
             {conceptCount > 0 && (
-              <span className="flex items-center gap-1 text-[11px] text-violet-400">
+              <span className="flex items-center gap-1 text-[11px] text-accent">
                 <BookOpen size={11} />
                 {conceptCount} concepts explained
               </span>
             )}
             {story.deep_analysis && (
-              <span className="text-[11px] text-zinc-600">
+              <span className="text-[11px] text-content-faint">
                 Deep analysis available
               </span>
             )}
@@ -68,7 +68,7 @@ export default function StoryCard({ story }: StoryCardProps) {
 
         <ChevronRight
           size={16}
-          className="text-zinc-700 group-hover:text-violet-400 transition-colors mt-1 flex-shrink-0"
+          className="text-content-faint group-hover:text-accent transition-colors mt-1 flex-shrink-0"
         />
       </div>
     </Link>

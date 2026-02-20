@@ -41,12 +41,12 @@ export default function TrackLessonViewer({ lessons }: TrackLessonViewerProps) {
       {/* Progress bar */}
       <div className="mb-6">
         <div className="flex items-center justify-between mb-1.5">
-          <span className="text-[12px] font-medium text-zinc-400">Progress</span>
-          <span className="text-[12px] text-zinc-600">{completedLessons.size}/{lessons.length} completed</span>
+          <span className="text-[12px] font-medium text-content-dim">Progress</span>
+          <span className="text-[12px] text-content-faint">{completedLessons.size}/{lessons.length} completed</span>
         </div>
-        <div className="w-full h-1.5 bg-white/[0.06] rounded-full overflow-hidden">
+        <div className="w-full h-1.5 bg-edge rounded-full overflow-hidden">
           <div
-            className="h-full bg-violet-500 rounded-full transition-all duration-300"
+            className="h-full bg-accent-bold rounded-full transition-all duration-300"
             style={{ width: `${progress}%` }}
           />
         </div>
@@ -62,14 +62,14 @@ export default function TrackLessonViewer({ lessons }: TrackLessonViewerProps) {
               onClick={() => setActiveLesson(i)}
               className={`w-full text-left flex items-center gap-2.5 px-3 py-2 rounded-lg text-[13px] transition-colors ${
                 activeLesson === i
-                  ? "bg-violet-500/15 text-violet-400"
-                  : "text-zinc-400 hover:bg-white/[0.06]"
+                  ? "bg-nav-active text-nav-active-fg"
+                  : "text-content-dim hover:bg-surface-hover"
               }`}
             >
               {completedLessons.has(i) ? (
-                <CheckCircle size={14} className={activeLesson === i ? "text-violet-400" : "text-green-400"} />
+                <CheckCircle size={14} className={activeLesson === i ? "text-accent" : "text-green-400"} />
               ) : (
-                <Circle size={14} className={activeLesson === i ? "text-violet-400" : "text-zinc-700"} />
+                <Circle size={14} className={activeLesson === i ? "text-accent" : "text-content-faint"} />
               )}
               <span className="truncate">{l.title}</span>
             </button>
@@ -81,7 +81,7 @@ export default function TrackLessonViewer({ lessons }: TrackLessonViewerProps) {
           <select
             value={activeLesson}
             onChange={(e) => setActiveLesson(Number(e.target.value))}
-            className="w-full px-3 py-2 rounded-lg border border-white/[0.06] text-[13px] text-zinc-200 bg-[#111111]"
+            className="w-full px-3 py-2 rounded-lg border border-edge text-[13px] text-content bg-surface-raised"
           >
             {lessons.map((l, i) => (
               <option key={i} value={i}>
@@ -93,17 +93,17 @@ export default function TrackLessonViewer({ lessons }: TrackLessonViewerProps) {
 
         {/* Right: lesson content */}
         <div className="flex-1 min-w-0">
-          <div className="bg-[#111111] rounded-2xl border border-white/[0.06] px-6 py-6">
-            <div className="flex items-center gap-2 mb-1 text-[11px] text-zinc-600">
+          <div className="bg-surface-raised rounded-2xl border border-edge px-6 py-6">
+            <div className="flex items-center gap-2 mb-1 text-[11px] text-content-faint">
               <BookOpen size={12} />
               Lesson {activeLesson + 1} of {lessons.length}
             </div>
-            <h2 className="text-xl font-bold text-zinc-100 mb-4">
+            <h2 className="text-xl font-bold text-content mb-4">
               {lesson.title}
             </h2>
 
             {/* Content */}
-            <div className="text-[14px] leading-relaxed text-zinc-300 space-y-4">
+            <div className="text-[14px] leading-relaxed text-content-dim space-y-4">
               {lesson.content.split("\n\n").map((paragraph, i) => (
                 <p key={i}>{paragraph}</p>
               ))}
@@ -111,11 +111,11 @@ export default function TrackLessonViewer({ lessons }: TrackLessonViewerProps) {
 
             {/* Key takeaways */}
             {lesson.key_takeaways && lesson.key_takeaways.length > 0 && (
-              <div className="mt-6 bg-white/[0.04] rounded-lg px-5 py-4">
-                <h3 className="text-[13px] font-semibold text-zinc-100 mb-2">Key takeaways</h3>
+              <div className="mt-6 bg-surface-hover rounded-lg px-5 py-4">
+                <h3 className="text-[13px] font-semibold text-content mb-2">Key takeaways</h3>
                 <ul className="space-y-1.5">
                   {lesson.key_takeaways.map((t, i) => (
-                    <li key={i} className="flex items-start gap-2 text-[13px] text-zinc-400">
+                    <li key={i} className="flex items-start gap-2 text-[13px] text-content-dim">
                       <CheckCircle size={13} className="text-green-400 mt-0.5 flex-shrink-0" />
                       <span>{t}</span>
                     </li>
@@ -127,12 +127,12 @@ export default function TrackLessonViewer({ lessons }: TrackLessonViewerProps) {
             {/* Concepts */}
             {lesson.concepts && lesson.concepts.length > 0 && (
               <div className="mt-6">
-                <h3 className="text-[13px] font-semibold text-zinc-100 mb-2">Concepts</h3>
+                <h3 className="text-[13px] font-semibold text-content mb-2">Concepts</h3>
                 <div className="space-y-2">
                   {lesson.concepts.map((c, i) => (
-                    <div key={i} className="bg-black/50 border border-white/[0.06] rounded-lg px-4 py-3">
-                      <span className="text-[13px] font-medium text-zinc-100">{c.term}</span>
-                      <p className="text-[12px] text-zinc-400 mt-0.5">{c.definition}</p>
+                    <div key={i} className="bg-surface border border-edge rounded-lg px-4 py-3">
+                      <span className="text-[13px] font-medium text-content">{c.term}</span>
+                      <p className="text-[12px] text-content-dim mt-0.5">{c.definition}</p>
                     </div>
                   ))}
                 </div>
@@ -140,13 +140,13 @@ export default function TrackLessonViewer({ lessons }: TrackLessonViewerProps) {
             )}
 
             {/* Navigation */}
-            <div className="flex items-center justify-between mt-8 pt-4 border-t border-white/[0.06]">
+            <div className="flex items-center justify-between mt-8 pt-4 border-t border-edge">
               <button
                 onClick={() => toggleComplete(activeLesson)}
                 className={`flex items-center gap-2 px-4 py-2 rounded-lg text-[13px] font-medium transition-colors ${
                   completedLessons.has(activeLesson)
                     ? "bg-green-500/10 text-green-400 hover:bg-green-500/20"
-                    : "bg-white/[0.06] text-zinc-400 hover:bg-white/[0.1]"
+                    : "bg-surface-hover text-content-dim hover:text-content"
                 }`}
               >
                 {completedLessons.has(activeLesson) ? (
@@ -159,7 +159,7 @@ export default function TrackLessonViewer({ lessons }: TrackLessonViewerProps) {
                 {activeLesson > 0 && (
                   <button
                     onClick={() => setActiveLesson(activeLesson - 1)}
-                    className="px-3 py-2 rounded-lg text-[13px] text-zinc-400 hover:text-zinc-100 hover:bg-white/[0.06] transition-colors"
+                    className="px-3 py-2 rounded-lg text-[13px] text-content-dim hover:text-content hover:bg-surface-hover transition-colors"
                   >
                     Previous
                   </button>
@@ -167,7 +167,7 @@ export default function TrackLessonViewer({ lessons }: TrackLessonViewerProps) {
                 {activeLesson < lessons.length - 1 && (
                   <button
                     onClick={() => setActiveLesson(activeLesson + 1)}
-                    className="px-3 py-2 rounded-lg text-[13px] font-medium bg-violet-600 text-white hover:bg-violet-500 transition-colors"
+                    className="px-3 py-2 rounded-lg text-[13px] font-medium bg-accent-bold text-white hover:bg-accent-bold-hover transition-colors"
                   >
                     Next lesson
                   </button>
