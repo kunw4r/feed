@@ -8,3 +8,4 @@ frontend/out/
 backend/data/
 .DS_Store
 .history/
+.worktrees/
