@@ -2,7 +2,7 @@
 
 **Date:** 2026-04-27
 **Status:** Approved (umbrella scope)
-**Scope:** Multi-project, three apps, four sub-projects
+**Scope:** Multi-project, three apps, six sub-projects
 
 ---
 
@@ -78,12 +78,16 @@ Brainfeed is a polished standalone news-reading website that's good enough on it
 
 ## Sub-project sequence
 
+**Note on parallelism:** Specs 5 and 6 are independent of Voice (#2) and the Jarvis↔worldmonitor channels (#3, #4). They can ship in parallel or before, depending on user appetite. Spec 6 has a natural overlap with #3 (both involve worldmonitor integration) — if both are tackled, build #3 first then layer #6 on top.
+
 | # | Sub-project | Spec | Status |
 |---|---|---|---|
 | 1 | **brainfeed-as-product + Jarvis tool** | `2026-04-27-spec01-brainfeed-product-and-jarvis-tool.md` | Designed |
 | 2 | **Voice I/O** — double-clap wake, STT, TTS, barge-in | TBD (brainstorm when #1 ships) | Pending |
 | 3 | **Jarvis → worldmonitor control** — voice commands navigate the dashboard | TBD | Pending |
 | 4 | **worldmonitor → Jarvis context** — Jarvis knows what panel is in view | TBD | Pending |
+| 5 | **Topic Intelligence — Sports** — sport-specific data sources + ladder-aware analyst | `2026-04-28-spec05-topic-intelligence-sports.md` | Designed |
+| 6 | **Defence Map embed** — render worldmonitor's defence map in brainfeed defence pages | `2026-04-28-spec06-defence-map-embed.md` | Designed |
 
 Each sub-project is brainstormed in detail when it's next, not all upfront. Each sharpens after the previous one teaches us something.
 
@@ -120,3 +124,6 @@ Every sub-project spec ends with a **table of anticipated failure modes paired w
 - **Brainfeed fate**: stays as standalone consumer site AND becomes a Jarvis tool. Both. Confirmed 2026-04-27.
 - **Predictions feature scope**: Medium (agent-generated `ripple_effects[]` from LLM general knowledge) BUT with Postgres+pgvector infra in place from day one and silent embedding indexing in the pipeline, so the Ambitious knowledge-graph version becomes a query layer over existing data later. Per Gemini second opinion on data-gravity argument. Confirmed 2026-04-27.
 - **Memory**: 5th cross-cutting concern, not a separate sub-project. Each spec has a "Memory hooks" section. Confirmed 2026-04-27.
+- **Specs 5 (Sport) + 6 (Defence Map) added 2026-04-28** — scope: "discover everything" mandate. Sport is genuinely novel (table-aware analysis nobody else does); Defence Map is integration work (leverages existing worldmonitor). Both gated on spec01 merging first so the Postgres+pgvector substrate is live.
+- **Sport data API choices**: Squiggle (AFL+NRL, free no-auth), football-data.org (top-5 European leagues, free 10/min), API Tennis (ATP/WTA, free 500/day). Recorded for future "why these and not others" questions.
+- **Defence map approach: HTTP API to self-hosted worldmonitor**, NOT iframe and NOT native build. Preserves brainfeed proprietary license under AGPL boundary; gives brainfeed control over UX while reusing worldmonitor's superior data layer.
