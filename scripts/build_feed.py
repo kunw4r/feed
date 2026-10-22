@@ -200,8 +200,9 @@ def select(items: list[dict], per_region: int, existing: list[dict] | None = Non
 {covered}
 
 Pick ONLY genuinely new, important stories that are not already covered (a meaningful new development
-in a covered story counts only if it changes the picture). Picking nothing is fine on a quiet news cycle.
-At most {per_region} new stories per region."""
+in a covered story counts only if it changes the picture). The bar is high: a pick must be at least as
+important as the stories already in its region. On a typical update that means 0-4 picks; picking nothing
+is the right answer on a quiet news cycle. At most {per_region} per region. List picks most important first."""
     else:
         task = f"Pick up to {per_region} stories per region that matter most."
     prompt = f"""You are the editor of a daily news-learning app for a young Australian in Brisbane.
@@ -353,6 +354,7 @@ def main() -> None:
     ap.add_argument("--per-region", type=int, default=5)
     ap.add_argument("--incremental", action="store_true", help="keep today's stories, add only new important ones")
     ap.add_argument("--max-per-region", type=int, default=6, help="edition cap per region (incremental)")
+    ap.add_argument("--new-max", type=int, default=6, help="most new stories to write per incremental run")
     ap.add_argument("--max-age-hours", type=int, default=30, help="retire stories older than this (incremental)")
     ap.add_argument("--excerpt", type=int, default=0, help="store only the first N paragraphs of the original (public builds)")
     ap.add_argument("--no-fulltext", action="store_true", help="don't write original article text for the reader")
@@ -378,6 +380,8 @@ def main() -> None:
 
     print("2/4 selecting")
     picks = select(items, args.per_region if not existing else 2, existing)
+    if existing:
+        picks = picks[: args.new_max]
 
     print("3/4 fetching full articles")
 
@@ -410,6 +414,19 @@ def main() -> None:
         s["has_fulltext"] = not args.no_fulltext
         if not args.no_fulltext:
             (ARTICLE_DIR / f"{s['id']}.json").write_text(json.dumps(article, ensure_ascii=False))
+
+    if existing:
+        floor: dict[str, float] = {}
+        for code in REGIONS:
+            scores = sorted((s["impact_score"] for s in existing if s["region_code"] == code), reverse=True)
+            if len(scores) >= args.max_per_region:
+                floor[code] = scores[args.max_per_region - 1]
+        dropped = [s for s in fresh if s["impact_score"] <= floor.get(s["region_code"], -1)]
+        fresh = [s for s in fresh if s not in dropped]
+        for s in dropped:
+            (ARTICLE_DIR / f"{s['id']}.json").unlink(missing_ok=True)
+        if dropped:
+            print(f"  {len(dropped)} new stories weren't strong enough to displace existing ones")
 
     # Merge, keep the strongest stories per region
     regions: dict[str, list[dict]] = {code: [] for code in REGIONS}
