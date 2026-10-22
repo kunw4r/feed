@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "generated_at": "2026-10-22T01:07:32.531699+00:00",
+ "generated_at": "2026-10-22T07:19:48.972157+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -1555,6 +1555,67 @@
     "has_fulltext": true
    },
    {
+    "id": "6c2d6990-cf50-58f6-8593-8d1d6a4899ef",
+    "title": "What to know about Brazil's run-off pitting Lula against Flávio Bolsonaro",
+    "simplified_title": "Brazil votes: Lula faces Flávio Bolsonaro in tight presidential run-off",
+    "quick_summary": "Brazil's veteran president Luiz Inácio Lula da Silva faces right-wing senator Flávio Bolsonaro, son of jailed ex-president Jair Bolsonaro, in a neck-and-neck run-off on Sunday.",
+    "simplified_body": "Brazilians vote on Sunday in a presidential run-off between left-wing incumbent Luiz Inácio Lula da Silva and right-wing Senator Flávio Bolsonaro. Bolsonaro narrowly beat Lula in the first round on 4 October but didn't reach the 50% of valid votes needed to win outright. The BBC says polls have them neck and neck, while Al Jazeera reports Bolsonaro narrowly leads.\n\nThe result matters well beyond Brazil. A Bolsonaro win would line Brazil up with the Trump administration, and he has promised to join a US-led anti-crime alliance called the \"Shield of the Americas\". Lula, who turns 81 two days after the election, pitches himself as defending democracy and Brazil's independence. Both camps are also dealing with corruption probes: Bolsonaro over links to disgraced banker Daniel Vorcaro, and Lula through investigations into his sons. All of them deny wrongdoing.\n\nSome background: this is a rematch of sorts. In 2022 Lula beat Flávio's father, Jair, by 1.8 percentage points. On 8 January 2023, thousands of Jair's supporters stormed Brazil's Supreme Court, presidential palace and Congress. Jair was later convicted of plotting a coup and sentenced to more than 20 years. He is now under house arrest and barred from running. Lula's party, the Workers' Party (PT), has its own history of big financial scandals, and Lula himself was once jailed for corruption before those convictions were annulled in 2021.\n\nThe nasty campaign seems to have put people off: a record 21% of eligible voters skipped the first round, even though voting is compulsory. Watch the turnout on Sunday, and whether the losing side accepts the result.",
+    "why_it_matters": "Brazil is Latin America's biggest country, and this vote decides whether it moves closer to the Trump administration or keeps its distance. Like Australia, Brazil has compulsory voting, so that record no-show rate is a striking sign of how fed up voters are.",
+    "deep_analysis": "## Historical Context\nLula served two terms from 2003 to 2010 and left office with approval above 80%. He was widely praised for the Bolsa Família cash-transfer scheme, which helped lift millions out of poverty. He was later jailed for corruption, and those convictions were annulled in 2021. He then beat Jair Bolsonaro in 2022. Bolsonaro's supporters refused to accept that loss, which led to the 8 January 2023 riots and Jair's eventual coup conviction. As general background, Brazil only returned to democracy in the 1980s after military rule, so coup plotting touches a raw nerve there.\n\n## Multiple Perspectives\nLula and the PT frame the vote as a \"battle for democracy\" and a defence of sovereignty against Trump's so-called \"Donroe doctrine\". In his words, \"Brazil does not fit into anyone's backyard\". Flávio Bolsonaro argues that working with the US against gangs like the Comando Vermelho and the PCC would actually restore the state's control over gang-held areas. He also hammers the PT's corruption record. Environmentalists are split on Lula: they criticise his support for oil exploration near the mouth of the Amazon, but his government points to deforestation in the first half of 2026 falling to a decade low. Bolsonaro, who once said climate change didn't exist, now calls extreme weather events \"cyclical\". The two sources also differ slightly on the polls: the BBC says the race is neck and neck, while Al Jazeera says Bolsonaro narrowly leads.\n\n## What to Watch\n- Turnout, after the record 21% abstention in the first round.\n- Whether the loser accepts the result peacefully.\n- The Vorcaro scandal and the fight over releasing personal records, which both campaigns are still navigating.\n- Brazil's relationship with the US and the Shield of the Americas alliance if Bolsonaro wins.",
+    "concepts": [
+     {
+      "term": "run-off",
+      "definition": "A second-round vote between the top two candidates when nobody wins more than half of the valid votes in the first round.",
+      "context": "Bolsonaro won the first round but fell short of 50%, which triggered Sunday's run-off."
+     },
+     {
+      "term": "Shield of the Americas",
+      "definition": "The Trump administration's name for a US-led anti-crime alliance in the Western Hemisphere.",
+      "context": "Flávio Bolsonaro has promised to join it if he's elected."
+     },
+     {
+      "term": "Workers' Party (PT)",
+      "definition": "Lula's left-wing political party, known by its Portuguese initials PT.",
+      "context": "It has endorsed Lula again, but past financial scandals have turned many voters against it."
+     }
+    ],
+    "quiz": {
+     "question": "Why is Brazil holding a second round of voting?",
+     "options": [
+      "Jair Bolsonaro challenged the first-round result in court",
+      "No candidate won more than 50% of valid votes in the first round",
+      "Turnout was too low, so the first round was cancelled",
+      "Lula won the first round but asked for a recount"
+     ],
+     "answer_index": 1,
+     "explanation": "Flávio Bolsonaro narrowly came first but fell short of the 50% of valid votes needed to win outright. Under Brazil's rules, that means the top two candidates go head to head in a run-off."
+    },
+    "impact_score": 68,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/70fc/live/b2ed88c0-bd79-11f1-babe-4199b0e7ccea.png",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Brazil's veteran president Luiz Inácio Lula da Silva faces right-wing senator Flávio Bolsonaro, son of jailed ex-president Jair Bolsonaro, in a neck-and-neck run-off on Sunday.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 5,
+    "created_at": "2026-10-22T07:20:19.915916+00:00",
+    "published_date": "2026-10-22",
+    "has_fulltext": true
+   },
+   {
     "id": "81ae067c-1c8d-54f9-bf0e-50aa62d9bc59",
     "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
     "simplified_title": "Sick US immigration detainees face deportation to African countries, families say",
@@ -1789,67 +1850,6 @@
     "created_at": "2026-10-22T00:21:19.214849+00:00",
     "published_date": "2026-10-22",
     "has_fulltext": true
-   },
-   {
-    "id": "84f5e5d0-4d94-5b11-ada1-a0eb14c213fb",
-    "title": "Mexico charges prosecutor with treason over US involvement in drug raid",
-    "simplified_title": "Mexico charges ex-prosecutor with treason over US agents in drug raid",
-    "quick_summary": "Mexico has charged César Jáuregui, a former top prosecutor in the border state of Chihuahua, with treason for allegedly letting US agents join a drug raid without federal approval.",
-    "simplified_body": "Mexico's federal prosecutors have charged César Jáuregui, the former attorney general of the northern border state of Chihuahua, with treason. Federal Attorney General Ernestina Godoy says he let foreign agents carry out work reserved for Mexican authorities and didn't share information with federal officials. Jáuregui denies this. A judge has ordered him held in pretrial detention while the court decides whether there's enough evidence to proceed. He also faces separate state charges, including abuse of public office.\n\nThe story came out after a car crash on 19 April. A convoy returning from an operation against suspected methamphetamine labs plunged into a ravine, killing two Americans and two Mexican officers. Media reported that the Americans worked for the Central Intelligence Agency (CIA), the US foreign intelligence service. At the time, Jáuregui said they were embassy instructors doing training, not part of the raid. He resigned later that month.\n\nWhy is this such a big deal? Under Mexican law, the federal government must approve any foreign forces operating in the country. Mexico has a long history of US intervention, including military invasions into the early 20th century. President Claudia Sheinbaum works with the US on crime but insists it can't deal directly with Mexican states. Meanwhile, US President Donald Trump has suggested the US could act militarily against cartels on its own. There's a political angle too: Jáuregui belongs to the conservative opposition National Action Party (PAN), while Sheinbaum leads the left-wing Morena party.\n\nNext, the court will decide whether the case goes ahead. Treason is vaguely defined in Mexican law and convictions are rare; the last widely recognised one was Emperor Maximilian in 1867. One analyst says the charge aims to set a precedent stopping states from cooperating with the US without federal sign-off.",
-    "why_it_matters": "This case shows how fiercely Mexico guards its sovereignty as Trump pushes harder on cartels, and it could shape how the US works with Mexico on crime. For Australians, it's a vivid example of the tension between security cooperation with a powerful ally and a nation's control over its own territory.",
-    "deep_analysis": "## Historical Context\nThe sources note Mexico has endured multiple US military invasions continuing into the early 20th century, which is why foreign forces on Mexican soil remain politically explosive. As background, this includes the Mexican-American War of the 1840s, when Mexico lost a huge share of its territory. Mexico's constitution requires Senate approval for foreign troops, and its National Security Law governs foreign involvement. Treason convictions are extremely rare: the last widely recognised one was Emperor Maximilian, court-martialled and executed in 1867.\n\n## Multiple Perspectives\n- **Federal government:** Sheinbaum says the military didn't know non-Mexicans were taking part, and insists any foreign activity needs prior federal clearance. Her government has repeatedly declined US-led counter-narcotics operations.\n- **Jáuregui:** He denies instructing or consenting to US involvement. In April he said the Americans were embassy \"instructor officers\" doing training, who asked to join the convoy back to the airport.\n- **Analysts:** Eurasia Group's Matias Gomez Leautaud told Reuters the charge \"seeks to set a precedent\" to stop state-level cooperation with the US without federal coordination.\n- **Trump administration:** Trump has called Mexico's government ineffective, said \"The cartels are running Mexico\", and floated unilateral military action.\n- **Politics:** Jáuregui is from the conservative PAN; Sheinbaum leads left-wing Morena. Critics could see partisan motives, though the sources don't report such claims directly.\n- **Small discrepancy:** Al Jazeera says Jáuregui is already in pretrial detention while the court weighs evidence; the BBC says a hearing is scheduled for Saturday.\n\n## What to Watch\n- Whether a judge finds enough evidence to proceed with the treason case.\n- How the vaguely defined treason law is interpreted, and whether it chills state-US cooperation.\n- Any official US explanation of the agents' role.\n- Whether Trump escalates talk of unilateral action against cartels.",
-    "concepts": [
-     {
-      "term": "treason",
-      "definition": "A crime of betraying your own country; in Mexico it broadly covers acts undermining sovereignty for a foreign entity's benefit.",
-      "context": "Jáuregui is accused of treason for allegedly letting US agents operate without federal approval."
-     },
-     {
-      "term": "pretrial detention",
-      "definition": "Being held in custody before a trial, while a court considers the case.",
-      "context": "A judge ordered Jáuregui held while deciding if there's enough evidence to proceed."
-     },
-     {
-      "term": "sovereignty",
-      "definition": "A country's full authority to govern itself and control what happens on its territory.",
-      "context": "Mexico insists foreign agents can only operate with federal clearance to protect its sovereignty."
-     }
-    ],
-    "quiz": {
-     "question": "Why is Mexico's federal government treating this case so seriously?",
-     "options": [
-      "Because the US agents were caught smuggling drugs",
-      "Because it believes a state official let foreign agents operate without the federal approval Mexican law requires",
-      "Because Jáuregui caused the car crash",
-      "Because the US asked Mexico to prosecute him"
-     ],
-     "answer_index": 1,
-     "explanation": "Mexican law requires federal approval for foreign forces on Mexican soil, and the government wants to stop states cooperating directly with the US without it."
-    },
-    "impact_score": 55,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad90e8e-1792609934.jpg?resize=1920%2C1440",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "Mexico has charged César Jáuregui, a former top prosecutor in the border state of Chihuahua, with treason for allegedly letting US agents join a drug raid without federal approval.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-22T00:21:26.211995+00:00",
-    "published_date": "2026-10-22",
-    "has_fulltext": true
    }
   ],
   "GLOBAL_SYSTEMS": [
@@ -1912,6 +1912,63 @@
     "related_story_ids": [],
     "reading_minutes": 4,
     "created_at": "2026-10-22T00:21:28.165920+00:00",
+    "published_date": "2026-10-22",
+    "has_fulltext": true
+   },
+   {
+    "id": "d56dfdbf-3345-57fe-9239-d17d597a825e",
+    "title": "The world is $365 trillion in debt, and the interest bill is climbing",
+    "simplified_title": "World debt hits $365 trillion as interest bills squeeze governments",
+    "quick_summary": "Global debt has topped $365 trillion and rising interest costs, especially in France, are leaving governments with less money for schools, hospitals and pensions as protests spread across Europe.",
+    "simplified_body": "Hundreds of thousands of people have protested across Europe in recent weeks over living costs, low wages, housing and underfunded schools. France is at the centre: more than 550,000 people marched nationwide on Saturday, according to its Interior Ministry. Behind the anger sits a money problem: governments are deeply in debt, and that debt is getting pricier.\n\nFrance now pays around 5 percent to borrow for 10 years, compared with 3.41 percent for Germany. That's more than Italy and Greece, and the highest for France since 2002. Every extra euro spent on interest is a euro not spent on the services protesters want. Higher government borrowing costs can also push up rates on mortgages, car loans and credit cards for ordinary people.\n\nQuick background: governments borrow by selling bonds, which are basically IOUs. Investors lend money, get regular interest, and are repaid on a set date. The bond's yield is the return investors earn, and it shows how much markets trust a country with its debt. When yields rise, borrowing gets dearer. Debt is often measured against gross domestic product (GDP), the size of a country's economy. France owes $4.2 trillion, or 118.5 percent of GDP, and the International Monetary Fund (IMF) expects that to reach 121.8 percent by 2030.\n\nGlobally, the Institute of International Finance (IIF) says total debt rose by $10 trillion in the first half of 2026 to more than $365 trillion. Advanced economies paid over $3.3 trillion in government bond interest last year, more than the world spends on defence. Next, governments may have to raise taxes or cut spending, which could fuel more unrest.",
+    "why_it_matters": "Interest bills are now eating budgets that would otherwise fund schools, hospitals and pensions, and higher government borrowing costs can flow through to everyday loans like mortgages. The source doesn't mention Australia specifically, but the same bond-market forces apply to any government that borrows.",
+    "deep_analysis": "## Historical Context\nThe article notes that 10-year borrowing costs for major European economies haven't been near 5 percent since the early 2000s, just after the euro launched. During the eurozone debt crisis of 2010 to 2012, only struggling countries like Greece, Italy and Spain paid that much, and yields above 7 percent pushed Ireland and Portugal into bailouts. As general background, the years after that crisis featured very low interest rates, which made heavy borrowing cheap; the current squeeze reflects that era ending.\n\n## Multiple Perspectives\n- **Protesters** want more spending on schools, wages, housing and services.\n- **Bond investors** are demanding a higher return to lend to France than to Germany, signalling less confidence in its finances.\n- **Governments** face a trade-off: raise taxes or cut spending to cover interest, both politically painful.\n- **Big borrowers differ**: the US owes $41.4 trillion (127 percent of GDP) but benefits from borrowing in the world's dominant reserve currency, though the article stresses that capacity isn't unlimited. Japan has the highest ratio among major economies at 199 percent, while Germany sits at just 65 percent.\n\n## What to Watch\n- Whether France's 10-year yield keeps climbing or the gap with Germany widens.\n- Whether the protests grow or lead to policy changes.\n- Emerging markets, which drove much of the recent global debt rise.\n- Any knock-on effect on mortgage and loan rates for households.",
+    "concepts": [
+     {
+      "term": "bonds",
+      "definition": "Loans to a government: investors hand over money, get regular interest, and are repaid in full on a set date.",
+      "context": "Governments sell bonds instead of borrowing from a bank."
+     },
+     {
+      "term": "yield",
+      "definition": "The return investors earn for lending to a government through a bond; when bond prices fall, yields rise.",
+      "context": "France's 10-year yield of around 5 percent shows markets want more reward to lend to it."
+     },
+     {
+      "term": "gross domestic product (GDP)",
+      "definition": "The total value of everything a country's economy produces, used to measure how big debt is relative to the economy.",
+      "context": "France's debt is 118.5 percent of its GDP."
+     }
+    ],
+    "quiz": {
+     "question": "Why does a rising bond yield worry a government like France's?",
+     "options": [
+      "It means the government earns more money from investors",
+      "It makes borrowing more expensive, leaving less for services like schools and hospitals",
+      "It automatically cancels part of the existing debt",
+      "It means the country has switched currencies"
+     ],
+     "answer_index": 1,
+     "explanation": "Higher yields mean higher interest costs, so more of the budget goes to interest and less to essentials, much like a family facing a higher mortgage rate."
+    },
+    "impact_score": 68,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2017/06/fad9c0b2d96b4e6ea5a4652cbeef06c1_18.jpeg?resize=1200%2C675",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "Global debt has topped $365 trillion and rising interest costs, especially in France, are leaving governments with less money for schools, hospitals and pensions as protests spread across Europe.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-10-22T07:20:17.691079+00:00",
     "published_date": "2026-10-22",
     "has_fulltext": true
    },
@@ -2150,63 +2207,6 @@
     "related_story_ids": [],
     "reading_minutes": 2,
     "created_at": "2026-10-22T01:08:18.939524+00:00",
-    "published_date": "2026-10-22",
-    "has_fulltext": true
-   },
-   {
-    "id": "23bd211f-9c92-57ef-b157-21e7568cb8b1",
-    "title": "China says APEC finance ministers agree to boost policy coordination",
-    "simplified_title": "Asia-Pacific finance ministers agree to work together more closely",
-    "quick_summary": "Finance ministers from the Asia-Pacific Economic Cooperation forum, meeting in Hong Kong, agreed to coordinate economic policy more closely and boost financing for digital infrastructure, according to China's finance minister.",
-    "simplified_body": "Finance ministers from the Asia-Pacific Economic Cooperation (APEC) forum met in Hong Kong and agreed to strengthen \"macroeconomic policy communication and coordination\" to deal with external risks and challenges. That's according to China's Minister of Finance, Lan Foan, who spoke at a briefing on Wednesday 21 October when the meeting wrapped up.\n\nThe ministers also reached a consensus on practical cooperation in the financial sector. Lan said this focused on supporting people's livelihoods, financing digital infrastructure, and locally adapted measures for inclusive finance. A separate policy statement encouraged member economies to build reliable, secure and resilient digital infrastructure, improve digital literacy and skills, and promote cross-border digital connectivity.\n\nSome background: APEC is a regional forum of economies around the Pacific Rim. Its finance ministers meet to talk about big-picture economic issues. Statements like this one aren't binding laws. They signal shared priorities that governments may choose to act on.\n\nWhat's next? The ministers called for deeper collaboration between governments, private companies and multilateral development banks to encourage innovation and manage risk. Whether that turns into real projects and money will depend on what individual member economies do from here. Note that the report is based mainly on China's account of the meeting.",
-    "why_it_matters": "When the region's finance ministers agree to coordinate, it can shape trade, investment and digital connections across the Asia-Pacific. Australia is an APEC member, although the source doesn't mention Australia's role at this meeting.",
-    "deep_analysis": "## Historical Context\nAs background, APEC was founded in 1989, and Australia played a key role in setting it up. It works by consensus and voluntary commitments rather than binding treaties. Finance ministers' meetings sit alongside the annual leaders' summit, and the host economy usually sets the agenda. The source says this meeting was held in Hong Kong.\n\n## Multiple Perspectives\nThe source article relies on China's finance minister, Lan Foan, and a released policy statement. We don't hear directly from other members, so the summary reflects the host's framing. Supporters of these meetings see them as useful for building trust and spotting shared risks. Sceptics often argue that non-binding consensus language doesn't always lead to concrete action.\n\n## What to Watch\n- Whether the digital infrastructure financing statement leads to actual funded projects.\n- How multilateral development banks and private investors respond to calls for collaboration.\n- What the 'external risks and challenges' turn out to mean in practice. The source doesn't specify them.",
-    "concepts": [
-     {
-      "term": "macroeconomic policy",
-      "definition": "Big-picture government decisions about the whole economy, such as taxes, government spending and interest rates.",
-      "context": "Ministers agreed to communicate and coordinate these policies to handle external risks."
-     },
-     {
-      "term": "inclusive finance",
-      "definition": "Making financial services like bank accounts, loans and insurance available to people and businesses who often miss out.",
-      "context": "Lan said the ministers would support locally adapted measures to develop it."
-     },
-     {
-      "term": "multilateral development banks",
-      "definition": "Banks owned by several countries that fund development projects, such as the World Bank or the Asian Development Bank.",
-      "context": "Ministers sought deeper collaboration with them to foster innovation and manage risk."
-     }
-    ],
-    "quiz": {
-     "question": "What best describes the outcome of the APEC finance ministers' meeting in Hong Kong?",
-     "options": [
-      "A binding treaty forcing members to change interest rates",
-      "An agreement to coordinate policy more closely and support digital infrastructure financing",
-      "A decision to create a single Asia-Pacific currency",
-      "A ban on cross-border digital trade"
-     ],
-     "answer_index": 1,
-     "explanation": "The ministers agreed to strengthen policy communication and coordination, and they released a statement backing digital infrastructure financing. These are shared priorities, not binding rules."
-    },
-    "impact_score": 30,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--l4NrpK-y--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-21T061139Z_3_LYNXMPEM9K0AT_RTROPTP_3_CHINA-PARLIAMENT-ECONOMY.JPG?itok=zertarF-",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "Finance ministers from the Asia-Pacific Economic Cooperation forum, meeting in Hong Kong, agreed to coordinate economic policy more closely and boost financing for digital infrastructure, according to China's finance minister.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/china-apec-finance-ministers-agree-boost-policy-coordination-6477976"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-10-22T00:21:34.142856+00:00",
     "published_date": "2026-10-22",
     "has_fulltext": true
    }
