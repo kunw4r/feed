@@ -1,0 +1,85 @@
+# Keeps the public Brainfeed fresh: three times a day the pipeline checks the news,
+# adds only genuinely new important stories, commits the edition and redeploys Pages.
+name: Update feed
+
+on:
+  schedule:
+    # 6am, 12pm and 6pm in Brisbane (UTC+10, no daylight saving)
+    - cron: "0 20 * * *"
+    - cron: "0 2 * * *"
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+    inputs:
+      fresh:
+        description: "Rebuild the whole edition instead of adding to it"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths: ["frontend/**", ".github/workflows/feed.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update the edition
+        if: github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python -m pip install -q -r scripts/requirements.txt
+          if [ "${{ inputs.fresh }}" = "true" ]; then
+            python scripts/build_feed.py --excerpt 3
+          else
+            python scripts/build_feed.py --incremental --excerpt 3
+          fi
+
+      - name: Commit the edition
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "brainfeed-bot"
+          git config user.email "brainfeed-bot@users.noreply.github.com"
+          git add frontend/public/data/today.json frontend/public/data/articles
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "chore(feed): update edition $(TZ=Australia/Brisbane date '+%Y-%m-%d %H:%M')"
+          git pull --rebase -q && git push
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Build static site
+        working-directory: frontend
+        env:
+          NEXT_PUBLIC_STATIC: "true"
+        run: |
+          npm ci
+          npx next build
+          touch out/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: frontend/out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

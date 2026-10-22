@@ -1,56 +1,74 @@
 "use client";
 
-import { useState, useMemo, useEffect } from "react";
+import { useState, useMemo, useEffect, useRef } from "react";
+import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { Briefing, Story, REGION_CONFIG, CATEGORY_CONFIG } from "@/lib/types";
+import { useProgress, streakOf } from "@/lib/progress";
+import { Reveal } from "./motion";
 import StoryCard from "./StoryCard";
-import {
-  Filter,
-  X,
-  TrendingUp,
-  Globe,
-  Map,
-  Landmark,
-  Building2,
-  Flag,
-  Cpu,
-  Shield,
-  Users,
-  Leaf,
-  Scale,
-  Heart,
-} from "lucide-react";
-
-const REGION_ICONS: Record<string, React.ComponentType<{ size?: number; className?: string }>> = {
-  OCEANIA: Map,
-  ASIA: Globe,
-  EUROPE: Landmark,
-  MIDDLE_EAST_AFRICA: Building2,
-  AMERICAS: Flag,
-  GLOBAL_SYSTEMS: TrendingUp,
-  ADF: Shield,
-  AI_TECH: Cpu,
-};
-
-const TOPIC_ICONS: Record<string, React.ComponentType<{ size?: number; className?: string }>> = {
-  POLITICS_POLICY: Landmark,
-  ECONOMY_MARKETS: TrendingUp,
-  SCIENCE_TECH: Cpu,
-  SOCIETY_CULTURE: Users,
-  ENVIRONMENT_CLIMATE: Leaf,
-  CRIME_SAFETY: Scale,
-  HEALTH: Heart,
-  DEFENCE: Shield,
-};
 
 interface DashboardProps {
   briefing: Briefing;
+}
+
+const SEEN_KEY = "brainfeed-last-edition";
+
+/** Timestamp of the edition this browser saw last time, so newer stories can be flagged. */
+function useLastSeen(generatedAt?: string) {
+  const [lastSeen, setLastSeen] = useState<string | null>(null);
+  useEffect(() => {
+    try {
+      setLastSeen(localStorage.getItem(SEEN_KEY));
+      if (generatedAt) localStorage.setItem(SEEN_KEY, generatedAt);
+    } catch {
+      // storage unavailable: nothing is flagged as new
+    }
+  }, [generatedAt]);
+  return lastSeen;
+}
+
+function Rail({ id, title, note, stories, isNew }: { id: string; title: string; note?: string; stories: Story[]; isNew: (s: Story) => boolean }) {
+  const ref = useRef<HTMLDivElement>(null);
+  const nudge = (dir: number) => ref.current?.scrollBy({ left: dir * 340, behavior: "smooth" });
+
+  return (
+    <section id={id} className="mb-20 scroll-mt-24">
+      <Reveal className="flex items-end justify-between gap-4 mb-6 px-4 md:px-10">
+        <div>
+          <h2 className="font-display text-[1.9rem] md:text-[2.4rem] leading-none text-content">{title}</h2>
+          {note && <p className="mt-2 text-[13px] text-content-faint">{note}</p>}
+        </div>
+        <div className="hidden md:flex gap-2">
+          {[-1, 1].map((d) => (
+            <button
+              key={d}
+              onClick={() => nudge(d)}
+              aria-label={d < 0 ? "Previous" : "Next"}
+              className="h-10 w-10 rounded-full border border-edge text-content-dim hover:text-content hover:border-content-faint transition-colors"
+            >
+              {d < 0 ? "←" : "→"}
+            </button>
+          ))}
+        </div>
+      </Reveal>
+      <div ref={ref} className="no-scrollbar flex gap-5 overflow-x-auto snap-x snap-mandatory scroll-px-4 md:scroll-px-10 px-4 md:px-10 pb-4">
+        {stories.map((s) => (
+          <StoryCard key={s.id} story={s} variant="rail" isNew={isNew(s)} />
+        ))}
+        <span className="w-1 flex-shrink-0" />
+      </div>
+    </section>
+  );
 }
 
 export default function Dashboard({ briefing }: DashboardProps) {
   const searchParams = useSearchParams();
   const urlRegion = searchParams.get("region");
   const urlTopic = searchParams.get("topic");
+  const progress = useProgress();
+  const lastSeen = useLastSeen(briefing.generated_at);
+  const isNew = (s: Story) => Boolean(lastSeen && s.created_at > lastSeen && !progress.read[s.id]);
 
   const [activeRegion, setActiveRegion] = useState<string | null>(urlRegion);
   const [activeTopic, setActiveTopic] = useState<string | null>(urlTopic);
@@ -60,183 +78,159 @@ export default function Dashboard({ briefing }: DashboardProps) {
     setActiveTopic(urlTopic);
   }, [urlRegion, urlTopic]);
 
-  const allStories = useMemo(() => {
-    return Object.entries(briefing.regions).flatMap(([code, stories]) =>
-      stories.map((s) => ({ ...s, region_code: s.region_code || code }))
-    );
-  }, [briefing]);
-
-  const filteredStories = useMemo(() => {
-    let result = allStories;
-    if (activeRegion) {
-      result = result.filter((s) => s.region_code === activeRegion);
-    }
-    if (activeTopic) {
-      if (activeTopic === "DEFENCE") {
-        result = result.filter(
-          (s) =>
-            s.region_code === "ADF" ||
-            (s.category === "POLITICS_POLICY" &&
-              (s.simplified_title.toLowerCase().includes("defence") ||
-                s.simplified_title.toLowerCase().includes("defense") ||
-                s.simplified_title.toLowerCase().includes("military") ||
-                s.simplified_title.toLowerCase().includes("nato") ||
-                s.simplified_title.toLowerCase().includes("aukus") ||
-                s.simplified_title.toLowerCase().includes("army") ||
-                s.simplified_title.toLowerCase().includes("war") ||
-                s.simplified_body.toLowerCase().includes("defence") ||
-                s.simplified_body.toLowerCase().includes("military") ||
-                s.simplified_body.toLowerCase().includes("nato")))
-        );
-      } else {
-        result = result.filter((s) => s.category === activeTopic);
-      }
-    }
-    return result.sort((a, b) => b.impact_score - a.impact_score);
-  }, [allStories, activeRegion, activeTopic]);
-
-  const regionCounts = useMemo(() => {
-    const counts: Record<string, number> = {};
-    for (const s of allStories) {
-      const code = s.region_code || "UNKNOWN";
-      counts[code] = (counts[code] || 0) + 1;
-    }
-    return counts;
-  }, [allStories]);
-
-  const topicCounts = useMemo(() => {
-    const counts: Record<string, number> = {};
-    const source = activeRegion
-      ? allStories.filter((s) => s.region_code === activeRegion)
-      : allStories;
-    for (const s of source) {
-      counts[s.category] = (counts[s.category] || 0) + 1;
-    }
-    return counts;
-  }, [allStories, activeRegion]);
-
-  const clearFilters = () => {
-    setActiveRegion(null);
-    setActiveTopic(null);
-  };
-
-  const hasFilters = activeRegion || activeTopic;
-
-  const formatted = new Date(briefing.date + "T00:00:00").toLocaleDateString(
-    "en-AU",
-    { weekday: "long", day: "numeric", month: "long", year: "numeric" }
+  const allStories = useMemo(
+    () =>
+      Object.entries(briefing.regions)
+        .flatMap(([code, stories]) => stories.map((s) => ({ ...s, region_code: s.region_code || code })))
+        .sort((a, b) => b.impact_score - a.impact_score),
+    [briefing],
   );
 
+  const filtered = useMemo(
+    () =>
+      allStories.filter(
+        (s) => (!activeRegion || s.region_code === activeRegion) && (!activeTopic || s.category === activeTopic),
+      ),
+    [allStories, activeRegion, activeTopic],
+  );
+
+  const hasFilters = Boolean(activeRegion || activeTopic);
+  const lead = filtered[0];
+  const five = filtered.slice(1, 6);
+  const shown = new Set([lead, ...five].filter(Boolean).map((s) => s.id));
+
+  const rails = hasFilters
+    ? [{ code: "rest", title: "More", stories: filtered.filter((s) => !shown.has(s.id)) }]
+    : Object.keys(REGION_CONFIG).map((code) => ({
+        code,
+        title: REGION_CONFIG[code].label,
+        stories: allStories.filter((s) => s.region_code === code && !shown.has(s.id)),
+      }));
+
+  const readCount = allStories.filter((s) => progress.read[s.id]).length;
+  const streak = streakOf(progress.days);
+  const briefMinutes = Math.max(1, Math.round(allStories.reduce((n, s) => n + s.quick_summary.split(" ").length, 0) / 200));
+
+  const formatted = new Date(briefing.date + "T00:00:00").toLocaleDateString("en-AU", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+  });
+
+  const updated = briefing.generated_at
+    ? new Date(briefing.generated_at).toLocaleTimeString("en-AU", { hour: "numeric", minute: "2-digit" })
+    : null;
+
+  const title = activeRegion
+    ? REGION_CONFIG[activeRegion]?.label
+    : activeTopic
+      ? CATEGORY_CONFIG[activeTopic as keyof typeof CATEGORY_CONFIG]?.label
+      : null;
+
   return (
-    <div className="max-w-4xl mx-auto px-5 py-8">
-      {/* Header */}
-      <div className="mb-6">
-        <p className="text-[11px] font-medium text-content-faint uppercase tracking-widest mb-1">
-          {formatted}
-        </p>
-        <h1 className="text-2xl font-bold text-content tracking-tight mb-1">
-          {activeRegion
-            ? REGION_CONFIG[activeRegion]?.label || "Stories"
-            : activeTopic
-              ? (CATEGORY_CONFIG[activeTopic as keyof typeof CATEGORY_CONFIG]?.label || activeTopic)
-              : "Today's Feed"}
-        </h1>
-        <p className="text-[14px] text-content-dim">
-          {filteredStories.length} stories
-          {hasFilters ? " matching your filters" : ` across ${Object.keys(briefing.regions).length} regions`}
-        </p>
-      </div>
+    <div className="pb-16">
+      {/* Masthead */}
+      <header className="px-4 md:px-10 pt-10 md:pt-16 pb-10 max-w-[1400px]">
+        <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-8">
+          <div className="rise">
+            <p className="smallcaps text-[14px] text-content-faint">{formatted}</p>
+            <h1 className="font-display mt-3 text-[3.4rem] md:text-[5.5rem] leading-[0.92] font-medium text-content">
+              {title ?? (
+                <>
+                  Today&apos;s <span className="italic text-accent">edition</span>
+                </>
+              )}
+            </h1>
+            <p className="font-read mt-5 max-w-lg text-[1.15rem] leading-[1.5] text-content-dim">
+              {filtered.length} stories from free, full-text newsrooms.{" "}
+              <span className="text-content-faint">
+                {updated && <>Updated {updated} · </>}
+                {readCount} read{streak > 0 ? ` · ${streak}-day streak` : ""}
+              </span>
+            </p>
+          </div>
 
-      {/* Filter pills */}
-      <div className="flex items-center gap-2 mb-6 overflow-x-auto scrollbar-hide pb-1">
-        <Filter size={14} className="text-content-faint flex-shrink-0" />
-
-        {Object.keys(REGION_CONFIG).map((code) => {
-          const config = REGION_CONFIG[code];
-          const Icon = REGION_ICONS[code] || Globe;
-          const count = regionCounts[code] || 0;
-          if (count === 0) return null;
-          const isActive = activeRegion === code;
-
-          return (
-            <button
-              key={code}
-              onClick={() => setActiveRegion(isActive ? null : code)}
-              className={`flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[12px] font-medium whitespace-nowrap transition-all ${
-                isActive
-                  ? "bg-accent-bold text-white"
-                  : "bg-surface-raised text-content-dim border border-edge hover:border-edge-accent hover:text-content"
-              }`}
-            >
-              <Icon size={12} />
-              <span>{config.label}</span>
-            </button>
-          );
-        })}
-
-        {hasFilters && (
-          <button
-            onClick={clearFilters}
-            className="flex items-center gap-1 px-2 py-1 rounded-lg text-[12px] text-content-faint hover:text-content-dim transition-colors"
+          <Link
+            href="/brief"
+            className="rise group flex items-center gap-5 self-start lg:self-auto rounded-full bg-content pl-6 pr-2 py-2 text-surface shadow-2xl transition-transform hover:-translate-y-0.5"
+            style={{ animationDelay: "120ms" }}
           >
-            <X size={12} />
-            Clear
+            <span>
+              <span className="block text-[15px] font-medium">Brief me</span>
+              <span className="block text-[12px] opacity-60">All {allStories.length} stories · ~{briefMinutes} min</span>
+            </span>
+            <span className="flex h-11 w-11 items-center justify-center rounded-full bg-accent-bold text-white text-lg transition-transform group-hover:translate-x-0.5">
+              →
+            </span>
+          </Link>
+        </div>
+
+        {/* Region index */}
+        <nav className="no-scrollbar mt-10 -mx-4 md:mx-0 px-4 md:px-0 flex gap-6 overflow-x-auto border-t border-edge pt-4 text-[14px]">
+          <button
+            onClick={() => {
+              setActiveRegion(null);
+              setActiveTopic(null);
+            }}
+            className={`whitespace-nowrap pb-1 border-b transition-colors ${!hasFilters ? "text-content border-accent" : "text-content-faint border-transparent hover:text-content"}`}
+          >
+            Everything
           </button>
-        )}
-      </div>
-
-      {/* Topic sub-filters */}
-      {!activeTopic && (
-        <div className="flex gap-1.5 mb-6 overflow-x-auto scrollbar-hide pb-1">
-          {Object.entries(CATEGORY_CONFIG).map(([code, config]) => {
-            const count = topicCounts[code] || 0;
-            if (count === 0) return null;
-            const Icon = TOPIC_ICONS[code] || Globe;
-
+          {Object.keys(REGION_CONFIG).map((code) => {
+            if (!allStories.some((s) => s.region_code === code)) return null;
+            const on = activeRegion === code;
             return (
               <button
                 key={code}
-                onClick={() => setActiveTopic(code)}
-                className="flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-[11px] font-medium whitespace-nowrap bg-surface-raised text-content-dim border border-edge hover:border-edge-accent hover:text-content transition-all"
+                onClick={() => setActiveRegion(on ? null : code)}
+                className={`whitespace-nowrap pb-1 border-b transition-colors ${on ? "text-content border-accent" : "text-content-faint border-transparent hover:text-content"}`}
               >
-                <Icon size={11} />
-                {config.label}
-                <span className="text-content-faint">{count}</span>
+                {REGION_CONFIG[code].label}
               </button>
             );
           })}
+        </nav>
+      </header>
+
+      {lead && (
+        <div className="px-4 md:px-10 mb-16 rise" style={{ animationDelay: "200ms" }}>
+          <StoryCard story={lead} variant="hero" isNew={isNew(lead)} />
         </div>
       )}
 
-      {activeTopic && (
-        <button
-          onClick={() => setActiveTopic(null)}
-          className="flex items-center gap-1.5 mb-6 px-2.5 py-1 rounded-lg text-[12px] font-medium bg-accent-bold text-white"
-        >
-          {CATEGORY_CONFIG[activeTopic as keyof typeof CATEGORY_CONFIG]?.label || activeTopic}
-          <X size={12} />
-        </button>
+      {five.length > 0 && (
+        <section className="px-4 md:px-10 mb-24 max-w-[1400px]">
+          <Reveal className="flex items-baseline gap-4 mb-2">
+            <h2 className="font-display text-[1.9rem] md:text-[2.4rem] leading-none text-content">
+              {hasFilters ? "Top stories" : "The five"}
+            </h2>
+            <span className="text-[13px] text-content-faint">what matters most after the lead</span>
+          </Reveal>
+          <ol className="divide-y divide-edge border-b border-edge max-w-4xl">
+            {five.map((s, i) => (
+              <Reveal as="li" key={s.id} delay={i * 70}>
+                <StoryCard story={s} variant="row" rank={i + 2} isNew={isNew(s)} />
+              </Reveal>
+            ))}
+          </ol>
+        </section>
       )}
 
-      {/* Stories */}
-      <div className="space-y-2">
-        {filteredStories.map((story) => (
-          <StoryCard key={story.id} story={story} />
+      {rails
+        .filter((r) => r.stories.length > 0)
+        .map((r) => (
+          <Rail
+            key={r.code}
+            id={r.code}
+            title={r.title}
+            note={REGION_CONFIG[r.code]?.description}
+            stories={r.stories}
+            isNew={isNew}
+          />
         ))}
-      </div>
 
-      {filteredStories.length === 0 && (
-        <div className="text-center py-16">
-          <p className="text-content-faint text-[14px] mb-2">
-            No stories match these filters.
-          </p>
-          <button
-            onClick={clearFilters}
-            className="text-[13px] text-content-dim hover:text-content underline underline-offset-2"
-          >
-            Clear filters
-          </button>
-        </div>
+      {filtered.length === 0 && (
+        <p className="px-4 md:px-10 py-16 text-content-faint">Nothing here today.</p>
       )}
     </div>
   );

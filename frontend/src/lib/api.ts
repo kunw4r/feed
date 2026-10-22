@@ -1,6 +1,8 @@
 import { Briefing, Story } from "./types";
 
-const IS_STATIC = process.env.NEXT_PUBLIC_STATIC === "true";
+// Read the generated JSON unless a live backend is explicitly configured.
+const IS_STATIC =
+  process.env.NEXT_PUBLIC_STATIC === "true" || !process.env.NEXT_PUBLIC_API_URL;
 const BACKEND_URL =
   process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
 const API_BASE = `${BACKEND_URL}/api`;

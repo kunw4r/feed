@@ -89,7 +89,7 @@ export default function AppShell({ children }: AppShellProps) {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const pathname = usePathname();
   const searchParams = useSearchParams();
-  const { theme, toggle } = useTheme();
+  const { toggle } = useTheme();
 
   const basePath = process.env.NEXT_PUBLIC_STATIC === "true" ? "/feed" : "";
 
@@ -122,20 +122,22 @@ export default function AppShell({ children }: AppShellProps) {
         key={href}
         href={href}
         onClick={() => setSidebarOpen(false)}
-        className={`flex items-center gap-2.5 px-3 py-1.5 rounded-lg text-[13px] transition-colors ${
-          isCurrentlyActive
-            ? "bg-nav-active text-nav-active-fg font-medium"
-            : "text-content-dim hover:text-content hover:bg-surface-hover"
+        className={`group relative flex items-center px-3 py-[5px] text-[13.5px] transition-colors ${
+          isCurrentlyActive ? "text-content" : "text-content-faint hover:text-content"
         }`}
       >
-        <Icon size={15} className={isCurrentlyActive ? "text-accent" : "text-content-faint"} />
+        <span
+          className={`absolute left-0 top-1/2 h-3 w-[2px] -translate-y-1/2 rounded-full bg-accent transition-opacity ${
+            isCurrentlyActive ? "opacity-100" : "opacity-0"
+          }`}
+        />
         <span className="truncate">{label}</span>
       </Link>
     );
   };
 
   const sectionHeader = (label: string) => (
-    <p className="px-3 text-[10px] font-semibold text-content-faint uppercase tracking-wider mb-1.5">
+    <p className="px-3 smallcaps text-[12px] text-content-subtle mb-1.5">
       {label}
     </p>
   );
@@ -143,23 +145,16 @@ export default function AppShell({ children }: AppShellProps) {
   const sidebar = (
     <div className="flex flex-col h-full">
       {/* Brand */}
-      <div className="px-4 py-5 border-b border-edge">
-        <Link href="/" onClick={() => setSidebarOpen(false)} className="flex items-center gap-2.5">
-          <div className="w-7 h-7 bg-accent-bold rounded-lg flex items-center justify-center">
-            <svg width="16" height="16" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <circle cx="30" cy="70" r="8" fill="white"/>
-              <path d="M30 50 a20 20 0 0 1 20 20" stroke="white" strokeWidth="7" strokeLinecap="round"/>
-              <path d="M30 32 a38 38 0 0 1 38 38" stroke="white" strokeWidth="7" strokeLinecap="round"/>
-            </svg>
-          </div>
-          <div>
-            <p className="text-[14px] font-bold text-content leading-tight">Brainfeed</p>
-            <p className="text-[11px] text-content-faint leading-tight">Feed your curiosity</p>
-          </div>
+      <div className="px-6 pt-7 pb-6">
+        <Link href="/" onClick={() => setSidebarOpen(false)} className="block">
+          <p className="font-display text-[22px] font-medium leading-none text-content">
+            Brainfeed<span className="text-accent">.</span>
+          </p>
+          <p className="mt-1.5 font-read italic text-[13px] text-content-faint">Feed your curiosity</p>
         </Link>
       </div>
 
-      <div className="flex-1 overflow-y-auto px-3 py-4 space-y-5">
+      <div className="no-scrollbar flex-1 overflow-y-auto px-3 pb-6 space-y-6">
         {/* All Stories */}
         {navLink("/", "All Stories", Newspaper, isExactActive("/"))}
 
@@ -225,14 +220,11 @@ export default function AppShell({ children }: AppShellProps) {
                 key={l.slug}
                 href={`/learn/${l.slug}`}
                 onClick={() => setSidebarOpen(false)}
-                className={`flex items-center gap-2.5 px-3 py-1.5 rounded-lg text-[13px] transition-colors ${
-                  isActive(`/learn/${l.slug}`)
-                    ? "bg-nav-active text-nav-active-fg font-medium"
-                    : "text-content-dim hover:text-content hover:bg-surface-hover"
+                className={`block px-3 py-[5px] text-[13.5px] truncate transition-colors ${
+                  isActive(`/learn/${l.slug}`) ? "text-content" : "text-content-faint hover:text-content"
                 }`}
               >
-                <Lightbulb size={15} className={isActive(`/learn/${l.slug}`) ? "text-accent" : "text-content-faint"} />
-                <span className="truncate">{l.label}</span>
+                {l.label}
               </Link>
             ))}
           </div>
@@ -247,9 +239,10 @@ export default function AppShell({ children }: AppShellProps) {
         <button
           onClick={toggle}
           className="p-1.5 rounded-lg hover:bg-surface-hover transition-colors text-content-dim"
-          title={theme === "dark" ? "Switch to light mode" : "Switch to dark mode"}
+          title="Toggle light / dark"
         >
-          {theme === "dark" ? <Sun size={16} /> : <Moon size={16} />}
+          <Sun size={16} className="hidden [.dark_&]:block" />
+          <Moon size={16} className="[.dark_&]:hidden" />
         </button>
       </div>
     </div>
@@ -258,28 +251,22 @@ export default function AppShell({ children }: AppShellProps) {
   return (
     <div className="flex min-h-screen">
       {/* Desktop sidebar */}
-      <aside className="hidden lg:flex w-[240px] flex-shrink-0 bg-surface-inset border-r border-edge flex-col fixed inset-y-0 left-0 z-20">
+      <aside className="hidden lg:flex w-[240px] flex-shrink-0 bg-surface border-r border-edge flex-col fixed inset-y-0 left-0 z-20">
         {sidebar}
       </aside>
 
       {/* Mobile header */}
       <header className="lg:hidden fixed top-0 left-0 right-0 z-30 bg-surface-header backdrop-blur-sm border-b border-edge px-4 py-3 flex items-center justify-between">
-        <Link href="/" className="flex items-center gap-2">
-          <div className="w-6 h-6 bg-accent-bold rounded-md flex items-center justify-center">
-            <svg width="12" height="12" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <circle cx="30" cy="70" r="8" fill="white"/>
-              <path d="M30 50 a20 20 0 0 1 20 20" stroke="white" strokeWidth="7" strokeLinecap="round"/>
-              <path d="M30 32 a38 38 0 0 1 38 38" stroke="white" strokeWidth="7" strokeLinecap="round"/>
-            </svg>
-          </div>
-          <span className="text-[14px] font-bold text-content">Brainfeed</span>
+        <Link href="/" className="font-display text-[19px] font-medium text-content">
+          Brainfeed<span className="text-accent">.</span>
         </Link>
         <div className="flex items-center gap-1">
           <button
             onClick={toggle}
             className="p-1.5 rounded-lg hover:bg-surface-hover transition-colors text-content-dim"
           >
-            {theme === "dark" ? <Sun size={18} /> : <Moon size={18} />}
+            <Sun size={18} className="hidden [.dark_&]:block" />
+            <Moon size={18} className="[.dark_&]:hidden" />
           </button>
           <button
             onClick={() => setSidebarOpen(!sidebarOpen)}
@@ -304,7 +291,7 @@ export default function AppShell({ children }: AppShellProps) {
       )}
 
       {/* Main content */}
-      <main className="flex-1 lg:ml-[240px] pt-14 lg:pt-0 min-h-screen">
+      <main className="flex-1 min-w-0 lg:ml-[240px] pt-14 lg:pt-0 min-h-screen">
         {children}
       </main>
     </div>

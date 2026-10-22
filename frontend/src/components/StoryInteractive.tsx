@@ -44,10 +44,10 @@ export default function StoryInteractive({
           setInitialQuestion(undefined);
           setChatOpen(true);
         }}
-        className="fixed bottom-6 right-6 z-30 bg-accent-bold text-white rounded-full p-3.5 shadow-lg hover:bg-accent-bold-hover hover:scale-105 transition-all duration-150"
+        className="fixed bottom-5 right-5 z-30 flex items-center gap-2 rounded-full bg-content/90 backdrop-blur px-4 py-2.5 text-[13px] font-medium text-surface shadow-2xl hover:bg-content transition-colors"
         title="Ask about this story"
       >
-        <MessageCircle size={20} />
+        <MessageCircle size={15} /> Ask
       </button>
 
       {chatOpen && (

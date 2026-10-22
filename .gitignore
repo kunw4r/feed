@@ -9,3 +9,6 @@ backend/data/
 .DS_Store
 .history/
 .worktrees/
+.venv/
+tsconfig.tsbuildinfo
+graphify-out/

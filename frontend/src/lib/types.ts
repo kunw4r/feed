@@ -9,6 +9,22 @@ export interface Concept {
   context: string;
 }
 
+export interface Quiz {
+  question: string;
+  options: string[];
+  answer_index: number;
+  explanation: string;
+}
+
+export interface Article {
+  source: string;
+  url: string;
+  title: string;
+  byline: string | null;
+  paragraphs: string[];
+  truncated?: boolean; // public builds keep only an excerpt
+}
+
 export interface Story {
   id: string;
   title: string;
@@ -30,12 +46,17 @@ export interface Story {
   related_story_ids: string[];
   created_at: string;
   published_date: string | null;
+  image_url?: string | null;
+  quiz?: Quiz | null;
+  reading_minutes?: number;
+  has_fulltext?: boolean;
 }
 
 export interface Briefing {
   date: string;
   regions: Record<string, Story[]>;
   total_stories: number;
+  generated_at?: string;
 }
 
 export type Category =
