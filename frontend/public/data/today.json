@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "generated_at": "2026-10-23T07:13:24.380241+00:00",
+ "generated_at": "2026-10-23T13:12:40.324937+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -260,6 +260,67 @@
   ],
   "ASIA": [
    {
+    "id": "b81cbf25-f5e2-5de5-b262-e5f6369afeca",
+    "title": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled",
+    "simplified_title": "Typhoon Champi shuts down almost all of Taiwan, nearly 1,000 flights cancelled",
+    "quick_summary": "Typhoon Champi, once the world's strongest storm this year, brushed past north-eastern Taiwan on Friday, killing one person, injuring more than 160 and grounding nearly 1,000 flights.",
+    "simplified_body": "Almost all of Taiwan shut down on Friday as Typhoon Champi roared towards its north-east coast with gusts of around 191km/h. All 262 domestic flights and 717 international flights were cancelled, the stock exchange closed, and schools and offices shut. One person died after being swept away by waves. CNA reports 163 people were injured (revised down from 171, the figure BBC News gives), and the two outlets differ on evacuations: CNA says 2,639 people were moved from mountain areas, while the BBC says about 1,000.\n\nThe storm is huge, with a radius of around 320km, big enough to cover most of Taiwan. Up to about 90cm of rain was forecast for northern mountain areas, including around Taipei. More than 77,000 homes lost power, though most got it back. Nearby, nearly 8,400 households in Japan's Okinawa lost power, and the Batanes islands in the Philippines copped heavy rain and wind.\n\nChampi peaked earlier in the week as a \"super typhoon\" with sustained winds of 298km/h, equal to a Category 5 hurricane. The BBC links this busy season to an unusually strong El Niño, a natural Pacific Ocean pattern that can trigger extreme weather. Champi is Japan's 30th typhoon this year, the most since 2013. Taiwan is generally very well prepared, which keeps casualties low.\n\nForecasters in Taiwan, Hong Kong and Japan expect the eye to pass offshore, but Taiwan's Central Weather Administration (CWA) says landfall can't be ruled out if the storm \"stalls, loops, or wobbles\". Rain should peak Saturday morning before Champi heads towards China's coast and then Japan.",
+    "why_it_matters": "Champi shows how a strong El Niño can supercharge Pacific storms. That same climate pattern also shapes Australia's weather, so it's worth understanding what it does.",
+    "deep_analysis": "## Historical Context\nTyphoons hit Taiwan regularly, mostly in summer, though autumn storms like Champi do happen. Towns like Suao have flooded badly in past typhoons. As general background, Taiwan's \"typhoon holiday\" system and early-warning alerts have built up over decades of frequent storms. The BBC notes this is Japan's busiest season since 2013.\n\n## Multiple Perspectives\nOfficials are cautious, warning that landfall remains possible. Some locals, like 18-year-old Keelung worker Liu Yu-en, felt it was \"not that severe\" but worried about flooding after a soggy year. The sources disagree on the numbers: injuries (163 vs 171) and evacuations (2,639 vs about 1,000). The BBC frames the storm within a Super El Niño, while CNA doesn't mention El Niño at all.\n\n## What to Watch\n- Whether Champi stalls or wobbles into a direct landfall.\n- Flooding from the heavy rain in northern mountain areas.\n- Impacts as it moves towards China and Japan's main island.\n- Whether more intense storms follow while El Niño lasts.",
+    "concepts": [
+     {
+      "term": "super typhoon",
+      "definition": "A label for an exceptionally powerful typhoon with extremely high sustained winds.",
+      "context": "Champi was a super typhoon at its peak before weakening on Wednesday."
+     },
+     {
+      "term": "El Niño",
+      "definition": "A natural warming of the Pacific Ocean every few years that can trigger droughts, typhoons and other extreme weather.",
+      "context": "The BBC says an unusually strong El Niño is behind this busy typhoon season."
+     },
+     {
+      "term": "landfall",
+      "definition": "When the centre (eye) of a storm moves from the sea onto land.",
+      "context": "Forecasters expect Champi's eye to stay offshore, but they can't rule out landfall."
+     }
+    ],
+    "quiz": {
+     "question": "Why could Taiwan still face serious damage even if Champi's eye never makes landfall?",
+     "options": [
+      "Because the storm's very large radius means its winds and rain cover most of the island anyway",
+      "Because typhoons get stronger after passing land",
+      "Because Taiwan has no warning systems",
+      "Because the stock exchange closed"
+     ],
+     "answer_index": 0,
+     "explanation": "Champi's radius was about 320km, big enough to cover most of Taiwan, so strong winds and heavy rain hit even without a direct landfall."
+    },
+    "impact_score": 55,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--x6JRmvCF--/c_crop,h_1125,w_1999,x_1,y_43/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/23/ap26295223068028.jpg?itok=4EU16ytK",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "Typhoon Champi, once the world's strongest storm this year, brushed past north-eastern Taiwan on Friday, killing one person, injuring more than 160 and grounding nearly 1,000 flights.",
+    "tier": "GLOBAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/typhoon-champi-approaches-taiwan-flights-cancelled-6484571"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-23T13:13:12.424933+00:00",
+    "published_date": "2026-10-23",
+    "has_fulltext": true
+   },
+   {
     "id": "734c5bf2-dc73-5e5d-a2b8-c7834571671e",
     "title": "Magnitude-7 earthquake hits China's Tibet region, killing 16 people",
     "simplified_title": "Magnitude-7 earthquake in remote Tibet kills 16, injures 32",
@@ -447,6 +508,128 @@
     "related_story_ids": [],
     "reading_minutes": 3,
     "created_at": "2026-10-23T07:13:54.953352+00:00",
+    "published_date": "2026-10-23",
+    "has_fulltext": true
+   },
+   {
+    "id": "920de58d-374c-5da9-baa1-d152afa9a420",
+    "title": "Ebola in Nigeria: Switzerland confirms case is diplomat's wife",
+    "simplified_title": "Nigeria's Ebola patient is Swiss diplomat's wife, sparking travel-history dispute",
+    "quick_summary": "Nigeria's first confirmed Ebola patient in more than a decade is the wife of a Swiss diplomat, and Switzerland and Uganda disagree about where she travelled and caught the virus.",
+    "simplified_body": "A woman in Nigeria's capital, Abuja, tested positive for Ebola on 20 October, the country's first confirmed case in more than a decade. Switzerland says she's the wife of a Swiss diplomat. The BBC describes her as a 42-year-old Ugandan-born national, while DW says Swiss authorities called her a Swiss national of Ugandan origin. She's in isolation and improving, according to the World Health Organization (WHO). Her husband is isolating but has no symptoms.\n\nThe big question is where she caught it. Uganda's health ministry said she visited eastern Democratic Republic of Congo (DR Congo) for business. Switzerland flatly denies that, saying she and her husband only travelled in Uganda. The WHO and the Africa Centres for Disease Control and Prevention (Africa CDC) say they haven't verified any DR Congo trip. Uganda says it has no confirmed active cases.\n\nSome background: DR Congo is having its deadliest Ebola outbreak, with about 4,600 deaths. She has the Bundibugyo species of Ebola, the same type behind that outbreak. Investigators are checking whether she crossed paths at Entebbe International Airport in Uganda on 3 October with a Kenyan man who had come from DR Congo and later died of Ebola. Kenya has since confirmed eight more cases, all linked to him. No link to the Nigerian woman has been established.\n\nNext, Nigeria's Centre for Disease Control and Prevention (NCDC) is running genomic sequencing to see if her infection matches other cases. Authorities are tracing people beyond the 44 contacts first identified, and Kenya is still hunting for one untraced contact. The Africa CDC will hold an emergency virtual meeting on 28 October.",
+    "why_it_matters": "Cases popping up thousands of kilometres apart show how quickly Ebola can travel with people through busy airports and porous borders. There's no Australian angle in these reports, but it's a reminder of why fast information-sharing between countries matters.",
+    "deep_analysis": "## Historical Context\nAs background, Nigeria last dealt with Ebola during the large West African epidemic of 2014, which is why the BBC calls this the first confirmed case in more than a decade and why Abuja residents told DW it revived memories. DR Congo has faced repeated outbreaks, and the current one is described as its deadliest, with some 4,600 deaths. Uganda had two deaths shortly after the outbreak began in May but was declared Ebola-free in August.\n\n## Multiple Perspectives\n- **Uganda** says the woman travelled to eastern DR Congo for business and that passing through Uganda doesn't mean she was infected there. It maintains it has no confirmed active cases.\n- **Switzerland** says she never went to DR Congo and believes she caught the virus in Uganda, though this hasn't been independently confirmed.\n- **WHO and Africa CDC** say it's too early to know and they have no verified evidence of a DR Congo trip. The Entebbe airport crossover with the Kenyan patient is \"one of the possible scenarios\" but unproven.\n- **Abuja residents** worry about both the virus and whether a strained health system can cope during economic hardship.\n\n## What to Watch\n- Results of Nigeria's genomic sequencing, which could link her infection to the Kenyan or DR Congo cases.\n- Whether contact tracing in Nigeria finds new infections.\n- Whether Kenya locates its missing Ugandan contact.\n- Outcomes of the Africa CDC's extraordinary meeting on 28 October and any strengthened border screening by Uganda.",
+    "concepts": [
+     {
+      "term": "genomic sequencing",
+      "definition": "Reading the virus's genetic code so scientists can compare it with samples from other patients.",
+      "context": "Nigeria is using it to check whether the woman's infection is linked to the Kenyan or DR Congo cases."
+     },
+     {
+      "term": "Bundibugyo species",
+      "definition": "One particular type of Ebola virus, named after a district in Uganda.",
+      "context": "The Nigerian patient has this species, the same one driving the DR Congo outbreak."
+     },
+     {
+      "term": "contacts",
+      "definition": "People who may have been near or touched an infected person and so could have been exposed.",
+      "context": "Nigeria first identified 44 contacts and is now tracing more."
+     }
+    ],
+    "quiz": {
+     "question": "Why is it so hard for investigators to pin down where the Nigerian patient caught Ebola?",
+     "options": [
+      "Ebola spreads through the air, so anyone on her flights could have infected her",
+      "Her travel history is disputed between Uganda and Switzerland, and limited interviews have slowed reconstruction",
+      "She refused to be tested until symptoms disappeared",
+      "Nigeria has no laboratories able to identify Ebola"
+     ],
+     "answer_index": 1,
+     "explanation": "Uganda says she went to DR Congo while Switzerland denies it, and the WHO says interviewing her in hospital has been limited. Ebola does not spread through the air like flu."
+    },
+    "impact_score": 58,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/bc0c/live/cdfdf700-ce98-11f1-a6ca-3fa3d92134e2.jpg",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Nigeria's first confirmed Ebola patient in more than a decade is the wife of a Swiss diplomat, and Switzerland and Uganda disagree about where she travelled and caught the virus.",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-10-23T13:13:14.419377+00:00",
+    "published_date": "2026-10-23",
+    "has_fulltext": true
+   },
+   {
+    "id": "20f16213-bf92-5ce5-a647-9adea8ab1a6d",
+    "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+    "simplified_title": "Gunmen kill seven at church funeral in Jordan's Karak region",
+    "quick_summary": "Two gunmen opened fire on mourners at a church funeral in Jordan's Karak governorate on Friday, killing at least seven people and injuring 10, according to Jordanian state media and authorities.",
+    "simplified_body": "On Friday, two gunmen opened fire during a funeral at a church in the Karak governorate of Jordan, killing at least seven people and wounding another 10. A security source told state broadcaster Al-Mamlaka it happened at the Hammoud Church. The attackers reportedly arrived by car, fired a rifle and a pistol at mourners for several minutes, then fled.\n\nDozens of people were inside for the funeral, according to mourner Khaled Burqan. The victims were people gathered to grieve, which makes the attack especially shocking. Nobody has claimed responsibility, and the attackers' identities and motives are still unknown.\n\nSome background: Jordan is a largely Muslim-majority country of around 11.5 million people, with a small Christian minority of a couple of hundred thousand. Karak, about 180 kilometres south of the capital, Amman, has a significant Christian population. A governorate is a regional area, a bit like a state or district. DW notes that attacks like this are rare in Jordan. The sources differ slightly on location: the BBC says central Jordan, while DW says southern Jordan.\n\nGovernment spokesman Mohammad al-Momani said security forces have been deployed. Both outlets say the story is still developing, so expect updates on who the attackers were, why they struck, and whether the death toll changes.",
+    "why_it_matters": "An attack on mourners at a church in a country where such violence is rare raises concerns about the safety of Jordan's Christian minority and the stability of a usually calm country in a tense region.",
+    "deep_analysis": "## Historical Context\nAccording to DW, attacks like this are rare in Jordan. As general background, Jordan has long been seen as one of the more stable countries in the Middle East, and Christian communities have lived there for centuries. Karak itself is a historic town with a notable Christian population, which DW confirms.\n\n## Multiple Perspectives\nThe facts so far come mainly from Jordanian state media and authorities. Mourner Khaled Burqan gave an eyewitness account of the attackers firing for several minutes. The government's focus, via spokesman Mohammad al-Momani, is on the security response. Because no-one has claimed responsibility and motives are unclear, it is too early to know whether this was religiously targeted, personal, or something else; jumping to conclusions would be unwise. The BBC and DW also differ on describing Karak as central or southern Jordan.\n\n## What to Watch\n- Whether the gunmen are identified or caught.\n- Any claim of responsibility or clarity on motive.\n- Changes to the casualty figures, since both reports were breaking news.\n- Any increased security for religious sites in Jordan.",
+    "concepts": [
+     {
+      "term": "governorate",
+      "definition": "An administrative region of a country, similar to a state or district.",
+      "context": "The shooting happened in Jordan's Karak governorate."
+     },
+     {
+      "term": "state broadcaster",
+      "definition": "A TV or radio outlet owned or run by the government.",
+      "context": "Al-Mamlaka, Jordan's state broadcaster, reported key details from a security source."
+     },
+     {
+      "term": "Christian minority",
+      "definition": "A smaller group of Christians living in a country where most people follow another religion.",
+      "context": "Jordan is largely Muslim but has a Christian minority of a couple of hundred thousand, with many in Karak."
+     }
+    ],
+    "quiz": {
+     "question": "Based on the reports, what is currently known about why the attack happened?",
+     "options": [
+      "It was claimed by a known militant group",
+      "The motive is still unclear and no-one has claimed responsibility",
+      "It was confirmed as a family dispute",
+      "Authorities said it was a robbery gone wrong"
+     ],
+     "answer_index": 1,
+     "explanation": "Both sources say the attackers' identities and motives remain unclear and no-one has claimed responsibility."
+    },
+    "impact_score": 45,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/824e/live/d493de60-cee1-11f1-bdca-23c64447299f.png",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Two gunmen opened fire on mourners at a church funeral in Jordan's Karak governorate on Friday, killing at least seven people and injuring 10, according to Jordanian state media and authorities.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-10-23T13:13:09.705708+00:00",
     "published_date": "2026-10-23",
     "has_fulltext": true
    }
@@ -817,8 +1000,65 @@
     "created_at": "2026-10-23T07:13:57.359540+00:00",
     "published_date": "2026-10-23",
     "has_fulltext": true
+   },
+   {
+    "id": "53e56d57-1ab1-5154-b028-e90ee22eab3f",
+    "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
+    "simplified_title": "Meta ordered to pay New Mexico $25 billion for misleading users",
+    "quick_summary": "A US judge has ordered Meta to pay New Mexico $25 billion after a jury found the company broke state consumer protection laws nearly 44 million times by misleading users since 2010.",
+    "simplified_body": "Meta, the company behind Facebook, has been hit with a $25 billion fine in New Mexico, the largest it has ever faced. A jury found Meta guilty of nearly 44 million violations of state consumer protection laws, and US district court judge Francis J. Mathew set the penalty in an opinion released Wednesday.\n\nThe judge found Meta repeatedly and willfully deceived users since 2010 about their control of data, misuse of data by third parties, misinformation, hate speech and equal enforcement of its rules. New Mexico Attorney General Raúl Torrez argued the whole state of 2 million people was harmed, and the judge said the trial record showed top leaders, including Mark Zuckerberg, knew the company was making misleading public statements.\n\nSome background: earlier this year, Meta reached an $18 billion settlement with attorneys general in nearly all US states. New Mexico refused to join that deal and went to trial instead. The state even asked for up to $40 billion, arguing Meta wouldn't change unless the penalty hit its stock price. The judge said there was no \"bright line rule\" for setting the fine, but the evidence supported the highest penalty level allowed under the state's Unfair Practices Act.\n\nThe article says Meta was shocked by the outcome. It doesn't say what Meta will do next, but the result may make other states wonder whether going it alone pays off.",
+    "why_it_matters": "It shows one state can win far more by fighting a tech giant in court than by joining a group settlement. For Australians who use Facebook, the findings about misleading users over data control are a reminder to look closely at what platforms actually do with your information.",
+    "deep_analysis": "## Historical Context\nAccording to the source, the deception stretches back to 2010 and covered more than 11 years of repeated public statements. The judge suggested Meta avoided transparency to profit from data users didn't realise they were sharing and to compete with the platform then known as Twitter. As background, Facebook has faced years of scrutiny over privacy, including the Cambridge Analytica scandal, though the article doesn't mention it.\n\n## Multiple Perspectives\n- **New Mexico:** Attorney General Raúl Torrez argued all 2 million residents were harmed and pushed for up to $40 billion, saying only a penalty that affected Meta's share price would force real change.\n- **The court:** Judge Mathew said there was no \"bright line rule\" for the penalty but found the record supported the maximum level, writing that \"Facebook systematically misled the public.\"\n- **Meta:** The headline says Meta was \"shocked\" by the fine, but the article doesn't include a detailed response from the company.\n\n## What to Watch\n- Whether Meta tries to appeal (background: large penalties are often challenged, though the source doesn't say Meta will).\n- Whether other states regret joining the $18 billion settlement.\n- Whether regulators elsewhere, including in Australia, take note of the findings (background speculation, not in the source).",
+    "concepts": [
+     {
+      "term": "consumer protection laws",
+      "definition": "Laws meant to stop businesses from tricking or treating customers unfairly.",
+      "context": "The jury found Meta broke New Mexico's consumer protection laws nearly 44 million times."
+     },
+     {
+      "term": "settlement",
+      "definition": "An agreement to resolve a legal dispute, usually involving payment, without a full trial verdict.",
+      "context": "Most states accepted an $18 billion settlement with Meta, but New Mexico refused and went to trial."
+     },
+     {
+      "term": "Attorney General",
+      "definition": "A state's top legal officer, who can sue companies on behalf of the public.",
+      "context": "New Mexico Attorney General Raúl Torrez led the case against Meta."
+     }
+    ],
+    "quiz": {
+     "question": "Why did New Mexico end up with a separate $25 billion penalty against Meta?",
+     "options": [
+      "It declined to join the multistate settlement and took Meta to trial instead",
+      "It was the only state where Facebook operated",
+      "Meta volunteered to pay extra to New Mexico",
+      "Twitter sued Meta in New Mexico"
+     ],
+     "answer_index": 0,
+     "explanation": "New Mexico refused to join the $18 billion deal most states accepted, went to trial, and a jury found Meta guilty, leading to the $25 billion fine."
+    },
+    "impact_score": 72,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1968308632-1024x648.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "A US judge has ordered Meta to pay New Mexico $25 billion after a jury found the company broke state consumer protection laws nearly 44 million times by misleading users since 2010.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-10-23T13:13:10.934954+00:00",
+    "published_date": "2026-10-23",
+    "has_fulltext": true
    }
   ]
  },
- "total_stories": 13
+ "total_stories": 17
 }
