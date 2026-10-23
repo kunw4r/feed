@@ -1,23 +1,18 @@
 import Link from "next/link";
-import { ArrowLeft } from "lucide-react";
 
 export default function NotFound() {
   return (
-    <div className="max-w-2xl mx-auto px-5 py-12">
-      <div className="text-center py-20">
-        <h1 className="text-2xl font-bold text-content mb-2">
-          Page not found
-        </h1>
-        <p className="text-content-dim text-[15px] mb-8">
-          The page you&apos;re looking for doesn&apos;t exist or has been moved.
+    <div className="flex min-h-[70vh] items-center px-4 md:px-10">
+      <div>
+        <p className="font-display italic text-accent text-[22px]">404</p>
+        <h1 className="font-display mt-3 text-[3rem] md:text-[4.5rem] leading-none font-medium text-content">This page isn&apos;t in the edition.</h1>
+        <p className="font-read mt-5 max-w-lg text-[1.15rem] text-content-dim">
+          Stories move into the archive after a day or two, and older ones are cleared after a month.
         </p>
-        <Link
-          href="/"
-          className="inline-flex items-center gap-2 px-4 py-2.5 text-[13px] font-medium bg-accent-bold text-white rounded-lg hover:bg-accent-bold-hover transition-colors"
-        >
-          <ArrowLeft size={14} />
-          Back to feed
-        </Link>
+        <div className="mt-8 flex gap-6 text-[14px]">
+          <Link href="/" className="rounded-full bg-content px-5 py-2.5 font-medium text-surface">Today&apos;s edition</Link>
+          <Link href="/archive" className="py-2.5 text-content-dim hover:text-content">The archive →</Link>
+        </div>
       </div>
     </div>
   );

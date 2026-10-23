@@ -51,7 +51,7 @@ export default function OriginalReporting({ storyId, minutes }: { storyId: strin
           </div>
 
           {rest > 0 && (
-            <div className="unfold" data-open={open}>
+            <div className="unfold" data-open={open} inert={!open}>
               <div className="reader">
                 {article.paragraphs.slice(PREVIEW).map((p, i) => (
                   <p key={i}>{p}</p>

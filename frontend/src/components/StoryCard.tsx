@@ -26,7 +26,7 @@ const FALLBACK_TINT: Record<string, string> = {
   UNCATEGORISED: "from-stone-900 via-stone-700 to-stone-500",
 };
 
-export function CardImage({ story, className = "" }: { story: Story; className?: string }) {
+export function CardImage({ story, className = "", priority }: { story: Story; className?: string; priority?: boolean }) {
   const [failed, setFailed] = useState(false);
   const tint = FALLBACK_TINT[story.category] || FALLBACK_TINT.UNCATEGORISED;
 
@@ -38,7 +38,8 @@ export function CardImage({ story, className = "" }: { story: Story; className?:
     <img
       src={story.image_url}
       alt=""
-      loading="lazy"
+      loading={priority ? "eager" : "lazy"}
+      fetchPriority={priority ? "high" : "auto"}
       referrerPolicy="no-referrer"
       onError={() => setFailed(true)}
       className={`card-img absolute inset-0 h-full w-full object-cover ${className}`}
@@ -72,7 +73,7 @@ export default function StoryCard({ story, variant = "rail", rank, isNew }: Stor
   if (variant === "hero") {
     return (
       <Link href={`/story/${story.id}`} className="card-depth group relative block overflow-hidden rounded-[28px] bg-black h-[62svh] min-h-[440px] max-h-[640px]">
-        <CardImage story={story} className="opacity-90" />
+        <CardImage story={story} className="opacity-90" priority />
         <div className="scrim absolute inset-0" />
         <div className="absolute inset-x-0 bottom-0 p-6 md:p-12 max-w-4xl">
           <Kicker story={story} light isNew={isNew} />

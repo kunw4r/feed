@@ -1,31 +1,11 @@
+import type { Metadata } from "next";
+import { readFile } from "fs/promises";
+import path from "path";
 import HistoryTimeline from "@/components/HistoryTimeline";
 
-const IS_STATIC = process.env.NEXT_PUBLIC_STATIC === "true";
-
-interface HistoryEvent {
-  year: string;
-  title: string;
-  slug: string;
-  summary: string;
-  era: string;
-  significance: string;
-  has_content: boolean;
-}
-
-async function getHistoryIndex(): Promise<HistoryEvent[]> {
-  if (IS_STATIC) {
-    try {
-      const { default: data } = await import("../../../public/data/history-index.json");
-      return data as HistoryEvent[];
-    } catch {
-      return [];
-    }
-  }
-  return [];
-}
+export const metadata: Metadata = { title: "100 events that shaped the world" };
 
 export default async function HistoryPage() {
-  const events = await getHistoryIndex();
-
+  const events = JSON.parse(await readFile(path.join(process.cwd(), "public/data/history-index.json"), "utf8"));
   return <HistoryTimeline events={events} />;
 }

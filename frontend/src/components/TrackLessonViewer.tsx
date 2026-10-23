@@ -1,182 +1,142 @@
 "use client";
 
-import { useState } from "react";
-import { ChevronDown, CheckCircle, Circle, BookOpen } from "lucide-react";
-
-interface Concept {
-  term: string;
-  definition: string;
-}
+import { useEffect, useState } from "react";
+import { Reveal } from "./motion";
 
 interface Lesson {
   title: string;
   content: string;
   key_takeaways: string[];
-  concepts: Concept[];
+  concepts: { term: string; definition: string }[];
 }
 
-interface TrackLessonViewerProps {
-  lessons: Lesson[];
+const KEY = "brainfeed-tracks";
+
+function loadDone(slug: string): number[] {
+  try {
+    return JSON.parse(localStorage.getItem(KEY) || "{}")[slug] ?? [];
+  } catch {
+    return [];
+  }
 }
 
-export default function TrackLessonViewer({ lessons }: TrackLessonViewerProps) {
-  const [activeLesson, setActiveLesson] = useState(0);
-  const [completedLessons, setCompletedLessons] = useState<Set<number>>(new Set());
+function saveDone(slug: string, done: number[]) {
+  try {
+    const all = JSON.parse(localStorage.getItem(KEY) || "{}");
+    localStorage.setItem(KEY, JSON.stringify({ ...all, [slug]: done }));
+  } catch {
+    // storage unavailable: progress lasts for this visit only
+  }
+}
 
-  const toggleComplete = (index: number) => {
-    const next = new Set(completedLessons);
-    if (next.has(index)) {
-      next.delete(index);
-    } else {
-      next.add(index);
-    }
-    setCompletedLessons(next);
+export default function TrackLessonViewer({ slug, lessons }: { slug: string; lessons: Lesson[] }) {
+  const [active, setActive] = useState(0);
+  const [done, setDone] = useState<number[]>([]);
+
+  useEffect(() => setDone(loadDone(slug)), [slug]);
+
+  const go = (i: number) => {
+    setActive(i);
+    document.getElementById("lesson")?.scrollIntoView({ behavior: "smooth", block: "start" });
   };
 
-  const lesson = lessons[activeLesson];
-  const progress = Math.round((completedLessons.size / lessons.length) * 100);
+  const complete = () => {
+    const next = done.includes(active) ? done.filter((d) => d !== active) : [...done, active];
+    setDone(next);
+    saveDone(slug, next);
+    if (!done.includes(active) && active < lessons.length - 1) go(active + 1);
+  };
+
+  const lesson = lessons[active];
 
   return (
-    <div>
-      {/* Progress bar */}
-      <div className="mb-6">
-        <div className="flex items-center justify-between mb-1.5">
-          <span className="text-[12px] font-medium text-content-dim">Progress</span>
-          <span className="text-[12px] text-content-faint">{completedLessons.size}/{lessons.length} completed</span>
+    <div className="lg:grid lg:grid-cols-[260px_minmax(0,640px)] lg:gap-16">
+      {/* Contents */}
+      <nav aria-label="Lessons" className="mb-12 lg:mb-0">
+        <div className="lg:sticky lg:top-8">
+          <div className="flex items-baseline justify-between mb-3">
+            <p className="smallcaps text-[13px] text-content-faint">Lessons</p>
+            <p className="text-[12px] text-content-faint">{done.length}/{lessons.length} done</p>
+          </div>
+          <div className="mb-4 h-[2px] bg-edge">
+            <div className="h-full bg-accent transition-all duration-700" style={{ width: `${(done.length / lessons.length) * 100}%` }} />
+          </div>
+          <ol>
+            {lessons.map((l, i) => (
+              <li key={i} className="border-b border-edge">
+                <button
+                  onClick={() => go(i)}
+                  aria-current={i === active ? "step" : undefined}
+                  className={`grid w-full grid-cols-[1.8rem_1fr] gap-2 py-3 text-left transition-colors ${i === active ? "text-content" : "text-content-faint hover:text-content"}`}
+                >
+                  <span className={`font-display italic text-[15px] ${done.includes(i) ? "text-accent" : ""}`}>
+                    {done.includes(i) ? "✓" : String(i + 1).padStart(2, "0")}
+                  </span>
+                  <span className="text-[14px] leading-snug">{l.title}</span>
+                </button>
+              </li>
+            ))}
+          </ol>
         </div>
-        <div className="w-full h-1.5 bg-edge rounded-full overflow-hidden">
-          <div
-            className="h-full bg-accent-bold rounded-full transition-all duration-300"
-            style={{ width: `${progress}%` }}
-          />
-        </div>
-      </div>
+      </nav>
 
-      {/* Lesson list */}
-      <div className="flex gap-6">
-        {/* Left: lesson nav */}
-        <div className="hidden md:block w-56 flex-shrink-0 space-y-1">
-          {lessons.map((l, i) => (
-            <button
-              key={i}
-              onClick={() => setActiveLesson(i)}
-              className={`w-full text-left flex items-center gap-2.5 px-3 py-2 rounded-lg text-[13px] transition-colors ${
-                activeLesson === i
-                  ? "bg-nav-active text-nav-active-fg"
-                  : "text-content-dim hover:bg-surface-hover"
-              }`}
-            >
-              {completedLessons.has(i) ? (
-                <CheckCircle size={14} className={activeLesson === i ? "text-accent" : "text-green-400"} />
-              ) : (
-                <Circle size={14} className={activeLesson === i ? "text-accent" : "text-content-faint"} />
-              )}
-              <span className="truncate">{l.title}</span>
-            </button>
+      {/* Lesson */}
+      <article id="lesson" key={active} className="scroll-mt-20 animate-in min-w-0">
+        <p className="smallcaps text-[13px] text-content-faint">Lesson {active + 1} of {lessons.length}</p>
+        <h2 className="font-display mt-2 mb-8 text-[2rem] md:text-[2.6rem] leading-[1.05] font-medium text-content text-balance">{lesson.title}</h2>
+        <div className="space-y-6">
+          {lesson.content.split("\n\n").map((p, i) => (
+            <Reveal as="p" key={i} className="prose-read">{p}</Reveal>
           ))}
         </div>
 
-        {/* Mobile lesson selector */}
-        <div className="md:hidden w-full mb-4">
-          <select
-            value={activeLesson}
-            onChange={(e) => setActiveLesson(Number(e.target.value))}
-            className="w-full px-3 py-2 rounded-lg border border-edge text-[13px] text-content bg-surface-raised"
-          >
-            {lessons.map((l, i) => (
-              <option key={i} value={i}>
-                {completedLessons.has(i) ? "- " : ""} Lesson {i + 1}: {l.title}
-              </option>
-            ))}
-          </select>
-        </div>
-
-        {/* Right: lesson content */}
-        <div className="flex-1 min-w-0">
-          <div className="bg-surface-raised rounded-2xl border border-edge px-6 py-6">
-            <div className="flex items-center gap-2 mb-1 text-[11px] text-content-faint">
-              <BookOpen size={12} />
-              Lesson {activeLesson + 1} of {lessons.length}
-            </div>
-            <h2 className="text-xl font-bold text-content mb-4">
-              {lesson.title}
-            </h2>
-
-            {/* Content */}
-            <div className="text-[14px] leading-relaxed text-content-dim space-y-4">
-              {lesson.content.split("\n\n").map((paragraph, i) => (
-                <p key={i}>{paragraph}</p>
+        {lesson.key_takeaways?.length > 0 && (
+          <Reveal className="mt-14">
+            <p className="smallcaps text-[13px] text-content-faint mb-4">Remember</p>
+            <ol className="space-y-3">
+              {lesson.key_takeaways.map((t, i) => (
+                <li key={i} className="grid grid-cols-[1.8rem_1fr] gap-2 font-read text-[1.1rem] leading-snug text-content">
+                  <span className="font-display italic text-accent">{i + 1}</span>
+                  {t}
+                </li>
               ))}
-            </div>
+            </ol>
+          </Reveal>
+        )}
 
-            {/* Key takeaways */}
-            {lesson.key_takeaways && lesson.key_takeaways.length > 0 && (
-              <div className="mt-6 bg-surface-hover rounded-lg px-5 py-4">
-                <h3 className="text-[13px] font-semibold text-content mb-2">Key takeaways</h3>
-                <ul className="space-y-1.5">
-                  {lesson.key_takeaways.map((t, i) => (
-                    <li key={i} className="flex items-start gap-2 text-[13px] text-content-dim">
-                      <CheckCircle size={13} className="text-green-400 mt-0.5 flex-shrink-0" />
-                      <span>{t}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            )}
-
-            {/* Concepts */}
-            {lesson.concepts && lesson.concepts.length > 0 && (
-              <div className="mt-6">
-                <h3 className="text-[13px] font-semibold text-content mb-2">Concepts</h3>
-                <div className="space-y-2">
-                  {lesson.concepts.map((c, i) => (
-                    <div key={i} className="bg-surface border border-edge rounded-lg px-4 py-3">
-                      <span className="text-[13px] font-medium text-content">{c.term}</span>
-                      <p className="text-[12px] text-content-dim mt-0.5">{c.definition}</p>
-                    </div>
-                  ))}
+        {lesson.concepts?.length > 0 && (
+          <Reveal className="mt-14">
+            <p className="smallcaps text-[13px] text-content-faint mb-4">Words to know</p>
+            <dl className="divide-y divide-edge border-y border-edge">
+              {lesson.concepts.map((c) => (
+                <div key={c.term} className="grid gap-1 py-4 md:grid-cols-[160px_1fr] md:gap-6">
+                  <dt className="font-read italic text-[1.05rem] text-content">{c.term}</dt>
+                  <dd className="text-[14px] leading-relaxed text-content-dim">{c.definition}</dd>
                 </div>
-              </div>
-            )}
+              ))}
+            </dl>
+          </Reveal>
+        )}
 
-            {/* Navigation */}
-            <div className="flex items-center justify-between mt-8 pt-4 border-t border-edge">
-              <button
-                onClick={() => toggleComplete(activeLesson)}
-                className={`flex items-center gap-2 px-4 py-2 rounded-lg text-[13px] font-medium transition-colors ${
-                  completedLessons.has(activeLesson)
-                    ? "bg-green-500/10 text-green-400 hover:bg-green-500/20"
-                    : "bg-surface-hover text-content-dim hover:text-content"
-                }`}
-              >
-                {completedLessons.has(activeLesson) ? (
-                  <><CheckCircle size={14} /> Completed</>
-                ) : (
-                  <><Circle size={14} /> Mark complete</>
-                )}
-              </button>
-              <div className="flex gap-2">
-                {activeLesson > 0 && (
-                  <button
-                    onClick={() => setActiveLesson(activeLesson - 1)}
-                    className="px-3 py-2 rounded-lg text-[13px] text-content-dim hover:text-content hover:bg-surface-hover transition-colors"
-                  >
-                    Previous
-                  </button>
-                )}
-                {activeLesson < lessons.length - 1 && (
-                  <button
-                    onClick={() => setActiveLesson(activeLesson + 1)}
-                    className="px-3 py-2 rounded-lg text-[13px] font-medium bg-accent-bold text-white hover:bg-accent-bold-hover transition-colors"
-                  >
-                    Next lesson
-                  </button>
-                )}
-              </div>
-            </div>
+        <div className="mt-14 flex flex-wrap items-center justify-between gap-4 border-t border-edge pt-6">
+          <button
+            onClick={complete}
+            className={`rounded-full px-5 py-2.5 text-[14px] font-medium transition-colors ${
+              done.includes(active) ? "border border-edge text-content-dim" : "bg-content text-surface hover:opacity-90"
+            }`}
+          >
+            {done.includes(active) ? "✓ Completed" : active < lessons.length - 1 ? "Done — next lesson" : "Finish track"}
+          </button>
+          <div className="flex gap-5 text-[14px]">
+            {active > 0 && (
+              <button onClick={() => go(active - 1)} className="text-content-faint hover:text-content">← Previous</button>
+            )}
+            {active < lessons.length - 1 && (
+              <button onClick={() => go(active + 1)} className="text-content-faint hover:text-content">Skip →</button>
+            )}
           </div>
         </div>
-      </div>
+      </article>
     </div>
   );
 }

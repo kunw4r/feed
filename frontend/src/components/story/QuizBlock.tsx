@@ -52,7 +52,7 @@ export default function QuizBlock({ storyId, quiz }: { storyId: string; quiz: Qu
           );
         })}
       </ol>
-      <div className="unfold" data-open={answered}>
+      <div className="unfold" data-open={answered} inert={!answered}>
         <div>
           <p className="pt-6 font-read text-[1.1rem] leading-relaxed text-content-dim">
             <span className="font-display italic text-content">{right ? "Exactly. " : "Not quite. "}</span>

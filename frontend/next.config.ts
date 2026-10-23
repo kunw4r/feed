@@ -3,7 +3,6 @@ import type { NextConfig } from "next";
 const isStatic = process.env.NEXT_PUBLIC_STATIC === "true";
 
 const nextConfig: NextConfig = {
-  typescript: { ignoreBuildErrors: true },
   ...(isStatic
     ? {
         output: "export",

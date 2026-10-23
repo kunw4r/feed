@@ -1,94 +1,61 @@
+import { readFile } from "fs/promises";
+import path from "path";
 import { Briefing, Story } from "./types";
 
-// Read the generated JSON unless a live backend is explicitly configured.
-const IS_STATIC =
-  process.env.NEXT_PUBLIC_STATIC === "true" || !process.env.NEXT_PUBLIC_API_URL;
-const BACKEND_URL =
-  process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
-const API_BASE = `${BACKEND_URL}/api`;
+// All pages are statically generated from the JSON the pipeline writes into public/data.
+// These helpers run at build time (server components only).
+const DATA = path.join(process.cwd(), "public", "data");
 
-function getAllStories(briefing: Briefing): Story[] {
-  return Object.values(briefing.regions).flat();
+export interface ArchiveDay {
+  date: string;
+  total_stories: number;
+  lead: Pick<Story, "id" | "simplified_title" | "image_url"> | null;
+}
+
+async function readJson<T>(rel: string): Promise<T> {
+  return JSON.parse(await readFile(path.join(DATA, rel), "utf8")) as T;
+}
+
+export function allStories(briefing: Briefing): Story[] {
+  return Object.entries(briefing.regions)
+    .flatMap(([code, stories]) => stories.map((s) => ({ ...s, region_code: s.region_code || code })))
+    .sort((a, b) => b.impact_score - a.impact_score);
 }
 
 export async function fetchTodaysBriefing(): Promise<Briefing> {
-  if (IS_STATIC) {
-    const { default: data } = await import("../../public/data/today.json");
-    return data as unknown as Briefing;
+  return readJson<Briefing>("today.json");
+}
+
+export async function fetchArchiveIndex(): Promise<ArchiveDay[]> {
+  try {
+    return await readJson<ArchiveDay[]>("archive/index.json");
+  } catch {
+    return [];
   }
+}
 
-  const res = await fetch(`${API_BASE}/briefings/today`, {
-    next: { revalidate: 300 },
-  });
-
-  if (!res.ok) {
-    throw new Error(`Failed to fetch briefing: ${res.status}`);
+export async function fetchEdition(date: string): Promise<Briefing | null> {
+  try {
+    return await readJson<Briefing>(`archive/${date}.json`);
+  } catch {
+    return null;
   }
+}
 
-  return res.json();
+/** Every story still reachable: today's plus anything in the archive (newest copy wins). */
+export async function fetchAllKnownStories(): Promise<Story[]> {
+  const seen = new Map<string, Story>();
+  for (const s of allStories(await fetchTodaysBriefing())) seen.set(s.id, s);
+  for (const day of await fetchArchiveIndex()) {
+    const edition = await fetchEdition(day.date);
+    if (!edition) continue;
+    for (const s of allStories(edition)) if (!seen.has(s.id)) seen.set(s.id, s);
+  }
+  return [...seen.values()];
 }
 
 export async function fetchStoryById(id: string): Promise<Story> {
-  if (IS_STATIC) {
-    const { default: data } = await import("../../public/data/today.json");
-    const briefing = data as unknown as Briefing;
-    const allStories = getAllStories(briefing);
-    const story = allStories.find((s) => s.id === id);
-    if (story) return story;
-    throw new Error("Story not found");
-  }
-
-  const res = await fetch(`${API_BASE}/stories/${id}`, {
-    next: { revalidate: 3600 },
-  });
-
-  if (!res.ok) {
-    throw new Error(`Failed to fetch story: ${res.status}`);
-  }
-
-  return res.json();
-}
-
-export async function fetchRelatedStories(storyId: string): Promise<Story[]> {
-  if (IS_STATIC) {
-    const { default: data } = await import("../../public/data/today.json");
-    const briefing = data as unknown as Briefing;
-    const allStories = getAllStories(briefing);
-    const story = allStories.find((s) => s.id === storyId);
-    if (!story || !story.related_story_ids || story.related_story_ids.length === 0) {
-      return [];
-    }
-    return allStories.filter((s) => story.related_story_ids.includes(s.id));
-  }
-
-  const story = await fetchStoryById(storyId);
-  if (!story.related_story_ids || story.related_story_ids.length === 0) {
-    return [];
-  }
-
-  const related: Story[] = [];
-  for (const relId of story.related_story_ids) {
-    try {
-      const relStory = await fetchStoryById(relId);
-      related.push(relStory);
-    } catch {
-      // Skip stories that can't be fetched
-    }
-  }
-  return related;
-}
-
-export async function fetchStoriesByRegion(regionCode: string): Promise<Story[]> {
-  if (IS_STATIC) {
-    const { default: data } = await import("../../public/data/today.json");
-    const briefing = data as unknown as Briefing;
-    return briefing.regions[regionCode] || [];
-  }
-
-  const res = await fetch(`${API_BASE}/stories/region/${regionCode}`, {
-    next: { revalidate: 300 },
-  });
-
-  if (!res.ok) return [];
-  return res.json();
+  const story = (await fetchAllKnownStories()).find((s) => s.id === id);
+  if (!story) throw new Error("Story not found");
+  return story;
 }

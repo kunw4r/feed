@@ -1,68 +1,47 @@
-import { fetchTodaysBriefing } from "@/lib/api";
+import type { Metadata } from "next";
 import Link from "next/link";
+import { fetchArchiveIndex } from "@/lib/api";
+import PageHeader from "@/components/PageHeader";
+import { Reveal } from "@/components/motion";
+
+export const metadata: Metadata = { title: "Archive", description: "Past editions of Brainfeed." };
 
 export default async function ArchivePage() {
-  let date = "";
-
-  try {
-    const briefing = await fetchTodaysBriefing();
-    date = briefing.date;
-  } catch {
-    // ignore
-  }
+  const days = await fetchArchiveIndex();
 
   return (
-    <main className="max-w-2xl mx-auto px-5 py-8 md:py-12">
-      <nav className="flex items-center gap-3 mb-8 text-[13px]">
-        <Link
-          href="/"
-          className="text-content-faint hover:text-content transition-colors"
-        >
-          ← Feed
-        </Link>
-      </nav>
-
-      <div className="mb-8">
-        <h1 className="text-2xl font-bold text-content tracking-tight mb-1">
-          Archive
-        </h1>
-        <p className="text-[15px] text-content-dim">
-          Past feeds. Currently only today&apos;s feed is available.
-        </p>
-      </div>
-
-      {date && (
-        <Link
-          href={`/archive/${date}`}
-          className="flex items-center justify-between px-4 py-3 rounded-xl hover:bg-surface-hover transition-all duration-150 group"
-        >
-          <span className="text-[15px] font-medium text-content-dim group-hover:text-content">
-            {new Date(date + "T00:00:00").toLocaleDateString("en-AU", {
-              weekday: "long",
-              day: "numeric",
-              month: "long",
-              year: "numeric",
-            })}
-          </span>
-          <svg
-            className="w-4 h-4 text-content-faint group-hover:text-content-dim transition-colors"
-            fill="none"
-            viewBox="0 0 24 24"
-            strokeWidth={2}
-            stroke="currentColor"
-          >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              d="M8.25 4.5l7.5 7.5-7.5 7.5"
-            />
-          </svg>
-        </Link>
-      )}
-
-      <footer className="text-center text-[12px] text-content-faint py-8 mt-8">
-        <p>Powered by AI · Sourced from trusted outlets</p>
-      </footer>
-    </main>
+    <div className="max-w-4xl px-4 md:px-10 pb-24">
+      <PageHeader kicker="Back issues" title="The archive" standfirst="Every edition from the last 30 days, as it stood at the end of the day." />
+      {days.length === 0 && <p className="font-read text-content-faint">No past editions yet. Check back tomorrow.</p>}
+      <ol className="divide-y divide-edge border-y border-edge">
+        {days.map((d, i) => {
+          const label = new Date(d.date + "T12:00:00+10:00").toLocaleDateString("en-AU", {
+            weekday: "long",
+            day: "numeric",
+            month: "long",
+            timeZone: "Australia/Brisbane",
+          });
+          return (
+            <Reveal as="li" key={d.date} delay={Math.min(i, 8) * 50}>
+              <Link href={`/archive/${d.date}`} className="group grid grid-cols-[1fr_96px] md:grid-cols-[220px_1fr_120px] items-center gap-4 md:gap-8 py-6">
+                <div>
+                  <p className="font-display text-[1.35rem] leading-tight text-content group-hover:text-accent transition-colors">{label}</p>
+                  <p className="mt-1 text-[13px] text-content-faint">{d.total_stories} stories</p>
+                </div>
+                <p className="hidden md:block font-read text-[1.05rem] leading-snug text-content-dim line-clamp-2">
+                  {d.lead?.simplified_title}
+                </p>
+                <div className="relative aspect-[4/3] overflow-hidden rounded-xl bg-surface-inset">
+                  {d.lead?.image_url && (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img src={d.lead.image_url} alt="" loading="lazy" referrerPolicy="no-referrer" className="absolute inset-0 h-full w-full object-cover" />
+                  )}
+                </div>
+              </Link>
+            </Reveal>
+          );
+        })}
+      </ol>
+    </div>
   );
 }

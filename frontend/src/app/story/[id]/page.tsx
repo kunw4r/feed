@@ -1,63 +1,61 @@
-import { fetchStoryById, fetchTodaysBriefing } from "@/lib/api";
-import StoryInteractive from "@/components/StoryInteractive";
+import type { Metadata } from "next";
+import { notFound } from "next/navigation";
+import { allStories, fetchAllKnownStories, fetchStoryById, fetchTodaysBriefing } from "@/lib/api";
+import AskClaude from "@/components/AskClaude";
 import DepthReader from "@/components/story/DepthReader";
-import Link from "next/link";
 
-const IS_STATIC = process.env.NEXT_PUBLIC_STATIC === "true";
+export const dynamicParams = false;
 
 export async function generateStaticParams() {
-  if (!IS_STATIC) return [];
-  try {
-    const briefing = await fetchTodaysBriefing();
-    const allStories = Object.values(briefing.regions).flat();
-    return allStories.map((s) => ({ id: s.id }));
-  } catch {
-    return [];
-  }
+  return (await fetchAllKnownStories()).map((s) => ({ id: s.id }));
 }
 
-interface StoryPageProps {
-  params: Promise<{ id: string }>;
-}
+type Props = { params: Promise<{ id: string }> };
 
-export default async function StoryPage({ params }: StoryPageProps) {
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { id } = await params;
-  let story;
-  let error = "";
-
   try {
-    story = await fetchStoryById(id);
-  } catch (e) {
-    error = e instanceof Error ? e.message : "Failed to load story.";
-  }
-
-  if (error || !story) {
-    return (
-      <div className="max-w-2xl mx-auto px-5 py-32 text-center">
-        <h1 className="font-display text-3xl text-content mb-3">Story not found</h1>
-        <p className="text-content-dim text-[15px] mb-8">{error || "This story could not be found."}</p>
-        <Link href="/" className="text-[14px] text-content-dim underline underline-offset-4 hover:text-content">
-          Back to today&apos;s edition
-        </Link>
-      </div>
-    );
-  }
-
-  // "Up next" follows the edition's running order (highest impact first)
-  let next = null;
-  try {
-    const ordered = Object.values((await fetchTodaysBriefing()).regions)
-      .flat()
-      .sort((a, b) => b.impact_score - a.impact_score);
-    const idx = ordered.findIndex((s) => s.id === story.id);
-    next = ordered[(idx + 1) % ordered.length] ?? null;
+    const story = await fetchStoryById(id);
+    return {
+      title: story.simplified_title,
+      description: story.quick_summary,
+      openGraph: {
+        title: story.simplified_title,
+        description: story.quick_summary,
+        type: "article",
+        images: story.image_url ? [story.image_url] : undefined,
+      },
+      twitter: { card: "summary_large_image" },
+    };
   } catch {
-    // no next story
+    return {};
   }
+}
+
+export default async function StoryPage({ params }: Props) {
+  const { id } = await params;
+  const story = await fetchStoryById(id).catch(() => null);
+  if (!story) notFound();
+
+  // "Up next" follows today's running order (highest impact first)
+  const ordered = allStories(await fetchTodaysBriefing());
+  const idx = ordered.findIndex((s) => s.id === story.id);
+  const next = idx >= 0 && ordered.length > 1 ? ordered[(idx + 1) % ordered.length] : ordered[0] ?? null;
 
   return (
-    <StoryInteractive story={story}>
+    <>
       <DepthReader story={story} next={next && next.id !== story.id ? next : null} />
-    </StoryInteractive>
+      <AskClaude
+        subject={story.simplified_title}
+        context={[
+          `Headline: ${story.simplified_title}`,
+          `Summary: ${story.quick_summary}`,
+          story.why_it_matters ? `Why it matters: ${story.why_it_matters}` : "",
+          `Source: ${story.sources.map((s) => `${s.name} (${s.url})`).join(", ")}`,
+        ]
+          .filter(Boolean)
+          .join("\n")}
+      />
+    </>
   );
 }

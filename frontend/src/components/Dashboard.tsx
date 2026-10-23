@@ -2,7 +2,6 @@
 
 import { useState, useMemo, useEffect, useRef } from "react";
 import Link from "next/link";
-import { useSearchParams } from "next/navigation";
 import { Briefing, Story, REGION_CONFIG, CATEGORY_CONFIG } from "@/lib/types";
 import { useProgress, streakOf } from "@/lib/progress";
 import { Reveal } from "./motion";
@@ -10,7 +9,14 @@ import StoryCard from "./StoryCard";
 
 interface DashboardProps {
   briefing: Briefing;
+  region?: string;
+  topic?: string;
+  /** Archive editions: no "new" markers, different masthead */
+  archived?: boolean;
 }
+
+// Pin formatting to Brisbane so the static HTML and the browser render identical text
+const TZ = "Australia/Brisbane";
 
 const SEEN_KEY = "brainfeed-last-edition";
 
@@ -62,21 +68,12 @@ function Rail({ id, title, note, stories, isNew }: { id: string; title: string; 
   );
 }
 
-export default function Dashboard({ briefing }: DashboardProps) {
-  const searchParams = useSearchParams();
-  const urlRegion = searchParams.get("region");
-  const urlTopic = searchParams.get("topic");
+export default function Dashboard({ briefing, region, topic, archived }: DashboardProps) {
   const progress = useProgress();
-  const lastSeen = useLastSeen(briefing.generated_at);
-  const isNew = (s: Story) => Boolean(lastSeen && s.created_at > lastSeen && !progress.read[s.id]);
-
-  const [activeRegion, setActiveRegion] = useState<string | null>(urlRegion);
-  const [activeTopic, setActiveTopic] = useState<string | null>(urlTopic);
-
-  useEffect(() => {
-    setActiveRegion(urlRegion);
-    setActiveTopic(urlTopic);
-  }, [urlRegion, urlTopic]);
+  const lastSeen = useLastSeen(archived ? undefined : briefing.generated_at);
+  const isNew = (s: Story) => Boolean(!archived && lastSeen && s.created_at > lastSeen && !progress.read[s.id]);
+  const activeRegion = region ?? null;
+  const activeTopic = topic ?? null;
 
   const allStories = useMemo(
     () =>
@@ -111,14 +108,15 @@ export default function Dashboard({ briefing }: DashboardProps) {
   const streak = streakOf(progress.days);
   const briefMinutes = Math.max(1, Math.round(allStories.reduce((n, s) => n + s.quick_summary.split(" ").length, 0) / 200));
 
-  const formatted = new Date(briefing.date + "T00:00:00").toLocaleDateString("en-AU", {
+  const formatted = new Date(briefing.date + "T12:00:00+10:00").toLocaleDateString("en-AU", {
     weekday: "long",
     day: "numeric",
     month: "long",
+    timeZone: TZ,
   });
 
   const updated = briefing.generated_at
-    ? new Date(briefing.generated_at).toLocaleTimeString("en-AU", { hour: "numeric", minute: "2-digit" })
+    ? new Date(briefing.generated_at).toLocaleTimeString("en-AU", { hour: "numeric", minute: "2-digit", timeZone: TZ })
     : null;
 
   const title = activeRegion
@@ -133,24 +131,33 @@ export default function Dashboard({ briefing }: DashboardProps) {
       <header className="px-4 md:px-10 pt-10 md:pt-16 pb-10 max-w-[1400px]">
         <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-8">
           <div className="rise">
-            <p className="smallcaps text-[14px] text-content-faint">{formatted}</p>
-            <h1 className="font-display mt-3 text-[3.4rem] md:text-[5.5rem] leading-[0.92] font-medium text-content">
-              {title ?? (
-                <>
-                  Today&apos;s <span className="italic text-accent">edition</span>
-                </>
+            <p className="smallcaps text-[14px] text-content-faint">
+              {archived ? (
+                <Link href="/archive" className="hover:text-content transition-colors">← The archive</Link>
+              ) : (
+                formatted
               )}
+            </p>
+            <h1 className="font-display mt-3 text-[3.4rem] md:text-[5.5rem] leading-[0.92] font-medium text-content text-balance">
+              {title ??
+                (archived ? (
+                  formatted
+                ) : (
+                  <>
+                    Today&apos;s <span className="italic text-accent">edition</span>
+                  </>
+                ))}
             </h1>
             <p className="font-read mt-5 max-w-lg text-[1.15rem] leading-[1.5] text-content-dim">
               {filtered.length} stories from free, full-text newsrooms.{" "}
               <span className="text-content-faint">
-                {updated && <>Updated {updated} · </>}
-                {readCount} read{streak > 0 ? ` · ${streak}-day streak` : ""}
+                {updated && !archived && <>Updated {updated} · </>}
+                {readCount} read{streak > 0 && !archived ? ` · ${streak}-day streak` : ""}
               </span>
             </p>
           </div>
 
-          <Link
+          {!archived && <Link
             href="/brief"
             className="rise group flex items-center gap-5 self-start lg:self-auto rounded-full bg-content pl-6 pr-2 py-2 text-surface shadow-2xl transition-transform hover:-translate-y-0.5"
             style={{ animationDelay: "120ms" }}
@@ -162,34 +169,30 @@ export default function Dashboard({ briefing }: DashboardProps) {
             <span className="flex h-11 w-11 items-center justify-center rounded-full bg-accent-bold text-white text-lg transition-transform group-hover:translate-x-0.5">
               →
             </span>
-          </Link>
+          </Link>}
         </div>
 
         {/* Region index */}
-        <nav className="no-scrollbar mt-10 -mx-4 md:mx-0 px-4 md:px-0 flex gap-6 overflow-x-auto border-t border-edge pt-4 text-[14px]">
-          <button
-            onClick={() => {
-              setActiveRegion(null);
-              setActiveTopic(null);
-            }}
-            className={`whitespace-nowrap pb-1 border-b transition-colors ${!hasFilters ? "text-content border-accent" : "text-content-faint border-transparent hover:text-content"}`}
-          >
-            Everything
-          </button>
-          {Object.keys(REGION_CONFIG).map((code) => {
-            if (!allStories.some((s) => s.region_code === code)) return null;
-            const on = activeRegion === code;
-            return (
-              <button
-                key={code}
-                onClick={() => setActiveRegion(on ? null : code)}
-                className={`whitespace-nowrap pb-1 border-b transition-colors ${on ? "text-content border-accent" : "text-content-faint border-transparent hover:text-content"}`}
-              >
-                {REGION_CONFIG[code].label}
-              </button>
-            );
-          })}
-        </nav>
+        {!archived && (
+          <nav aria-label="Regions" className="no-scrollbar mt-10 -mx-4 md:mx-0 px-4 md:px-0 flex gap-6 overflow-x-auto border-t border-edge pt-4 text-[14px]">
+            {[{ href: "/", label: "Everything", on: !hasFilters }]
+              .concat(
+                Object.keys(REGION_CONFIG)
+                  .filter((code) => allStories.some((s) => s.region_code === code))
+                  .map((code) => ({ href: `/region/${code}`, label: REGION_CONFIG[code].label, on: activeRegion === code })),
+              )
+              .map((t) => (
+                <Link
+                  key={t.href}
+                  href={t.href}
+                  aria-current={t.on ? "page" : undefined}
+                  className={`whitespace-nowrap pb-1 border-b transition-colors ${t.on ? "text-content border-accent" : "text-content-faint border-transparent hover:text-content"}`}
+                >
+                  {t.label}
+                </Link>
+              ))}
+          </nav>
+        )}
       </header>
 
       {lead && (

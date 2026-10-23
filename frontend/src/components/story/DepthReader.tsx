@@ -123,7 +123,7 @@ function ConceptParagraph({ text, concepts }: { text: string; concepts: Concept[
       )}
 
       {/* Inline unfold (narrower screens) */}
-      <div className="unfold min-[1400px]:hidden" data-open={Boolean(active)}>
+      <div className="unfold min-[1400px]:hidden" data-open={Boolean(active)} inert={!active}>
         <div>
           {active && (
             <div className="mt-4 mb-2 border-l-2 border-accent pl-4">
@@ -226,6 +226,16 @@ export default function DepthReader({ story, next }: { story: Story; next: Story
   const cat = CATEGORY_CONFIG[story.category] || CATEGORY_CONFIG.UNCATEGORISED;
   const region = story.region_code ? REGION_CONFIG[story.region_code] : null;
   const sourceNames = story.sources.map((s) => s.name).filter((n, i, a) => a.indexOf(n) === i);
+  const published = story.created_at
+    ? new Date(story.created_at).toLocaleString("en-AU", {
+        weekday: "long",
+        day: "numeric",
+        month: "long",
+        hour: "numeric",
+        minute: "2-digit",
+        timeZone: "Australia/Brisbane",
+      })
+    : null;
   const fmtMin = (m: number) => (m < 1 ? `${Math.max(10, Math.round((m * 60) / 10) * 10)} sec` : `${Math.round(m)} min`);
   let n = 0;
 
@@ -235,7 +245,7 @@ export default function DepthReader({ story, next }: { story: Story; next: Story
       <header ref={heroRef} className="relative h-[92svh] min-h-[560px] overflow-hidden bg-black">
         {story.image_url ? (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src={story.image_url} alt="" referrerPolicy="no-referrer" className="hero-media absolute inset-0 h-full w-full object-cover will-change-transform" />
+          <img src={story.image_url} alt="" referrerPolicy="no-referrer" fetchPriority="high" className="hero-media absolute inset-0 h-full w-full object-cover will-change-transform" />
         ) : (
           <div className="hero-media absolute inset-0 bg-gradient-to-br from-stone-900 via-stone-800 to-orange-950" />
         )}
@@ -259,7 +269,7 @@ export default function DepthReader({ story, next }: { story: Story; next: Story
             {story.simplified_title}
           </h1>
           <p className="rise mt-6 text-[14px] text-white/65" style={{ animationDelay: "180ms" }}>
-            Reported by {sourceNames.join(", ")} · {fmtMin(chapters[chapters.length - 1].minutes)} all the way down
+            {published && <>{published} · </>}Reported by {sourceNames.join(", ")} · {fmtMin(chapters[chapters.length - 1].minutes)} all the way down
           </p>
         </div>
 

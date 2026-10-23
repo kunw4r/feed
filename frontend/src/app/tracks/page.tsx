@@ -1,41 +1,20 @@
+import type { Metadata } from "next";
+import { readFile } from "fs/promises";
+import path from "path";
 import TracksSearch from "@/components/TracksSearch";
+import PageHeader from "@/components/PageHeader";
 
-const IS_STATIC = process.env.NEXT_PUBLIC_STATIC === "true";
-
-interface TrackMeta {
-  slug: string;
-  title: string;
-  description: string;
-  icon: string;
-  lesson_count: number;
-}
-
-async function getTracksIndex(): Promise<TrackMeta[]> {
-  if (IS_STATIC) {
-    const { default: data } = await import("../../../public/data/tracks-index.json");
-    return data as TrackMeta[];
-  }
-  return [];
-}
+export const metadata: Metadata = { title: "Learning tracks", description: "Bite-sized lessons that assume zero prior knowledge." };
 
 export default async function TracksPage() {
-  const tracks = await getTracksIndex();
-
+  const tracks = JSON.parse(await readFile(path.join(process.cwd(), "public/data/tracks-index.json"), "utf8"));
   return (
-    <div className="max-w-4xl mx-auto px-5 py-8">
-      <div className="mb-8">
-        <p className="text-[11px] font-medium text-content-faint uppercase tracking-widest mb-1">
-          Train Your Brain
-        </p>
-        <h1 className="text-2xl font-bold text-content tracking-tight mb-2">
-          Learning Tracks
-        </h1>
-        <p className="text-[14px] text-content-dim leading-relaxed">
-          Bite-sized lessons on topics that matter. Each lesson takes 5-10 minutes
-          and assumes zero prior knowledge.
-        </p>
-      </div>
-
+    <div className="max-w-5xl px-4 md:px-10 pb-24">
+      <PageHeader
+        kicker="Train your brain"
+        title="Learning tracks"
+        standfirst="Bite-sized lessons on things worth knowing. Each takes five to ten minutes and assumes nothing."
+      />
       <TracksSearch tracks={tracks} />
     </div>
   );

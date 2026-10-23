@@ -55,6 +55,7 @@ export default function BriefDeck({ stories }: { stories: Story[] }) {
 
   return (
     <div className="fixed inset-0 z-50 bg-[#0b0a09] text-[#f3ede4]">
+      <h1 className="sr-only">The brief: today&apos;s stories, one at a time</h1>
       {/* Chrome */}
       <div className="pointer-events-none absolute inset-x-0 top-0 z-20 p-5 md:p-8 flex items-start justify-between">
         <Link href="/" className="pointer-events-auto text-[13px] text-white/60 hover:text-white transition-colors">
@@ -96,7 +97,7 @@ export default function BriefDeck({ stories }: { stories: Story[] }) {
                 >
                   {s.image_url ? (
                     // eslint-disable-next-line @next/next/no-img-element
-                    <img src={s.image_url} alt="" referrerPolicy="no-referrer" loading={i < 2 ? "eager" : "lazy"} className="h-full w-full object-cover" />
+                    <img src={s.image_url} alt="" referrerPolicy="no-referrer" loading={i < 2 ? "eager" : "lazy"} fetchPriority={i === 0 ? "high" : "auto"} className="h-full w-full object-cover" />
                   ) : (
                     <div className="h-full w-full bg-gradient-to-br from-stone-800 to-orange-950" />
                   )}

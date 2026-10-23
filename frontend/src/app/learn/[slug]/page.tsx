@@ -1,24 +1,14 @@
-import Link from "next/link";
-import { ArrowLeft, BookOpen, Clock, MessageCircle, HelpCircle } from "lucide-react";
-import LearnInteractive from "@/components/LearnInteractive";
+import type { Metadata } from "next";
+import { readFile } from "fs/promises";
+import path from "path";
+import { notFound } from "next/navigation";
+import PageHeader from "@/components/PageHeader";
+import AskClaude from "@/components/AskClaude";
+import { InkText, Reveal } from "@/components/motion";
 
-const IS_STATIC = process.env.NEXT_PUBLIC_STATIC === "true";
+export const dynamicParams = false;
 
-const SLUGS = [
-  "financial-crisis-2008",
-  "the-great-depression",
-  "cold-war",
-  "covid-19-pandemic",
-  "september-11",
-  "brexit",
-  "fall-of-the-berlin-wall",
-  "climate-change",
-];
-
-export async function generateStaticParams() {
-  if (!IS_STATIC) return [];
-  return SLUGS.map((slug) => ({ slug }));
-}
+const DATA = path.join(process.cwd(), "public/data");
 
 interface LearnEvent {
   slug: string;
@@ -31,195 +21,111 @@ interface LearnEvent {
   discussion_questions: string[];
 }
 
-async function getLearnEvent(slug: string): Promise<LearnEvent | null> {
+export async function generateStaticParams() {
+  const index: { slug: string }[] = JSON.parse(await readFile(path.join(DATA, "learn-index.json"), "utf8"));
+  return index.map((e) => ({ slug: e.slug }));
+}
+
+async function getEvent(slug: string): Promise<LearnEvent | null> {
   try {
-    const data = await import(`../../../../public/data/learn-${slug}.json`);
-    return { slug, ...data.default } as LearnEvent;
+    return { slug, ...JSON.parse(await readFile(path.join(DATA, `learn-${slug}.json`), "utf8")) };
   } catch {
     return null;
   }
 }
 
-interface LearnPageProps {
-  params: Promise<{ slug: string }>;
+type Props = { params: Promise<{ slug: string }> };
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const e = await getEvent((await params).slug);
+  return { title: e?.title, description: e?.subtitle };
 }
 
-export default async function LearnEventPage({ params }: LearnPageProps) {
-  const { slug } = await params;
-  const event = await getLearnEvent(slug);
+function Head({ n, label }: { n: number; label: string }) {
+  return (
+    <Reveal className="mb-8 flex items-baseline gap-4">
+      <span className="font-display italic text-accent text-[22px] leading-none">{String(n).padStart(2, "0")}</span>
+      <h2 className="font-display text-[1.6rem] md:text-[2rem] leading-tight font-medium text-content">{label}</h2>
+    </Reveal>
+  );
+}
 
-  if (!event) {
-    return (
-      <div className="max-w-2xl mx-auto px-5 py-12">
-        <div className="text-center py-20">
-          <h1 className="text-2xl font-bold text-content mb-2">
-            Topic Not Found
-          </h1>
-          <Link
-            href="/learn"
-            className="text-[13px] text-content-dim hover:text-content transition-colors"
-          >
-            Back to Learn
-          </Link>
-        </div>
-      </div>
-    );
-  }
+export default async function LearnEventPage({ params }: Props) {
+  const event = await getEvent((await params).slug);
+  if (!event) notFound();
+  let n = 0;
 
   return (
-    <LearnInteractive event={event}>
-      <div className="max-w-2xl mx-auto px-5 py-8">
-        {/* Nav */}
-        <nav className="flex items-center gap-2 mb-8 text-[13px]">
-          <Link
-            href="/learn"
-            className="flex items-center gap-1 text-content-faint hover:text-content transition-colors"
-          >
-            <ArrowLeft size={14} />
-            Learn
-          </Link>
-        </nav>
+    <div className="max-w-3xl px-4 md:px-10 pb-24">
+      <PageHeader back={{ href: "/learn", label: "Deep dives" }} title={event.title} standfirst={event.subtitle} />
 
-        <article className="animate-in">
-          {/* Header */}
-          <div className="mb-8">
-            <div className="flex items-center gap-2 mb-3">
-              <BookOpen size={16} className="text-accent" />
-              <span className="text-[11px] font-semibold text-accent uppercase tracking-wider">
-                Learn
-              </span>
-            </div>
-            <h1 className="text-2xl md:text-3xl font-bold text-content tracking-tight mb-2">
-              {event.title}
-            </h1>
-            {event.subtitle && (
-              <p className="text-[15px] text-content-dim">{event.subtitle}</p>
-            )}
-          </div>
+      {event.why_it_still_matters && (
+        <section className="mb-20">
+          <p className="smallcaps text-[13px] text-content-faint mb-4">Why it still matters</p>
+          <InkText text={event.why_it_still_matters} className="font-display italic text-[1.5rem] md:text-[1.9rem] leading-[1.3] text-content text-pretty" />
+        </section>
+      )}
 
-          {/* Why it matters today */}
-          {event.why_it_still_matters && (
-            <div className="bg-accent-soft rounded-xl px-5 py-4 mb-8 border border-edge-accent">
-              <p className="text-[11px] font-semibold text-accent uppercase tracking-wider mb-1.5">
-                Why this still matters today
-              </p>
-              <p className="text-[14px] text-content-dim leading-relaxed">
-                {event.why_it_still_matters}
-              </p>
-            </div>
-          )}
+      {event.timeline?.length > 0 && (
+        <section className="mb-20">
+          <Head n={++n} label="Timeline" />
+          <ol className="border-t border-edge">
+            {event.timeline.map((t, i) => (
+              <Reveal as="li" key={i} delay={Math.min(i, 6) * 40} className="grid grid-cols-[5.5rem_1fr] md:grid-cols-[7rem_1fr] gap-4 border-b border-edge py-3.5">
+                <span className="font-display text-[1.05rem] text-accent tabular-nums">{t.date}</span>
+                <span className="font-read text-[1.05rem] leading-snug text-content-dim">{t.event}</span>
+              </Reveal>
+            ))}
+          </ol>
+        </section>
+      )}
 
-          {/* Timeline */}
-          {event.timeline && event.timeline.length > 0 && (
-            <div className="mb-8">
-              <div className="flex items-center gap-2 mb-3">
-                <Clock size={14} className="text-content-faint" />
-                <h2 className="text-[13px] font-semibold text-content-faint uppercase tracking-wider">
-                  Timeline
-                </h2>
-              </div>
-              <div className="space-y-2">
-                {event.timeline.map((t, i) => (
-                  <div key={i} className="flex gap-3">
-                    <span className="text-[12px] font-mono text-content-faint w-16 flex-shrink-0 pt-0.5 text-right">
-                      {t.date}
-                    </span>
-                    <div className="flex flex-col items-center flex-shrink-0">
-                      <div className="w-1.5 h-1.5 rounded-full bg-content-faint mt-1.5" />
-                      {i < event.timeline.length - 1 && (
-                        <div className="w-px flex-1 bg-edge mt-1" />
-                      )}
-                    </div>
-                    <p className="text-[13px] text-content-dim pb-3">
-                      {t.event}
-                    </p>
-                  </div>
-                ))}
-              </div>
-            </div>
-          )}
-
-          {/* Main content sections */}
-          <div className="space-y-8 mb-8">
-            {event.sections.map((section, i) => (
-              <div key={i}>
-                <h2 className="text-lg font-bold text-content mb-3">
-                  {section.heading}
-                </h2>
-                <div className="space-y-3">
-                  {section.content.split("\n\n").map((para, j) => (
-                    <p
-                      key={j}
-                      className="text-[15px] text-content-dim leading-relaxed"
-                    >
-                      {para}
-                    </p>
-                  ))}
-                </div>
-              </div>
+      {event.sections.map((s) => (
+        <section key={s.heading} className="mb-20">
+          <Head n={++n} label={s.heading} />
+          <div className="space-y-6">
+            {s.content.split("\n\n").map((p, i) => (
+              <Reveal as="p" key={i} className="prose-read">{p}</Reveal>
             ))}
           </div>
+        </section>
+      ))}
 
-          {/* Key concepts */}
-          {event.key_concepts && event.key_concepts.length > 0 && (
-            <div className="mb-8 bg-surface-raised rounded-xl px-5 py-4 border border-edge">
-              <div className="flex items-center gap-2 mb-3">
-                <BookOpen size={14} className="text-accent" />
-                <h2 className="text-[13px] font-semibold text-accent uppercase tracking-wider">
-                  Key Concepts
-                </h2>
-              </div>
-              <div className="space-y-3">
-                {event.key_concepts.map((c, i) => (
-                  <div key={i} className="bg-surface rounded-lg px-3 py-2.5 border border-edge">
-                    <p className="text-[13px] font-semibold text-content">
-                      {c.term}
-                    </p>
-                    <p className="text-[13px] text-content-dim leading-relaxed">
-                      {c.definition}
-                    </p>
-                    {c.context && (
-                      <p className="text-[12px] text-content-faint mt-1 italic">
-                        {c.context}
-                      </p>
-                    )}
-                  </div>
-                ))}
-              </div>
-            </div>
-          )}
+      {event.key_concepts?.length > 0 && (
+        <section className="mb-20">
+          <Head n={++n} label="Words to know" />
+          <dl className="divide-y divide-edge border-y border-edge">
+            {event.key_concepts.map((c) => (
+              <Reveal key={c.term} className="grid gap-1 py-5 md:grid-cols-[180px_1fr] md:gap-8">
+                <dt className="font-read italic text-[1.1rem] text-content">{c.term}</dt>
+                <dd>
+                  <p className="text-[15px] leading-relaxed text-content-dim">{c.definition}</p>
+                  {c.context && <p className="mt-1.5 text-[13px] text-content-faint">{c.context}</p>}
+                </dd>
+              </Reveal>
+            ))}
+          </dl>
+        </section>
+      )}
 
-          {/* Discussion questions */}
-          {event.discussion_questions && event.discussion_questions.length > 0 && (
-            <div className="mb-8">
-              <div className="flex items-center gap-2 mb-3">
-                <HelpCircle size={14} className="text-content-faint" />
-                <h2 className="text-[13px] font-semibold text-content-faint uppercase tracking-wider">
-                  Think About
-                </h2>
-              </div>
-              <div className="space-y-2">
-                {event.discussion_questions.map((q, i) => (
-                  <p
-                    key={i}
-                    className="text-[14px] text-content-dim pl-4 border-l-2 border-edge-accent py-1"
-                  >
-                    {q}
-                  </p>
-                ))}
-              </div>
-            </div>
-          )}
+      {event.discussion_questions?.length > 0 && (
+        <section>
+          <Head n={++n} label="Think it over" />
+          <ol className="space-y-5">
+            {event.discussion_questions.map((q, i) => (
+              <Reveal as="li" key={i} className="grid grid-cols-[1.8rem_1fr] gap-2 font-read italic text-[1.15rem] leading-snug text-content">
+                <span className="not-italic font-display text-accent">{i + 1}</span>
+                {q}
+              </Reveal>
+            ))}
+          </ol>
+        </section>
+      )}
 
-          {/* Hint */}
-          <div className="text-center mt-8 pt-6 border-t border-edge">
-            <p className="text-[12px] text-content-faint flex items-center justify-center gap-1.5">
-              <MessageCircle size={12} />
-              Highlight any text to ask about it, or tap the chat button
-            </p>
-          </div>
-        </article>
-      </div>
-    </LearnInteractive>
+      <AskClaude
+        subject={event.title}
+        context={`Topic: ${event.title}\nSummary: ${event.subtitle}\nWhy it matters: ${event.why_it_still_matters}`}
+      />
+    </div>
   );
 }

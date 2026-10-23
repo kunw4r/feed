@@ -1,99 +1,50 @@
-import Link from "next/link";
-import { ArrowLeft, BookOpen } from "lucide-react";
+import type { Metadata } from "next";
+import { readFile } from "fs/promises";
+import path from "path";
+import { notFound } from "next/navigation";
 import TrackLessonViewer from "@/components/TrackLessonViewer";
+import PageHeader from "@/components/PageHeader";
 
-const IS_STATIC = process.env.NEXT_PUBLIC_STATIC === "true";
+export const dynamicParams = false;
+
+const DATA = path.join(process.cwd(), "public/data");
 
 export async function generateStaticParams() {
-  if (!IS_STATIC) return [];
-  try {
-    const { default: index } = await import("../../../../public/data/tracks-index.json");
-    return (index as { slug: string }[]).map((t) => ({ slug: t.slug }));
-  } catch {
-    return [];
-  }
-}
-
-interface TrackLesson {
-  title: string;
-  content: string;
-  key_takeaways: string[];
-  concepts: { term: string; definition: string }[];
+  const index: { slug: string }[] = JSON.parse(await readFile(path.join(DATA, "tracks-index.json"), "utf8"));
+  return index.map((t) => ({ slug: t.slug }));
 }
 
 interface Track {
   title: string;
   description: string;
   slug: string;
-  icon: string;
-  lessons: TrackLesson[];
+  lessons: { title: string; content: string; key_takeaways: string[]; concepts: { term: string; definition: string }[] }[];
 }
 
 async function getTrack(slug: string): Promise<Track | null> {
-  if (IS_STATIC) {
-    try {
-      const { default: data } = await import(`../../../../public/data/track-${slug}.json`);
-      return data as Track;
-    } catch {
-      return null;
-    }
+  try {
+    return JSON.parse(await readFile(path.join(DATA, `track-${slug}.json`), "utf8"));
+  } catch {
+    return null;
   }
-  return null;
 }
 
-interface TrackPageProps {
-  params: Promise<{ slug: string }>;
+type Props = { params: Promise<{ slug: string }> };
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const track = await getTrack((await params).slug);
+  return { title: track?.title, description: track?.description };
 }
 
-export default async function TrackPage({ params }: TrackPageProps) {
+export default async function TrackPage({ params }: Props) {
   const { slug } = await params;
   const track = await getTrack(slug);
-
-  if (!track) {
-    return (
-      <div className="max-w-3xl mx-auto px-5 py-12">
-        <nav className="mb-8">
-          <Link href="/tracks" className="flex items-center gap-1 text-[13px] text-content-faint hover:text-content transition-colors">
-            <ArrowLeft size={14} />
-            Learning Tracks
-          </Link>
-        </nav>
-        <div className="text-center py-20">
-          <h1 className="text-2xl font-bold text-content mb-2">Track Not Found</h1>
-          <p className="text-content-dim text-[15px]">This learning track doesn&apos;t exist yet.</p>
-        </div>
-      </div>
-    );
-  }
+  if (!track) notFound();
 
   return (
-    <div className="max-w-3xl mx-auto px-5 py-8">
-      {/* Breadcrumb */}
-      <nav className="mb-6">
-        <Link href="/tracks" className="flex items-center gap-1 text-[13px] text-content-faint hover:text-content transition-colors">
-          <ArrowLeft size={14} />
-          Learning Tracks
-        </Link>
-      </nav>
-
-      {/* Header */}
-      <div className="mb-8">
-        <h1 className="text-2xl font-bold text-content tracking-tight mb-2">
-          {track.title}
-        </h1>
-        <p className="text-[14px] text-content-dim leading-relaxed mb-3">
-          {track.description}
-        </p>
-        <div className="flex items-center gap-2 text-[12px] text-content-faint">
-          <BookOpen size={13} />
-          <span>{track.lessons.length} lessons</span>
-          <span className="text-content-faint">|</span>
-          <span>~{track.lessons.length * 7} min total</span>
-        </div>
-      </div>
-
-      {/* Lessons */}
-      <TrackLessonViewer lessons={track.lessons} />
+    <div className="max-w-6xl px-4 md:px-10 pb-24">
+      <PageHeader back={{ href: "/tracks", label: "Learning tracks" }} title={track.title} standfirst={track.description} />
+      <TrackLessonViewer slug={slug} lessons={track.lessons} />
     </div>
   );
 }
