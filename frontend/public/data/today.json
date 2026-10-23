@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-23T15:07:34.641181+00:00",
+ "generated_at": "2026-10-23T22:22:19.570090+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -193,133 +193,6 @@
     "reading_minutes": 2,
     "created_at": "2026-10-23T07:13:52.176080+00:00",
     "published_date": "2026-10-23",
-    "has_fulltext": true
-   },
-   {
-    "id": "d7356200-c3ae-50cd-8382-760555c49b23",
-    "title": "Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals",
-    "simplified_title": "Treasurer warns of weaker growth and higher unemployment ahead",
-    "quick_summary": "Treasurer Jim Chalmers says December's mid-year budget update will forecast softer growth and slightly higher unemployment, even as business investment runs well ahead of expectations.",
-    "simplified_body": "Treasurer Jim Chalmers has flagged that December's mid-year budget update will forecast weaker economic growth and slightly higher unemployment. He blames higher inflation and higher interest rates, which are slowing spending and softening the jobs market. There's a bright spot, though: Treasury now expects business investment to grow faster than 5 per cent this financial year, double the May forecast and about $50 billion extra.\n\nThis hits everyday households hardest. Unemployment reached 4.7% in September, the highest in nearly five years. ANZ economists expect capital city home prices to eventually fall by 13.5%, which would be a record. Fuel costs are also high because of the Middle East conflict. Politically, it piles pressure on the Albanese government, which is already copping backlash over its tax hikes on capital gains and discretionary trusts.\n\nSome background: the Reserve Bank of Australia (RBA) raises the cash rate, its key interest rate, to cool inflation. It has raised rates four times this year, taking the cash rate to 4.60 per cent. RBA Deputy Governor Andrew Hauser says the inflation outlook is \"materially worse\" than forecast. Economists say the full effect of those hikes hasn't flowed through yet.\n\nNext up, markets see a possible fifth hike on Melbourne Cup day in early November. ANZ put the odds at nearly 60%. Economists warn the next six to nine months will be tough and unemployment could hit 5%. They hope inflation will be lower by this time next year.",
-    "why_it_matters": "Rising rates, falling home prices and a weaker jobs market directly squeeze Australian mortgages, jobs and budgets. It also shapes the government's prospects heading into the 2028 federal election.",
-    "deep_analysis": "## Historical Context\nThe sources say this year's four rate hikes have pushed the cash rate to 4.60 per cent, above the previous 2024 peak. Unemployment at 4.7% is the highest in nearly five years. As general background, central banks raise rates to cool demand, and the effects typically take many months to fully show up in the economy.\n\n## Multiple Perspectives\nChalmers frames Australia as \"an island of opportunity and stability\" and points to booming investment, including data centres for artificial intelligence (AI). Government defenders say the wars in Ukraine and the Middle East don't get enough recognition for driving inflation. Shadow Treasurer Tim Wilson blames the government's \"spending addiction\". Challenger's Jonathan Kearns says the criticism of government spending is probably fair. He also notes cutting spending would risk the government being blamed for rising unemployment. Some Labor backbenchers privately complain about the tax changes and the handling of credit card surcharges. The sources don't directly disagree on facts, but they emphasise different things: The Guardian focuses on gloom, while the ABC also highlights the investment boom.\n\n## What to Watch\n- The RBA's early November decision on whether to raise rates a fifth time\n- December's mid-year budget update numbers\n- Whether unemployment reaches 5%\n- How far home prices fall\n- Fuel prices over summer",
-    "concepts": [
-     {
-      "term": "mid-year budget update",
-      "definition": "A December report where Treasury revises the forecasts made in the May budget.",
-      "context": "It will formally show the weaker growth and higher unemployment forecasts."
-     },
-     {
-      "term": "cash rate",
-      "definition": "The RBA's main interest rate, which influences mortgage and loan rates across the economy.",
-      "context": "It is now 4.60 per cent after four hikes this year."
-     },
-     {
-      "term": "business investment",
-      "definition": "Money companies spend on things like buildings, equipment and data centres.",
-      "context": "It is forecast to grow faster than 5 per cent, double the May forecast."
-     },
-     {
-      "term": "inflation",
-      "definition": "The rate at which prices rise over time.",
-      "context": "Higher-than-expected inflation is why the RBA may raise rates again."
-     }
-    ],
-    "quiz": {
-     "question": "Why do economists say the government's options for cost-of-living relief are limited?",
-     "options": [
-      "Business investment is falling",
-      "The RBA has cut interest rates",
-      "Unemployment is at record lows",
-      "Extra spending could push inflation higher"
-     ],
-     "answer_index": 3,
-     "explanation": "Kearns says extra relief could worsen inflation, but cutting spending could add to unemployment. That leaves the government stuck either way."
-    },
-    "impact_score": 68,
-    "image_url": "https://i.guim.co.uk/img/media/b1a80367452292492dae956ad1e93dc97a0effa3/1019_0_5313_4252/master/5313.jpg?width=1920&quality=85&auto=format&fit=max&s=97eb9aa311dd9055a06e43234c5deedb",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Treasurer Jim Chalmers says December's mid-year budget update will forecast softer growth and slightly higher unemployment, even as business investment runs well ahead of expectations.",
-    "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/22/jim-chalmers-economy-speech-rising-unemployment-inflation"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-22/chalmers-hails-boom-in-business-investment/107298274"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-22T13:37:34.411902+00:00",
-    "published_date": "2026-10-22",
-    "has_fulltext": true
-   },
-   {
-    "id": "f880e919-8091-50c9-863a-b98acb0ba430",
-    "title": "Snowy 2.0 to cost 12 times more than initial budget with further delays",
-    "simplified_title": "Snowy 2.0 now costs up to $25 billion, delayed to 2029",
-    "quick_summary": "A major review has found Australia's biggest renewable energy project, Snowy 2.0, could cost up to $25 billion – about 12 times its original $2 billion budget – and won't be fully running until 2029.",
-    "simplified_body": "Snowy Hydro, the government-owned company building Snowy 2.0, has released a cost reassessment. It sets a target cost of $22 billion (The Guardian says at least $22.2 billion), with room for another $3 billion if needed, taking the total to as much as $25 billion. First power is now expected in early 2029, with the project fully operational later that year.\n\nThis matters to taxpayers, who own the project, and to electricity users. Snowy 2.0 is meant to act like a giant battery, storing energy for days when there's little sun or wind. The Albanese government plans to announce extra oversight and financing in coming weeks, with more taxpayer money expected and possibly some private financing.\n\nSome background: Snowy 2.0 was announced by then Prime Minister Malcolm Turnbull in 2017 with a $2 billion price tag and a 2021 start date. It uses pumped hydro: pumping water uphill between two dams through about 27 kilometres of tunnels when power is cheap, then releasing it to generate electricity when demand is high. Problems have included a tunnel boring machine called Florence getting stuck for 11 months in 2023. A 2023 \"project reset\" put the cost at $12 billion (ABC) or almost $13 billion (The Guardian). Snowy Hydro blames early \"design immaturity\", while the builder, Future Generation Joint Venture (FGJV), points to unpredictable ground conditions in a national park.\n\nCEO Dennis Barnes says he's \"incredibly disappointed\" but can't rule out further blowouts. Labor ministers blame the former Coalition government, including now opposition leader Angus Taylor, so expect a political fight.",
-    "why_it_matters": "Snowy 2.0 is a taxpayer-owned asset that the government says will provide more than half the energy storage Australia's grid needs by 2050, so its cost and timing directly affect the country's shift away from fossil fuels and future power bills.",
-    "deep_analysis": "## Historical Context\nAs background, the original Snowy Mountains Scheme was built from 1949 to 1974 and is often seen as a nation-building icon. Snowy 2.0 was announced in 2017 as an expansion. According to the sources, it started construction around seven years ago, was reset in 2023 after stalling with billions in contractor claims, and has now seen its cost roughly double again since that reset. The National Audit Office praised it in 2022, but a more recent audit found \"significant deficiencies\" in management.\n\n## Multiple Perspectives\n- **Snowy Hydro:** CEO Dennis Barnes says the project is in its \"strongest position yet\", with 65% of machine tunnelling and 90% of cavern excavation done, and says it \"could have been worse\" without the reset. He notes the job is 80% people costs, with 5,000 workers.\n- **The contractor (FGJV):** Blames \"unprecedented geotechnical uncertainty\" and \"geopolitical upheaval\". Snowy Hydro also cites FGJV's missed productivity targets.\n- **The Labor government:** Ministers Chris Bowen and Katy Gallagher say abandoning it would hurt grid reliability, cut 5,000 jobs and raise bills, and blame the former Coalition government for poor design.\n- **Supporters' economics:** A GHD study commissioned by Snowy Hydro says it will add $18 billion to the economy during construction and cut wholesale electricity costs by more than $7 billion by 2075. As background, critics generally ask whether cheaper alternatives like batteries could do the job, though these sources don't quote critics directly.\n- **Sources differ slightly:** ABC says the 2023 estimate was $12 billion; The Guardian says almost $13 billion.\n\n## What to Watch\n- The government's new oversight and financing structures, including how much more taxpayer money goes in and whether private finance is involved.\n- Progress of the boring machine Florence, still short of halfway on its 15km tunnel.\n- The parliamentary inquiry and political blame game between Labor and the Coalition.\n- Whether the $25 billion ceiling and 2029 deadline hold.",
-    "concepts": [
-     {
-      "term": "pumped hydro",
-      "definition": "A way of storing energy by pumping water uphill to a higher dam when electricity is cheap, then letting it flow back down through turbines to generate power when it's needed.",
-      "context": "Snowy 2.0 links two dams so it can work like a giant, long-lasting battery."
-     },
-     {
-      "term": "project reset",
-      "definition": "A formal overhaul of a big project's plan, budget and timeline after it runs into serious trouble.",
-      "context": "Snowy 2.0's 2023 reset raised its cost to around $12–13 billion; that estimate has now blown out again."
-     },
-     {
-      "term": "tunnel boring machine",
-      "definition": "A huge machine that digs tunnels through rock and soil.",
-      "context": "Snowy 2.0's machine Florence got stuck for 11 months after hitting soft ground."
-     }
-    ],
-    "quiz": {
-     "question": "Why do supporters argue Snowy 2.0 is still worth it despite the cost blowout?",
-     "options": [
-      "It can store energy for long periods, covering days without much sun or wind when batteries run out",
-      "It will produce electricity without needing any water",
-      "It will be cheaper to build than the original Snowy Scheme",
-      "It will replace all of Australia's coal power stations by itself"
-     ],
-     "answer_index": 0,
-     "explanation": "Pumped hydro offers long-duration storage. Barnes and the government argue it acts as insurance during long stretches with little wind or sun, when batteries can run flat and prices spike."
-    },
-    "impact_score": 68,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/41f2f7eed8a29e278c0d17cf35fad29a?impolicy=wcms_watermark_news&cropH=1985&cropW=3528&xPos=0&yPos=184&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "A major review has found Australia's biggest renewable energy project, Snowy 2.0, could cost up to $25 billion – about 12 times its original $2 billion budget – and won't be fully running until 2029.",
-    "tier": "LOCAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-22/cost-of-snowy-hydro-expansion-doubles/107276162"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/snowy-hydro-2-0-blows-out-to-12-times-original-cost"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 5,
-    "created_at": "2026-10-22T13:37:32.966720+00:00",
-    "published_date": "2026-10-22",
     "has_fulltext": true
    },
    {
@@ -646,6 +519,67 @@
     "has_fulltext": true
    },
    {
+    "id": "a3e229d2-ee0e-5ebb-b160-29b8584650a5",
+    "title": "Romania blames Russia after drone sinks ship in the Black Sea",
+    "simplified_title": "Romania blames Russia after drone sinks cargo ship in Black Sea",
+    "quick_summary": "A drone strike sank the cargo ship Khoryv just off Romania's Black Sea coast, killing at least one sailor and leaving three missing, and Romania has blamed Russia.",
+    "simplified_body": "On Friday, a drone hit the Comoros-flagged cargo ship Khoryv about 13 nautical miles (24km) off Romania's port of Constanta, just outside Romania's territorial waters. The ship sank. Of its 13 Ukrainian and Azeri crew, nine were rescued, one body was recovered and three are still missing. Bad weather and low visibility made the search harder.\n\nThis matters to sailors and shipping firms using the western Black Sea, and to Ukraine, which relies on this route to export goods. Romania and Bulgaria are both members of NATO (the North Atlantic Treaty Organization, a Western military alliance), so attacks so close to their coasts raise fears the Russia-Ukraine war could escalate. Romania's President Nicusor Dan blamed Russia, and European Commission President Ursula von der Leyen called the attacks \"reckless\". Russia didn't immediately comment, and has previously denied responsibility for deadly drone attacks in the region.\n\nSome background: because Russia has attacked Ukraine's own Black Sea ports, Ukrainian exporters now lean on ports along the Danube River and Romanian waters, with Romania's Sulina port as a key gateway. The sources count the toll differently: Al Jazeera says at least seven cargo ships were hit and 30 sailors killed or missing in two weeks, while DW says Khoryv is believed to be the fourth ship attacked off Romania this month, citing Reuters' earlier figure of about 23 dead or missing in the 10 days to October 15.\n\nWhat's next? Ukraine, Romania and Bulgaria asked NATO to fast-track extra surveillance. NATO says it will send more maritime patrol aircraft and radar systems, and Al Jazeera adds drones. NATO hasn't blamed any country for the attacks.",
+    "why_it_matters": "Attacks on merchant ships right on NATO's doorstep risk widening the war and disrupting a key export route for Ukrainian goods. Any escalation involving NATO members would ripple out to allies and partners worldwide, including Australia.",
+    "deep_analysis": "## Historical Context\nBackground: Russia's full-scale invasion of Ukraine began in February 2022, and the Black Sea has been contested ever since. According to the sources, Russian attacks on Ukraine's own Black Sea ports have pushed Ukrainian exporters towards Danube River ports and Romanian waters, making the western Black Sea, near NATO members Romania and Bulgaria, a vital corridor. Al Jazeera notes that Romanian warplanes shot down two Russian drones over Romanian territorial waters on the Saturday before the sinking.\n\n## Multiple Perspectives\n- **Romania:** President Nicusor Dan called it a consequence of Russia's aggression and urged Russia to accept ceasefire proposals. Prime Minister Luca Niculescu called it a flagrant violation of international law.\n- **EU and neighbours:** Ursula von der Leyen called the attacks reckless. Moldova said Russia's escalation threatens freedom of navigation.\n- **Bulgaria:** It has accused Russia of edging too close to its exclusive economic zone.\n- **NATO:** It is boosting surveillance but has not blamed any country.\n- **Russia:** It did not immediately comment, and has previously denied responsibility for deadly drone attacks in the region.\n- **Data disagreement:** Al Jazeera reports at least seven ships hit and 30 sailors dead or missing in two weeks. DW says Khoryv is the fourth ship attacked off Romania this month, citing an earlier Reuters tally of about 23.\n\n## What to Watch\n- Whether NATO's extra patrol aircraft, radar and drones reduce attacks.\n- Any Russian response or denial.\n- Whether attacks move inside NATO territorial waters, which would sharpen the risk of escalation.\n- Effects on Ukrainian exports via Sulina and the Danube.",
+    "concepts": [
+     {
+      "term": "territorial waters",
+      "definition": "The strip of sea next to a country's coast that it legally controls as part of its territory.",
+      "context": "The Khoryv was hit just outside Romania's territorial waters, so the attack happened very close to, but not inside, NATO territory."
+     },
+     {
+      "term": "NATO",
+      "definition": "The North Atlantic Treaty Organization, a military alliance whose members pledge to defend one another.",
+      "context": "Romania and Bulgaria are NATO members, so attacks near their coasts raise fears of a wider conflict."
+     },
+     {
+      "term": "Comoros-flagged",
+      "definition": "Registered under the flag of Comoros, an island nation. Ships often fly a flag of convenience that differs from their owners' or crew's nationality.",
+      "context": "The Khoryv flew Comoros' flag even though its crew were Ukrainian and Azeri."
+     }
+    ],
+    "quiz": {
+     "question": "Why has the western Black Sea near Romania become so important for Ukraine?",
+     "options": [
+      "Romania has banned all Russian ships from the Black Sea",
+      "NATO has built new ports for Ukraine in Bulgaria",
+      "Ukraine's ports are closed for winter every year",
+      "Russia has attacked Ukraine's own Black Sea ports, so exporters rely on Danube ports and Romanian waters"
+     ],
+     "answer_index": 3,
+     "explanation": "Both sources describe this as a vital corridor. Al Jazeera explains that Russian attacks on Ukraine's ports pushed exporters to the Danube and Romanian waters."
+    },
+    "impact_score": 62,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad7e5888d08-1792533896.jpg?resize=1920%2C1440",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "A drone strike sank the cargo ship Khoryv just off Romania's Black Sea coast, killing at least one sailor and leaving three missing, and Romania has blamed Russia.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-23T22:22:58.386690+00:00",
+    "published_date": "2026-10-24",
+    "has_fulltext": true
+   },
+   {
     "id": "64681fd5-c970-5213-a539-22ebbd387f36",
     "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
     "simplified_title": "France bans protests and adds curfews after weekend riots",
@@ -908,6 +842,72 @@
    }
   ],
   "MIDDLE_EAST_AFRICA": [
+   {
+    "id": "adabd6c4-a1b8-5204-9a50-3b162f5bf191",
+    "title": "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
+    "simplified_title": "Trump hints at new Iran strikes as countries urge restraint",
+    "quick_summary": "Donald Trump says the US may launch \"another little Epic Fury\" on Iran, while eight European and Middle Eastern countries meeting in Istanbul warned that fresh strikes would spread the war and push oil prices higher.",
+    "simplified_body": "US President Donald Trump told a rally in Florida on Friday that \"We may do another little Epic Fury\", referring to the joint Israeli-American military operation that started the war with Iran at the end of February. He didn't give details, but he has previously signalled he's open to resuming strikes, though not before the US congressional elections on November 3.\n\nMeanwhile, foreign ministers from eight countries met at a summit in Istanbul and urged the US and Israel not to renew attacks. Turkey's Hakan Fidan said a new attack \"would spread the war and the conflict in the region.\" The group, described as a new \"anti-war bloc\", included Egypt, Pakistan, Saudi Arabia, France, the UK, Germany and Italy. They also called for an end to Houthi attacks on Saudi Arabia and for the strait of Hormuz, currently blockaded by Iranian ships and drones, to be reopened.\n\nSome background: the war is nearing its eight-month mark, and talks over Iran's nuclear programme are deadlocked. Oil prices have hit their highest level since May, and rising fuel prices are weighing on the US midterm elections. Germany's Johann Wadephul said people feel the effects \"at the petrol pump or the supermarket\" and warned of famine risk elsewhere.\n\nWhat's next? Watch whether Trump moves on strikes after November 3, whether the Istanbul group gains influence, and whether diplomacy can reopen Hormuz before prices climb further.",
+    "why_it_matters": "A wider war and a blocked strait of Hormuz push up global energy and fertiliser costs, which can flow through to petrol and grocery prices worldwide, including here in Australia.",
+    "deep_analysis": "## Historical Context\nAccording to the sources, the war began at the end of February with the joint US-Israeli operation called Epic Fury, and is now nearing eight months. As general background, the strait of Hormuz is a narrow waterway that a large share of the world's seaborne oil passes through, which is why any blockade rattles energy markets. The Houthis are a Yemen-based armed group; the sources say Saudi Arabia is fending off their drone and missile attacks on airports and energy sites.\n\n## Multiple Perspectives\n- **Trump/US:** Signals openness to more strikes after a long diplomatic deadlock, but apparently not before the November 3 elections, when fuel prices are a political concern.\n- **Istanbul group:** Turkey, Italy and France say there is no purely military solution and another war would worsen oil prices. The UK's Ed Miliband urged diplomacy.\n- **Germany:** Wadephul didn't criticise the US, instead blaming the Houthis and Iran for \"blackmailing world trade.\"\n- **Iran:** France 24 reports Iran says there is no military solution as talks with the US stall.\nNote the meeting was unprecedented, giving European ministers rare input after largely being bystanders.\n\n## What to Watch\n- Any US moves toward strikes after November 3.\n- Whether Egypt joins the Mecca defensive security pact formed by Pakistan, Turkey and Saudi Arabia in August.\n- Oil price movements and any progress reopening Hormuz.\n- Whether nuclear talks restart.",
+    "concepts": [
+     {
+      "term": "Epic Fury",
+      "definition": "The name of the joint Israeli-American military operation that started the war with Iran.",
+      "context": "Trump referred to it when hinting at another attack."
+     },
+     {
+      "term": "strait of Hormuz",
+      "definition": "A narrow sea passage vital for global oil shipping, currently blockaded by Iranian ships and drones.",
+      "context": "Ministers demanded it be reopened immediately."
+     },
+     {
+      "term": "anti-war bloc",
+      "definition": "A new grouping of countries pushing against renewed military action on Iran.",
+      "context": "Formed at the Istanbul summit of eight European and Middle Eastern nations."
+     },
+     {
+      "term": "Houthi",
+      "definition": "An armed group attacking Saudi Arabia with drones and missiles.",
+      "context": "The summit called for an end to these assaults."
+     }
+    ],
+    "quiz": {
+     "question": "Why are European and Middle Eastern ministers warning against new strikes on Iran?",
+     "options": [
+      "Iran has already agreed to a peace deal",
+      "They believe it would spread the conflict and push oil prices higher",
+      "They want the US to win the war faster",
+      "They plan to join the strikes themselves"
+     ],
+     "answer_index": 1,
+     "explanation": "Ministers said a new attack would widen the war in the region and worsen already-rising oil prices."
+    },
+    "impact_score": 78,
+    "image_url": "https://s.france24.com/media/display/f8bb93a2-cf20-11f1-9296-bdb9616e85cf/w:1280/p:16x9/AP26296694621760.jpg",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Donald Trump says the US may launch \"another little Epic Fury\" on Iran, while eight European and Middle Eastern countries meeting in Istanbul warned that fresh strikes would spread the war and push oil prices higher.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/americas/20261023-trump-says-us-may-launch-another-little-epic-fury-attack-iran"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-10-23T22:22:57.430020+00:00",
+    "published_date": "2026-10-24",
+    "has_fulltext": true
+   },
    {
     "id": "43d9b972-5a5e-5832-8c68-db7e2a886b9b",
     "title": "Sudan hospitals deliberately targeted in el-Fasher by RSF fighters, BBC finds",
@@ -1407,117 +1407,64 @@
   ],
   "GLOBAL_SYSTEMS": [
    {
-    "id": "29d89cfd-3337-54ca-bb74-ffab1e8eea78",
-    "title": "Almost every shallow-water coral reef on the planet faces ecosystem collapse by 2075, UN advisors say",
-    "simplified_title": "Nearly all the world's shallow coral reefs at risk of collapse by 2075",
-    "quick_summary": "A United Nations-advising assessment warns that 96% of shallow-water coral reefs, including the Great Barrier Reef, face a high risk of collapse before 2075 once expected global heating is counted.",
-    "simplified_body": "An assessment coordinated by the International Union for Conservation of Nature (IUCN), a group that advises the United Nations, found about 24% of the planet's reefs across more than 80 countries are already critically endangered. When the expected impacts of global heating were added, that figure jumped to 96%. The team looked at 127 coral reef regions.\n\nThis matters for hundreds of millions of people who rely on reefs for food, shoreline protection and tourism. A quarter of all known marine species live in and around reefs. In Australia, four of 17 reef regions are already critically endangered, but all 17, including the Great Barrier Reef, become critically endangered once climate change is factored in.\n\nSome background: \"critically endangered\" here means an extremely high risk of ecosystem collapse before 2075. A reef counts as collapsed when it can't maintain itself because its living reef-building corals are nearly or completely gone. Marine heatwaves cause coral bleaching, where corals separate from the symbiotic algae that give them colour and nutrients. Bleaching isn't always deadly, but it weakens corals. The assessment assumed about 2.7C of warming by 2100, and it didn't fully account for the 2023–2025 global bleaching event, the most widespread on record.\n\nScientists say this is a \"wake-up call\", not a death sentence. Reefs could survive with rapid cuts to fossil fuel use and strong local conservation. The IUCN's director general called for ambitious emissions reductions, stronger protection and restoration, and sustained investment.",
-    "why_it_matters": "Every one of Australia's 17 reef regions, including the Great Barrier Reef, is rated critically endangered once expected warming is included. Western Australia has also just suffered its worst mass bleaching on record.",
-    "deep_analysis": "## Historical Context\nThe assessment says overfishing, pollution, coastal development and global heating have driven reef declines over the past 50 years. The fourth global mass bleaching event (early 2023 to mid-2025) was the most widespread on record, according to the US government's Coral Reef Watch. It was bookended by Western Australia's worst bleaching, which killed corals across 1,500 km. As background, the IUCN is widely known for its Red List of threatened species, and this assessment applies a similar risk-rating approach to whole ecosystems.\n\n## Multiple Perspectives\nLead scientist Dr Mishal Gudka called the findings \"alarming, but certainly not hopeless\". IUCN chief Dr Grethel Aguilar stressed that it is not too late if climate action is decisive. Dr Ben Fitzpatrick, who led the Australian assessment, said that even allowing for some coral adaptation, heat \"overwhelmed everything\". The results could also be an underestimate: four regions lacked data, the western Galápagos reefs had already collapsed, and the recent bleaching wasn't fully counted.\n\n## What to Watch\nThe modelled pathway of about 2.7C is close to the roughly 2.6C that current policies are estimated to deliver. Whether countries strengthen their emissions targets is the key variable. Locally, watch for reef protection and restoration funding, and for how Australian governments respond given the Great Barrier Reef's ratings.",
-    "concepts": [
-     {
-      "term": "critically endangered",
-      "definition": "A rating meaning an extremely high risk of the ecosystem collapsing before 2075.",
-      "context": "96% of reefs earn this rating once expected warming is included."
-     },
-     {
-      "term": "coral bleaching",
-      "definition": "When heat stress makes corals separate from the algae that give them colour and nutrients.",
-      "context": "Marine heatwaves cause it, and it weakens corals even when it doesn't kill them."
-     },
-     {
-      "term": "symbiotic algae",
-      "definition": "Tiny algae living inside corals in a mutually beneficial partnership.",
-      "context": "Losing them is what bleaching means."
-     }
-    ],
-    "quiz": {
-     "question": "Why did the share of critically endangered reefs jump from about 24% to 96%?",
-     "options": [
-      "Overfishing suddenly increased",
-      "Expected future global heating was added to the assessment",
-      "The reefs were measured using a new map",
-      "Scientists found many new reefs"
-     ],
-     "answer_index": 1,
-     "explanation": "About 24% are critically endangered now. Factoring in projected warming of about 2.7C raised the figure to 96%."
-    },
-    "impact_score": 85,
-    "image_url": "https://i.guim.co.uk/img/media/c1d0cd51dc12a1cdab85e673f2c5f4da07499f11/439_0_3096_2477/master/3096.jpg?width=1920&quality=85&auto=format&fit=max&s=4ce6b8adeaea76f75e463465e0e7c89f",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "A United Nations-advising assessment warns that 96% of shallow-water coral reefs, including the Great Barrier Reef, face a high risk of collapse before 2075 once expected global heating is counted.",
-    "tier": "GLOBAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-22T13:37:29.235854+00:00",
-    "published_date": "2026-10-22",
-    "has_fulltext": true
-   },
-   {
-    "id": "161b8573-a58d-5e1b-baa9-8c6caba38306",
-    "title": "Oil prices jump to five-month high as attacks threaten global supply",
-    "simplified_title": "Oil hits five-month high after attacks on Saudi Arabia and tankers",
-    "quick_summary": "Brent crude rose 3% to $112 a barrel, its highest since 18 May, after Houthi attacks in Saudi Arabia and Iranian strikes on tankers near the strait of Hormuz sparked fears of more supply disruption.",
-    "simplified_body": "Oil prices jumped on Thursday to a five-month high. Brent crude, the international benchmark price for oil, rose 3% to $112 a barrel, the first time it's been that high since 18 May. The trigger: Yemen's Houthis, who are aligned with Iran, hit targets in Saudi Arabia, killing two people at a civilian airport in Dammam and two more in a drone attack on an oilfield. Iran's Islamic Revolutionary Guard Corps (IRGC) also said it hit four vessels in the northern Gulf, and three more ships struck mines west of the strait of Hormuz.\n\nThis matters for basically anyone who buys fuel or holds shares. Sharemarkets wobbled on fears of higher inflation and borrowing costs, with Japan's Nikkei 225 down 2.7% and South Korea's Kospi down 3.5%. The US has ordered some diplomats and families out of Saudi Arabia, and Saudi Aramco, the state oil giant, told staff to evacuate its Dhahran headquarters, according to Reuters.\n\nSome background: almost eight months ago, after US-Israeli attacks on Iran, Tehran effectively blocked the strait of Hormuz, a key shipping route for oil. Prices peaked at $126 in April, then fell to $71 in early July on ceasefire hopes. They started rising again after a memorandum of understanding between the US and Iran fell apart. Interestingly, data from Kpler shows Persian Gulf oil exports are now above prewar levels, partly thanks to pipelines that bypass Hormuz.\n\nWhat's next? The IRGC warned the US that continued provocations could bring a wider response against American bases in the region. If fighting escalates, prices could keep climbing.",
-    "why_it_matters": "Higher oil prices tend to flow through to petrol costs and inflation worldwide, which can push up borrowing costs, so this could hit household budgets well beyond the Middle East, including in Australia.",
-    "deep_analysis": "## Historical Context\nPer the article, the current crisis began nearly eight months ago with US-Israeli attacks on Iran and Tehran's effective block on the strait of Hormuz. Oil surged past $100, peaked at $126 in April, dropped to $71 in early July amid ceasefire hopes, then climbed again once the US-Iran memorandum of understanding collapsed. As general background, the strait of Hormuz has long been considered one of the world's most important oil chokepoints, and Middle East conflicts have historically caused sharp oil price spikes.\n\n## Multiple Perspectives\n- **Iran/IRGC:** Frames the tankers it hit as involved in \"illegal\" oil transfers and warns the US against provocations.\n- **US:** Is pulling some diplomats and families from Saudi Arabia and plans to do so at other missions, signalling it takes the risk seriously.\n- **Markets:** Investors fear higher inflation and borrowing costs, hence falling share indices in Europe and Asia.\n- **Supply data:** Kpler's figures suggest Gulf exports are actually above prewar levels thanks to overland pipelines, which complicates the narrative that supply is collapsing. Prices may be driven as much by fear of future disruption as by actual shortages.\n\n## What to Watch\n- Whether the IRGC follows through on threats against US regional bases.\n- Further Houthi attacks on Saudi oil infrastructure.\n- Whether pipeline routes to the Red Sea and Gulf of Oman keep exports flowing.\n- Any revival of US-Iran diplomacy.\n- Background: central banks may respond to oil-driven inflation, affecting interest rates.",
+    "id": "7baab65b-f998-52c8-ab46-6f78a33bf23d",
+    "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+    "simplified_title": "Oil prices surge as fears grow of renewed US strikes on Iran",
+    "quick_summary": "Brent crude oil jumped past $117 a barrel, its highest since April, as attacks in the Gulf and threats from Iran raised fears of a wider Middle East conflict.",
+    "simplified_body": "Oil prices have jumped to their highest level in months. Brent crude, the international benchmark for oil, rose about 3% on Thursday to hit $112 a barrel, then climbed roughly 3.5% more on Friday to pass $117 at one point, before easing to just over $116. One report calls it a five-month high, the other its highest in more than six months.\n\nThe spike follows a rough week. Iran-aligned Houthi rebels from Yemen hit targets in Saudi Arabia, killing people at a civilian airport and an oilfield. Iran's Islamic Revolutionary Guard Corps (IRGC) said it struck four ships near the strait of Hormuz, and Tehran warned it would attack oil facilities, undersea cables, datacentres and AI facilities in the Gulf if a new US-Israeli offensive came. Higher oil prices ripple out: stock markets in Europe and Asia fell, and American Airlines warned fuel costs would push it into a loss this year.\n\nSome background: the Iran war began after US-Israeli attacks in February, when Brent sat around $72. Iran effectively blocked the strait of Hormuz, a key shipping route, and oil peaked at $126 in April. Prices fell to about $71 in early July on ceasefire hopes, then rose again when a memorandum of understanding between the US and Iran fell apart. Interestingly, data from Kpler shows Gulf oil exports are now above prewar levels, partly thanks to pipelines bypassing Hormuz.\n\nWhat's next? Analysts say there are widespread reports the US may consider renewed strikes on Iran after its 3 November midterm elections. Ukraine's attacks on Russian diesel refineries are also adding to supply worries.",
+    "why_it_matters": "Oil is priced globally, so a jump in Brent tends to flow through to fuel, transport and airfare costs everywhere, Australia included, and markets expect it could push up inflation and borrowing costs.",
+    "deep_analysis": "## Historical Context\nAccording to the sources, Brent traded near $72 in February before the war, surged past $100 in the first weeks after US-Israeli attacks on Iran, peaked at $126 in April, and fell to about $71 in early July on ceasefire hopes. Prices climbed again after a US-Iran memorandum of understanding collapsed. As general background, the strait of Hormuz has long been one of the world's most important oil chokepoints, which is why disruption there moves markets so sharply.\n\n## Multiple Perspectives\nBroker analysts Richard Hunter and Susannah Streeter point to fears of renewed US strikes after the midterms, intensifying Houthi attacks and dangerous shipping in Hormuz. Iran's IRGC frames its ship strikes as targeting \"illegal\" oil transfers and warns of wider retaliation. Yet Kpler data suggests actual Gulf exports exceed prewar levels, hinting that prices may reflect fear of future disruption more than current shortages. The two reports also differ slightly on framing, describing the high as five months versus more than six months.\n\n## What to Watch\n- US decisions after the 3 November midterm elections.\n- Whether Iran follows through on threats to Gulf energy and digital infrastructure.\n- Houthi attacks on Saudi facilities and shipping safety in Hormuz.\n- Flow-on effects to inflation, interest rates and airline profits.",
     "concepts": [
      {
       "term": "Brent crude",
-      "definition": "A type of oil used as the main international benchmark for pricing oil.",
-      "context": "It rose 3% to $112 a barrel, its highest since 18 May."
+      "definition": "A type of oil used as the main international reference price for crude oil.",
+      "context": "When news says 'oil hit $117', it usually means Brent crude."
      },
      {
       "term": "strait of Hormuz",
-      "definition": "A narrow sea passage out of the Persian Gulf that is a major route for oil shipments.",
-      "context": "Iran's effective block on it nearly eight months ago set off the current oil crisis."
+      "definition": "A narrow sea passage out of the Persian Gulf that a large share of the world's oil ships pass through.",
+      "context": "Iran's effective blockade of it triggered the big price spike earlier in the war."
      },
      {
       "term": "memorandum of understanding",
-      "definition": "A formal but usually non-binding agreement between parties setting out shared intentions.",
-      "context": "The US-Iran memorandum fell apart, after which oil prices started rising again."
+      "definition": "A formal but usually non-binding agreement setting out what two parties intend to do.",
+      "context": "The collapse of the US-Iran one helped push oil prices back up."
      }
     ],
     "quiz": {
-     "question": "According to Kpler data, Persian Gulf oil exports are above prewar levels. Why are prices still rising?",
+     "question": "Kpler data shows Gulf oil exports are above prewar levels, yet prices are rising. What best explains this?",
      "options": [
-      "Because new attacks raise fears of further supply disruption",
-      "Because a US-Iran ceasefire was just signed",
-      "Because exports have actually collapsed to zero",
-      "Because Saudi Arabia stopped all pipeline flows"
+      "Oil companies have stopped producing oil",
+      "Markets are reacting to fears of future disruption and escalation",
+      "The war has officially ended",
+      "Brent crude is only sold in the US"
      ],
-     "answer_index": 0,
-     "explanation": "The price jump followed attacks in Saudi Arabia and on tankers that threatened further disruptions, so markets are reacting to risk even though exports are currently flowing, partly via pipelines."
+     "answer_index": 1,
+     "explanation": "Prices are rising on fears of renewed US strikes, Iranian threats and attacks, even though current export volumes are high, partly via pipelines."
     },
     "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/e3e106cee8c7a119858472afd76f5d130e4d43b6/1722_527_3180_2545/master/3180.jpg?width=1920&quality=85&auto=format&fit=max&s=b8f6c6cc542432bfca054fed49d26560",
+    "image_url": "https://i.guim.co.uk/img/media/c0f302e34e0b51e7da8489af30c4f6d217592b8a/424_0_4520_3616/master/4520.jpg?width=1920&quality=85&auto=format&fit=max&s=965e95f168a08dedaa93cef1c79def6e",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "Brent crude rose 3% to $112 a barrel, its highest since 18 May, after Houthi attacks in Saudi Arabia and Iranian strikes on tankers near the strait of Hormuz sparked fears of more supply disruption.",
+    "description": "Brent crude oil jumped past $117 a barrel, its highest since April, as attacks in the Gulf and threats from Iran raised fears of a wider Middle East conflict.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
       "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran"
+     },
+     {
+      "name": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
     "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-22T13:37:32.165851+00:00",
-    "published_date": "2026-10-22",
+    "reading_minutes": 1,
+    "created_at": "2026-10-23T22:22:57.172996+00:00",
+    "published_date": "2026-10-24",
     "has_fulltext": true
    },
    {
@@ -1583,6 +1530,67 @@
     "reading_minutes": 4,
     "created_at": "2026-10-22T23:12:11.610258+00:00",
     "published_date": "2026-10-23",
+    "has_fulltext": true
+   },
+   {
+    "id": "113847ed-f5c1-5869-b285-d2cef2b6cb50",
+    "title": "White House says the US is lifting tariffs on some Canadian goods",
+    "simplified_title": "US drops some Canada tariffs, adds others, just before midterm elections",
+    "quick_summary": "The White House is removing its 50% tariffs on some Canadian goods from 30 October while adding new ones on other products, a move reported to help Republicans like Senator Susan Collins ahead of the US midterms.",
+    "simplified_body": "The White House announced on Friday that from 30 October it will stop taxing some Canadian goods, including plywood sheets, some paper products, certain machinery and refrigeration equipment, and some packing crates and boxes. But it's not a straight cut: new tariffs will apply to other Canadian products such as certain valves, carpets and waste products.\n\nThe changes matter most to US border states like Maine, whose economies are tightly linked to Canada. Republican Senator Susan Collins, in a tight re-election race against Democrat Troy Jackson, first announced the exemptions and said they would help Maine's blueberry, potato, apple and seaweed producers, who rely on Canadian equipment and packaging. The Wall Street Journal reported the exemptions were aimed at helping Collins and other Republicans in the midterm elections on 3 November.\n\nSome background: a tariff is a tax on imported goods. The US and Canada have been in a trade dispute since President Donald Trump returned to office. When talks broke down in the summer (DW says August), Trump put a 50% tariff on some Canadian goods and Canadian Prime Minister Mark Carney responded with retaliatory tariffs, sparking an escalating trade war.\n\nWhat next? Trump says Canada is \"working very hard\" on a deal. Carney says Canada is open to a deal but willing to wait months, or even for another administration, to get a proper one. Canada hadn't commented on the announcement yet.",
+    "why_it_matters": "It shows how trade policy can be shaped by election politics, and how tariff swaps can shuffle costs around rather than remove them. For Australia, which also trades heavily with the US, it's a reminder that even close allies can end up in tariff fights.",
+    "deep_analysis": "## Historical Context\nAccording to the sources, the US-Canada dispute began after Trump returned to the White House last year and escalated when talks collapsed in the summer, leading to 50% US tariffs and Canadian retaliation. A Canada-United States Economic Relations Advisory Committee has met nine times since April 2026. As general background, the two countries have long had deeply integrated economies, which is why tariffs hit both sides of the border.\n\n## Multiple Perspectives\n- **White House:** Frames the move as protecting American prosperity and national security and offsetting what it calls Canada's \"discriminatory treatment\".\n- **Susan Collins:** Says Maine farmers need Canadian equipment and packaging that can't easily be replaced, and wants a broader trade deal.\n- **Critics/reporting:** The Wall Street Journal reported the exemptions were designed to help Republicans in the midterms, and that cuts could be offset by higher levies elsewhere.\n- **Canada:** Carney says Canada will sign a fair deal but won't rush; Ottawa hadn't responded to the announcement.\n- **Other Republicans:** Michigan's Mike Rogers, after backing the policy, has urged Trump to end the standoff.\n\nNote: sources differ slightly on timing. BBC says talks collapsed \"this summer\" and calls it a \"month-long\" trade war; DW specifies August.\n\n## What to Watch\n- The Maine Senate result on 3 November.\n- Whether Canada responds or adjusts its retaliatory tariffs.\n- Further exemptions or a broader deal after the midterms.",
+    "concepts": [
+     {
+      "term": "tariff",
+      "definition": "A tax a government charges on goods imported from another country.",
+      "context": "The US has charged 50% tariffs on some Canadian goods, raising costs for businesses that buy them."
+     },
+     {
+      "term": "retaliatory tariffs",
+      "definition": "Tariffs one country imposes in response to tariffs placed on it by another country.",
+      "context": "Canada answered the US 50% tariffs with its own, escalating the trade war."
+     },
+     {
+      "term": "midterm elections",
+      "definition": "US national elections held halfway through a president's four-year term, deciding seats in Congress.",
+      "context": "The tariff changes come just before the 3 November midterms, where Collins is fighting to keep her seat."
+     }
+    ],
+    "quiz": {
+     "question": "Why might the tariff change not mean lower overall costs on Canadian goods?",
+     "options": [
+      "Because the changes don't take effect until next year",
+      "Because Canada has cancelled all its exports",
+      "Because the exemptions only apply to US-made goods",
+      "Because new tariffs are being added to other Canadian products like valves and carpets"
+     ],
+     "answer_index": 3,
+     "explanation": "The White House removed some products from the tariff list but replaced them with others, such as certain valves, carpets and waste products, so costs are shifted rather than simply cut."
+    },
+    "impact_score": 55,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "The White House is removing its 50% tariffs on some Canadian goods from 30 October while adding new ones on other products, a move reported to help Republicans like Senator Susan Collins ahead of the US midterms.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-23T22:22:57.816560+00:00",
+    "published_date": "2026-10-24",
     "has_fulltext": true
    }
   ],
