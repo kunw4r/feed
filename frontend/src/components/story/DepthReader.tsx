@@ -6,6 +6,7 @@ import { Story, Concept, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
 import { markRead } from "@/lib/progress";
 import { Reveal, InkText } from "@/components/motion";
 import QuizBlock from "./QuizBlock";
+import NewsImage from "@/components/NewsImage";
 import OriginalReporting from "./OriginalReporting";
 
 const WPM = 230;
@@ -245,7 +246,13 @@ export default function DepthReader({ story, next }: { story: Story; next: Story
       <header ref={heroRef} className="relative h-[92svh] min-h-[560px] overflow-hidden bg-black">
         {story.image_url ? (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src={story.image_url} alt="" referrerPolicy="no-referrer" fetchPriority="high" className="hero-media absolute inset-0 h-full w-full object-cover will-change-transform" />
+          <NewsImage
+            src={story.image_url}
+            priority
+            sizes="(min-width: 1024px) calc(100vw - 240px), 100vw"
+            className="hero-media absolute inset-0 h-full w-full object-cover will-change-transform"
+            fallback={<div className="hero-media absolute inset-0 bg-gradient-to-br from-stone-900 via-stone-800 to-orange-950" />}
+          />
         ) : (
           <div className="hero-media absolute inset-0 bg-gradient-to-br from-stone-900 via-stone-800 to-orange-950" />
         )}
@@ -394,16 +401,11 @@ export default function DepthReader({ story, next }: { story: Story; next: Story
       {/* ── Up next ── */}
       {next && (
         <Link href={`/story/${next.id}`} className="group relative mt-16 block h-[70svh] min-h-[420px] overflow-hidden bg-black">
-          {next.image_url && (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img
-              src={next.image_url}
-              alt=""
-              referrerPolicy="no-referrer"
-              loading="lazy"
-              className="absolute inset-0 h-full w-full object-cover opacity-70 transition-transform duration-[1.6s] ease-out group-hover:scale-105"
-            />
-          )}
+          <NewsImage
+            src={next.image_url}
+            sizes="(min-width: 1024px) calc(100vw - 240px), 100vw"
+            className="absolute inset-0 h-full w-full object-cover opacity-70 transition-transform duration-[1.6s] ease-out group-hover:scale-105"
+          />
           <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-black/20" />
           <Reveal className="absolute inset-x-0 bottom-0 px-5 md:px-10 pb-14 max-w-4xl">
             <p className="smallcaps text-[14px] text-white/60">Up next</p>

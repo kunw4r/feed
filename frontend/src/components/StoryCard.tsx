@@ -1,9 +1,9 @@
 "use client";
 
-import { useState } from "react";
 import { Story, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
 import { useProgress } from "@/lib/progress";
 import Link from "next/link";
+import NewsImage from "./NewsImage";
 
 type Variant = "hero" | "rail" | "row";
 
@@ -26,23 +26,25 @@ const FALLBACK_TINT: Record<string, string> = {
   UNCATEGORISED: "from-stone-900 via-stone-700 to-stone-500",
 };
 
-export function CardImage({ story, className = "", priority }: { story: Story; className?: string; priority?: boolean }) {
-  const [failed, setFailed] = useState(false);
+export function CardImage({
+  story,
+  sizes,
+  className = "",
+  priority,
+}: {
+  story: Story;
+  sizes: string;
+  className?: string;
+  priority?: boolean;
+}) {
   const tint = FALLBACK_TINT[story.category] || FALLBACK_TINT.UNCATEGORISED;
-
-  if (!story.image_url || failed) {
-    return <div className={`card-img absolute inset-0 bg-gradient-to-br ${tint} ${className}`} />;
-  }
   return (
-    // eslint-disable-next-line @next/next/no-img-element
-    <img
+    <NewsImage
       src={story.image_url}
-      alt=""
-      loading={priority ? "eager" : "lazy"}
-      fetchPriority={priority ? "high" : "auto"}
-      referrerPolicy="no-referrer"
-      onError={() => setFailed(true)}
+      sizes={sizes}
+      priority={priority}
       className={`card-img absolute inset-0 h-full w-full object-cover ${className}`}
+      fallback={<div className={`card-img absolute inset-0 bg-gradient-to-br ${tint} ${className}`} />}
     />
   );
 }
@@ -73,7 +75,7 @@ export default function StoryCard({ story, variant = "rail", rank, isNew }: Stor
   if (variant === "hero") {
     return (
       <Link href={`/story/${story.id}`} className="card-depth group relative block overflow-hidden rounded-[28px] bg-black h-[62svh] min-h-[440px] max-h-[640px]">
-        <CardImage story={story} className="opacity-90" priority />
+        <CardImage story={story} className="opacity-90" priority sizes="(min-width: 1024px) calc(100vw - 320px), 100vw" />
         <div className="scrim absolute inset-0" />
         <div className="absolute inset-x-0 bottom-0 p-6 md:p-12 max-w-4xl">
           <Kicker story={story} light isNew={isNew} />
@@ -101,7 +103,7 @@ export default function StoryCard({ story, variant = "rail", rank, isNew }: Stor
           <p className="font-read mt-2 text-[1.02rem] leading-[1.5] text-content-dim line-clamp-2">{story.quick_summary}</p>
         </div>
         <div className="relative aspect-square overflow-hidden rounded-2xl card-depth">
-          <CardImage story={story} />
+          <CardImage story={story} sizes="(min-width: 768px) 132px, 88px" />
         </div>
       </Link>
     );
@@ -110,7 +112,7 @@ export default function StoryCard({ story, variant = "rail", rank, isNew }: Stor
   return (
     <Link href={`/story/${story.id}`} className="group block w-[78vw] max-w-[320px] flex-shrink-0 snap-start">
       <div className="card-depth relative aspect-[4/5] overflow-hidden rounded-[22px] bg-surface-inset">
-        <CardImage story={story} />
+        <CardImage story={story} sizes="320px" />
         <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/20 to-transparent" />
         {isRead && (
           <span className="absolute top-3 right-3 rounded-full bg-black/50 backdrop-blur px-2.5 py-1 text-[11px] text-white/90">Read</span>

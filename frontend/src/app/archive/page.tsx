@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { fetchArchiveIndex } from "@/lib/api";
 import PageHeader from "@/components/PageHeader";
+import NewsImage from "@/components/NewsImage";
 import { Reveal } from "@/components/motion";
 
 export const metadata: Metadata = { title: "Archive", description: "Past editions of Brainfeed." };
@@ -32,10 +33,7 @@ export default async function ArchivePage() {
                   {d.lead?.simplified_title}
                 </p>
                 <div className="relative aspect-[4/3] overflow-hidden rounded-xl bg-surface-inset">
-                  {d.lead?.image_url && (
-                    // eslint-disable-next-line @next/next/no-img-element
-                    <img src={d.lead.image_url} alt="" loading="lazy" referrerPolicy="no-referrer" className="absolute inset-0 h-full w-full object-cover" />
-                  )}
+                  <NewsImage src={d.lead?.image_url} sizes="120px" className="absolute inset-0 h-full w-full object-cover" />
                 </div>
               </Link>
             </Reveal>

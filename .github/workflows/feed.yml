@@ -71,6 +71,26 @@ jobs:
           npx next build
           touch out/.nojekyll
 
+      - name: Warm the image cache
+        # First request to the image proxy is slow; fetch today's sizes so readers hit a warm cache
+        continue-on-error: true
+        run: |
+          python - <<'PY'
+          import json, urllib.parse, urllib.request
+          from concurrent.futures import ThreadPoolExecutor
+          d = json.load(open("frontend/public/data/today.json"))
+          urls = [s["image_url"] for v in d["regions"].values() for s in v if s.get("image_url")]
+          jobs = [f"https://wsrv.nl/?url={urllib.parse.quote(u, safe='')}&w={w}&output=webp&q=78" for u in urls for w in (480, 800, 1200, 1600)]
+          def get(u):
+              try:
+                  return urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "brainfeed-warmup"}), timeout=30).status
+              except Exception:
+                  return 0
+          with ThreadPoolExecutor(12) as pool:
+              ok = sum(code == 200 for code in pool.map(get, jobs))
+          print(f"warmed {ok}/{len(jobs)} image renditions")
+          PY
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: frontend/out

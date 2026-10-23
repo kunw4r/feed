@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Story, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
 import { useProgress } from "@/lib/progress";
+import NewsImage, { proxied } from "./NewsImage";
 
 // Full-screen, one-story-per-screen triage: read the gist, go deeper only on what hooks you.
 export default function BriefDeck({ stories }: { stories: Story[] }) {
@@ -85,7 +86,7 @@ export default function BriefDeck({ stories }: { stories: Story[] }) {
               {s.image_url && (
                 <>
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={s.image_url} alt="" referrerPolicy="no-referrer" className="absolute inset-0 h-full w-full object-cover scale-125 blur-3xl opacity-35" />
+                  <img src={proxied(s.image_url, 160)} alt="" loading="lazy" referrerPolicy="no-referrer" className="absolute inset-0 h-full w-full object-cover scale-125 blur-3xl opacity-35" />
                 </>
               )}
               <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/60 to-black/90" />
@@ -97,7 +98,13 @@ export default function BriefDeck({ stories }: { stories: Story[] }) {
                 >
                   {s.image_url ? (
                     // eslint-disable-next-line @next/next/no-img-element
-                    <img src={s.image_url} alt="" referrerPolicy="no-referrer" loading={i < 2 ? "eager" : "lazy"} fetchPriority={i === 0 ? "high" : "auto"} className="h-full w-full object-cover" />
+                    <NewsImage
+                      src={s.image_url}
+                      priority={i === 0}
+                      sizes="(min-width: 768px) 50vw, 100vw"
+                      className="h-full w-full object-cover"
+                      fallback={<div className="h-full w-full bg-gradient-to-br from-stone-800 to-orange-950" />}
+                    />
                   ) : (
                     <div className="h-full w-full bg-gradient-to-br from-stone-800 to-orange-950" />
                   )}

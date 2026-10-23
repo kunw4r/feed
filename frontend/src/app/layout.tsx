@@ -51,6 +51,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en-AU" suppressHydrationWarning className={`${fraunces.variable} ${newsreader.variable} ${inter.variable}`}>
       <head>
+        <link rel="preconnect" href="https://wsrv.nl" />
         {/* Apply the saved theme before first paint (dark by default) */}
         <script
           dangerouslySetInnerHTML={{
