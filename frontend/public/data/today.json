@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-23T14:07:21.569157+00:00",
+ "generated_at": "2026-10-23T15:07:34.641181+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -320,6 +320,68 @@
     "reading_minutes": 5,
     "created_at": "2026-10-22T13:37:32.966720+00:00",
     "published_date": "2026-10-22",
+    "has_fulltext": true
+   },
+   {
+    "id": "3eeab57e-a5f8-5178-911e-2e43e77c4758",
+    "title": "UN sends warning as satellite detects greenhouse gas plumes over Gorgon plant",
+    "simplified_title": "Satellite spots huge methane clouds over Chevron's Gorgon gas plant",
+    "quick_summary": "A satellite has repeatedly detected large methane plumes over Chevron's Gorgon gas plant off WA, prompting a United Nations warning and a state government investigation.",
+    "simplified_body": "A satellite called Tanager-1 has spotted big clouds of methane above Chevron's Gorgon liquefied natural gas (LNG) plant on Barrow Island, off Western Australia's Pilbara coast. It picked them up on five passes in a row since November last year. The latest, in late August, measured about 7.8 tonnes of methane an hour, far above a \"super emitter\" event under United States Environmental Protection Agency (US EPA) guidelines. The United Nations (UN) sent Chevron a warning.\n\nThis matters because the UN says methane causes about 25 per cent of global warming and is 80 times more harmful than carbon dioxide. Chevron says it's working with the UN Environment Programme (UNEP), but UNEP told the ABC it hadn't received formal feedback from Chevron or the Australian government. Chevron also says satellite data carries \"a wide range of uncertainty\". An analyst from investigative firm Data Desk linked the plumes to the plant's acid gas removal units, which strip impurities from gas.\n\nSome background: Gorgon already has a rocky environmental record. Its carbon capture and storage system has badly underperformed since 2016, and gas seeped onto the island's surface last year. Chevron was also warned about Gorgon's methane in July last year. Oddly, nobody seems sure who's in charge: federal regulators pointed to the state because methane sits outside Gorgon's federal approval, and the WA government said its role was unclear.\n\nWA's Department of Water and Environmental Regulation is now investigating what compliance steps might be needed. An expert says closer, ground-level measurements are needed to confirm how much has leaked.",
+    "why_it_matters": "Gorgon is one of Australia's biggest oil and gas complexes, and this case shows a possible gap in who regulates methane leaks here, even though Australia helps fund the very satellite program that spotted them.",
+    "deep_analysis": "## Historical Context\nThe article notes Gorgon began operating in 2016 with much-promoted carbon capture and storage that has drastically underperformed. Chevron was notified about Gorgon methane in July last year, and gas seeped onto Barrow Island's surface last year. An earlier ABC investigation found a Santos LNG tank in Darwin leaked an average of 832 tonnes a year for over a decade. As general background, satellite methane tracking has grown rapidly in recent years, making previously invisible leaks public.\n\n## Multiple Perspectives\n- **Chevron:** says satellite monitoring has a wide range of uncertainty and it is seeking clarity on UNEP's data; it didn't answer questions on the cause or whether plumes stopped.\n- **UNEP:** says it hasn't received formal feedback from Chevron or the Australian government, which sits a bit awkwardly with Chevron's claim it is engaging.\n- **Conservation Council WA:** Matthew Roberts criticised the lack of action and urged governments to sort out responsibility.\n- **Data Desk:** Louis Goddard called the levels unusual and consistent, suggesting an operational issue and wasted gas.\n- **UWA's Bruce Norris:** estimated a few thousand tonnes could have leaked in a year, but said closer measurement is needed and that the bigger issue is how companies and government coordinate.\n\n## What to Watch\n- The outcome of WA's Department of Water and Environmental Regulation investigation.\n- Whether federal and state governments clarify who regulates methane at Gorgon.\n- Chevron's formal response to UNEP and any public data update.\n- Gorgon's figures in the annual National Greenhouse and Energy Reporting Scheme, and whether they match satellite estimates.",
+    "concepts": [
+     {
+      "term": "liquefied natural gas",
+      "definition": "Natural gas cooled into a liquid so it takes up far less space and can be shipped overseas.",
+      "context": "Gorgon is a plant that turns gas into LNG for export."
+     },
+     {
+      "term": "super emitter",
+      "definition": "A US EPA label for a site releasing an unusually large amount of methane in one event.",
+      "context": "Gorgon's latest reading far exceeded this threshold."
+     },
+     {
+      "term": "acid gas removal units",
+      "definition": "Equipment that strips impurities like carbon dioxide out of natural gas before it's processed.",
+      "context": "Data Desk traced the plumes to at or near these units."
+     },
+     {
+      "term": "carbon capture and storage",
+      "definition": "Technology that captures carbon dioxide and stores it underground instead of releasing it into the air.",
+      "context": "Gorgon's system has underperformed since 2016."
+     }
+    ],
+    "quiz": {
+     "question": "Why has it been hard to get clear government action on Gorgon's methane plumes?",
+     "options": [
+      "Chevron denied the satellite existed",
+      "Methane falls outside Gorgon's federal approval and the WA government said its role was unclear",
+      "The plumes only happened once",
+      "The UN banned Australia from investigating"
+     ],
+     "answer_index": 1,
+     "explanation": "Federal regulators referred enquiries to the state because methane isn't covered by Gorgon's federal approval, and WA said it was unclear of its role, creating a responsibility gap."
+    },
+    "impact_score": 58,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/f645575e9496e545241c8680cf1d6a72?impolicy=wcms_watermark_news&cropH=521&cropW=926&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "A satellite has repeatedly detected large methane plumes over Chevron's Gorgon gas plant off WA, prompting a United Nations warning and a state government investigation.",
+    "tier": "LOCAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-23/large-methane-plumes-above-chevron-gorgon-project-investigation/107288658"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-23T15:08:05.928268+00:00",
+    "published_date": "2026-10-24",
     "has_fulltext": true
    }
   ],
@@ -649,6 +711,67 @@
     "has_fulltext": true
    },
    {
+    "id": "07f0313a-e9af-5b21-b5e4-4c1f54e58ac2",
+    "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+    "simplified_title": "Drive-by shooting near Paris treated as terrorism, racist motive suspected",
+    "quick_summary": "A gunman firing from his car killed one person and wounded several others in towns west of Paris, and French anti-terror prosecutors are investigating it as terrorism with a possible racist motive.",
+    "simplified_body": "On Friday, a man drove through the towns of Trappes and La Verrière, west of Paris, shooting at people from his car for about 15 minutes. One person was killed. The BBC says five others were wounded, three seriously, while DW reports four injured, with three in critical condition. A 12-year-old girl was among the wounded. Places hit included a petrol station, a medical centre and a playground. A 39-year-old suspect was arrested, with reports placing the arrest in La Verrière or nearby Coignières.\n\nThe Mayor of Trappes, Ali Rabeh, said the person killed was of African origin and one critically injured victim was of North African origin. He believes the attack had \"racist, probably Islamophobic\" overtones. Prosecutors urged caution about the victims' identities, but are investigating whether people were targeted because of their race, ethnicity, nation or religion.\n\nThe case is being handled by France's National Anti-Terrorist Prosecutor's Office (PNAT), which looks at \"murder in connection with a terrorist enterprise\". Interior Minister Laurent Nuñez called it \"clearly a terrorist crime\", though he said the motive is still unclear. The gun was reportedly an older semi-automatic weapon, possibly dating back to World War Two, and the suspect was known to police but not to intelligence services.\n\nInvestigators are also probing possible conspiracy with a terrorist group. The shooting happened the day before large cost-of-living protests, though there was no immediate suggestion the two were linked. Expect more details about the suspect's motive as the investigation continues.",
+    "why_it_matters": "French authorities are treating a possibly racist, anti-Muslim attack as terrorism, which shows how definitions of terror threats are widening beyond Islamist violence. Australia has faced similar questions about racially motivated extremism, so the case is worth watching from here too.",
+    "deep_analysis": "## Historical Context\nAccording to DW, France has suffered a spate of Islamist terrorist attacks in recent years, including the 2020 murder of teacher Samuel Paty in a Paris suburb. Trappes itself has seen tensions linked to that case. As general background, France's specialised anti-terror prosecutor's office was set up in 2019 to centralise terrorism cases.\n\n## Multiple Perspectives\nMayor Ali Rabeh described the attack as racist and likely Islamophobic, calling it possibly one of the first attempted mass killings motivated by Islamophobia and racism. Prosecutors were more cautious, warning against assumptions about victims' identities, though they included a racial or religious aggravating circumstance in the investigation. Minister Aurore Bergé said the nation should stand with residents if a racist motive is established. Sources differ on casualty numbers (five wounded per BBC, four per DW) and on the arrest location.\n\n## What to Watch\n- Whether investigators confirm a motive and any links to a wider group, given the conspiracy charge.\n- How the suspect obtained a Category A weapon.\n- Political reaction amid tense cost-of-living protests and a 70,000-strong security deployment.",
+    "concepts": [
+     {
+      "term": "National Anti-Terrorist Prosecutor's Office (PNAT)",
+      "definition": "France's specialist prosecutors who handle terrorism cases nationwide.",
+      "context": "They took over this case and are investigating it as murder linked to a terrorist enterprise."
+     },
+     {
+      "term": "Islamophobic",
+      "definition": "Showing hostility or prejudice against Muslims.",
+      "context": "The mayor said the attack seemed to target people because of their perceived religion or background."
+     },
+     {
+      "term": "semi-automatic weapon",
+      "definition": "A gun that fires one shot each time the trigger is pulled and reloads itself automatically.",
+      "context": "Police said the attacker used an older-style one, reportedly from the World War Two era."
+     }
+    ],
+    "quiz": {
+     "question": "Why are prosecutors treating this shooting as more than an ordinary murder?",
+     "options": [
+      "Because the suspect was on an intelligence watch list",
+      "Because it happened during cost-of-living protests",
+      "Because it appears linked to a terrorist enterprise and possibly targeted people over race or religion",
+      "Because the suspect has confessed to an Islamist motive"
+     ],
+     "answer_index": 2,
+     "explanation": "PNAT is investigating murder connected to a terrorist enterprise, with an aggravating circumstance of targeting based on race, ethnicity, nation or religion. The suspect wasn't known to intelligence and no link to protests was suggested."
+    },
+    "impact_score": 58,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a4c6/live/ef847520-ced4-11f1-8507-45cb00a1c41c.jpg",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "A gunman firing from his car killed one person and wounded several others in towns west of Paris, and French anti-terror prosecutors are investigating it as terrorism with a possible racist motive.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-23T15:08:05.065392+00:00",
+    "published_date": "2026-10-24",
+    "has_fulltext": true
+   },
+   {
     "id": "3d095c16-f1c1-5b99-96e1-a613ef890af1",
     "title": "Why Serbian elections are so important - as students challenge 12 years of Vučić rule",
     "simplified_title": "Serbia votes as student movement challenges Vučić's long grip on power",
@@ -712,9 +835,136 @@
     "created_at": "2026-10-23T14:08:17.939472+00:00",
     "published_date": "2026-10-24",
     "has_fulltext": true
+   },
+   {
+    "id": "d30189ff-6a38-5bdf-9167-96edac892f4b",
+    "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+    "simplified_title": "Melania Trump helps broker ceasefire for starving Ukrainian city Oleshky",
+    "quick_summary": "The White House says US First Lady Melania Trump helped secure a local ceasefire in Russian-occupied Oleshky, starting 29 October, so aid can get in and civilians can get out.",
+    "simplified_body": "The White House says US First Lady Melania Trump has helped broker a ceasefire between Russia and Ukraine in Oleshky, a Russian-occupied city in Ukraine's Kherson region. It's meant to start on 29 October so humanitarian aid can get in and civilians can be evacuated through a designated safe passageway. The White House didn't say how long it would last. Moscow hadn't commented, but Ukraine's top negotiator, David Arakhamia, confirmed it and thanked both Melania Trump and Pope Leo.\n\nThe people affected are mostly elderly residents who are stuck, starving and cut off. Residents have described eating garden weeds to survive, and reports mention deaths from starvation and disease, no running water and only one partly working hospital. Sources disagree on how many people remain: the BBC cites Ukraine's estimate of about 6,000 in the city and surrounding areas (including 200 children), while The Guardian says about 2,000 (including 50 children). Evacuees will reportedly get to choose whether to go to Russia or Ukraine.\n\nSome background: Russia seized Oleshky in the first days of its full-scale invasion in February 2022. The city sits between the Dnipro River, which separates it from Ukrainian positions, and Russian forces. Russia and Ukraine blame each other for blocking supplies, and Ukraine had been asking for months for a pause in fighting to evacuate people, at times airdropping food by drone. Melania Trump has previously worked through a backchannel with Russian President Vladimir Putin to reunite 34 displaced Ukrainian children with their families.\n\nNext, watch whether the ceasefire actually holds from 29 October and whether aid and evacuations happen. Ukraine says it hopes to set up permanent humanitarian corridors. Wider peace talks between Russia, Ukraine and the US are expected to resume in Abu Dhabi in November, though US–Ukraine relations are currently strained.",
+    "why_it_matters": "It's a rare, concrete humanitarian win in a war where broader peace talks keep stalling, and it could save thousands of mostly elderly civilians from starvation. It also shows how tiny, local deals can sometimes succeed where big negotiations fail.",
+    "deep_analysis": "## Historical Context\nOleshky was captured in the first week of Russia's full-scale invasion in February 2022 and has been trapped on the Russian-held side of the Dnipro River ever since. The Guardian reports Russia failed to deliver food or medicine there since May, while the Kremlin acknowledged a 'critical situation' in September but blamed Kyiv. Ukraine's Foreign Minister Andrii Sybiha told the UN General Assembly that Russia was 'starving them to death'. As background, localised humanitarian pauses and evacuation corridors have been tried in many wars, including earlier in this one, with mixed records of being respected.\n\n## Multiple Perspectives\nThe White House frames this as Melania Trump's personal achievement, quoting her saying aid and evacuation would have been 'impossible' without her. Ukraine's negotiator David Arakhamia confirmed the deal but described it as a long process involving many people, crediting both the First Lady and Pope Leo. The Kremlin had said Putin discussed Oleshky with Donald Trump, but Moscow hadn't publicly confirmed the ceasefire at the time of reporting. Sources also disagree on population figures: roughly 6,000 (Ukrainian estimate cited by the BBC) versus about 2,000 (The Guardian). Meanwhile US–Ukraine ties are tense over Starlink slowdowns, a reported pause in intelligence-sharing and the US lifting sanctions to import Russian diesel.\n\n## What to Watch\n- Whether Russia publicly confirms and honours the ceasefire from 29 October.\n- How long the pause lasts, since no end date was given.\n- Whether evacuees genuinely get a free choice between Russia and Ukraine.\n- Whether 'permanent humanitarian corridors' emerge, as Ukraine hopes.\n- Trilateral talks in Abu Dhabi in November, where Russia's maximalist demands remain a big obstacle.",
+    "concepts": [
+     {
+      "term": "ceasefire",
+      "definition": "An agreed pause in fighting between warring sides.",
+      "context": "Here it's a localised one covering just Oleshky, not the whole war."
+     },
+     {
+      "term": "humanitarian aid",
+      "definition": "Emergency help like food, water and medicine for people in crisis.",
+      "context": "The ceasefire aims to let this aid reach Oleshky's starving residents."
+     },
+     {
+      "term": "safe passageway",
+      "definition": "A route both sides agree not to attack so civilians can leave or supplies can enter.",
+      "context": "Evacuations from Oleshky are planned through a designated one."
+     },
+     {
+      "term": "backchannel",
+      "definition": "An unofficial, private line of communication between leaders or officials.",
+      "context": "Melania Trump used one with Putin to reunite displaced Ukrainian children."
+     }
+    ],
+    "quiz": {
+     "question": "Why is the Oleshky ceasefire described as 'localised'?",
+     "options": [
+      "It ends the entire Russia–Ukraine war but only in Kherson region",
+      "It was agreed only by local mayors without national leaders",
+      "It only stops drone attacks, not artillery",
+      "It only applies to one city so aid and evacuations can happen, not the whole war"
+     ],
+     "answer_index": 3,
+     "explanation": "The pause covers Oleshky specifically to allow humanitarian aid in and civilians out; broader peace talks are separate and still unresolved."
+    },
+    "impact_score": 55,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "The White House says US First Lady Melania Trump helped secure a local ceasefire in Russian-occupied Oleshky, starting 29 October, so aid can get in and civilians can get out.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-23T15:08:09.071695+00:00",
+    "published_date": "2026-10-24",
+    "has_fulltext": true
    }
   ],
   "MIDDLE_EAST_AFRICA": [
+   {
+    "id": "43d9b972-5a5e-5832-8c68-db7e2a886b9b",
+    "title": "Sudan hospitals deliberately targeted in el-Fasher by RSF fighters, BBC finds",
+    "simplified_title": "BBC finds RSF fighters deliberately attacked hospitals in Sudan's el-Fasher",
+    "quick_summary": "A BBC investigation found evidence that Sudan's paramilitary Rapid Support Forces systematically destroyed el-Fasher's healthcare system during their siege and takeover of the city, which the group denies.",
+    "simplified_body": "A BBC investigation has found evidence that the Rapid Support Forces (RSF), a Sudanese paramilitary group, systematically wrecked hospitals in el-Fasher, a city in Darfur, during their long siege and takeover of the city a year ago. The BBC counted at least 43 attacks on hospitals and health sites between May 2024 and October 2025. Between April 2023 and October 2025, 55 medical workers were killed, 120 injured and 10 forcibly \"disappeared\" or abducted. The United Nations (UN) human rights chief, Volker Türk, said attacks like these may amount to war crimes.\n\nThe people hit hardest were civilians trapped in the city. Doctors described hospitals being shelled up to 25 times a day, clinics being attacked again after moving, and drones following patients. When the RSF stormed the last working hospital, the Saudi Hospital, on 25 October 2025, more than 460 patients and companions were allegedly massacred. The RSF denies a massacre happened and calls the BBC's findings propaganda, saying one hospital was used as a military base. The BBC found no independent evidence for that claim.\n\nSome background: Sudan's civil war started in April 2023 between the RSF and Sudan's military. Both sides have been accused of attacking health facilities. The World Health Organization (WHO) condemned a March 2026 bombing of a hospital in RSF-held territory, believed to be carried out by the military, which denies it. Under international humanitarian law, attacking hospitals or medical staff during conflict is illegal. UN investigators say the el-Fasher fighting bore the \"hallmarks of genocide\" against non-Arab groups.\n\nThe RSF-backed government now runs healthcare in el-Fasher and says hospitals are reopening. But the front lines have moved elsewhere, there's no sign of the war ending, and attacks on healthcare continue.",
+    "why_it_matters": "Hospitals are meant to be protected in war, and this investigation documents in detail how that protection collapsed for a whole city. It adds to the evidence that could support future war crimes or genocide cases over Sudan's conflict.",
+    "deep_analysis": "## Historical Context\nThe civil war erupted in April 2023 between the RSF and Sudan's military. According to the BBC, Arab militias now form the backbone of the RSF, and historical ethnic animosities have seen them target non-Arab groups like those in el-Fasher. As general background, Darfur saw mass atrocities in the early 2000s involving Arab militias, which is why UN warnings about genocide hallmarks carry heavy weight. El-Fasher fell to the RSF in October 2025 after a long siege.\n\n## Multiple Perspectives\n- **The BBC and doctors on the ground:** Six doctors described a pattern of systematic targeting; surgeon Dr Muhamed Suliman called it \"deliberate\" and \"planned\". Doctors believed facilities were targeted because army or allied fighters were among patients.\n- **The UN:** Volker Türk said the findings were consistent with his office's own monitoring.\n- **Médecins Sans Frontières (MSF):** More cautious at the time, saying it did not know if hospitals were intentionally targeted, but that warring sides took no precautions to spare them.\n- **The RSF:** Its health minister Dr Alaa Eldin Nugud called the claims lies and propaganda, said the South Hospital hosted missile launchers, and claimed doctors chose to stay rather than being abducted. A doctor in his video, Dr Al-Haj Mohamed Ahmed, told the BBC he was forced to be there.\n- **Both sides accused:** The military is believed to have carried out the deadly strikes on al-Daein hospital, which it denies.\n\n## What to Watch\n- Whether UN or international bodies pursue war crimes or genocide investigations using this evidence.\n- Whether RSF-run hospitals in el-Fasher genuinely reopen and serve civilians.\n- Continued attacks on healthcare as fighting shifts to new front lines, with no peace in sight.",
+    "concepts": [
+     {
+      "term": "Rapid Support Forces (RSF)",
+      "definition": "A Sudanese paramilitary group fighting Sudan's national military in the civil war.",
+      "context": "The BBC says RSF fighters carried out the attacks on el-Fasher's hospitals; the RSF denies this."
+     },
+     {
+      "term": "international humanitarian law",
+      "definition": "The rules of war that protect civilians, medical staff and hospitals during armed conflict.",
+      "context": "Hospitals can lose protection only if used for acts harmful to the enemy, which the RSF claims but the BBC found no evidence of."
+     },
+     {
+      "term": "hallmarks of genocide",
+      "definition": "Signs that violence is aimed at destroying a particular ethnic or national group.",
+      "context": "UN investigators used this phrase about fighting in el-Fasher targeting non-Arab groups."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the RSF's claim that the South Hospital was used as a military base matter legally?",
+     "options": [
+      "Because it means the hospital was never a real hospital",
+      "Because hospitals can lose their protection under international law if used for acts harmful to the enemy",
+      "Because it proves the WHO bombed the hospital",
+      "Because military bases are always illegal in cities"
+     ],
+     "answer_index": 1,
+     "explanation": "Under international law, hospitals are protected but can lose that protection if used by a party to commit an act harmful to the enemy. The BBC found no independent evidence supporting the RSF's claim."
+    },
+    "impact_score": 72,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6eeb/live/c8bb2ad0-cec3-11f1-a701-fddedf244c16.jpg",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "A BBC investigation found evidence that Sudan's paramilitary Rapid Support Forces systematically destroyed el-Fasher's healthcare system during their siege and takeover of the city, which the group denies.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 9,
+    "created_at": "2026-10-23T15:08:12.629910+00:00",
+    "published_date": "2026-10-24",
+    "has_fulltext": true
+   },
    {
     "id": "42c220a5-4b98-5791-b027-74ea76f99e6a",
     "title": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
@@ -1705,5 +1955,5 @@
    }
   ]
  },
- "total_stories": 27
+ "total_stories": 31
 }
