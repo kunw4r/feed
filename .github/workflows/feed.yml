@@ -4,10 +4,11 @@ name: Update feed
 
 on:
   schedule:
-    # 6am, 12pm and 6pm in Brisbane (UTC+10, no daylight saving)
-    - cron: "0 20 * * *"
-    - cron: "0 2 * * *"
-    - cron: "0 8 * * *"
+    # ~5:30am, 11:30am and 5:30pm in Brisbane (UTC+10, no daylight saving).
+    # Off the hour on purpose: GitHub delays top-of-the-hour crons by hours under load.
+    - cron: "23 19 * * *"
+    - cron: "23 1 * * *"
+    - cron: "23 7 * * *"
   workflow_dispatch:
     inputs:
       fresh:
@@ -50,7 +51,7 @@ jobs:
         run: |
           git config user.name "brainfeed-bot"
           git config user.email "brainfeed-bot@users.noreply.github.com"
-          git add frontend/public/data/today.json frontend/public/data/articles
+          git add frontend/public/data/today.json frontend/public/data/articles frontend/public/data/archive
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "chore(feed): update edition $(TZ=Australia/Brisbane date '+%Y-%m-%d %H:%M')"
           git pull --rebase -q && git push

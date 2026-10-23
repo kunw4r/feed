@@ -21,6 +21,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import random
 import re
 import time
 import uuid
@@ -37,6 +38,7 @@ import trafilatura
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "frontend" / "public" / "data"
 ARTICLE_DIR = DATA_DIR / "articles"
+ARCHIVE_DIR = DATA_DIR / "archive"
 
 env_path = ROOT / "backend" / ".env"
 if env_path.exists():
@@ -189,7 +191,9 @@ SELECT_SCHEMA = {
 }
 
 
-def select(items: list[dict], per_region: int, existing: list[dict] | None = None) -> list[dict]:
+def select(
+    items: list[dict], per_region: int, existing: list[dict] | None = None, needs: dict[str, int] | None = None
+) -> list[dict]:
     lines = "\n".join(
         f"[{i}] ({it['source']}) {it['title']} — {it['summary'][:160]}" for i, it in enumerate(items)
     )
@@ -203,6 +207,12 @@ Pick ONLY genuinely new, important stories that are not already covered (a meani
 in a covered story counts only if it changes the picture). The bar is high: a pick must be at least as
 important as the stories already in its region. On a typical update that means 0-4 picks; picking nothing
 is the right answer on a quiet news cycle. At most {per_region} per region. List picks most important first."""
+        if needs:
+            thin = ", ".join(f"{code} needs {n} more" for code, n in needs.items())
+            task += f"""
+
+Some regions are thin and must be topped up so every section has something to read: {thin}.
+For those regions only, pick the best available uncovered stories even if they are less major."""
     else:
         task = f"Pick up to {per_region} stories per region that matter most."
     prompt = f"""You are the editor of a daily news-learning app for a young Australian in Brisbane.
@@ -319,6 +329,17 @@ If sources disagree, say so.
 - impact_score: 0-100 (breadth, severity, novelty)."""
 
 
+def shuffle_quiz(quiz: dict, seed: str) -> dict:
+    """Models favour putting the right answer second; shuffle deterministically per story."""
+    order = list(range(len(quiz["options"])))
+    random.Random(seed).shuffle(order)
+    return {
+        **quiz,
+        "options": [quiz["options"][i] for i in order],
+        "answer_index": order.index(quiz["answer_index"]),
+    }
+
+
 def write_story(pick: dict, articles: list[dict]) -> dict:
     sources_block = "\n\n".join(
         f"<article source=\"{a['source']}\">\n{a['title']}\n\n" + "\n".join(a["paragraphs"])[:12000] + "\n</article>"
@@ -327,6 +348,7 @@ def write_story(pick: dict, articles: list[dict]) -> dict:
     out = ask_json(f"{WRITE_RULES}\n\n{sources_block}", WRITE_SCHEMA, effort="low")
     lead = articles[0]
     story_id = str(uuid.uuid5(uuid.NAMESPACE_URL, lead["url"]))
+    out["quiz"] = shuffle_quiz(out["quiz"], story_id)
     return {
         "id": story_id,
         "title": lead["title"],
@@ -349,11 +371,38 @@ def write_story(pick: dict, articles: list[dict]) -> dict:
     }
 
 
+def write_archive(briefing: dict, keep_days: int) -> None:
+    """Snapshot the edition per day, prune old days, and drop article files nothing references."""
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+    (ARCHIVE_DIR / f"{briefing['date']}.json").write_text(json.dumps(briefing, ensure_ascii=False))
+
+    cutoff = (datetime.now(BRISBANE) - timedelta(days=keep_days)).date().isoformat()
+    index, referenced = [], set()
+    for f in sorted(ARCHIVE_DIR.glob("20*.json"), reverse=True):
+        if f.stem < cutoff:
+            f.unlink()
+            continue
+        day = json.loads(f.read_text())
+        stories = sorted((s for v in day["regions"].values() for s in v), key=lambda s: s["impact_score"], reverse=True)
+        referenced.update(s["id"] for s in stories)
+        index.append({
+            "date": day["date"],
+            "total_stories": len(stories),
+            "lead": {k: stories[0].get(k) for k in ("id", "simplified_title", "image_url")} if stories else None,
+        })
+    (ARCHIVE_DIR / "index.json").write_text(json.dumps(index, ensure_ascii=False))
+    for f in ARTICLE_DIR.glob("*.json"):
+        if f.stem not in referenced:
+            f.unlink()
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--per-region", type=int, default=5)
     ap.add_argument("--incremental", action="store_true", help="keep today's stories, add only new important ones")
     ap.add_argument("--max-per-region", type=int, default=6, help="edition cap per region (incremental)")
+    ap.add_argument("--min-per-region", type=int, default=3, help="top up regions below this (incremental)")
+    ap.add_argument("--archive-days", type=int, default=30, help="how long daily snapshots are kept")
     ap.add_argument("--new-max", type=int, default=6, help="most new stories to write per incremental run")
     ap.add_argument("--max-age-hours", type=int, default=30, help="retire stories older than this (incremental)")
     ap.add_argument("--excerpt", type=int, default=0, help="store only the first N paragraphs of the original (public builds)")
@@ -379,9 +428,15 @@ def main() -> None:
     print(f"  {len(items)} candidate headlines")
 
     print("2/4 selecting")
-    picks = select(items, args.per_region if not existing else 2, existing)
+    needs: dict[str, int] = {}
     if existing:
-        picks = picks[: args.new_max]
+        for code in REGIONS:
+            have = sum(s["region_code"] == code for s in existing)
+            if have < args.min_per_region:
+                needs[code] = args.min_per_region - have
+    picks = select(items, args.per_region if not existing else 2, existing, needs)
+    if existing:
+        picks = picks[: args.new_max + sum(needs.values())]
 
     print("3/4 fetching full articles")
 
@@ -440,9 +495,6 @@ def main() -> None:
         regions[code] = sorted(regions[code], key=lambda s: s["impact_score"], reverse=True)[:cap]
 
     kept = {s["id"] for stories in regions.values() for s in stories}
-    for f in ARTICLE_DIR.glob("*.json"):
-        if f.stem not in kept:
-            f.unlink()
 
     if args.incremental and not fresh and existing and len(kept) == len(existing):
         print(f"no new stories; edition unchanged ({time.time() - t0:.0f}s)")
@@ -455,6 +507,7 @@ def main() -> None:
         "total_stories": len(kept),
     }
     today_path.write_text(json.dumps(briefing, ensure_ascii=False, indent=1))
+    write_archive(briefing, args.archive_days)
     print(f"done: {len(fresh)} new, {len(kept)} in edition, {time.time() - t0:.0f}s")
 
 
