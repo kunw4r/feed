@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-23T22:22:19.570090+00:00",
+ "generated_at": "2026-10-24T03:47:48.484910+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -1050,6 +1050,73 @@
     "has_fulltext": true
    },
    {
+    "id": "e61a7066-899c-5fb7-a4bc-d09fc0db5d44",
+    "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+    "simplified_title": "Kenya records second Ebola death as outbreak spreads across Africa",
+    "quick_summary": "Kenya has confirmed a second Ebola death in a single cluster of cases, while investigators try to work out how a linked case ended up in Nigeria and what role Uganda's main airport played.",
+    "simplified_body": "Kenya's Ministry of Health says a 65-year-old woman has died of Ebola, making her the country's second death. She was a close relative of Kenya's first patient and developed symptoms while already in quarantine. Seven people are still being treated, and the ministry says all cases sit within \"one cluster, with no evidence of community spread\".\n\nThe outbreak began in the Democratic Republic of the Congo (DRC) in May and has now reached Uganda, Kenya and Nigeria. That gives it the widest geographic spread of any Ebola outbreak in Africa so far. Nigeria's first case, a woman married to a Swiss diplomat in Abuja, carries a virus that genomic tests show is closely related to Kenya's first case. Both people passed through Uganda's Entebbe International Airport on 3 October, though nobody has shown they met or that transmission happened there.\n\nSome background: this is the Bundibugyo species of Ebola, which has no approved vaccine or specific treatment. Symptoms usually show up two to 21 days after infection, and people aren't considered infectious until symptoms appear. Health teams rely on contact tracing, finding and monitoring everyone a patient has been near. Kenya traced 135 contacts, though reports differ on how many went into quarantine (one says all, another says 118). Case totals also vary slightly between sources, from more than 9,000 to more than 9,700.\n\nThere's a dispute brewing. Uganda says the Nigerian patient visited the DRC and that it has no active cases; Switzerland says she never went to the DRC. Kenya is also hunting for an untraced Ugandan contact. The Africa Centres for Disease Control and Prevention (Africa CDC) will hold an emergency virtual meeting of health officials on 28 October.",
+    "why_it_matters": "Cases linked across countries thousands of kilometres apart show how air travel can carry a disease with no approved vaccine far from its source. It's a reminder of why fast, honest information-sharing between countries matters for everyone, including travellers from places like Australia.",
+    "deep_analysis": "## Historical Context\nAccording to the sources, the DRC has now declared its 17th Ebola outbreak, and Ebola has killed more than 15,000 people in Africa over the past 50 years. Uganda recorded 20 infections and two deaths in this outbreak before being declared Ebola-free in August. As general background, the 2014–16 West Africa epidemic showed how Ebola can spread widely once it reaches cities and travel hubs, which is why Nigeria's case has revived memories for Abuja residents.\n\n## Multiple Perspectives\n- **Kenya** stresses containment: one cluster, no community spread, all known contacts monitored, though one Ugandan contact remains unreachable.\n- **Uganda** insists it has no active cases and says travel through Uganda doesn't prove infection happened there. It has barred travellers with DRC travel history from transiting.\n- **Switzerland** flatly denies the Nigerian patient went to the DRC, and earlier said she likely caught it in Uganda (not independently confirmed).\n- **WHO and Africa CDC** say they haven't confirmed any DRC trip by her.\n- **Abuja residents** voice worry, with some saying economic hardship makes people more focused on survival than sickness.\nSources also differ on figures: Kenya's quarantine numbers (135 vs 118) and total cases (over 9,000 vs over 9,700).\n\n## What to Watch\n- The Africa CDC extraordinary meeting on 28 October.\n- Whether investigators confirm where the Nigerian woman was exposed, and whether undetected spread exists in Uganda.\n- Whether Kenya locates its missing contact and stays at one cluster.\n- New cases among Nigeria's 44 identified contacts.",
+    "concepts": [
+     {
+      "term": "contact tracing",
+      "definition": "Finding and monitoring everyone who may have been exposed to an infected person so new cases are caught early.",
+      "context": "Kenya traced 135 contacts of its first patient; Nigeria identified 44."
+     },
+     {
+      "term": "community spread",
+      "definition": "When a disease spreads among people with no known link to an existing case, meaning it is circulating undetected.",
+      "context": "Kenya says all its cases are in one cluster with no community spread."
+     },
+     {
+      "term": "Bundibugyo species",
+      "definition": "A type of Ebola virus for which there is currently no approved vaccine or specific treatment.",
+      "context": "This is the species driving the current outbreak."
+     }
+    ],
+    "quiz": {
+     "question": "Why does Kenya stressing 'one cluster, with no evidence of community spread' matter?",
+     "options": [
+      "It means a vaccine is working",
+      "It proves the virus came from Nigeria",
+      "It suggests every case links back to a known source, so spread is likely contained",
+      "It means Ebola has been eradicated in Kenya"
+     ],
+     "answer_index": 2,
+     "explanation": "One cluster means all cases connect to the first patient and his contacts, so authorities know who to watch. Community spread would mean unknown chains of infection."
+    },
+    "impact_score": 68,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adbd5d74772-1792792023.jpg?resize=1920%2C1440",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Kenya has confirmed a second Ebola death in a single cluster of cases, while investigators try to work out how a linked case ended up in Nigeria and what role Uganda's main airport played.",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-rdf"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "920de58d-374c-5da9-baa1-d152afa9a420"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-10-24T03:48:17.207318+00:00",
+    "published_date": "2026-10-24",
+    "has_fulltext": true
+   },
+   {
     "id": "938d55fd-561c-5289-999e-daf1c9d0d934",
     "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
     "simplified_title": "US pulls some diplomats from Saudi Arabia as Houthi attacks intensify",
@@ -1175,70 +1242,70 @@
     "created_at": "2026-10-23T13:13:14.419377+00:00",
     "published_date": "2026-10-23",
     "has_fulltext": true
-   },
+   }
+  ],
+  "AMERICAS": [
    {
-    "id": "20f16213-bf92-5ce5-a647-9adea8ab1a6d",
-    "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
-    "simplified_title": "Gunmen kill seven at church funeral in Jordan's Karak region",
-    "quick_summary": "Two gunmen opened fire on mourners at a church funeral in Jordan's Karak governorate on Friday, killing at least seven people and injuring 10, according to Jordanian state media and authorities.",
-    "simplified_body": "On Friday, two gunmen opened fire during a funeral at a church in the Karak governorate of Jordan, killing at least seven people and wounding another 10. A security source told state broadcaster Al-Mamlaka it happened at the Hammoud Church. The attackers reportedly arrived by car, fired a rifle and a pistol at mourners for several minutes, then fled.\n\nDozens of people were inside for the funeral, according to mourner Khaled Burqan. The victims were people gathered to grieve, which makes the attack especially shocking. Nobody has claimed responsibility, and the attackers' identities and motives are still unknown.\n\nSome background: Jordan is a largely Muslim-majority country of around 11.5 million people, with a small Christian minority of a couple of hundred thousand. Karak, about 180 kilometres south of the capital, Amman, has a significant Christian population. A governorate is a regional area, a bit like a state or district. DW notes that attacks like this are rare in Jordan. The sources differ slightly on location: the BBC says central Jordan, while DW says southern Jordan.\n\nGovernment spokesman Mohammad al-Momani said security forces have been deployed. Both outlets say the story is still developing, so expect updates on who the attackers were, why they struck, and whether the death toll changes.",
-    "why_it_matters": "An attack on mourners at a church in a country where such violence is rare raises concerns about the safety of Jordan's Christian minority and the stability of a usually calm country in a tense region.",
-    "deep_analysis": "## Historical Context\nAccording to DW, attacks like this are rare in Jordan. As general background, Jordan has long been seen as one of the more stable countries in the Middle East, and Christian communities have lived there for centuries. Karak itself is a historic town with a notable Christian population, which DW confirms.\n\n## Multiple Perspectives\nThe facts so far come mainly from Jordanian state media and authorities. Mourner Khaled Burqan gave an eyewitness account of the attackers firing for several minutes. The government's focus, via spokesman Mohammad al-Momani, is on the security response. Because no-one has claimed responsibility and motives are unclear, it is too early to know whether this was religiously targeted, personal, or something else; jumping to conclusions would be unwise. The BBC and DW also differ on describing Karak as central or southern Jordan.\n\n## What to Watch\n- Whether the gunmen are identified or caught.\n- Any claim of responsibility or clarity on motive.\n- Changes to the casualty figures, since both reports were breaking news.\n- Any increased security for religious sites in Jordan.",
+    "id": "5b8a1b39-89df-5e85-911c-e1927954bb87",
+    "title": "Trump administration sues to block possible Democratic win in Alaska",
+    "simplified_title": "Trump government sues to delay Alaska Senate result over name confusion",
+    "quick_summary": "The US Justice Department has sued to stop Alaska certifying its Senate election result if Republican Senator Dan Sullivan loses narrowly, arguing a second candidate with the same name could confuse voters.",
+    "simplified_body": "The US Department of Justice (DOJ) filed a federal lawsuit on Thursday asking a judge to block certification of Alaska's Senate election result. Its argument: an independent candidate named Daniel J Sullivan shares a name with sitting Republican Senator Dan Sullivan, and may mislead voters. According to the BBC, the DOJ wants certification blocked if the senator loses by a margin smaller than the other Sullivan's vote. President Donald Trump said, \"I'm the one that said do it.\"\n\nThis matters because the race, between Senator Sullivan and Democrat and former Congresswoman Mary Peltola, could decide which party controls the US Senate after the 3 November midterms. Polls show it is very tight, with Peltola holding a narrow lead. Democrats and voting rights groups worry the administration is trying to interfere in elections its party might lose.\n\nSome background: certification is the official step where a state confirms the final count. The Brennan Center for Justice says this is handled by states, and the federal government has \"no role\" in it. Alaska's Supreme Court already rejected a Republican attempt to remove the second Sullivan, a retired teacher, from the ballot. He appears without a party label, while the senator is listed as Republican. Alaska also uses ranked-choice voting, so unsure voters can pick both Sullivans. The DOJ claims the second Sullivan is running to help Peltola; he denies this.\n\nNext, a federal judge will decide whether to hear the case. If Peltola wins narrowly, the DOJ wants certification paused for an investigation into whether voters mixed up the names. Attorney General Todd Blanche has said the DOJ never intends to \"improperly interfere\" with elections.",
+    "why_it_matters": "Who certifies an election, and whether a national government can step in, goes to the heart of trust in democracy. Australians watching from afar may notice the contrast with our system, where federal elections are run by an independent national body rather than by individual states.",
+    "deep_analysis": "## Historical Context\nBoth articles note that Trump critics have long worried the DOJ might try to block certification of elections the president's party loses. As general background, US elections are run state by state, and certification has traditionally been a routine administrative step; disputes over it became a major flashpoint after the 2020 presidential election. The Brennan Center notes that state legislatures built safeguards centuries ago to stop bad actors manipulating outcomes. Alaska adopted ranked-choice voting relatively recently, which is why voters can rank both Sullivans.\n\n## Multiple Perspectives\n- **The DOJ** (via Associate Attorney General Stanley E Woodward Jr) argues the second Sullivan's candidacy exists solely to help Peltola and that including him risks a result that \"lacked integrity\".\n- **Trump** calls the candidacy a \"scam\" and took credit for the lawsuit.\n- **Dan J Sullivan** denies coordinating with Peltola, saying he \"wouldn't even know who to speak to\" in her campaign and that \"choice is good\".\n- **Democrats and voting rights groups** see the suit as part of a pattern, pointing to DOJ actions against Virginia state Senator L Louise Lucas and Representative Ilhan Omar, both of whom call those actions politically motivated.\n- **The Brennan Center** says the federal government has no role in certification.\n- **Attorney General Todd Blanche** says the DOJ won't improperly interfere and would only act in extreme circumstances.\n\nThe sources differ slightly in framing: Al Jazeera describes the second Sullivan as independent, while the BBC reports he was once in the Alaska Independence Party before registering as a Republican this year.\n\n## What to Watch\n- Whether a federal judge accepts a case about state certification at all.\n- The final margin: the BBC says the request hinges on Sullivan losing by less than the second Sullivan's vote.\n- Whether the outcome decides Senate control.\n- Whether similar suits appear in other close races.",
     "concepts": [
      {
-      "term": "governorate",
-      "definition": "An administrative region of a country, similar to a state or district.",
-      "context": "The shooting happened in Jordan's Karak governorate."
+      "term": "certification",
+      "definition": "The official step where election authorities confirm the final vote count and declare the result.",
+      "context": "The DOJ wants a judge to stop Alaska certifying its Senate result if Senator Sullivan loses narrowly."
      },
      {
-      "term": "state broadcaster",
-      "definition": "A TV or radio outlet owned or run by the government.",
-      "context": "Al-Mamlaka, Jordan's state broadcaster, reported key details from a security source."
+      "term": "ranked-choice voting",
+      "definition": "A system where voters rank candidates in order of preference instead of choosing just one, similar to Australia's preferential voting.",
+      "context": "It lets unsure Alaskans rank both Sullivans, which weakens the confusion argument."
      },
      {
-      "term": "Christian minority",
-      "definition": "A smaller group of Christians living in a country where most people follow another religion.",
-      "context": "Jordan is largely Muslim but has a Christian minority of a couple of hundred thousand, with many in Karak."
+      "term": "midterms",
+      "definition": "US elections held halfway through a president's four-year term, deciding seats in Congress.",
+      "context": "Alaska's Senate race on 3 November could decide which party controls the Senate."
      }
     ],
     "quiz": {
-     "question": "Based on the reports, what is currently known about why the attack happened?",
+     "question": "Why do critics like the Brennan Center argue the DOJ lawsuit is out of place?",
      "options": [
-      "The motive is still unclear and no-one has claimed responsibility",
-      "It was confirmed as a family dispute",
-      "It was claimed by a known militant group",
-      "Authorities said it was a robbery gone wrong"
+      "Because the second Sullivan has already withdrawn",
+      "Because ranked-choice voting is banned in Alaska",
+      "Because election certification is handled by states, not the federal government",
+      "Because Alaska doesn't hold Senate elections"
      ],
-     "answer_index": 0,
-     "explanation": "Both sources say the attackers' identities and motives remain unclear and no-one has claimed responsibility."
+     "answer_index": 2,
+     "explanation": "The Brennan Center's Lauren Miller Karalunas said certification is a state process and the federal government has \"no role\" in it."
     },
-    "impact_score": 45,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/824e/live/d493de60-cee1-11f1-bdca-23c64447299f.png",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Two gunmen opened fire on mourners at a church funeral in Jordan's Karak governorate on Friday, killing at least seven people and injuring 10, according to Jordanian state media and authorities.",
+    "impact_score": 72,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adb9707ced6-1792775943.jpg?resize=1920%2C1440",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "The US Justice Department has sued to stop Alaska certifying its Senate election result if Republican Senator Dan Sullivan loses narrowly, arguing a second candidate with the same name could confuse voters.",
     "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
+    "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss"
      },
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-all-1573-rdf"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
     "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-10-23T13:13:09.705708+00:00",
-    "published_date": "2026-10-23",
+    "reading_minutes": 3,
+    "created_at": "2026-10-24T03:48:16.282130+00:00",
+    "published_date": "2026-10-24",
     "has_fulltext": true
-   }
-  ],
-  "AMERICAS": [
+   },
    {
     "id": "534ff637-863c-582e-9044-8544adff934b",
     "title": "Brazil's tense presidential run-off campaign feels like a psychological thriller",
@@ -1932,6 +1999,63 @@
     "has_fulltext": true
    },
    {
+    "id": "aaea82ee-f404-552d-84fd-ab263774bbd7",
+    "title": "Greece puts age-limits on social media, banning access for kids under 15",
+    "simplified_title": "Greece bans social media for kids under 15 from 2027",
+    "quick_summary": "Greece's parliament has passed a law banning children under 15 from using social media, starting on 1 January 2027.",
+    "simplified_body": "Greece's parliament voted on Thursday to pass a bill to \"ban the use of online social media services by minors\" under 15. The law kicks in on 1 January 2027. Only the governing New Democracy party backed it. Opposition parties SYRIZA, Greek Solution, KKE, Niki and Freedom Course voted against it, and PASOK abstained.\n\nThe ban affects Greek kids under 15, their families, and the social media platforms themselves. Platforms have until the start of 2027 to work out whether their accounts and services are meant for adults or not. Digital Governance Minister Dimitris Papastergiou compared it to age limits on alcohol and tobacco, saying uncontrolled internet use leads children to addiction at the expense of their mental health.\n\nSome background: legal age limits on social media started in Australia last year, and many countries have quickly followed. Greece is one of seven European Union (EU) countries looking at age-verification standards. To check ages, Greece plans to use an app called \"Kid's Wallet\", built to EU technical specifications. The minister says it only reveals whether someone is over or under 15, not even their date of birth.\n\nPapastergiou said Greece couldn't wait for Brussels to pass \"the perfect European law\", so watch whether the wider EU moves on its own rules, and how platforms prepare before the 2027 start date.",
+    "why_it_matters": "Australia kicked off this global trend with its own social media age limit, and Greece is now one of the countries following our lead, so how it works overseas could shape the debate back home.",
+    "deep_analysis": "## Historical Context\nAccording to the article, the push for legal social media age limits began in Australia last year, with numerous countries following. Greece's law is part of that wave. As general background, the EU has broader digital rules for platforms, but member states like Greece are moving ahead with national measures rather than waiting for a single EU-wide law.\n\n## Multiple Perspectives\nThe Greek government frames the ban as \"necessary, effective, proportionate and EU-law-compliant\", arguing it protects kids' sleep, attention and social lives. Every other party in parliament either voted against it or abstained, though the article doesn't explain their reasons. As general background, critics of such bans elsewhere often raise privacy worries about age checks and question whether bans can be enforced; Greece's answer is that Kid's Wallet shares only an over/under-15 signal.\n\n## What to Watch\n- How platforms comply before 1 January 2027.\n- Whether Kid's Wallet works in practice and protects privacy as promised.\n- Whether the other EU countries pursuing age verification, or the EU itself, adopt similar rules.",
+    "concepts": [
+     {
+      "term": "age-verification",
+      "definition": "Ways of checking how old someone is before letting them use a service.",
+      "context": "Greece is one of seven EU countries looking at age-verification standards for social media."
+     },
+     {
+      "term": "abstained",
+      "definition": "Chose not to vote either for or against.",
+      "context": "The PASOK party abstained on the Greek social media bill."
+     },
+     {
+      "term": "Kid's Wallet",
+      "definition": "A Greek app meant to confirm whether a user is over or under 15 without sharing other personal data.",
+      "context": "It's the tool Greece plans to use to enforce the ban."
+     }
+    ],
+    "quiz": {
+     "question": "According to Greece's minister, what information does the Kid's Wallet app share about users?",
+     "options": [
+      "Their parents' contact details",
+      "Their full name and date of birth",
+      "Only whether they are over or under 15",
+      "Their browsing history"
+     ],
+     "answer_index": 2,
+     "explanation": "Papastergiou said the app gives no personal data other than whether the user is over or under 15, not even their date of birth."
+    },
+    "impact_score": 58,
+    "image_url": "https://static.dw.com/image/79739132_6.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "Greece's parliament has passed a law banning children under 15 from using social media, starting on 1 January 2027.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-24T03:48:10.815584+00:00",
+    "published_date": "2026-10-24",
+    "has_fulltext": true
+   },
+   {
     "id": "e0c25325-885e-5f98-91cd-346dfaa02aa7",
     "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
     "simplified_title": "Barclays bank cutting about 5,000 jobs as it leans on AI",
@@ -1994,5 +2118,5 @@
    }
   ]
  },
- "total_stories": 31
+ "total_stories": 33
 }
