@@ -371,6 +371,106 @@ def write_story(pick: dict, articles: list[dict]) -> dict:
     }
 
 
+# ── Threads: link stories about the same developing event ────────────────────
+LINK_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "links": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {"id": {"type": "string"}, "related": {"type": "array", "items": {"type": "string"}}},
+                "required": ["id", "related"],
+                "additionalProperties": False,
+            },
+        }
+    },
+    "required": ["links"],
+    "additionalProperties": False,
+}
+GROUP_SCHEMA = {
+    "type": "object",
+    "properties": {"threads": {"type": "array", "items": {"type": "array", "items": {"type": "string"}}}},
+    "required": ["threads"],
+    "additionalProperties": False,
+}
+SAME_THREAD = """Two stories belong to the same thread only if they cover the same ongoing event or
+saga (the same war, court case, election, outbreak, negotiation, company crisis). Sharing a topic or a
+country is not enough."""
+
+
+def _story_line(s: dict) -> str:
+    return f"{s['id']} | {s.get('published_date', '')} | {s['simplified_title']} — {s['quick_summary'][:140]}"
+
+
+def archived_stories(days: int) -> list[dict]:
+    cutoff = (datetime.now(BRISBANE) - timedelta(days=days)).date().isoformat()
+    seen: dict[str, dict] = {}
+    for f in sorted(ARCHIVE_DIR.glob("20*.json"), reverse=True):
+        if f.stem < cutoff:
+            continue
+        for stories in json.loads(f.read_text())["regions"].values():
+            for s in stories:
+                seen.setdefault(s["id"], s)
+    return list(seen.values())
+
+
+def link_threads(targets: list[dict], pool: list[dict]) -> None:
+    """Set related_story_ids on each target to earlier stories in the same thread."""
+    pool = [p for p in pool if p["id"] not in {t["id"] for t in targets}]
+    if not targets or not pool:
+        return
+    prompt = f"""{SAME_THREAD}
+
+For each NEW story, list the ids of EARLIER stories in the same thread. Most stories have none;
+return an empty list for those.
+
+EARLIER stories (id | date | headline — summary):
+{chr(10).join(_story_line(s) for s in pool)}
+
+NEW stories:
+{chr(10).join(_story_line(s) for s in targets)}"""
+    try:
+        links = ask_json(prompt, LINK_SCHEMA, effort="low")["links"]
+    except Exception as ex:  # threads are a nice-to-have; never fail the run over them
+        print(f"  ! thread linking skipped: {ex}")
+        return
+    valid = {p["id"] for p in pool}
+    by_id = {t["id"]: t for t in targets}
+    linked = 0
+    for link in links:
+        target = by_id.get(link["id"])
+        related = [r for r in link["related"] if r in valid]
+        if target is not None and related:
+            target["related_story_ids"] = sorted(set(target.get("related_story_ids") or []) | set(related))
+            linked += 1
+    print(f"  linked {linked} new stories into existing threads")
+
+
+def backfill_threads(days: int) -> None:
+    """One-off: group everything in today's edition and the archive into threads."""
+    files = [DATA_DIR / "today.json"] + sorted(ARCHIVE_DIR.glob("20*.json"))
+    stories: dict[str, dict] = {}
+    for f in files:
+        for v in json.loads(f.read_text())["regions"].values():
+            for s in v:
+                stories.setdefault(s["id"], s)
+    prompt = f"""{SAME_THREAD}
+
+Group these stories into threads. Only output groups of 2 or more; leave standalone stories out.
+
+{chr(10).join(_story_line(s) for s in stories.values())}"""
+    groups = [[i for i in g if i in stories] for g in ask_json(prompt, GROUP_SCHEMA)["threads"]]
+    related = {i: sorted(set(g) - {i}) for g in groups if len(g) > 1 for i in g}
+    for f in files:
+        data = json.loads(f.read_text())
+        for v in data["regions"].values():
+            for s in v:
+                s["related_story_ids"] = related.get(s["id"], [])
+        f.write_text(json.dumps(data, ensure_ascii=False, indent=1 if f.name == "today.json" else None))
+    print(f"backfill: {len([g for g in groups if len(g) > 1])} threads across {len(related)} stories")
+
+
 def write_archive(briefing: dict, keep_days: int) -> None:
     """Snapshot the edition per day, prune old days, and drop article files nothing references."""
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
@@ -407,7 +507,12 @@ def main() -> None:
     ap.add_argument("--max-age-hours", type=int, default=30, help="retire stories older than this (incremental)")
     ap.add_argument("--excerpt", type=int, default=0, help="store only the first N paragraphs of the original (public builds)")
     ap.add_argument("--no-fulltext", action="store_true", help="don't write original article text for the reader")
+    ap.add_argument("--link-backfill", action="store_true", help="group existing stories into threads, then exit")
     args = ap.parse_args()
+
+    if args.link_backfill:
+        backfill_threads(args.archive_days)
+        return
 
     t0 = time.time()
     now = datetime.now(timezone.utc)
@@ -482,6 +587,10 @@ def main() -> None:
             (ARTICLE_DIR / f"{s['id']}.json").unlink(missing_ok=True)
         if dropped:
             print(f"  {len(dropped)} new stories weren't strong enough to displace existing ones")
+
+    if fresh:
+        print("  linking threads")
+        link_threads(fresh, existing + archived_stories(args.archive_days))
 
     # Merge, keep the strongest stories per region
     regions: dict[str, list[dict]] = {code: [] for code in REGIONS}
