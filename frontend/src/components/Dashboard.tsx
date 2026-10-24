@@ -3,7 +3,7 @@
 import { useState, useMemo, useEffect, useRef } from "react";
 import Link from "next/link";
 import { CardStory, Edition, REGION_CONFIG, CATEGORY_CONFIG } from "@/lib/types";
-import { useProgress, streakOf } from "@/lib/progress";
+import { useProgress, streakOf, dueForReview } from "@/lib/progress";
 import { Reveal } from "./motion";
 import StoryCard from "./StoryCard";
 
@@ -148,6 +148,14 @@ export default function Dashboard({ briefing, region, topic, archived }: Dashboa
                 {updated && !archived && <>Updated {updated} · </>}
                 {readCount} read{streak > 0 && !archived ? ` · ${streak}-day streak` : ""}
               </span>
+              {!archived && dueForReview(progress).length > 0 && (
+                <>
+                  {" "}
+                  <Link href="/recall" className="text-accent underline decoration-accent/40 underline-offset-4 hover:decoration-accent">
+                    {dueForReview(progress).length} to review
+                  </Link>
+                </>
+              )}
             </p>
           </div>
 

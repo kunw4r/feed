@@ -6,6 +6,7 @@ import { usePathname } from "next/navigation";
 import { Menu, X, Sun, Moon } from "lucide-react";
 import { useTheme } from "@/lib/ThemeProvider";
 import { REGION_CONFIG, CATEGORY_CONFIG } from "@/lib/types";
+import { useProgress, dueForReview } from "@/lib/progress";
 
 const BASE = process.env.NEXT_PUBLIC_STATIC === "true" ? "/feed" : "";
 
@@ -15,6 +16,7 @@ const SECTIONS: { title: string; links: { href: string; label: string }[] }[] = 
     links: [
       { href: "/", label: "Today’s edition" },
       { href: "/brief", label: "The brief" },
+      { href: "/recall", label: "Review" },
       { href: "/archive", label: "Archive" },
     ],
   },
@@ -60,6 +62,8 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
 
   useEffect(() => setOpen(false), [pathname]);
 
+  const dueCount = dueForReview(useProgress()).length;
+
   const isActive = (href: string) =>
     href === "/" ? path === "/" : path === href || path.startsWith(href + "/");
 
@@ -96,6 +100,9 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
                         }`}
                       />
                       {l.label}
+                      {l.href === "/recall" && dueCount > 0 && (
+                        <span className="ml-2 rounded-full bg-accent-bold px-1.5 text-[10px] font-semibold leading-[1.5] text-white">{dueCount}</span>
+                      )}
                     </Link>
                   </li>
                 );
