@@ -512,7 +512,10 @@
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
-    "related_story_ids": [],
+    "related_story_ids": [
+     "a3e229d2-ee0e-5ebb-b160-29b8584650a5",
+     "d30189ff-6a38-5bdf-9167-96edac892f4b"
+    ],
     "reading_minutes": 2,
     "created_at": "2026-10-23T07:13:55.598309+00:00",
     "published_date": "2026-10-23",
@@ -573,7 +576,10 @@
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
-    "related_story_ids": [],
+    "related_story_ids": [
+     "125d29b9-508a-5f59-9f71-fabf8ce8d6f8",
+     "d30189ff-6a38-5bdf-9167-96edac892f4b"
+    ],
     "reading_minutes": 2,
     "created_at": "2026-10-23T22:22:58.386690+00:00",
     "published_date": "2026-10-24",
@@ -834,7 +840,10 @@
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
-    "related_story_ids": [],
+    "related_story_ids": [
+     "125d29b9-508a-5f59-9f71-fabf8ce8d6f8",
+     "a3e229d2-ee0e-5ebb-b160-29b8584650a5"
+    ],
     "reading_minutes": 3,
     "created_at": "2026-10-23T15:08:09.071695+00:00",
     "published_date": "2026-10-24",
@@ -902,7 +911,12 @@
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
-    "related_story_ids": [],
+    "related_story_ids": [
+     "161b8573-a58d-5e1b-baa9-8c6caba38306",
+     "7baab65b-f998-52c8-ab46-6f78a33bf23d",
+     "938d55fd-561c-5289-999e-daf1c9d0d934",
+     "9c42b941-4022-56e0-a2bc-58434166e6e5"
+    ],
     "reading_minutes": 1,
     "created_at": "2026-10-23T22:22:57.430020+00:00",
     "published_date": "2026-10-24",
@@ -1090,7 +1104,12 @@
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
-    "related_story_ids": [],
+    "related_story_ids": [
+     "161b8573-a58d-5e1b-baa9-8c6caba38306",
+     "7baab65b-f998-52c8-ab46-6f78a33bf23d",
+     "9c42b941-4022-56e0-a2bc-58434166e6e5",
+     "adabd6c4-a1b8-5204-9a50-3b162f5bf191"
+    ],
     "reading_minutes": 3,
     "created_at": "2026-10-23T07:13:54.953352+00:00",
     "published_date": "2026-10-23",
@@ -1275,7 +1294,9 @@
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
-    "related_story_ids": [],
+    "related_story_ids": [
+     "6c2d6990-cf50-58f6-8593-8d1d6a4899ef"
+    ],
     "reading_minutes": 5,
     "created_at": "2026-10-23T14:08:13.907302+00:00",
     "published_date": "2026-10-24",
@@ -1461,7 +1482,12 @@
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
-    "related_story_ids": [],
+    "related_story_ids": [
+     "161b8573-a58d-5e1b-baa9-8c6caba38306",
+     "938d55fd-561c-5289-999e-daf1c9d0d934",
+     "9c42b941-4022-56e0-a2bc-58434166e6e5",
+     "adabd6c4-a1b8-5204-9a50-3b162f5bf191"
+    ],
     "reading_minutes": 1,
     "created_at": "2026-10-23T22:22:57.172996+00:00",
     "published_date": "2026-10-24",
@@ -1526,7 +1552,12 @@
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
-    "related_story_ids": [],
+    "related_story_ids": [
+     "161b8573-a58d-5e1b-baa9-8c6caba38306",
+     "7baab65b-f998-52c8-ab46-6f78a33bf23d",
+     "938d55fd-561c-5289-999e-daf1c9d0d934",
+     "adabd6c4-a1b8-5204-9a50-3b162f5bf191"
+    ],
     "reading_minutes": 4,
     "created_at": "2026-10-22T23:12:11.610258+00:00",
     "published_date": "2026-10-23",
