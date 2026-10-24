@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T03:47:48.484910+00:00",
+ "generated_at": "2026-10-24T06:00:44.309113+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -260,6 +260,78 @@
   ],
   "ASIA": [
    {
+    "id": "47334557-722c-545c-b005-5b4afb85686b",
+    "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+    "simplified_title": "Magnitude-7 earthquake in Tibet kills 16 and flattens hundreds of homes",
+    "quick_summary": "A magnitude-7 earthquake struck the Nagqu area of northern Tibet on Thursday night, killing at least 16 people, injuring dozens and collapsing at least 339 homes.",
+    "simplified_body": "A magnitude-7 earthquake hit a remote, high-altitude part of northern Tibet at 10:33pm local time on Thursday, centred in Baqên County in the Nagqu region. Chinese state media say at least 16 people died and at least 339 homes collapsed. Injury figures differ between reports: 54, 65 and 76 have all been quoted, with the ABC reporting the most recent rise to 76.\n\nMore than 12,000 residents were evacuated, and many spent the night outside in subzero temperatures, afraid aftershocks would trap them indoors. Thousands of rescuers have been deployed, along with tents, prefabricated housing and winter clothing. Rockfalls closed part of National Highway 317, trains were halted, and power and phone services dropped out in some areas. Snow is expected over the next three days.\n\nTibet sits at around 4,800m and is very seismically active, meaning earthquakes happen often. In January 2025, a quake in Tibet's Tingri county killed at least 126 people. Reports also disagree on technical details: the US Geological Survey (USGS) put the depth at 18km according to the ABC, while The Guardian reported 11 miles. Shallow quakes tend to do more damage. Because foreign media are restricted in Tibet, Chinese state media is the main source of information.\n\nOfficials are worried about more building collapses and rockslides as aftershocks continue; state media reported more than 400 by Friday morning. President Xi Jinping has called for an all-out rescue effort, something he does only for major disasters, and Beijing has set aside 50 million yuan for relief.",
+    "why_it_matters": "It's a deadly disaster in one of the world's most remote and tightly controlled regions, where harsh cold and censorship make it hard to know the full scale of the damage. For Australians, it's a reminder of how much we depend on independent reporting to understand disasters in our region.",
+    "deep_analysis": "## Historical Context\nThe sources note that Tibet came under Chinese control in the 1950s and has had a tense relationship with Beijing since, with many Tibetans rejecting controls on their culture and religion. Recent disasters include the January 2025 quake in Tingri (Shigatse region), which killed at least 126, and the December 2023 Gansu quake, which killed at least 134 according to The Guardian (the BBC says more than 120). China's deadliest recent quake was in Yunnan in 2014, with more than 600 dead. As general background, the Tibetan plateau was formed by the Indian plate pushing into Eurasia, which is why earthquakes there are frequent.\n\n## Multiple Perspectives\nChinese officials stress fast mobilisation: thousands of rescuers, three rounds of household searches, drones and emergency funding. The BBC notes that plateau rescue teams are experienced. However, The Guardian and the BBC point out that foreign media can't freely access the region, so the numbers can't be independently checked. The Guardian says this censorship obscured the scale of August's floods. The figures also vary between outlets, including injuries (54/65/76), rescuer numbers (1,600 vs 5,000+), supplies and depth. Some of this reflects updates as the situation developed, and some may be conversion errors.\n\n## What to Watch\n- Whether the death toll stays at 16 as searches finish\n- Damage from aftershocks and rockslides, plus the effects of snow and cold on people who have been displaced\n- How quickly the highway, railway, power and communications are restored\n- Whether any independent information emerges beyond state media",
+    "concepts": [
+     {
+      "term": "magnitude-7",
+      "definition": "A measure of how much energy an earthquake releases; each step up the scale is roughly 32 times more energy.",
+      "context": "A 7 is a major quake, the biggest in the region in five years according to CCTV."
+     },
+     {
+      "term": "aftershocks",
+      "definition": "Smaller quakes that follow a big one as the ground settles.",
+      "context": "They can topple buildings that were already weakened, which is why residents slept outside."
+     },
+     {
+      "term": "seismically active",
+      "definition": "Describes an area where earthquakes happen often because of movement in the Earth's crust.",
+      "context": "Explains why Tibet has had several deadly quakes in recent years."
+     },
+     {
+      "term": "state media",
+      "definition": "News outlets run or controlled by the government.",
+      "context": "In Tibet, state media is the main source of information because foreign journalists are restricted."
+     }
+    ],
+    "quiz": {
+     "question": "Why is it hard to independently confirm how bad the damage is in Nagqu?",
+     "options": [
+      "Nobody lives in the affected area",
+      "The quake destroyed every camera in Tibet",
+      "The USGS refuses to share data",
+      "Foreign media are restricted and information mostly comes from Chinese state media"
+     ],
+     "answer_index": 3,
+     "explanation": "The sources say foreign media are restricted in Tibet and information is heavily censored, so state media is the main source of updates."
+    },
+    "impact_score": 55,
+    "image_url": "https://i.guim.co.uk/img/media/2b752e0d59c4399c02caaf09d97ac8759514aa0f/195_0_1350_1080/master/1350.jpg?width=1920&quality=85&auto=format&fit=max&s=2a04c37c8087942d559d0c9f5f27fa41",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "A magnitude-7 earthquake struck the Nagqu area of northern Tibet on Thursday night, killing at least 16 people, injuring dozens and collapsing at least 339 homes.",
+    "tier": "GLOBAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-24/rescuers-search-for-survivors-after-earthquake-in-tibet/107304378"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "734c5bf2-dc73-5e5d-a2b8-c7834571671e"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-10-24T06:01:11.957876+00:00",
+    "published_date": "2026-10-24",
+    "has_fulltext": true
+   },
+   {
     "id": "20468f55-eb66-5268-987d-ef3929a12118",
     "title": "South Korea invites North for military talks over border",
     "simplified_title": "South Korea offers North Korea military talks as border tensions rise",
@@ -387,71 +459,6 @@
     "related_story_ids": [],
     "reading_minutes": 2,
     "created_at": "2026-10-23T13:13:12.424933+00:00",
-    "published_date": "2026-10-23",
-    "has_fulltext": true
-   },
-   {
-    "id": "734c5bf2-dc73-5e5d-a2b8-c7834571671e",
-    "title": "Magnitude-7 earthquake hits China's Tibet region, killing 16 people",
-    "simplified_title": "Magnitude-7 earthquake in remote Tibet kills 16, injures 32",
-    "quick_summary": "A magnitude-7 earthquake struck a remote, high-altitude part of northern Tibet late on Thursday night, killing 16 people, injuring 32 and collapsing hundreds of homes, according to China's state news agency Xinhua.",
-    "simplified_body": "A magnitude-7 earthquake hit the Nagqu area of northern Tibet at about 10:33pm local time on Thursday. Xinhua, China's state news agency, reported that 16 people were killed and 32 injured. Eleven of the injured are in serious condition. At least 339 homes collapsed, and power and phone services were cut in the county seat.\n\nThe quake struck Maru township in Baqen county, a sparsely populated mountain area where the average height near the epicentre is about 4,864 metres. The epicentre was only 10 kilometres deep, which is shallow and helps explain why the shaking was felt so strongly. Videos showed residents leaving their homes and sheltering outside or in their cars. Sources give slightly different distances to the Tibetan capital, Lhasa: the ABC says about 400km, while the US Geological Survey (USGS) figure reported by Al Jazeera and France 24 is 390km.\n\nEarthquakes are fairly common in China. This one is the strongest to hit the country since January 2024. In January 2025, at least 126 people died in a quake in Tibet's Tingri county. In 2010, a magnitude-7.1 quake in Yushu, Qinghai province, killed at least 2,698 people.\n\nAuthorities have activated a level-II emergency response, the second-highest level. Crews are searching for survivors and putting up tents for displaced people. Smaller aftershocks of around magnitude 3 and 4 have already been recorded, and officials say they are still assessing the damage.",
-    "why_it_matters": "This shows how a strong, shallow earthquake can wreck homes and cut power and phone services even in a sparsely populated area. High altitude and remoteness can also make rescue and relief work harder. There's no specific Australian angle in the reports.",
-    "deep_analysis": "## Historical Context\nThe sources note that this is China's strongest quake since January 2024. They also point to deadly earlier quakes: Tingri county in January 2025 (at least 126 dead) and Yushu in 2010 (at least 2,698 dead). As general background, the Tibetan Plateau sits where the Indian tectonic plate pushes into the Eurasian plate. That collision is what makes the region so seismically active.\n\n## Multiple Perspectives\nAll the casualty figures come from Chinese state media, which cited local officials. Independent verification in remote Tibet is limited. The USGS gives its own location for the epicentre, and the distance to Lhasa differs a little between reports (about 400km versus 390km). France 24 describes the magnitude as being on the 'Richter scale'. As background, agencies today generally use other magnitude scales, so this wording may not be precise.\n\n## What to Watch\n- Whether the death toll changes as damage assessments continue\n- The pace of aftershocks\n- How quickly power and telecoms are restored\n- How displaced residents cope with shelter at high altitude",
-    "concepts": [
-     {
-      "term": "epicentre",
-      "definition": "The point on the Earth's surface directly above where an earthquake starts underground.",
-      "context": "This quake's epicentre was in Maru township, Baqen county."
-     },
-     {
-      "term": "aftershocks",
-      "definition": "Smaller quakes that follow a big earthquake in the same area.",
-      "context": "Tremors of about magnitude 3 and 4 were recorded after the main quake."
-     },
-     {
-      "term": "level-II emergency response",
-      "definition": "China's second-highest tier of official disaster response, which brings in extra resources.",
-      "context": "It was activated in the area after the quake."
-     }
-    ],
-    "quiz": {
-     "question": "Why might a quake in a sparsely populated area still cause serious damage?",
-     "options": [
-      "Aftershocks are always bigger than the main quake",
-      "Remote areas have no buildings",
-      "Being at high altitude makes earthquakes stronger",
-      "The epicentre was shallow, so the shaking at the surface was strong"
-     ],
-     "answer_index": 3,
-     "explanation": "The epicentre was only 10km deep. Shallow quakes deliver intense shaking at the surface, which helps explain why at least 339 homes collapsed."
-    },
-    "impact_score": 55,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/ba9062025d4979471220e5121951ace6?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "A magnitude-7 earthquake struck a remote, high-altitude part of northern Tibet late on Thursday night, killing 16 people, injuring 32 and collapsing hundreds of homes, according to China's state news agency Xinhua.",
-    "tier": "GLOBAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-23/magnitude-7-earthquake-hits-chinas-tibet-region/107299584"
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss"
-     },
-     {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-10-22T23:12:09.108797+00:00",
     "published_date": "2026-10-23",
     "has_fulltext": true
    }
@@ -1427,6 +1434,63 @@
     "has_fulltext": true
    },
    {
+    "id": "7067db01-b16a-5442-8276-71842dd6a732",
+    "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+    "simplified_title": "Rubio urges Cubans to seek change with secret CIA help",
+    "quick_summary": "US Secretary of State Marco Rubio told Cubans \"now is the time\" to push for political change, even suggesting a partnership with the CIA, right after Donald Trump said US warships returning from the Iran war could stop off Cuba.",
+    "simplified_body": "At a Friday rally in south Florida, US President Donald Trump said American warships coming home from the Iran war could make \"a little stopover\" about 50 yards off Cuba's coast, before sending Marco Rubio in \"to finish up the deal\". Moments later, Rubio, the US secretary of state, posted a message telling Cubans who want change that \"now is the time\" and to work through a \"discrete [sic] partnership with the CIA\" (Central Intelligence Agency, the US spy service). He seems to have meant \"discreet\", meaning secret.\n\nThis matters most for Cuba's 10 million residents, who have lived through blackouts, food shortages and inflation since an economic and energy crisis began in 2020. Cuba's government wasn't impressed: deputy foreign minister Carlos Fernandez de Cossio mocked the US for recruiting spies publicly \"like a tube of toothpaste\".\n\nSome background: Cuba has had a socialist government since its revolution, and the US has kept an economic embargo (a trade ban) on it for decades. Rubio's parents left Cuba before the revolution, and he has long taken a hard line. In May, Trump and Rubio raised the idea of military intervention after the US charged former Cuban leader Raúl Castro with crimes. US officials have also met Cuban officials, but came away unimpressed and added more sanctions.\n\nThe messages are mixed. Last month Trump said he expected a deal and didn't think the military would be needed. The comments also came days before US midterm elections, where voters are worried about the Iran war pushing up prices. An annual United Nations vote condemning the embargo is coming up too.",
+    "why_it_matters": "A US threat to use warships near Cuba, plus an open call for CIA partners, signals a sharp escalation in a decades-long standoff and shows how the Iran war is shaping US moves elsewhere.",
+    "deep_analysis": "## Historical Context\nThe article says previous US presidents considered intervening in Cuba for decades, and the US has kept a long-running economic embargo on Havana. As background, the CIA backed the failed 1961 Bay of Pigs invasion, so public talk of CIA partnerships carries heavy historical baggage in Cuba. Since 2020, Cuba's economy has shrunk, and hundreds of thousands of Cubans have emigrated, many to the US.\n\n## Multiple Perspectives\n- **Trump administration:** Rubio says Cuba is a national security threat due to ties with US adversaries, that it \"has already fallen\", and doubts a diplomatic fix with the current government, though the US says it prefers a peaceful resolution.\n- **Cuban government:** Mocks the US for \"desperation\" and treats the CIA call as a joke.\n- **Mixed signals:** Trump has swung between \"it looks like I'll be the one that does it\" and \"I don't think we'll need the military.\"\n- **US voters:** Midterm voters are concerned about the Iran war's effect on prices for gas and groceries.\n\n## What to Watch\n- Whether the Iran war actually winds down, which Trump has forecast but which hasn't happened yet.\n- Any real naval moves near Cuba.\n- The annual UN vote condemning the embargo.\n- Further sanctions or renewed talks led by Rubio.\n- Midterm election results and how they shape foreign policy.",
+    "concepts": [
+     {
+      "term": "embargo",
+      "definition": "An official ban on trade with a country.",
+      "context": "The US has had an economic embargo on Cuba for decades, and the UN votes on it each year."
+     },
+     {
+      "term": "sanctions",
+      "definition": "Penalties, often economic, that one country places on another to pressure it.",
+      "context": "After unimpressive talks, the US imposed even more sanctions on Cuba's government."
+     },
+     {
+      "term": "midterm elections",
+      "definition": "US elections held halfway through a president's four-year term, mainly for Congress.",
+      "context": "Trump made his Cuba comments while campaigning days before the midterms."
+     }
+    ],
+    "quiz": {
+     "question": "Why did Cuba's government mock Rubio's message?",
+     "options": [
+      "Because he publicly invited Cubans to partner with the CIA, a spy agency that normally works in secret",
+      "Because he announced the US had lifted the embargo",
+      "Because he refused to meet Cuban officials ever again",
+      "Because he said Cuba's economy was booming"
+     ],
+     "answer_index": 0,
+     "explanation": "Rubio openly urged Cubans to work with the CIA, and Cuba's deputy foreign minister joked that the agency was selling its services \"like a tube of toothpaste\"."
+    },
+    "impact_score": 58,
+    "image_url": "https://i.guim.co.uk/img/media/487ad4f76ab73ebceb246949eff4ed204b9cf7c9/0_0_5500_3667/master/5500.jpg?width=1920&quality=85&auto=format&fit=max&s=9d0848de04d70dac7fe866a7948574c7",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "US Secretary of State Marco Rubio told Cubans \"now is the time\" to push for political change, even suggesting a partnership with the CIA, right after Donald Trump said US warships returning from the Iran war could stop off Cuba.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-10-24T06:01:10.800597+00:00",
+    "published_date": "2026-10-24",
+    "has_fulltext": true
+   },
+   {
     "id": "9f4a32f2-a96d-58e3-8c19-a6663af18ed6",
     "title": "Trump ordered to answer questions under oath in BBC lawsuit",
     "simplified_title": "Judge orders Trump to face BBC lawyers' questions by 11 December",
@@ -1563,71 +1627,67 @@
    {
     "id": "9c42b941-4022-56e0-a2bc-58434166e6e5",
     "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-    "simplified_title": "AI stock slump and oil price jump rattle markets worldwide",
-    "quick_summary": "Tech and AI shares tumbled around the world, including Australian data centre company NextDC, while oil hit a five-month high on worries about the war with Iran.",
-    "simplified_body": "Shares in artificial intelligence (AI) companies fell sharply on Thursday, dragging markets down globally. In the US, the Nasdaq composite dropped 2.6% (ABC reported closer to 2.9%) and the S&P 500 fell 1.2% (ABC says 1.4%), even though two out of three S&P 500 stocks actually rose. Meta lost 7%, Nvidia 4.4% and chip-equipment maker Lam Research 11.8%, despite decent results. Oil also jumped 4%, with Brent crude reaching US$113.17 a barrel.\n\nInvestors are worried AI's huge costs won't pay off. Meta lifted its capital expenditure (capex) forecast to US$135–145 billion, and borrowing to build data centres has become expensive. Asian markets were hit hard too, and China's CSI 300 index entered a bear market. ASX 200 futures pointed to a fall, and the ASX opened down 0.37%.\n\nAustralia has its own AI wobble. NextDC shares collapsed 40% after community concerns over power poles in Footscray delayed its Melbourne M3 data centre, and Firmus cancelled its stock market listing due to weak demand. The Conversation notes AI chips only last a few years, forcing costly upgrades, and that some worry about circular financing, where Nvidia invests in its own customers.\n\nWhat's next? Oil depends on the Middle East: Houthi attacks on Saudi Arabia continue and The New York Times reported plans for renewed strikes on Iran after US midterm elections. Higher oil could keep inflation and interest rates high, adding pressure on expensive AI projects.",
-    "why_it_matters": "Australians are directly exposed: NextDC's crash and Firmus's cancelled listing show the AI boom's risks hitting the ASX, and data centres' demand for power and water could push up local bills.",
-    "deep_analysis": "## Historical Context\nThe Conversation says data centres were safe, lucrative investments for two decades, but AI has changed the economics with short-lived chips and enormous power needs. As background, many observers compare today's AI frenzy with the late-1990s dot-com boom, when real technology was overpriced before a crash, though history doesn't necessarily repeat.\n\n## Multiple Perspectives\nBulls can point out that companies like Lam Research, Tesla and Meta reported results beating some expectations, and Treasurer Jim Chalmers flagged a potential $50 billion upgrade to business investment. Sceptics, including The Conversation, argue AI firms need revenue growth of 80% a year for six years to meet expectations while paid AI spending looks to be slowing. Communities such as Footscray residents raise concerns about noise, visual impact, water and electricity prices. Sources differ slightly on index falls (Guardian: Nasdaq -2.6%, S&P -1.2%; ABC: -2.87% and -1.4%), probably due to timing.\n\n## What to Watch\n- Oil prices and any escalation involving Iran or the Houthis\n- US 10-year treasury yields, which fell below 5% as investors sought safety\n- Whether NextDC's Footscray power pole dispute is resolved\n- Data centre connection requests in Victoria (over 10 gigawatts) and their effect on energy prices\n- Chalmers' Mid-Year Economic and Fiscal Outlook (MYEFO)",
+    "simplified_title": "AI tech stocks slump worldwide while oil prices surge on Iran war",
+    "quick_summary": "A sharp sell-off in artificial intelligence stocks dragged global share markets lower on Thursday, while worries about the war with Iran pushed oil to its highest price since May.",
+    "simplified_body": "On Thursday, big drops in AI (artificial intelligence) stocks pulled markets down around the world. In the US, the S&P 500 fell 1.2%, its worst day since July, and the tech-heavy Nasdaq composite tumbled 2.6%. Chip giant Nvidia fell 4.4%, Meta Platforms lost 7% and Lam Research dropped 11.8%, even though several of these companies reported some better-than-expected results.\n\nThe pain was concentrated in tech. Two out of every three stocks in the S&P 500 actually rose, and the Dow Jones Industrial Average edged up 11 points. But because Nvidia is the biggest company on Wall Street by value, its fall had an outsized effect. Asia was hit first, with South Korea's Kospi down 3.5%, Hong Kong's Hang Seng down 3% and Japan's Nikkei 225 down 2.7%.\n\nWhy the jitters? Investors worry that borrowing money to build datacenters and buy AI chips has become very expensive, and that AI share prices climbed too high after a years-long frenzy. At the same time, the price of Brent crude oil jumped 4% to $113.17 a barrel, up from under $97 at the start of the month, because of uncertainty over the war with Iran. Investors also rushed into US government bonds as a safer option, pushing the 10-year treasury yield down to 4.97% from 5.13%.\n\nNext, watch whether debt-heavy AI firms like CoreWeave keep wobbling, whether oil keeps climbing, and whether concerns about government debt, including in France, keep pushing bond yields around.",
+    "why_it_matters": "When oil prices spike and global tech stocks slide, it can feed through to petrol prices and to the share holdings many people own indirectly, such as through superannuation funds. The source doesn't mention Australia specifically, but the sell-off spread across Asian markets in our region.",
+    "deep_analysis": "## Historical Context\nAccording to the article, the US stock market hit a record high earlier this month, helped by solid company profits, and AI stocks have run hot after a years-long frenzy. As general background, sharp sell-offs after long tech booms have happened before (such as the dot-com bust around 2000), which is partly why investors get nervous when valuations look stretched. Also as background, oil price shocks tied to conflict in the Middle East have historically rippled through inflation and markets.\n\n## Multiple Perspectives\nThe bearish view: borrowing costs for building datacenters and buying chips are high, and AI share prices may have overshot. Debt-funded players like CoreWeave look especially vulnerable. The bullish view: companies keep reporting growth, Lam Research beat profit and revenue expectations, and the broader US economy looks solid, with fewer people applying for unemployment benefits. Procter & Gamble's CEO Shailesh Jejurikar warned of continuing \"geopolitical and economic challenges\" but stood by the company's growth forecasts. The fact that most S&P 500 stocks rose suggests this was a tech-specific sell-off rather than a broad panic.\n\n## What to Watch\n- Whether Brent crude keeps rising while the war with Iran disrupts energy markets.\n- Debt worries around AI cloud firms like CoreWeave.\n- Meta's new class of stock to raise money for AI spending, and how investors react.\n- French government bond yields, amid budget strain and violent protests.\n- US bond yields, which recently hit their highest levels in decades before Thursday's sharp fall.",
     "concepts": [
      {
-      "term": "capital expenditure (capex)",
-      "definition": "Money a company spends on long-term assets like buildings, equipment and chips.",
-      "context": "Meta raised its capex forecast for AI, which spooked investors."
+      "term": "S&P 500",
+      "definition": "A stock market index tracking about 500 large US companies, weighted by company size.",
+      "context": "It fell 1.2%, dragged mostly by big tech names like Nvidia."
      },
      {
-      "term": "bear market",
-      "definition": "When a market index falls 20% or more from its recent peak.",
-      "context": "China's CSI 300 fell 20% from its June peak."
+      "term": "Brent crude oil",
+      "definition": "A major global benchmark for oil prices.",
+      "context": "It jumped 4% to $113.17 a barrel on worries about the war with Iran."
      },
      {
-      "term": "circular financing",
-      "definition": "When a company invests in its own customers, who then use that money to buy its products.",
-      "context": "Nvidia invests in firms that buy its chips, raising doubts about real demand."
+      "term": "treasury yield",
+      "definition": "The return investors get for lending money to the US government through bonds; it falls when demand for those bonds rises.",
+      "context": "The 10-year treasury yield dropped to 4.97% as investors sought safety."
+     },
+     {
+      "term": "datacenters",
+      "definition": "Large facilities full of computers that run online services and AI systems.",
+      "context": "The cost of borrowing to build them is a key worry for AI investors."
      }
     ],
     "quiz": {
-     "question": "Why did Meta's shares fall 7% even though its revenue beat expectations?",
+     "question": "Why did the S&P 500 fall even though most of the stocks in it rose on Thursday?",
      "options": [
-      "Investors worried about its rising AI spending and whether it will pay off",
-      "Its revenue actually missed forecasts badly",
-      "Oil prices forced it to shut down data centres",
-      "It was delisted from the Nasdaq"
+      "Because the index is weighted by company size, so falls in giant tech firms like Nvidia outweighed gains elsewhere",
+      "Because oil companies in the index collapsed",
+      "Because the Dow Jones dragged it down",
+      "Because US unemployment claims jumped"
      ],
      "answer_index": 0,
-     "explanation": "Meta raised its spending plans for AI and planned to raise more money, fuelling doubts the huge investment would deliver returns."
+     "explanation": "The S&P 500 gives more weight to bigger companies. Nvidia is the largest on Wall Street, so its 4.4% fall, along with other big tech drops, outweighed gains by two-thirds of the index's stocks."
     },
-    "impact_score": 68,
+    "impact_score": 62,
     "image_url": "https://i.guim.co.uk/img/media/9e77a4ead0dd662eb649b44a2b029545f70ae2d1/0_0_4894_3263/master/4894.jpg?width=1920&quality=85&auto=format&fit=max&s=8a32367b9c76bc10c39863100ed867a4",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "Tech and AI shares tumbled around the world, including Australian data centre company NextDC, while oil hit a five-month high on worries about the war with Iran.",
+    "description": "A sharp sell-off in artificial intelligence stocks dragged global share markets lower on Thursday, while worries about the war with Iran pushed oil to its highest price since May.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
       "name": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-23/asx-markets-business-news-live-updates-oct-23/107291840"
-     },
-     {
-      "name": "The Conversation",
-      "url": "https://theconversation.com/shares-in-this-data-centre-company-are-down-40-as-investors-lose-faith-in-the-ai-story-294871"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
+    "source_count": 1,
+    "confidence": 0.55,
     "related_story_ids": [
      "161b8573-a58d-5e1b-baa9-8c6caba38306",
      "7baab65b-f998-52c8-ab46-6f78a33bf23d",
-     "938d55fd-561c-5289-999e-daf1c9d0d934",
      "adabd6c4-a1b8-5204-9a50-3b162f5bf191"
     ],
     "reading_minutes": 4,
-    "created_at": "2026-10-22T23:12:11.610258+00:00",
-    "published_date": "2026-10-23",
+    "created_at": "2026-10-24T06:01:12.861682+00:00",
+    "published_date": "2026-10-24",
     "has_fulltext": true
    },
    {
@@ -2118,5 +2178,5 @@
    }
   ]
  },
- "total_stories": 33
+ "total_stories": 34
 }
