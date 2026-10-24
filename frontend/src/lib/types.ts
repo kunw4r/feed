@@ -52,6 +52,27 @@ export interface Story {
   has_fulltext?: boolean;
 }
 
+/** The fields cards, rails and the brief need; keeps full text out of listing pages' HTML. */
+export type CardStory = Pick<
+  Story,
+  | "id"
+  | "simplified_title"
+  | "quick_summary"
+  | "why_it_matters"
+  | "image_url"
+  | "category"
+  | "region_code"
+  | "impact_score"
+  | "reading_minutes"
+  | "created_at"
+>;
+
+export interface Edition {
+  date: string;
+  generated_at?: string;
+  stories: CardStory[];
+}
+
 export interface Briefing {
   date: string;
   regions: Record<string, Story[]>;

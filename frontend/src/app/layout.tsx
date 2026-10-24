@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Fraunces, Inter, Newsreader } from "next/font/google";
+import { Fraunces, Newsreader } from "next/font/google";
 import "./globals.css";
 import AppShell from "@/components/AppShell";
 import ThemeProvider from "@/lib/ThemeProvider";
@@ -18,7 +18,6 @@ const newsreader = Newsreader({
   variable: "--font-newsreader",
   display: "swap",
 });
-const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
 
 const SITE = "https://kunw4r.github.io/feed";
 
@@ -49,7 +48,7 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en-AU" suppressHydrationWarning className={`${fraunces.variable} ${newsreader.variable} ${inter.variable}`}>
+    <html lang="en-AU" suppressHydrationWarning className={`${fraunces.variable} ${newsreader.variable}`}>
       <head>
         <link rel="preconnect" href="https://wsrv.nl" />
         {/* Apply the saved theme before first paint (dark by default) */}

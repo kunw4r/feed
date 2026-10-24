@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { fetchTodaysBriefing } from "@/lib/api";
+import { fetchTodaysBriefing, toEdition } from "@/lib/api";
 import { REGION_CONFIG } from "@/lib/types";
 import Dashboard from "@/components/Dashboard";
 
@@ -20,5 +20,5 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function RegionPage({ params }: Props) {
   const { code } = await params;
   if (!REGION_CONFIG[code]) notFound();
-  return <Dashboard briefing={await fetchTodaysBriefing()} region={code} />;
+  return <Dashboard briefing={toEdition(await fetchTodaysBriefing())} region={code} />;
 }

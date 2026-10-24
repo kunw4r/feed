@@ -1,6 +1,6 @@
-import { fetchTodaysBriefing } from "@/lib/api";
+import { fetchTodaysBriefing, toEdition } from "@/lib/api";
 import Dashboard from "@/components/Dashboard";
 
 export default async function HomePage() {
-  return <Dashboard briefing={await fetchTodaysBriefing()} />;
+  return <Dashboard briefing={toEdition(await fetchTodaysBriefing())} />;
 }

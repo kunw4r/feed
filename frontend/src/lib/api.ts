@@ -1,6 +1,6 @@
 import { readFile } from "fs/promises";
 import path from "path";
-import { Briefing, Story } from "./types";
+import { Briefing, CardStory, Edition, Story } from "./types";
 
 // All pages are statically generated from the JSON the pipeline writes into public/data.
 // These helpers run at build time (server components only).
@@ -58,4 +58,24 @@ export async function fetchStoryById(id: string): Promise<Story> {
   const story = (await fetchAllKnownStories()).find((s) => s.id === id);
   if (!story) throw new Error("Story not found");
   return story;
+}
+
+export function toCard(s: Story): CardStory {
+  return {
+    id: s.id,
+    simplified_title: s.simplified_title,
+    quick_summary: s.quick_summary,
+    why_it_matters: s.why_it_matters,
+    image_url: s.image_url ?? null,
+    category: s.category,
+    region_code: s.region_code,
+    impact_score: s.impact_score,
+    reading_minutes: s.reading_minutes,
+    created_at: s.created_at,
+  };
+}
+
+/** A briefing reduced to what listing pages render, ordered by impact. */
+export function toEdition(b: Briefing): Edition {
+  return { date: b.date, generated_at: b.generated_at, stories: allStories(b).map(toCard) };
 }

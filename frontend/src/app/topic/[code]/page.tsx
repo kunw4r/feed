@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { fetchTodaysBriefing } from "@/lib/api";
+import { fetchTodaysBriefing, toEdition } from "@/lib/api";
 import { CATEGORY_CONFIG, Category } from "@/lib/types";
 import Dashboard from "@/components/Dashboard";
 
@@ -20,5 +20,5 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function TopicPage({ params }: Props) {
   const { code } = await params;
   if (!CATEGORY_CONFIG[code as Category]) notFound();
-  return <Dashboard briefing={await fetchTodaysBriefing()} topic={code} />;
+  return <Dashboard briefing={toEdition(await fetchTodaysBriefing())} topic={code} />;
 }

@@ -3,12 +3,12 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { Story, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
+import { CardStory, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
 import { useProgress } from "@/lib/progress";
 import NewsImage, { proxied } from "./NewsImage";
 
 // Full-screen, one-story-per-screen triage: read the gist, go deeper only on what hooks you.
-export default function BriefDeck({ stories }: { stories: Story[] }) {
+export default function BriefDeck({ stories }: { stories: CardStory[] }) {
   const deck = useRef<HTMLDivElement>(null);
   const router = useRouter();
   const progress = useProgress();
@@ -63,7 +63,7 @@ export default function BriefDeck({ stories }: { stories: Story[] }) {
           ✕ Close
         </Link>
         <p className="font-display italic text-[15px] text-white/70 tabular-nums">
-          {String(Math.min(idx + 1, total)).padStart(2, "0")} <span className="text-white/30">/ {total}</span>
+          {String(Math.min(idx + 1, total)).padStart(2, "0")} <span className="text-white/60">/ {total}</span>
         </p>
       </div>
       <div className="absolute inset-x-0 top-0 z-20 h-[2px] bg-white/10">
@@ -129,7 +129,7 @@ export default function BriefDeck({ stories }: { stories: Story[] }) {
                     </p>
                   )}
                   <div className="mt-7 flex items-center gap-6 text-[14px]" style={step(460)}>
-                    <Link href={`/story/${s.id}`} className="rounded-full bg-[#f3ede4] px-5 py-2.5 font-medium text-[#0b0a09] hover:bg-white transition-colors">
+                    <Link prefetch={false} href={`/story/${s.id}`} className="rounded-full bg-[#f3ede4] px-5 py-2.5 font-medium text-[#0b0a09] hover:bg-white transition-colors">
                       Go deeper
                     </Link>
                     <button onClick={() => go(i + 1)} className="text-white/55 hover:text-white transition-colors">
@@ -161,7 +161,7 @@ export default function BriefDeck({ stories }: { stories: Story[] }) {
         </section>
       </div>
 
-      <p className="pointer-events-none absolute bottom-4 inset-x-0 z-20 hidden md:block text-center text-[11px] text-white/30">
+      <p className="pointer-events-none absolute bottom-4 inset-x-0 z-20 hidden md:block text-center text-[11px] text-white/55">
         ↑ ↓ to move · enter to go deeper · esc to close
       </p>
     </div>

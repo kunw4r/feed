@@ -1,6 +1,6 @@
 "use client";
 
-import { Story, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
+import { CardStory, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
 import { useProgress } from "@/lib/progress";
 import Link from "next/link";
 import NewsImage from "./NewsImage";
@@ -8,7 +8,7 @@ import NewsImage from "./NewsImage";
 type Variant = "hero" | "rail" | "row";
 
 interface StoryCardProps {
-  story: Story;
+  story: CardStory;
   variant?: Variant;
   rank?: number;
   isNew?: boolean;
@@ -32,7 +32,7 @@ export function CardImage({
   className = "",
   priority,
 }: {
-  story: Story;
+  story: CardStory;
   sizes: string;
   className?: string;
   priority?: boolean;
@@ -49,7 +49,7 @@ export function CardImage({
   );
 }
 
-function Kicker({ story, light, isNew }: { story: Story; light?: boolean; isNew?: boolean }) {
+function Kicker({ story, light, isNew }: { story: CardStory; light?: boolean; isNew?: boolean }) {
   const cat = CATEGORY_CONFIG[story.category] || CATEGORY_CONFIG.UNCATEGORISED;
   const region = story.region_code ? REGION_CONFIG[story.region_code] : null;
   return (
@@ -74,7 +74,7 @@ export default function StoryCard({ story, variant = "rail", rank, isNew }: Stor
 
   if (variant === "hero") {
     return (
-      <Link href={`/story/${story.id}`} className="card-depth group relative block overflow-hidden rounded-[28px] bg-black h-[62svh] min-h-[440px] max-h-[640px]">
+      <Link prefetch={false} href={`/story/${story.id}`} className="card-depth group relative block overflow-hidden rounded-[28px] bg-black h-[62svh] min-h-[440px] max-h-[640px]">
         <CardImage story={story} className="opacity-90" priority sizes="(min-width: 1024px) calc(100vw - 320px), 100vw" />
         <div className="scrim absolute inset-0" />
         <div className="absolute inset-x-0 bottom-0 p-6 md:p-12 max-w-4xl">
@@ -93,7 +93,7 @@ export default function StoryCard({ story, variant = "rail", rank, isNew }: Stor
 
   if (variant === "row") {
     return (
-      <Link href={`/story/${story.id}`} className="group grid grid-cols-[2.2rem_1fr_88px] md:grid-cols-[3rem_1fr_132px] items-start gap-4 md:gap-6 py-6">
+      <Link prefetch={false} href={`/story/${story.id}`} className="group grid grid-cols-[2.2rem_1fr_88px] md:grid-cols-[3rem_1fr_132px] items-start gap-4 md:gap-6 py-6">
         <span className="font-display italic text-[1.8rem] md:text-[2.4rem] leading-none text-accent/80">{rank}</span>
         <div className="min-w-0">
           <Kicker story={story} isNew={isNew} />
@@ -110,7 +110,7 @@ export default function StoryCard({ story, variant = "rail", rank, isNew }: Stor
   }
 
   return (
-    <Link href={`/story/${story.id}`} className="group block w-[78vw] max-w-[320px] flex-shrink-0 snap-start">
+    <Link prefetch={false} href={`/story/${story.id}`} className="group block w-[78vw] max-w-[320px] flex-shrink-0 snap-start">
       <div className="card-depth relative aspect-[4/5] overflow-hidden rounded-[22px] bg-surface-inset">
         <CardImage story={story} sizes="320px" />
         <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/20 to-transparent" />

@@ -163,7 +163,7 @@
 
 /* ── Map CSS vars → Tailwind utilities via @theme ── */
 @theme {
-  --font-sans: var(--font-inter), -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
   --font-heading: var(--font-fraunces), Georgia, serif;
   --font-read: var(--font-newsreader), Georgia, serif;
   --font-display: var(--font-fraunces), Georgia, "Times New Roman", serif;

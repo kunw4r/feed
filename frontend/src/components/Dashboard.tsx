@@ -2,13 +2,13 @@
 
 import { useState, useMemo, useEffect, useRef } from "react";
 import Link from "next/link";
-import { Briefing, Story, REGION_CONFIG, CATEGORY_CONFIG } from "@/lib/types";
+import { CardStory, Edition, REGION_CONFIG, CATEGORY_CONFIG } from "@/lib/types";
 import { useProgress, streakOf } from "@/lib/progress";
 import { Reveal } from "./motion";
 import StoryCard from "./StoryCard";
 
 interface DashboardProps {
-  briefing: Briefing;
+  briefing: Edition;
   region?: string;
   topic?: string;
   /** Archive editions: no "new" markers, different masthead */
@@ -34,7 +34,7 @@ function useLastSeen(generatedAt?: string) {
   return lastSeen;
 }
 
-function Rail({ id, title, note, stories, isNew }: { id: string; title: string; note?: string; stories: Story[]; isNew: (s: Story) => boolean }) {
+function Rail({ id, title, note, stories, isNew }: { id: string; title: string; note?: string; stories: CardStory[]; isNew: (s: CardStory) => boolean }) {
   const ref = useRef<HTMLDivElement>(null);
   const nudge = (dir: number) => ref.current?.scrollBy({ left: dir * 340, behavior: "smooth" });
 
@@ -71,17 +71,11 @@ function Rail({ id, title, note, stories, isNew }: { id: string; title: string; 
 export default function Dashboard({ briefing, region, topic, archived }: DashboardProps) {
   const progress = useProgress();
   const lastSeen = useLastSeen(archived ? undefined : briefing.generated_at);
-  const isNew = (s: Story) => Boolean(!archived && lastSeen && s.created_at > lastSeen && !progress.read[s.id]);
+  const isNew = (s: CardStory) => Boolean(!archived && lastSeen && s.created_at > lastSeen && !progress.read[s.id]);
   const activeRegion = region ?? null;
   const activeTopic = topic ?? null;
 
-  const allStories = useMemo(
-    () =>
-      Object.entries(briefing.regions)
-        .flatMap(([code, stories]) => stories.map((s) => ({ ...s, region_code: s.region_code || code })))
-        .sort((a, b) => b.impact_score - a.impact_score),
-    [briefing],
-  );
+  const allStories = briefing.stories;
 
   const filtered = useMemo(
     () =>

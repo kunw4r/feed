@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { fetchArchiveIndex, fetchEdition } from "@/lib/api";
+import { fetchArchiveIndex, fetchEdition, toEdition } from "@/lib/api";
 import Dashboard from "@/components/Dashboard";
 
 export const dynamicParams = false;
@@ -28,5 +28,5 @@ export default async function ArchiveDatePage({ params }: Props) {
   const { date } = await params;
   const edition = await fetchEdition(date);
   if (!edition) notFound();
-  return <Dashboard briefing={edition} archived />;
+  return <Dashboard briefing={toEdition(edition)} archived />;
 }
