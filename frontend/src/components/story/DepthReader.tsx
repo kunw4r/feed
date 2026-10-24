@@ -2,7 +2,7 @@
 
 import { Fragment, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
-import { Story, Concept, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
+import { Story, CardStory, Concept, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
 import { markRead } from "@/lib/progress";
 import { Reveal, InkText } from "@/components/motion";
 import QuizBlock from "./QuizBlock";
@@ -149,7 +149,43 @@ function ChapterHead({ n, label }: { n: number; label: string }) {
   );
 }
 
-export default function DepthReader({ story, next }: { story: Story; next: Story | null }) {
+function ThreadTimeline({ thread, currentId }: { thread: CardStory[]; currentId: string }) {
+  const day = (iso: string) =>
+    new Date(iso).toLocaleDateString("en-AU", { weekday: "short", day: "numeric", month: "short", timeZone: "Australia/Brisbane" });
+  return (
+    <ol className="relative">
+      <span className="absolute left-[5px] top-2 bottom-2 w-px bg-edge" />
+      {thread.map((t) => {
+        const here = t.id === currentId;
+        return (
+          <Reveal as="li" key={t.id} className="relative pl-8 pb-9 last:pb-0">
+            <span
+              className={`absolute left-0 top-[7px] h-[11px] w-[11px] rounded-full border-2 ${
+                here ? "border-accent bg-accent" : "border-content-faint bg-surface"
+              }`}
+            />
+            <p className="smallcaps text-[13px] text-content-faint">
+              {day(t.created_at)}
+              {here && <span className="ml-2 text-accent">you are here</span>}
+            </p>
+            {here ? (
+              <p className="font-display mt-1 text-[1.3rem] leading-snug text-content">{t.simplified_title}</p>
+            ) : (
+              <Link prefetch={false} href={`/story/${t.id}`} className="group block">
+                <span className="font-display mt-1 block text-[1.3rem] leading-snug text-content-dim group-hover:text-accent transition-colors">
+                  {t.simplified_title}
+                </span>
+                <span className="mt-1 block font-read text-[1.02rem] leading-snug text-content-faint line-clamp-2">{t.quick_summary}</span>
+              </Link>
+            )}
+          </Reveal>
+        );
+      })}
+    </ol>
+  );
+}
+
+export default function DepthReader({ story, next, thread = [] }: { story: Story; next: Story | null; thread?: CardStory[] }) {
   const heroRef = useRef<HTMLElement>(null);
   const endOfExplainer = useRef<HTMLDivElement>(null);
   const [active, setActive] = useState("gist");
@@ -178,11 +214,12 @@ export default function DepthReader({ story, next }: { story: Story; next: Story
     };
     const list = [add("gist", "The gist", story.quick_summary), add("story", "The story", story.simplified_body)];
     if (story.why_it_matters) list.push(add("why", "Why it matters", story.why_it_matters));
+    if (thread.length > 1) list.push(add("thread", "The story so far", thread.map((t) => t.simplified_title).join(" ")));
     analysis.forEach((s, i) => list.push(add(`a${i}`, SECTION_LABELS[s.title] || s.title, s.body)));
     if (story.quiz) list.push(add("check", "Check yourself", story.quiz.question + story.quiz.options.join(" ")));
     if (story.has_fulltext) list.push({ id: "original", label: "Original reporting", minutes: total + (story.reading_minutes || 3) });
     return list;
-  }, [story, analysis]);
+  }, [story, analysis, thread]);
 
   // Hero recedes as you scroll past it
   useEffect(() => {
@@ -358,6 +395,15 @@ export default function DepthReader({ story, next }: { story: Story; next: Story
                 text={story.why_it_matters}
                 className="font-display italic text-[1.7rem] md:text-[2.1rem] leading-[1.25] text-content text-pretty"
               />
+            </section>
+          )}
+          {thread.length > 1 && (
+            <section id="thread" className="pb-24 scroll-mt-20">
+              <ChapterHead n={++n} label="The story so far" />
+              <Reveal as="p" className="font-read mb-10 text-[1.1rem] text-content-dim">
+                This is part of a developing story. Here&apos;s how it has unfolded.
+              </Reveal>
+              <ThreadTimeline thread={thread} currentId={story.id} />
             </section>
           )}
           <div ref={endOfExplainer} />

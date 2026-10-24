@@ -5,5 +5,5 @@ import BriefDeck from "@/components/BriefDeck";
 export const metadata: Metadata = { title: "The Brief" };
 
 export default async function BriefPage() {
-  return <BriefDeck stories={toEdition(await fetchTodaysBriefing()).stories} />;
+  return <BriefDeck stories={(await toEdition(await fetchTodaysBriefing())).stories} />;
 }

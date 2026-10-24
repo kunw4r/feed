@@ -65,7 +65,11 @@ export type CardStory = Pick<
   | "impact_score"
   | "reading_minutes"
   | "created_at"
->;
+  | "published_date"
+> & {
+  /** How many stories (including this one) are in its developing-story thread */
+  thread_size?: number;
+};
 
 export interface Edition {
   date: string;

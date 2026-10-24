@@ -60,8 +60,45 @@ export async function fetchStoryById(id: string): Promise<Story> {
   return story;
 }
 
-export function toCard(s: Story): CardStory {
+// Threads: stories linked by related_story_ids (in either direction) form a developing story.
+let threadsCache: Promise<Map<string, Story[]>> | null = null;
+
+function buildThreads(): Promise<Map<string, Story[]>> {
+  threadsCache ??= (async () => {
+    const stories = await fetchAllKnownStories();
+    const byId = new Map(stories.map((s) => [s.id, s]));
+    const adj = new Map<string, Set<string>>();
+    const link = (a: string, b: string) => {
+      if (!byId.has(a) || !byId.has(b) || a === b) return;
+      (adj.get(a) ?? adj.set(a, new Set()).get(a)!).add(b);
+      (adj.get(b) ?? adj.set(b, new Set()).get(b)!).add(a);
+    };
+    for (const s of stories) for (const r of s.related_story_ids ?? []) link(s.id, r);
+
+    const threads = new Map<string, Story[]>();
+    for (const start of adj.keys()) {
+      if (threads.has(start)) continue;
+      const seen = new Set([start]);
+      const queue = [start];
+      while (queue.length) for (const n of adj.get(queue.shift()!) ?? []) if (!seen.has(n)) (seen.add(n), queue.push(n));
+      const ordered = [...seen].map((id) => byId.get(id)!).sort((a, b) => a.created_at.localeCompare(b.created_at));
+      for (const id of seen) threads.set(id, ordered);
+    }
+    return threads;
+  })();
+  return threadsCache;
+}
+
+/** The developing story this story belongs to, oldest first (just the story itself if standalone). */
+export async function fetchThread(id: string): Promise<CardStory[]> {
+  const thread = (await buildThreads()).get(id);
+  return thread ? thread.map((s) => toCard(s, thread.length)) : [];
+}
+
+export function toCard(s: Story, threadSize?: number): CardStory {
   return {
+    thread_size: threadSize,
+    published_date: s.published_date,
     id: s.id,
     simplified_title: s.simplified_title,
     quick_summary: s.quick_summary,
@@ -76,6 +113,11 @@ export function toCard(s: Story): CardStory {
 }
 
 /** A briefing reduced to what listing pages render, ordered by impact. */
-export function toEdition(b: Briefing): Edition {
-  return { date: b.date, generated_at: b.generated_at, stories: allStories(b).map(toCard) };
+export async function toEdition(b: Briefing): Promise<Edition> {
+  const threads = await buildThreads();
+  return {
+    date: b.date,
+    generated_at: b.generated_at,
+    stories: allStories(b).map((s) => toCard(s, threads.get(s.id)?.length)),
+  };
 }

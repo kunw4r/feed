@@ -20,5 +20,5 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function TopicPage({ params }: Props) {
   const { code } = await params;
   if (!CATEGORY_CONFIG[code as Category]) notFound();
-  return <Dashboard briefing={toEdition(await fetchTodaysBriefing())} topic={code} />;
+  return <Dashboard briefing={(await toEdition(await fetchTodaysBriefing()))} topic={code} />;
 }

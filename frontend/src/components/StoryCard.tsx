@@ -60,6 +60,9 @@ function Kicker({ story, light, isNew }: { story: CardStory; light?: boolean; is
           New
         </span>
       )}
+      {(story.thread_size ?? 0) > 1 && (
+        <span className={`mr-2 ${light ? "text-white" : "text-accent"}`}>Developing · {story.thread_size} parts</span>
+      )}
       {region?.label ?? cat.label}
       <span className="mx-1.5 opacity-50">·</span>
       {cat.label}

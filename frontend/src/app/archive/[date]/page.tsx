@@ -28,5 +28,5 @@ export default async function ArchiveDatePage({ params }: Props) {
   const { date } = await params;
   const edition = await fetchEdition(date);
   if (!edition) notFound();
-  return <Dashboard briefing={toEdition(edition)} archived />;
+  return <Dashboard briefing={await toEdition(edition)} archived />;
 }

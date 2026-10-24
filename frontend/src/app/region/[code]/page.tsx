@@ -20,5 +20,5 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function RegionPage({ params }: Props) {
   const { code } = await params;
   if (!REGION_CONFIG[code]) notFound();
-  return <Dashboard briefing={toEdition(await fetchTodaysBriefing())} region={code} />;
+  return <Dashboard briefing={(await toEdition(await fetchTodaysBriefing()))} region={code} />;
 }

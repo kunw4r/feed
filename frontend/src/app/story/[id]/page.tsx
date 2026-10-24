@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { allStories, fetchAllKnownStories, fetchStoryById, fetchTodaysBriefing } from "@/lib/api";
+import { allStories, fetchAllKnownStories, fetchStoryById, fetchThread, fetchTodaysBriefing } from "@/lib/api";
 import AskClaude from "@/components/AskClaude";
 import DepthReader from "@/components/story/DepthReader";
 
@@ -44,7 +44,7 @@ export default async function StoryPage({ params }: Props) {
 
   return (
     <>
-      <DepthReader story={story} next={next && next.id !== story.id ? next : null} />
+      <DepthReader story={story} next={next && next.id !== story.id ? next : null} thread={await fetchThread(story.id)} />
       <AskClaude
         subject={story.simplified_title}
         context={[
