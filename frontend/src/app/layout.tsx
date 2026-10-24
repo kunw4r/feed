@@ -3,6 +3,7 @@ import { Fraunces, Newsreader } from "next/font/google";
 import "./globals.css";
 import AppShell from "@/components/AppShell";
 import ThemeProvider from "@/lib/ThemeProvider";
+import AppRuntime from "@/components/AppRuntime";
 
 // Self-hosted by next/font: no render-blocking request to Google, no layout shift
 const fraunces = Fraunces({
@@ -32,8 +33,10 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_AU",
   },
+  appleWebApp: { capable: true, title: "Brainfeed", statusBarStyle: "black-translucent" },
   icons: {
     icon: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230d0c0b'/><text x='13' y='47' font-family='Georgia,serif' font-size='42' font-weight='700' fill='%23f3ede4'>B</text><circle cx='50' cy='44' r='5' fill='%23ff7a4d'/></svg>",
+    apple: `${SITE}/apple-icon.png`,
   },
 };
 
@@ -61,6 +64,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="min-h-screen bg-surface">
         <ThemeProvider>
           <AppShell>{children}</AppShell>
+          <AppRuntime />
         </ThemeProvider>
       </body>
     </html>
