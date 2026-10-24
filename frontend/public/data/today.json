@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T06:00:44.309113+00:00",
+ "generated_at": "2026-10-24T12:04:29.350864+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -460,6 +460,71 @@
     "reading_minutes": 2,
     "created_at": "2026-10-23T13:13:12.424933+00:00",
     "published_date": "2026-10-23",
+    "has_fulltext": true
+   },
+   {
+    "id": "e622a1b2-8e0d-5b4f-b9b8-682aad0f1fb5",
+    "title": "Kim Jong-un crosses over newly opened bridge into China",
+    "simplified_title": "Kim Jong Un crosses new bridge into China on surprise trip",
+    "quick_summary": "North Korean leader Kim Jong Un has made a surprise visit to China, crossing a long-delayed new border bridge into the city of Dandong.",
+    "simplified_body": "On Saturday, Kim Jong Un took a train from Pyongyang to the border town of Sinuiju, then crossed the New Yalu River Bridge into Dandong, China. It's his first known trip abroad in more than a year. The trip wasn't announced in advance. Reports differ on who greeted him. South Korean sources told Yonhap and Reuters that Chinese Premier Li Qiang went to Dandong to meet him. Chinese state media, however, reported that top political adviser Wang Huning met Kim and passed on President Xi Jinping's best wishes.\n\nThe visit matters most to North Korea and China, which pledged to strengthen \"strategic communication and cooperation\" and expand trade. China is North Korea's largest trading partner and its main diplomatic backer. Meanwhile, relations with South Korea are souring. Kim's sister, Kim Yo Jong, has issued about 10 statements criticising Seoul since late September.\n\nSome background: the 3km, four-lane bridge was finished in 2014 but sat unused for 12 years because North Korea lacked connecting roads and customs facilities. It officially opened about a week ago. In September, North Korea and Russia opened their first road bridge too. The trip also lines up with the anniversary of China entering the Korean War (1950-53) on the North's side, and a major Communist Party meeting in Beijing on Monday called a plenary session.\n\nNext, Xi hosts the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen on 18-19 November. That has sparked talk of a Kim meeting with US President Donald Trump, though Reuters reported US and South Korean officials see little chance of that this year.",
+    "why_it_matters": "North Korea is visibly tightening road and trade links with both China and Russia, which shapes security in Australia's wider Indo-Pacific neighbourhood.",
+    "deep_analysis": "## Historical Context\nChinese troops fought alongside North Korea against South Korea and US-led United Nations forces in the 1950-53 Korean War, which China calls the \"War to Resist US Aggression and Aid Korea\". This is Kim's sixth China visit; his last was in September 2025 for a military parade in Beijing alongside Xi Jinping and Vladimir Putin. Xi visited Pyongyang in June, his first trip there in seven years. As background, the war ended in an armistice rather than a peace treaty, so the peninsula technically remains divided by an unresolved conflict.\n\n## Multiple Perspectives\nAnalysts quoted by Al Jazeera see the visit as part of Kim's push to line up with Beijing and Moscow against the US in what he calls a \"new Cold War\". Chinese expert Lu Chao says the bridge removes a major trade bottleneck and trade will likely grow. Analysts cited by DW note North Korea's trade with Russia is largely military, while China could supply goods for its civilian economy. Al Jazeera adds that closer Russia ties since the 2022 invasion of Ukraine have reduced Pyongyang's reliance on Beijing. Sources differ on details: South Korean sources say Premier Li Qiang met Kim, while Chinese state media named Wang Huning. The Guardian said neither government had confirmed the trip by Saturday evening.\n\n## What to Watch\n- Whether Kim attends Korean War anniversary events.\n- Trade volumes across the new bridge.\n- Kim Yo Jong's planned resumption of border loudspeaker broadcasts aimed at South Korea.\n- The APEC summit in Shenzhen on 18-19 November and any Kim-Trump contact.",
+    "concepts": [
+     {
+      "term": "plenary session",
+      "definition": "A full meeting of all members of a body, here the Chinese Communist Party's powerful Central Committee.",
+      "context": "Kim's visit comes just before the fifth plenary session in Beijing on Monday."
+     },
+     {
+      "term": "Korean War",
+      "definition": "The 1950-53 conflict between North Korea (backed by China) and South Korea (backed by US-led UN forces).",
+      "context": "Kim's trip coincides with the anniversary of China entering the war on the North's side."
+     },
+     {
+      "term": "Asia-Pacific Economic Cooperation",
+      "definition": "A regional forum of Pacific Rim economies, including Australia, that meets for an annual leaders' summit.",
+      "context": "China hosts the summit in Shenzhen in November, fuelling speculation about a Kim-Trump meeting."
+     }
+    ],
+    "quiz": {
+     "question": "Why did the New Yalu River Bridge sit unused for 12 years after China finished it?",
+     "options": [
+      "It was damaged and needed repairs",
+      "North Korea lacked connecting roads and customs facilities",
+      "China refused to open it until Kim visited",
+      "Russia objected to the trade link"
+     ],
+     "answer_index": 1,
+     "explanation": "Reports say the delay was on the North Korean side, which lacked connecting roads and customs facilities."
+    },
+    "impact_score": 52,
+    "image_url": "https://i.guim.co.uk/img/media/a6e54814cd5e9a475177ef8053ab6e6396f4d009/0_0_2988_4481/master/2988.jpg?width=1920&quality=85&auto=format&fit=max&s=f3293fbdf8e978dbfbef02db4fead070",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "North Korean leader Kim Jong Un has made a surprise visit to China, crossing a long-delayed new border bridge into the city of Dandong.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-24T12:04:57.430395+00:00",
+    "published_date": "2026-10-24",
     "has_fulltext": true
    }
   ],
@@ -2178,5 +2243,5 @@
    }
   ]
  },
- "total_stories": 34
+ "total_stories": 35
 }
