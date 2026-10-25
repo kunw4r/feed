@@ -1,6 +1,6 @@
 {
- "date": "2026-10-25",
- "generated_at": "2026-10-25T12:38:49.273240+00:00",
+ "date": "2026-10-26",
+ "generated_at": "2026-10-25T21:54:27.006984+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -192,6 +192,67 @@
     "has_fulltext": true
    },
    {
+    "id": "4b2a7fe3-0d6d-5ac9-b4bb-bf7903dcb005",
+    "title": "'Lucky country has become the hungry country': Foodbank Australia",
+    "simplified_title": "More Australians going hungry, with many struggling for the first time",
+    "quick_summary": "Two new looks at the data, a Foodbank report and an analysis of a national survey, both show food insecurity rising in Australia, hitting young people, regional areas, First Nations households and single parents hardest.",
+    "simplified_body": "Foodbank Australia's 2026 hunger report found 3.6 million households went hungry in the past year, up from 3.5 million the year before. One in three households experienced food insecurity, the same share as last year's report, and 69 per cent of them were going through it for the first time. Separately, researchers writing in The Conversation found severe food insecurity rose by around 40% between 2020 and 2024, from 2.1% to 3.0% of people.\n\nFoodbank says regional households, people aged 18 to 34 and First Nations households are hit hardest. The researchers found single-parent families were most exposed, while couples with children saw a jump of almost 87%. Foodbank's chief executive Kylea Tink blames the cost of living crisis and rising interest rates, saying food is the first thing families cut so they can keep paying rent, power and transport.\n\nThe numbers differ because each source measures food insecurity differently. Foodbank counts any degree of food insecurity. The Household, Income and Labour Dynamics in Australia (HILDA) survey uses eight questions from the United Nations' Food and Agriculture Organization (FAO), and 'severe' means answering yes to at least seven. The Australian Bureau of Statistics (ABS) estimated 13.2% of households in 2023. The researchers also note regional patterns vary, and Victoria is an exception.\n\nThe federal government recently gave Foodbank $700,000 in 'surge funding', which Ms Tink welcomed but said won't solve the problem overnight. Foodbank wants a national school breakfast program reaching every child by 2030, while the researchers say better data is needed to guide policies like the National Food Security Strategy.",
+    "why_it_matters": "In a country that produces plenty of food, millions of households are still skipping meals, and many of them never expected to be in that position. It's a clear sign of how hard cost-of-living pressure is biting.",
+    "deep_analysis": "## Historical Context\nAustralia has long been called 'the lucky country', a phrase Foodbank turns on its head by saying it has become 'the hungry country'. As general background, charities like Foodbank grew up to redistribute surplus food. The ABS nutrition survey last measured food insecurity in 2023 and hasn't been updated since. HILDA added the FAO questions in its 2020 and 2024 surveys, which lets researchers compare the same people over time.\n\n## Multiple Perspectives\nFoodbank frames hunger as a crisis needing political and social will and a 'whole-of-system approach' across agriculture, health and education. The Conversation's researchers stress that we can't fix what we don't measure properly. The two sources disagree on regional patterns. Foodbank says regional households are hit harder, with almost one in four facing severe food insecurity compared with 18 per cent of urban households. HILDA mostly agrees that food insecurity rises with remoteness, but finds inner regional Victoria lower than Melbourne, and warns that its small regional sample may underestimate the problem. Unemployed Canberran Travis Gilbert says he is pessimistic about the political will to fix it. Volunteer Rhonda Owen says many people are 'one pay cheque away' from needing help.\n\n## What to Watch\n- Whether the government takes up Foodbank's call for a national school breakfast program by 2030.\n- How the National Food Security Strategy develops.\n- Whether interest rates and living costs ease.\n- Whether the ABS updates its national survey.",
+    "concepts": [
+     {
+      "term": "food insecurity",
+      "definition": "Not having reliable access to enough food. It ranges from worrying about food, to cutting back, to skipping meals altogether.",
+      "context": "It's the core issue both reports measure, though each defines it slightly differently."
+     },
+     {
+      "term": "surge funding",
+      "definition": "A one-off boost of money to help meet a sudden spike in demand.",
+      "context": "The federal government gave Foodbank $700,000 to help cope with rising need."
+     },
+     {
+      "term": "school breakfast program",
+      "definition": "A scheme that provides free breakfast to students at school.",
+      "context": "Foodbank wants a national version reaching every child by 2030, saying kids learn better on a full tummy."
+     }
+    ],
+    "quiz": {
+     "question": "Why do the two sources give such different figures for how many Australians face food insecurity?",
+     "options": [
+      "They use different measures: Foodbank counts any degree of food insecurity, while the HILDA analysis focuses on severe food insecurity",
+      "One of the reports contains a calculation error",
+      "Foodbank only surveyed regional households",
+      "HILDA only counts single-parent families"
+     ],
+     "answer_index": 0,
+     "explanation": "Foodbank's one-in-three figure includes any level of food insecurity. The HILDA figure of 3.0% covers only people answering yes to at least seven of the eight FAO questions, which is the 'severe' category."
+    },
+    "impact_score": 62,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/efb6f5bdd1a9ef542cf99bfef6dcafe1?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Two new looks at the data, a Foodbank report and an analysis of a national survey, both show food insecurity rising in Australia, hitting young people, regional areas, First Nations households and single parents hardest.",
+    "tier": "LOCAL",
+    "category": "SOCIETY_CULTURE",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-26/australian-households-experienced-food-insecurity/107299796"
+     },
+     {
+      "name": "The Conversation",
+      "url": "https://theconversation.com/food-insecurity-is-on-the-rise-in-australia-we-need-more-effective-responses-293942"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-10-25T21:55:08.509555+00:00",
+    "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
     "id": "2592ac42-42ae-59a2-ad9a-adecb9fff23f",
     "title": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
     "simplified_title": "Huge storm system hits eastern Australia as Queensland rivers flood",
@@ -370,67 +431,59 @@
    },
    {
     "id": "e622a1b2-8e0d-5b4f-b9b8-682aad0f1fb5",
-    "title": "Kim Jong-un crosses over newly opened bridge into China",
-    "simplified_title": "Kim Jong Un crosses new bridge into China on surprise trip",
-    "quick_summary": "North Korean leader Kim Jong Un has made a surprise visit to China, crossing a long-delayed new border bridge into the city of Dandong.",
-    "simplified_body": "On Saturday, Kim Jong Un took a train from Pyongyang to the border town of Sinuiju, then crossed the New Yalu River Bridge into Dandong, China. It's his first known trip abroad in more than a year. The trip wasn't announced in advance. Reports differ on who greeted him. South Korean sources told Yonhap and Reuters that Chinese Premier Li Qiang went to Dandong to meet him. Chinese state media, however, reported that top political adviser Wang Huning met Kim and passed on President Xi Jinping's best wishes.\n\nThe visit matters most to North Korea and China, which pledged to strengthen \"strategic communication and cooperation\" and expand trade. China is North Korea's largest trading partner and its main diplomatic backer. Meanwhile, relations with South Korea are souring. Kim's sister, Kim Yo Jong, has issued about 10 statements criticising Seoul since late September.\n\nSome background: the 3km, four-lane bridge was finished in 2014 but sat unused for 12 years because North Korea lacked connecting roads and customs facilities. It officially opened about a week ago. In September, North Korea and Russia opened their first road bridge too. The trip also lines up with the anniversary of China entering the Korean War (1950-53) on the North's side, and a major Communist Party meeting in Beijing on Monday called a plenary session.\n\nNext, Xi hosts the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen on 18-19 November. That has sparked talk of a Kim meeting with US President Donald Trump, though Reuters reported US and South Korean officials see little chance of that this year.",
-    "why_it_matters": "North Korea is visibly tightening road and trade links with both China and Russia, which shapes security in Australia's wider Indo-Pacific neighbourhood.",
-    "deep_analysis": "## Historical Context\nChinese troops fought alongside North Korea against South Korea and US-led United Nations forces in the 1950-53 Korean War, which China calls the \"War to Resist US Aggression and Aid Korea\". This is Kim's sixth China visit; his last was in September 2025 for a military parade in Beijing alongside Xi Jinping and Vladimir Putin. Xi visited Pyongyang in June, his first trip there in seven years. As background, the war ended in an armistice rather than a peace treaty, so the peninsula technically remains divided by an unresolved conflict.\n\n## Multiple Perspectives\nAnalysts quoted by Al Jazeera see the visit as part of Kim's push to line up with Beijing and Moscow against the US in what he calls a \"new Cold War\". Chinese expert Lu Chao says the bridge removes a major trade bottleneck and trade will likely grow. Analysts cited by DW note North Korea's trade with Russia is largely military, while China could supply goods for its civilian economy. Al Jazeera adds that closer Russia ties since the 2022 invasion of Ukraine have reduced Pyongyang's reliance on Beijing. Sources differ on details: South Korean sources say Premier Li Qiang met Kim, while Chinese state media named Wang Huning. The Guardian said neither government had confirmed the trip by Saturday evening.\n\n## What to Watch\n- Whether Kim attends Korean War anniversary events.\n- Trade volumes across the new bridge.\n- Kim Yo Jong's planned resumption of border loudspeaker broadcasts aimed at South Korea.\n- The APEC summit in Shenzhen on 18-19 November and any Kim-Trump contact.",
+    "title": "Kim Jong-un crosses newly opened bridge into China",
+    "simplified_title": "Kim Jong-un crosses new bridge into China to boost ties",
+    "quick_summary": "North Korean leader Kim Jong-un crossed the newly opened New Yalu River Bridge into China's Dandong, meeting a senior Chinese official and pledging closer cooperation.",
+    "simplified_body": "North Korea's leader, Kim Jong-un, crossed the New Yalu River Bridge into the Chinese border city of Dandong on Saturday, according to South Korea's unification ministry and China's official Xinhua news agency. He met Wang Huning, a member of the standing committee of China's Communist party, toured a car factory with him, and both promised to strengthen the bilateral relationship. Kim said North Korea stands ready to \"expand practical cooperation\" with China.\n\nThe visit matters most to the region's big players. It shows off Kim's close ties with Beijing, his main backer alongside Russia, while relations with South Korea are getting worse. Kim's sister, Kim Yo Jong, has issued about 10 statements criticising Seoul since late September and announced plans to resume loudspeaker broadcasts at the border.\n\nSome background: the 3km bridge opened in mid-October, 12 years after China finished building it, because of delays on the North Korean side. In September, North Korea and Russia also opened their first road bridge across their short border. The trip seems timed ahead of the 25 October anniversary of China's first major victory in the Korean war, after Chinese troops crossed the Yalu River in October 1950. It's Kim's sixth visit to China.\n\nNext up, China's president Xi Jinping hosts the Asia Pacific Economic Cooperation (APEC) summit in Shenzhen on 18-19 November, sparking talk of a Kim meeting with US president Donald Trump. But Reuters reported US and South Korean officials see little chance of that happening this year.",
+    "why_it_matters": "North Korea tightening links with China and Russia while freezing out South Korea shapes security in the Asia-Pacific, a region Australia's safety and trade depend on.",
+    "deep_analysis": "## Historical Context\nChina entered the Korean war in October 1950 by crossing the Yalu River, and the article notes the visit falls ahead of the 25 October anniversary of its first major victory. As general background, China and North Korea have described their alliance as forged in that war, and China remains North Korea's biggest economic lifeline. The bridge itself sat finished but unused for 12 years due to North Korean delays.\n\n## Multiple Perspectives\n- **North Korea**: Kim frames ties as a \"historical friendship\" delivering \"tangible benefits\" to both peoples.\n- **China**: Sending Wang Huning and escorting Kim to the bridge signals warm, high-level backing; Xi visited Pyongyang in June, his first trip in seven years.\n- **South Korea**: Its unification ministry called the frequency of Kim Yo Jong's criticism unusual, reflecting worsening relations.\n- **US**: Despite speculation, Reuters reports officials see little chance of a Kim–Trump meeting this year.\n\n## What to Watch\n- Whether loudspeaker broadcasts at the inter-Korean border actually resume.\n- Trade and traffic over the new China and Russia road bridges.\n- Any diplomatic surprises around the APEC summit in Shenzhen on 18-19 November.",
     "concepts": [
      {
-      "term": "plenary session",
-      "definition": "A full meeting of all members of a body, here the Chinese Communist Party's powerful Central Committee.",
-      "context": "Kim's visit comes just before the fifth plenary session in Beijing on Monday."
+      "term": "unification ministry",
+      "definition": "The South Korean government department that handles affairs related to North Korea.",
+      "context": "It was one of the sources confirming Kim's crossing into China."
      },
      {
-      "term": "Korean War",
-      "definition": "The 1950-53 conflict between North Korea (backed by China) and South Korea (backed by US-led UN forces).",
-      "context": "Kim's trip coincides with the anniversary of China entering the war on the North's side."
+      "term": "bilateral relationship",
+      "definition": "The relationship between two countries.",
+      "context": "Kim and Wang promised to strengthen ties between North Korea and China."
      },
      {
-      "term": "Asia-Pacific Economic Cooperation",
-      "definition": "A regional forum of Pacific Rim economies, including Australia, that meets for an annual leaders' summit.",
-      "context": "China hosts the summit in Shenzhen in November, fuelling speculation about a Kim-Trump meeting."
+      "term": "loudspeaker broadcasts",
+      "definition": "Propaganda messages blasted across the border between North and South Korea.",
+      "context": "Kim Yo Jong announced plans to resume them, a sign of rising tension with Seoul."
      }
     ],
     "quiz": {
-     "question": "Why did the New Yalu River Bridge sit unused for 12 years after China finished it?",
+     "question": "What does the timing and setting of Kim's visit mainly signal?",
      "options": [
-      "It was damaged and needed repairs",
-      "North Korea lacked connecting roads and customs facilities",
-      "China refused to open it until Kim visited",
-      "Russia objected to the trade link"
+      "A Kim–Trump meeting has been confirmed",
+      "North Korea is showcasing strong ties with its main backers like China",
+      "North Korea is moving closer to South Korea",
+      "China is cutting support for North Korea"
      ],
      "answer_index": 1,
-     "explanation": "Reports say the delay was on the North Korean side, which lacked connecting roads and customs facilities."
+     "explanation": "The visit, the new bridges with China and Russia, and the war anniversary timing all underline Kim's ties with his backers, while relations with Seoul worsen and a Trump meeting looks unlikely."
     },
-    "impact_score": 52,
-    "image_url": "https://i.guim.co.uk/img/media/a6e54814cd5e9a475177ef8053ab6e6396f4d009/0_0_2988_4481/master/2988.jpg?width=1920&quality=85&auto=format&fit=max&s=f3293fbdf8e978dbfbef02db4fead070",
+    "impact_score": 45,
+    "image_url": "https://i.guim.co.uk/img/media/bacc10873965dc231eed0c7066ab2daf07428492/287_0_5753_4600/master/5753.jpg?width=1920&quality=85&auto=format&fit=max&s=0f6c440f531597033d5ce716df738170",
     "region": "Asia",
     "region_code": "ASIA",
-    "description": "North Korean leader Kim Jong Un has made a surprise visit to China, crossing a long-delayed new border bridge into the city of Dandong.",
+    "description": "North Korean leader Kim Jong-un crossed the newly opened New Yalu River Bridge into China's Dandong, meeting a senior Chinese official and pledging closer cooperation.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china"
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
+    "source_count": 1,
+    "confidence": 0.55,
     "related_story_ids": [],
     "reading_minutes": 2,
-    "created_at": "2026-10-24T12:04:57.430395+00:00",
-    "published_date": "2026-10-24",
+    "created_at": "2026-10-25T21:55:05.288582+00:00",
+    "published_date": "2026-10-26",
     "has_fulltext": true
    },
    {
@@ -498,6 +551,131 @@
    }
   ],
   "EUROPE": [
+   {
+    "id": "264cc4da-ef08-5587-bbcc-1be0f65b18e1",
+    "title": "Serbian leader Aleksandar Vučić concedes defeat in fiercely contested parliamentary election",
+    "simplified_title": "Serbia's Vučić admits defeat as student movement wins election",
+    "quick_summary": "Serbia's long-time leader Aleksandar Vučić has conceded a snap parliamentary election to a student-led protest movement, ending his party's 14-year grip on power.",
+    "simplified_body": "Serbia held a snap parliamentary election on Sunday, and veteran leader Aleksandar Vučić admitted his side lost. Based on sample results, he said the Student List would win roughly 135 to 140 seats, with his Serbian Progressive Party (SNS) on about 105. Projections differ a little: pollsters CeSID and Ipsos put the students on 138 seats, while monitor CRTA projected 134 seats and 51.2% of the vote. Either way, it's well over the 126 needed for a majority in the 250-seat parliament.\n\nThis affects everyone in Serbia, a country that is a candidate to join the European Union (EU). Turnout was a record, reported as 67.6% or nearly 70%, the highest since Yugoslavia broke up in 1992. Crowds celebrated in Belgrade's streets, some even hugging police who stepped aside.\n\nThe backstory: in November 2024 a concrete canopy collapsed at Novi Sad railway station, killing 16 people. Evidence pointed to shoddy construction, fraud and corruption, sparking student protests that grew into a nationwide anti-government movement. Vučić, described as increasingly authoritarian, called the snap election and accused the students of being foreign stooges, which they deny. The students ran 250 candidates under the slogan \"Serbia or Mafia?\" despite SNS dominating broadcast media.\n\nFinal results are still to come. Monitors reported problems including vote-buying attempts, photographed ballots, \"carousel voting\" and blocked access to the electoral commission. International observers are due to give their verdict. The students say the real work starts now.",
+    "why_it_matters": "It shows a grassroots youth movement peacefully voting out an entrenched, increasingly authoritarian government, a result being watched worldwide and likely to energise youth protests across Europe.",
+    "deep_analysis": "## Historical Context\nSerbia emerged from the breakup of Yugoslavia in 1992. One source quotes a voter fearing a repeat of what followed 5 October 2000, when Slobodan Milošević lost power, implying hopes for reform then went unmet. Vučić's SNS has governed for about 14 years. The protests began after the Novi Sad canopy collapse in November 2024 killed 16 people.\n\n## Multiple Perspectives\n- **Students:** Spokesperson Radomir Saičić called it \"a victory of courage over fear\" and stressed responsibility ahead.\n- **Vučić:** Conceded, but repeatedly accused rivals of lying and hinted at foreign interference. ABC reports he had been endorsed by Vladimir Putin.\n- **Neighbours:** Hungary's PM Péter Magyar, who ousted Viktor Orbán, quickly offered congratulations and support.\n- **Monitors:** CRTA flagged irregularities, violence near polling stations and blocked access to the electoral commission. UK MP Alicia Kearns called scenes \"deeply concerning\".\n- **Numbers differ:** Seat projections range from 134 to 140 for the Student List, and minority-party seats are estimated at five or ten depending on source.\n\n## What to Watch\n- Final official results and the international observers' report.\n- Whether the transfer of power is peaceful.\n- Whether the new majority delivers promised anti-corruption reform and accountability over Novi Sad.\n- Shifts in Serbia's EU path and its ties with Russia and China (background: these balancing acts were central to Vučić's pitch).",
+    "concepts": [
+     {
+      "term": "snap parliamentary election",
+      "definition": "An election called earlier than scheduled, usually by the government to gain advantage or settle a crisis.",
+      "context": "Vučić resigned the presidency to gamble on snap elections amid mounting protest pressure."
+     },
+     {
+      "term": "carousel voting",
+      "definition": "A fraud method where a pre-filled ballot is passed along a chain of voters, each swapping it for a fresh blank one to bring out.",
+      "context": "Independent monitors reported attempted carousel voting on election day."
+     },
+     {
+      "term": "Student List",
+      "definition": "The slate of 250 candidates backed by the student protest movement, from academics to athletes and farmers.",
+      "context": "It won a projected absolute majority in the 250-seat parliament."
+     }
+    ],
+    "quiz": {
+     "question": "What originally set off the protests that led to this election?",
+     "options": [
+      "Cuts to pensions and public sector pay",
+      "A decision to join the European Union",
+      "A disputed earlier election result",
+      "A deadly railway station canopy collapse linked to alleged corruption"
+     ],
+     "answer_index": 3,
+     "explanation": "The November 2024 Novi Sad canopy collapse killed 16 people; evidence of shoddy construction and corruption turned student protests into a nationwide movement."
+    },
+    "impact_score": 72,
+    "image_url": "https://i.guim.co.uk/img/media/d0ac487374d37670e2eb464c0588f1b0b5040ace/388_0_3360_2688/master/3360.jpg?width=1920&quality=85&auto=format&fit=max&s=b286353a657d5c16cbca08deb7d4333e",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "Serbia's long-time leader Aleksandar Vučić has conceded a snap parliamentary election to a student-led protest movement, ending his party's 14-year grip on power.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "3d095c16-f1c1-5b99-96e1-a613ef890af1",
+     "93ed7b29-3db1-5434-b0ca-e00bab5bcd20"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-10-25T21:55:09.016585+00:00",
+    "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
+    "id": "2be9dc55-7fb6-50be-8ead-edb339ada85d",
+    "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+    "simplified_title": "Marine Le Pen launches French presidential bid amid nationwide protests",
+    "quick_summary": "Far-right leader Marine Le Pen kicked off her presidential campaign in Orleans, pitching herself as France's law-and-order saviour while the country is rocked by mass protests.",
+    "simplified_body": "Marine Le Pen, leader of France's far-right National Rally (RN), launched her presidential campaign on Sunday in front of about 8,500 supporters in Orleans, according to organisers. She promised a French \"renaissance\" and vowed to \"re-establish the rule of law\". She's currently leading the polls, ahead of candidates from the right, left and centre.\n\nThe timing matters. France has been hit by protests since mid-September, started by high school students in a Paris suburb. On October 17, hundreds of thousands marched, shops were looted and more than 2,000 people were arrested. Le Pen is using the unrest to paint President Emmanuel Macron as incompetent and to accuse far-left leader Jean-Luc Melenchon of encouraging violence. Opponents protested the event, calling RN xenophobic and racist, and about 3,000 police were deployed the day before.\n\nSome background: RN was long seen as a fringe party tied to racism and anti-Semitism. Le Pen's father, Jean-Marie Le Pen, was convicted of hate speech and expelled in 2015. Over two decades the party has pursued dédiabolisation (de-demonisation), softening its image. It has dropped ideas like leaving the Eurozone, but Le Pen still plans a referendum challenging the primacy of European Union (EU) law over migration and wants to cut France's EU contribution by 11 billion euros a year. Membership has jumped from under 37,000 in 2022 to about 112,000.\n\nNext, watch the partnership with her protégé Jordan Bardella, pitched as her future head of government. He faces allegations, which he denies, of private anti-Semitic messages from his teens, and reportedly differs with Le Pen on economics and a headscarf ban. More protests are also being called.",
+    "why_it_matters": "A eurosceptic leading the EU's second-largest economy would send shockwaves through Europe, and that could ripple out to partners further afield, including Australia, which deals with both France and the EU.",
+    "deep_analysis": "## Historical Context\nThe article notes RN (formerly the National Front, as background) was once on the fringes, with founder Jean-Marie Le Pen convicted of hate speech, including calling Nazi gas chambers \"a detail of history\". Marine Le Pen expelled him in 2015 and pursued de-demonisation. Orleans was chosen deliberately: Joan of Arc lifted the English siege there in 1429, and the far right has long claimed her as a symbol of national resistance. As general background, Le Pen has run for president before and reached the final round, though she has never won.\n\n## Multiple Perspectives\nSupporters like 21-year-old student Manon Funeau say RN's values make them \"feel at home\", while others such as Nadede, 56, back the party over a perceived lack of security. Historian Baptiste Roger-Lacan says joining RN is becoming less socially damaging, but calls its programme \"fraught with fiscal absurdity\", says it still wants to implement \"racist laws\", and describes its diplomacy as pro-Russian and anti-EU. Anti-RN protesters call the party xenophobic and racist. Some observers say the October unrest has been a \"gift\" to RN, shifting attention from the Bardella allegations.\n\n## What to Watch\n- Whether protests continue and how much they shape the campaign.\n- Whether Le Pen holds her poll lead against Macron's camp, the right and Melenchon.\n- Fallout from the Mediapart allegations and Bardella's legal action.\n- Possible tension between Le Pen and Bardella over economics and the headscarf ban.\n- How the EU reacts to her referendum and budget-cut pledges.",
+    "concepts": [
+     {
+      "term": "dédiabolisation",
+      "definition": "French for 'de-demonisation': RN's long strategy of toning down its rhetoric and dropping toxic positions to win wider support.",
+      "context": "It helps explain how a once-fringe party now leads the polls and has nearly tripled its membership."
+     },
+     {
+      "term": "Eurozone",
+      "definition": "The group of EU countries that use the euro as their currency.",
+      "context": "RN used to want France to leave it but has abandoned that idea."
+     },
+     {
+      "term": "primacy of European Union (EU) law",
+      "definition": "The principle that EU law takes precedence over a member country's national law where they conflict.",
+      "context": "Le Pen wants a referendum challenging this when it comes to migration policy."
+     }
+    ],
+    "quiz": {
+     "question": "Why are the recent French protests seen as helping Le Pen's campaign?",
+     "options": [
+      "They let RN push its law-and-order message and criticise Macron's handling of security",
+      "They forced Macron to resign immediately",
+      "She organised the protests to boost turnout",
+      "The protesters were demanding she become president"
+     ],
+     "answer_index": 0,
+     "explanation": "The unrest lets RN present itself as the guarantor of law and order, attack Macron as incompetent, and shift attention away from the Bardella allegations."
+    },
+    "impact_score": 72,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ade66b4814e-1792960180.jpg?resize=1920%2C1440",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "Far-right leader Marine Le Pen kicked off her presidential campaign in Orleans, pitching herself as France's law-and-order saviour while the country is rocked by mass protests.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 6,
+    "created_at": "2026-10-25T21:55:08.180758+00:00",
+    "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
    {
     "id": "f2ee8ade-7544-530b-8570-9450fbeabf20",
     "title": "Ukraine: Starlink satellite speeds restored to normal",
@@ -1151,6 +1329,67 @@
     "reading_minutes": 5,
     "created_at": "2026-10-24T21:42:10.729726+00:00",
     "published_date": "2026-10-25",
+    "has_fulltext": true
+   },
+   {
+    "id": "8cae1516-167b-5d12-85cf-c8c05b54fa16",
+    "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+    "simplified_title": "Venezuelan opposition leader María Corina Machado returns home from exile",
+    "quick_summary": "Nobel peace prize winner María Corina Machado has returned to Venezuela after roughly 10 months in exile, arriving in a country now run by her arch-rival, interim president Delcy Rodríguez, with strong US backing.",
+    "simplified_body": "Venezuelan opposition leader María Corina Machado announced on Sunday that she's back in Venezuela, posting \"I'm here. With you\" on X. She turned up in Barquisimeto, in Lara state, where hundreds of supporters greeted her at a church, then headed towards the capital, Caracas, in a convoy. It isn't clear how she got back in. The Guardian says she'd made more than half a dozen failed attempts, and the BBC reports an adviser said she'd tried seven times.\n\nThis matters for Venezuelans because Machado leads the movement widely believed to have beaten former president Nicolás Maduro in the 2024 election. Maduro refused to hand over power. Government figures had hinted she'd be arrested if she came back, but there was no sign of the security services stopping her on Sunday.\n\nSome background: Machado slipped out of Venezuela last December to collect the Nobel peace prize in Norway. In January, US forces seized Maduro, who is now jailed in New York facing drugs, weapons and torture charges, which he denies. Instead of backing Machado, the Trump administration supported Maduro's deputy, Delcy Rodríguez, who became interim president and signed an oil deal with very favourable terms for the US. Machado even gave Trump her Nobel medal. Reports suggest the US had resisted her return, which it denies.\n\nWhat's next is unclear. Machado wants fresh presidential elections by July 2027 and has said she'd run. US Secretary of State Marco Rubio credits US-backed reconciliation talks for her safe return. However, The Guardian says it's unclear whether Washington supports her election timeline, given its lucrative partnership with Rodríguez.",
+    "why_it_matters": "Machado's return tests whether Venezuela is genuinely heading towards democracy or simply swapping one leader for another under heavy US influence. That's a question about how big powers treat smaller nations, which matters for any middle power like Australia that relies on a rules-based international order.",
+    "deep_analysis": "## Historical Context\nAccording to the sources, Machado won an independent opposition primary in 2023 with more than 90% of the vote but was barred from running by Maduro's government, which accused her of fraud and tax violations. She called those charges politically motivated. Her ally Edmundo González ran instead in 2024. The government-aligned electoral authority declared Maduro the winner without publishing detailed tallies, while the opposition uploaded copies of tallies it said showed González won. As general background, Venezuela had been under increasingly authoritarian rule for years before this, with a deep economic crisis driving millions of people to leave.\n\n## Multiple Perspectives\n- **Machado's camp** calls her return \"a major step toward a democratic transition\" and thanks Trump and Rubio.\n- **The US government**, through Rubio, says her return results from US-supported reconciliation talks that have freed hundreds of political prisoners. Trump said he knew nothing about it but hoped she was safe.\n- **Critics and reporting** in The Guardian suggest the US opposed her return to protect its \"cosy\" relationship with Rodríguez, and describe Venezuela as widely seen as a US protectorate. The BBC notes that the US has denied reports it delayed her return.\n- **Rodríguez's government** has hinted at arresting her in the past but did not act on Sunday.\n\n## What to Watch\n- Whether Rodríguez's government lets Machado campaign freely or moves to arrest her.\n- Whether González returns as promised.\n- Whether the US backs Machado's call for elections by July 2027.\n- How the oil deal shapes Washington's priorities.",
+    "concepts": [
+     {
+      "term": "exile",
+      "definition": "Living outside your home country, usually because it's unsafe or you're not allowed to return.",
+      "context": "Machado spent roughly 10 months in exile after leaving to collect her Nobel prize, and González is still in exile."
+     },
+     {
+      "term": "interim president",
+      "definition": "A temporary leader who governs until a permanent arrangement, such as an election, is made.",
+      "context": "Delcy Rodríguez became interim president after the US seized Maduro."
+     },
+     {
+      "term": "reconciliation talks",
+      "definition": "Negotiations aimed at easing conflict between rival political groups, often involving prisoner releases or the return of exiles.",
+      "context": "Rubio credits US-supported reconciliation talks for Machado's safe return."
+     }
+    ],
+    "quiz": {
+     "question": "Why was Machado's return seen as politically awkward for the Trump administration?",
+     "options": [
+      "Because the US had partnered with Machado's arch-rival, interim president Delcy Rodríguez",
+      "Because Machado had criticised Trump for removing Maduro",
+      "Because Machado supported Maduro staying in power",
+      "Because Machado had refused to give Trump her Nobel prize"
+     ],
+     "answer_index": 0,
+     "explanation": "The US backed Rodríguez after seizing Maduro and struck a lucrative oil deal with her government. Machado, Rodríguez's rival, could complicate that relationship, even though Machado has praised Trump."
+    },
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/949f75765f7c327cc45fe47e10e5daa133f62467/384_0_4871_3897/master/4871.jpg?width=1920&quality=85&auto=format&fit=max&s=b0cb8540a22de8342dbb0378144047a7",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Nobel peace prize winner María Corina Machado has returned to Venezuela after roughly 10 months in exile, arriving in a country now run by her arch-rival, interim president Delcy Rodríguez, with strong US backing.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-25T21:55:08.200848+00:00",
+    "published_date": "2026-10-26",
     "has_fulltext": true
    },
    {
@@ -1820,5 +2059,5 @@
    }
   ]
  },
- "total_stories": 29
+ "total_stories": 33
 }
