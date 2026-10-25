@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-24T21:41:35.903824+00:00",
+ "generated_at": "2026-10-25T06:17:47.227402+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -124,6 +124,67 @@
     "related_story_ids": [],
     "reading_minutes": 2,
     "created_at": "2026-10-24T21:42:27.521582+00:00",
+    "published_date": "2026-10-25",
+    "has_fulltext": true
+   },
+   {
+    "id": "2592ac42-42ae-59a2-ad9a-adecb9fff23f",
+    "title": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
+    "simplified_title": "Huge storm system hits eastern Australia as Queensland rivers flood",
+    "quick_summary": "An \"unusually large\" storm system stretching across several states brought hail, damaging winds and flood warnings to eastern Australia, with south-east Queensland bracing for its peak on Monday.",
+    "simplified_body": "A massive line of thunderstorms swept across eastern Australia on Sunday, with the Bureau of Meteorology (BoM) warning of hail, damaging winds, flash flooding and power outages across southern Queensland, western New South Wales (NSW), the Australian Capital Territory (ACT) and eastern Victoria. Wind gusts up to 100km/h hit central west NSW around midday. Meteorologist David Crock called it a \"multi-state system\" that's \"unusually large\".\n\nSouthern Queensland is copping the worst of the flooding. The Guardian reported eight flood warnings there, while the ABC described \"several\". The Mary River at Tiaro, north of Gympie, was rising fast and could hit major flood levels, and Gympie's Kidd Bridge was expected to close. Parts of the Sunshine Coast have had up to 400mm of rain in a week. In the Central Highlands, an Emergency Warning for flash flooding near Clermont was lifted on Sunday.\n\nWhy now? A high-pressure system sat over the Tasman Sea for about 10 days, acting as a blocking pattern that kept storms and rain parked over southern Queensland. A cold front from the west is now pushing it away, dragging in tropical moisture. It's a weather \"whiplash\" after a very dry September, with some areas getting three times their usual October rainfall.\n\nMonday is expected to be the peak for south-east Queensland, with a \"trifecta\" of large hail, damaging winds and heavy rain. Tuesday should be calmer, but forecasters say the severe storm risk may not fully clear until about Thursday. The BoM's long-range outlook suggests above-average rain for most of the country from November to January.",
+    "why_it_matters": "Millions of Australians across four states and territories were in the storm's path, and the flooding in south-east Queensland threatens homes, roads and bridges. With a wetter-than-usual summer forecast, this may not be the last round.",
+    "deep_analysis": "## Historical Context\nAccording to the BoM's long-term data, Australia has warmed by about 1.5C since 1910. As general background, a warmer atmosphere can hold more moisture, which is often linked to heavier downpours. Background note: the Mary River catchment around Gympie has a long history of flooding, so locals are used to watching it, which is why the mayor's comment that it's behaving less predictably than usual stands out.\n\n## Multiple Perspectives\nForecasters framed Monday as the \"last big bang\" (Crock) and a relief for south-east Queensland, though Felim Hanniffy cautioned the risk may linger until Thursday. Local leaders emphasised community roles: Isaac Regional Council's Kelly Vea Vea credited residents' \"local intelligence\" for early alerts, while Gympie's Glen Hartwig noted rivers rising faster than expected. The sources differ slightly on numbers: the Guardian cites eight Queensland flood warnings, the ABC says \"several\".\n\n## What to Watch\n- Whether the Mary River at Tiaro reaches major flood level.\n- Whether a second storm band forms behind the first.\n- Storm activity through Thursday.\n- Whether the forecast wetter-than-average November to January plays out, and the warm nights predicted for November.",
+    "concepts": [
+     {
+      "term": "blocking pattern",
+      "definition": "A stubborn weather system, like a high-pressure area, that stays put and stops other weather from moving through normally.",
+      "context": "High pressure over the Tasman Sea held storms and rain over southern Queensland for about 10 days."
+     },
+     {
+      "term": "cold front",
+      "definition": "The leading edge of a cooler air mass, which often triggers storms as it pushes into warm, moist air.",
+      "context": "A cold front from the west is shoving the blocking high away and sparking the storm line."
+     },
+     {
+      "term": "Emergency Warning",
+      "definition": "The highest level of public alert, meaning people must act immediately to protect themselves.",
+      "context": "One was issued for flash flooding near Clermont and lifted on Sunday."
+     }
+    ],
+    "quiz": {
+     "question": "Why had southern Queensland been getting so much rain before the big storm line arrived?",
+     "options": [
+      "A high-pressure system over the Tasman Sea was blocking weather from moving on",
+      "Snow melting in the Snowy Mountains fed the rivers",
+      "September had been unusually wet, saturating the ground",
+      "A cyclone had crossed the coast near Gympie"
+     ],
+     "answer_index": 0,
+     "explanation": "The BoM said high pressure over the Tasman Sea sat for about 10 days, blocking fronts and keeping storms and rain over southern Queensland. September was actually very dry."
+    },
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/bd77552df3d7c33d1c98eae539477a7f6e2cb755/527_0_5343_4273/master/5343.jpg?width=1920&quality=85&auto=format&fit=max&s=84a5cdc3b2bbda7f62d79a3e57b57fe1",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "An \"unusually large\" storm system stretching across several states brought hail, damaging winds and flood warnings to eastern Australia, with south-east Queensland bracing for its peak on Monday.",
+    "tier": "LOCAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-25/flood-warnings-queensland-braces-for-more-rain-storms/107306066"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-25T06:18:16.184925+00:00",
     "published_date": "2026-10-25",
     "has_fulltext": true
    },
@@ -389,6 +450,128 @@
   ],
   "EUROPE": [
    {
+    "id": "f2ee8ade-7544-530b-8570-9450fbeabf20",
+    "title": "Ukraine: Starlink satellite speeds restored to normal",
+    "simplified_title": "Ukraine's Starlink speeds restored after week of mysterious slowdown",
+    "quick_summary": "Ukraine says its Starlink and Starshield satellite connections are back to full speed after more than a week of restrictions that hampered drone operations, but nobody has clearly owned up to causing the slowdown.",
+    "simplified_body": "Ukraine's government says the Starlink satellite internet system and its military version, Starshield, are working properly again. Defence Minister Yevhenii Khmara said connections now stay stable at speeds above 400km/h. During the restrictions, devices lost connection at around 160km/h, which Ukrainian officials said hurt their ability to intercept Russian attack drones and forced some operations to be cancelled.\n\nThis matters most for Ukraine's soldiers, who rely on Starlink to pilot drones, run frontline logistics and communicate, especially in remote areas. President Volodymyr Zelenskyy said the fix was crucial for defending against jet-powered 'Shaheds' (Russian attack drones). The big question is who caused the slowdown. Elon Musk, whose company SpaceX runs Starlink, said limits on Starshield are decided by the US military and ultimately the President. Donald Trump and Defense Secretary Pete Hegseth denied the Pentagon (the US Department of Defense) ordered anything. Later, Musk also said Ukraine broke Starlink's terms of service by using it for offensive drone strikes, and that 'loophole' was closed. Zelenskyy blamed both: a message from the US government, carried out technically by SpaceX.\n\nFor background: relations between the US and Ukraine are strained. Trump has waived some sanctions on Russia and agreed to import Russian diesel, which Ukraine saw as a betrayal. Trump has also complained that Ukrainian strikes on Russian oil refineries push up global prices. Zelenskyy said the US threatened to stop sharing intelligence unless those strikes stopped, which Trump denied.\n\nNext, watch whether Ukraine can still use Starlink for long and medium-range attack drones; a presidential adviser said it is 'physically unable' to. Meanwhile, heavy fighting and drone strikes continue on both sides.",
+    "why_it_matters": "It shows how a modern war can hinge on one private company's satellite network, and how quickly access can change. For countries like Australia that also use commercial satellite services, it's a sharp reminder of the risks of depending on a single provider.",
+    "deep_analysis": "## Historical Context\nAccording to the sources, Ukraine uses both civilian Starlink and the more secure Starshield, built on Starlink technology and, per The Guardian, operated by the US government. The BBC notes the network of 10,000 low Earth orbit satellites is used heavily on remote parts of the battlefield, and that Russia is not authorised to use it. The slowdown came during a row over Ukrainian strikes on Russian oil infrastructure and Trump's deal to import Russian diesel, ahead of US midterm elections. As general background, Starlink has been central to Ukraine's communications since early in Russia's full-scale invasion, and questions about Musk's influence over its use have come up before.\n\n## Multiple Perspectives\nThe accounts of responsibility conflict. The Wall Street Journal, as reported by DW, said US officials believed Musk acted on his own. Musk said Starshield limits are decided by the US military and the President, then separately said Ukraine violated terms of service by using Starlink for offensive drone strikes. Trump said 'it wasn't me, and I don't think it was Elon'. Secretary of State Marco Rubio said the President can't direct a private company, which appeared to point at Musk. Vice-President JD Vance backed Musk, saying he wouldn't act without government direction. Zelenskyy said it was a US government message carried out by SpaceX, noting the limits applied only in Ukraine, not EU countries. Sources also differ on timing: Trump said service was restored on Thursday, but a European official told the Associated Press it wasn't fully working; Ukraine confirmed restoration on Saturday. The BBC adds that while Ukrainian refinery strikes have affected fuel prices, this year's rises are mainly due to the Iran war.\n\n## What to Watch\n- Whether Ukraine regains use of Starlink for long and medium-range attack drones, which an adviser says is currently impossible.\n- Any clear answer on who ordered the restrictions.\n- Whether US intelligence sharing with Ukraine stays intact.\n- How the diesel deal and sanctions waivers shape US–Ukraine ties around the midterms.",
+    "concepts": [
+     {
+      "term": "Starshield",
+      "definition": "A military-grade, more secure version of Starlink built on the same technology.",
+      "context": "Musk says the US military controls Starshield limits, which is why its role is central to the blame game."
+     },
+     {
+      "term": "Shaheds",
+      "definition": "Russian attack drones, here including jet-powered versions that fly fast.",
+      "context": "Zelenskyy said full speeds are needed to defend against them, since slow connections hurt interception."
+     },
+     {
+      "term": "terms of service",
+      "definition": "The rules a company sets for how customers may use its product.",
+      "context": "Musk claimed Ukraine broke Starlink's rules by using it for offensive drone strikes."
+     }
+    ],
+    "quiz": {
+     "question": "Why did the speed cap of about 160km/h cause problems for Ukraine's military?",
+     "options": [
+      "Fast-moving drones lost connection, hurting interceptions and missions",
+      "It stopped soldiers from using social media",
+      "It made Russia able to use Starlink",
+      "It shut down Ukraine's power grid"
+     ],
+     "answer_index": 0,
+     "explanation": "Drones travelling above the cap lost connection, which officials said hampered intercepting Russian drones and led to cancelled operations."
+    },
+    "impact_score": 68,
+    "image_url": "https://static.dw.com/image/79738872_6.jpg",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "Ukraine says its Starlink and Starshield satellite connections are back to full speed after more than a week of restrictions that hampered drone operations, but nobody has clearly owned up to causing the slowdown.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-25T06:18:18.494069+00:00",
+    "published_date": "2026-10-25",
+    "has_fulltext": true
+   },
+   {
+    "id": "07f0313a-e9af-5b21-b5e4-4c1f54e58ac2",
+    "title": "Macron says deadly shooting near Paris is a 'racist terrorist attack'",
+    "simplified_title": "Macron calls deadly shooting near Paris a 'racist terrorist attack'",
+    "quick_summary": "A gunman firing from his car killed one person and injured five in two towns near Paris, apparently targeting people of migrant origin, and France's president has called it a racist terrorist attack.",
+    "simplified_body": "A man drove through Trappes, south-west of Paris, and then nearby La Verrière, firing from his car over about 15 minutes. One person was killed and five were injured. Witnesses said he drove a grey Renault Clio, and the mayor of Trappes, Ali Rabeh, said people were shot at a petrol station, a medical centre and a playground. The suspect was arrested in La Verrière.\n\nThe attacker appeared to target people of migrant origin. Three of the injured are in a serious condition, including a 12-year-old girl who was shot eight times. Her mother said the girl was wearing a headscarf and wondered if that was why she was targeted. President Emmanuel Macron called it \"a racist terrorist attack\" and a \"turning point\" for France, saying it was the first random racial killing like this.\n\nThe suspect, named in French media as Kevin T, is 39. He was known to police but, according to local media, not to intelligence services, and he wasn't on France's list of serious security threats. The National Anti-Terrorist Prosecutor's Office (PNAT) says he had four previous convictions that were \"automatically expunged\". Police say he used an older semi-automatic gun, and the newspaper Le Parisien reports it dated back to World War Two.\n\nThe exact motive is still unclear. PNAT is investigating murder linked to a terrorist enterprise, possession of a Category A weapon, and conspiracy with a terrorist group. A member of the suspect's immediate family has also been taken into custody, so more details may come out as the investigation continues.",
+    "why_it_matters": "Macron is framing this as a new kind of threat in France: random violence aimed at people because of their skin colour or religion. That raises hard questions about how authorities spot dangerous people who aren't on any watchlist.",
+    "deep_analysis": "## Historical Context\nAccording to the source, Macron said this was the first time France had seen a random racial killing like this, calling it a \"turning point\" for the Republic. As general background, France has dealt with many terrorist attacks in the past decade, and debates about immigration, religion and identity are a big part of its politics. Trappes and La Verrière are suburbs with communities of migrant origin.\n\n## Multiple Perspectives\nMacron and PNAT treat the attack as terrorism, with PNAT describing it as \"murder in connection with a terrorist enterprise\". Still, the source stresses that the exact motive remains unclear. Mayor Ali Rabeh described the shooting as random and aimed at causing \"carnage\". The injured girl's mother put the focus on belonging, saying her French-born daughter \"has the right to live in France\". The suspect's record raises its own questions: he was known to police, but his convictions had been expunged and he wasn't on the threat list.\n\n## What to Watch\n- Whether investigators confirm a racist motive or any links to a wider group, given the conspiracy line of inquiry.\n- What role the detained family member played, if any.\n- How he got a World War Two-era, Category A weapon.\n- Political debate over how authorities monitor people who aren't flagged by intelligence services.\n- How the three seriously injured victims recover.",
+    "concepts": [
+     {
+      "term": "expunged",
+      "definition": "Officially erased from a person's criminal record.",
+      "context": "The suspect's four earlier convictions had been automatically expunged, which may help explain why he wasn't seen as a serious risk."
+     },
+     {
+      "term": "Category A weapon",
+      "definition": "A French legal category covering military-grade weapons or guns that can fire in bursts.",
+      "context": "Prosecutors are investigating him for possessing this kind of weapon."
+     },
+     {
+      "term": "terrorist enterprise",
+      "definition": "A French legal term for a crime committed with the aim of seriously disrupting public order through intimidation or terror.",
+      "context": "PNAT says the killing appeared to be murder connected to a terrorist enterprise, which is why anti-terror prosecutors are handling the case."
+     }
+    ],
+    "quiz": {
+     "question": "Why is this case being handled by France's anti-terrorism prosecutors rather than treated as an ordinary murder?",
+     "options": [
+      "Because the suspect was on France's list of serious security threats",
+      "Because the gun was from World War Two",
+      "Because the attack appeared to target people for their skin colour or religion and is being investigated as linked to a terrorist enterprise",
+      "Because the attack happened in two different towns"
+     ],
+     "answer_index": 2,
+     "explanation": "PNAT says the shooting appeared to be murder connected to a terrorist enterprise, and Macron said victims were targeted over skin colour or religion. The suspect was not on the threat list."
+    },
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "A gunman firing from his car killed one person and injured five in two towns near Paris, apparently targeting people of migrant origin, and France's president has called it a racist terrorist attack.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-25T06:18:14.775823+00:00",
+    "published_date": "2026-10-25",
+    "has_fulltext": true
+   },
+   {
     "id": "d92321ee-32e9-5d8e-9ae9-4845ceea9903",
     "title": "Hundreds of thousands march across France in protests over schools and policing",
     "simplified_title": "Hundreds of thousands march in France over schools, policing and living costs",
@@ -517,142 +700,77 @@
     "created_at": "2026-10-24T21:42:10.431336+00:00",
     "published_date": "2026-10-25",
     "has_fulltext": true
-   },
+   }
+  ],
+  "MIDDLE_EAST_AFRICA": [
    {
-    "id": "a3e229d2-ee0e-5ebb-b160-29b8584650a5",
-    "title": "Romania blames Russia after drone sinks ship in the Black Sea",
-    "simplified_title": "Romania blames Russia after drone sinks cargo ship in Black Sea",
-    "quick_summary": "A drone strike sank the cargo ship Khoryv just off Romania's Black Sea coast, killing at least one sailor and leaving three missing, and Romania has blamed Russia.",
-    "simplified_body": "On Friday, a drone hit the Comoros-flagged cargo ship Khoryv about 13 nautical miles (24km) off Romania's port of Constanta, just outside Romania's territorial waters. The ship sank. Of its 13 Ukrainian and Azeri crew, nine were rescued, one body was recovered and three are still missing. Bad weather and low visibility made the search harder.\n\nThis matters to sailors and shipping firms using the western Black Sea, and to Ukraine, which relies on this route to export goods. Romania and Bulgaria are both members of NATO (the North Atlantic Treaty Organization, a Western military alliance), so attacks so close to their coasts raise fears the Russia-Ukraine war could escalate. Romania's President Nicusor Dan blamed Russia, and European Commission President Ursula von der Leyen called the attacks \"reckless\". Russia didn't immediately comment, and has previously denied responsibility for deadly drone attacks in the region.\n\nSome background: because Russia has attacked Ukraine's own Black Sea ports, Ukrainian exporters now lean on ports along the Danube River and Romanian waters, with Romania's Sulina port as a key gateway. The sources count the toll differently: Al Jazeera says at least seven cargo ships were hit and 30 sailors killed or missing in two weeks, while DW says Khoryv is believed to be the fourth ship attacked off Romania this month, citing Reuters' earlier figure of about 23 dead or missing in the 10 days to October 15.\n\nWhat's next? Ukraine, Romania and Bulgaria asked NATO to fast-track extra surveillance. NATO says it will send more maritime patrol aircraft and radar systems, and Al Jazeera adds drones. NATO hasn't blamed any country for the attacks.",
-    "why_it_matters": "Attacks on merchant ships right on NATO's doorstep risk widening the war and disrupting a key export route for Ukrainian goods. Any escalation involving NATO members would ripple out to allies and partners worldwide, including Australia.",
-    "deep_analysis": "## Historical Context\nBackground: Russia's full-scale invasion of Ukraine began in February 2022, and the Black Sea has been contested ever since. According to the sources, Russian attacks on Ukraine's own Black Sea ports have pushed Ukrainian exporters towards Danube River ports and Romanian waters, making the western Black Sea, near NATO members Romania and Bulgaria, a vital corridor. Al Jazeera notes that Romanian warplanes shot down two Russian drones over Romanian territorial waters on the Saturday before the sinking.\n\n## Multiple Perspectives\n- **Romania:** President Nicusor Dan called it a consequence of Russia's aggression and urged Russia to accept ceasefire proposals. Prime Minister Luca Niculescu called it a flagrant violation of international law.\n- **EU and neighbours:** Ursula von der Leyen called the attacks reckless. Moldova said Russia's escalation threatens freedom of navigation.\n- **Bulgaria:** It has accused Russia of edging too close to its exclusive economic zone.\n- **NATO:** It is boosting surveillance but has not blamed any country.\n- **Russia:** It did not immediately comment, and has previously denied responsibility for deadly drone attacks in the region.\n- **Data disagreement:** Al Jazeera reports at least seven ships hit and 30 sailors dead or missing in two weeks. DW says Khoryv is the fourth ship attacked off Romania this month, citing an earlier Reuters tally of about 23.\n\n## What to Watch\n- Whether NATO's extra patrol aircraft, radar and drones reduce attacks.\n- Any Russian response or denial.\n- Whether attacks move inside NATO territorial waters, which would sharpen the risk of escalation.\n- Effects on Ukrainian exports via Sulina and the Danube.",
+    "id": "d83687dc-daf6-5e1c-87b9-7f98e012cce1",
+    "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+    "simplified_title": "Iran blames US for failed peace deal as fears of new strikes grow",
+    "quick_summary": "Iran's president says the US wrecked an interim deal to end their war, while a US intelligence memo warns Iran is stepping up plots against American personnel.",
+    "simplified_body": "Iranian President Masoud Pezeshkian has blamed Washington for the collapse of an interim deal meant to end Iran's war with the United States and Israel, but says both sides should return and \"conclude it\". This comes after US President Donald Trump said he \"may do another little Epic Fury\", the codename for the US-Israeli war on Iran. Meanwhile, a memo from US national intelligence director Jay Clayton warns Iran has \"substantially increased efforts to target US personnel\" in the Middle East and elsewhere.\n\nPeople across the region are in the firing line. Iran's Islamic Revolutionary Guard Corps (IRGC) says even limited strikes would bring a response \"several times greater\". The US has ordered non-emergency embassy staff out of Saudi Arabia, partly because Yemen's Iran-backed Houthis have been attacking Saudi airports, killing at least 21 people since early October, according to Saudi authorities.\n\nSome background: the war began on February 28, when US-Israeli strikes killed Iran's supreme leader. His son, Mojtaba Khamenei, replaced him and hasn't been seen in public since. Iran hit back at US allies and effectively closed the Strait of Hormuz, a channel carrying around a fifth of the world's oil and gas. A preliminary agreement in June collapsed within weeks, after Iranian attacks on shipping resumed and the US reinstated its blockade, pushing oil prices up.\n\nWhat's next is uncertain. Israelis vote on Tuesday, and Israeli Prime Minister Benjamin Netanyahu says he's still committed to overthrowing Iran's government. Trump's Republicans face midterm elections on November 3. Fears are growing that fighting could restart as soon as this weekend.",
+    "why_it_matters": "A renewed war could keep the Strait of Hormuz disrupted and oil prices high, which flows through to fuel costs for countries like Australia that rely on global energy markets.",
+    "deep_analysis": "## Historical Context\nAccording to the sources, the US-Israeli war on Iran began on February 28, killing Iran's then supreme leader. A preliminary US-Iran deal in June to end the war and reopen the Strait of Hormuz collapsed within weeks. Separately, Yemen's civil war dates to 2014, when the Houthis ousted the government from Sanaa, escalating in 2015 with a Saudi-led intervention. An informal ceasefire there began unravelling in July. As general background, the Strait of Hormuz has long been one of the world's most important energy chokepoints, which is why disruptions there move global prices.\n\n## Multiple Perspectives\n- **Iran:** President Pezeshkian blames the US but wants to finish the deal; spokesperson Fatemeh Mohajerani says Iran \"seeks peace\" but won't wait for permission to defend itself. Military chief Ali Abdollahi says US forces won't be allowed in the Gulf.\n- **US:** Trump hints at more strikes; intelligence chief Jay Clayton says Iranian plots against US citizens have reached \"advanced stages\".\n- **Israel:** Netanyahu remains committed to overthrowing Iran's government.\n- **Houthis:** Say attacks on Saudi Arabia retaliate for a Saudi blockade and an air strike on Sanaa airport.\nNote the framing: the sources don't give exactly the same account of why the June deal failed. The BBC links it to resumed Iranian attacks on shipping and the US reinstating its blockade, while Al Jazeera reports Iran blaming Washington.\n\n## What to Watch\n- Whether Trump orders another round of strikes, and how the IRGC responds.\n- Israel's election on Tuesday and the US midterms on November 3.\n- Any return to negotiations led by Iran's chief negotiator Mohammad Bagher Ghalibaf.\n- Houthi attacks on Saudi Arabia and further US embassy staffing changes.\n- Oil prices and shipping through the Strait of Hormuz.",
     "concepts": [
      {
-      "term": "territorial waters",
-      "definition": "The strip of sea next to a country's coast that it legally controls as part of its territory.",
-      "context": "The Khoryv was hit just outside Romania's territorial waters, so the attack happened very close to, but not inside, NATO territory."
+      "term": "Islamic Revolutionary Guard Corps",
+      "definition": "A powerful branch of Iran's armed forces, separate from the regular military.",
+      "context": "It warned that any US strikes would be met with a much bigger response."
      },
      {
-      "term": "NATO",
-      "definition": "The North Atlantic Treaty Organization, a military alliance whose members pledge to defend one another.",
-      "context": "Romania and Bulgaria are NATO members, so attacks near their coasts raise fears of a wider conflict."
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage out of the Gulf that around a fifth of the world's oil and gas usually travels through.",
+      "context": "Iran effectively closed it during the war, sending oil prices up."
      },
      {
-      "term": "Comoros-flagged",
-      "definition": "Registered under the flag of Comoros, an island nation. Ships often fly a flag of convenience that differs from their owners' or crew's nationality.",
-      "context": "The Khoryv flew Comoros' flag even though its crew were Ukrainian and Azeri."
+      "term": "Houthis",
+      "definition": "An Iran-backed armed group in Yemen that took the capital Sanaa in 2014.",
+      "context": "Their attacks on Saudi airports led the US to pull non-emergency embassy staff from Saudi Arabia."
+     },
+     {
+      "term": "interim deal",
+      "definition": "A temporary or preliminary agreement meant to pause a conflict while a fuller deal is worked out.",
+      "context": "The US-Iran interim deal from June fell apart within weeks."
      }
     ],
     "quiz": {
-     "question": "Why has the western Black Sea near Romania become so important for Ukraine?",
+     "question": "Why does the Strait of Hormuz matter so much to the wider world in this conflict?",
      "options": [
-      "Romania has banned all Russian ships from the Black Sea",
-      "NATO has built new ports for Ukraine in Bulgaria",
-      "Ukraine's ports are closed for winter every year",
-      "Russia has attacked Ukraine's own Black Sea ports, so exporters rely on Danube ports and Romanian waters"
+      "It's where Iran's supreme leader lives",
+      "Around a fifth of the world's oil and gas usually passes through it, so closure pushes prices up",
+      "It's the main route for Houthi attacks on Riyadh airport",
+      "It's the site of Israel's upcoming election"
      ],
-     "answer_index": 3,
-     "explanation": "Both sources describe this as a vital corridor. Al Jazeera explains that Russian attacks on Ukraine's ports pushed exporters to the Danube and Romanian waters."
+     "answer_index": 1,
+     "explanation": "The BBC reports roughly a fifth of global oil and gas usually travels through the strait, so its effective closure helped send oil prices surging."
     },
-    "impact_score": 62,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad7e5888d08-1792533896.jpg?resize=1920%2C1440",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "A drone strike sank the cargo ship Khoryv just off Romania's Black Sea coast, killing at least one sailor and leaving three missing, and Romania has blamed Russia.",
+    "impact_score": 80,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26271650639081-1791496832.jpg?resize=1920%2C1440",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Iran's president says the US wrecked an interim deal to end their war, while a US intelligence memo warns Iran is stepping up plots against American personnel.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss"
      },
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-rdf"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
     "related_story_ids": [
-     "125d29b9-508a-5f59-9f71-fabf8ce8d6f8",
-     "d30189ff-6a38-5bdf-9167-96edac892f4b"
+     "7baab65b-f998-52c8-ab46-6f78a33bf23d",
+     "9c42b941-4022-56e0-a2bc-58434166e6e5",
+     "adabd6c4-a1b8-5204-9a50-3b162f5bf191"
     ],
     "reading_minutes": 2,
-    "created_at": "2026-10-23T22:22:58.386690+00:00",
-    "published_date": "2026-10-24",
-    "has_fulltext": true
-   }
-  ],
-  "MIDDLE_EAST_AFRICA": [
-   {
-    "id": "adabd6c4-a1b8-5204-9a50-3b162f5bf191",
-    "title": "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
-    "simplified_title": "Trump hints at new Iran strikes as countries urge restraint",
-    "quick_summary": "Donald Trump says the US may launch \"another little Epic Fury\" on Iran, while eight European and Middle Eastern countries meeting in Istanbul warned that fresh strikes would spread the war and push oil prices higher.",
-    "simplified_body": "US President Donald Trump told a rally in Florida on Friday that \"We may do another little Epic Fury\", referring to the joint Israeli-American military operation that started the war with Iran at the end of February. He didn't give details, but he has previously signalled he's open to resuming strikes, though not before the US congressional elections on November 3.\n\nMeanwhile, foreign ministers from eight countries met at a summit in Istanbul and urged the US and Israel not to renew attacks. Turkey's Hakan Fidan said a new attack \"would spread the war and the conflict in the region.\" The group, described as a new \"anti-war bloc\", included Egypt, Pakistan, Saudi Arabia, France, the UK, Germany and Italy. They also called for an end to Houthi attacks on Saudi Arabia and for the strait of Hormuz, currently blockaded by Iranian ships and drones, to be reopened.\n\nSome background: the war is nearing its eight-month mark, and talks over Iran's nuclear programme are deadlocked. Oil prices have hit their highest level since May, and rising fuel prices are weighing on the US midterm elections. Germany's Johann Wadephul said people feel the effects \"at the petrol pump or the supermarket\" and warned of famine risk elsewhere.\n\nWhat's next? Watch whether Trump moves on strikes after November 3, whether the Istanbul group gains influence, and whether diplomacy can reopen Hormuz before prices climb further.",
-    "why_it_matters": "A wider war and a blocked strait of Hormuz push up global energy and fertiliser costs, which can flow through to petrol and grocery prices worldwide, including here in Australia.",
-    "deep_analysis": "## Historical Context\nAccording to the sources, the war began at the end of February with the joint US-Israeli operation called Epic Fury, and is now nearing eight months. As general background, the strait of Hormuz is a narrow waterway that a large share of the world's seaborne oil passes through, which is why any blockade rattles energy markets. The Houthis are a Yemen-based armed group; the sources say Saudi Arabia is fending off their drone and missile attacks on airports and energy sites.\n\n## Multiple Perspectives\n- **Trump/US:** Signals openness to more strikes after a long diplomatic deadlock, but apparently not before the November 3 elections, when fuel prices are a political concern.\n- **Istanbul group:** Turkey, Italy and France say there is no purely military solution and another war would worsen oil prices. The UK's Ed Miliband urged diplomacy.\n- **Germany:** Wadephul didn't criticise the US, instead blaming the Houthis and Iran for \"blackmailing world trade.\"\n- **Iran:** France 24 reports Iran says there is no military solution as talks with the US stall.\nNote the meeting was unprecedented, giving European ministers rare input after largely being bystanders.\n\n## What to Watch\n- Any US moves toward strikes after November 3.\n- Whether Egypt joins the Mecca defensive security pact formed by Pakistan, Turkey and Saudi Arabia in August.\n- Oil price movements and any progress reopening Hormuz.\n- Whether nuclear talks restart.",
-    "concepts": [
-     {
-      "term": "Epic Fury",
-      "definition": "The name of the joint Israeli-American military operation that started the war with Iran.",
-      "context": "Trump referred to it when hinting at another attack."
-     },
-     {
-      "term": "strait of Hormuz",
-      "definition": "A narrow sea passage vital for global oil shipping, currently blockaded by Iranian ships and drones.",
-      "context": "Ministers demanded it be reopened immediately."
-     },
-     {
-      "term": "anti-war bloc",
-      "definition": "A new grouping of countries pushing against renewed military action on Iran.",
-      "context": "Formed at the Istanbul summit of eight European and Middle Eastern nations."
-     },
-     {
-      "term": "Houthi",
-      "definition": "An armed group attacking Saudi Arabia with drones and missiles.",
-      "context": "The summit called for an end to these assaults."
-     }
-    ],
-    "quiz": {
-     "question": "Why are European and Middle Eastern ministers warning against new strikes on Iran?",
-     "options": [
-      "Iran has already agreed to a peace deal",
-      "They believe it would spread the conflict and push oil prices higher",
-      "They want the US to win the war faster",
-      "They plan to join the strikes themselves"
-     ],
-     "answer_index": 1,
-     "explanation": "Ministers said a new attack would widen the war in the region and worsen already-rising oil prices."
-    },
-    "impact_score": 78,
-    "image_url": "https://s.france24.com/media/display/f8bb93a2-cf20-11f1-9296-bdb9616e85cf/w:1280/p:16x9/AP26296694621760.jpg",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Donald Trump says the US may launch \"another little Epic Fury\" on Iran, while eight European and Middle Eastern countries meeting in Istanbul warned that fresh strikes would spread the war and push oil prices higher.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/americas/20261023-trump-says-us-may-launch-another-little-epic-fury-attack-iran"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "161b8573-a58d-5e1b-baa9-8c6caba38306",
-     "7baab65b-f998-52c8-ab46-6f78a33bf23d",
-     "938d55fd-561c-5289-999e-daf1c9d0d934",
-     "9c42b941-4022-56e0-a2bc-58434166e6e5"
-    ],
-    "reading_minutes": 1,
-    "created_at": "2026-10-23T22:22:57.430020+00:00",
-    "published_date": "2026-10-24",
+    "created_at": "2026-10-25T06:18:17.643036+00:00",
+    "published_date": "2026-10-25",
     "has_fulltext": true
    },
    {
@@ -854,6 +972,69 @@
     "created_at": "2026-10-24T03:48:17.207318+00:00",
     "published_date": "2026-10-24",
     "has_fulltext": true
+   },
+   {
+    "id": "39c9a926-ada7-56e9-afa0-7563c7f96203",
+    "title": "Nine killed and 40 injured after gunmen open fire at church funeral in Jordan",
+    "simplified_title": "Gunmen attack church funeral in Jordan, killing several mourners",
+    "quick_summary": "Gunmen opened fire on a funeral at a Greek Orthodox church in Jordan's Karak governorate on Friday, killing at least seven people (the Guardian says nine) in a rare attack on the country's Christian minority.",
+    "simplified_body": "On Friday, gunmen opened fire on mourners at a funeral at St George's Greek Orthodox church in Hamoud (also spelt Hmoud), in Jordan's Karak governorate. The sources disagree on the toll: the Guardian reports nine dead and 40 injured, while the BBC says seven dead and at least 34 injured, after officials revised the number several times. Security camera footage verified by news outlets shows three attackers, and the BBC says they appeared to carry handguns and fled in a pickup truck.\n\nThe attack hit Jordan's Christian minority, which has a sizeable community in Karak. Witnesses described panic, with people diving under pews as shooting went on for several minutes. Officials called it a terrorist act by \"extremists\", but the interior minister said it was too early to say whether they were linked to any known group. No-one has claimed responsibility.\n\nJordan is a majority-Muslim country that is usually stable, and attacks like this are rare. The interior minister called it \"unparalleled\" in the kingdom's history. King Abdullah II, a key United States partner against militant Islamist groups, visited Karak and promised the harshest response. The United Nations (UN) secretary general, António Guterres, condemned the attack.\n\nThe hunt for the gunmen is continuing. Security has been stepped up at malls, embassies and other sites across Jordan. Some locals are angry, calling for a tougher approach to extremism and asking where these ideas come from.",
+    "why_it_matters": "An attack on worshippers in one of the Middle East's more stable countries raises worries about extremism spreading in a region already shaken by conflict involving Iran this year.",
+    "deep_analysis": "## Historical Context\nAccording to the sources, Jordan is relatively stable and attacks like this are rare, though the BBC notes deadly attacks have happened before, and US authorities say they've foiled attempted Islamist militant attacks in recent years. The Guardian adds that Jordan was hit by Iranian attacks this year after the US and Israel struck Iran in February. As general background, Jordan is home to one of the region's long-established Christian communities and several biblical sites that draw pilgrims.\n\n## Multiple Perspectives\nThe government frames the attack as blind extremism that won't divide Jordanians, with the king promising an \"iron fist\". Some residents back that but criticise what they see as a past failure to be tougher on terrorists, while others want the state to probe how extremist ideas reach young people. International voices, including the UN chief, the US ambassador to the UN and Lebanon's Christian president Joseph Aoun, condemned it. Reported casualty figures differ between outlets.\n\n## What to Watch\nWhether the attackers are caught, whether any group claims responsibility or is linked to it, the final confirmed death toll, and whether Jordan tightens security or anti-extremism policy in response.",
+    "concepts": [
+     {
+      "term": "governorate",
+      "definition": "An administrative region, a bit like a state or province, used in countries such as Jordan.",
+      "context": "The church is in Karak governorate, in central Jordan."
+     },
+     {
+      "term": "Greek Orthodox",
+      "definition": "A branch of Eastern Christianity with a long history across the Middle East.",
+      "context": "St George's, the targeted church, is a Greek Orthodox church."
+     },
+     {
+      "term": "claimed responsibility",
+      "definition": "When a group publicly says it carried out an attack.",
+      "context": "No-one has claimed responsibility, so it's unclear who was behind the shooting."
+     }
+    ],
+    "quiz": {
+     "question": "Why do reports of the death toll differ?",
+     "options": [
+      "Officials revised the figures several times and outlets reported different numbers",
+      "The attackers released their own figures",
+      "Only one outlet visited the hospital",
+      "The UN refused to confirm any numbers"
+     ],
+     "answer_index": 0,
+     "explanation": "The BBC says officials revised the toll from seven to six and back to seven, while the Guardian reported nine dead, so the sources disagree."
+    },
+    "impact_score": 55,
+    "image_url": "https://i.guim.co.uk/img/media/c5dd22b7faaff144d117160192cbbd75a914bf8f/1009_0_7240_5792/master/7240.jpg?width=1920&quality=85&auto=format&fit=max&s=eb93f743a98d03fde29cb6e98c809cb2",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Gunmen opened fire on a funeral at a Greek Orthodox church in Jordan's Karak governorate on Friday, killing at least seven people (the Guardian says nine) in a rare attack on the country's Christian minority.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "20f16213-bf92-5ce5-a647-9adea8ab1a6d"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-10-25T06:18:13.961149+00:00",
+    "published_date": "2026-10-25",
+    "has_fulltext": true
    }
   ],
   "AMERICAS": [
@@ -1046,72 +1227,6 @@
   ],
   "GLOBAL_SYSTEMS": [
    {
-    "id": "7baab65b-f998-52c8-ab46-6f78a33bf23d",
-    "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-    "simplified_title": "Oil prices surge as fears grow of renewed US strikes on Iran",
-    "quick_summary": "Brent crude oil jumped past $117 a barrel, its highest since April, as attacks in the Gulf and threats from Iran raised fears of a wider Middle East conflict.",
-    "simplified_body": "Oil prices have jumped to their highest level in months. Brent crude, the international benchmark for oil, rose about 3% on Thursday to hit $112 a barrel, then climbed roughly 3.5% more on Friday to pass $117 at one point, before easing to just over $116. One report calls it a five-month high, the other its highest in more than six months.\n\nThe spike follows a rough week. Iran-aligned Houthi rebels from Yemen hit targets in Saudi Arabia, killing people at a civilian airport and an oilfield. Iran's Islamic Revolutionary Guard Corps (IRGC) said it struck four ships near the strait of Hormuz, and Tehran warned it would attack oil facilities, undersea cables, datacentres and AI facilities in the Gulf if a new US-Israeli offensive came. Higher oil prices ripple out: stock markets in Europe and Asia fell, and American Airlines warned fuel costs would push it into a loss this year.\n\nSome background: the Iran war began after US-Israeli attacks in February, when Brent sat around $72. Iran effectively blocked the strait of Hormuz, a key shipping route, and oil peaked at $126 in April. Prices fell to about $71 in early July on ceasefire hopes, then rose again when a memorandum of understanding between the US and Iran fell apart. Interestingly, data from Kpler shows Gulf oil exports are now above prewar levels, partly thanks to pipelines bypassing Hormuz.\n\nWhat's next? Analysts say there are widespread reports the US may consider renewed strikes on Iran after its 3 November midterm elections. Ukraine's attacks on Russian diesel refineries are also adding to supply worries.",
-    "why_it_matters": "Oil is priced globally, so a jump in Brent tends to flow through to fuel, transport and airfare costs everywhere, Australia included, and markets expect it could push up inflation and borrowing costs.",
-    "deep_analysis": "## Historical Context\nAccording to the sources, Brent traded near $72 in February before the war, surged past $100 in the first weeks after US-Israeli attacks on Iran, peaked at $126 in April, and fell to about $71 in early July on ceasefire hopes. Prices climbed again after a US-Iran memorandum of understanding collapsed. As general background, the strait of Hormuz has long been one of the world's most important oil chokepoints, which is why disruption there moves markets so sharply.\n\n## Multiple Perspectives\nBroker analysts Richard Hunter and Susannah Streeter point to fears of renewed US strikes after the midterms, intensifying Houthi attacks and dangerous shipping in Hormuz. Iran's IRGC frames its ship strikes as targeting \"illegal\" oil transfers and warns of wider retaliation. Yet Kpler data suggests actual Gulf exports exceed prewar levels, hinting that prices may reflect fear of future disruption more than current shortages. The two reports also differ slightly on framing, describing the high as five months versus more than six months.\n\n## What to Watch\n- US decisions after the 3 November midterm elections.\n- Whether Iran follows through on threats to Gulf energy and digital infrastructure.\n- Houthi attacks on Saudi facilities and shipping safety in Hormuz.\n- Flow-on effects to inflation, interest rates and airline profits.",
-    "concepts": [
-     {
-      "term": "Brent crude",
-      "definition": "A type of oil used as the main international reference price for crude oil.",
-      "context": "When news says 'oil hit $117', it usually means Brent crude."
-     },
-     {
-      "term": "strait of Hormuz",
-      "definition": "A narrow sea passage out of the Persian Gulf that a large share of the world's oil ships pass through.",
-      "context": "Iran's effective blockade of it triggered the big price spike earlier in the war."
-     },
-     {
-      "term": "memorandum of understanding",
-      "definition": "A formal but usually non-binding agreement setting out what two parties intend to do.",
-      "context": "The collapse of the US-Iran one helped push oil prices back up."
-     }
-    ],
-    "quiz": {
-     "question": "Kpler data shows Gulf oil exports are above prewar levels, yet prices are rising. What best explains this?",
-     "options": [
-      "Oil companies have stopped producing oil",
-      "Markets are reacting to fears of future disruption and escalation",
-      "The war has officially ended",
-      "Brent crude is only sold in the US"
-     ],
-     "answer_index": 1,
-     "explanation": "Prices are rising on fears of renewed US strikes, Iranian threats and attacks, even though current export volumes are high, partly via pipelines."
-    },
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/c0f302e34e0b51e7da8489af30c4f6d217592b8a/424_0_4520_3616/master/4520.jpg?width=1920&quality=85&auto=format&fit=max&s=965e95f168a08dedaa93cef1c79def6e",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "Brent crude oil jumped past $117 a barrel, its highest since April, as attacks in the Gulf and threats from Iran raised fears of a wider Middle East conflict.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "161b8573-a58d-5e1b-baa9-8c6caba38306",
-     "938d55fd-561c-5289-999e-daf1c9d0d934",
-     "9c42b941-4022-56e0-a2bc-58434166e6e5",
-     "adabd6c4-a1b8-5204-9a50-3b162f5bf191"
-    ],
-    "reading_minutes": 1,
-    "created_at": "2026-10-23T22:22:57.172996+00:00",
-    "published_date": "2026-10-24",
-    "has_fulltext": true
-   },
-   {
     "id": "9c42b941-4022-56e0-a2bc-58434166e6e5",
     "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
     "simplified_title": "AI tech stocks slump worldwide while oil prices surge on Iran war",
@@ -1179,45 +1294,45 @@
    },
    {
     "id": "113847ed-f5c1-5869-b285-d2cef2b6cb50",
-    "title": "White House says the US is lifting tariffs on some Canadian goods",
-    "simplified_title": "US drops some Canada tariffs, adds others, just before midterm elections",
-    "quick_summary": "The White House is removing its 50% tariffs on some Canadian goods from 30 October while adding new ones on other products, a move reported to help Republicans like Senator Susan Collins ahead of the US midterms.",
-    "simplified_body": "The White House announced on Friday that from 30 October it will stop taxing some Canadian goods, including plywood sheets, some paper products, certain machinery and refrigeration equipment, and some packing crates and boxes. But it's not a straight cut: new tariffs will apply to other Canadian products such as certain valves, carpets and waste products.\n\nThe changes matter most to US border states like Maine, whose economies are tightly linked to Canada. Republican Senator Susan Collins, in a tight re-election race against Democrat Troy Jackson, first announced the exemptions and said they would help Maine's blueberry, potato, apple and seaweed producers, who rely on Canadian equipment and packaging. The Wall Street Journal reported the exemptions were aimed at helping Collins and other Republicans in the midterm elections on 3 November.\n\nSome background: a tariff is a tax on imported goods. The US and Canada have been in a trade dispute since President Donald Trump returned to office. When talks broke down in the summer (DW says August), Trump put a 50% tariff on some Canadian goods and Canadian Prime Minister Mark Carney responded with retaliatory tariffs, sparking an escalating trade war.\n\nWhat next? Trump says Canada is \"working very hard\" on a deal. Carney says Canada is open to a deal but willing to wait months, or even for another administration, to get a proper one. Canada hadn't commented on the announcement yet.",
-    "why_it_matters": "It shows how trade policy can be shaped by election politics, and how tariff swaps can shuffle costs around rather than remove them. For Australia, which also trades heavily with the US, it's a reminder that even close allies can end up in tariff fights.",
-    "deep_analysis": "## Historical Context\nAccording to the sources, the US-Canada dispute began after Trump returned to the White House last year and escalated when talks collapsed in the summer, leading to 50% US tariffs and Canadian retaliation. A Canada-United States Economic Relations Advisory Committee has met nine times since April 2026. As general background, the two countries have long had deeply integrated economies, which is why tariffs hit both sides of the border.\n\n## Multiple Perspectives\n- **White House:** Frames the move as protecting American prosperity and national security and offsetting what it calls Canada's \"discriminatory treatment\".\n- **Susan Collins:** Says Maine farmers need Canadian equipment and packaging that can't easily be replaced, and wants a broader trade deal.\n- **Critics/reporting:** The Wall Street Journal reported the exemptions were designed to help Republicans in the midterms, and that cuts could be offset by higher levies elsewhere.\n- **Canada:** Carney says Canada will sign a fair deal but won't rush; Ottawa hadn't responded to the announcement.\n- **Other Republicans:** Michigan's Mike Rogers, after backing the policy, has urged Trump to end the standoff.\n\nNote: sources differ slightly on timing. BBC says talks collapsed \"this summer\" and calls it a \"month-long\" trade war; DW specifies August.\n\n## What to Watch\n- The Maine Senate result on 3 November.\n- Whether Canada responds or adjusts its retaliatory tariffs.\n- Further exemptions or a broader deal after the midterms.",
+    "title": "US lifts tariffs on some Canadian goods before midterm elections",
+    "simplified_title": "US eases some Canada tariffs just before midterm elections",
+    "quick_summary": "Two weeks before the US midterm elections, the Trump administration is lifting its 50% tariffs on some Canadian goods like plywood and farm equipment, while adding new ones on items like carpets, after Maine Senator Susan Collins lobbied for relief.",
+    "simplified_body": "The White House says that from 30 October it will ease its 50% tariffs on some Canadian products, including \"plywood sheets, some paper products, certain machinery and refrigeration equipment\" and some packing crates and boxes. At the same time, it's adding new tariffs on other items such as carpets, certain valves and \"waste products\".\n\nThe change matters most to US states that trade heavily with Canada. Republican Senator Susan Collins, who is in a tight race to keep her seat in Maine, says she lobbied senior Trump officials for the relief. She says the goods are crucial to Maine's blueberry, potato, apple and seaweed producers. Her Democratic challenger, Troy Jackson, says she helped enable the trade war in the first place.\n\nSome background: the US put a 50% tariff on $20bn worth of Canadian goods after trade talks collapsed in August. Canadian Prime Minister Mark Carney hit back \"dollar for dollar\" with retaliatory tariffs. Trump says Canada treats US car, dairy and alcohol exports unfairly. The midterm elections, held halfway through a president's term, will decide whether Republicans or Democrats control Congress for Trump's last two years.\n\nWhat's next? Trump says Canada is \"working very hard\" on a deal. Carney says Canada could sign \"this afternoon\" if the US were ready, but is willing to wait months, or even for another administration. Canada's minister Dominic LeBlanc says Canada is assessing the changes.",
+    "why_it_matters": "It shows how tariffs can shift for political reasons right before an election, a reminder for trade-reliant countries like Australia that US trade policy can change quickly and unpredictably.",
+    "deep_analysis": "## Historical Context\nAccording to DW, Washington and Ottawa have been in a trade dispute since Trump returned to the White House last year, escalating when talks broke down in August. BBC notes a Canada-US advisory committee has met nine times since April 2026. As general background, the US and Canada have long been deeply integrated trading partners, and Collins herself calls Canada the US's largest trading partner.\n\n## Multiple Perspectives\n- **White House:** frames the move as defending American workers and addressing Canada's \"discriminatory treatment\" of US commerce, while reducing the burden on US commerce.\n- **Susan Collins:** says Maine farmers rely on Canadian equipment and packaging they can't easily replace, and wants a broader deal.\n- **Troy Jackson:** argues Collins enabled the trade war and is now seeking credit for a small fix.\n- **Canada:** Carney and LeBlanc say they're open to a fair deal but willing to wait. Carney has also sought closer ties with Europe.\n- **Other Republicans:** Michigan's Mike Rogers has called on Trump to end the standoff after earlier backing the policy.\n\n## What to Watch\n- Whether the midterm results shift US trade policy.\n- Whether more exemptions follow, as Collins says she'll keep pushing.\n- How Canada responds to the new tariffs on carpets, valves and waste products.\n- Whether talks produce a broader deal, or Canada waits for a different administration.",
     "concepts": [
      {
-      "term": "tariff",
-      "definition": "A tax a government charges on goods imported from another country.",
-      "context": "The US has charged 50% tariffs on some Canadian goods, raising costs for businesses that buy them."
+      "term": "tariffs",
+      "definition": "Taxes a government charges on goods imported from another country.",
+      "context": "The US charges a 50% tariff on some Canadian goods, making them pricier for American buyers."
      },
      {
       "term": "retaliatory tariffs",
-      "definition": "Tariffs one country imposes in response to tariffs placed on it by another country.",
-      "context": "Canada answered the US 50% tariffs with its own, escalating the trade war."
+      "definition": "Tariffs a country imposes in response to another country's tariffs.",
+      "context": "Canada matched the US tariffs \"dollar for dollar\" after talks collapsed."
      },
      {
       "term": "midterm elections",
-      "definition": "US national elections held halfway through a president's four-year term, deciding seats in Congress.",
-      "context": "The tariff changes come just before the 3 November midterms, where Collins is fighting to keep her seat."
+      "definition": "US elections held halfway through a president's four-year term that decide who controls Congress.",
+      "context": "They will decide whether Republicans or Democrats control Congress for Trump's final two years."
      }
     ],
     "quiz": {
-     "question": "Why might the tariff change not mean lower overall costs on Canadian goods?",
+     "question": "Why is the timing of this tariff change drawing attention?",
      "options": [
-      "Because the changes don't take effect until next year",
-      "Because Canada has cancelled all its exports",
-      "Because the exemptions only apply to US-made goods",
-      "Because new tariffs are being added to other Canadian products like valves and carpets"
+      "It was requested by Canada's Prime Minister",
+      "It removed every tariff on Canadian goods",
+      "It came right after Canada signed a new trade deal with the US",
+      "It came two weeks before midterm elections, after a senator in a tight race lobbied for it"
      ],
      "answer_index": 3,
-     "explanation": "The White House removed some products from the tariff list but replaced them with others, such as certain valves, carpets and waste products, so costs are shifted rather than simply cut."
+     "explanation": "The easing was announced less than a fortnight before the midterms, and Susan Collins, in a close race in Maine, said she had pushed for it. No deal has been signed and some new tariffs were added."
     },
     "impact_score": 55,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "The White House is removing its 50% tariffs on some Canadian goods from 30 October while adding new ones on other products, a move reported to help Republicans like Senator Susan Collins ahead of the US midterms.",
+    "description": "Two weeks before the US midterm elections, the Trump administration is lifting its 50% tariffs on some Canadian goods like plywood and farm equipment, while adding new ones on items like carpets, after Maine Senator Susan Collins lobbied for relief.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
@@ -1234,8 +1349,65 @@
     "confidence": 0.7000000000000001,
     "related_story_ids": [],
     "reading_minutes": 3,
-    "created_at": "2026-10-23T22:22:57.816560+00:00",
-    "published_date": "2026-10-24",
+    "created_at": "2026-10-25T06:18:14.800165+00:00",
+    "published_date": "2026-10-25",
+    "has_fulltext": true
+   },
+   {
+    "id": "99d587e3-6919-5206-8dd3-070c4971e84a",
+    "title": "Trump announces Audi will build $4 billion factory in US state of Georgia",
+    "simplified_title": "Audi to build $4 billion SUV factory in Georgia, Trump says",
+    "quick_summary": "US President Donald Trump announced that German carmaker Audi will build a US$4 billion factory in Georgia to make 200,000 SUVs a year, crediting his tariffs for the decision.",
+    "simplified_body": "At a campaign rally in Perry, Georgia, on Saturday, US President Donald Trump announced that German carmaker Audi will build a US$4 billion (€3.77 billion) assembly plant in the state. He said it will produce 200,000 SUVs (sport utility vehicles) a year, and credited his tariff policies for the decision.\n\nAudi, which is owned by Volkswagen, says the plant will create about 4,500 jobs. A US official told Reuters it is expected to build the Audi Q7, Q8 and Q9 SUVs. Construction is scheduled to start next year, but cars won't roll off the line until the early 2030s, so the jobs and cars are a long way off.\n\nSome background: Trump has pushed companies to move production to the US, including through sweeping tariffs on car imports. Those tariffs cost Audi €1.2 billion (US$1.4 billion) last year, which gives a sense of why building cars inside the US might appeal to the company.\n\nThe timing is political. Georgia is a battleground state, and the midterm elections are on November 3. Republicans are bracing for losses amid rising prices and the ongoing war in Iran, and Trump is trying to show he has delivered on his promise to revive American manufacturing. Whether the announcement shifts votes, and whether the plant is built on schedule, remains to be seen.",
+    "why_it_matters": "It shows how tariffs can push global companies to relocate factories rather than just raise prices. There's no direct Australian angle in the source, but it's a clear example of US trade policy reshaping where big multinationals invest.",
+    "deep_analysis": "## Historical Context\nAccording to the source, Trump has used sweeping tariffs on car imports to pressure companies into producing in the US, and those tariffs cost Audi €1.2 billion last year. As general background, foreign carmakers have long built plants in the American South, and governments have often used tariffs to try to attract local manufacturing.\n\n## Multiple Perspectives\nTrump credits his tariffs directly for Audi's decision and frames it as a manufacturing win. Audi has confirmed the investment, timeline and roughly 4,500 jobs, though the source doesn't report Audi explaining its reasons. Critics might note the announcement's timing: it came at a rally in a battleground state ahead of midterms where Republicans expect losses over rising prices and the Iran war. As background, sceptics of tariffs generally argue they raise costs for consumers, which links to the price concerns mentioned.\n\n## What to Watch\n- Whether construction actually starts next year as scheduled.\n- Production slated for the early 2030s, long after the November 3 midterms.\n- How the midterm results in Georgia play out.\n- Whether other foreign carmakers make similar announcements.",
+    "concepts": [
+     {
+      "term": "tariff",
+      "definition": "A tax a government charges on goods imported from other countries.",
+      "context": "Trump's tariffs on imported cars cost Audi €1.2 billion last year, and he says they drove the decision to build in the US."
+     },
+     {
+      "term": "battleground state",
+      "definition": "A US state where elections are close, so either party could win it.",
+      "context": "Georgia is one, which is why Trump made the announcement at a rally there."
+     },
+     {
+      "term": "midterm elections",
+      "definition": "US elections held halfway through a president's four-year term, deciding seats in Congress.",
+      "context": "The midterms are on November 3, and Republicans are bracing for losses."
+     }
+    ],
+    "quiz": {
+     "question": "Why might making cars inside the US appeal to Audi, based on the article?",
+     "options": [
+      "US tariffs on imported cars have cost Audi a lot of money",
+      "Germany has banned SUV production",
+      "Georgia is offering free land to all carmakers",
+      "Volkswagen is closing all its European factories"
+     ],
+     "answer_index": 0,
+     "explanation": "The article says Trump's tariffs on car imports cost Audi €1.2 billion last year; building in the US avoids those import taxes. The other options aren't in the source."
+    },
+    "impact_score": 55,
+    "image_url": "https://static.dw.com/image/74909685_6.jpg",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "US President Donald Trump announced that German carmaker Audi will build a US$4 billion factory in Georgia to make 200,000 SUVs a year, crediting his tariffs for the decision.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-10-25T06:18:28.352025+00:00",
+    "published_date": "2026-10-25",
     "has_fulltext": true
    }
   ],
@@ -1600,5 +1772,5 @@
    }
   ]
  },
- "total_stories": 25
+ "total_stories": 28
 }
