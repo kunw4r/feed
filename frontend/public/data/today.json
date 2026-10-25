@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "generated_at": "2026-10-25T06:17:47.227402+00:00",
+ "generated_at": "2026-10-25T12:38:49.273240+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -67,6 +67,70 @@
     ],
     "reading_minutes": 2,
     "created_at": "2026-10-24T21:42:10.312829+00:00",
+    "published_date": "2026-10-25",
+    "has_fulltext": true
+   },
+   {
+    "id": "d7c9dd90-79e2-5574-8c47-051c54c94499",
+    "title": "Federal police chief links threats against MPs directly to political debate",
+    "simplified_title": "Federal police chief says heated political talk is fuelling threats to MPs",
+    "quick_summary": "After independent MP Helen Haines was hit by a car outside her electorate office, the Australian Federal Police (AFP) Commissioner says inflammatory political debate is directly linked to threats and abuse against politicians.",
+    "simplified_body": "Australian Federal Police (AFP) Commissioner Krissy Barrett told the ABC's Insiders program there is a \"direct correlation\" between heated political discourse and threats against parliamentarians, and that sometimes the reaction is \"very immediate\". Asked whether One Nation cartoons showing politicians being hit by cars were the kind of material she meant, she said they could be. \"Words matter,\" she said.\n\nHer comments follow an attack on independent MP Helen Haines, the member for Indi, who was hit by a car outside her Wangaratta electorate office last week. She is in a serious but stable condition and has had both legs amputated. Brendan Nugent, 43, has been arrested and charged. Barrett said working out a motive could take weeks or even months, and police still need to determine whether it was linked to her role as an MP.\n\nSome background: the AFP is responsible for protecting federal politicians. Barrett said she reads a daily report of threats, which some days runs \"pages and pages\". She said the shift from hate mail to online threats has boosted the volume, and while men and women MPs get threatened equally, women are more often singled out individually, often with threats of sexual violence. She stressed police don't want to police free speech.\n\nWhat's next: parliament returns to Canberra on Monday, with MPs from both sides reflecting on the tone of debate. The AFP has held emergency safety briefings and is considering measures like personal duress alarms, but Barrett said MPs must ultimately make their own safety decisions. Labor minister Catherine King flagged a possible review of security at Parliament House.",
+    "why_it_matters": "Australian MPs pride themselves on being easy for voters to reach, and this attack is forcing a hard look at how to keep that open access without putting politicians in danger.",
+    "deep_analysis": "## Historical Context\nAccording to the sources, Labor minister Catherine King says MPs have been warning for around five years that it was \"when, not if\" someone would be harmed; she stopped using her mobile caravan because it had no second exit. Barrett said the move from physical hate mail to online threats has driven up the volume. As general background, attacks on politicians in other democracies, such as the UK, have previously prompted similar debates about rhetoric and access.\n\n## Multiple Perspectives\nBarrett draws a direct link between political discourse and threats but says she won't police free speech. Liberal frontbencher Ted O'Brien says robust debate is fundamental but \"personal nastiness is not\", and he wants to keep attending community events because open access is \"a cornerstone of democracy\". King says MPs are \"very well looked after\" by the AFP while acknowledging security may be reassessed. Note: the motive in the Haines attack has not been established; Barrett mentioned media reporting about the accused's mental health and social media footprint but said all of that still needs to be worked through. The sources do not include a response from One Nation.\n\n## What to Watch\n- Whether police establish a motive in the Haines case\n- Any changes to security at Parliament House or electorate offices, including duress alarms\n- Whether the tone of debate shifts when parliament returns\n- How parties respond to scrutiny of inflammatory content like the cartoons",
+    "concepts": [
+     {
+      "term": "duress alarms",
+      "definition": "Personal devices someone can trigger to signal they are in danger and need help.",
+      "context": "The AFP is considering them for MPs, though Barrett says calling Triple Zero is still the most effective option in an emergency."
+     },
+     {
+      "term": "electorate office",
+      "definition": "An MP's local office in the area they represent, where constituents can visit them.",
+      "context": "Helen Haines was attacked outside hers in Wangaratta."
+     },
+     {
+      "term": "political discourse",
+      "definition": "The way politicians and the public talk and argue about political issues.",
+      "context": "Barrett says certain kinds of it are directly correlated with threats against MPs."
+     }
+    ],
+    "quiz": {
+     "question": "What is the AFP Commissioner's main argument about threats against MPs?",
+     "options": [
+      "Only female MPs receive threats",
+      "Threats should be handled by limiting free speech",
+      "Spikes in threats often follow periods of heated political debate",
+      "Threats have dropped since the move to online communication"
+     ],
+     "answer_index": 2,
+     "explanation": "Barrett said there is a direct correlation between heated discourse and threats, sometimes very immediate, while stressing she doesn't want to police free speech. She said men and women are threatened equally, though women are more often singled out."
+    },
+    "impact_score": 68,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/7826c34ebbbb16c105769fd12c6a4850?impolicy=wcms_watermark_news&cropH=2880&cropW=5120&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "After independent MP Helen Haines was hit by a car outside her electorate office, the Australian Federal Police (AFP) Commissioner says inflammatory political debate is directly linked to threats and abuse against politicians.",
+    "tier": "LOCAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-25/federal-police-link-threat-to-politicians-to-political-debate/107306080"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "326e3f25-5c22-55e5-ad47-25ac7896dbe2",
+     "a448ed13-778f-5a6f-8038-c6d46e3a0cd6"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-10-25T12:39:18.342959+00:00",
     "published_date": "2026-10-25",
     "has_fulltext": true
    },
@@ -248,75 +312,60 @@
   ],
   "ASIA": [
    {
-    "id": "47334557-722c-545c-b005-5b4afb85686b",
-    "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
-    "simplified_title": "Magnitude-7 earthquake in Tibet kills 16 and flattens hundreds of homes",
-    "quick_summary": "A magnitude-7 earthquake struck the Nagqu area of northern Tibet on Thursday night, killing at least 16 people, injuring dozens and collapsing at least 339 homes.",
-    "simplified_body": "A magnitude-7 earthquake hit a remote, high-altitude part of northern Tibet at 10:33pm local time on Thursday, centred in Baqên County in the Nagqu region. Chinese state media say at least 16 people died and at least 339 homes collapsed. Injury figures differ between reports: 54, 65 and 76 have all been quoted, with the ABC reporting the most recent rise to 76.\n\nMore than 12,000 residents were evacuated, and many spent the night outside in subzero temperatures, afraid aftershocks would trap them indoors. Thousands of rescuers have been deployed, along with tents, prefabricated housing and winter clothing. Rockfalls closed part of National Highway 317, trains were halted, and power and phone services dropped out in some areas. Snow is expected over the next three days.\n\nTibet sits at around 4,800m and is very seismically active, meaning earthquakes happen often. In January 2025, a quake in Tibet's Tingri county killed at least 126 people. Reports also disagree on technical details: the US Geological Survey (USGS) put the depth at 18km according to the ABC, while The Guardian reported 11 miles. Shallow quakes tend to do more damage. Because foreign media are restricted in Tibet, Chinese state media is the main source of information.\n\nOfficials are worried about more building collapses and rockslides as aftershocks continue; state media reported more than 400 by Friday morning. President Xi Jinping has called for an all-out rescue effort, something he does only for major disasters, and Beijing has set aside 50 million yuan for relief.",
-    "why_it_matters": "It's a deadly disaster in one of the world's most remote and tightly controlled regions, where harsh cold and censorship make it hard to know the full scale of the damage. For Australians, it's a reminder of how much we depend on independent reporting to understand disasters in our region.",
-    "deep_analysis": "## Historical Context\nThe sources note that Tibet came under Chinese control in the 1950s and has had a tense relationship with Beijing since, with many Tibetans rejecting controls on their culture and religion. Recent disasters include the January 2025 quake in Tingri (Shigatse region), which killed at least 126, and the December 2023 Gansu quake, which killed at least 134 according to The Guardian (the BBC says more than 120). China's deadliest recent quake was in Yunnan in 2014, with more than 600 dead. As general background, the Tibetan plateau was formed by the Indian plate pushing into Eurasia, which is why earthquakes there are frequent.\n\n## Multiple Perspectives\nChinese officials stress fast mobilisation: thousands of rescuers, three rounds of household searches, drones and emergency funding. The BBC notes that plateau rescue teams are experienced. However, The Guardian and the BBC point out that foreign media can't freely access the region, so the numbers can't be independently checked. The Guardian says this censorship obscured the scale of August's floods. The figures also vary between outlets, including injuries (54/65/76), rescuer numbers (1,600 vs 5,000+), supplies and depth. Some of this reflects updates as the situation developed, and some may be conversion errors.\n\n## What to Watch\n- Whether the death toll stays at 16 as searches finish\n- Damage from aftershocks and rockslides, plus the effects of snow and cold on people who have been displaced\n- How quickly the highway, railway, power and communications are restored\n- Whether any independent information emerges beyond state media",
+    "id": "f2e44388-a948-597f-bb8c-0af53ae9b7c6",
+    "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
+    "simplified_title": "Rahul Gandhi calls Delhi rally over 130 million voter roll deletions",
+    "quick_summary": "Opposition leader Rahul Gandhi has called for a 1 November rally in New Delhi as protests grow over India's voter roll revision, which has removed more than 130 million names from draft electoral rolls.",
+    "simplified_body": "Congress leader and Member of Parliament Rahul Gandhi has urged students, farmers, workers, women, young people and traders to join a \"Save the Vote, Save the Country\" march and rally at Delhi's Ramlila Maidan on 1 November. In a post on X, he alleged the ruling Bharatiya Janata Party (BJP) was \"stealing\" votes, writing that names had been removed from voter lists and rules broken.\n\nThe fight is over the Election Commission's Special Intensive Revision (SIR) of electoral rolls, which has so far removed more than 130 million names from draft rolls nationwide. Critics say it could disenfranchise eligible voters and help Prime Minister Narendra Modi's BJP. In Hyderabad, hundreds formed a human chain on Saturday, with participants alleging nearly half of Telangana's electorate could be affected. The Election Commission says the exercise simply verifies and updates the rolls.\n\nSome background: groups including the youth-led Cockroach Janta Party (CJP) and the All India Students' Association (AISA) want Chief Election Commissioner (CEC) Gyanesh Kumar to resign after a newspaper investigation alleged impropriety in the revision. Hyderabad protesters also want the Chief Election Commissioner Act, 2023, which appointed Kumar, repealed. Student leader Neha Bora has refused to sign a police peace bond, arguing peaceful protest isn't a breach of the peace.\n\nNext up: Telangana's final electoral rolls are due on 9 November, a week after Gandhi's rally. Bora says they'll challenge how such peace bonds are used in court.",
+    "why_it_matters": "Who gets to vote is the foundation of any democracy, and the scale here — over 130 million names cut from draft rolls in the world's most populous democracy — is huge. For Australians used to an independent electoral commission and compulsory enrolment, it's a reminder of how much trust in election bodies matters.",
+    "deep_analysis": "## Historical Context\nAccording to the source, India's Election Commission is running a Special Intensive Revision of electoral rolls that has cut more than 130 million names from draft lists. Earlier this month, a bloc of opposition parties protested in Delhi demanding CEC Gyanesh Kumar's resignation. As general background, voter roll clean-ups are normal in democracies to remove deceased or duplicate entries, but large-scale deletions often spark fears that genuine voters, especially poorer or marginalised people, will be wrongly removed.\n\n## Multiple Perspectives\n- **Opposition (Rahul Gandhi, Congress):** says votes are being \"stolen\" by the BJP and laws broken.\n- **Protest groups (CJP, AISA, civil society, Dalit, farmer and student groups):** want the SIR scrapped, deleted voters restored, Kumar removed and the 2023 Act repealed. They also condemn police action against protesters.\n- **Election Commission:** defends the SIR as a routine exercise to verify and update rolls.\n- **Police and courts:** the Delhi High Court dismissed Neha Bora's challenge to a police peace-bond notice; Bora disputes the evidence police cited.\n\n## What to Watch\n- Turnout and tone at the 1 November Ramlila Maidan rally.\n- Telangana's final electoral rolls on 9 November, and whether deleted names are restored.\n- Further court challenges over peace bonds and the right to protest.\n- Any response from the Election Commission to the newspaper investigation's impropriety allegations.",
     "concepts": [
      {
-      "term": "magnitude-7",
-      "definition": "A measure of how much energy an earthquake releases; each step up the scale is roughly 32 times more energy.",
-      "context": "A 7 is a major quake, the biggest in the region in five years according to CCTV."
+      "term": "Special Intensive Revision (SIR)",
+      "definition": "A large-scale review by India's Election Commission to verify and update the lists of who's allowed to vote.",
+      "context": "It has removed more than 130 million names from draft rolls, sparking the protests."
      },
      {
-      "term": "aftershocks",
-      "definition": "Smaller quakes that follow a big one as the ground settles.",
-      "context": "They can topple buildings that were already weakened, which is why residents slept outside."
+      "term": "disenfranchise",
+      "definition": "To take away someone's right to vote.",
+      "context": "Critics fear eligible voters will be wrongly dropped from the rolls."
      },
      {
-      "term": "seismically active",
-      "definition": "Describes an area where earthquakes happen often because of movement in the Earth's crust.",
-      "context": "Explains why Tibet has had several deadly quakes in recent years."
-     },
-     {
-      "term": "state media",
-      "definition": "News outlets run or controlled by the government.",
-      "context": "In Tibet, state media is the main source of information because foreign journalists are restricted."
+      "term": "peace bond",
+      "definition": "A legal promise, often backed by money and a guarantor, to keep the peace, issued by police or courts.",
+      "context": "Neha Bora refused to sign one, saying peaceful protest isn't a breach of the peace."
      }
     ],
     "quiz": {
-     "question": "Why is it hard to independently confirm how bad the damage is in Nagqu?",
+     "question": "Why are protesters most worried about the Special Intensive Revision?",
      "options": [
-      "Nobody lives in the affected area",
-      "The quake destroyed every camera in Tibet",
-      "The USGS refuses to share data",
-      "Foreign media are restricted and information mostly comes from Chinese state media"
+      "It moves the national election date",
+      "It introduces compulsory voting",
+      "It raises the voting age",
+      "They fear eligible voters are being wrongly removed from electoral rolls, possibly helping the ruling party"
      ],
      "answer_index": 3,
-     "explanation": "The sources say foreign media are restricted in Tibet and information is heavily censored, so state media is the main source of updates."
+     "explanation": "Critics say the SIR, which has cut over 130 million names from draft rolls, could disenfranchise eligible voters and benefit the BJP; the Election Commission says it's just verification."
     },
-    "impact_score": 55,
-    "image_url": "https://i.guim.co.uk/img/media/2b752e0d59c4399c02caaf09d97ac8759514aa0f/195_0_1350_1080/master/1350.jpg?width=1920&quality=85&auto=format&fit=max&s=2a04c37c8087942d559d0c9f5f27fa41",
+    "impact_score": 72,
+    "image_url": "https://static.dw.com/image/79568976_6.jpg",
     "region": "Asia",
     "region_code": "ASIA",
-    "description": "A magnitude-7 earthquake struck the Nagqu area of northern Tibet on Thursday night, killing at least 16 people, injuring dozens and collapsing at least 339 homes.",
+    "description": "Opposition leader Rahul Gandhi has called for a 1 November rally in New Delhi as protests grow over India's voter roll revision, which has removed more than 130 million names from draft electoral rolls.",
     "tier": "GLOBAL",
-    "category": "ENVIRONMENT_CLIMATE",
+    "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-24/rescuers-search-for-survivors-after-earthquake-in-tibet/107304378"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o"
+      "name": "DW",
+      "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "734c5bf2-dc73-5e5d-a2b8-c7834571671e"
-    ],
-    "reading_minutes": 2,
-    "created_at": "2026-10-24T06:01:11.957876+00:00",
-    "published_date": "2026-10-24",
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 10,
+    "created_at": "2026-10-25T12:39:18.193420+00:00",
+    "published_date": "2026-10-25",
     "has_fulltext": true
    },
    {
@@ -839,6 +888,71 @@
     "has_fulltext": true
    },
    {
+    "id": "e7784c73-91ca-5926-a3c8-70bbbc84035f",
+    "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+    "simplified_title": "Kenya records second Ebola death during its first-ever outbreak",
+    "quick_summary": "A 65-year-old woman related to Kenya's first Ebola victim has died in quarantine, making her the country's second death in its first ever outbreak of the disease.",
+    "simplified_body": "Kenya has recorded its second death from Ebola. The victim was a 65-year-old woman, a close family member of the first person to die, a man who had travelled from the Democratic Republic of Congo (DR Congo). She was already in quarantine when she developed symptoms on 13 October. The first death happened on 5 October in Nairobi, Kenya's capital.\n\nSeven other patients are being treated in isolation: three more relatives of the first victim, three health workers and a hospital cleaner. Kenya's health ministry says all cases are in \"one cluster, with no evidence of community spread\". Still, the US has warned its citizens against travelling to Kenya, and neighbours such as Uganda, Ethiopia and Somalia are on alert.\n\nSome background: Ebola is a rare but deadly virus that spreads through contact with infected bodily fluids like blood or vomit. It can cause vomiting, diarrhoea, organ failure and sometimes bleeding. This outbreak involves the Bundibugyo species, which has no approved vaccine or treatment, though trials are under way. More than 4,000 people have died in Africa since Ebola was confirmed in DR Congo in May, making it the second most deadly outbreak of the disease.\n\nKenya now requires travellers from DR Congo and nine other high-risk countries to fill in a digital surveillance form and show a QR code on arrival. Nigeria says its only confirmed case appears genetically related to a strain found in Kenya, and investigators are checking whether both patients passed through Uganda's Entebbe airport. Uganda has also stopped people who've been to DR Congo from transiting through the country.",
+    "why_it_matters": "An Ebola strain with no approved vaccine is now popping up in new countries linked by air travel, showing how quickly a regional outbreak can cross borders. The sources don't mention any Australian cases or measures.",
+    "deep_analysis": "## Historical Context\nAccording to the source, this is Kenya's first ever Ebola outbreak, and the wider outbreak that began in DR Congo in May is the second most deadly on record, with more than 4,000 deaths in Africa and over 9,500 cases in DR Congo. As general background, the deadliest Ebola outbreak was in West Africa in 2014–16. Earlier outbreaks were often caused by the Zaire species, for which vaccines were later developed; the Bundibugyo species here has no approved vaccine or treatment.\n\n## Multiple Perspectives\nKenya's health ministry stresses containment: all cases sit in one cluster with no community spread, and the second victim was already in quarantine. The US government has taken a more cautious line, warning citizens against travel to Kenya. The International Rescue Committee warns Kenya faces a steady risk of new cases crossing its borders. Uganda has acted on transit routes, while Nigeria's health minister, Prof Ali Pate, says there's no evidence yet that the Kenyan patient travelled to Nigeria, though testing continues.\n\n## What to Watch\n- Whether any of the seven patients in isolation die or recover, and whether cases appear outside the current cluster.\n- Results of genetic testing linking Nigeria's case to Kenya's, and the Entebbe airport investigation.\n- Progress of vaccine and treatment trials for the Bundibugyo species.\n- Whether more countries tighten travel or transit rules.",
+    "concepts": [
+     {
+      "term": "quarantine",
+      "definition": "Keeping people who may have been exposed to a disease apart from others to see if they get sick.",
+      "context": "The second victim was already in quarantine when symptoms began, which helps limit spread."
+     },
+     {
+      "term": "community spread",
+      "definition": "When a disease is passing between people in the general public without a clear link to known cases.",
+      "context": "Kenya says there's no evidence of it, meaning all cases trace back to one known chain."
+     },
+     {
+      "term": "Bundibugyo species",
+      "definition": "A relatively rare type of Ebola virus.",
+      "context": "It matters because there's no approved vaccine or treatment for it yet."
+     },
+     {
+      "term": "cluster",
+      "definition": "A group of linked cases that can be traced to a common source.",
+      "context": "All of Kenya's cases connect back to the first victim's family and carers."
+     }
+    ],
+    "quiz": {
+     "question": "Why do Kenyan officials say the outbreak is currently contained, despite two deaths?",
+     "options": [
+      "Because the virus cannot spread between people",
+      "Because a vaccine has been given to everyone in Nairobi",
+      "Because all cases are linked in one cluster with no evidence of community spread",
+      "Because all patients have recovered"
+     ],
+     "answer_index": 2,
+     "explanation": "Every case traces back to the first victim, his relatives or people who treated him, so there's no sign it's spreading among the wider public. There's no approved vaccine for this species."
+    },
+    "impact_score": 68,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "A 65-year-old woman related to Kenya's first Ebola victim has died in quarantine, making her the country's second death in its first ever outbreak of the disease.",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "920de58d-374c-5da9-baa1-d152afa9a420",
+     "e61a7066-899c-5fb7-a4bc-d09fc0db5d44"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-10-25T12:39:18.409549+00:00",
+    "published_date": "2026-10-25",
+    "has_fulltext": true
+   },
+   {
     "id": "9c55d09b-8aa4-542f-b2b5-9e7ed820161e",
     "title": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines",
     "simplified_title": "Yemen's Houthis claim strikes on Saudi airports and oil sites",
@@ -907,73 +1021,6 @@
     "has_fulltext": true
    },
    {
-    "id": "e61a7066-899c-5fb7-a4bc-d09fc0db5d44",
-    "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
-    "simplified_title": "Kenya records second Ebola death as outbreak spreads across Africa",
-    "quick_summary": "Kenya has confirmed a second Ebola death in a single cluster of cases, while investigators try to work out how a linked case ended up in Nigeria and what role Uganda's main airport played.",
-    "simplified_body": "Kenya's Ministry of Health says a 65-year-old woman has died of Ebola, making her the country's second death. She was a close relative of Kenya's first patient and developed symptoms while already in quarantine. Seven people are still being treated, and the ministry says all cases sit within \"one cluster, with no evidence of community spread\".\n\nThe outbreak began in the Democratic Republic of the Congo (DRC) in May and has now reached Uganda, Kenya and Nigeria. That gives it the widest geographic spread of any Ebola outbreak in Africa so far. Nigeria's first case, a woman married to a Swiss diplomat in Abuja, carries a virus that genomic tests show is closely related to Kenya's first case. Both people passed through Uganda's Entebbe International Airport on 3 October, though nobody has shown they met or that transmission happened there.\n\nSome background: this is the Bundibugyo species of Ebola, which has no approved vaccine or specific treatment. Symptoms usually show up two to 21 days after infection, and people aren't considered infectious until symptoms appear. Health teams rely on contact tracing, finding and monitoring everyone a patient has been near. Kenya traced 135 contacts, though reports differ on how many went into quarantine (one says all, another says 118). Case totals also vary slightly between sources, from more than 9,000 to more than 9,700.\n\nThere's a dispute brewing. Uganda says the Nigerian patient visited the DRC and that it has no active cases; Switzerland says she never went to the DRC. Kenya is also hunting for an untraced Ugandan contact. The Africa Centres for Disease Control and Prevention (Africa CDC) will hold an emergency virtual meeting of health officials on 28 October.",
-    "why_it_matters": "Cases linked across countries thousands of kilometres apart show how air travel can carry a disease with no approved vaccine far from its source. It's a reminder of why fast, honest information-sharing between countries matters for everyone, including travellers from places like Australia.",
-    "deep_analysis": "## Historical Context\nAccording to the sources, the DRC has now declared its 17th Ebola outbreak, and Ebola has killed more than 15,000 people in Africa over the past 50 years. Uganda recorded 20 infections and two deaths in this outbreak before being declared Ebola-free in August. As general background, the 2014–16 West Africa epidemic showed how Ebola can spread widely once it reaches cities and travel hubs, which is why Nigeria's case has revived memories for Abuja residents.\n\n## Multiple Perspectives\n- **Kenya** stresses containment: one cluster, no community spread, all known contacts monitored, though one Ugandan contact remains unreachable.\n- **Uganda** insists it has no active cases and says travel through Uganda doesn't prove infection happened there. It has barred travellers with DRC travel history from transiting.\n- **Switzerland** flatly denies the Nigerian patient went to the DRC, and earlier said she likely caught it in Uganda (not independently confirmed).\n- **WHO and Africa CDC** say they haven't confirmed any DRC trip by her.\n- **Abuja residents** voice worry, with some saying economic hardship makes people more focused on survival than sickness.\nSources also differ on figures: Kenya's quarantine numbers (135 vs 118) and total cases (over 9,000 vs over 9,700).\n\n## What to Watch\n- The Africa CDC extraordinary meeting on 28 October.\n- Whether investigators confirm where the Nigerian woman was exposed, and whether undetected spread exists in Uganda.\n- Whether Kenya locates its missing contact and stays at one cluster.\n- New cases among Nigeria's 44 identified contacts.",
-    "concepts": [
-     {
-      "term": "contact tracing",
-      "definition": "Finding and monitoring everyone who may have been exposed to an infected person so new cases are caught early.",
-      "context": "Kenya traced 135 contacts of its first patient; Nigeria identified 44."
-     },
-     {
-      "term": "community spread",
-      "definition": "When a disease spreads among people with no known link to an existing case, meaning it is circulating undetected.",
-      "context": "Kenya says all its cases are in one cluster with no community spread."
-     },
-     {
-      "term": "Bundibugyo species",
-      "definition": "A type of Ebola virus for which there is currently no approved vaccine or specific treatment.",
-      "context": "This is the species driving the current outbreak."
-     }
-    ],
-    "quiz": {
-     "question": "Why does Kenya stressing 'one cluster, with no evidence of community spread' matter?",
-     "options": [
-      "It means a vaccine is working",
-      "It proves the virus came from Nigeria",
-      "It suggests every case links back to a known source, so spread is likely contained",
-      "It means Ebola has been eradicated in Kenya"
-     ],
-     "answer_index": 2,
-     "explanation": "One cluster means all cases connect to the first patient and his contacts, so authorities know who to watch. Community spread would mean unknown chains of infection."
-    },
-    "impact_score": 68,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adbd5d74772-1792792023.jpg?resize=1920%2C1440",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Kenya has confirmed a second Ebola death in a single cluster of cases, while investigators try to work out how a linked case ended up in Nigeria and what role Uganda's main airport played.",
-    "tier": "GLOBAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-rdf"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "920de58d-374c-5da9-baa1-d152afa9a420"
-    ],
-    "reading_minutes": 1,
-    "created_at": "2026-10-24T03:48:17.207318+00:00",
-    "published_date": "2026-10-24",
-    "has_fulltext": true
-   },
-   {
     "id": "39c9a926-ada7-56e9-afa0-7563c7f96203",
     "title": "Nine killed and 40 injured after gunmen open fire at church funeral in Jordan",
     "simplified_title": "Gunmen attack church funeral in Jordan, killing several mourners",
@@ -1038,67 +1085,6 @@
    }
   ],
   "AMERICAS": [
-   {
-    "id": "5b8a1b39-89df-5e85-911c-e1927954bb87",
-    "title": "Trump administration sues to block possible Democratic win in Alaska",
-    "simplified_title": "Trump government sues to delay Alaska Senate result over name confusion",
-    "quick_summary": "The US Justice Department has sued to stop Alaska certifying its Senate election result if Republican Senator Dan Sullivan loses narrowly, arguing a second candidate with the same name could confuse voters.",
-    "simplified_body": "The US Department of Justice (DOJ) filed a federal lawsuit on Thursday asking a judge to block certification of Alaska's Senate election result. Its argument: an independent candidate named Daniel J Sullivan shares a name with sitting Republican Senator Dan Sullivan, and may mislead voters. According to the BBC, the DOJ wants certification blocked if the senator loses by a margin smaller than the other Sullivan's vote. President Donald Trump said, \"I'm the one that said do it.\"\n\nThis matters because the race, between Senator Sullivan and Democrat and former Congresswoman Mary Peltola, could decide which party controls the US Senate after the 3 November midterms. Polls show it is very tight, with Peltola holding a narrow lead. Democrats and voting rights groups worry the administration is trying to interfere in elections its party might lose.\n\nSome background: certification is the official step where a state confirms the final count. The Brennan Center for Justice says this is handled by states, and the federal government has \"no role\" in it. Alaska's Supreme Court already rejected a Republican attempt to remove the second Sullivan, a retired teacher, from the ballot. He appears without a party label, while the senator is listed as Republican. Alaska also uses ranked-choice voting, so unsure voters can pick both Sullivans. The DOJ claims the second Sullivan is running to help Peltola; he denies this.\n\nNext, a federal judge will decide whether to hear the case. If Peltola wins narrowly, the DOJ wants certification paused for an investigation into whether voters mixed up the names. Attorney General Todd Blanche has said the DOJ never intends to \"improperly interfere\" with elections.",
-    "why_it_matters": "Who certifies an election, and whether a national government can step in, goes to the heart of trust in democracy. Australians watching from afar may notice the contrast with our system, where federal elections are run by an independent national body rather than by individual states.",
-    "deep_analysis": "## Historical Context\nBoth articles note that Trump critics have long worried the DOJ might try to block certification of elections the president's party loses. As general background, US elections are run state by state, and certification has traditionally been a routine administrative step; disputes over it became a major flashpoint after the 2020 presidential election. The Brennan Center notes that state legislatures built safeguards centuries ago to stop bad actors manipulating outcomes. Alaska adopted ranked-choice voting relatively recently, which is why voters can rank both Sullivans.\n\n## Multiple Perspectives\n- **The DOJ** (via Associate Attorney General Stanley E Woodward Jr) argues the second Sullivan's candidacy exists solely to help Peltola and that including him risks a result that \"lacked integrity\".\n- **Trump** calls the candidacy a \"scam\" and took credit for the lawsuit.\n- **Dan J Sullivan** denies coordinating with Peltola, saying he \"wouldn't even know who to speak to\" in her campaign and that \"choice is good\".\n- **Democrats and voting rights groups** see the suit as part of a pattern, pointing to DOJ actions against Virginia state Senator L Louise Lucas and Representative Ilhan Omar, both of whom call those actions politically motivated.\n- **The Brennan Center** says the federal government has no role in certification.\n- **Attorney General Todd Blanche** says the DOJ won't improperly interfere and would only act in extreme circumstances.\n\nThe sources differ slightly in framing: Al Jazeera describes the second Sullivan as independent, while the BBC reports he was once in the Alaska Independence Party before registering as a Republican this year.\n\n## What to Watch\n- Whether a federal judge accepts a case about state certification at all.\n- The final margin: the BBC says the request hinges on Sullivan losing by less than the second Sullivan's vote.\n- Whether the outcome decides Senate control.\n- Whether similar suits appear in other close races.",
-    "concepts": [
-     {
-      "term": "certification",
-      "definition": "The official step where election authorities confirm the final vote count and declare the result.",
-      "context": "The DOJ wants a judge to stop Alaska certifying its Senate result if Senator Sullivan loses narrowly."
-     },
-     {
-      "term": "ranked-choice voting",
-      "definition": "A system where voters rank candidates in order of preference instead of choosing just one, similar to Australia's preferential voting.",
-      "context": "It lets unsure Alaskans rank both Sullivans, which weakens the confusion argument."
-     },
-     {
-      "term": "midterms",
-      "definition": "US elections held halfway through a president's four-year term, deciding seats in Congress.",
-      "context": "Alaska's Senate race on 3 November could decide which party controls the Senate."
-     }
-    ],
-    "quiz": {
-     "question": "Why do critics like the Brennan Center argue the DOJ lawsuit is out of place?",
-     "options": [
-      "Because the second Sullivan has already withdrawn",
-      "Because ranked-choice voting is banned in Alaska",
-      "Because election certification is handled by states, not the federal government",
-      "Because Alaska doesn't hold Senate elections"
-     ],
-     "answer_index": 2,
-     "explanation": "The Brennan Center's Lauren Miller Karalunas said certification is a state process and the federal government has \"no role\" in it."
-    },
-    "impact_score": 72,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adb9707ced6-1792775943.jpg?resize=1920%2C1440",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "The US Justice Department has sued to stop Alaska certifying its Senate election result if Republican Senator Dan Sullivan loses narrowly, arguing a second candidate with the same name could confuse voters.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-24T03:48:16.282130+00:00",
-    "published_date": "2026-10-24",
-    "has_fulltext": true
-   },
    {
     "id": "b140347d-8ea0-51cd-9a95-969a2c0577b7",
     "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
@@ -1168,128 +1154,185 @@
     "has_fulltext": true
    },
    {
-    "id": "7067db01-b16a-5442-8276-71842dd6a732",
-    "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-    "simplified_title": "Rubio urges Cubans to seek change with secret CIA help",
-    "quick_summary": "US Secretary of State Marco Rubio told Cubans \"now is the time\" to push for political change, even suggesting a partnership with the CIA, right after Donald Trump said US warships returning from the Iran war could stop off Cuba.",
-    "simplified_body": "At a Friday rally in south Florida, US President Donald Trump said American warships coming home from the Iran war could make \"a little stopover\" about 50 yards off Cuba's coast, before sending Marco Rubio in \"to finish up the deal\". Moments later, Rubio, the US secretary of state, posted a message telling Cubans who want change that \"now is the time\" and to work through a \"discrete [sic] partnership with the CIA\" (Central Intelligence Agency, the US spy service). He seems to have meant \"discreet\", meaning secret.\n\nThis matters most for Cuba's 10 million residents, who have lived through blackouts, food shortages and inflation since an economic and energy crisis began in 2020. Cuba's government wasn't impressed: deputy foreign minister Carlos Fernandez de Cossio mocked the US for recruiting spies publicly \"like a tube of toothpaste\".\n\nSome background: Cuba has had a socialist government since its revolution, and the US has kept an economic embargo (a trade ban) on it for decades. Rubio's parents left Cuba before the revolution, and he has long taken a hard line. In May, Trump and Rubio raised the idea of military intervention after the US charged former Cuban leader Raúl Castro with crimes. US officials have also met Cuban officials, but came away unimpressed and added more sanctions.\n\nThe messages are mixed. Last month Trump said he expected a deal and didn't think the military would be needed. The comments also came days before US midterm elections, where voters are worried about the Iran war pushing up prices. An annual United Nations vote condemning the embargo is coming up too.",
-    "why_it_matters": "A US threat to use warships near Cuba, plus an open call for CIA partners, signals a sharp escalation in a decades-long standoff and shows how the Iran war is shaping US moves elsewhere.",
-    "deep_analysis": "## Historical Context\nThe article says previous US presidents considered intervening in Cuba for decades, and the US has kept a long-running economic embargo on Havana. As background, the CIA backed the failed 1961 Bay of Pigs invasion, so public talk of CIA partnerships carries heavy historical baggage in Cuba. Since 2020, Cuba's economy has shrunk, and hundreds of thousands of Cubans have emigrated, many to the US.\n\n## Multiple Perspectives\n- **Trump administration:** Rubio says Cuba is a national security threat due to ties with US adversaries, that it \"has already fallen\", and doubts a diplomatic fix with the current government, though the US says it prefers a peaceful resolution.\n- **Cuban government:** Mocks the US for \"desperation\" and treats the CIA call as a joke.\n- **Mixed signals:** Trump has swung between \"it looks like I'll be the one that does it\" and \"I don't think we'll need the military.\"\n- **US voters:** Midterm voters are concerned about the Iran war's effect on prices for gas and groceries.\n\n## What to Watch\n- Whether the Iran war actually winds down, which Trump has forecast but which hasn't happened yet.\n- Any real naval moves near Cuba.\n- The annual UN vote condemning the embargo.\n- Further sanctions or renewed talks led by Rubio.\n- Midterm election results and how they shape foreign policy.",
+    "id": "98bcd117-e7bd-50d7-afce-c259ffaa0be8",
+    "title": "Deadly measles spread hitting US state's Amish hard amid White House row",
+    "simplified_title": "Pennsylvania's worst measles outbreak in decades hits Amish communities hard",
+    "quick_summary": "Pennsylvania's measles outbreak has passed 1,300 cases and killed at least six unvaccinated people, mostly Amish, while the state's governor clashes with US Health Secretary Robert F Kennedy Jr.",
+    "simplified_body": "The US state of Pennsylvania is dealing with its worst measles outbreak in more than three decades. Since it began in late April, there have been more than 1,300 cases, at least 251 people have been hospitalised, and at least six people have died, including two infants. Health officials say none of those who died were vaccinated.\n\nThe Amish, a religious community that rejects many modern technologies, have been hit hardest. At least five of the dead were reportedly Amish. Low vaccination rates, big families (often seven or eight kids) and frequent gatherings help the virus spread fast. Officials also worry many cases go unreported because some sick people don't seek medical care.\n\nSome background: measles is highly contagious, and up to nine in 10 unvaccinated people exposed are likely to get sick. The US stopped local spread in 2000 thanks to high vaccination rates, but the Centers for Disease Control (CDC) says coverage has dropped below the 95 per cent needed to prevent outbreaks. The US now has more than 4,500 cases this year, its worst since 1991. Health Secretary Robert F Kennedy Jr, known for raising alarms about vaccines, suggested Governor Josh Shapiro's office may have \"fabricated\" deaths. Mr Shapiro hit back, blaming Mr Kennedy for stoking confusion.\n\nPop-up clinics have given at least 6,500 MMR (measles, mumps and rubella) vaccines since April. One local health director says Pennsylvania can no longer outrace the outbreak, and more deaths are statistically likely.",
+    "why_it_matters": "Measles anywhere is a risk everywhere once vaccination rates slip, and Australian experts like infectious diseases director Paul Griffin warn that mixed messages from leaders undermine public health efforts.",
+    "deep_analysis": "## Historical Context\nAccording to the article, the US eliminated domestic measles spread in 2000 by keeping vaccination rates high, but rates have since fallen below the 95 per cent threshold. This year is the country's worst since 1991. As general background, 'elimination' status can be lost if continuous spread persists for a year or more.\n\n## Multiple Perspectives\nPublic health officials such as Chester County's Jeanne Franklin urge everyone, Amish or anti-vaxxer, to reassess vaccine decisions, and use trusted local businesses to spread information. Researcher Braxton Mitchell explains the Amish are sceptical of government and often accept illness as God's will. Governor Shapiro blames Mr Kennedy's claims for reduced protection, while Mr Kennedy accused Shapiro of fearmongering and possibly fabricating deaths; the CDC delayed listing the deaths while seeking verification. Ms Franklin says frontline CDC staff remain dedicated, though they are told what they can publish.\n\n## What to Watch\n- Whether deaths rise, as Ms Franklin expects.\n- Uptake at pop-up vaccine clinics.\n- Spread in Texas, Utah, South Carolina, Wisconsin, Florida and New York, which has declared a disaster emergency.\n- Further federal-state clashes over vaccine messaging.",
     "concepts": [
      {
-      "term": "embargo",
-      "definition": "An official ban on trade with a country.",
-      "context": "The US has had an economic embargo on Cuba for decades, and the UN votes on it each year."
+      "term": "Amish",
+      "definition": "A close-knit Christian community that follows strict rules and rejects many modern technologies.",
+      "context": "Their low vaccination rates and social lifestyle made them most affected."
      },
      {
-      "term": "sanctions",
-      "definition": "Penalties, often economic, that one country places on another to pressure it.",
-      "context": "After unimpressive talks, the US imposed even more sanctions on Cuba's government."
+      "term": "MMR",
+      "definition": "A combined vaccine protecting against measles, mumps and rubella.",
+      "context": "Thousands of doses have been given at pop-up clinics."
      },
      {
-      "term": "midterm elections",
-      "definition": "US elections held halfway through a president's four-year term, mainly for Congress.",
-      "context": "Trump made his Cuba comments while campaigning days before the midterms."
+      "term": "Centers for Disease Control (CDC)",
+      "definition": "The US national public health agency.",
+      "context": "It tracks cases and says vaccination coverage has fallen below safe levels."
      }
     ],
     "quiz": {
-     "question": "Why did Cuba's government mock Rubio's message?",
+     "question": "According to the CDC, why has measles returned in the US after being eliminated in 2000?",
      "options": [
-      "Because he publicly invited Cubans to partner with the CIA, a spy agency that normally works in secret",
-      "Because he announced the US had lifted the embargo",
-      "Because he refused to meet Cuban officials ever again",
-      "Because he said Cuba's economy was booming"
+      "The MMR vaccine stopped being made",
+      "A new strain resistant to vaccines appeared",
+      "Vaccination rates fell below the 95 per cent needed to prevent outbreaks",
+      "Travellers from Australia brought it in"
      ],
-     "answer_index": 0,
-     "explanation": "Rubio openly urged Cubans to work with the CIA, and Cuba's deputy foreign minister joked that the agency was selling its services \"like a tube of toothpaste\"."
+     "answer_index": 2,
+     "explanation": "The CDC says vaccination coverage dropped below 95 per cent, the level needed to stop outbreaks."
     },
-    "impact_score": 58,
-    "image_url": "https://i.guim.co.uk/img/media/487ad4f76ab73ebceb246949eff4ed204b9cf7c9/0_0_5500_3667/master/5500.jpg?width=1920&quality=85&auto=format&fit=max&s=9d0848de04d70dac7fe866a7948574c7",
+    "impact_score": 62,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/a372fd07d9e4438381dd8a27465c01f7?impolicy=wcms_watermark_news&cropH=1969&cropW=3500&xPos=0&yPos=17&width=862&height=485&imformat=generic",
     "region": "North & South America",
     "region_code": "AMERICAS",
-    "description": "US Secretary of State Marco Rubio told Cubans \"now is the time\" to push for political change, even suggesting a partnership with the CIA, right after Donald Trump said US warships returning from the Iran war could stop off Cuba.",
+    "description": "Pennsylvania's measles outbreak has passed 1,300 cases and killed at least six unvaccinated people, mostly Amish, while the state's governor clashes with US Health Secretary Robert F Kennedy Jr.",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-25/pennsylvania-us-measles-outbreak-impacts-amish-communities/107287196"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 6,
+    "created_at": "2026-10-25T12:39:17.029423+00:00",
+    "published_date": "2026-10-25",
+    "has_fulltext": true
+   },
+   {
+    "id": "bbf1a2f0-de04-500f-9c0e-5df8e112d929",
+    "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+    "simplified_title": "Obama hits campaign trail, slamming Trump over Iran war and prices",
+    "quick_summary": "Former US President Barack Obama rallied Democrats in Ohio and Michigan ahead of the 3 November midterms, attacking Trump over the Iran war, high prices and tariffs, while Trump rallied supporters in Georgia.",
+    "simplified_body": "Barack Obama spent Saturday campaigning in Ohio and Michigan for Democratic candidates, about 10 days before the US midterm elections on 3 November. He blamed President Donald Trump for an \"unnecessary war\" with Iran, higher fuel prices, and tariffs that he said make everyday goods more expensive. He also mocked Trump's gold-heavy White House renovations. Meanwhile, Trump told a rally in Georgia \"we're in the golden age of America\" and said fuel prices would come down.\n\nThe midterms decide which party controls Congress for the rest of Trump's term, which affects how easily he can push through his plans. Obama called the election a \"circuit breaker\" on Trump's power. In Ohio, he backed Sherrod Brown for the Senate and Amy Acton for governor, slamming her Republican rival Vivek Ramaswamy over an ad featuring Acton's estranged mother. In Michigan, he backed Abdul El-Sayed and Jocelyn Benson.\n\nSome background: Obama argued his 2015 nuclear deal kept Iran from getting nuclear weapons, and that Trump pulled out of it. Disruption in the Strait of Hormuz, where about a fifth of global oil and gas passed before the war, has pushed up energy prices worldwide. Trump says tariffs are bringing in \"massive amounts of money\" and has promised every adult American a $5,000 payout if Republicans win both chambers of Congress.\n\nEarly voting has already started, and Trump cast his ballot in Florida. Al Jazeera reports that most Americans hold Trump responsible for the war and rising prices, which could hurt Republicans when results come in.",
+    "why_it_matters": "Who controls Congress shapes how far Trump can go on the Iran war and tariffs, both of which ripple through global oil prices and trade, including what Australians pay at the pump.",
+    "deep_analysis": "## Historical Context\nAs background: US midterms fall halfway through a president's four-year term, and the president's party often loses ground. The 2015 Iran nuclear deal, which Obama defends, limited Iran's nuclear program in exchange for sanctions relief; according to Obama, Trump pulled out of it. Obama also noted Democrats lost in 2024 partly over inflation concerns after the Covid pandemic.\n\n## Multiple Perspectives\nObama says Trump's choices, especially the Iran war and tariffs, have made life more expensive, and points to the $40 trillion national debt (which Al Jazeera notes built up over many administrations). Trump says oil prices are only \"temporarily high\", that tariffs are raising money, and that on Iran \"either way, we win.\" He accused Democrats of wanting to \"loot your wealth\" and used derogatory language about some countries. On the Ramaswamy ad, Republicans are split: Ohio Governor Mike DeWine criticised it, while Trump and Vice President JD Vance defended it.\n\n## What to Watch\nWhether Democrats win the Ohio and Michigan Senate and governor races; whether fuel prices ease before 3 November; developments in the Iran war or a possible deal; and the threatened 50% US tariffs on Canadian vehicles and parts from January 2027.",
+    "concepts": [
+     {
+      "term": "midterm elections",
+      "definition": "US elections held halfway through a president's term, deciding seats in Congress.",
+      "context": "These midterms on 3 November will decide which party controls Congress for Trump's last two years."
+     },
+     {
+      "term": "Congress",
+      "definition": "The US national parliament, made up of the Senate and the House of Representatives.",
+      "context": "Trump promised a $5,000 payout if Republicans win both chambers of Congress."
+     },
+     {
+      "term": "tariffs",
+      "definition": "Taxes on imported goods, often passed on to consumers through higher prices.",
+      "context": "Obama said 'when you impose tariffs, consumers pay the tab', while Trump said they raise lots of money."
+     },
+     {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage between Iran and Oman that a large share of the world's oil and gas travels through.",
+      "context": "Obama said the war gave Iran 'veto power' over the strait, pushing up fuel prices."
+     }
+    ],
+    "quiz": {
+     "question": "Why did Obama call the midterm elections a 'circuit breaker'?",
+     "options": [
+      "Because they set fuel prices for the next two years",
+      "Because control of Congress affects how easily Trump can carry out his plans",
+      "Because they decide whether the Iran nuclear deal is restored",
+      "Because they could replace Trump as president immediately"
+     ],
+     "answer_index": 1,
+     "explanation": "The midterms decide which party controls Congress, which can limit or enable the president's agenda for the rest of his term."
+    },
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/0734/live/d07c4f10-cff9-11f1-93e1-3b657b665bcf.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Former US President Barack Obama rallied Democrats in Ohio and Michigan ahead of the 3 November midterms, attacking Trump over the Iran war, high prices and tariffs, while Trump rallied supporters in Georgia.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-25T12:39:18.846680+00:00",
+    "published_date": "2026-10-25",
+    "has_fulltext": true
+   }
+  ],
+  "GLOBAL_SYSTEMS": [
+   {
+    "id": "4f7a4ff5-dd74-5a2d-812b-56d66787bbe6",
+    "title": "How Turkey's deal on Mediterranean maritime boundaries with Libya exacerbates a longtime feud with Greece",
+    "simplified_title": "Eastern Libya backs Turkey sea deal, angering Greece and the EU",
+    "quick_summary": "Libya's eastern parliament has unanimously approved a 2019 maritime deal with Turkey that ignores Greek islands' sea zones, deepening a feud with Greece over gas-rich Mediterranean waters.",
+    "simplified_body": "On Tuesday, the parliament in eastern Libya unanimously approved a maritime agreement with Turkey, creating a direct sea corridor between Turkey's southern coast and Libya's northern coast. Turkey first struck the deal in 2019 with the UN-recognised government in western Libya, but the rival eastern government had opposed it until now. Turkey's Foreign Ministry welcomed the vote.\n\nGreece is the most upset. The corridor ignores Greek islands such as Crete, Karpathos and Rhodes, where Greece says it has a full exclusive economic zone (EEZ), an area of sea where a country controls resources like fish, oil and gas. Greece says the European Union (EU) backs it, and EU foreign policy chief Kaja Kallas said the deal infringes on the sovereign rights of third states. The stakes are big: gas reserves possibly worth several hundred billion US dollars may lie under the seabed.\n\nThe core argument is about who owns what. Greece relies on the United Nations Convention on the Law of the Sea (UNCLOS), which says inhabited islands get the same sea rights as the mainland. Turkey, which never signed UNCLOS, argues that giving every small Greek island a full zone would largely cut it off from the open sea. Even international law experts disagree on what a fair split looks like.\n\nThings could heat up once Turkey and Libya start drilling. The corridor also cuts across the planned EastMed pipeline, meant to carry gas from Israel and Cyprus via Greece to Europe. In the long run, the region could split into two rival blocs: Turkey and Libya versus an EU-supported group of Greece, Cyprus, Egypt and Israel.",
+    "why_it_matters": "This shows how undersea energy riches can redraw alliances and test international sea law, the same law that underpins maritime boundaries everywhere, including Australia's own.",
+    "deep_analysis": "## Historical Context\nWhen Turkey signed the deal in 2019, Libya was in a brutal civil war. Turkey sent military support to the Tripoli government and helped repel eastern General Khalifa Hifter's offensive. Since then Turkey has courted Hifter, now supplying his forces with weapons and training, while Turkish firms have won billions in reconstruction contracts. As background, Greece and Turkey have argued over Aegean and Mediterranean waters and airspace for decades, and Cyprus has been divided since 1974.\n\n## Multiple Perspectives\n- **Greece and the EU:** The deal is \"null and void\", breaches third states' rights and is inconsistent with the Law of the Sea. Greece points to UNCLOS Article 121 and a 2022 International Court of Justice ruling (Nicaragua v Colombia) calling for fair demarcation where claims overlap.\n- **Turkey:** Geography matters; full zones for small islands near its coast would box it in. As a non-signatory to UNCLOS, it rejects UN arbitration and says pipelines across its claimed continental shelf need its consent.\n- **Eastern Libya:** Approving the deal secures its share of resources and could boost Hifter's international influence.\n- **Experts:** Law of the sea specialists themselves disagree on a fair division here.\n\n## What to Watch\n- Whether Turkey's TPAO and Libya's National Oil Corporation move from seismic survey plans to actual drilling.\n- The fate of the EastMed pipeline.\n- Whether rival Turkey-Libya and Greece-Cyprus-Egypt-Israel blocs harden.\n- Turkey's competition with Egypt and Russia for influence in eastern Libya.",
+    "concepts": [
+     {
+      "term": "exclusive economic zone",
+      "definition": "A stretch of sea off a country's coast where it has the sole right to fish and extract resources like oil and gas.",
+      "context": "Greece says Crete, Rhodes and Karpathos each generate one, which the Turkey-Libya corridor ignores."
+     },
+     {
+      "term": "United Nations Convention on the Law of the Sea",
+      "definition": "An international treaty setting rules for how countries can claim and use the oceans.",
+      "context": "Greece relies on it, but Turkey never signed it, so it rejects UN arbitration."
+     },
+     {
+      "term": "EastMed pipeline",
+      "definition": "A planned pipeline to carry natural gas from Israel and Cyprus via Greece to Europe.",
+      "context": "The Turkey-Libya corridor cuts across its planned route."
+     }
+    ],
+    "quiz": {
+     "question": "Why does Turkey refuse to have the dispute settled by a UN arbitration tribunal?",
+     "options": [
+      "Because the islands involved are uninhabited",
+      "Because the EU has already ruled in Turkey's favour",
+      "Because it never signed UNCLOS, the treaty Greece relies on",
+      "Because Libya asked it not to"
+     ],
+     "answer_index": 2,
+     "explanation": "Turkey, unlike Greece, never signed the UN Convention on the Law of the Sea, so it doesn't accept its arbitration process."
+    },
+    "impact_score": 55,
+    "image_url": "https://static.dw.com/image/62760881_6.jpg",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "Libya's eastern parliament has unanimously approved a 2019 maritime deal with Turkey that ignores Greek islands' sea zones, deepening a feud with Greece over gas-rich Mediterranean waters.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
     "reading_minutes": 4,
-    "created_at": "2026-10-24T06:01:10.800597+00:00",
-    "published_date": "2026-10-24",
-    "has_fulltext": true
-   }
-  ],
-  "GLOBAL_SYSTEMS": [
-   {
-    "id": "9c42b941-4022-56e0-a2bc-58434166e6e5",
-    "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-    "simplified_title": "AI tech stocks slump worldwide while oil prices surge on Iran war",
-    "quick_summary": "A sharp sell-off in artificial intelligence stocks dragged global share markets lower on Thursday, while worries about the war with Iran pushed oil to its highest price since May.",
-    "simplified_body": "On Thursday, big drops in AI (artificial intelligence) stocks pulled markets down around the world. In the US, the S&P 500 fell 1.2%, its worst day since July, and the tech-heavy Nasdaq composite tumbled 2.6%. Chip giant Nvidia fell 4.4%, Meta Platforms lost 7% and Lam Research dropped 11.8%, even though several of these companies reported some better-than-expected results.\n\nThe pain was concentrated in tech. Two out of every three stocks in the S&P 500 actually rose, and the Dow Jones Industrial Average edged up 11 points. But because Nvidia is the biggest company on Wall Street by value, its fall had an outsized effect. Asia was hit first, with South Korea's Kospi down 3.5%, Hong Kong's Hang Seng down 3% and Japan's Nikkei 225 down 2.7%.\n\nWhy the jitters? Investors worry that borrowing money to build datacenters and buy AI chips has become very expensive, and that AI share prices climbed too high after a years-long frenzy. At the same time, the price of Brent crude oil jumped 4% to $113.17 a barrel, up from under $97 at the start of the month, because of uncertainty over the war with Iran. Investors also rushed into US government bonds as a safer option, pushing the 10-year treasury yield down to 4.97% from 5.13%.\n\nNext, watch whether debt-heavy AI firms like CoreWeave keep wobbling, whether oil keeps climbing, and whether concerns about government debt, including in France, keep pushing bond yields around.",
-    "why_it_matters": "When oil prices spike and global tech stocks slide, it can feed through to petrol prices and to the share holdings many people own indirectly, such as through superannuation funds. The source doesn't mention Australia specifically, but the sell-off spread across Asian markets in our region.",
-    "deep_analysis": "## Historical Context\nAccording to the article, the US stock market hit a record high earlier this month, helped by solid company profits, and AI stocks have run hot after a years-long frenzy. As general background, sharp sell-offs after long tech booms have happened before (such as the dot-com bust around 2000), which is partly why investors get nervous when valuations look stretched. Also as background, oil price shocks tied to conflict in the Middle East have historically rippled through inflation and markets.\n\n## Multiple Perspectives\nThe bearish view: borrowing costs for building datacenters and buying chips are high, and AI share prices may have overshot. Debt-funded players like CoreWeave look especially vulnerable. The bullish view: companies keep reporting growth, Lam Research beat profit and revenue expectations, and the broader US economy looks solid, with fewer people applying for unemployment benefits. Procter & Gamble's CEO Shailesh Jejurikar warned of continuing \"geopolitical and economic challenges\" but stood by the company's growth forecasts. The fact that most S&P 500 stocks rose suggests this was a tech-specific sell-off rather than a broad panic.\n\n## What to Watch\n- Whether Brent crude keeps rising while the war with Iran disrupts energy markets.\n- Debt worries around AI cloud firms like CoreWeave.\n- Meta's new class of stock to raise money for AI spending, and how investors react.\n- French government bond yields, amid budget strain and violent protests.\n- US bond yields, which recently hit their highest levels in decades before Thursday's sharp fall.",
-    "concepts": [
-     {
-      "term": "S&P 500",
-      "definition": "A stock market index tracking about 500 large US companies, weighted by company size.",
-      "context": "It fell 1.2%, dragged mostly by big tech names like Nvidia."
-     },
-     {
-      "term": "Brent crude oil",
-      "definition": "A major global benchmark for oil prices.",
-      "context": "It jumped 4% to $113.17 a barrel on worries about the war with Iran."
-     },
-     {
-      "term": "treasury yield",
-      "definition": "The return investors get for lending money to the US government through bonds; it falls when demand for those bonds rises.",
-      "context": "The 10-year treasury yield dropped to 4.97% as investors sought safety."
-     },
-     {
-      "term": "datacenters",
-      "definition": "Large facilities full of computers that run online services and AI systems.",
-      "context": "The cost of borrowing to build them is a key worry for AI investors."
-     }
-    ],
-    "quiz": {
-     "question": "Why did the S&P 500 fall even though most of the stocks in it rose on Thursday?",
-     "options": [
-      "Because the index is weighted by company size, so falls in giant tech firms like Nvidia outweighed gains elsewhere",
-      "Because oil companies in the index collapsed",
-      "Because the Dow Jones dragged it down",
-      "Because US unemployment claims jumped"
-     ],
-     "answer_index": 0,
-     "explanation": "The S&P 500 gives more weight to bigger companies. Nvidia is the largest on Wall Street, so its 4.4% fall, along with other big tech drops, outweighed gains by two-thirds of the index's stocks."
-    },
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/9e77a4ead0dd662eb649b44a2b029545f70ae2d1/0_0_4894_3263/master/4894.jpg?width=1920&quality=85&auto=format&fit=max&s=8a32367b9c76bc10c39863100ed867a4",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "A sharp sell-off in artificial intelligence stocks dragged global share markets lower on Thursday, while worries about the war with Iran pushed oil to its highest price since May.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "161b8573-a58d-5e1b-baa9-8c6caba38306",
-     "7baab65b-f998-52c8-ab46-6f78a33bf23d",
-     "adabd6c4-a1b8-5204-9a50-3b162f5bf191"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-10-24T06:01:12.861682+00:00",
-    "published_date": "2026-10-24",
+    "created_at": "2026-10-25T12:39:19.890263+00:00",
+    "published_date": "2026-10-25",
     "has_fulltext": true
    },
    {
@@ -1653,60 +1696,65 @@
     "has_fulltext": true
    },
    {
-    "id": "aaea82ee-f404-552d-84fd-ab263774bbd7",
-    "title": "Greece puts age-limits on social media, banning access for kids under 15",
-    "simplified_title": "Greece bans social media for kids under 15 from 2027",
-    "quick_summary": "Greece's parliament has passed a law banning children under 15 from using social media, starting on 1 January 2027.",
-    "simplified_body": "Greece's parliament voted on Thursday to pass a bill to \"ban the use of online social media services by minors\" under 15. The law kicks in on 1 January 2027. Only the governing New Democracy party backed it. Opposition parties SYRIZA, Greek Solution, KKE, Niki and Freedom Course voted against it, and PASOK abstained.\n\nThe ban affects Greek kids under 15, their families, and the social media platforms themselves. Platforms have until the start of 2027 to work out whether their accounts and services are meant for adults or not. Digital Governance Minister Dimitris Papastergiou compared it to age limits on alcohol and tobacco, saying uncontrolled internet use leads children to addiction at the expense of their mental health.\n\nSome background: legal age limits on social media started in Australia last year, and many countries have quickly followed. Greece is one of seven European Union (EU) countries looking at age-verification standards. To check ages, Greece plans to use an app called \"Kid's Wallet\", built to EU technical specifications. The minister says it only reveals whether someone is over or under 15, not even their date of birth.\n\nPapastergiou said Greece couldn't wait for Brussels to pass \"the perfect European law\", so watch whether the wider EU moves on its own rules, and how platforms prepare before the 2027 start date.",
-    "why_it_matters": "Australia kicked off this global trend with its own social media age limit, and Greece is now one of the countries following our lead, so how it works overseas could shape the debate back home.",
-    "deep_analysis": "## Historical Context\nAccording to the article, the push for legal social media age limits began in Australia last year, with numerous countries following. Greece's law is part of that wave. As general background, the EU has broader digital rules for platforms, but member states like Greece are moving ahead with national measures rather than waiting for a single EU-wide law.\n\n## Multiple Perspectives\nThe Greek government frames the ban as \"necessary, effective, proportionate and EU-law-compliant\", arguing it protects kids' sleep, attention and social lives. Every other party in parliament either voted against it or abstained, though the article doesn't explain their reasons. As general background, critics of such bans elsewhere often raise privacy worries about age checks and question whether bans can be enforced; Greece's answer is that Kid's Wallet shares only an over/under-15 signal.\n\n## What to Watch\n- How platforms comply before 1 January 2027.\n- Whether Kid's Wallet works in practice and protects privacy as promised.\n- Whether the other EU countries pursuing age verification, or the EU itself, adopt similar rules.",
+    "id": "86df46ac-1fcf-5fea-b722-34178ea3f362",
+    "title": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
+    "simplified_title": "Spain's opposition sparks outrage with deepfake ad of PM's wife",
+    "quick_summary": "Spain's conservative People's party (PP) released an AI-generated deepfake ad showing the prime minister's wife and other Socialist-linked figures 'confessing' to wrongdoing, triggering outrage, a legal challenge and a debate about AI in elections.",
+    "simplified_body": "Spain's main opposition party, the conservative People's party (PP), posted a campaign video on its social media that used artificial intelligence (AI) to create a deepfake of Begoña Gómez, wife of Prime Minister Pedro Sánchez. The fake Gómez talks about getting a university post thanks to her husband's job. Other figures linked to Sánchez's Socialist party, including former president José Luis Rodríguez Zapatero, also appear to 'admit' to things like hiding jewellery or taking kickbacks. By Friday the video had nearly 2 million views.\n\nThe Socialists are furious. Digital transformation minister Óscar López called it a \"colossal lie\" and warned people unfamiliar with AI could mistake it for reality. The video did carry an AI label, but in tiny, nearly transparent font. Leire Díez, a former Socialist party member whose likeness was used, has filed a court complaint reportedly alleging defamation and digital identity theft.\n\nSome background: the fake lines reference real ongoing investigations, though Gómez and Zapatero deny any wrongdoing. Most of nine legal experts consulted by newspaper El País said the ad probably isn't illegal, because it was labelled and read as political satire. Others argue that legal doesn't mean ethical, and one researcher called it a \"red line\" amounting to disinformation. The PP says everyone can see it isn't real and that it simply highlights Socialist hypocrisy.\n\nSpain votes on 29 November. Most polls suggest the PP will win but will need the far-right Vox party to form government. Meanwhile, the court challenge could test where satire ends and deception begins, and AI ads are booming in the US midterms too.",
+    "why_it_matters": "It shows mainstream parties, not just anonymous trolls, are now using deepfakes in official campaigns, a trend democracies including Australia will have to grapple with as AI tools get cheaper and more convincing.",
+    "deep_analysis": "## Historical Context\nAccording to the article, governments across much of the world are trying to crack down on disinformation. In the US, the Wesleyan Media Project found more than 200 AI-generated or AI-enhanced political ads ahead of the 2026 midterms, mostly tied to Republicans, compared with less than $50,000 in AI-ad spending in the 2024 cycle. As general background, political satire and attack ads have a long history, but deepfakes blur the line by making realistic video of people saying things they never said.\n\n## Multiple Perspectives\n- **The PP** (Borja Sémper): no malicious intent to deceive; it's a digital tool exposing Socialist hypocrisy.\n- **The Socialists** (Óscar López): a \"colossal lie\" on official accounts that many viewers could mistake for reality.\n- **Legal experts**: most of nine consulted by El País think it's lawful given the label and satirical tone; Íñigo Navarro said \"everyone knows those people didn't say those things\".\n- **Ethics critics**: Juan Antonio Lascuraín says legality is separate from whether it's appropriate; José Javier Olivas calls it a \"red line\" and disinformation.\n\n## What to Watch\n- The outcome of Leire Díez's complaint and whether the ad is taken down.\n- Whether other parties respond with their own AI content before the 29 November vote.\n- Whether the controversy shifts polls, which currently favour the PP with Vox support.\n- Moves by regulators to require clearer AI labelling in political ads.",
     "concepts": [
      {
-      "term": "age-verification",
-      "definition": "Ways of checking how old someone is before letting them use a service.",
-      "context": "Greece is one of seven EU countries looking at age-verification standards for social media."
+      "term": "deepfake",
+      "definition": "A video, image or audio clip made with AI to realistically show someone saying or doing something they never did.",
+      "context": "The PP ad used deepfakes of Begoña Gómez and other Socialist-linked figures."
      },
      {
-      "term": "abstained",
-      "definition": "Chose not to vote either for or against.",
-      "context": "The PASOK party abstained on the Greek social media bill."
+      "term": "defamation",
+      "definition": "Damaging someone's reputation by spreading false claims about them.",
+      "context": "Leire Díez's complaint reportedly accuses the PP of defamation."
      },
      {
-      "term": "Kid's Wallet",
-      "definition": "A Greek app meant to confirm whether a user is over or under 15 without sharing other personal data.",
-      "context": "It's the tool Greece plans to use to enforce the ban."
+      "term": "disinformation",
+      "definition": "False information spread deliberately to mislead people.",
+      "context": "Researcher José Javier Olivas said the ad qualifies as disinformation."
+     },
+     {
+      "term": "political satire",
+      "definition": "Using humour, exaggeration or mockery to criticise politicians, usually understood by audiences as not literally true.",
+      "context": "Most legal experts said the ad's satirical tone helps make it legal."
      }
     ],
     "quiz": {
-     "question": "According to Greece's minister, what information does the Kid's Wallet app share about users?",
+     "question": "Why did most legal experts consulted by El País think the PP's video was probably not illegal?",
      "options": [
-      "Their parents' contact details",
-      "Their full name and date of birth",
-      "Only whether they are over or under 15",
-      "Their browsing history"
+      "Because it was labelled as AI-generated and read as political satire",
+      "Because Spain has no laws about defamation",
+      "Because the people shown had agreed to appear in it",
+      "Because the video was only shown outside Spain"
      ],
-     "answer_index": 2,
-     "explanation": "Papastergiou said the app gives no personal data other than whether the user is over or under 15, not even their date of birth."
+     "answer_index": 0,
+     "explanation": "The experts pointed to the AI label and the satirical tone, though critics noted the label was in tiny, nearly transparent font and that legal doesn't mean ethical."
     },
     "impact_score": 58,
-    "image_url": "https://static.dw.com/image/79739132_6.jpg",
+    "image_url": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=1920&quality=85&auto=format&fit=max&s=1ebf872193d6d960295835accafa4045",
     "region": "AI and technology",
     "region_code": "AI_TECH",
-    "description": "Greece's parliament has passed a law banning children under 15 from using social media, starting on 1 January 2027.",
+    "description": "Spain's conservative People's party (PP) released an AI-generated deepfake ad showing the prime minister's wife and other Socialist-linked figures 'confessing' to wrongdoing, triggering outrage, a legal challenge and a debate about AI in elections.",
     "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
+    "category": "SCIENCE_TECH",
     "sources": [
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-24T03:48:10.815584+00:00",
-    "published_date": "2026-10-24",
+    "reading_minutes": 3,
+    "created_at": "2026-10-25T12:39:33.752695+00:00",
+    "published_date": "2026-10-25",
     "has_fulltext": true
    },
    {
@@ -1772,5 +1820,5 @@
    }
   ]
  },
- "total_stories": 28
+ "total_stories": 29
 }
