@@ -1,72 +1,8 @@
 {
- "date": "2026-10-26",
- "generated_at": "2026-10-26T13:54:01.426799+00:00",
+ "date": "2026-10-27",
+ "generated_at": "2026-10-26T23:11:12.847855+00:00",
  "regions": {
   "OCEANIA": [
-   {
-    "id": "d7c9dd90-79e2-5574-8c47-051c54c94499",
-    "title": "Federal police chief links threats against MPs directly to political debate",
-    "simplified_title": "Federal police chief says heated political talk is fuelling threats to MPs",
-    "quick_summary": "After independent MP Helen Haines was hit by a car outside her electorate office, the Australian Federal Police (AFP) Commissioner says inflammatory political debate is directly linked to threats and abuse against politicians.",
-    "simplified_body": "Australian Federal Police (AFP) Commissioner Krissy Barrett told the ABC's Insiders program there is a \"direct correlation\" between heated political discourse and threats against parliamentarians, and that sometimes the reaction is \"very immediate\". Asked whether One Nation cartoons showing politicians being hit by cars were the kind of material she meant, she said they could be. \"Words matter,\" she said.\n\nHer comments follow an attack on independent MP Helen Haines, the member for Indi, who was hit by a car outside her Wangaratta electorate office last week. She is in a serious but stable condition and has had both legs amputated. Brendan Nugent, 43, has been arrested and charged. Barrett said working out a motive could take weeks or even months, and police still need to determine whether it was linked to her role as an MP.\n\nSome background: the AFP is responsible for protecting federal politicians. Barrett said she reads a daily report of threats, which some days runs \"pages and pages\". She said the shift from hate mail to online threats has boosted the volume, and while men and women MPs get threatened equally, women are more often singled out individually, often with threats of sexual violence. She stressed police don't want to police free speech.\n\nWhat's next: parliament returns to Canberra on Monday, with MPs from both sides reflecting on the tone of debate. The AFP has held emergency safety briefings and is considering measures like personal duress alarms, but Barrett said MPs must ultimately make their own safety decisions. Labor minister Catherine King flagged a possible review of security at Parliament House.",
-    "why_it_matters": "Australian MPs pride themselves on being easy for voters to reach, and this attack is forcing a hard look at how to keep that open access without putting politicians in danger.",
-    "deep_analysis": "## Historical Context\nAccording to the sources, Labor minister Catherine King says MPs have been warning for around five years that it was \"when, not if\" someone would be harmed; she stopped using her mobile caravan because it had no second exit. Barrett said the move from physical hate mail to online threats has driven up the volume. As general background, attacks on politicians in other democracies, such as the UK, have previously prompted similar debates about rhetoric and access.\n\n## Multiple Perspectives\nBarrett draws a direct link between political discourse and threats but says she won't police free speech. Liberal frontbencher Ted O'Brien says robust debate is fundamental but \"personal nastiness is not\", and he wants to keep attending community events because open access is \"a cornerstone of democracy\". King says MPs are \"very well looked after\" by the AFP while acknowledging security may be reassessed. Note: the motive in the Haines attack has not been established; Barrett mentioned media reporting about the accused's mental health and social media footprint but said all of that still needs to be worked through. The sources do not include a response from One Nation.\n\n## What to Watch\n- Whether police establish a motive in the Haines case\n- Any changes to security at Parliament House or electorate offices, including duress alarms\n- Whether the tone of debate shifts when parliament returns\n- How parties respond to scrutiny of inflammatory content like the cartoons",
-    "concepts": [
-     {
-      "term": "duress alarms",
-      "definition": "Personal devices someone can trigger to signal they are in danger and need help.",
-      "context": "The AFP is considering them for MPs, though Barrett says calling Triple Zero is still the most effective option in an emergency."
-     },
-     {
-      "term": "electorate office",
-      "definition": "An MP's local office in the area they represent, where constituents can visit them.",
-      "context": "Helen Haines was attacked outside hers in Wangaratta."
-     },
-     {
-      "term": "political discourse",
-      "definition": "The way politicians and the public talk and argue about political issues.",
-      "context": "Barrett says certain kinds of it are directly correlated with threats against MPs."
-     }
-    ],
-    "quiz": {
-     "question": "What is the AFP Commissioner's main argument about threats against MPs?",
-     "options": [
-      "Only female MPs receive threats",
-      "Threats should be handled by limiting free speech",
-      "Spikes in threats often follow periods of heated political debate",
-      "Threats have dropped since the move to online communication"
-     ],
-     "answer_index": 2,
-     "explanation": "Barrett said there is a direct correlation between heated discourse and threats, sometimes very immediate, while stressing she doesn't want to police free speech. She said men and women are threatened equally, though women are more often singled out."
-    },
-    "impact_score": 68,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/7826c34ebbbb16c105769fd12c6a4850?impolicy=wcms_watermark_news&cropH=2880&cropW=5120&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "After independent MP Helen Haines was hit by a car outside her electorate office, the Australian Federal Police (AFP) Commissioner says inflammatory political debate is directly linked to threats and abuse against politicians.",
-    "tier": "LOCAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-25/federal-police-link-threat-to-politicians-to-political-debate/107306080"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "326e3f25-5c22-55e5-ad47-25ac7896dbe2",
-     "a448ed13-778f-5a6f-8038-c6d46e3a0cd6"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-10-25T12:39:18.342959+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
-   },
    {
     "id": "4b2a7fe3-0d6d-5ac9-b4bb-bf7903dcb005",
     "title": "'Lucky country has become the hungry country': Foodbank Australia",
@@ -184,6 +120,69 @@
     "reading_minutes": 1,
     "created_at": "2026-10-26T13:08:49.532006+00:00",
     "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
+    "id": "7107484a-fc77-5220-a172-49bccc3ea1c2",
+    "title": "Tough new testing rules for sunscreens in the wake of SPF scandal",
+    "simplified_title": "Regulator proposes tougher sunscreen testing after SPF failures",
+    "quick_summary": "Australia's medicines regulator wants sunscreen makers to test finished products more often and hand over results before sale, after Choice found 16 of 20 popular sunscreens fell short of their SPF claims.",
+    "simplified_body": "The Therapeutic Goods Administration (TGA), Australia's medicines regulator, has proposed stricter rules for sunscreens. Brands would have to test the sun protection factor (SPF) of their finished product, not just the base formula, keep testing it over its shelf life, and give results to the TGA confidentially before going to market. The TGA also wants to allow an in vitro test method and tighten accreditation of testing labs.\n\nThis matters for anyone who wears sunscreen, which is a lot of Australians. Trust took a hit last year when consumer group Choice found 16 of 20 popular sunscreens failed their SPF label claims. One SPF 50+ product tested at just SPF 4 and was recalled, along with 19 others sharing the same base formula. The TGA's chief medical adviser Robyn Langham said there were multiple factors behind the low results, not a single cause.\n\nRight now, makers only hand over SPF data if the TGA asks, and the TGA doesn't regulate or accredit testing labs. An ABC investigation found more than half the failing sunscreens used one overseas lab whose results experts questioned. Current testing is in vivo, meaning sunscreen goes on volunteers' skin, which the TGA says gives variable results. Even under the new rules, test data won't be made public and the TGA won't routinely check it before products hit shelves.\n\nSome changes could arrive soon, while others need more consultation and possibly law changes. The TGA is still weighing new labels, such as \"low\" to \"very high\" instead of numbers. It's unclear how sunscreens already on sale will be affected, and the TGA hasn't released its investigation results.",
+    "why_it_matters": "Two in three Australians will be diagnosed with skin cancer in their lifetime and about 2,000 die from it each year, so being able to trust the number on the bottle really counts.",
+    "deep_analysis": "## Historical Context\nAs background, Australia has some of the world's highest skin cancer rates and a long history of sun-safety campaigns. The current shake-up traces to Choice's testing last year, which found 16 of 20 sunscreens missed their SPF claims, followed by a recall of one 50+ product that tested at SPF 4 and 19 others with the same base formula.\n\n## Multiple Perspectives\nThe TGA frames the reforms as making SPF claims more reliable and putting responsibility on suppliers. But transparency gaps remain: data stays confidential, won't be routinely checked before sale, and the TGA hasn't released its investigation results. The TGA cited confidentiality, intellectual property and misinterpretation risks for not publishing data. It also admits stricter lab accreditation could make testing more expensive and harder to access, a likely concern for manufacturers. Allowing in vitro testing addresses variability in human testing, though the TGA says it may not suit some formulations or water-resistance claims.\n\n## What to Watch\n- Which changes start soon versus those needing legislation.\n- Whether labels move from numbers to words like \"high\" and \"very high\".\n- How rules apply to sunscreens already on shelves.\n- Whether the TGA publishes its investigation into the Choice findings.\n- Clearer lines between cosmetic and therapeutic sunscreens.",
+    "concepts": [
+     {
+      "term": "sun protection factor (SPF)",
+      "definition": "A rating of how well a sunscreen blocks UVB rays; SPF 20 filters about 95% and SPF 50 about 98%.",
+      "context": "Many sunscreens tested well below the SPF printed on their labels."
+     },
+     {
+      "term": "in vitro",
+      "definition": "A lab test where sunscreen is spread on a plastic plate rather than human skin.",
+      "context": "The TGA proposes allowing it because human-skin tests gave variable results."
+     },
+     {
+      "term": "in vivo",
+      "definition": "Testing on living people, here by applying sunscreen to volunteers under simulated sunlight.",
+      "context": "It's the current required method and won't be fully replaced."
+     },
+     {
+      "term": "base formula",
+      "definition": "The core recipe a sunscreen is built on, which can be shared by several products.",
+      "context": "20 sunscreens were recalled because they shared one failing base formula."
+     }
+    ],
+    "quiz": {
+     "question": "Under the TGA's proposal, what happens to sunscreen SPF test results?",
+     "options": [
+      "They are published online for shoppers",
+      "Choice reviews them before each product launches",
+      "They are no longer required",
+      "They go to the TGA confidentially before sale, but aren't routinely checked"
+     ],
+     "answer_index": 3,
+     "explanation": "Brands would submit results confidentially before market, but the TGA said it wouldn't routinely check them and decided against making them public."
+    },
+    "background_beginner": "Sunscreen in Australia is regulated by the Therapeutic Goods Administration, the government body that oversees medicines. Each bottle shows an SPF number saying how much sunburn-causing UV it blocks. Because Australia has very high skin cancer rates, people rely heavily on that number. Last year, consumer group Choice tested popular sunscreens and found most didn't live up to their labels, sparking recalls and questions about how sunscreens are tested and which labs do the testing. The issue keeps coming up because it touches public health, trust in big brands, and whether the regulator is watching closely enough.",
+    "impact_score": 55,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/8b004397929678458c095a56b5a471ba?impolicy=wcms_watermark_news&cropH=477&cropW=849&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Australia's medicines regulator wants sunscreen makers to test finished products more often and hand over results before sale, after Choice found 16 of 20 popular sunscreens fell short of their SPF claims.",
+    "tier": "LOCAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-27/tga-to-overhaul-spf-testing-for-australian-sunscreen-brands/107308980"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-10-26T23:11:43.719911+00:00",
+    "published_date": "2026-10-27",
     "has_fulltext": true
    },
    {
@@ -311,63 +310,6 @@
   ],
   "ASIA": [
    {
-    "id": "f2e44388-a948-597f-bb8c-0af53ae9b7c6",
-    "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
-    "simplified_title": "Rahul Gandhi calls Delhi rally over 130 million voter roll deletions",
-    "quick_summary": "Opposition leader Rahul Gandhi has called for a 1 November rally in New Delhi as protests grow over India's voter roll revision, which has removed more than 130 million names from draft electoral rolls.",
-    "simplified_body": "Congress leader and Member of Parliament Rahul Gandhi has urged students, farmers, workers, women, young people and traders to join a \"Save the Vote, Save the Country\" march and rally at Delhi's Ramlila Maidan on 1 November. In a post on X, he alleged the ruling Bharatiya Janata Party (BJP) was \"stealing\" votes, writing that names had been removed from voter lists and rules broken.\n\nThe fight is over the Election Commission's Special Intensive Revision (SIR) of electoral rolls, which has so far removed more than 130 million names from draft rolls nationwide. Critics say it could disenfranchise eligible voters and help Prime Minister Narendra Modi's BJP. In Hyderabad, hundreds formed a human chain on Saturday, with participants alleging nearly half of Telangana's electorate could be affected. The Election Commission says the exercise simply verifies and updates the rolls.\n\nSome background: groups including the youth-led Cockroach Janta Party (CJP) and the All India Students' Association (AISA) want Chief Election Commissioner (CEC) Gyanesh Kumar to resign after a newspaper investigation alleged impropriety in the revision. Hyderabad protesters also want the Chief Election Commissioner Act, 2023, which appointed Kumar, repealed. Student leader Neha Bora has refused to sign a police peace bond, arguing peaceful protest isn't a breach of the peace.\n\nNext up: Telangana's final electoral rolls are due on 9 November, a week after Gandhi's rally. Bora says they'll challenge how such peace bonds are used in court.",
-    "why_it_matters": "Who gets to vote is the foundation of any democracy, and the scale here — over 130 million names cut from draft rolls in the world's most populous democracy — is huge. For Australians used to an independent electoral commission and compulsory enrolment, it's a reminder of how much trust in election bodies matters.",
-    "deep_analysis": "## Historical Context\nAccording to the source, India's Election Commission is running a Special Intensive Revision of electoral rolls that has cut more than 130 million names from draft lists. Earlier this month, a bloc of opposition parties protested in Delhi demanding CEC Gyanesh Kumar's resignation. As general background, voter roll clean-ups are normal in democracies to remove deceased or duplicate entries, but large-scale deletions often spark fears that genuine voters, especially poorer or marginalised people, will be wrongly removed.\n\n## Multiple Perspectives\n- **Opposition (Rahul Gandhi, Congress):** says votes are being \"stolen\" by the BJP and laws broken.\n- **Protest groups (CJP, AISA, civil society, Dalit, farmer and student groups):** want the SIR scrapped, deleted voters restored, Kumar removed and the 2023 Act repealed. They also condemn police action against protesters.\n- **Election Commission:** defends the SIR as a routine exercise to verify and update rolls.\n- **Police and courts:** the Delhi High Court dismissed Neha Bora's challenge to a police peace-bond notice; Bora disputes the evidence police cited.\n\n## What to Watch\n- Turnout and tone at the 1 November Ramlila Maidan rally.\n- Telangana's final electoral rolls on 9 November, and whether deleted names are restored.\n- Further court challenges over peace bonds and the right to protest.\n- Any response from the Election Commission to the newspaper investigation's impropriety allegations.",
-    "concepts": [
-     {
-      "term": "Special Intensive Revision (SIR)",
-      "definition": "A large-scale review by India's Election Commission to verify and update the lists of who's allowed to vote.",
-      "context": "It has removed more than 130 million names from draft rolls, sparking the protests."
-     },
-     {
-      "term": "disenfranchise",
-      "definition": "To take away someone's right to vote.",
-      "context": "Critics fear eligible voters will be wrongly dropped from the rolls."
-     },
-     {
-      "term": "peace bond",
-      "definition": "A legal promise, often backed by money and a guarantor, to keep the peace, issued by police or courts.",
-      "context": "Neha Bora refused to sign one, saying peaceful protest isn't a breach of the peace."
-     }
-    ],
-    "quiz": {
-     "question": "Why are protesters most worried about the Special Intensive Revision?",
-     "options": [
-      "It moves the national election date",
-      "It introduces compulsory voting",
-      "It raises the voting age",
-      "They fear eligible voters are being wrongly removed from electoral rolls, possibly helping the ruling party"
-     ],
-     "answer_index": 3,
-     "explanation": "Critics say the SIR, which has cut over 130 million names from draft rolls, could disenfranchise eligible voters and benefit the BJP; the Election Commission says it's just verification."
-    },
-    "impact_score": 72,
-    "image_url": "https://static.dw.com/image/79568976_6.jpg",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "Opposition leader Rahul Gandhi has called for a 1 November rally in New Delhi as protests grow over India's voter roll revision, which has removed more than 130 million names from draft electoral rolls.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 10,
-    "created_at": "2026-10-25T12:39:18.193420+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
-   },
-   {
     "id": "9df64f4e-153e-51b0-9259-84d108fe1ec0",
     "title": "China's Communist Party elite hold key talks on governance",
     "simplified_title": "Xi Jinping gathers China's top party officials to tighten discipline",
@@ -435,6 +377,72 @@
     "reading_minutes": 2,
     "created_at": "2026-10-26T06:26:39.362030+00:00",
     "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
+    "id": "2b11d451-d22a-536c-9e8f-d0a847102bb1",
+    "title": "Typhoon Champi declared strongest storm of year so far",
+    "simplified_title": "Typhoon Champi named year's strongest storm after hitting Taiwan and Japan",
+    "quick_summary": "Typhoon Champi, the strongest storm of the year so far, battered Taiwan and Japan's southern islands, while Greece braces for more flooding and Cyclone Arnab heads for India's east coast.",
+    "simplified_body": "Typhoon Champi has been declared the strongest storm of the year so far after recording sustained winds of 185mph (about 298km/h). From late Thursday to early Saturday it battered Taiwan and Japan's southern islands. It skirted Taiwan's Yilan County coastline, looped offshore and then tracked north, bringing gusts of up to 141mph and more than 620mm of rain in 48 hours to parts of Yilan.\n\nOne person has died and 527 were injured. At one point more than 288,000 homes lost power, though most have since been reconnected. By Monday, Champi had been downgraded to a tropical storm and was rapidly weakening south-west of Japan's mainland.\n\nElsewhere, Greece faces its fourth flood risk this October. Its national weather agency warned of 30mm-60mm of rain in 12 hours across central areas and 50mm-80mm in the north-east Aegean Islands, with similar totals possible between Wednesday and Thursday. Meanwhile, a low-pressure system over the Bay of Bengal has become Cyclone Arnab.\n\nArnab is expected to make landfall on the north Andhra Pradesh and south Odisha coast on Wednesday, with gusts up to 85mph and up to 100mm of rain in six hours. The India Meteorological Department has issued alerts for extreme heavy rain, thunderstorms and strong winds. The storm should then drift north and fizzle out over north-east India by the end of the week.",
+    "why_it_matters": "Several dangerous weather systems are hitting different regions at once, and Champi's power shows how intense Asia-Pacific storms can get. Australians with family or travel plans in Taiwan, Japan, Greece or eastern India may want to keep an eye on local warnings.",
+    "deep_analysis": "## Historical Context\nAs general background, typhoons and cyclones are the same kind of storm, a tropical cyclone, named differently by region. Taiwan and southern Japan sit in the path of many western Pacific typhoons each year, and India's east coast regularly faces Bay of Bengal cyclones, particularly around October. Greece's repeated October flooding comes from low-pressure systems rather than tropical storms.\n\n## Multiple Perspectives\nChampi's toll of one death and 527 injuries is low given its strength, which may partly reflect the storm looping offshore rather than crossing Taiwan directly. Widespread outages that were mostly restored show both the vulnerability and resilience of infrastructure. In Greece, the concern is cumulative: repeated rain on already soaked ground raises flood risk.\n\n## What to Watch\n- Whether Cyclone Arnab lands on Wednesday as forecast and how Andhra Pradesh and Odisha cope.\n- Further Greek flooding between Wednesday and Thursday.\n- Any updates to Champi's casualty figures as it weakens near Japan.",
+    "concepts": [
+     {
+      "term": "sustained winds",
+      "definition": "The average wind speed held over a period of time, rather than brief bursts.",
+      "context": "Champi's sustained winds of 185mph are why it was named the year's strongest storm."
+     },
+     {
+      "term": "tropical storm",
+      "definition": "A rotating storm that is weaker than a typhoon or cyclone.",
+      "context": "Champi was downgraded to a tropical storm as it lost strength."
+     },
+     {
+      "term": "low-pressure system",
+      "definition": "An area where air pressure is lower than its surroundings, often bringing clouds, rain and wind.",
+      "context": "A low-pressure system over the Bay of Bengal grew into Cyclone Arnab."
+     },
+     {
+      "term": "landfall",
+      "definition": "When the centre of a storm moves from sea onto land.",
+      "context": "Arnab is expected to make landfall on Wednesday."
+     }
+    ],
+    "quiz": {
+     "question": "What does it mean that Typhoon Champi was 'downgraded to a tropical storm'?",
+     "options": [
+      "It weakened and now has lower wind speeds",
+      "It was renamed for a different region",
+      "It got stronger and moved onto land",
+      "It split into two separate storms"
+     ],
+     "answer_index": 0,
+     "explanation": "A downgrade means the storm has weakened. Champi was rapidly weakening south-west of Japan's mainland."
+    },
+    "background_beginner": "Tropical cyclones are huge spinning storms that form over warm oceans. In the western Pacific they're called typhoons, near India they're called cyclones, and in the Atlantic, hurricanes. Places like Taiwan, southern Japan and India's east coast get hit regularly because they sit along common storm paths. Weather agencies in each country track these storms, rate their strength by wind speed and issue warnings. Separately, parts of Europe like Greece can get severe flooding from low-pressure systems that dump heavy rain. These stories keep coming up because storm seasons return every year, and strong ones can kill people, cut power and flood towns.",
+    "impact_score": 55,
+    "image_url": "https://i.guim.co.uk/img/media/82f80ccc07bb29b20e14a9a3f8d0c0cd95280e1d/651_0_3750_3000/master/3750.jpg?width=1920&quality=85&auto=format&fit=max&s=9d3d014d59d80ce843556d202577507d",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "Typhoon Champi, the strongest storm of the year so far, battered Taiwan and Japan's southern islands, while Greece braces for more flooding and Cyclone Arnab heads for India's east coast.",
+    "tier": "GLOBAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/26/typhoon-champi-taiwan-japan-storm-greece-floods"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "9f7b9aa1-3229-59b2-ba61-f2a2470a9563",
+     "b81cbf25-f5e2-5de5-b262-e5f6369afeca"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-10-26T23:11:41.896501+00:00",
+    "published_date": "2026-10-27",
     "has_fulltext": true
    },
    {
@@ -883,68 +891,65 @@
     "has_fulltext": true
    },
    {
-    "id": "e7784c73-91ca-5926-a3c8-70bbbc84035f",
-    "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-    "simplified_title": "Kenya records second Ebola death during its first-ever outbreak",
-    "quick_summary": "A 65-year-old woman related to Kenya's first Ebola victim has died in quarantine, making her the country's second death in its first ever outbreak of the disease.",
-    "simplified_body": "Kenya has recorded its second death from Ebola. The victim was a 65-year-old woman, a close family member of the first person to die, a man who had travelled from the Democratic Republic of Congo (DR Congo). She was already in quarantine when she developed symptoms on 13 October. The first death happened on 5 October in Nairobi, Kenya's capital.\n\nSeven other patients are being treated in isolation: three more relatives of the first victim, three health workers and a hospital cleaner. Kenya's health ministry says all cases are in \"one cluster, with no evidence of community spread\". Still, the US has warned its citizens against travelling to Kenya, and neighbours such as Uganda, Ethiopia and Somalia are on alert.\n\nSome background: Ebola is a rare but deadly virus that spreads through contact with infected bodily fluids like blood or vomit. It can cause vomiting, diarrhoea, organ failure and sometimes bleeding. This outbreak involves the Bundibugyo species, which has no approved vaccine or treatment, though trials are under way. More than 4,000 people have died in Africa since Ebola was confirmed in DR Congo in May, making it the second most deadly outbreak of the disease.\n\nKenya now requires travellers from DR Congo and nine other high-risk countries to fill in a digital surveillance form and show a QR code on arrival. Nigeria says its only confirmed case appears genetically related to a strain found in Kenya, and investigators are checking whether both patients passed through Uganda's Entebbe airport. Uganda has also stopped people who've been to DR Congo from transiting through the country.",
-    "why_it_matters": "An Ebola strain with no approved vaccine is now popping up in new countries linked by air travel, showing how quickly a regional outbreak can cross borders. The sources don't mention any Australian cases or measures.",
-    "deep_analysis": "## Historical Context\nAccording to the source, this is Kenya's first ever Ebola outbreak, and the wider outbreak that began in DR Congo in May is the second most deadly on record, with more than 4,000 deaths in Africa and over 9,500 cases in DR Congo. As general background, the deadliest Ebola outbreak was in West Africa in 2014–16. Earlier outbreaks were often caused by the Zaire species, for which vaccines were later developed; the Bundibugyo species here has no approved vaccine or treatment.\n\n## Multiple Perspectives\nKenya's health ministry stresses containment: all cases sit in one cluster with no community spread, and the second victim was already in quarantine. The US government has taken a more cautious line, warning citizens against travel to Kenya. The International Rescue Committee warns Kenya faces a steady risk of new cases crossing its borders. Uganda has acted on transit routes, while Nigeria's health minister, Prof Ali Pate, says there's no evidence yet that the Kenyan patient travelled to Nigeria, though testing continues.\n\n## What to Watch\n- Whether any of the seven patients in isolation die or recover, and whether cases appear outside the current cluster.\n- Results of genetic testing linking Nigeria's case to Kenya's, and the Entebbe airport investigation.\n- Progress of vaccine and treatment trials for the Bundibugyo species.\n- Whether more countries tighten travel or transit rules.",
+    "id": "fb15646b-0dc3-51ce-a492-c32758b51f8f",
+    "title": "Why Ebola cases in Kenya and Nigeria have cast doubt on Uganda's claims of being virus-free",
+    "simplified_title": "Ebola cases in Kenya and Nigeria raise questions about Uganda",
+    "quick_summary": "Kenya's and Nigeria's first confirmed Ebola patients both passed through Uganda's Entebbe airport on 3 October, and Switzerland now disputes Uganda's account of the Nigerian patient's travels, putting Uganda's claim of having no active cases under the spotlight.",
+    "simplified_body": "Kenya and Nigeria have each confirmed their first Ebola patients, and both people passed through Entebbe International Airport in Uganda on 3 October. That's according to Wessam Mankoula of the Africa Centres for Disease Control and Prevention (Africa CDC). Investigators are checking whether the two crossed paths there. Nobody has established that they met, or that any infection happened at the airport.\n\nThe Nigerian patient is a Swiss national of Ugandan origin who is married to a Swiss diplomat in Abuja. She's stable, and 44 contacts have been identified. Uganda's Health Ministry says she visited eastern Democratic Republic of Congo (DRC), where an outbreak is underway. Switzerland says she and her husband never went there and believes she caught the virus in Uganda, though that hasn't been independently confirmed. The World Health Organization (WHO) and Africa CDC say they haven't received confirmed information that she went to the DRC. The Kenyan patient died in Nairobi on 5 October after travelling from the DRC through Uganda. Kenya has since reported more infections, and officials can't reach a Ugandan contact of the patient who was using a South Sudanese phone number.\n\nUganda insists it has no confirmed active cases. It shares a long border with the DRC, and busy trade and travel routes make it hard to pin down where someone was exposed. Ebola symptoms appear two to 21 days after infection, so even good border screening can't catch every infected traveller.\n\nUganda says it's tightening screening at its entry points, and Nigeria has stepped up contact tracing. The Africa CDC will hold an \"extraordinary virtual meeting\" of national health officials on 28 October.",
+    "why_it_matters": "The confusion shows how quickly a deadly virus can move across borders through airports, and how much stopping it depends on countries sharing accurate travel information fast.",
+    "deep_analysis": "## Historical Context\nAs general background, Ebola was first identified in 1976 near the Ebola River in what is now the DRC, and the DRC has had repeated outbreaks since. The article notes that the DRC's outbreaks have repeatedly challenged health authorities and that Nigeria's new case has revived memories of earlier outbreaks there.\n\n## Multiple Perspectives\n- **Uganda** says it has no confirmed active cases. It says travel through Uganda doesn't establish that infection happened there and that it's waiting for details from Nigeria.\n- **Switzerland** says the Nigerian patient never went to the DRC and believes she caught the virus in Uganda. That assessment hasn't been independently confirmed.\n- **WHO and Africa CDC** haven't confirmed the claimed DRC travel.\n- **Abuja residents** are worried. One says people are more focused on economic survival than on sickness.\n\nThe article stresses that Uganda's zero-case declaration doesn't rule out infections, but the travel histories don't prove a hidden outbreak either.\n\n## What to Watch\n- Whether the two patients actually overlapped at Entebbe.\n- Where the Nigerian patient was really exposed.\n- Whether Kenya finds the untraced Ugandan contact.\n- The outcome of the Africa CDC meeting on 28 October.",
     "concepts": [
      {
-      "term": "quarantine",
-      "definition": "Keeping people who may have been exposed to a disease apart from others to see if they get sick.",
-      "context": "The second victim was already in quarantine when symptoms began, which helps limit spread."
+      "term": "contact tracing",
+      "definition": "Finding everyone an infected person may have been near so they can be checked and isolated if needed.",
+      "context": "Nigeria has stepped up contact tracing around its patient, who has 44 identified contacts."
      },
      {
-      "term": "community spread",
-      "definition": "When a disease is passing between people in the general public without a clear link to known cases.",
-      "context": "Kenya says there's no evidence of it, meaning all cases trace back to one known chain."
+      "term": "Africa Centres for Disease Control and Prevention (Africa CDC)",
+      "definition": "The African Union's public health agency, which coordinates responses to disease outbreaks across the continent.",
+      "context": "Its official revealed the Entebbe airport link and is convening a meeting on 28 October."
      },
      {
-      "term": "Bundibugyo species",
-      "definition": "A relatively rare type of Ebola virus.",
-      "context": "It matters because there's no approved vaccine or treatment for it yet."
-     },
-     {
-      "term": "cluster",
-      "definition": "A group of linked cases that can be traced to a common source.",
-      "context": "All of Kenya's cases connect back to the first victim's family and carers."
+      "term": "border screening",
+      "definition": "Checking travellers at airports and land crossings for signs of illness.",
+      "context": "It can't catch everyone because Ebola can take up to 21 days to cause symptoms."
      }
     ],
     "quiz": {
-     "question": "Why do Kenyan officials say the outbreak is currently contained, despite two deaths?",
+     "question": "Why can't border screening alone reliably stop Ebola from spreading between countries?",
      "options": [
-      "Because the virus cannot spread between people",
-      "Because a vaccine has been given to everyone in Nairobi",
-      "Because all cases are linked in one cluster with no evidence of community spread",
-      "Because all patients have recovered"
+      "Ebola is only found in Uganda",
+      "Airports don't allow health checks",
+      "Ebola only spreads through animals",
+      "Infected people may show no symptoms for up to 21 days, so they look healthy while travelling"
      ],
-     "answer_index": 2,
-     "explanation": "Every case traces back to the first victim, his relatives or people who treated him, so there's no sign it's spreading among the wider public. There's no approved vaccine for this species."
+     "answer_index": 3,
+     "explanation": "Symptoms appear two to 21 days after infection, so a traveller can carry the virus without showing signs. That's why contact tracing and accurate travel histories matter so much."
     },
-    "impact_score": 68,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg",
+    "background_beginner": "Ebola is a rare but often deadly virus that causes severe illness and bleeding. It spreads through contact with the body fluids of sick people. Outbreaks have struck central and west Africa many times, especially the Democratic Republic of Congo. The World Health Organization and the Africa CDC help countries respond. Ebola keeps making the news because outbreaks can flare up in places with busy borders and stretched health systems. Air travel means one case can quickly turn up in a distant country. In this story, Kenya and Nigeria are dealing with new cases, while neighbouring Uganda says it has none.",
+    "impact_score": 62,
+    "image_url": "https://static.dw.com/image/60287067_6.jpg",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "A 65-year-old woman related to Kenya's first Ebola victim has died in quarantine, making her the country's second death in its first ever outbreak of the disease.",
+    "description": "Kenya's and Nigeria's first confirmed Ebola patients both passed through Uganda's Entebbe airport on 3 October, and Switzerland now disputes Uganda's account of the Nigerian patient's travels, putting Uganda's claim of having no active cases under the spotlight.",
     "tier": "GLOBAL",
     "category": "HEALTH",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo"
+      "name": "DW",
+      "url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [
      "920de58d-374c-5da9-baa1-d152afa9a420",
-     "e61a7066-899c-5fb7-a4bc-d09fc0db5d44"
+     "e61a7066-899c-5fb7-a4bc-d09fc0db5d44",
+     "e7784c73-91ca-5926-a3c8-70bbbc84035f"
     ],
-    "reading_minutes": 2,
-    "created_at": "2026-10-25T12:39:18.409549+00:00",
-    "published_date": "2026-10-25",
+    "reading_minutes": 5,
+    "created_at": "2026-10-26T23:11:43.558541+00:00",
+    "published_date": "2026-10-27",
     "has_fulltext": true
    }
   ],
@@ -1024,6 +1029,68 @@
     "has_fulltext": true
    },
    {
+    "id": "1fc99202-e937-53b6-86e9-5213102ff398",
+    "title": "Ex-FBI chief James Comey faces federal charges for third time",
+    "simplified_title": "Former FBI boss James Comey hit with a third set of charges",
+    "quick_summary": "US federal prosecutors have charged former Federal Bureau of Investigation (FBI) Director James Comey, a long-time Trump critic, with leaking national defence information to the New York Times in 2016 — the third attempt to prosecute him since Donald Trump returned to office.\n",
+    "simplified_body": "Federal prosecutors have filed two counts against James Comey, the former head of the Federal Bureau of Investigation (FBI), accusing him of unlawfully sharing \"information related to national defence\". The case centres on an October 2016 New York Times story about Yahoo being ordered to scan its email traffic for a computer signature allegedly tied to a terrorist group. Prosecutors say Comey, through co-conspirators, directed someone to disclose the information to reporter Charlie Savage.\n\nComey denies it, calling the charges an \"appalling abuse\" of the Department of Justice. His lawyer, Patrick Fitzgerald, says two separate prosecution teams already looked into the leak during Trump's first term and both decided no one should be charged. Notably, prosecutors used a criminal information rather than an indictment, meaning they skipped a grand jury. The judge overseeing the case, Trevor McFadden, is a Trump appointee.\n\nSome background: Trump fired Comey in 2017 while the FBI was investigating possible links between Russia and Trump's 2016 campaign. Trump has called for his prosecution ever since. In September 2025, Comey was indicted for allegedly lying to Congress, but that case was dismissed because the prosecutor, Lindsey Halligan, was unlawfully appointed. In April 2026 he was charged over an Instagram photo of seashells spelling \"86 47\", which prosecutors say encouraged violence against Trump. Comey says he didn't know what it meant, and that case is ongoing.\n\nComey's legal team is seeking to have the newest charges dismissed. Comey himself hinted he expects more charges, saying \"the next couple years are going to be hard for all of us.\"",
+    "why_it_matters": "Using the justice system against a president's critics tests whether courts can act as a check on political power — something Australians watching their closest ally will want to keep an eye on.",
+    "deep_analysis": "## Historical Context\nComey led the FBI from 2013 until Trump fired him in 2017, amid the investigation into Russian interference in the 2016 election, which Trump calls a \"hoax\". After Trump's second inauguration in January 2025, he publicly urged then-Attorney General Pam Bondi to pursue Comey, Senator Adam Schiff and New York Attorney General Letitia James. Comey was indicted five days later. That case collapsed over an unlawful prosecutor appointment; a second case over the \"86 47\" post continues.\n\n## Multiple Perspectives\n**Prosecutors** say Comey directed a colleague to leak national defence information to a reporter. **Comey** calls it political retribution and says he's \"still innocent\". **His lawyer** argues the matter was investigated twice before with no charges, and criticises the choice to bypass a grand jury. Critics may also point out the judge is a Trump appointee, though that alone doesn't determine an outcome. On the same day, a separate court ruled Comey's daughter Maurene was unlawfully fired, a decision she links to retaliation against her father.\n\n## What to Watch\n- Whether Judge McFadden dismisses the information.\n- The outcome of the ongoing \"86 47\" case.\n- Whether other Trump critics face similar charges.\n- Background: leak cases involving classified material can be legally complex and slow-moving.",
+    "concepts": [
+     {
+      "term": "criminal information",
+      "definition": "A formal written charge filed directly by a prosecutor, without a grand jury's approval.",
+      "context": "Prosecutors used this route against Comey, which his lawyer criticised."
+     },
+     {
+      "term": "indictment",
+      "definition": "A formal charge approved by a grand jury after reviewing the evidence.",
+      "context": "Comey's first two cases were indictments; this one is not."
+     },
+     {
+      "term": "grand jury",
+      "definition": "A group of sworn citizens who decide whether evidence is strong enough to prosecute.",
+      "context": "Skipping it is part of why Comey's team calls the case weak."
+     }
+    ],
+    "quiz": {
+     "question": "Why does Comey's lawyer highlight that prosecutors used a 'criminal information'?",
+     "options": [
+      "Because it means the case will be heard in the New York Times",
+      "Because it can only be used for minor traffic offences",
+      "Because it means Comey has already been convicted",
+      "Because it means the charges skipped review by a grand jury"
+     ],
+     "answer_index": 3,
+     "explanation": "A criminal information is filed directly by a prosecutor, bypassing the grand jury check that an indictment requires."
+    },
+    "background_beginner": "James Comey ran the FBI, America's main federal police and intelligence agency, from 2013. In 2017 President Donald Trump sacked him while the FBI was investigating possible ties between Russia and Trump's 2016 campaign. Comey became one of Trump's loudest critics, and Trump has repeatedly said Comey should be prosecuted. Since Trump returned to office in 2025, his government has brought charges against Comey three times: over his testimony to Congress (dismissed), over a seashell photo reading \"86 47\" (ongoing), and now over a 2016 news leak. It keeps coming up because it's a big test of whether the justice system is being used to target political opponents.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "US federal prosecutors have charged former Federal Bureau of Investigation (FBI) Director James Comey, a long-time Trump critic, with leaking national defence information to the New York Times in 2016 — the third attempt to prosecute him since Donald Trump returned to office.\n",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-26T23:11:44.178335+00:00",
+    "published_date": "2026-10-27",
+    "has_fulltext": true
+   },
+   {
     "id": "8cae1516-167b-5d12-85cf-c8c05b54fa16",
     "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
     "simplified_title": "Venezuelan opposition leader María Corina Machado returns home from exile",
@@ -1083,132 +1150,67 @@
     "created_at": "2026-10-25T21:55:08.200848+00:00",
     "published_date": "2026-10-26",
     "has_fulltext": true
-   },
+   }
+  ],
+  "GLOBAL_SYSTEMS": [
    {
-    "id": "98bcd117-e7bd-50d7-afce-c259ffaa0be8",
-    "title": "Deadly measles spread hitting US state's Amish hard amid White House row",
-    "simplified_title": "Pennsylvania's worst measles outbreak in decades hits Amish communities hard",
-    "quick_summary": "Pennsylvania's measles outbreak has passed 1,300 cases and killed at least six unvaccinated people, mostly Amish, while the state's governor clashes with US Health Secretary Robert F Kennedy Jr.",
-    "simplified_body": "The US state of Pennsylvania is dealing with its worst measles outbreak in more than three decades. Since it began in late April, there have been more than 1,300 cases, at least 251 people have been hospitalised, and at least six people have died, including two infants. Health officials say none of those who died were vaccinated.\n\nThe Amish, a religious community that rejects many modern technologies, have been hit hardest. At least five of the dead were reportedly Amish. Low vaccination rates, big families (often seven or eight kids) and frequent gatherings help the virus spread fast. Officials also worry many cases go unreported because some sick people don't seek medical care.\n\nSome background: measles is highly contagious, and up to nine in 10 unvaccinated people exposed are likely to get sick. The US stopped local spread in 2000 thanks to high vaccination rates, but the Centers for Disease Control (CDC) says coverage has dropped below the 95 per cent needed to prevent outbreaks. The US now has more than 4,500 cases this year, its worst since 1991. Health Secretary Robert F Kennedy Jr, known for raising alarms about vaccines, suggested Governor Josh Shapiro's office may have \"fabricated\" deaths. Mr Shapiro hit back, blaming Mr Kennedy for stoking confusion.\n\nPop-up clinics have given at least 6,500 MMR (measles, mumps and rubella) vaccines since April. One local health director says Pennsylvania can no longer outrace the outbreak, and more deaths are statistically likely.",
-    "why_it_matters": "Measles anywhere is a risk everywhere once vaccination rates slip, and Australian experts like infectious diseases director Paul Griffin warn that mixed messages from leaders undermine public health efforts.",
-    "deep_analysis": "## Historical Context\nAccording to the article, the US eliminated domestic measles spread in 2000 by keeping vaccination rates high, but rates have since fallen below the 95 per cent threshold. This year is the country's worst since 1991. As general background, 'elimination' status can be lost if continuous spread persists for a year or more.\n\n## Multiple Perspectives\nPublic health officials such as Chester County's Jeanne Franklin urge everyone, Amish or anti-vaxxer, to reassess vaccine decisions, and use trusted local businesses to spread information. Researcher Braxton Mitchell explains the Amish are sceptical of government and often accept illness as God's will. Governor Shapiro blames Mr Kennedy's claims for reduced protection, while Mr Kennedy accused Shapiro of fearmongering and possibly fabricating deaths; the CDC delayed listing the deaths while seeking verification. Ms Franklin says frontline CDC staff remain dedicated, though they are told what they can publish.\n\n## What to Watch\n- Whether deaths rise, as Ms Franklin expects.\n- Uptake at pop-up vaccine clinics.\n- Spread in Texas, Utah, South Carolina, Wisconsin, Florida and New York, which has declared a disaster emergency.\n- Further federal-state clashes over vaccine messaging.",
+    "id": "54b624e2-4777-5fd6-b479-797998c7bd00",
+    "title": "Africa food security under threat due to Iran war, trade officials warn",
+    "simplified_title": "Iran war pushes up fuel and fertiliser costs, threatening African food supplies",
+    "quick_summary": "African trade ministers and a United Nations trade official warn that the US-Israel war on Iran and disruption around the Strait of Hormuz are pushing up fuel and fertiliser prices, which could mean smaller harvests and dearer food next year.",
+    "simplified_body": "At a United Nations Trade and Development (UNCTAD) investment forum in Doha, Qatar, officials warned that the war the United States and Israel are waging on Iran is hurting African economies. Disruption around the Strait of Hormuz has sent fuel and fertiliser prices soaring. UNCTAD's Luz Maria de la Mora said many countries are now using less fertiliser, which could shrink crops and raise food prices next year.\n\nFarming nations are feeling it most. In Zimbabwe, more than 70 percent of people depend on agriculture. In Uganda, fuel prices have more than doubled and the shilling has lost 10 percent of its value against the US dollar. Uganda's trade minister, Sanjay Tanna, said subsistence farming, where families grow their own food, has cushioned the blow somewhat.\n\nThe Strait of Hormuz is a narrow waterway that previously carried one-fifth of the world's oil and liquefied natural gas trade, so trouble there ripples through global supply chains. De la Mora said the effects are lasting longer than expected. Officials also spoke about the wider challenge of attracting investment: Zimbabwe pitched itself as \"a friend to all and an enemy to none\" amid the US-China trade war, pointing to its critical minerals like lithium and graphite.\n\nWhat comes next depends partly on how quickly the Hormuz crisis is resolved, which de la Mora said must happen \"sooner rather than later\". Meanwhile, countries like the Republic of Congo want to process more of their own raw materials at home rather than exporting them cheaply.",
+    "why_it_matters": "When a single shipping chokepoint is disrupted, poorer farming nations can face food shortages a whole season later. Australia, as a big fertiliser and fuel importer and a major food exporter, is plugged into these same global price swings.",
+    "deep_analysis": "## Historical Context\nAs background, the Strait of Hormuz sits between Iran and the Arabian Peninsula and has long been seen as one of the world's most important energy chokepoints. The article notes it previously carried one-fifth of global oil and liquefied natural gas trade. Fertiliser production depends heavily on natural gas, so energy shocks tend to flow into farm costs. African officials have also long complained that the continent exports raw materials and buys back finished goods at higher prices, a point the Republic of Congo's Jean-Jacques Bouya made bluntly.\n\n## Multiple Perspectives\nUNCTAD's de la Mora stresses the knock-on effect: farmers cutting fertiliser use now could mean lower harvests next year. She also argues investment concentrating in a few countries is \"very understandable\" because capital is risk averse, and governments must build confidence through rule of law and infrastructure. Uganda's Tanna says the trading system is not fair, \"Of course not\", but sees self-sufficiency in food as a strength. Zimbabwe's Monica Mutsvangwa takes a pragmatic line, welcoming investors from either side of the US-China divide.\n\n## What to Watch\n- Whether the Hormuz disruption eases or drags on.\n- Next season's harvests in fertiliser-dependent African countries.\n- Currency pressure, such as the Ugandan shilling's slide.\n- Whether pushes for local processing of minerals like lithium attract real investment.",
     "concepts": [
      {
-      "term": "Amish",
-      "definition": "A close-knit Christian community that follows strict rules and rejects many modern technologies.",
-      "context": "Their low vaccination rates and social lifestyle made them most affected."
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage off Iran that a large share of the world's oil and gas shipping passes through.",
+      "context": "Disruption there has pushed up global fuel and fertiliser prices."
      },
      {
-      "term": "MMR",
-      "definition": "A combined vaccine protecting against measles, mumps and rubella.",
-      "context": "Thousands of doses have been given at pop-up clinics."
+      "term": "subsistence farming",
+      "definition": "Farming mainly to feed your own family or community rather than to sell.",
+      "context": "Uganda's minister said it helped shield the country from global food price swings."
      },
      {
-      "term": "Centers for Disease Control (CDC)",
-      "definition": "The US national public health agency.",
-      "context": "It tracks cases and says vaccination coverage has fallen below safe levels."
+      "term": "critical minerals",
+      "definition": "Minerals such as lithium and graphite that are vital for modern technology like batteries.",
+      "context": "Zimbabwe uses its deposits to attract foreign investors."
      }
     ],
     "quiz": {
-     "question": "According to the CDC, why has measles returned in the US after being eliminated in 2000?",
+     "question": "Why might the fertiliser price rise affect food prices next year rather than straight away?",
      "options": [
-      "The MMR vaccine stopped being made",
-      "A new strain resistant to vaccines appeared",
-      "Vaccination rates fell below the 95 per cent needed to prevent outbreaks",
-      "Travellers from Australia brought it in"
+      "Food prices are fixed by the UN for 12 months",
+      "Farmers using less fertiliser now may grow smaller crops at the next harvest",
+      "Fertiliser is only sold once a year",
+      "Fertiliser takes a year to ship through Hormuz"
      ],
-     "answer_index": 2,
-     "explanation": "The CDC says vaccination coverage dropped below 95 per cent, the level needed to stop outbreaks."
+     "answer_index": 1,
+     "explanation": "De la Mora said many countries have cut fertiliser use, which will reduce crops next year and could affect food availability and prices."
     },
-    "impact_score": 62,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/a372fd07d9e4438381dd8a27465c01f7?impolicy=wcms_watermark_news&cropH=1969&cropW=3500&xPos=0&yPos=17&width=862&height=485&imformat=generic",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "Pennsylvania's measles outbreak has passed 1,300 cases and killed at least six unvaccinated people, mostly Amish, while the state's governor clashes with US Health Secretary Robert F Kennedy Jr.",
+    "background_beginner": "The United States and Israel are at war with Iran, and that conflict has disrupted the Strait of Hormuz, a narrow sea lane near Iran where lots of the world's oil and gas used to travel. When ships can't move freely, fuel gets more expensive, and so does fertiliser, which is made using energy. Many African countries rely heavily on farming, so higher costs hit them hard. This story keeps coming up because it shows how a war far away can change what families pay for food, and how poorer countries often have the least protection from global shocks.",
+    "impact_score": 66,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6adfa8dc34-1793042652.jpg?resize=1920%2C1440",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "African trade ministers and a United Nations trade official warn that the US-Israel war on Iran and disruption around the Strait of Hormuz are pushing up fuel and fertiliser prices, which could mean smaller harvests and dearer food next year.",
     "tier": "GLOBAL",
-    "category": "HEALTH",
+    "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-25/pennsylvania-us-measles-outbreak-impacts-amish-communities/107287196"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 6,
-    "created_at": "2026-10-25T12:39:17.029423+00:00",
-    "published_date": "2026-10-25",
+    "reading_minutes": 4,
+    "created_at": "2026-10-26T23:11:43.795741+00:00",
+    "published_date": "2026-10-27",
     "has_fulltext": true
    },
-   {
-    "id": "bbf1a2f0-de04-500f-9c0e-5df8e112d929",
-    "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-    "simplified_title": "Obama hits campaign trail, slamming Trump over Iran war and prices",
-    "quick_summary": "Former US President Barack Obama rallied Democrats in Ohio and Michigan ahead of the 3 November midterms, attacking Trump over the Iran war, high prices and tariffs, while Trump rallied supporters in Georgia.",
-    "simplified_body": "Barack Obama spent Saturday campaigning in Ohio and Michigan for Democratic candidates, about 10 days before the US midterm elections on 3 November. He blamed President Donald Trump for an \"unnecessary war\" with Iran, higher fuel prices, and tariffs that he said make everyday goods more expensive. He also mocked Trump's gold-heavy White House renovations. Meanwhile, Trump told a rally in Georgia \"we're in the golden age of America\" and said fuel prices would come down.\n\nThe midterms decide which party controls Congress for the rest of Trump's term, which affects how easily he can push through his plans. Obama called the election a \"circuit breaker\" on Trump's power. In Ohio, he backed Sherrod Brown for the Senate and Amy Acton for governor, slamming her Republican rival Vivek Ramaswamy over an ad featuring Acton's estranged mother. In Michigan, he backed Abdul El-Sayed and Jocelyn Benson.\n\nSome background: Obama argued his 2015 nuclear deal kept Iran from getting nuclear weapons, and that Trump pulled out of it. Disruption in the Strait of Hormuz, where about a fifth of global oil and gas passed before the war, has pushed up energy prices worldwide. Trump says tariffs are bringing in \"massive amounts of money\" and has promised every adult American a $5,000 payout if Republicans win both chambers of Congress.\n\nEarly voting has already started, and Trump cast his ballot in Florida. Al Jazeera reports that most Americans hold Trump responsible for the war and rising prices, which could hurt Republicans when results come in.",
-    "why_it_matters": "Who controls Congress shapes how far Trump can go on the Iran war and tariffs, both of which ripple through global oil prices and trade, including what Australians pay at the pump.",
-    "deep_analysis": "## Historical Context\nAs background: US midterms fall halfway through a president's four-year term, and the president's party often loses ground. The 2015 Iran nuclear deal, which Obama defends, limited Iran's nuclear program in exchange for sanctions relief; according to Obama, Trump pulled out of it. Obama also noted Democrats lost in 2024 partly over inflation concerns after the Covid pandemic.\n\n## Multiple Perspectives\nObama says Trump's choices, especially the Iran war and tariffs, have made life more expensive, and points to the $40 trillion national debt (which Al Jazeera notes built up over many administrations). Trump says oil prices are only \"temporarily high\", that tariffs are raising money, and that on Iran \"either way, we win.\" He accused Democrats of wanting to \"loot your wealth\" and used derogatory language about some countries. On the Ramaswamy ad, Republicans are split: Ohio Governor Mike DeWine criticised it, while Trump and Vice President JD Vance defended it.\n\n## What to Watch\nWhether Democrats win the Ohio and Michigan Senate and governor races; whether fuel prices ease before 3 November; developments in the Iran war or a possible deal; and the threatened 50% US tariffs on Canadian vehicles and parts from January 2027.",
-    "concepts": [
-     {
-      "term": "midterm elections",
-      "definition": "US elections held halfway through a president's term, deciding seats in Congress.",
-      "context": "These midterms on 3 November will decide which party controls Congress for Trump's last two years."
-     },
-     {
-      "term": "Congress",
-      "definition": "The US national parliament, made up of the Senate and the House of Representatives.",
-      "context": "Trump promised a $5,000 payout if Republicans win both chambers of Congress."
-     },
-     {
-      "term": "tariffs",
-      "definition": "Taxes on imported goods, often passed on to consumers through higher prices.",
-      "context": "Obama said 'when you impose tariffs, consumers pay the tab', while Trump said they raise lots of money."
-     },
-     {
-      "term": "Strait of Hormuz",
-      "definition": "A narrow sea passage between Iran and Oman that a large share of the world's oil and gas travels through.",
-      "context": "Obama said the war gave Iran 'veto power' over the strait, pushing up fuel prices."
-     }
-    ],
-    "quiz": {
-     "question": "Why did Obama call the midterm elections a 'circuit breaker'?",
-     "options": [
-      "Because they set fuel prices for the next two years",
-      "Because control of Congress affects how easily Trump can carry out his plans",
-      "Because they decide whether the Iran nuclear deal is restored",
-      "Because they could replace Trump as president immediately"
-     ],
-     "answer_index": 1,
-     "explanation": "The midterms decide which party controls Congress, which can limit or enable the president's agenda for the rest of his term."
-    },
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/0734/live/d07c4f10-cff9-11f1-93e1-3b657b665bcf.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "Former US President Barack Obama rallied Democrats in Ohio and Michigan ahead of the 3 November midterms, attacking Trump over the Iran war, high prices and tariffs, while Trump rallied supporters in Georgia.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo"
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-25T12:39:18.846680+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
-   }
-  ],
-  "GLOBAL_SYSTEMS": [
    {
     "id": "de13a872-3cc4-5424-8583-0795521740c2",
     "title": "European gas prices soar to four-year high over winter supply fears",
@@ -1328,63 +1330,6 @@
     "reading_minutes": 3,
     "created_at": "2026-10-26T13:09:06.211446+00:00",
     "published_date": "2026-10-26",
-    "has_fulltext": true
-   },
-   {
-    "id": "4f7a4ff5-dd74-5a2d-812b-56d66787bbe6",
-    "title": "How Turkey's deal on Mediterranean maritime boundaries with Libya exacerbates a longtime feud with Greece",
-    "simplified_title": "Eastern Libya backs Turkey sea deal, angering Greece and the EU",
-    "quick_summary": "Libya's eastern parliament has unanimously approved a 2019 maritime deal with Turkey that ignores Greek islands' sea zones, deepening a feud with Greece over gas-rich Mediterranean waters.",
-    "simplified_body": "On Tuesday, the parliament in eastern Libya unanimously approved a maritime agreement with Turkey, creating a direct sea corridor between Turkey's southern coast and Libya's northern coast. Turkey first struck the deal in 2019 with the UN-recognised government in western Libya, but the rival eastern government had opposed it until now. Turkey's Foreign Ministry welcomed the vote.\n\nGreece is the most upset. The corridor ignores Greek islands such as Crete, Karpathos and Rhodes, where Greece says it has a full exclusive economic zone (EEZ), an area of sea where a country controls resources like fish, oil and gas. Greece says the European Union (EU) backs it, and EU foreign policy chief Kaja Kallas said the deal infringes on the sovereign rights of third states. The stakes are big: gas reserves possibly worth several hundred billion US dollars may lie under the seabed.\n\nThe core argument is about who owns what. Greece relies on the United Nations Convention on the Law of the Sea (UNCLOS), which says inhabited islands get the same sea rights as the mainland. Turkey, which never signed UNCLOS, argues that giving every small Greek island a full zone would largely cut it off from the open sea. Even international law experts disagree on what a fair split looks like.\n\nThings could heat up once Turkey and Libya start drilling. The corridor also cuts across the planned EastMed pipeline, meant to carry gas from Israel and Cyprus via Greece to Europe. In the long run, the region could split into two rival blocs: Turkey and Libya versus an EU-supported group of Greece, Cyprus, Egypt and Israel.",
-    "why_it_matters": "This shows how undersea energy riches can redraw alliances and test international sea law, the same law that underpins maritime boundaries everywhere, including Australia's own.",
-    "deep_analysis": "## Historical Context\nWhen Turkey signed the deal in 2019, Libya was in a brutal civil war. Turkey sent military support to the Tripoli government and helped repel eastern General Khalifa Hifter's offensive. Since then Turkey has courted Hifter, now supplying his forces with weapons and training, while Turkish firms have won billions in reconstruction contracts. As background, Greece and Turkey have argued over Aegean and Mediterranean waters and airspace for decades, and Cyprus has been divided since 1974.\n\n## Multiple Perspectives\n- **Greece and the EU:** The deal is \"null and void\", breaches third states' rights and is inconsistent with the Law of the Sea. Greece points to UNCLOS Article 121 and a 2022 International Court of Justice ruling (Nicaragua v Colombia) calling for fair demarcation where claims overlap.\n- **Turkey:** Geography matters; full zones for small islands near its coast would box it in. As a non-signatory to UNCLOS, it rejects UN arbitration and says pipelines across its claimed continental shelf need its consent.\n- **Eastern Libya:** Approving the deal secures its share of resources and could boost Hifter's international influence.\n- **Experts:** Law of the sea specialists themselves disagree on a fair division here.\n\n## What to Watch\n- Whether Turkey's TPAO and Libya's National Oil Corporation move from seismic survey plans to actual drilling.\n- The fate of the EastMed pipeline.\n- Whether rival Turkey-Libya and Greece-Cyprus-Egypt-Israel blocs harden.\n- Turkey's competition with Egypt and Russia for influence in eastern Libya.",
-    "concepts": [
-     {
-      "term": "exclusive economic zone",
-      "definition": "A stretch of sea off a country's coast where it has the sole right to fish and extract resources like oil and gas.",
-      "context": "Greece says Crete, Rhodes and Karpathos each generate one, which the Turkey-Libya corridor ignores."
-     },
-     {
-      "term": "United Nations Convention on the Law of the Sea",
-      "definition": "An international treaty setting rules for how countries can claim and use the oceans.",
-      "context": "Greece relies on it, but Turkey never signed it, so it rejects UN arbitration."
-     },
-     {
-      "term": "EastMed pipeline",
-      "definition": "A planned pipeline to carry natural gas from Israel and Cyprus via Greece to Europe.",
-      "context": "The Turkey-Libya corridor cuts across its planned route."
-     }
-    ],
-    "quiz": {
-     "question": "Why does Turkey refuse to have the dispute settled by a UN arbitration tribunal?",
-     "options": [
-      "Because the islands involved are uninhabited",
-      "Because the EU has already ruled in Turkey's favour",
-      "Because it never signed UNCLOS, the treaty Greece relies on",
-      "Because Libya asked it not to"
-     ],
-     "answer_index": 2,
-     "explanation": "Turkey, unlike Greece, never signed the UN Convention on the Law of the Sea, so it doesn't accept its arbitration process."
-    },
-    "impact_score": 55,
-    "image_url": "https://static.dw.com/image/62760881_6.jpg",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "Libya's eastern parliament has unanimously approved a 2019 maritime deal with Turkey that ignores Greek islands' sea zones, deepening a feud with Greece over gas-rich Mediterranean waters.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-10-25T12:39:19.890263+00:00",
-    "published_date": "2026-10-25",
     "has_fulltext": true
    }
   ],
@@ -1754,70 +1699,8 @@
     "created_at": "2026-10-26T06:26:48.564418+00:00",
     "published_date": "2026-10-26",
     "has_fulltext": true
-   },
-   {
-    "id": "86df46ac-1fcf-5fea-b722-34178ea3f362",
-    "title": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
-    "simplified_title": "Spain's opposition sparks outrage with deepfake ad of PM's wife",
-    "quick_summary": "Spain's conservative People's party (PP) released an AI-generated deepfake ad showing the prime minister's wife and other Socialist-linked figures 'confessing' to wrongdoing, triggering outrage, a legal challenge and a debate about AI in elections.",
-    "simplified_body": "Spain's main opposition party, the conservative People's party (PP), posted a campaign video on its social media that used artificial intelligence (AI) to create a deepfake of Begoña Gómez, wife of Prime Minister Pedro Sánchez. The fake Gómez talks about getting a university post thanks to her husband's job. Other figures linked to Sánchez's Socialist party, including former president José Luis Rodríguez Zapatero, also appear to 'admit' to things like hiding jewellery or taking kickbacks. By Friday the video had nearly 2 million views.\n\nThe Socialists are furious. Digital transformation minister Óscar López called it a \"colossal lie\" and warned people unfamiliar with AI could mistake it for reality. The video did carry an AI label, but in tiny, nearly transparent font. Leire Díez, a former Socialist party member whose likeness was used, has filed a court complaint reportedly alleging defamation and digital identity theft.\n\nSome background: the fake lines reference real ongoing investigations, though Gómez and Zapatero deny any wrongdoing. Most of nine legal experts consulted by newspaper El País said the ad probably isn't illegal, because it was labelled and read as political satire. Others argue that legal doesn't mean ethical, and one researcher called it a \"red line\" amounting to disinformation. The PP says everyone can see it isn't real and that it simply highlights Socialist hypocrisy.\n\nSpain votes on 29 November. Most polls suggest the PP will win but will need the far-right Vox party to form government. Meanwhile, the court challenge could test where satire ends and deception begins, and AI ads are booming in the US midterms too.",
-    "why_it_matters": "It shows mainstream parties, not just anonymous trolls, are now using deepfakes in official campaigns, a trend democracies including Australia will have to grapple with as AI tools get cheaper and more convincing.",
-    "deep_analysis": "## Historical Context\nAccording to the article, governments across much of the world are trying to crack down on disinformation. In the US, the Wesleyan Media Project found more than 200 AI-generated or AI-enhanced political ads ahead of the 2026 midterms, mostly tied to Republicans, compared with less than $50,000 in AI-ad spending in the 2024 cycle. As general background, political satire and attack ads have a long history, but deepfakes blur the line by making realistic video of people saying things they never said.\n\n## Multiple Perspectives\n- **The PP** (Borja Sémper): no malicious intent to deceive; it's a digital tool exposing Socialist hypocrisy.\n- **The Socialists** (Óscar López): a \"colossal lie\" on official accounts that many viewers could mistake for reality.\n- **Legal experts**: most of nine consulted by El País think it's lawful given the label and satirical tone; Íñigo Navarro said \"everyone knows those people didn't say those things\".\n- **Ethics critics**: Juan Antonio Lascuraín says legality is separate from whether it's appropriate; José Javier Olivas calls it a \"red line\" and disinformation.\n\n## What to Watch\n- The outcome of Leire Díez's complaint and whether the ad is taken down.\n- Whether other parties respond with their own AI content before the 29 November vote.\n- Whether the controversy shifts polls, which currently favour the PP with Vox support.\n- Moves by regulators to require clearer AI labelling in political ads.",
-    "concepts": [
-     {
-      "term": "deepfake",
-      "definition": "A video, image or audio clip made with AI to realistically show someone saying or doing something they never did.",
-      "context": "The PP ad used deepfakes of Begoña Gómez and other Socialist-linked figures."
-     },
-     {
-      "term": "defamation",
-      "definition": "Damaging someone's reputation by spreading false claims about them.",
-      "context": "Leire Díez's complaint reportedly accuses the PP of defamation."
-     },
-     {
-      "term": "disinformation",
-      "definition": "False information spread deliberately to mislead people.",
-      "context": "Researcher José Javier Olivas said the ad qualifies as disinformation."
-     },
-     {
-      "term": "political satire",
-      "definition": "Using humour, exaggeration or mockery to criticise politicians, usually understood by audiences as not literally true.",
-      "context": "Most legal experts said the ad's satirical tone helps make it legal."
-     }
-    ],
-    "quiz": {
-     "question": "Why did most legal experts consulted by El País think the PP's video was probably not illegal?",
-     "options": [
-      "Because it was labelled as AI-generated and read as political satire",
-      "Because Spain has no laws about defamation",
-      "Because the people shown had agreed to appear in it",
-      "Because the video was only shown outside Spain"
-     ],
-     "answer_index": 0,
-     "explanation": "The experts pointed to the AI label and the satirical tone, though critics noted the label was in tiny, nearly transparent font and that legal doesn't mean ethical."
-    },
-    "impact_score": 58,
-    "image_url": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=1920&quality=85&auto=format&fit=max&s=1ebf872193d6d960295835accafa4045",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "Spain's conservative People's party (PP) released an AI-generated deepfake ad showing the prime minister's wife and other Socialist-linked figures 'confessing' to wrongdoing, triggering outrage, a legal challenge and a debate about AI in elections.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-25T12:39:33.752695+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
    }
   ]
  },
- "total_stories": 29
+ "total_stories": 27
 }
