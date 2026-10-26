@@ -13,6 +13,7 @@ Shared working memory for Claude Code and ZCode. One line per entry, `YYYY-MM-DD
 2026-10-26 — Morning digest: scripts/send_digest.py on the 19:23 UTC run only; needs secrets RESEND_API_KEY + DIGEST_TO (DIGEST_FROM optional, onboarding@resend.dev only reaches the Resend account owner).
 
 ## Gotchas
+2026-10-27 — Digest sender avatar can't be set via Resend: inbox apps pick it. On onboarding@resend.dev only a saved contact photo works (~/Desktop/Brainfeed.vcf). Own domain + BIMI (DMARC p=quarantine + SVG Tiny PS; Gmail/Apple also need a paid VMC/CMC cert) for real recipients.
 2026-10-26 — Feed tests: added RNZ national/pacific, ABC health/science, BBC science/health, Guardian environment (all real full text). Rejected Crikey (91-word paywall stub), Brisbane Times (metered), The New Daily/InDaily/Michael West/ABC Pacific (feeds returned 0 items).
 
 ## Don't touch
