@@ -15,6 +15,10 @@ on:
         description: "Rebuild the whole edition instead of adding to it"
         type: boolean
         default: false
+      digest:
+        description: "Also send the morning email digest (for testing)"
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths: ["frontend/**", ".github/workflows/feed.yml"]
@@ -58,7 +62,7 @@ jobs:
 
       - name: Email the morning digest
         # Only the ~5:30am Brisbane run; send_digest.py skips itself unless the secrets are set
-        if: github.event_name == 'schedule' && github.event.schedule == '23 19 * * *'
+        if: (github.event_name == 'schedule' && github.event.schedule == '23 19 * * *') || inputs.digest
         continue-on-error: true
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
