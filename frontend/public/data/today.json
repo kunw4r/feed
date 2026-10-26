@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T13:08:17.434140+00:00",
+ "generated_at": "2026-10-26T13:54:01.426799+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -618,6 +618,66 @@
     "related_story_ids": [],
     "reading_minutes": 6,
     "created_at": "2026-10-25T21:55:08.180758+00:00",
+    "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
+    "id": "c4da2d3e-2579-5be3-a7af-81d86e0350ad",
+    "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+    "simplified_title": "Musk admits SpaceX limited Ukraine's Starlink, now service is back",
+    "quick_summary": "Elon Musk says SpaceX deliberately restricted Ukraine's Starlink internet over 'offensive drone strikes', as Ukraine reports its connection is stable again after more than a week of problems.",
+    "simplified_body": "Elon Musk has said his company SpaceX restricted Ukraine's Starlink satellite internet, claiming Ukraine's military broke the terms of service by using it for offensive drone strikes. He'd earlier denied deliberately throttling the connection. The admission came as Ukraine said the service was working again, after US President Donald Trump said he'd told Musk to \"put it back\".\n\nUkraine says the slowdown hurt its defence for more than a week. Drones lost connection above 161km/h; now they can go faster than 400km/h. Ukrainian presidential adviser Serhii Beskrestnov called Musk's post \"very strange\", saying commercial Starlink already doesn't work on Russian territory and caps drones at 70-90km/h, so it physically can't be used for deep strikes. Musk also denied responsibility for a simultaneous problem with Starshield, the more secure, military-grade version run by the US government.\n\nUkraine uses Starlink to help units coordinate in remote areas, while Starshield lets drone operators see targets live. Both run on low Earth orbit satellites launched by SpaceX. The outage came during a row between Washington and Kyiv over Ukrainian strikes on Russian oil refineries, which Trump says pushed fuel prices up, though this year's rises are mainly due to the Iran war. Zelensky also says the US threatened to stop sharing intelligence, which Trump denies.\n\nWith US midterm elections next month, fuel prices and the war remain politically touchy. Watch whether the connection stays stable, whether SpaceX explains why it acted now, and whether Ukraine keeps hitting Russian oil sites.",
+    "why_it_matters": "It shows how much a modern war can hinge on one private company's decisions, a lesson for any country, Australia included, that leans on commercial satellite services. The oil-strike row also feeds into global fuel prices Australians pay at the bowser.",
+    "deep_analysis": "## Historical Context\nRussia launched its full-scale invasion of Ukraine in February 2022, and the war is now in its fifth year. As background, Starlink became a lifeline for Ukraine early in the war, and Musk has clashed with Kyiv over its use before. Ukraine's heavy use of the service has been known for years, which makes the timing of this restriction notable.\n\n## Multiple Perspectives\nMusk argues a civilian service shouldn't be used for strikes that make it \"fair game to be struck back\", and says SpaceX has done more for Ukraine than any private company. Ukraine says the restrictions already in place make deep strikes via Starlink impossible, and that the slowdown hampered defensive operations. Trump denied telling Musk to limit the service, but said he told him to restore it. He also denied threatening to cut intelligence sharing. European allies have criticised a US deal to supply Russian diesel as funding Russia's war.\n\n## What to Watch\n- Whether SpaceX explains why it acted last week specifically\n- Starshield's status, which the US government controls\n- Ukrainian strikes on Russian oil and the US response ahead of the midterms\n- Fuel price moves linked to Russia and the Iran war",
+    "concepts": [
+     {
+      "term": "Starshield",
+      "definition": "A more secure, military-grade satellite network built by SpaceX and controlled by the US government.",
+      "context": "Ukraine uses it so drone operators can see targets in real time and fly interceptor drones."
+     },
+     {
+      "term": "low Earth orbit",
+      "definition": "A zone of space relatively close to Earth where satellites circle quickly and can give fast internet.",
+      "context": "Both Starlink and Starshield rely on many satellites in low Earth orbit."
+     },
+     {
+      "term": "terms of service",
+      "definition": "The rules a customer agrees to when using a company's product.",
+      "context": "Musk says Ukraine broke Starlink's rules by using it for offensive strikes."
+     }
+    ],
+    "quiz": {
+     "question": "Why does Ukraine say Musk's claim about Starlink and deep strikes doesn't add up?",
+     "options": [
+      "Commercial Starlink already doesn't work in Russia and caps drone speeds",
+      "Starlink is controlled by the Ukrainian government",
+      "Russia also uses Starlink for its drones",
+      "Ukraine has stopped using Starlink entirely"
+     ],
+     "answer_index": 0,
+     "explanation": "Beskrestnov said Starlink drones are limited to 70-90km/h and don't work on Russian territory, so it can't be used for deep strikes."
+    },
+    "background_beginner": "Starlink is a satellite internet service from SpaceX, the rocket company owned by billionaire Elon Musk. When Russia invaded Ukraine in 2022, Starlink helped Ukraine's soldiers stay connected when normal networks were destroyed. Since then, Ukraine has relied on it heavily, along with a US government-run military version called Starshield. That reliance gives a private company, and one very outspoken man, real influence over a war. The topic keeps resurfacing because Musk, Ukraine and the US government sometimes disagree about how the technology should be used, especially as US politics, oil prices and peace talks shift around the conflict.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "Elon Musk says SpaceX deliberately restricted Ukraine's Starlink internet over 'offensive drone strikes', as Ukraine reports its connection is stable again after more than a week of problems.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "f2ee8ade-7544-530b-8570-9450fbeabf20"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-10-26T13:54:28.566302+00:00",
     "published_date": "2026-10-26",
     "has_fulltext": true
    },
@@ -1514,6 +1574,69 @@
   ],
   "AI_TECH": [
    {
+    "id": "073a5764-7eae-5d10-902a-5a2ab4c0a032",
+    "title": "AI giant Anthropic unveils plans for blockbuster share listing",
+    "simplified_title": "Anthropic, maker of Claude, reveals finances ahead of record share listing",
+    "quick_summary": "AI company Anthropic has opened its books ahead of plans to list on the Nasdaq stock exchange, in what will likely be the biggest stock market debut ever.",
+    "simplified_body": "Anthropic, the company behind the AI chatbot Claude, has revealed details of its business ahead of selling shares to the public. It reported losses of more than US$80.7 billion in the first half of the year, against revenue of US$16.3 billion over the same period. It will list on the Nasdaq under the symbol ANT, though the number of shares and their price range haven't been set yet.\n\nThis matters to investors and the wider tech world because Anthropic will be the first true artificial intelligence (AI) company to go public. Its valuation is expected to top SpaceX's, which listed this summer at about US$1.8 trillion, the biggest stock listing ever. That makes it a real test of whether the money pouring into AI makes business sense.\n\nSome background: tech companies have spent more than US$1 trillion in the past year alone on AI infrastructure such as data centres and the models that power AI tools. Anthropic was founded five years ago by chief executive Dario Amodei, his sister Daniela Amodei and five other co-founders. It announced its plan to go public in June, and its biggest rival, OpenAI, quickly said it would do the same.\n\nSince then, there's been a wave of cyber-security and other breaches involving the companies' AI agents, and current and former staff have warned that AI is being built without enough protection against future harms. Anthropic's documents repeat its promise to develop AI that benefits people, while warning investors of the risks. OpenAI's listing is reportedly expected early next year.",
+    "why_it_matters": "A listing this big will be a key signal of whether markets believe AI's massive spending can ever pay off, which affects global tech shares that many Australians hold through super funds.",
+    "deep_analysis": "## Historical Context\nAs general background, big tech listings have often marked turning points, from the dot-com era to later giant floats. Anthropic is only five years old, yet it's expected to beat SpaceX's roughly US$1.8 trillion debut from this summer. Its June announcement kicked off a race with OpenAI, which also plans to list.\n\n## Multiple Perspectives\nBulls will point to US$16.3 billion in half-year revenue as proof of real demand. Sceptics will point to losses above US$80.7 billion over the same period and the more than US$1 trillion industry-wide spend on infrastructure. Safety critics, including current and former staff at both Anthropic and OpenAI, warn that AI is being developed without enough ability to protect humanity from future harms, and recent breaches involving AI agents add weight to those concerns. Anthropic says it remains committed to beneficial AI while flagging the dangers to investors.\n\n## What to Watch\n- The share count and price range, which are yet to be set.\n- Whether the valuation actually exceeds SpaceX's.\n- OpenAI's listing, reportedly expected early next year.\n- Any further security incidents involving AI agents.",
+    "concepts": [
+     {
+      "term": "Nasdaq",
+      "definition": "A major US stock exchange where many technology companies' shares are traded.",
+      "context": "Anthropic will list its shares there under the symbol ANT."
+     },
+     {
+      "term": "valuation",
+      "definition": "An estimate of what a whole company is worth.",
+      "context": "Anthropic's is expected to top SpaceX's record US$1.8 trillion listing."
+     },
+     {
+      "term": "AI agents",
+      "definition": "AI programs designed to carry out tasks somewhat on their own, rather than just answering questions.",
+      "context": "A wave of security breaches involving AI agents followed the listing announcements."
+     },
+     {
+      "term": "go public",
+      "definition": "When a private company first sells shares to the general public on a stock exchange.",
+      "context": "Anthropic and OpenAI both plan to go public."
+     }
+    ],
+    "quiz": {
+     "question": "Why is Anthropic's listing described as a test for the future of AI?",
+     "options": [
+      "Because SpaceX is buying Anthropic",
+      "Because it's the first company ever to list on the Nasdaq",
+      "Because the government will decide whether AI is legal based on it",
+      "Because it's the first true AI company to sell shares publicly, while losing far more than it earns"
+     ],
+     "answer_index": 3,
+     "explanation": "It's the first true AI company to go public, and with losses above US$80.7 billion against US$16.3 billion revenue, investors' response will show confidence in AI's business case."
+    },
+    "background_beginner": "Anthropic is an American company that makes Claude, an AI chatbot that can write, answer questions and help with tasks. It was started five years ago by siblings Dario and Daniela Amodei and others. Its main rival is OpenAI, maker of ChatGPT. Building AI costs enormous sums because it needs huge computer centres, so these companies have mostly raised money from private investors. Now they want to sell shares to everyday investors on the stock market. The topic keeps coming up because AI is spreading fast, is very expensive, isn't yet profitable for these firms, and raises ongoing worries about safety and security.",
+    "impact_score": 82,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/746e/live/6e0550b0-cec4-11f1-b9e0-e5f0da03dc7f.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "AI company Anthropic has opened its books ahead of plans to list on the Nasdaq stock exchange, in what will likely be the biggest stock market debut ever.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-26T13:54:27.808177+00:00",
+    "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
     "id": "3fc81721-1489-5237-9360-124eaaa5c305",
     "title": "Law must change on aged care algorithm to allow human override, ombudsman says",
     "simplified_title": "Ombudsman slams aged care algorithm, says humans must be able to override",
@@ -1696,5 +1819,5 @@
    }
   ]
  },
- "total_stories": 27
+ "total_stories": 29
 }
