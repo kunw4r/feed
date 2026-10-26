@@ -180,5 +180,12 @@
     "Muslim communities in Western countries reported increased discrimination after 9/11. How can we fight terrorism without unfairly targeting entire religious groups?",
     "If you had been a government leader in 2001, how would you have responded to the 9/11 attacks?"
   ],
-  "slug": "september-11"
+  "slug": "september-11",
+  "hero_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/WTC_smoking_on_9-11.jpeg",
+    "width": 1600,
+    "height": 1200,
+    "credit": "Wikimedia Commons (September 11 attacks)",
+    "source_url": "https://en.wikipedia.org/wiki/September_11_attacks"
+  }
 }

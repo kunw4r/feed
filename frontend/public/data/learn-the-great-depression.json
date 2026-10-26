@@ -184,5 +184,12 @@
     "During the Depression, countries raised tariffs to protect their industries, but this made things worse. Why do you think countries still use tariffs today, even though we know they can backfire?",
     "If a similar stock market crash happened today, how might it be different from 1929? (Think about: social media, government regulations, international trade, technology)"
   ],
-  "slug": "the-great-depression"
+  "slug": "the-great-depression",
+  "hero_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone%2C_02-1931_-_NARA_-_541927.jpg",
+    "width": 2939,
+    "height": 2392,
+    "credit": "Wikimedia Commons (Great Depression)",
+    "source_url": "https://en.wikipedia.org/wiki/Great_Depression"
+  }
 }

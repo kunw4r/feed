@@ -174,5 +174,12 @@
     "China used extreme lockdowns (locking people in apartments), while Sweden had minimal restrictions. Which approach was more ethical, and why?",
     "If another pandemic happens, what should governments do differently based on what we learned from COVID-19?"
   ],
-  "slug": "covid-19-pandemic"
+  "slug": "covid-19-pandemic",
+  "hero_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Covid-19_SP_-_UTI_V._Nova_Cachoeirinha.jpg",
+    "width": 2400,
+    "height": 1602,
+    "credit": "Wikimedia Commons (COVID-19 pandemic)",
+    "source_url": "https://en.wikipedia.org/wiki/COVID-19_pandemic"
+  }
 }

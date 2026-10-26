@@ -178,5 +178,12 @@
     "Carbon credits let companies buy their way out of reducing emissions. Is this a fair solution, or should companies be forced to reduce emissions directly?",
     "What's one thing you could do today to reduce your carbon footprint?"
   ],
-  "slug": "climate-change"
+  "slug": "climate-change",
+  "hero_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Change_in_Average_Temperature_With_Fahrenheit.svg/1920px-Change_in_Average_Temperature_With_Fahrenheit.svg.png",
+    "width": 1920,
+    "height": 1728,
+    "credit": "Wikimedia Commons (Climate change)",
+    "source_url": "https://en.wikipedia.org/wiki/Climate_change"
+  }
 }
