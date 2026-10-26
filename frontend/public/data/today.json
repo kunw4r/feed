@@ -1,75 +1,8 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-25T21:54:27.006984+00:00",
+ "generated_at": "2026-10-26T06:26:02.850217+00:00",
  "regions": {
   "OCEANIA": [
-   {
-    "id": "326e3f25-5c22-55e5-ad47-25ac7896dbe2",
-    "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
-    "simplified_title": "MP Helen Haines improving after alleged car attack cost her both legs",
-    "quick_summary": "Independent MP Helen Haines is now in a serious but stable condition after losing both legs in an alleged deliberate car attack in Wangaratta, sparking a national conversation about the safety of politicians.",
-    "simplified_body": "Helen Haines, the independent federal MP for the Victorian seat of Indi, was hit by a car outside her electorate office in Wangaratta on Monday afternoon. Both her legs had to be amputated. On Saturday, The Alfred hospital in Melbourne said her condition had improved from critical to serious but stable. Her husband Phil said her \"heart and her mind\" were \"in good shape\".\n\nA 43-year-old man, Brendan Nugent, has been charged with offences including dangerous driving causing serious injury, intentionally causing serious injury, and causing harm to a Commonwealth public official. The Guardian reports he's also been charged with cultivating and possessing cannabis. The BBC says police may lay more charges, possibly including attempted murder. His lawyer said he has \"mental health concerns\", and police say no motive has been established yet.\n\nSome background: Haines, 65, was a nurse and midwife before entering parliament in 2019. Ironically, she'd spent the past year championing a study called Fit To Lead into MPs' mental health and safety. Threats against federal MPs recorded by the Australian Federal Police (AFP) have risen from 300 to more than 1,000 a year over five years. Other MPs, including Anne Aly, Hannah Beazley and Anika Wells, faced threats or scary incidents this same week.\n\nNext, the court case will continue, Haines's staff hope to reopen her electorate offices next Thursday, and the Fit To Lead report is due out next month. Expect ongoing debate about MP security, heated online discourse and regional mental health services.",
-    "why_it_matters": "Australia has long prided itself on politicians being approachable in their communities, and this attack is testing whether that can last. It also raises questions about how threats, online abuse and mental health support are handled nationwide.",
-    "deep_analysis": "## Historical Context\nThe ABC recalls Bob Hawke happily hitching a ride with fans, a story he said showed Australia was a place where leaders could mingle safely. That's shifted: AFP-recorded threats against MPs have more than tripled in five years, and MPs like Linda Burney and Lidia Thorpe have been unable to stay in their own homes due to threats. As general background, attacks on politicians elsewhere (such as the killings of UK MPs in recent years) have prompted similar soul-searching overseas.\n\n## Multiple Perspectives\nPrime Minister Anthony Albanese pointed to a \"rise in temperature\" and \"too much shouting, not enough discourse\". Anne Aly says online debate has intensified since the attack and stresses a \"substantial mental health factor\", especially among men in their 40s and 50s, rather than simply blaming social media. Darren Chester warns against knee-jerk security changes that could cut MPs off from voters. Kimberly McArthur of the Better Politics Foundation says many feared an attack like this was coming. Note that no motive has been established, and Nugent's family say they were long-time friends of Haines, so linking this case to political rhetoric remains unproven.\n\n## What to Watch\n- Whether further charges, such as attempted murder, are laid.\n- Release of the Fit To Lead report next month.\n- Any changes to MP and local council candidate security, including rules requiring personal addresses on campaign materials in some states.\n- Haines's recovery and the reopening of her offices.",
-    "concepts": [
-     {
-      "term": "electorate office",
-      "definition": "The local office in an MP's area where community members can visit and get help.",
-      "context": "The alleged attack happened outside Haines's electorate office, showing how exposed MPs can be in these public spaces."
-     },
-     {
-      "term": "Commonwealth public official",
-      "definition": "Someone who works for or represents the federal government, such as a federal MP.",
-      "context": "Harming one is a specific federal offence, which is one of the charges laid in this case."
-     },
-     {
-      "term": "independent",
-      "definition": "An MP who doesn't belong to a political party.",
-      "context": "Haines sits outside the major parties, and colleagues described her as a non-combatant, which made the attack feel even more shocking."
-     }
-    ],
-    "quiz": {
-     "question": "Why are some commentators cautious about blaming heated political rhetoric for this specific attack?",
-     "options": [
-      "The attacker was a political rival from another party",
-      "Threats against MPs have been falling",
-      "Police have not yet established a motive, and mental health concerns have been raised",
-      "Haines was attacked overseas"
-     ],
-     "answer_index": 2,
-     "explanation": "Police say a motive is yet to be established, the accused's lawyer cited mental health concerns, and his family were friends with Haines, so the link to rhetoric is unproven."
-    },
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/8e1350b18ced3e0720e985fc77f463f3ddf345db/0_0_8192_5464/master/8192.jpg?width=1920&quality=85&auto=format&fit=max&s=5d8e50029beecf85286cfe7756ee9e78",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Independent MP Helen Haines is now in a serious but stable condition after losing both legs in an alleged deliberate car attack in Wangaratta, sparking a national conversation about the safety of politicians.",
-    "tier": "LOCAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-25/helen-haines-mp-physical-and-mental-health-risks-study/107301126"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "a448ed13-778f-5a6f-8038-c6d46e3a0cd6"
-    ],
-    "reading_minutes": 2,
-    "created_at": "2026-10-24T21:42:10.312829+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
-   },
    {
     "id": "d7c9dd90-79e2-5574-8c47-051c54c94499",
     "title": "Federal police chief links threats against MPs directly to political debate",
@@ -131,63 +64,6 @@
     ],
     "reading_minutes": 3,
     "created_at": "2026-10-25T12:39:18.342959+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
-   },
-   {
-    "id": "16c10bf9-397f-5b74-9994-107ce1318be0",
-    "title": "Some regions still climbing as nation sees record drop in house prices",
-    "simplified_title": "House prices fall in every capital, but regional SA keeps climbing",
-    "quick_summary": "Australia's housing market recorded its steepest quarterly drop on record, with every capital city falling for the first time in 15 years, while some regional areas, especially regional South Australia, kept rising.",
-    "simplified_body": "The latest Domain property report shows Australia's housing market fell 4.7 per cent in a quarter, the steepest quarterly drop on record. The median house price went down in every capital city for the first time in 15 years. But outside the capitals it's patchier, with regional prices still rising in Victoria, the Northern Territory and South Australia.\n\nRegional SA has been the standout. Prices outside Adelaide rose 19 per cent in the past 12 months, to a median of $595,000. People like Helen Burns sold in the Adelaide Hills for about $800,000 and got triple the land and double the house in Penola for only about $20,000 more. But Naracoorte agent Margot Shortt says enquiries have dropped by \"probably a 99 per cent\" in recent weeks, though there have been too few sales to tell whether prices are actually falling.\n\nSome background: Domain's data only runs to 30 September. Two days earlier, the Reserve Bank of Australia (RBA) lifted interest rates to a 15-year high. Higher rates make mortgages more expensive, which usually cools buyer demand. Housing economist Chris Leishman says Sydney and Melbourne usually move first, Adelaide responds more slowly, and regional areas tend to perform strongly later in the cycle.\n\nWhat's next? Professor Leishman says Australia is at the tail end of one of the longest and most pronounced housing booms ever, and there \"has to be a correction\". He expects six to 12 months of further falls, then prices rising again in the long term, adding that markets tend not to crash, particularly in Australia.",
-    "why_it_matters": "Housing is most Australians' biggest asset and expense, so a record national drop affects homeowners, buyers and renters alike, while regional buyers who bought at the peak could be most exposed as the late-cycle boom ends.",
-    "deep_analysis": "## Historical Context\nThe article says this is the first time in 15 years that every capital city's median house price has fallen, and Professor Leishman describes the market as at the tail end of one of the longest and most pronounced housing booms ever seen. Regional SA prices almost doubled in five years, according to a PropTrack report. As general background, the 15-year marker roughly lines up with the period around the global financial crisis, and rising interest rates have historically been a key trigger for Australian housing slowdowns.\n\n## Multiple Perspectives\n- **Buyers moving regional:** For people like Helen Burns, swapping a city-fringe home for a regional one was a \"no-brainer\" on value.\n- **Local agents:** Margot Shortt calls the past year \"nothing short of crazy\" and says enquiries have \"fallen off a cliff\" since the rate rise, but notes too few sales to judge prices.\n- **Economists:** Professor Leishman sees regional SA lagging as normal cycle behaviour, expects a correction of six to 12 months, but not a crash.\n- **Data caveat:** The Domain figures stop at 30 September, so they may not yet capture the rate rise's effect on regional SA.\n\n## What to Watch\n- Whether the next quarterly data shows regional SA prices finally turning down.\n- Further RBA interest rate decisions.\n- Sales volumes in regional towns, since low transaction numbers make prices hard to read.\n- Whether falls stay within the six-to-12-month window Professor Leishman expects.",
-    "concepts": [
-     {
-      "term": "median house price",
-      "definition": "The middle price when all sold houses are lined up from cheapest to dearest, so a few very expensive sales don't skew it.",
-      "context": "It fell in every capital city for the first time in 15 years."
-     },
-     {
-      "term": "Reserve Bank of Australia (RBA)",
-      "definition": "Australia's central bank, which sets the official interest rate that influences mortgage costs.",
-      "context": "It lifted rates to a 15-year high two days before Domain's data cut-off."
-     },
-     {
-      "term": "correction",
-      "definition": "A fall in prices after a long rise, bringing them back toward more sustainable levels, usually milder than a crash.",
-      "context": "Professor Leishman says there 'has to be a correction' but doesn't expect a crash."
-     }
-    ],
-    "quiz": {
-     "question": "Why might regional SA still show rising prices even as capital cities fall?",
-     "options": [
-      "Regional markets tend to respond later in the housing cycle, and the data predates the latest rate rise's effects",
-      "The RBA cut interest rates only for regional buyers",
-      "Domain only measured capital cities",
-      "Regional SA had no buyers moving from the cities"
-     ],
-     "answer_index": 0,
-     "explanation": "Professor Leishman says regional areas perform strongly later in the cycle, and Domain's data ran only to 30 September, two days after the RBA raised rates."
-    },
-    "impact_score": 68,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/9858210cbffc9fca1636f9e272e622d0?impolicy=wcms_watermark_news&cropH=2592&cropW=4608&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Australia's housing market recorded its steepest quarterly drop on record, with every capital city falling for the first time in 15 years, while some regional areas, especially regional South Australia, kept rising.",
-    "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-25/sa-sees-nations-largest-increase-in-regional-house-prices/107300928"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-24T21:42:27.521582+00:00",
     "published_date": "2026-10-25",
     "has_fulltext": true
    },
@@ -312,63 +188,6 @@
     "created_at": "2026-10-25T06:18:16.184925+00:00",
     "published_date": "2026-10-25",
     "has_fulltext": true
-   },
-   {
-    "id": "15491ff7-9e4d-5582-a273-558159d89631",
-    "title": "Western Sydney International Airport opens to passengers today",
-    "simplified_title": "Western Sydney's new airport takes its first passengers today",
-    "quick_summary": "Western Sydney International Airport at Badgerys Creek has opened to passengers, with a sold-out Jetstar flight to the Gold Coast leading the way.",
-    "simplified_body": "Western Sydney International Airport (WSI) has officially opened to passengers. The first commercial flight, Jetstar's sold-out JQ362, leaves for the Gold Coast at 11am, with a return flight landing at 3pm and the first departure to Melbourne at 6pm. It's the first major new Australian airport in more than 50 years.\n\nThe airport sits at Badgerys Creek, 45 kilometres from Sydney's central business district (CBD) and 18km from Penrith's city centre. Unlike Sydney's Mascot terminals, it runs 24/7. CEO Simon Hickey says it's about giving greater Sydneysiders, and visitors from overseas, more choice.\n\nWSI already opened for cargo back in July. About 10,000 workers built it, roughly half from Western Sydney. The terminal is about the size of Adelaide Airport, which handles around 10 million passengers a year, and features works by Indigenous artists from Western Sydney, including Dharug and Darkinjung artist Adam Laws' Songbirds sculptures.\n\nWSI won't start at 10 million passengers, but hopes to get closer to that by the early to mid 2030s, when up to 8,500 jobs could be needed across the precinct. Within about a year it expects over 250 connecting destinations, and more airlines may join. By the 2060s, with extra terminals and another runway, it could reach full capacity of 82 million passengers a year.",
-    "why_it_matters": "Sydney finally gets a second major airport, one that runs around the clock, which could bring jobs and easier travel to fast-growing Western Sydney.",
-    "deep_analysis": "## Historical Context\nAccording to the source, WSI is the first major new Australian airport in more than 50 years. As background, a second Sydney airport was debated for decades, with Badgerys Creek long floated as a site. Cargo operations started in July before today's passenger launch.\n\n## Multiple Perspectives\nCEO Simon Hickey calls it \"a generational change to aviation\" and stresses it's \"designed for growth\". Artist Adam Laws sees the terminal art as a way to show Dharug people are \"still here, still resilient\". The source doesn't include critics; as general background, issues such as aircraft noise and public transport links have been raised about new airports, but this article doesn't cover them.\n\n## What to Watch\n- Whether more airlines sign on.\n- Progress toward 250+ destinations within about a year.\n- Passenger growth toward 10 million a year by the early to mid 2030s, and the promised up to 8,500 jobs.\n- Long-term expansion (more terminals, a second runway) toward 82 million passengers in the 2060s.",
-    "concepts": [
-     {
-      "term": "24/7",
-      "definition": "Open 24 hours a day, seven days a week.",
-      "context": "WSI can run flights at any hour, unlike Sydney's Mascot terminals."
-     },
-     {
-      "term": "capacity",
-      "definition": "The maximum number of passengers an airport is built to handle.",
-      "context": "WSI's full capacity of 82 million a year depends on adding terminals and a runway."
-     },
-     {
-      "term": "precinct",
-      "definition": "The whole area around the airport, including businesses and services linked to it.",
-      "context": "Up to 8,500 jobs could be needed across the precinct by the 2030s."
-     }
-    ],
-    "quiz": {
-     "question": "Why does WSI expect to take until the 2060s to reach 82 million passengers a year?",
-     "options": [
-      "Jetstar is its only allowed airline until then",
-      "It is waiting for cargo flights to start",
-      "It will only open at night until then",
-      "It needs to add more terminals and another runway"
-     ],
-     "answer_index": 3,
-     "explanation": "The current terminal suits about 10 million passengers; reaching 82 million requires extra terminals and a second runway."
-    },
-    "impact_score": 62,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/39cfbb46ada90cfc106ae1b2e410c89b?impolicy=wcms_watermark_news&cropH=1100&cropW=1955&xPos=0&yPos=175&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Western Sydney International Airport at Badgerys Creek has opened to passengers, with a sold-out Jetstar flight to the Gold Coast leading the way.",
-    "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-25/western-sydney-international-airport-open-day-sunday-october-25/107293784"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-24T21:42:23.921801+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
    }
   ],
   "ASIA": [
@@ -430,6 +249,76 @@
     "has_fulltext": true
    },
    {
+    "id": "9df64f4e-153e-51b0-9259-84d108fe1ec0",
+    "title": "China's Communist Party elite hold key talks on governance",
+    "simplified_title": "Xi Jinping gathers China's top party officials to tighten discipline",
+    "quick_summary": "China's Communist Party leadership has begun a four-day closed-door meeting, the fifth plenum, focused on loyalty and anti-corruption ahead of next year's party congress, where Xi Jinping is expected to secure a fourth term.",
+    "simplified_body": "On Monday (26 October), Chinese President Xi Jinping opened a four-day, closed-door meeting in Beijing called the fifth plenum. About 300 members of the Communist Party's Central Committee are attending. CNA and Al Jazeera say roughly 300, while The Guardian says plenums usually bring together more than 300. The main item is a draft plan for 'full and rigorous Party self-governance'. In party-speak, that means discipline, loyalty and fighting corruption.\n\nThis matters most to party officials, known as cadres. Xi has complained about 'two-faced' officials who seem to follow orders but 'inwardly resist'. His 14-year anti-corruption campaign has purged thousands of officials. Because of this, the meeting is expected to have the lowest turnout since Mao Zedong died in 1976. Eight Central Committee seats are empty, and another 15 members are under investigation. The military has been hit hard too. Five of the seven members of the Central Military Commission (CMC), the party's top military body, have been toppled. Those removed include top general Zhang Youxia. Only Xi and Zhang Shengmin remain.\n\nSome background: a plenum is one of about seven big meetings held between party congresses, which happen every five years. This one is likely the last major meeting before next year's 21st Party Congress. There, Xi, now 73, is widely expected to win a historic fourth term. All this comes as China's economy struggles with weak consumer spending, a long property-sector crisis and rocky ties with the United States.\n\nAuthorities are expected to release a summary when the meeting ends on Thursday. The plenum might appoint new CMC members, or it could wait until the congress. Xi might even restructure how the party controls the military.",
+    "why_it_matters": "China is Australia's biggest trading partner, so how tightly Xi controls the party and military, and how he steers a sluggish economy, shapes the region Australia lives in. This meeting sets the stage for who runs China for the next five years.",
+    "deep_analysis": "## Historical Context\nXi came to power in 2012 promising to stamp out corruption. The Guardian reports that last year, disciplinary authorities opened investigations into more than 1 million people, including over 100 officials at ministerial or provincial level and above. Previous plenums have been key moments for Xi to cement his authority. Recent targets include Zhang Youxia, Xinjiang's former party secretary Ma Xingrui, and Chongqing's former mayor Huang Qifan. Huang had survived the early-2010s Bo Xilai scandal. According to the Asia Society Policy Institute, of 44 military members appointed to the Central Committee in 2022, only two have not been purged or disappeared. As general background, Xi broke with the post-Mao norm of two-term leaders when he took a third term in 2022.\n\n## Multiple Perspectives\n- **Loyalty equals honesty:** Kerry Brown (King's College London) says that in Xi's worldview, being corrupt means being disloyal, and vice versa. Brown says corruption can include 'spiritual corruption', such as political disloyalty.\n- **A never-ending job:** Neil Thomas (Asia Society Policy Institute) says Xi has made the party less corrupt but treats anti-corruption as a permanent way of governing. Thomas sees no obvious point at which Xi can declare the job done.\n- **Rivals or wrongdoers?** The Guardian notes that investigations nearly always end in conviction. That raises questions about whether targets are truly guilty or are political rivals.\n- **Strength or instability?** Some analysts ask whether purges this deep signal regime instability. Others say they show who is in charge.\n- **Shaping the next generation:** Ruby Osman (Tony Blair Institute) says the plenum helps ensure rising officials share Xi's view of China's risks and opportunities.\n\n## What to Watch\n- The official summary due Thursday.\n- Whether new CMC members are named now or at next year's congress.\n- Any restructuring of party control over the military.\n- Tougher rules on spending, more use of technology to detect corruption, and harsher penalties for officials, as Thomas expects.\n- Replacements for vacant and under-investigation Central Committee seats.",
+    "concepts": [
+     {
+      "term": "plenum",
+      "definition": "A full meeting of the Communist Party's Central Committee. About seven are usually held in each five-year cycle between party congresses.",
+      "context": "This is the fifth plenum, likely the last major one before the 2027-era leadership reshuffle at next year's congress."
+     },
+     {
+      "term": "Central Committee",
+      "definition": "The group of roughly 300 of the most senior officials in China's Communist Party.",
+      "context": "Purges have left eight of its seats empty, with 15 more members under investigation."
+     },
+     {
+      "term": "Central Military Commission",
+      "definition": "The Communist Party's top body controlling China's armed forces, normally made up of seven members.",
+      "context": "Five of its seven members have been toppled, leaving only Xi and Zhang Shengmin."
+     },
+     {
+      "term": "cadres",
+      "definition": "Communist Party officials who carry out the party's policies.",
+      "context": "Xi wants cadres to be more loyal and effective, and less corrupt."
+     }
+    ],
+    "quiz": {
+     "question": "According to analysts quoted in the articles, why does Xi keep expanding his anti-corruption drive even after more than a decade?",
+     "options": [
+      "Because the United States demanded it in trade talks",
+      "Because he sees loyalty and honesty as linked, and treats tightening discipline as a permanent way of governing",
+      "Because the Central Committee voted to end his term",
+      "Because China's economy has fully recovered and he has spare resources"
+     ],
+     "answer_index": 1,
+     "explanation": "Kerry Brown says Xi sees disloyalty as a form of corruption. Neil Thomas says Xi treats anti-corruption as a permanent governing method with no clear end point."
+    },
+    "impact_score": 62,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--J6p1-TQB--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/26/2026-09-30t115727z_2039725960_rc2mtna0u590_rtrmadp_3_china-anniversary-reception.jpg?itok=roADSfZR",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "China's Communist Party leadership has begun a four-day closed-door meeting, the fifth plenum, focused on loyalty and anti-corruption ahead of next year's party congress, where Xi Jinping is expected to secure a fourth term.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/china-communist-party-fifth-plenum-talks-6492186"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-26T06:26:39.362030+00:00",
+    "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
     "id": "e622a1b2-8e0d-5b4f-b9b8-682aad0f1fb5",
     "title": "Kim Jong-un crosses newly opened bridge into China",
     "simplified_title": "Kim Jong-un crosses new bridge into China to boost ties",
@@ -484,69 +373,6 @@
     "reading_minutes": 2,
     "created_at": "2026-10-25T21:55:05.288582+00:00",
     "published_date": "2026-10-26",
-    "has_fulltext": true
-   },
-   {
-    "id": "9f7b9aa1-3229-59b2-ba61-f2a2470a9563",
-    "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-    "simplified_title": "Typhoon Champi kills one, injures over 500 in Taiwan",
-    "quick_summary": "Typhoon Champi, once a super typhoon, brushed Taiwan's northeast coast on Saturday, killing one man, injuring 527 people and cutting power to many homes before weakening and heading north towards China.",
-    "simplified_body": "Typhoon Champi glanced off Taiwan's northeast coast early on Saturday, then moved out to sea about 150km east of the island. Taiwan's fire department said one man died after being swept away by waves from the island of Liuqiu, and 527 people were injured in the heavy wind and torrential rain. Trees came down in the capital, Taipei.\n\nEveryday life took a big hit. Power company Taipower said more than 167,000 homes lost electricity, though most were reconnected. DW, citing local newspaper United Daily News, put the number at about 280,000 households, with 80% restored by Saturday morning, so the sources differ on the figure. The Transport Ministry said 259 flights were cancelled on Saturday, down from almost 1,000 on Friday. Northern and central Taiwan, including Taipei, closed offices and schools for a second day.\n\nChampi started out as a super typhoon, one of the strongest storms in the Pacific this year. Taiwan's Central Weather Administration (CWA) said it was still packing strong gusts near its centre. The Guardian reported about 126km/h, while DW's figures appear swapped (78 km/h, or 126 mph). Taiwan is generally well prepared for typhoons, which keeps casualties low.\n\nThe storm is weakening and heading north towards the Chinese coast. DW says it isn't expected to make landfall in China, while The Guardian says its track eventually takes it into southern Japan. China has sent a team to Zhejiang province, readied 400 rescue workers and put more than 41,000 firefighters on emergency duty, warning of strong winds and heavy rain through Sunday.",
-    "why_it_matters": "Champi shows how strong preparation can keep deaths low even from one of the year's most powerful storms. That's a useful lesson for cyclone-prone northern Australia, which deals with the same kind of storm under a different name.",
-    "deep_analysis": "## Historical Context\nAs background: typhoons, hurricanes and cyclones are the same weather system, named differently by region. Australians call them tropical cyclones. Taiwan sits in a busy typhoon path in the western Pacific. The Guardian notes the storms are more common in summer but can also strike in autumn. Taiwan's long experience has built strong readiness, such as closing offices and schools, which helps keep casualties low.\n\n## Multiple Perspectives\nThe two sources agree on the death toll (1) and injuries (527). They differ on outages. Taipower, via The Guardian, said more than 167,000 homes lost power. United Daily News, via DW, said about 280,000 households. DW also says authorities cut power deliberately, a detail The Guardian doesn't mention. The gust speed is given as about 126km/h (78mph) by The Guardian. DW prints 78 km/h (126 mph), which looks like a unit mix-up. On the track, DW says landfall in China isn't expected, while The Guardian mentions a later move into southern Japan.\n\n## What to Watch\n- Whether Zhejiang and the wider Chinese coast get damaging wind and rain through Sunday.\n- Whether Champi reaches southern Japan, and how strong it is by then.\n- Whether Taiwan's injury figures change, and how quickly power and flights return to normal.",
-    "concepts": [
-     {
-      "term": "super typhoon",
-      "definition": "An informal label for a typhoon at the very top of the intensity scale, with extremely strong sustained winds.",
-      "context": "Champi was earlier classified as a super typhoon before it weakened near Taiwan."
-     },
-     {
-      "term": "made landfall",
-      "definition": "When the centre of a storm moves from the sea onto land.",
-      "context": "DW says Champi isn't expected to make landfall in China, even though it is heading towards the coast."
-     },
-     {
-      "term": "gusts",
-      "definition": "Short, sudden bursts of wind that are stronger than the average wind speed.",
-      "context": "The CWA reported strong gusts near Champi's centre even as it weakened."
-     }
-    ],
-    "quiz": {
-     "question": "According to the sources, why did Typhoon Champi cause relatively few deaths in Taiwan?",
-     "options": [
-      "It hit only uninhabited islands",
-      "Taiwan is generally well prepared for typhoons",
-      "It had weakened to a light breeze",
-      "The storm never came near Taiwan"
-     ],
-     "answer_index": 1,
-     "explanation": "The Guardian says Taiwan is generally well prepared for typhoons, which keeps casualties low. The storm still glanced off the coast, injured 527 people and caused heavy damage."
-    },
-    "impact_score": 42,
-    "image_url": "https://i.guim.co.uk/img/media/ef90d32836e051ec70630f8c26f1745009515247/589_0_6827_5464/master/6827.jpg?width=1920&quality=85&auto=format&fit=max&s=bdd648c3dbcea00356741d18c4e8c799",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "Typhoon Champi, once a super typhoon, brushed Taiwan's northeast coast on Saturday, killing one man, injuring 527 people and cutting power to many homes before weakening and heading north towards China.",
-    "tier": "GLOBAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "b81cbf25-f5e2-5de5-b262-e5f6369afeca"
-    ],
-    "reading_minutes": 1,
-    "created_at": "2026-10-24T21:42:26.019830+00:00",
-    "published_date": "2026-10-25",
     "has_fulltext": true
    }
   ],
@@ -742,6 +568,71 @@
     "has_fulltext": true
    },
    {
+    "id": "a57bbdc4-9f13-5c6e-b135-ee085a776457",
+    "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+    "simplified_title": "France arrests over 1,300 as cost-of-living protests continue",
+    "quick_summary": "Hundreds of thousands protested across France on Saturday over living costs and school conditions, with more than 1,300 arrests, though the violence was far smaller than the previous weekend's chaos.",
+    "simplified_body": "On Saturday, hundreds of thousands of people marched across France. The interior ministry counted 410,000, while unions said about 800,000. Most marches were peaceful, but clashes broke out later in cities including Paris, Marseille, Bordeaux, Lyon and Toulouse. Police used tear gas and water cannon, and 1,314 people were arrested, according to a provisional tally. The ministry said 53 officers were hurt and two people were seriously injured.\n\nThe protests are about the cost of living, wages, public services and poor school conditions. Students, workers, firefighters and the Yellow Vests movement have joined in. Many young protesters say they feel abandoned by the government of President Emmanuel Macron.\n\nThis follows a much worse weekend before, when about 550,000 people protested and the chaos led to more than 2,500 arrests and widespread looting. Sources differ on the damage: the BBC says more than 2,000 businesses were hit, while DW reports figures of 1,500 and at least 3,000 shops. Macron then ruled that only protests organised by recognised trade unions were allowed, and 70,000 police were deployed this time. Similar cost-of-living protests also hit Barcelona, Milan, Brussels and Tirana.\n\nUnions have called for more rallies on October 31 and a nationwide strike on November 5. The government has opened talks, but protest leaders say its offers aren't enough. Meanwhile, the unrest feeds into a heated race for next spring's presidential election, where polls suggest a contest between the far-right National Rally (RN) and the radical-left France Unbowed (LFI).",
+    "why_it_matters": "Cost-of-living anger is spilling onto the streets across several European countries at once, and France's unrest could shape who wins its presidential election next spring.",
+    "deep_analysis": "## Historical Context\nAs background, France has a long protest tradition; DW's reporter notes demonstrating is seen as a bedrock value and clashes with police are part of the 'protest ritual'. The Yellow Vests movement, now involved again, began as a fuel-price protest movement during Macron's presidency. The previous weekend's disorder was described by the BBC as among the worst in France's modern history, and Interior Minister Laurent Nuñez admitted a 'loss of control'.\n\n## Multiple Perspectives\n- **Government:** Blamed radical far-left activists, with Nuñez saying about 500 identified rioters gathered at the rear of the Paris march. It boosted police numbers and restricted unauthorised protests.\n- **Protesters:** Say they are frustrated by taxes, poverty and feeling unheard; one teen blamed looting on poverty and police violence.\n- **Business owners:** Fearful after last week's looting, with one Paris shop owner saying some were considering buying weapons.\n- **Politicians:** Both RN and LFI blame Macron. Jean-Luc Mélenchon accused police of a setup designed to provoke chaos; Marine Le Pen, launching her campaign, promised to restore order.\n- **Disputed numbers:** Crowd counts (410,000 vs 800,000) and last week's looting figures differ between officials, unions and outlets.\n\n## What to Watch\n- Turnout and behaviour at the October 31 rallies and the November 5 nationwide strike.\n- Whether the CGT union joins.\n- Whether government talks with unions and students produce concessions.\n- How the unrest shifts polling ahead of the spring presidential election.",
+    "concepts": [
+     {
+      "term": "Yellow Vests",
+      "definition": "A French grassroots anti-government protest movement focused on living costs.",
+      "context": "It teamed up with students and called for sit-ins outside town halls and the National Assembly."
+     },
+     {
+      "term": "National Rally (RN)",
+      "definition": "France's main far-right political party, led by Marine Le Pen.",
+      "context": "Polls suggest its candidate is a frontrunner for next spring's presidential election."
+     },
+     {
+      "term": "nationwide strike",
+      "definition": "Workers across the whole country stopping work at once to pressure the government.",
+      "context": "Unions have called one for November 5."
+     }
+    ],
+    "quiz": {
+     "question": "Why did the BBC and DW report different numbers of protesters on Saturday?",
+     "options": [
+      "The BBC counted the previous weekend",
+      "Paris was not counted",
+      "The interior ministry and unions gave different estimates",
+      "DW only counted students"
+     ],
+     "answer_index": 2,
+     "explanation": "Officials estimated 410,000 people, while unions such as the CGT put it at about 800,000. Crowd counts often differ depending on who is counting."
+    },
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "Hundreds of thousands protested across France on Saturday over living costs and school conditions, with more than 1,300 arrests, though the violence was far smaller than the previous weekend's chaos.",
+    "tier": "GLOBAL",
+    "category": "SOCIETY_CULTURE",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "2be9dc55-7fb6-50be-8ead-edb339ada85d",
+     "64681fd5-c970-5213-a539-22ebbd387f36",
+     "d92321ee-32e9-5d8e-9ae9-4845ceea9903"
+    ],
+    "reading_minutes": 5,
+    "created_at": "2026-10-26T06:26:32.906135+00:00",
+    "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
     "id": "07f0313a-e9af-5b21-b5e4-4c1f54e58ac2",
     "title": "Macron says deadly shooting near Paris is a 'racist terrorist attack'",
     "simplified_title": "Macron calls deadly shooting near Paris a 'racist terrorist attack'",
@@ -795,136 +686,6 @@
     "related_story_ids": [],
     "reading_minutes": 2,
     "created_at": "2026-10-25T06:18:14.775823+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
-   },
-   {
-    "id": "d92321ee-32e9-5d8e-9ae9-4845ceea9903",
-    "title": "Hundreds of thousands march across France in protests over schools and policing",
-    "simplified_title": "Hundreds of thousands march in France over schools, policing and living costs",
-    "quick_summary": "Hundreds of thousands of people protested across France on Saturday in support of students' demands for better schools, with mostly peaceful marches followed by clashes and nearly 1,000 arrests.",
-    "simplified_body": "On Saturday, huge crowds marched in cities across France to back high school students calling for more teachers and repairs to run-down buildings. The interior ministry estimated about 410,000 people turned out, while unions such as the CGT (General Confederation of Labour) put it at around 800,000. Most marches were peaceful, but clashes broke out late in the day in Paris, Marseille, Lyon, Bordeaux and elsewhere, and police made nearly 1,000 arrests.\n\nThe protests affect students, teachers, parents and workers struggling with the cost of living. Many marchers were also angry about heavy-handed policing and a decree from President Emmanuel Macron that only demonstrations organised by recognised trade unions would be allowed. Some protesters said France felt increasingly authoritarian. Interior Minister Laurent Nuñez blamed \"high-risk groups\" that broke away from the main marches to commit violence. Two people were seriously injured, one in Toulouse and one in Clermont-Ferrand.\n\nThe movement started in mid-September with a protest over staff shortages at one high school south-east of Paris, then spread nationwide. Students complained about leaking, crumbling buildings and a lack of chairs in overcrowded classrooms. The previous weekend saw some of the worst disorder in years, with shops looted, buildings burned and more than 2,500 arrests (one source says at least 2,700). This time, about 70,000 police were deployed, and officials said that helped prevent a repeat.\n\nMacron met high school representatives on Friday and reportedly promised to overhaul university admissions, but students want protests to continue until concrete measures arrive. Macron steps down next year, with a presidential election due in May, and far-left candidate Jean-Luc Mélenchon predicted protests would happen \"every week\".",
-    "why_it_matters": "A student-led movement about crumbling schools has grown into a test of Macron's authority and of the right to protest, just months before a French presidential election. Similar cost-of-living protests also hit other European cities the same day.",
-    "deep_analysis": "## Historical Context\nAs background, France has a long tradition of street protest. The sources note some marchers wore yellow vests from the gilets jaunes (yellow vests) anti-government protests of 2018 and 2019, which were also driven by living costs. This movement began in mid-September with high schoolers aged 15 to 18 and grew into what The Guardian calls the biggest youth movement in years.\n\n## Multiple Perspectives\n- **Government:** Nuñez said violence came from radical groups at the rear of marches, including around 500 identified rioters, and credited heavy policing with stopping looting.\n- **Protesters:** Many said riot police targeted peaceful students and that banning non-union marches and keeping crowds from city centres attacks democratic rights.\n- **Politicians:** Mélenchon said Macron must \"give in\"; protesters in Orléans also targeted Marine Le Pen's National Rally.\n- **Numbers differ:** The government counted about 410,000 nationally and 110,000 in Paris; the CGT said nearly 800,000 and 250,000. Sources also differ slightly on last weekend's arrests (more than 2,500 vs at least 2,700).\n\n## What to Watch\n- Whether Macron announces concrete school measures beyond the university admissions promise.\n- Police investigations into injuries from police weapons.\n- How the unrest shapes the presidential race ahead of May.\n- Whether protests in Brussels, Tirana and Milan grow into a wider European pattern.",
-    "concepts": [
-     {
-      "term": "trade unions",
-      "definition": "Organisations representing workers that bargain with employers and governments and often organise protests.",
-      "context": "Macron decreed only union-organised demonstrations would be allowed."
-     },
-     {
-      "term": "cost of living",
-      "definition": "How much money people need for basics like food, fuel and housing.",
-      "context": "Rising costs pushed workers to join the student protests."
-     },
-     {
-      "term": "decree",
-      "definition": "An official order issued by a leader without a vote in parliament.",
-      "context": "Macron's decree limited which protests were permitted."
-     }
-    ],
-    "quiz": {
-     "question": "Why are the government and union crowd estimates so different?",
-     "options": [
-      "The unions only counted Paris",
-      "Each side has reasons to present the protests as smaller or larger, and they use different counts",
-      "The government counted only arrests",
-      "Each side counted different countries"
-     ],
-     "answer_index": 1,
-     "explanation": "The government (410,000) and the CGT (around 800,000) gave very different figures, a common pattern where each side's estimate suits its message."
-    },
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/93d34d062ebba9ed97a7e09907ef34a780cd3541/180_0_3517_2814/master/3517.jpg?width=1920&quality=85&auto=format&fit=max&s=249453947f1b271543d95649f72da879",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "Hundreds of thousands of people protested across France on Saturday in support of students' demands for better schools, with mostly peaceful marches followed by clashes and nearly 1,000 arrests.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-25/1000-arrested-in-france-protests/107305868"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "64681fd5-c970-5213-a539-22ebbd387f36"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-10-24T21:42:10.712788+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
-   },
-   {
-    "id": "93ed7b29-3db1-5434-b0ca-e00bab5bcd20",
-    "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-    "simplified_title": "Student-backed movement gives Serbia's Vučić his toughest election fight yet",
-    "quick_summary": "Serbia votes on Sunday in a snap parliamentary election where a leaderless, student-picked Student List is running neck-and-neck with long-time leader Aleksandar Vučić's ruling party.",
-    "simplified_body": "Serbia is holding a snap parliamentary election on Sunday, and for the first time since 2012 the outcome looks genuinely uncertain. Aleksandar Vučić, who has been deputy prime minister, prime minister and president, stepped down as president to run for prime minister. His challenger is the Student List: 250 candidates chosen by student assemblies at university faculties, headed by Novi Sad cardiologist Ilija Srdanović, though he's not officially its leader.\n\nThe Student List grew out of roughly two years of anti-corruption protests after a railway station canopy collapsed in Novi Sad in November 2024, killing 16 people. The station was part of Vučić's flagship Belgrade–Budapest rail line, making the disaster hard for him to shake off. Vučić says the students are foreign-backed and could cut Serbia's ties with Russia and China; his supporters credit him with economic growth and better infrastructure.\n\nFairness is a big worry. The independent monitor CRTA says the campaign hasn't been free or fair, with almost three-quarters of national TV airtime for political players going to government figures and more than 80% of Student List coverage negative. It recorded 116 incidents of violence or threats. The Balkan Investigative Reporting Network (BIRN) published claims public-sector workers were pressured to vote for the Serbian Progressive Party (SNS), and DW's anonymous sources say voters were offered €30 to €150 for SNS votes.\n\nAnalysts expect a very tight result; one political scientist says polls suggest the students could top 40%. A narrow SNS win would likely be contested, raising fears of a post-election crisis. The European Union (EU), which Serbia has been a candidate to join since 2012, may play a key role in how things unfold.",
-    "why_it_matters": "It's a test of whether a protest movement with no leader can beat an entrenched government at the ballot box, and the result could shift Serbia's balance between the EU, Russia and China.",
-    "deep_analysis": "## Historical Context\nVučić's SNS has been in government since 2012, and observers at the 2023 election flagged an \"overwhelming ruling party advantage\" from media bias and misuse of public resources. The November 2024 Novi Sad canopy collapse, killing 16, triggered about two years of student-led protests. As background, Serbia has a relatively short democratic history since the 1990s Yugoslav era, and the Kosovo question still shapes its foreign policy.\n\n## Multiple Perspectives\nVučić's supporters see a strong leader who delivered growth and infrastructure and protects Serbian sovereignty; he casts the students as foreign-backed. The Student List and its backers say the SNS dominates institutions and media and want accountability and freedoms. Analyst Magda Anastasijevic (ACLED) notes Vučić usually finds a scapegoat but couldn't with the canopy. Political scientist Dusan Spasojevic doubts late corruption exposés will sway voters, since audiences are split by media. Sources differ slightly on the protest timeline: BBC says \"almost two years\", DW says 24 months.\n\n## What to Watch\nWhether the margin is decisive or narrow and disputed; any election-night unrest after arrests over alleged plots; how the EU responds, given unimplemented electoral recommendations; and who the leaderless Student List would pick as prime minister if it wins.",
-    "concepts": [
-     {
-      "term": "snap parliamentary election",
-      "definition": "An election called earlier than scheduled.",
-      "context": "Vučić called this vote last month and stood down as president to run for prime minister."
-     },
-     {
-      "term": "student assemblies",
-      "definition": "Groups of students at university faculties that make decisions collectively without a single leader.",
-      "context": "They picked the Student List's 250 candidates instead of running themselves."
-     },
-     {
-      "term": "candidate",
-      "definition": "In EU terms, a country formally in talks to join the European Union.",
-      "context": "Serbia has held this status since 2012, so the EU's reaction carries weight."
-     }
-    ],
-    "quiz": {
-     "question": "Why has the Novi Sad canopy collapse been especially damaging for Vučić?",
-     "options": [
-      "Russia and China funded the station",
-      "The station was part of his signature Belgrade–Budapest rail project, so it was hard to blame someone else",
-      "It happened during the election campaign",
-      "The Student List's top candidate designed the station"
-     ],
-     "answer_index": 1,
-     "explanation": "The station's renovation was central to his flagship rail line, and an analyst noted he couldn't find a scapegoat this time."
-    },
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7667/live/b6bb68f0-cef9-11f1-b441-2b33b063138f.jpg",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "Serbia votes on Sunday in a snap parliamentary election where a leaderless, student-picked Student List is running neck-and-neck with long-time leader Aleksandar Vučić's ruling party.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "3d095c16-f1c1-5b99-96e1-a613ef890af1"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-10-24T21:42:10.431336+00:00",
     "published_date": "2026-10-25",
     "has_fulltext": true
    }
@@ -1001,68 +762,69 @@
     "has_fulltext": true
    },
    {
-    "id": "42c220a5-4b98-5791-b027-74ea76f99e6a",
-    "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
-    "simplified_title": "Israel demolishes Hebron homes after gunmen kill two soldiers",
-    "quick_summary": "After two Palestinian gunmen killed two Israeli soldiers at a checkpoint outside Hebron, Israel sealed off the city and began bulldozing a neighbourhood, displacing hundreds of families in what critics call collective punishment.",
-    "simplified_body": "On Friday, two Palestinian gunmen opened fire on Israeli soldiers at a temporary checkpoint outside Hebron, a city in the occupied West Bank. After a 20-minute gunfight, two soldiers were killed, three were injured, and both gunmen were killed. Prime Minister Benjamin Netanyahu then announced a siege on Hebron, and bulldozers began flattening homes, especially in the Ein Deir Baha neighbourhood, alleged to be the gunmen's home district.\n\nThe people hit hardest are Palestinian families with no claimed link to the attack. Numbers differ: the Hebron municipality estimated about 1,500 people evicted (about 300 families), the mayor said more than 1,000, and the governor and deputy mayor said at least 200 families. The city itself is described as having about 250,000 residents by The Guardian and 200,000 by the BBC. Rights lawyers and groups call this collective punishment, which is banned under international law.\n\nSome background: Israel has occupied the West Bank since 1967. Since the 7 October 2023 Hamas-led attacks, The Guardian reports more than 1,100 Palestinians have been killed there by Israeli forces or settlers. Israel's elections are just days away, and polls suggest the far-right coalition may lose its majority. Hebron's mayor says the crackdown is \"driven by the elections\".\n\nWhat's next? Israel's high court issued a temporary order to stop demolitions after a petition, but the destruction continued. Wafa, a Palestinian news agency, reported plans to displace another 2,500 people. Netanyahu also says plans exist for the largest West Bank military operation since 1967, with no date set. The Palestinian Authority (PA), which governs parts of the territory, has called for urgent international action.",
-    "why_it_matters": "This is a major escalation in the West Bank, timed right before an Israeli election, and it raises serious questions about international law that governments worldwide, including Australia, are often asked to respond to.",
-    "deep_analysis": "## Historical Context\nAccording to The Guardian, Israel occupied the West Bank in 1967 and forcibly displaced about 300,000 Palestinians. As background, Hebron has long been a flashpoint because Israeli settlers live in and around the city alongside Palestinians. The BBC notes that demolishing the homes of suspected attackers is common Israeli practice, and that in 2025 operations in northern refugee camps displaced tens of thousands; The Guardian puts Jenin camp displacement at nearly 20,000. Defence Minister Israel Katz explicitly called this \"the Jenin refugee camp model\".\n\n## Multiple Perspectives\n- **Israeli government:** Netanyahu says forces will \"go house to house\" to remove weapons and destroy \"terrorist infrastructure\". Finance Minister Bezalel Smotrich said demolitions aimed to \"create deterrence and exact a price\" and called for a campaign \"exactly like in Gaza and Lebanon\". National Security Minister Itamar Ben-Gvir wants the PA dismantled.\n- **Critics and lawyers:** Lawyer Michael Sfard called Smotrich's video a \"direct admission\" of collective punishment. Lawyer Mohammed Dahleh said it copied \"illegal practices used in Gaza\".\n- **Palestinians in Hebron:** Activist Issa Amro said families are being punished \"for something we neither did nor supported\" and that their suffering is becoming election material. The mayor agrees it's election-driven.\n- **Press freedom:** The Foreign Press Association called conspiracy claims against an AFP photographer who witnessed the attack \"dangerous and defamatory\".\n- **Disputed figures:** Sources differ on how many people were displaced and on Hebron's population.\n\n## What to Watch\n- Whether the high court's temporary order is enforced or overturned.\n- Tuesday's Israeli election result and whether the crackdown continues afterward.\n- Whether the threatened large-scale West Bank operation goes ahead.\n- International responses to the PA's call for action.",
+    "id": "c47d33e3-761d-5b7d-bb88-edcb7b5b305c",
+    "title": "Deeply divided Israel braces for pivotal election",
+    "simplified_title": "Israel votes in tight, high-stakes election after years of war",
+    "quick_summary": "Israelis vote on Tuesday in their first election since the 7 October 2023 attacks, with Prime Minister Benjamin Netanyahu's bloc and the opposition almost neck-and-neck and neither on track for a majority.",
+    "simplified_body": "Israel holds a general election on Tuesday, its first since the Hamas-led attacks of 7 October 2023. The final polls, published on Friday before a legal ban on new surveys, showed Netanyahu's right-wing bloc and the main opposition bloc almost level. A poll by public broadcaster KAN gave the opposition 52 of the Knesset's 120 seats and Netanyahu's bloc 50, both short of the 61 needed to govern.\n\nAbout 7.3 million citizens can vote, including around 1.2 million Palestinian citizens of Israel. The BBC reports half a million first-time voters and some 70,000 Israelis reportedly flying home to vote. The big rival to Netanyahu is Gadi Eisenkot, a calm former military chief whose centrist Yashar party has often topped recent polls. He promises a state commission of inquiry into the 7 October failures and enforcement of court rulings on drafting ultra-Orthodox Jews into the army. Netanyahu is campaigning on security under the slogan \"No Surrender\".\n\nSome background: Israeli governments are built by coalition-building, because no single party usually wins a majority. Netanyahu is Israel's longest-serving prime minister and is fighting corruption charges. Critics say his push to curb the courts threatens democracy. On Gaza and Palestinian statehood, though, the BBC notes the opposition's positions aren't hugely different from the government's.\n\nWhat's next? Arab-led parties could end up as kingmakers, but both blocs have largely ruled out working with them. That could mean tough negotiations, a minority government, or even another election. One analyst argues deadlock could help Netanyahu stay on as a caretaker prime minister.",
+    "why_it_matters": "The result will shape Israel's approach to Gaza, the West Bank, Lebanon and Iran, and whether it tries to repair strained relations with allies and the wider international community.",
+    "deep_analysis": "## Historical Context\nThis is Israel's first national vote since the 7 October 2023 attacks, in which Hamas-led gunmen killed almost 1,200 people and took 251 hostage. Wars in Gaza, Lebanon and Iran followed. More than 74,000 Palestinians have been killed in Gaza, according to the Hamas-run health ministry, whose figures the UN considers reliable. Netanyahu has led Israel for more than 15 of the last 17 years, 19 in total. As general background, Israel uses nationwide proportional representation, so coalitions are the norm. Any party clearing 3.25% of the vote enters the Knesset.\n\n## Multiple Perspectives\nOpposition supporters frame the vote as a fight for democracy, accountability and an end to corruption. Some Netanyahu supporters credit him with changing the Middle East after 7 October. Some voters have moved further right, towards Itamar Ben Gvir's Jewish Power and Bezalel Smotrich's Religious Zionism. The sources describe Israel's actions differently: Al Jazeera calls the Gaza war \"genocidal\", while the BBC does not use that term. Palestinian citizens face hurdles. The Central Elections Committee tried to bar the two Arab lists, the top court reversed that, but Balad's leader was forced out. Around three million adult Palestinians in the occupied territories have no vote at all.\n\n## What to Watch\n- **Arab turnout:** campaigners are aiming for 70%; at 65%, Arab lists could win up to 15 seats.\n- **Coalition talks:** whether either bloc softens its refusal to rely on Arab parties.\n- **Caretaker scenario:** a deadlock could leave Netanyahu in office as caretaker.\n- **Netanyahu's exposure:** his corruption trial, the International Criminal Court (ICC) arrest warrant, and a possible 7 October inquiry.\n- **Security risks:** warnings about Iran, disruption to the ballot, and settler violence in the West Bank.",
     "concepts": [
      {
-      "term": "collective punishment",
-      "definition": "Punishing a whole group of people for actions carried out by a few individuals.",
-      "context": "Critics say demolishing homes of families unconnected to the gunmen is collective punishment, which international law prohibits."
+      "term": "Knesset",
+      "definition": "Israel's 120-seat parliament; a government needs the backing of 61 members.",
+      "context": "Neither bloc is polling at the 61 seats needed to form a majority in the Knesset."
      },
      {
-      "term": "occupied West Bank",
-      "definition": "Palestinian territory that Israel has controlled militarily since 1967.",
-      "context": "Hebron is the largest Palestinian city in this territory."
+      "term": "coalition-building",
+      "definition": "Several parties joining forces to make up a parliamentary majority, since one party rarely wins enough seats alone.",
+      "context": "Israeli politics depends on coalition-building rather than any single party winning outright."
      },
      {
-      "term": "Palestinian Authority (PA)",
-      "definition": "The Palestinian governing body that administers parts of the West Bank.",
-      "context": "Far-right Israeli ministers have called for it to be dismantled, and it has urged international action."
+      "term": "kingmakers",
+      "definition": "Smaller parties whose support can decide which side gets to govern.",
+      "context": "Arab-led parties could win enough seats to be kingmakers, though both blocs have largely rejected them."
+     },
+     {
+      "term": "caretaker prime minister",
+      "definition": "A leader who stays in office temporarily until a new government is formed.",
+      "context": "Analysts say a deadlock could keep Netanyahu in power in a caretaker role."
      }
     ],
     "quiz": {
-     "question": "Why do critics describe Israel's Hebron demolitions as 'collective punishment'?",
+     "question": "Why could Arab-led parties play a decisive role even though both main blocs have ruled out partnering with them?",
      "options": [
-      "Because the homes belonged to the gunmen themselves",
-      "Because the Palestinian Authority ordered them",
-      "Because families with no claimed link to the attack are losing their homes",
-      "Because the demolitions were approved by the high court"
+      "Neither main bloc is projected to reach 61 seats without them",
+      "They have already joined Netanyahu's coalition",
+      "They control the Central Elections Committee",
+      "They are predicted to win an outright majority"
      ],
-     "answer_index": 2,
-     "explanation": "Collective punishment means penalising a whole group for a few people's actions. Sources say many displaced families had no claimed connection to the attackers, and the high court actually tried to pause the demolitions."
+     "answer_index": 0,
+     "explanation": "Polls show both blocs falling short of 61 seats, so the Arab parties' seats could tip the balance or produce a deadlock."
     },
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/15b08426d4d1d04bcd2303817e34d7f49ab08850/539_0_4583_3667/master/4583.jpg?width=1920&quality=85&auto=format&fit=max&s=bad7db58045ef9f586d1aa50ff78124b",
+    "impact_score": 78,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "After two Palestinian gunmen killed two Israeli soldiers at a checkpoint outside Hebron, Israel sealed off the city and began bulldozing a neighbourhood, displacing hundreds of families in what critics call collective punishment.",
+    "description": "Israelis vote on Tuesday in their first election since the 7 October 2023 attacks, with Prime Minister Benjamin Netanyahu's bloc and the opposition almost neck-and-neck and neither on track for a majority.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
-     },
-     {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o"
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
     "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-24T21:42:12.096869+00:00",
-    "published_date": "2026-10-25",
+    "reading_minutes": 8,
+    "created_at": "2026-10-26T06:26:36.065182+00:00",
+    "published_date": "2026-10-26",
     "has_fulltext": true
    },
    {
@@ -1127,74 +889,6 @@
     ],
     "reading_minutes": 2,
     "created_at": "2026-10-25T12:39:18.409549+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
-   },
-   {
-    "id": "9c55d09b-8aa4-542f-b2b5-9e7ed820161e",
-    "title": "Houthis claim 'phases' of attacks on Saudi airports, oil pipelines",
-    "simplified_title": "Yemen's Houthis claim strikes on Saudi airports and oil sites",
-    "quick_summary": "Yemen's Iran-allied Houthi group says it fired on Saudi airports, oil facilities and an air base, and Yemen's government says Houthi missiles also hit coast guard sites in Aden, though Saudi Arabia hasn't confirmed the claimed hits.",
-    "simplified_body": "On Saturday, Houthi military spokesperson Yahya Saree said the group targeted airports in Riyadh, Dammam and Najran, an air base in Khamis Mushait, an Aramco facility in Yanbu, the Rabigh oil refinery, crude oil pumping stations and the East-West Pipeline. Saudi Arabia hasn't confirmed this. The Saudi-led coalition said it destroyed two ballistic missiles aimed at Yanbu and Taif, and Saudi civil defence said two missiles were fired towards Mecca and Medina. The Houthis called that last claim a \"huge lie\".\n\nThe fighting is also hitting Yemen itself. Yemen's internationally recognised government says Houthi missiles struck coast guard buildings in the port city of Aden, and its Transport Ministry said Aden's airport was targeted for the \"fourth such attack this month\". Houthi-run Al-Masirah TV says Saudi strikes killed civilians in Yemen. The ABC reports the Houthis put the toll at 17, but none of these claims could be verified, and Riyadh hasn't commented.\n\nSome background: the Houthis control Yemen's capital, Sanaa. A Saudi-led coalition backs the rival, internationally recognised government. A 2022 United Nations (UN)-brokered truce largely stopped cross-border attacks, but Al Jazeera says it fell apart in July. Sources link this flare-up to the wider war on Iran. France 24 calls it another front in the US-Israeli war on Iran.\n\nWhat's next? The Houthis have warned airlines to avoid Saudi airspace, except over Mecca and Medina, so flights and oil infrastructure could stay at risk. Heavy ground fighting is also continuing on Yemen's front lines, including in Taiz.",
-    "why_it_matters": "Attacks on Saudi oil pipelines and refineries can rattle global energy markets, which can flow through to fuel prices worldwide, including at Australian bowsers. The airspace warnings also affect international air travel through the Gulf region.",
-    "deep_analysis": "## Historical Context\nAs background, Yemen's civil war escalated after the Houthis took Sanaa in the mid-2010s. A Saudi-led coalition then intervened to back the government. According to the sources, a 2022 UN-brokered truce largely halted cross-border attacks. Al Jazeera says it collapsed in July, and the sources tie the renewed fighting to the war on Iran.\n\n## Multiple Perspectives\nThe sources give competing accounts:\n- **The Houthis** say they hit airports, oil sites and military gatherings that Saudi officers were overseeing. They deny targeting Mecca and Medina.\n- **Saudi authorities** say missiles were fired towards the holy cities and were intercepted. The coalition says it destroyed missiles aimed at Yanbu and Taif, but it hasn't confirmed the Houthi list of targets.\n- **Yemen's government** reports hits in Aden. It also says a malfunctioning Houthi missile killed three people in Sanaa.\n- **The Gulf Cooperation Council**, through its Secretary-General, called the attacks \"heinous\".\n\nMany claims on all sides, including civilian deaths and the army's figure of 300 Houthi fighters \"neutralised\", couldn't be independently verified.\n\n## What to Watch\n- Whether Saudi oil infrastructure suffers confirmed damage.\n- Airline responses to the airspace warnings.\n- Fighting in Taiz.\n- Any diplomatic push to restore a truce.",
-    "concepts": [
-     {
-      "term": "Saudi-led coalition",
-      "definition": "A military alliance headed by Saudi Arabia that backs Yemen's internationally recognised government against the Houthis.",
-      "context": "It said it destroyed Houthi missiles aimed at Yanbu and Taif."
-     },
-     {
-      "term": "internationally recognised government",
-      "definition": "The Yemeni government that most countries officially accept as legitimate. It is based in Aden.",
-      "context": "It is the Houthis' rival, and its Aden sites were hit by missiles."
-     },
-     {
-      "term": "ballistic missiles",
-      "definition": "Rockets that are launched high into the air and then fall onto their target along an arcing path.",
-      "context": "The Houthis reportedly fired them at Aden and towards Saudi cities."
-     }
-    ],
-    "quiz": {
-     "question": "Why do reports of these attacks need to be treated with caution?",
-     "options": [
-      "All sources agree on exactly what was hit",
-      "The attacks happened years ago",
-      "Many claims from the different sides haven't been independently verified or confirmed",
-      "Saudi Arabia confirmed every Houthi claim"
-     ],
-     "answer_index": 2,
-     "explanation": "Saudi Arabia hasn't confirmed the Houthi target list, and claims of civilian deaths and fighter casualties couldn't be verified. The two sides also directly dispute some claims, such as whether Mecca and Medina were targeted."
-    },
-    "impact_score": 68,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/c1a0b5233b0ebceca8569333d7d301fc?impolicy=wcms_watermark_news&cropH=2714&cropW=4825&xPos=88&yPos=0&width=862&height=485&imformat=generic",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Yemen's Iran-allied Houthi group says it fired on Saudi airports, oil facilities and an air base, and Yemen's government says Houthi missiles also hit coast guard sites in Aden, though Saudi Arabia hasn't confirmed the claimed hits.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-25/houthis-claim-attacks-on-saudi-airports-oil-pipelines/107305824"
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
-     },
-     {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "161b8573-a58d-5e1b-baa9-8c6caba38306",
-     "938d55fd-561c-5289-999e-daf1c9d0d934"
-    ],
-    "reading_minutes": 2,
-    "created_at": "2026-10-24T21:42:11.924640+00:00",
     "published_date": "2026-10-25",
     "has_fulltext": true
    },
@@ -1264,71 +958,77 @@
   ],
   "AMERICAS": [
    {
-    "id": "b140347d-8ea0-51cd-9a95-969a2c0577b7",
-    "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
-    "simplified_title": "Brazil's Lula and Flávio Bolsonaro neck and neck before Sunday's runoff",
-    "quick_summary": "Brazil's 80-year-old left-wing president Lula is trying to become the first first-round loser to win a runoff since democracy returned, facing far-right Flávio Bolsonaro in a vote polls say is roughly tied.",
-    "simplified_body": "Brazil votes in a presidential runoff on Sunday, with nearly 159 million people eligible. Far-right senator Flávio Bolsonaro won the first round on 4 October by 47% to 45% over left-wing president Luiz Inácio Lula da Silva. On the eve of the vote, Rio's City Hall said about 1.1 million Lula supporters packed Copacabana beach, while Bolsonaro supporters rallied in places like Belo Horizonte.\n\nPolls disagree slightly but all show it's close: a CNT/MDA poll has Bolsonaro on 46.3% to Lula's 45%, while a Datafolha survey has them tied at 50% each. Lula supporters fear a Bolsonaro win could threaten democracy, partly because his father, former president Jair Bolsonaro, is serving a 27-year sentence for plotting a coup. Bolsonaro backers want change, pointing to crime, high taxes, the cost of living and corruption.\n\nSome background: Lula, a former metalworker and union leader, has been president three times. According to the BBC, his traditional working-class base has shifted towards the gig economy, which he calls \"Uber-isation\", and many feel worse off despite record-low unemployment. Abstention was high in the first round, with 33 million people not voting, even though voting is compulsory. The growing evangelical church also backs Bolsonaro.\n\nNext, the result. Since 1989 every first-round winner has gone on to win, so a Lula victory would be historic. Watch Minas Gerais: no candidate has won the presidency without it, and Bolsonaro led there by just under 5%.",
-    "why_it_matters": "Brazil is one of the world's biggest democracies, and this vote is being framed as a test of whether a coup-linked political family returns to power. There's no specific Australian angle in the sources, but it's part of a wider global swing between left and populist right.",
-    "deep_analysis": "## Historical Context\nBrazil returned to democracy in the 1980s after military rule (background). Lula was first elected in 2002, and Jair Bolsonaro was president from 2019 to 2022, a term critics remember for a botched Covid response and loosened gun laws. After losing to Lula in 2022, Jair Bolsonaro plotted a coup and is now serving 27 years. The Guardian says no first-round loser has come back since democracy returned; the BBC says every first-round winner since 1989 has won.\n\n## Multiple Perspectives\nLula supporters see the election as a fight for democracy, warning about the Bolsonaros' documented militia ties and reports that coup plotters could get top security jobs. Bolsonaro supporters want change on crime, taxes and debt, and some want closer alignment with the US. The BBC highlights that much of the swing looks like a rejection of Lula rather than enthusiasm for Bolsonaro, with biographer Richard Lapper calling Lula a \"victim of his own success\" amid a crisis of expectations. Flávio has faced corruption accusations, which he denies, and a magazine claim about a 2020 boat party.\n\n## What to Watch\n- Turnout, especially whether Lula's street and WhatsApp mobilisation brings out first-round abstainers.\n- Minas Gerais as a bellwether.\n- Whether a Bolsonaro win leads to moves to free Jair Bolsonaro.\n- How the loser responds, given the 2022 coup plot.",
+    "id": "c2ac342f-c1d8-57b2-a7fb-32a818ac16b5",
+    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+    "simplified_title": "Lula wins fourth term in Brazil as Flávio Bolsonaro refuses to concede",
+    "quick_summary": "Brazil's 80-year-old leftist president Luiz Inácio Lula da Silva came from behind to beat far-right senator Flávio Bolsonaro in a runoff, but Bolsonaro says he won't accept the result and will seek to have it annulled.",
+    "simplified_body": "Brazil's president, Luiz Inácio Lula da Silva (known as Lula), has won a fourth term. With all votes counted, he got 51.79% to far-right senator Flávio Bolsonaro's 48.21%, about 4.4 million votes ahead. Lula had narrowly lost the first round in early October, and since democracy returned in the 1980s, no first-round runner-up had ever won the second vote. Bolsonaro refused to concede and says his lawyers will ask for the election to be annulled.\n\nHis complaint centres on Justice Cristiano Zanin extending voting by two hours to 7pm. Zanin used to be Lula's lawyer and was appointed by him. But Bolsonaro's own campaign had also asked for longer voting hours. Lula's campaign cited voters missing out on the free public transport guaranteed by law, while Bolsonaro's cited heavy rain. Voters on the street were split on whether the extension was fair.\n\nSome background: Flávio is the son of former president Jair Bolsonaro, who lost to Lula in 2022, refused to accept defeat, attempted a coup and is now serving a 27-year sentence. He had hoped to be freed if his son won. The result is also a blow for United States President Donald Trump, who backs the Bolsonaro family and several other right-wing Latin American leaders. Lula's team credits higher voter turnout: abstention fell from a record 21.08% in the first round to 19.21%.\n\nNext up: a likely legal fight over the result, and a shaky week for financial markets, which had rallied on expectations of a Bolsonaro win. Lula's new term begins on 5 January 2027, and he faces slow growth and public debt above 82% of gross domestic product (GDP).",
+    "why_it_matters": "Brazil is Latin America's largest democracy, and this result breaks a run of right-wing wins across the region while testing whether a losing side will accept the vote. A Deakin University analyst told the ABC it strengthens the idea of settling politics through democratic institutions.",
+    "deep_analysis": "## Historical Context\nThe Guardian notes Brazil was under a military regime from 1964 to 1985. Lula, a former factory worker and union leader, lost presidential bids in 1989, 1994 and 1998 before winning in 2002, serving two consecutive terms, and returning in 2022. After that 2022 loss, Jair Bolsonaro refused to concede and attempted a coup. Note a small source discrepancy: the ABC quotes an analyst referring to the '2023 presidential elections', while The Guardian dates that election to 2022. The ABC also says Jair is under 'home arrest', while The Guardian says he is serving a 27-year sentence and living under house arrest in Brasília.\n\n## Multiple Perspectives\n- **Lula's camp** frames the win as a defeat for 'denialism' and a rescue of democracy; Vice-President Geraldo Alckmin said voters 'saved Brazilian democracy for the second time'.\n- **Bolsonaro's camp** calls the voting extension 'changing the rules of the game while the game was being played' and blames 'Lula's friends on the supreme court', though his campaign also requested an extension.\n- **Ordinary voters** were divided: some called the extension a 'disgrace', others said it was 'more than fair'. A Bolsonaro-supporting businessman said another Lula term would harm the economy.\n- **Markets** had rallied after the first round; analysts expect a sharp selloff until a clear fiscal plan emerges.\n- **International leaders**, including from Mexico, Canada, Paraguay and Chile (whose president is a Trump ally), congratulated Lula.\n\n## What to Watch\n- Whether courts entertain Bolsonaro's annulment request, and whether supporters mobilise.\n- Market reaction and Lula's plan to slow debt growth while protecting social programs.\n- Background: how far the result shifts the region's broader rightward trend.",
     "concepts": [
      {
       "term": "runoff",
-      "definition": "A second-round election between the top two candidates when no one wins outright in the first round.",
-      "context": "Bolsonaro led the first round 47% to 45%, so the pair face off again."
+      "definition": "Wait — see simplified_body uses 'second vote'; a runoff is a second-round election between the top two candidates when no one wins outright.",
+      "context": "Lula lost the first round but won the second round vote."
      },
      {
-      "term": "gig economy",
-      "definition": "Work made up of short-term, flexible jobs like app-based driving or food delivery rather than steady employment.",
-      "context": "The BBC says this shift has weakened Lula's traditional union-based support."
+      "term": "annulled",
+      "definition": "Officially cancelled as if it never legally happened.",
+      "context": "Bolsonaro wants the election result annulled because of the extended voting hours."
      },
      {
-      "term": "Abstention",
-      "definition": "Choosing not to vote.",
-      "context": "33 million Brazilians didn't vote in the first round, the highest since 1998, hurting Lula."
+      "term": "abstention",
+      "definition": "Eligible voters not casting a ballot.",
+      "context": "Abstention fell from 21.08% to 19.21%, helping Lula, whose voters often live further from polling stations."
+     },
+     {
+      "term": "gross domestic product (GDP)",
+      "definition": "The total value of everything an economy produces in a year, used to compare debt to a country's size.",
+      "context": "Brazil's public debt has risen past 82% of GDP."
      }
     ],
     "quiz": {
-     "question": "Why would a Lula win on Sunday be considered historic?",
+     "question": "Why is Flávio Bolsonaro's complaint about the extended voting hours seen as weak by critics?",
      "options": [
-      "He would be the first first-round loser to win a runoff since democracy returned",
-      "He would be the youngest president ever",
-      "He would be the first left-wing president in Brazil",
-      "He would be the first president to win Minas Gerais"
+      "Because Lula's campaign opposed the extension",
+      "Because the extension only applied to Bahia",
+      "Because his own campaign had also asked for voting hours to be extended",
+      "Because the extension happened after all votes were counted"
      ],
-     "answer_index": 0,
-     "explanation": "Bolsonaro won the first round, and since democracy returned every first-round winner has gone on to win the presidency."
+     "answer_index": 2,
+     "explanation": "Both campaigns requested longer voting hours (Lula's over transport problems, Bolsonaro's over heavy rain), yet Bolsonaro now calls the decision unacceptable."
     },
     "impact_score": 68,
-    "image_url": "https://i.guim.co.uk/img/media/f88e1e11de78a21720ab49b0ad50bd2ceda0156f/508_0_4444_3558/master/4444.jpg?width=1920&quality=85&auto=format&fit=max&s=da943a11ffd0225bff8e0a4bdfa89bc1",
+    "image_url": "https://i.guim.co.uk/img/media/892158c55349da49e7052d9e79a75686e4b9ebaa/0_0_5500_3819/master/5500.jpg?width=1920&quality=85&auto=format&fit=max&s=96b160bc65e20980d88b394c92c0c287",
     "region": "North & South America",
     "region_code": "AMERICAS",
-    "description": "Brazil's 80-year-old left-wing president Lula is trying to become the first first-round loser to win a runoff since democracy returned, facing far-right Flávio Bolsonaro in a vote polls say is roughly tied.",
+    "description": "Brazil's 80-year-old leftist president Luiz Inácio Lula da Silva came from behind to beat far-right senator Flávio Bolsonaro in a runoff, but Bolsonaro says he won't accept the result and will seek to have it annulled.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro"
+      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
      },
      {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-26/brazilian-president-luiz-inacio-lula-da-silva-wins/107308482"
      },
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
     "related_story_ids": [
      "534ff637-863c-582e-9044-8544adff934b",
-     "6c2d6990-cf50-58f6-8593-8d1d6a4899ef"
+     "6c2d6990-cf50-58f6-8593-8d1d6a4899ef",
+     "b140347d-8ea0-51cd-9a95-969a2c0577b7"
     ],
-    "reading_minutes": 5,
-    "created_at": "2026-10-24T21:42:10.729726+00:00",
-    "published_date": "2026-10-25",
+    "reading_minutes": 4,
+    "created_at": "2026-10-26T06:26:36.709455+00:00",
+    "published_date": "2026-10-26",
     "has_fulltext": true
    },
    {
@@ -1697,46 +1397,46 @@
    {
     "id": "bdf6a832-0205-51d1-a506-b494bcca86d2",
     "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up?",
-    "simplified_title": "More young Australians are joining the military as tensions rise",
-    "quick_summary": "The Australian Defence Force has grown to its largest size in 25 years, with young people drawn by pay, free study and job security, even as experts warn the odds of conflict are increasing.",
-    "simplified_body": "The Australian Defence Force (ADF) took on more than 8,100 new recruits this year, pushing full-time numbers across the navy, army and air force past 64,000. That's the biggest military in 25 years, though it still falls short of the government's yearly recruitment targets. Defence says it's on track to reach 69,000 full-time personnel by the early 2030s.\n\nThe push is aimed largely at 16 to 25-year-olds, with ads on TikTok and in video games. Young people at a recruitment session in Parramatta said they were drawn by practical perks: a salary while studying at the Australian Defence Force Academy (ADFA) with no study debt, discipline, fitness and job security. One expert says a tighter labour market, cost-of-living pressures and housing unaffordability may also play a part. Parents matter a lot too. A Defence-funded report found young people who think their parents want them to enlist are 30 times more likely to want to join.\n\nWhy now? The government says Australia faces its \"most complex and threatening strategic circumstances\" since the second world war, and is spending billions on missiles, landing craft and nuclear-powered submarines under the Aukus pact. All that gear needs people to run it. Defence has also widened eligibility, assessing some medical conditions case by case and opening recruitment to some permanent residents and, from next month, Papua New Guinea university students.\n\nThe big bottleneck is time: the average wait from application to enlistment was 259 days, and Defence wants to cut that to about 100. Meanwhile, experts warn recruits should expect they could be called to fight, with one historian naming a possible US-China war over Taiwan as the most likely scenario.",
-    "why_it_matters": "Australia is betting billions on new military equipment, but it only works if enough people sign up to run it. For young Australians weighing up study, money and housing pressures, the ADF is becoming a serious option, with real risks attached.",
-    "deep_analysis": "## Historical Context\nThe article notes this growth reverses years of recruitment and retention failures, and that today's ADF remains a fraction of the size of world war mass mobilisations. The ADF has also faced scrutiny over its culture, including the Brereton inquiry into alleged war crimes in Afghanistan and the royal commission into defence and veteran suicide. As general background, Australia has fought alongside the US in conflicts like Vietnam, Iraq and Afghanistan, which is the history historian Albert Palazzo refers to when he says Australia has \"a long history of inviting itself to American wars\".\n\n## Multiple Perspectives\n- **Recruits:** Many are motivated by pragmatic benefits (paid degrees, no study debt, fitness, salary) more than duty alone. Some, like Mahmood Dakkak, want to avoid frontline roles given war fears.\n- **Parents:** Eli Holt's parents were initially not keen but reasoned that proper training beats sudden conscription if a major war comes.\n- **Defence:** Says reforms are underway to cut wait times, and credits retention bonuses, housing and conditions for the lowest separation rate in 15 years.\n- **Jennifer Parker (UWA):** Calls it a \"fairly exciting time\" to join, but warns the chances of being called to fight are increasing, and says slow processing is a major bottleneck.\n- **Albert Palazzo (UNSW Canberra):** More blunt, arguing that because the US has access to or controls most Australian bases, Australia would have little choice but to join a US-China war, and \"a lot of our people will die\".\n- Notably, the obligation of \"unrestricted service\" wasn't discussed at the information session; it comes later in the process.\n\n## What to Watch\n- Whether Defence can cut application-to-enlistment time from 259 days towards 100.\n- Whether recruitment hits annual targets and the 69,000 goal by the early 2030s.\n- The first cohort of the $65m Papua New Guinea pilot program, due to be enlisted by next year.\n- Progress on the target of 25% female workforce participation by 2030 (currently just over 20%, with the army at 15%).\n- Regional tensions, particularly around Taiwan.",
+    "simplified_title": "More young Australians are joining the military as conflict risks grow",
+    "quick_summary": "The Australian Defence Force has grown to its largest size in 25 years, helped by better pay, targeted ads and looser eligibility rules, even as experts warn the chance of war is rising.",
+    "simplified_body": "The Australian Defence Force (ADF) took on more than 8,100 new recruits this year, pushing full-time personnel across the navy, army and air force past 64,000. That's the biggest military in 25 years, though it still falls short of the government's annual recruitment targets. Defence says it's on track to reach 69,000 by the early 2030s.\n\nThis mostly affects young people weighing up life after school. Many are drawn by practical perks: at the Australian Defence Force Academy (ADFA), cadets earn about $55,000 in their first year while studying a degree with no study debt. A University of Tasmania study found TikTok and video game ads, better pay and tweaked eligibility rules are all helping. Parents matter hugely too: young people who think their parents want them to enlist are 30 times more likely to want to join.\n\nSome background: the government says Australia faces its most threatening strategic circumstances since the second world war, and is spending billions on missiles, landing craft and nuclear-powered submarines under the Aukus pact. All that gear needs thousands more people. The ADF has also been working on its reputation after the Brereton inquiry into alleged war crimes in Afghanistan and a royal commission into defence and veteran suicide.\n\nWhat's next? The average wait from application to enlistment is 259 days, and Defence says reforms aim to cut that to 100. Recruitment is opening to Papua New Guinea university students from next month. Meanwhile, experts warn recruits should expect real operations, and one historian says a US-China war over Taiwan could drag Australia in.",
+    "why_it_matters": "Australia is rebuilding its military for a tenser Indo-Pacific, and the young people signing up now could be the ones serving if a major conflict breaks out.",
+    "deep_analysis": "## Historical Context\nThe recruitment boost reverses years of recruitment and retention failures, according to the article. As general background, Australia has relied on an all-volunteer force for decades, with conscription last used during the Vietnam War era. The article notes today's force is still a fraction of world war mass mobilisations. It also mentions that when Jennifer Parker joined the navy in 2002, women had only been at sea for 10 years, while now the fleet commander is a woman.\n\n## Multiple Perspectives\n- **Defence** points to reforms, retention bonuses and better housing, with separation rates at a 15-year low.\n- **Jennifer Parker (UWA)** calls it a \"fairly exciting time\" to join but says slow processing is a major bottleneck and recruits should expect to serve on operations.\n- **Albert Palazzo (UNSW Canberra)** is blunter: he argues US control of or access to Australian bases means Australia would have little choice but to join a US-China war, and that many young people would die.\n- **Recruits and parents** mix pragmatism (pay, no study debt, AI-proof work) with fear; one father reasoned proper training beats sudden conscription.\n- **Prof Ben Edwards (ANU)** links interest to labour market and cost-of-living pressures.\n\n## What to Watch\n- Whether processing time falls from 259 days towards the 100-day goal.\n- Progress to 69,000 personnel and the 25% female participation target by 2030 (currently just over 20%).\n- The $65m PNG recruitment pilot.\n- Whether rising conflict risk eventually dampens sign-ups.",
     "concepts": [
      {
       "term": "Aukus pact",
-      "definition": "A security partnership under which Australia plans to acquire nuclear-powered submarines.",
-      "context": "It's a key reason the ADF needs thousands more trained people to operate and maintain new equipment."
+      "definition": "A security agreement under which Australia plans to acquire nuclear-powered submarines.",
+      "context": "It's one reason the ADF needs thousands more people to operate and maintain new equipment."
      },
      {
       "term": "Australian Defence Force Academy",
-      "definition": "A military academy where cadets earn a salary while completing a university degree and officer training, in exchange for serving about nine years after graduating.",
-      "context": "It's a big drawcard for students wanting a degree without study debt."
+      "definition": "A place where cadets earn a salary while doing a university degree and officer training, in exchange for serving about nine years after graduating.",
+      "context": "A big drawcard for students wanting a degree without study debt."
      },
      {
-      "term": "conscription",
-      "definition": "Compulsory enlistment of people into the military by the government.",
-      "context": "Eli Holt's father reasoned that proper training is better than being suddenly conscripted in a major war."
+      "term": "Brereton inquiry",
+      "definition": "An inquiry into alleged war crimes by Australian forces in Afghanistan.",
+      "context": "Part of the scrutiny over ADF culture that prompted reputation repair efforts."
      }
     ],
     "quiz": {
-     "question": "According to the article, what is the strongest predictor of whether a young person is interested in joining the ADF?",
+     "question": "According to the article, what is a major bottleneck slowing ADF growth?",
      "options": [
-      "Seeing recruitment ads on TikTok",
-      "Whether they think their parents want them to enlist",
-      "Living in western Sydney",
-      "How much the ADF pays in the first year"
+      "Banning all permanent residents from joining",
+      "A slow, cumbersome recruitment process averaging 259 days",
+      "Pay being lower than most civilian jobs",
+      "A lack of advertising to young people"
      ],
      "answer_index": 1,
-     "explanation": "A Defence-funded report found young people who think their parents want them to enlist are 30 times more likely to want to join, making parental attitudes the strongest predictor."
+     "explanation": "Jennifer Parker says exams, security checks, medicals and interviews create long waits, and young people don't want to wait a year to find out if they can join."
     },
     "impact_score": 58,
     "image_url": "https://i.guim.co.uk/img/media/c78dd3009baf2b3845322bf2197d1f5dd4a2546a/0_350_6000_3642/master/6000.jpg?width=1920&quality=85&auto=format&fit=max&s=012be815a485285d80cc54c770b11f67",
     "region": "Australian defence, ADF, AUKUS, regional security",
     "region_code": "ADF",
-    "description": "The Australian Defence Force has grown to its largest size in 25 years, with young people drawn by pay, free study and job security, even as experts warn the odds of conflict are increasing.",
+    "description": "The Australian Defence Force has grown to its largest size in 25 years, helped by better pay, targeted ads and looser eligibility rules, even as experts warn the chance of war is rising.",
     "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
+    "category": "SOCIETY_CULTURE",
     "sources": [
      {
       "name": "The Guardian",
@@ -1747,191 +1447,191 @@
     "confidence": 0.55,
     "related_story_ids": [],
     "reading_minutes": 8,
-    "created_at": "2026-10-24T21:42:30.091209+00:00",
-    "published_date": "2026-10-25",
+    "created_at": "2026-10-26T06:26:33.963509+00:00",
+    "published_date": "2026-10-26",
     "has_fulltext": true
    },
    {
-    "id": "fe0855b8-65f5-5d15-a65f-21612bcf4130",
-    "title": "Indonesian political rhetoric targeting neighbours aimed at distracting from domestic pressures",
-    "simplified_title": "Indonesian politicians take swipes at Singapore and Malaysia over haze",
-    "quick_summary": "Some Indonesian political figures have lashed out at Singapore and Malaysia amid the regional haze crisis, but analysts say it's mostly domestic posturing rather than a real shift in Indonesia's foreign policy.",
-    "simplified_body": "As smoky haze blankets parts of Southeast Asia, some Indonesian politicians have gone on the attack against their neighbours. Energy minister Bahlil Lahadalia said on 22 October he might stop gas exports to countries that 'do not respect Indonesia', without naming them. Former trade minister Muhammad Lutfi posted videos accusing Singapore's state investors Temasek and GIC of pressuring index provider MSCI to downgrade Indonesia's stock market. Both have denied this.\n\nAnalysts from think tanks such as the ISEAS-Yusof Ishak Institute say the comments are aimed at voters at home, where people are 'feeling the pinch' economically. Blaming neighbours is a 'long-standing tactic' that lets politicians dodge accountability. Importantly, President Prabowo Subianto hasn't endorsed the remarks, and he agreed in an early October call with Malaysian Prime Minister Anwar Ibrahim to act on the haze.\n\nSome background: Indonesia's government pushes economic nationalism, including 'downstreaming', which means processing raw materials locally before exporting them. The tension also flared after Malaysian MP Syed Saddiq Abdul Rahman urged the Association of Southeast Asian Nations (ASEAN) to treat Indonesia as an 'outcast'. Singapore and Malaysia have mostly stuck to quiet diplomacy, in line with ASEAN's non-interference norms.\n\nAnalysts expect the 'victim' narrative to continue, but doubt Indonesia would actually cut gas exports. Singapore's gas supplies are diversified, and redirecting gas at home could hurt the budget and state energy company Pertamina.",
-    "why_it_matters": "How Indonesia, Australia's huge northern neighbour, handles nationalist pressure at home can affect regional trade and cooperation on cross-border problems like haze. The source doesn't mention Australia directly, though.",
-    "deep_analysis": "## Historical Context\nAnalysts quoted say invoking nationalist sentiment during domestic hardship is a long-standing tactic in Indonesian politics. As general background, transboundary haze from land and forest fires in Indonesia has caused recurring friction with Singapore and Malaysia for decades. In the article, Mr Lutfi notes Malaysian companies operate in Indonesia's plantation sector, hinting at shared responsibility.\n\n## Multiple Perspectives\n- **Nationalist critics** (Bahlil, Lutfi): neighbours are disrespectful and ridicule Indonesia.\n- **Analysts** (ISEAS, RSIS, NUS): rhetoric is posturing for domestic audiences; Prabowo's government has been more conciliatory.\n- **Indonesian establishment** (Dino Patti Djalal): Singapore is a trusted partner; conspiracy claims 'don't make sense'.\n- **Malaysian MP Syed Saddiq**: called for ASEAN diplomatic pressure on Indonesia.\n- **Singapore/Malaysia leaders**: quiet diplomacy; Shanmugam praised Indonesia's 'unprecedented' haze efforts.\n\n## What to Watch\n- Whether gas export contracts are actually reviewed or left alone.\n- Whether Prabowo distances himself further from the remarks.\n- Indonesia's economic strain and the progress of downstreaming, which affects domestic gas demand.\n- How the haze itself develops.",
+    "id": "e9d54141-3b8e-59ce-baf9-ab4c3655b377",
+    "title": "Ghost Sharks' mines won't be much use if Australia can't act fast enough | The Strategist",
+    "simplified_title": "Australia's Ghost Shark drones can lay mines, but can we decide fast enough?",
+    "quick_summary": "The government has confirmed Ghost Shark uncrewed submarines can lay up to 12 mines at a time, but an ASPI Strategist analysis warns Australia may not have the speed, legal arrangements or decision rules to use them in time.",
+    "simplified_body": "On 19 October the Australian Government confirmed that Ghost Shark uncrewed submarines will be able to lay mines, up to 12 at a time. Ghost Shark is being developed by the company Anduril, the Defence Science and Technology Group and the Royal Australian Navy. An article in The Strategist, published by the Australian Strategic Policy Institute (ASPI), argues the hardware is only half the story.\n\nThe big worry is timing. A mine only deters an enemy if they believe it'll be laid before they arrive. ASPI staff previously estimated Ghost Shark cruises at just 3 to 4 knots to save battery, so a 1,600 km trip would take about 1.5 weeks. That means Australia would need a launch ship already in the region, or permission to operate from a friendly country's territory, both arranged well before any crisis.\n\nSome background: mines work best at choke points, narrow passages enemy ships must squeeze through. Australia's key ones are in or near Indonesia's waters. The law of naval warfare bans mining neutral waters and requires minefields to be recorded and announced, so forward mining depends on diplomacy and partner consent. Mining closer to home could block Australia's own navy, fuel imports and trade. Meanwhile, Australia's mine-clearing force has shrunk from six Huon-class minehunters to two old ones, which the navy calls minimally viable.\n\nThe author wants the government to explain, without giving away secrets, who authorises mining and when, whether mines can be laid inactive and switched on later, and how Australia would work with Indonesia. They also urge tested crisis procedures, prearranged launch deals with partners and Parliament scrutiny of the cost of delayed decisions.",
+    "why_it_matters": "Australia's defence relies heavily on stopping threats in the sea approaches to our north, so whether new autonomous mine-layers can actually be used in time goes to the heart of how the country protects itself and its trade.",
+    "deep_analysis": "## Historical Context\nAs general background, naval mines are among the oldest and cheapest tools of sea denial and have shaped many conflicts by closing harbours and straits. The article itself notes Australia's mine countermeasures fleet has fallen from six Huon-class minehunters to two. Ghost Shark represents a shift towards uncrewed systems that can operate without risking sailors.\n\n## Multiple Perspectives\nThe article sees real value: covert, persistent mine-laying that adds strongly to maritime denial. But it stresses limits: slow transit speed, dependence on pre-positioned launch ships (which could be attacked) or allied territory, legal limits on mining neutral waters, and the impact on Indonesia's and others' shipping. It acknowledges the public not knowing the rules of engagement doesn't mean none exist. It also warns that mining itself could be seen as a major escalation, and that autonomy doesn't remove ministers' responsibility to decide. Only one source is provided, so government or Indonesian views aren't represented here.\n\n## What to Watch\n- Whether the government publicly outlines who authorises mining and at what crisis level.\n- Any agreements with partners on launch points or coordination with Indonesia.\n- Investment in replacing or boosting mine-clearing capability.\n- Parliamentary questions on the cost of delayed authorisation.\n- Exercises rehearsing warning failure and compressed timelines.",
     "concepts": [
      {
-      "term": "downstreaming",
-      "definition": "A policy of processing raw materials locally into higher-value products before exporting them.",
-      "context": "Indonesia prioritises gas for domestic use to support downstreaming industries."
+      "term": "choke points",
+      "definition": "Narrow sea passages that ships must pass through, making them easier to block.",
+      "context": "Mines work best here; Australia's key ones lie in or near Indonesian waters."
      },
      {
-      "term": "economic nationalism",
-      "definition": "An approach that favours domestic control of the economy and limits reliance on foreign capital.",
-      "context": "Analysts say the haze inflamed this ideology within Prabowo's government."
+      "term": "uncrewed submarines",
+      "definition": "Underwater vessels that operate without people on board, controlled remotely or autonomously.",
+      "context": "Ghost Shark is one, letting it lay mines without risking a crew."
      },
      {
-      "term": "quiet diplomacy",
-      "definition": "Resolving disputes through private talks rather than public criticism.",
-      "context": "Singapore and Malaysia have used it to avoid making Prabowo lose face."
+      "term": "knots",
+      "definition": "A unit of speed at sea, equal to one nautical mile per hour (about 1.85 km/h).",
+      "context": "Ghost Shark's estimated 3 to 4 knot cruise speed makes long trips slow."
+     },
+     {
+      "term": "minehunters",
+      "definition": "Navy ships designed to find and clear sea mines.",
+      "context": "Australia now has only two old Huon-class minehunters, down from six."
      }
     ],
     "quiz": {
-     "question": "According to analysts, why are some Indonesian politicians criticising Singapore and Malaysia?",
+     "question": "According to the article, why might Ghost Shark's mine-laying ability fail to deter an adversary?",
      "options": [
-      "Singapore has cut off fuel exports to Indonesia",
-      "ASEAN formally expelled Indonesia",
-      "Prabowo has officially changed Indonesia's foreign policy",
-      "To appeal to frustrated voters at home and deflect from economic hardship"
+      "International law bans all naval mines",
+      "The mines are too small to damage warships",
+      "An adversary may doubt Australia can decide and deploy the mines before its forces pass through",
+      "Ghost Shark can only operate in Australian ports"
      ],
-     "answer_index": 3,
-     "explanation": "Analysts say the rhetoric is mainly for domestic consumption and doesn't reflect Prabowo's more conciliatory official position."
+     "answer_index": 2,
+     "explanation": "The article argues a mine deters only if the enemy believes it'll be laid in time, and slow transit, warning and decision-making delays put that in doubt."
     },
-    "impact_score": 42,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--DlCebtwr--/c_crop,h_562,w_1000,x_0,y_44/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/23/lutfi_and_bahlil.png?itok=d8CGWCzs",
+    "impact_score": 55,
+    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/10/2025-Ghost-Shark-1-Web.jpg",
     "region": "Australian defence, ADF, AUKUS, regional security",
     "region_code": "ADF",
-    "description": "Some Indonesian political figures have lashed out at Singapore and Malaysia amid the regional haze crisis, but analysts say it's mostly domestic posturing rather than a real shift in Indonesia's foreign policy.",
+    "description": "The government has confirmed Ghost Shark uncrewed submarines can lay up to 12 mines at a time, but an ASPI Strategist analysis warns Australia may not have the speed, legal arrangements or decision rules to use them in time.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/indonesia-politicians-singapore-haze-domestic-frustration-6487141"
+      "name": "ASPI Strategist",
+      "url": "https://www.aspistrategist.org.au/ghost-sharks-mines-wont-be-much-use-if-australia-cant-act-fast-enough/"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 7,
-    "created_at": "2026-10-24T21:42:28.707604+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
-   },
-   {
-    "id": "92efa8a1-49a5-5075-9346-022beeb736c8",
-    "title": "Four pilots killed after two Philippine Air Force trainer planes crash",
-    "simplified_title": "Two Philippine Air Force training planes crash, killing four pilots",
-    "quick_summary": "Four pilots died when two Philippine Air Force SF-260 trainer planes crashed during a training flight at Fernando Air Base in Batangas province on Friday, 23 October.",
-    "simplified_body": "Two Philippine Air Force trainer planes crashed during a training flight on Friday (23 October) at Fernando Air Base in Batangas province, south of the capital Manila. All four pilots were killed. The military confirmed the deaths on Saturday. Local media reported the two planes collided in midair, though the Air Force's statement didn't spell out the cause.\n\nThe planes came down inside the air base grounds, and nobody else was hurt. The Air Force has temporarily grounded its whole fleet of SF-260 trainer planes while investigators work out what went wrong. That means pilot training on these aircraft is on hold for now.\n\nThe SF-260 is a small propeller plane used to train military pilots. This isn't the first deadly crash involving one. In May, two pilots died when an SF-260 crashed in a mountainous area in the northern Philippines, and another SF-260 TP Marchetti crash during a 2023 training flight also killed two pilots. The aircraft has seen combat too: the military used SF-260s during months of air strikes on Marawi City in the south in 2017, after militants loyal to Islamic State seized the area.\n\nNext, investigators will try to pin down the cause. Whether the SF-260 fleet flies again soon will likely depend on what they find, and with several deadly crashes in recent years, questions about the ageing training fleet may grow louder.",
-    "why_it_matters": "Losing four pilots in one accident is a heavy blow for a military, and it follows other deadly SF-260 crashes, raising questions about safety. For Australians, the Philippines is a close regional neighbour, so the strength of its air force matters for regional security.",
-    "deep_analysis": "## Historical Context\nAccording to the source, SF-260 trainers have been involved in several fatal crashes: one in May that killed two pilots in the mountainous north, and a 2023 training flight crash that also killed two. The type was also used in combat during the 2017 Marawi siege, when militants loyal to Islamic State seized the southern city. As general background, the SF-260 is an Italian-designed light propeller aircraft (originally built by SIAI-Marchetti, hence the 'Marchetti' name) that many air forces have used for basic pilot training.\n\n## Multiple Perspectives\nThe Air Force's official statement confirmed the crash and deaths but did not state a cause, while local media reported a midair collision. That's not necessarily a contradiction, but the official cause hasn't been confirmed. Some observers will likely focus on the aircraft itself given the run of accidents; others may look at training procedures, such as how multiple planes share airspace during exercises. Until the investigation reports, both remain open questions.\n\n## What to Watch\n- The findings of the investigation, including whether a midair collision is confirmed.\n- How long the SF-260 fleet stays grounded and what that does to pilot training.\n- Whether repeated crashes speed up any push to replace or upgrade trainer aircraft.",
-    "concepts": [
-     {
-      "term": "grounded",
-      "definition": "When aircraft are officially banned from flying until a safety concern is checked or fixed.",
-      "context": "The Air Force grounded all its SF-260 trainers while it investigates the crash."
-     },
-     {
-      "term": "midair",
-      "definition": "Happening while aircraft are flying, rather than on the ground.",
-      "context": "Local media reported the two planes collided in midair."
-     },
-     {
-      "term": "trainer planes",
-      "definition": "Aircraft designed to teach new pilots to fly, usually simpler and smaller than combat jets.",
-      "context": "The SF-260 is the trainer plane involved in this crash and several earlier ones."
-     }
-    ],
-    "quiz": {
-     "question": "Why has the Philippine Air Force stopped flying all its SF-260 planes for now?",
-     "options": [
-      "Because the air base was destroyed in the crash",
-      "To allow investigators to find the cause of the crash before more flights happen",
-      "Because all the pilots trained to fly them were killed",
-      "Because the planes are being sent to fight in Marawi City"
-     ],
-     "answer_index": 1,
-     "explanation": "The fleet was temporarily grounded pending an investigation into what caused the accident, a standard safety step so a possible shared problem doesn't cause another crash."
-    },
-    "impact_score": 28,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--s6vIXOwf--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/philippines_missing_fighter_jet_94664.jpg?itok=k8Utml5S",
-    "region": "Australian defence, ADF, AUKUS, regional security",
-    "region_code": "ADF",
-    "description": "Four pilots died when two Philippine Air Force SF-260 trainer planes crashed during a training flight at Fernando Air Base in Batangas province on Friday, 23 October.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/four-pilots-killed-after-two-philippine-air-force-trainer-planes-crash-6488676"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-10-24T21:42:38.950380+00:00",
-    "published_date": "2026-10-25",
+    "reading_minutes": 4,
+    "created_at": "2026-10-26T06:26:37.336270+00:00",
+    "published_date": "2026-10-26",
     "has_fulltext": true
    }
   ],
   "AI_TECH": [
    {
-    "id": "b197d547-99bf-544c-aee6-4399071a0087",
-    "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
-    "simplified_title": "AI uncovers decades-old PHP flaws, sparking a global website patching scramble",
-    "quick_summary": "Researchers using AI tools found two critical flaws in PHP, a programming language behind a huge share of the world's websites, prompting governments and companies worldwide to rush out fixes or take sites offline.",
-    "simplified_body": "Researchers at cyber firms Wiz and Calif used advanced AI tools from OpenAI to uncover two serious flaws in PHP, a programming language that runs on web servers and powers sites like Wikipedia and WordPress. The bugs, nicknamed php2shell and rated 9.2 out of 10 for severity, were announced on 21 October after details leaked online. The PHP Foundation released patches the same week and urged everyone to update immediately.\n\nThe flaws could let hackers take control of affected web servers and steal sensitive data. Wiz says PHP powers 70% of the world's websites, so the impact is huge. Organisations from Wikimedia to the Finnish government, Orange and SoftBank in Japan took services offline as a precaution. Most everyday users don't need to do anything, but small businesses with websites should check with their host or developer that PHP itself has been updated, as updating WordPress plugins won't fix it.\n\nThe key background: these bugs had been hiding for a decade or more. Cloudflare reported millions of attempts to exploit them, but as of Friday no successful attacks had been reported. Some experts say rumours of working hacks were overblown, and one security firm had to retract a warning claiming hackers had a working Proof of Concept (PoC), meaning a demonstration that an attack actually works.\n\nTech leaders warn this is just the start of a \"vulnerability tsunami\", as AI makes finding flaws faster for defenders and attackers alike. Expect more exploit attempts as technical details spread, plus watch for phishing scams riding on the publicity.",
-    "why_it_matters": "Australia's cyber security authorities issued alerts alongside the US, EU and Singapore, and Australian researchers warn smaller organisations with limited security resources are most at risk. It's also a preview of how AI could reshape cyber security for everyone.",
-    "deep_analysis": "## Historical Context\nPHP was developed in the early 1990s to serve dynamic web pages and is still maintained by the non-profit PHP Foundation. As University of Queensland researcher Ryan Ko noted, much older software was built for functionality rather than security. Experts had warned for months about a \"vulnpocalypse\", the idea that AI would make bugs far easier to find, but this was the first time AI helped surface a flaw this fundamental. Wiz said demonstrating the flaws required a chain of steps \"at the edge of what human researchers could practically achieve\". As general background, major internet-wide bugs have prompted global patching rushes before, but the AI-driven discovery is what's new here.\n\n## Multiple Perspectives\nTech leaders are alarmed: Sam Altman said he no longer thinks all bugs can be patched, Anthropic's Jason Clinton predicted a \"vulnerability tsunami\", and Cloudflare's Matthew Prince said it will \"feel like the sky is falling\". Sources differ on the threat level: The Guardian reports exploitation attempts have begun and Cloudflare saw millions, while the BBC notes no successful exploits had been reported and some experts say intel about working hacks was \"rubbish\". Wordfence founder Mark Maunder warned messaging must be calibrated to avoid \"alert fatigue\". IT workers on the frontline describe the effort as \"relentless\", with many running outdated, end-of-life PHP versions.\n\n## What to Watch\n- Whether any successful large-scale breaches emerge, since experts say impact can take time to show.\n- How fast patch rates climb; researchers say uptake is rising but slower than hoped.\n- Overlooked systems, as PHP also runs in network appliances and embedded devices.\n- More AI-discovered flaws and how disclosures are communicated.\n- Phishing scams exploiting the publicity.",
+    "id": "3fc81721-1489-5237-9360-124eaaa5c305",
+    "title": "Law must change on aged care algorithm to allow human override, ombudsman says",
+    "simplified_title": "Ombudsman slams aged care algorithm, says humans must be able to override",
+    "quick_summary": "The Commonwealth Ombudsman has found the government's aged care funding algorithm was rolled out without proper safeguards and has led to unfair outcomes, recommending the law be changed so senior assessors can override it.",
+    "simplified_body": "The Commonwealth Ombudsman, Iain Anderson, has released a scathing report of more than 100 pages on the classification algorithm used by the Department of Health, Disability and Ageing. He found the department's actions \"have been unreasonable\" and that it brought in the algorithm \"without any meaningful risk assessment, evaluation or analysis\". He made 10 recommendations: the government accepted six, and only \"noted\" two, including the key one to change the law so a human can override the algorithm.\n\nThis matters for older Australians wanting support to stay in their own homes. Over a million people, or 85 per cent of those using aged care, get services through the home support system. The algorithm decides how much funding each person gets, and hundreds have appealed its decisions, more than five times as many appeals as the previous year.\n\nSome background: the algorithm launched on November 1 last year as part of the government's \"once in a generation\" aged care reforms. It's driven by a questionnaire called the Independent Assessment tool. The department disputes that it didn't test the algorithm, but the ombudsman and Four Corners found testing was done on an original consultancy version, while the department's modified version had no external validation. The department also wrongly told assessors outcomes could be changed when the law had no way to do that.\n\nNext, the government has passed legislation creating an \"escalation pathway\" for appeals in exceptional circumstances, and in return for Coalition support has commissioned a review, due in the first half of next year. The ombudsman also suggested the Australian National Audit Office (ANAO) consider auditing the system.",
+    "why_it_matters": "More than a million older Australians rely on home support, and this report says the tool deciding their funding can't currently be corrected by a human when it gets things wrong. It's also a big test of how Australian governments use automated decision-making.",
+    "deep_analysis": "## Historical Context\nThe algorithm started on November 1 last year under the government's aged care reforms. Appeals rose more than five fold compared with the previous year. As general background, Australia has prior experience with controversial automated government decisions, most notably Robodebt, which has made watchdogs especially alert to automation without human oversight.\n\n## Multiple Perspectives\nThe ombudsman says a reasonable person would \"lack confidence that the system is in fact fair and consistent\" and that the department may not understand the legal framework it created. The department says it \"does not accept this characterisation\" that it didn't test or validate the algorithm, though testing was on an earlier consultancy version. Ministers Mark Butler and Sam Rae say they'll consider the report carefully and are already acting on many recommendations, but the government has resisted a blanket human override, preferring an escalation pathway for exceptional cases.\n\n## What to Watch\n- Whether the government moves from \"noting\" to accepting a human override.\n- The commissioned review, due in the first half of next year.\n- Whether the Australian National Audit Office takes up an audit.\n- The accepted comprehensive review of the Aged Care Act and promised public consultation.",
     "concepts": [
      {
-      "term": "patches",
-      "definition": "Software updates that fix bugs or security holes.",
-      "context": "The PHP Foundation released patches, and ethical hacker Ken Munro compared applying them to running a Windows update."
+      "term": "classification algorithm",
+      "definition": "An automated formula that sorts people into funding levels based on their answers to an assessment.",
+      "context": "It decides how much home support funding an older person receives."
      },
      {
-      "term": "Proof of Concept (PoC)",
-      "definition": "A working demonstration showing that an attack on a flaw genuinely succeeds.",
-      "context": "A security firm wrongly claimed hackers had a working PoC and later retracted it."
+      "term": "Commonwealth Ombudsman",
+      "definition": "An independent federal watchdog that investigates complaints about government agencies and how they treat people.",
+      "context": "Iain Anderson investigated the department's use of the algorithm."
      },
      {
-      "term": "phishing",
-      "definition": "Scam messages pretending to be legitimate in order to trick people into handing over passwords or data.",
-      "context": "Experts warned scammers may use the PHP news as bait."
+      "term": "escalation pathway",
+      "definition": "A process allowing certain appeals to be sent higher for review in exceptional circumstances.",
+      "context": "The government's alternative to a general human override."
      }
     ],
     "quiz": {
-     "question": "According to the sources, what mainly changed to allow these PHP flaws to be discovered now?",
+     "question": "What is the main disagreement between the ombudsman and the government?",
      "options": [
-      "PHP was recently rewritten and introduced new bugs",
-      "WordPress plugins started exposing PHP code",
-      "Hackers publicly announced the flaws after attacking Wikipedia",
-      "AI tools made it possible to find flaws that had been hidden for years"
+      "Whether Four Corners should have reported on the issue",
+      "Whether senior assessors should be legally allowed to override the algorithm's decisions",
+      "Whether aged care should be funded at all",
+      "Whether nursing homes should be closed"
      ],
-     "answer_index": 3,
-     "explanation": "As UNSW's Salil Kanhere put it, the bugs weren't new; what changed was the ability to find them, using advanced AI tools."
+     "answer_index": 1,
+     "explanation": "The ombudsman's top recommendation was a law change allowing human override; the government only 'noted' it and instead created a narrower escalation pathway for exceptional appeals."
     },
-    "impact_score": 82,
-    "image_url": "https://i.guim.co.uk/img/media/cb4c18c4ae3df1d687b8488dfb57058ade00d1a7/731_0_3659_2927/master/3659.jpg?width=1920&quality=85&auto=format&fit=max&s=e501fc89f2e879f85833a1e762dd47b4",
+    "impact_score": 68,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/ccd3c1605042b94184f766de391724b5?impolicy=wcms_watermark_news&cropH=3942&cropW=7008&xPos=0&yPos=544&width=862&height=485&imformat=generic",
     "region": "AI and technology",
     "region_code": "AI_TECH",
-    "description": "Researchers using AI tools found two critical flaws in PHP, a programming language behind a huge share of the world's websites, prompting governments and companies worldwide to rush out fixes or take sites offline.",
+    "description": "The Commonwealth Ombudsman has found the government's aged care funding algorithm was rolled out without proper safeguards and has led to unfair outcomes, recommending the law be changed so senior assessors can override it.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-26/ombudsman-finds-automation-in-aged-care-lacks-safeguards/107308730"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-26T06:26:48.223263+00:00",
+    "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
+    "id": "4293d329-1e7b-5cef-969c-17e7e834fdd8",
+    "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+    "simplified_title": "Elvis Presley's music owners sue AI company Anthropic over 274 songs",
+    "quick_summary": "Authentic Brands Group, which owns Elvis Presley's music and likeness, is suing artificial intelligence (AI) company Anthropic, alleging it used 274 Presley songs to train its models without permission.",
+    "simplified_body": "The company that owns Elvis Presley's music catalogue, Authentic Brands Group, has sued artificial intelligence (AI) firm Anthropic. The lawsuit, filed on a Friday and first reported by Billboard, claims Anthropic used 274 Presley songs, including Can't Help Falling in Love, All Shook Up and A Little Less Conversation, to train its AI model without permission. It seeks $150,000 per track, or about $41m (about £31m).\n\nThe case matters for musicians, estates and AI companies alike. The lawsuit also alleges that Anthropic's chatbot, Claude, has produced infringing output of copyrighted material from \"virtually every song from every catalog available on the internet\". It argues that Anthropic added guardrails only after being caught, and knew they didn't work, which the plaintiffs say shows willful infringement. These are allegations, not proven findings.\n\nSome background: AI models learn by analysing huge amounts of existing material. Music industry groups like the Recording Industry Association of America (RIAA) and labels such as Sony, Universal and Warner Records have already brought copyright infringement claims against AI firms. But this is one of the first major challenges brought directly by an artist's estate. Musicians have long worried about their work and voices being used without consent, and about AI \"slop\" music replacing human songs. Spotify says it removed about 50m AI slop songs from its recommendations over the past year.\n\nNext, the case will go through the courts. Its outcome could set a precedent for how AI companies are allowed to use existing music catalogues.",
+    "why_it_matters": "How courts treat AI training on copyrighted songs could shape what AI tools are allowed to do with artists' work everywhere, including Australian musicians whose music circulates globally on the same platforms.",
+    "deep_analysis": "## Historical Context\nAccording to the source, AI firms have already faced copyright claims from the RIAA and major labels Sony, Universal and Warner Records. As general background, this fits a wider wave of lawsuits from authors, artists and publishers challenging whether training AI on copyrighted works without permission is lawful. This Elvis case stands out because it comes directly from an artist's estate rather than an industry body or label.\n\n## Multiple Perspectives\nThe plaintiffs, through lead attorney Richard Busch, claim Anthropic built \"its entire business model based on copyright infringement at a scale never seen before\" and that its guardrails were introduced only after being caught and were ineffective. Musicians more broadly fear unauthorised use of their music and voices and competition from AI slop. The source does not include a response from Anthropic, so its side of the story isn't represented here. As background, AI companies in similar disputes have often argued that training is a transformative or fair use, but that is not stated in this article.\n\n## What to Watch\n- Whether Anthropic responds publicly or in court, and how.\n- Whether courts accept the claim of willful infringement, which affects the damages sought.\n- Whether other artist estates follow with their own suits.\n- Whether this case sets a precedent for AI use of music catalogues.\n- Further moves by streaming platforms like Spotify against AI-generated music.",
+    "concepts": [
+     {
+      "term": "copyright infringement",
+      "definition": "Using someone else's protected creative work, like a song, without permission from the rights owner.",
+      "context": "The Elvis estate claims Anthropic infringed copyright by training on and reproducing Presley songs."
+     },
+     {
+      "term": "guardrails",
+      "definition": "Safety limits built into an AI system to stop it producing certain kinds of output.",
+      "context": "The lawsuit says Anthropic's guardrails against reproducing song lyrics were added late and didn't work."
+     },
+     {
+      "term": "precedent",
+      "definition": "A court decision that guides how similar future cases are decided.",
+      "context": "This case could set the rules for how AI firms may use existing music."
+     },
+     {
+      "term": "slop",
+      "definition": "A slang term for low-quality, mass-produced AI-generated content.",
+      "context": "Spotify says it removed about 50m AI slop songs from recommendations."
+     }
+    ],
+    "quiz": {
+     "question": "Why is the Elvis lawsuit against Anthropic considered especially notable?",
+     "options": [
+      "A court has already ruled Anthropic guilty",
+      "It is one of the first major challenges brought directly by an artist's estate against an AI developer",
+      "Spotify is a co-plaintiff in the case",
+      "It is the first time anyone has sued an AI company over copyright"
+     ],
+     "answer_index": 1,
+     "explanation": "Labels and the RIAA have sued AI firms before, but this is one of the first big cases from an artist's estate. No ruling has been made yet, and Spotify isn't part of the suit."
+    },
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/84aa6ec87e3e6db19123ab53bff1786594581607/0_358_2832_2265/master/2832.jpg?width=1920&quality=85&auto=format&fit=max&s=299105daa7ef007b03e6a1d99b44db77",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "Authentic Brands Group, which owns Elvis Presley's music and likeness, is suing artificial intelligence (AI) company Anthropic, alleging it used 274 Presley songs to train its models without permission.",
     "tier": "GLOBAL",
     "category": "SCIENCE_TECH",
     "sources": [
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo"
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "4521b3ac-0a14-5972-bdb5-3e8bf4184ba8"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-10-24T21:42:28.749043+00:00",
-    "published_date": "2026-10-25",
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-26T06:26:48.564418+00:00",
+    "published_date": "2026-10-26",
     "has_fulltext": true
    },
    {
@@ -1995,69 +1695,8 @@
     "created_at": "2026-10-25T12:39:33.752695+00:00",
     "published_date": "2026-10-25",
     "has_fulltext": true
-   },
-   {
-    "id": "426b53f6-e374-5577-840d-476533b92d16",
-    "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-    "simplified_title": "UK budget puts £100m into a new AI lab against biological threats",
-    "quick_summary": "UK Chancellor John Healey's budget will fund a 'world first' AI Biosecurity Lab plus extra money for AI safety and cyber defence, as worries grow about AI-powered threats.",
-    "simplified_body": "The UK government says it will set up a national AI Biosecurity Lab (AIBL), described as a \"world first\", to help defend against emerging biological threats. The BBC reports the government is committing £100m, while AI companies OpenAI and Anthropic are chipping in £200m worth of credits to use their AI models. The Guardian describes it as up to £300m in public-private investment, which roughly lines up with those two figures added together.\n\nIt's part of a wider package in Chancellor John Healey's budget. There's an extra £120m for the AI Security Institute (AISI), £60m for a \"National Cyber Shield\" using agentic AI, and £70m for a National Exposure and Real-Time Vulnerability (NERV) Centre to spot weak points in critical infrastructure. Healey says he wants a \"distinctively British\" approach to AI that doesn't leave workers behind.\n\nSome background: the AISI was set up in 2023 by the previous Conservative government to test the risks of the most powerful AI models. This week, websites worldwide went offline as a precaution after serious flaws, nicknamed php2shell, were found in PHP, a programming language used across the web for decades. No successful attacks have been reported, but experts say it shows how AI can quickly dig up old, hidden bugs. Meanwhile, Barclays is cutting 5,000 jobs partly thanks to AI efficiency gains.\n\nFull details of what the new lab will actually do haven't been released yet. Watch for those, plus how the budget handles rising energy costs linked to the war in the Middle East, which the Guardian says is squeezing public finances.",
-    "why_it_matters": "Governments everywhere are working out how to use AI for defence while guarding against AI-enabled attacks, and the UK's approach is a model other countries could look to.",
-    "deep_analysis": "## Historical Context\nThe UK's AI Security Institute was founded in 2023 under the Conservatives to evaluate frontier AI models. As background, the UK has long tried to position itself as a leader in AI safety. This budget, the Guardian reports, is Healey's first, delivered three months into Andy Burnham's premiership after he replaced Keir Starmer.\n\n## Multiple Perspectives\nThe government frames AI as both an economic engine (the Guardian notes AI investment helped the UK post the strongest growth in the G7 in the first half of the year) and a security risk. Ministers Kanishka Narayan and Dan Jarvis stress staying ahead of those who'd misuse AI. Critics' concerns surface in the reporting too: job losses like Barclays' 5,000 cuts, cyber-attacks and rogue IT systems. The involvement of OpenAI and Anthropic via model credits means private AI firms are helping shape a public security body, which some may see as useful collaboration and others as a conflict worth scrutinising. The sources frame the lab's funding differently (£100m public versus up to £300m public-private).\n\n## What to Watch\n- The lab's actual role and remit, not yet published.\n- Whether php2shell-style AI-surfaced flaws lead to real exploits.\n- How the £10m-a-year jobs research shapes policy on AI disruption.\n- Budget trade-offs amid energy costs from the Middle East war.",
-    "concepts": [
-     {
-      "term": "agentic AI",
-      "definition": "AI systems that can take actions and carry out tasks on their own, not just answer questions.",
-      "context": "The National Cyber Shield would use agentic AI to strengthen cyber defences."
-     },
-     {
-      "term": "model credits",
-      "definition": "Prepaid allowances to use a company's AI models, a bit like vouchers for computing time.",
-      "context": "OpenAI and Anthropic are contributing £200m worth of credits rather than cash."
-     },
-     {
-      "term": "critical infrastructure",
-      "definition": "Essential systems like power, water, transport and communications that society relies on.",
-      "context": "The NERV Centre aims to find cyber weak spots in these systems."
-     }
-    ],
-    "quiz": {
-     "question": "Why do experts say the php2shell incident is relevant to the UK's new AI security spending?",
-     "options": [
-      "Because it caused Barclays to cut 5,000 jobs",
-      "Because it shows AI can quickly uncover long-hidden software bugs that could be exploited",
-      "Because PHP was invented by the AI Security Institute",
-      "Because hackers successfully used it to shut down UK government sites"
-     ],
-     "answer_index": 1,
-     "explanation": "No successful exploits were reported; sites went offline as a precaution. Experts warned it shows how AI can rapidly surface dormant bugs, which is why AI-powered defences matter."
-    },
-    "impact_score": 55,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "UK Chancellor John Healey's budget will fund a 'world first' AI Biosecurity Lab plus extra money for AI safety and cyber defence, as worries grow about AI-powered threats.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-24T21:42:42.869011+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
    }
   ]
  },
- "total_stories": 33
+ "total_stories": 27
 }
