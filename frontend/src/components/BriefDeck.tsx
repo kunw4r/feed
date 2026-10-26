@@ -3,16 +3,18 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { CardStory, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
+import { CardStory, QuizItem, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
 import { useProgress } from "@/lib/progress";
 import NewsImage, { proxied } from "./NewsImage";
+import QuizRunner from "./QuizRunner";
 
 // Full-screen, one-story-per-screen triage: read the gist, go deeper only on what hooks you.
-export default function BriefDeck({ stories }: { stories: CardStory[] }) {
+export default function BriefDeck({ stories, quiz = [] }: { stories: CardStory[]; quiz?: QuizItem[] }) {
   const deck = useRef<HTMLDivElement>(null);
   const router = useRouter();
   const progress = useProgress();
   const [idx, setIdx] = useState(0);
+  const [quizOpen, setQuizOpen] = useState(false);
   const total = stories.length;
 
   useEffect(() => {
@@ -36,6 +38,10 @@ export default function BriefDeck({ stories }: { stories: CardStory[] }) {
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
+      if (quizOpen) {
+        if (e.key === "Escape") setQuizOpen(false);
+        return;
+      }
       if (["ArrowDown", "j", " "].includes(e.key)) {
         e.preventDefault();
         go(Math.min(idx + 1, total));
@@ -50,7 +56,7 @@ export default function BriefDeck({ stories }: { stories: CardStory[] }) {
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [idx, total, stories, go, router]);
+  }, [idx, total, stories, go, router, quizOpen]);
 
   const unread = stories.filter((s) => !progress.read[s.id]);
 
@@ -149,7 +155,19 @@ export default function BriefDeck({ stories }: { stories: CardStory[] }) {
             <p className="font-read mt-5 text-[1.2rem] text-white/65">
               {total} stories skimmed. {unread.length ? `${unread.length} still waiting for a deeper read.` : "And you've read every one."}
             </p>
-            <div className="mt-9 flex items-center justify-center gap-6 text-[14px]">
+            {quiz.length > 0 && (
+              <button
+                onClick={() => setQuizOpen(true)}
+                className="mt-9 inline-flex items-center gap-4 rounded-full bg-[#ff7a4d] pl-6 pr-2 py-2 text-left text-[#0b0a09] shadow-2xl transition-transform hover:-translate-y-0.5"
+              >
+                <span>
+                  <span className="block text-[15px] font-semibold">Did it stick?</span>
+                  <span className="block text-[12px] opacity-70">{quiz.length} quick questions · counts toward today&apos;s goal</span>
+                </span>
+                <span className="flex h-10 w-10 items-center justify-center rounded-full bg-[#0b0a09] text-[#f3ede4]">→</span>
+              </button>
+            )}
+            <div className="mt-8 flex flex-wrap items-center justify-center gap-6 text-[14px]">
               {unread[0] && (
                 <Link href={`/story/${unread[0].id}`} className="rounded-full bg-[#f3ede4] px-5 py-2.5 font-medium text-[#0b0a09]">
                   Read the top unread story
@@ -160,6 +178,18 @@ export default function BriefDeck({ stories }: { stories: CardStory[] }) {
           </div>
         </section>
       </div>
+
+      {quizOpen && (
+        <div role="dialog" aria-modal="true" aria-label="Brief quiz" className="absolute inset-0 z-30 overflow-y-auto bg-[#0b0a09]">
+          <div className="mx-auto max-w-2xl px-5 md:px-8 pt-20 pb-16">
+            <button onClick={() => setQuizOpen(false)} className="absolute top-5 left-5 md:top-8 md:left-8 text-[13px] text-white/60 hover:text-white">
+              ✕ Close quiz
+            </button>
+            <p className="smallcaps text-[13px] text-white/50 mb-6">Today&apos;s brief · quick check</p>
+            <QuizRunner items={quiz} dark onDone={() => router.push("/")} />
+          </div>
+        </div>
+      )}
 
       <p className="pointer-events-none absolute bottom-4 inset-x-0 z-20 hidden md:block text-center text-[11px] text-white/55">
         ↑ ↓ to move · enter to go deeper · esc to close

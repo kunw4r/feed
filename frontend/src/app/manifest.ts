@@ -21,8 +21,9 @@ export default function manifest(): MetadataRoute.Manifest {
       { src: `${BASE}/icon-maskable-512.png`, sizes: "512x512", type: "image/png", purpose: "maskable" },
     ],
     shortcuts: [
-      { name: "The brief", url: `${BASE}/brief` },
-      { name: "Review", url: `${BASE}/recall` },
+      { name: "The brief", url: `${BASE}/brief/` },
+      { name: "Review", url: `${BASE}/recall/` },
+      { name: "Search", url: `${BASE}/search/` },
     ],
   };
 }

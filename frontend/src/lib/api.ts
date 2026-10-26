@@ -1,6 +1,6 @@
 import { readFile } from "fs/promises";
 import path from "path";
-import { Briefing, CardStory, Edition, Story } from "./types";
+import { Briefing, CardStory, Edition, QuizItem, Story } from "./types";
 
 // All pages are statically generated from the JSON the pipeline writes into public/data.
 // These helpers run at build time (server components only).
@@ -120,4 +120,31 @@ export async function toEdition(b: Briefing): Promise<Edition> {
     generated_at: b.generated_at,
     stories: allStories(b).map((s) => toCard(s, threads.get(s.id)?.length)),
   };
+}
+
+export function toQuizItem(s: Story): QuizItem | null {
+  return s.quiz ? { id: s.id, title: s.simplified_title, created_at: s.created_at, quiz: s.quiz } : null;
+}
+
+/** Stories from today's edition and the archive created within the last `days` days, newest first. */
+export async function fetchRecentStories(days: number): Promise<Story[]> {
+  const cutoff = Date.now() - days * 86_400_000;
+  return (await fetchAllKnownStories())
+    .filter((s) => new Date(s.created_at).getTime() >= cutoff)
+    .sort((a, b) => b.created_at.localeCompare(a.created_at));
+}
+
+/** Pick `n` questions spread across days: strongest stories first within each day, round-robin across days. */
+export function spreadQuiz(stories: Story[], n: number): QuizItem[] {
+  const byDay = new Map<string, Story[]>();
+  for (const s of stories) {
+    if (!s.quiz) continue;
+    const day = s.created_at.slice(0, 10);
+    (byDay.get(day) ?? byDay.set(day, []).get(day)!).push(s);
+  }
+  const days = [...byDay.values()].map((list) => list.sort((a, b) => b.impact_score - a.impact_score));
+  const out: QuizItem[] = [];
+  for (let round = 0; out.length < n && days.some((d) => d.length > round); round++)
+    for (const d of days) if (d[round] && out.length < n) out.push(toQuizItem(d[round])!);
+  return out;
 }

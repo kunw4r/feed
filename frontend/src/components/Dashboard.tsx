@@ -6,6 +6,7 @@ import { CardStory, Edition, REGION_CONFIG, CATEGORY_CONFIG } from "@/lib/types"
 import { useProgress, streakOf, dueForReview } from "@/lib/progress";
 import { Reveal } from "./motion";
 import StoryCard from "./StoryCard";
+import GlancePanel from "./GlancePanel";
 
 interface DashboardProps {
   briefing: Edition;
@@ -45,7 +46,7 @@ function Rail({ id, title, note, stories, isNew }: { id: string; title: string; 
           <h2 className="font-display text-[1.9rem] md:text-[2.4rem] leading-none text-content">{title}</h2>
           {note && <p className="mt-2 text-[13px] text-content-faint">{note}</p>}
         </div>
-        <div className="hidden md:flex gap-2">
+        <div className={`hidden md:flex gap-2 ${stories.length <= 4 ? "xl:hidden" : ""}`}>
           {[-1, 1].map((d) => (
             <button
               key={d}
@@ -58,11 +59,17 @@ function Rail({ id, title, note, stories, isNew }: { id: string; title: string; 
           ))}
         </div>
       </Reveal>
-      <div ref={ref} className="no-scrollbar flex gap-5 overflow-x-auto snap-x snap-mandatory scroll-px-4 md:scroll-px-10 px-4 md:px-10 pb-4">
+      {/* Phones/tablets scroll sideways; wide screens lay a short rail out as a full-width grid */}
+      <div
+        ref={ref}
+        className={`no-scrollbar flex gap-5 overflow-x-auto snap-x snap-mandatory scroll-px-4 md:scroll-px-10 px-4 md:px-10 pb-4 ${
+          stories.length <= 4 ? "xl:grid xl:grid-cols-[repeat(auto-fit,minmax(260px,1fr))] xl:overflow-visible xl:max-w-[1400px]" : ""
+        }`}
+      >
         {stories.map((s) => (
-          <StoryCard key={s.id} story={s} variant="rail" isNew={isNew(s)} />
+          <StoryCard key={s.id} story={s} variant="rail" isNew={isNew(s)} grid={stories.length <= 4} />
         ))}
-        <span className="w-1 flex-shrink-0" />
+        <span className={`w-1 flex-shrink-0 ${stories.length <= 4 ? "xl:hidden" : ""}`} />
       </div>
     </section>
   );
@@ -174,6 +181,12 @@ export default function Dashboard({ briefing, region, topic, archived }: Dashboa
           </Link>}
         </div>
 
+        {!archived && !hasFilters && (
+          <div className="mt-8 xl:hidden max-w-md">
+            <GlancePanel stories={allStories} compact />
+          </div>
+        )}
+
         {/* Region index */}
         {!archived && (
           <nav aria-label="Regions" className="no-scrollbar mt-10 -mx-4 md:mx-0 px-4 md:px-0 flex gap-6 overflow-x-auto border-t border-edge pt-4 text-[14px]">
@@ -204,7 +217,8 @@ export default function Dashboard({ briefing, region, topic, archived }: Dashboa
       )}
 
       {five.length > 0 && (
-        <section className="px-4 md:px-10 mb-24 max-w-[1400px]">
+        <section className="px-4 md:px-10 mb-24 max-w-[1400px] xl:grid xl:grid-cols-[minmax(0,1fr)_300px] xl:gap-16">
+          <div>
           <Reveal className="flex items-baseline gap-4 mb-2">
             <h2 className="font-display text-[1.9rem] md:text-[2.4rem] leading-none text-content">
               {hasFilters ? "Top stories" : "The five"}
@@ -218,6 +232,14 @@ export default function Dashboard({ briefing, region, topic, archived }: Dashboa
               </Reveal>
             ))}
           </ol>
+          </div>
+          {!archived && (
+            <div className="hidden xl:block">
+              <div className="sticky top-8 pt-2">
+                <GlancePanel stories={allStories} />
+              </div>
+            </div>
+          )}
         </section>
       )}
 

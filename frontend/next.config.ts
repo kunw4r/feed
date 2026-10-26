@@ -7,6 +7,8 @@ const nextConfig: NextConfig = {
     ? {
         output: "export",
         basePath: "/feed",
+        // GitHub Pages serves folder/index.html; without this /feed/learn/ (with the slash) 404s
+        trailingSlash: true,
         images: { unoptimized: true },
       }
     : {

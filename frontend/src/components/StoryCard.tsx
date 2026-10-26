@@ -3,7 +3,7 @@
 import { CardStory, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
 import { useProgress } from "@/lib/progress";
 import Link from "next/link";
-import NewsImage from "./NewsImage";
+import NewsImage, { proxied } from "./NewsImage";
 
 type Variant = "hero" | "rail" | "row";
 
@@ -12,6 +12,8 @@ interface StoryCardProps {
   variant?: Variant;
   rank?: number;
   isNew?: boolean;
+  /** Rail laid out as a grid on wide screens: card fills its column, landscape photo */
+  grid?: boolean;
 }
 
 // Category-tinted fallback when a story has no usable image
@@ -39,13 +41,22 @@ export function CardImage({
 }) {
   const tint = FALLBACK_TINT[story.category] || FALLBACK_TINT.UNCATEGORISED;
   return (
-    <NewsImage
-      src={story.image_url}
-      sizes={sizes}
-      priority={priority}
-      className={`card-img absolute inset-0 h-full w-full object-cover ${className}`}
-      fallback={<div className={`card-img absolute inset-0 bg-gradient-to-br ${tint} ${className}`} />}
-    />
+    <>
+      {/* Tinted wash sits under the photo while it loads, so cards never flash black */}
+      {story.image_url && <div className={`absolute inset-0 bg-gradient-to-br ${tint} opacity-60`} />}
+      {story.image_url && priority && (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img src={proxied(story.image_url, 48)} alt="" aria-hidden referrerPolicy="no-referrer" className="absolute inset-0 h-full w-full object-cover blur-2xl scale-110" />
+      )}
+      <NewsImage
+        src={story.image_url}
+        sizes={sizes}
+        priority={priority}
+        fade
+        className={`card-img absolute inset-0 h-full w-full object-cover ${className}`}
+        fallback={<div className={`card-img absolute inset-0 bg-gradient-to-br ${tint} ${className}`} />}
+      />
+    </>
   );
 }
 
@@ -71,7 +82,7 @@ function Kicker({ story, light, isNew }: { story: CardStory; light?: boolean; is
   );
 }
 
-export default function StoryCard({ story, variant = "rail", rank, isNew }: StoryCardProps) {
+export default function StoryCard({ story, variant = "rail", rank, isNew, grid }: StoryCardProps) {
   const progress = useProgress();
   const isRead = Boolean(progress.read[story.id]);
 
@@ -113,8 +124,12 @@ export default function StoryCard({ story, variant = "rail", rank, isNew }: Stor
   }
 
   return (
-    <Link prefetch={false} href={`/story/${story.id}`} className="group block w-[78vw] max-w-[320px] flex-shrink-0 snap-start">
-      <div className="card-depth relative aspect-[4/5] overflow-hidden rounded-[22px] bg-surface-inset">
+    <Link
+      prefetch={false}
+      href={`/story/${story.id}`}
+      className={`group block w-[78vw] max-w-[320px] flex-shrink-0 snap-start ${grid ? "xl:w-auto xl:max-w-none" : ""}`}
+    >
+      <div className={`card-depth relative aspect-[4/5] overflow-hidden rounded-[22px] bg-surface-inset ${grid ? "xl:aspect-[4/3]" : ""}`}>
         <CardImage story={story} sizes="320px" />
         <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/20 to-transparent" />
         {isRead && (

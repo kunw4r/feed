@@ -1,7 +1,7 @@
 // Brainfeed service worker: instant repeat visits and offline reading of today's edition.
 const BASE = new URL(self.registration.scope).pathname.replace(/\/$/, "");
 const STATIC = "bf-static-v1"; // hashed build assets, safe to keep forever
-const PAGES = "bf-pages-v2"; // HTML, RSC payloads, data JSON
+const PAGES = "bf-pages-v3"; // HTML, RSC payloads, data JSON
 const IMAGES = "bf-images-v1"; // resized photos from the image proxy
 const MAX_IMAGES = 150;
 const MAX_PAGES = 250;
@@ -10,7 +10,7 @@ self.addEventListener("install", (event) => {
   event.waitUntil(
     caches
       .open(PAGES)
-      .then((c) => c.addAll([`${BASE}/`, `${BASE}/brief`, `${BASE}/recall`, `${BASE}/data/today.json`]))
+      .then((c) => c.addAll([`${BASE}/`, `${BASE}/brief/`, `${BASE}/recall/`, `${BASE}/data/today.json`]))
       .then(() => self.skipWaiting()),
   );
 });
@@ -124,7 +124,7 @@ self.addEventListener("message", (event) => {
       const images = await caches.open(IMAGES);
       for (const s of stories) {
         await Promise.allSettled([
-          pages.add(`${BASE}/story/${s.id}`),
+          pages.add(`${BASE}/story/${s.id}/`),
           pages.add(`${BASE}/data/articles/${s.id}.json`),
           s.image_url &&
             images.add(`https://wsrv.nl/?url=${encodeURIComponent(s.image_url)}&w=800&output=webp&q=78`),

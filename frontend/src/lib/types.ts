@@ -50,6 +50,16 @@ export interface Story {
   quiz?: Quiz | null;
   reading_minutes?: number;
   has_fulltext?: boolean;
+  /** Plain-language primer for readers new to the topic (newer editions only) */
+  background_beginner?: string | null;
+}
+
+/** A quiz question tied to the story it came from (brief quiz, weekly recap, review bank). */
+export interface QuizItem {
+  id: string;
+  title: string;
+  created_at: string;
+  quiz: Quiz;
 }
 
 /** The fields cards, rails and the brief need; keeps full text out of listing pages' HTML. */

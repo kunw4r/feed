@@ -3,10 +3,10 @@
 import { Fragment, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { Story, CardStory, Concept, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
-import { markRead } from "@/lib/progress";
+import { markRead, useProgress } from "@/lib/progress";
 import { Reveal, InkText } from "@/components/motion";
 import QuizBlock from "./QuizBlock";
-import NewsImage from "@/components/NewsImage";
+import NewsImage, { proxied } from "@/components/NewsImage";
 import OriginalReporting from "./OriginalReporting";
 
 const WPM = 230;
@@ -149,7 +149,7 @@ function ChapterHead({ n, label }: { n: number; label: string }) {
   );
 }
 
-function ThreadTimeline({ thread, currentId }: { thread: CardStory[]; currentId: string }) {
+function ThreadTimeline({ thread, currentId, fresh }: { thread: CardStory[]; currentId: string; fresh: Set<string> }) {
   const day = (iso: string) =>
     new Date(iso).toLocaleDateString("en-AU", { weekday: "short", day: "numeric", month: "short", timeZone: "Australia/Brisbane" });
   return (
@@ -167,6 +167,7 @@ function ThreadTimeline({ thread, currentId }: { thread: CardStory[]; currentId:
             <p className="smallcaps text-[13px] text-content-faint">
               {day(t.created_at)}
               {here && <span className="ml-2 text-accent">you are here</span>}
+              {!here && fresh.has(t.id) && <span className="ml-2 rounded-full bg-accent-bold px-1.5 text-[10px] font-semibold leading-[1.6] text-white">new since you read</span>}
             </p>
             {here ? (
               <p className="font-display mt-1 text-[1.3rem] leading-snug text-content">{t.simplified_title}</p>
@@ -185,12 +186,53 @@ function ThreadTimeline({ thread, currentId }: { thread: CardStory[]; currentId:
   );
 }
 
+/** Thread parts published after the last part this reader read (only if they read an earlier part). */
+function useSinceLastRead(thread: CardStory[], currentId: string) {
+  const progress = useProgress();
+  return useMemo(() => {
+    const reads = thread
+      .filter((t) => t.id !== currentId && progress.read[t.id])
+      .map((t) => progress.readAt[t.id] ?? `${progress.read[t.id]}T23:59:59+10:00`);
+    if (!reads.length) return { last: null as string | null, fresh: new Set<string>() };
+    const last = reads.sort().at(-1)!;
+    const fresh = new Set(thread.filter((t) => t.id !== currentId && t.created_at > last && !progress.read[t.id]).map((t) => t.id));
+    return { last, fresh };
+  }, [thread, currentId, progress]);
+}
+
+/** "New to this?" primer, folded away until asked for. */
+function BeginnerPrimer({ text }: { text: string }) {
+  const [open, setOpen] = useState(false);
+  return (
+    <div className="mb-10 rounded-2xl border border-edge bg-surface-raised">
+      <button
+        type="button"
+        aria-expanded={open}
+        onClick={() => setOpen(!open)}
+        className="flex w-full items-center justify-between gap-4 px-5 py-4 text-left"
+      >
+        <span>
+          <span className="block font-display text-[1.15rem] text-content">New to this?</span>
+          <span className="block text-[13px] text-content-faint">The 30-second version for anyone starting from zero</span>
+        </span>
+        <span className={`text-accent text-xl transition-transform ${open ? "rotate-45" : ""}`}>+</span>
+      </button>
+      <div className="unfold" data-open={open} inert={!open}>
+        <div>
+          <p className="px-5 pb-5 font-read text-[1.1rem] leading-relaxed text-content-dim">{text}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 export default function DepthReader({ story, next, thread = [] }: { story: Story; next: Story | null; thread?: CardStory[] }) {
   const heroRef = useRef<HTMLElement>(null);
   const endOfExplainer = useRef<HTMLDivElement>(null);
   const [active, setActive] = useState("gist");
 
   const analysis = useMemo(() => parseAnalysis(story.deep_analysis), [story.deep_analysis]);
+  const since = useSinceLastRead(thread, story.id);
   const paragraphs = story.simplified_body.split(/\n\n+/).filter(Boolean);
   const concepts = story.concepts || [];
 
@@ -215,8 +257,9 @@ export default function DepthReader({ story, next, thread = [] }: { story: Story
     const list = [add("gist", "The gist", story.quick_summary), add("story", "The story", story.simplified_body)];
     if (story.why_it_matters) list.push(add("why", "Why it matters", story.why_it_matters));
     if (thread.length > 1) list.push(add("thread", "The story so far", thread.map((t) => t.simplified_title).join(" ")));
+    // Asked while the story is fresh, before the background and perspectives
+    if (story.quiz) list.push(add("check", "Quick check", story.quiz.question + story.quiz.options.join(" ")));
     analysis.forEach((s, i) => list.push(add(`a${i}`, SECTION_LABELS[s.title] || s.title, s.body)));
-    if (story.quiz) list.push(add("check", "Check yourself", story.quiz.question + story.quiz.options.join(" ")));
     if (story.has_fulltext) list.push({ id: "original", label: "Original reporting", minutes: total + (story.reading_minutes || 3) });
     return list;
   }, [story, analysis, thread]);
@@ -280,12 +323,18 @@ export default function DepthReader({ story, next, thread = [] }: { story: Story
   return (
     <div>
       {/* ── Hero ── */}
-      <header ref={heroRef} className="relative h-[92svh] min-h-[560px] overflow-hidden bg-black">
+      <header ref={heroRef} className="relative h-[92svh] min-h-[560px] overflow-hidden bg-gradient-to-br from-stone-900 via-stone-800 to-orange-950">
+        {story.image_url && (
+          // Tiny blurred preview so the hero never flashes black while the full photo loads
+          // eslint-disable-next-line @next/next/no-img-element
+          <img src={proxied(story.image_url, 48)} alt="" aria-hidden referrerPolicy="no-referrer" className="absolute inset-0 h-full w-full object-cover blur-2xl scale-110" />
+        )}
         {story.image_url ? (
           // eslint-disable-next-line @next/next/no-img-element
           <NewsImage
             src={story.image_url}
             priority
+            fade
             sizes="(min-width: 1024px) calc(100vw - 240px), 100vw"
             className="hero-media absolute inset-0 h-full w-full object-cover will-change-transform"
             fallback={<div className="hero-media absolute inset-0 bg-gradient-to-br from-stone-900 via-stone-800 to-orange-950" />}
@@ -371,6 +420,22 @@ export default function DepthReader({ story, next, thread = [] }: { story: Story
         </nav>
 
         <main className="min-w-0 max-w-[640px] pb-10">
+          {since.fresh.size > 0 && since.last && (
+            <a
+              href="#thread"
+              className="mt-12 flex items-center justify-between gap-4 rounded-2xl border border-edge-accent bg-accent-soft px-5 py-4 text-content"
+            >
+              <span>
+                <span className="smallcaps block text-[12px] text-accent">Since you last read</span>
+                <span className="mt-0.5 block font-read text-[1.05rem]">
+                  {since.fresh.size} new {since.fresh.size === 1 ? "development" : "developments"} since{" "}
+                  {new Date(since.last).toLocaleDateString("en-AU", { weekday: "long", day: "numeric", month: "short", timeZone: "Australia/Brisbane" })}
+                </span>
+              </span>
+              <span className="text-accent">↓</span>
+            </a>
+          )}
+
           {/* 01 Gist */}
           <section id="gist" className="pt-20 md:pt-28 pb-24 scroll-mt-20">
             <ChapterHead n={++n} label="The gist" />
@@ -403,25 +468,26 @@ export default function DepthReader({ story, next, thread = [] }: { story: Story
               <Reveal as="p" className="font-read mb-10 text-[1.1rem] text-content-dim">
                 This is part of a developing story. Here&apos;s how it has unfolded.
               </Reveal>
-              <ThreadTimeline thread={thread} currentId={story.id} />
+              <ThreadTimeline thread={thread} currentId={story.id} fresh={since.fresh} />
             </section>
           )}
           <div ref={endOfExplainer} />
+
+          {story.quiz && (
+            <section id="check" className="pb-24 scroll-mt-20">
+              <ChapterHead n={++n} label="Quick check" />
+              <QuizBlock storyId={story.id} quiz={story.quiz} />
+            </section>
+          )}
 
           {/* Analysis */}
           {analysis.map((s, i) => (
             <section key={s.title} id={`a${i}`} className="pb-24 scroll-mt-20">
               <ChapterHead n={++n} label={SECTION_LABELS[s.title] || s.title} />
+              {s.title === "Historical Context" && story.background_beginner && <BeginnerPrimer text={story.background_beginner} />}
               <AnalysisBody body={s.body} />
             </section>
           ))}
-
-          {story.quiz && (
-            <section id="check" className="pb-24 scroll-mt-20">
-              <ChapterHead n={++n} label="Check yourself" />
-              <QuizBlock storyId={story.id} quiz={story.quiz} />
-            </section>
-          )}
 
           {story.has_fulltext && (
             <section id="original" className="pb-16 scroll-mt-20">
