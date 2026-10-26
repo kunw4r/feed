@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "generated_at": "2026-10-26T06:26:02.850217+00:00",
+ "generated_at": "2026-10-26T13:08:17.434140+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -129,64 +129,183 @@
     "has_fulltext": true
    },
    {
-    "id": "2592ac42-42ae-59a2-ad9a-adecb9fff23f",
-    "title": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
-    "simplified_title": "Huge storm system hits eastern Australia as Queensland rivers flood",
-    "quick_summary": "An \"unusually large\" storm system stretching across several states brought hail, damaging winds and flood warnings to eastern Australia, with south-east Queensland bracing for its peak on Monday.",
-    "simplified_body": "A massive line of thunderstorms swept across eastern Australia on Sunday, with the Bureau of Meteorology (BoM) warning of hail, damaging winds, flash flooding and power outages across southern Queensland, western New South Wales (NSW), the Australian Capital Territory (ACT) and eastern Victoria. Wind gusts up to 100km/h hit central west NSW around midday. Meteorologist David Crock called it a \"multi-state system\" that's \"unusually large\".\n\nSouthern Queensland is copping the worst of the flooding. The Guardian reported eight flood warnings there, while the ABC described \"several\". The Mary River at Tiaro, north of Gympie, was rising fast and could hit major flood levels, and Gympie's Kidd Bridge was expected to close. Parts of the Sunshine Coast have had up to 400mm of rain in a week. In the Central Highlands, an Emergency Warning for flash flooding near Clermont was lifted on Sunday.\n\nWhy now? A high-pressure system sat over the Tasman Sea for about 10 days, acting as a blocking pattern that kept storms and rain parked over southern Queensland. A cold front from the west is now pushing it away, dragging in tropical moisture. It's a weather \"whiplash\" after a very dry September, with some areas getting three times their usual October rainfall.\n\nMonday is expected to be the peak for south-east Queensland, with a \"trifecta\" of large hail, damaging winds and heavy rain. Tuesday should be calmer, but forecasters say the severe storm risk may not fully clear until about Thursday. The BoM's long-range outlook suggests above-average rain for most of the country from November to January.",
-    "why_it_matters": "Millions of Australians across four states and territories were in the storm's path, and the flooding in south-east Queensland threatens homes, roads and bridges. With a wetter-than-usual summer forecast, this may not be the last round.",
-    "deep_analysis": "## Historical Context\nAccording to the BoM's long-term data, Australia has warmed by about 1.5C since 1910. As general background, a warmer atmosphere can hold more moisture, which is often linked to heavier downpours. Background note: the Mary River catchment around Gympie has a long history of flooding, so locals are used to watching it, which is why the mayor's comment that it's behaving less predictably than usual stands out.\n\n## Multiple Perspectives\nForecasters framed Monday as the \"last big bang\" (Crock) and a relief for south-east Queensland, though Felim Hanniffy cautioned the risk may linger until Thursday. Local leaders emphasised community roles: Isaac Regional Council's Kelly Vea Vea credited residents' \"local intelligence\" for early alerts, while Gympie's Glen Hartwig noted rivers rising faster than expected. The sources differ slightly on numbers: the Guardian cites eight Queensland flood warnings, the ABC says \"several\".\n\n## What to Watch\n- Whether the Mary River at Tiaro reaches major flood level.\n- Whether a second storm band forms behind the first.\n- Storm activity through Thursday.\n- Whether the forecast wetter-than-average November to January plays out, and the warm nights predicted for November.",
+    "id": "ac553a49-4428-5bd0-9335-d974cd6cfacd",
+    "title": "PNG communities stuggle with El Niño drought",
+    "simplified_title": "El Niño drought hits Papua New Guinea hard, fuelling fires",
+    "quick_summary": "A long El Niño dry spell is causing water, food and health problems across Papua New Guinea, with bushfires adding to the damage and more dry months expected.",
+    "simplified_body": "Many parts of Papua New Guinea (PNG), from the Highlands to the coast, are being hit hard by a prolonged dry spell linked to El Niño. What started as a drought is turning into a national humanitarian concern, affecting water supplies, food, health and people's ability to earn a living.\n\nIt's not just the lack of rain. PNG's National Broadcasting Corporation (NBC) reports that bushfires are becoming a problem because dry bush, kunai grass and forest floors are now highly flammable. Earlier this month, wildfires on Lou Islands reportedly destroyed at least half of the island's forests, and locals didn't have the right gear to fight them. Provincial Disaster Offices in the Highlands have been urged to do rapid assessments and get relief to people quickly.\n\nEl Niño is a natural climate pattern where the tropical Pacific Ocean warms up more than usual. That shifts rainfall patterns, bringing drought to some places and floods to others. The World Meteorological Organisation (WMO) says this El Niño is already causing disruption and devastation in various parts of the world, including the Pacific.\n\nThings may get worse before they get better. The WMO said in September that El Niño is expected to peak towards the end of this year, with climate impacts continuing well into 2027. PNG is bracing for more dry months ahead.",
+    "why_it_matters": "PNG is Australia's closest neighbour and a major partner in the Pacific, so a growing humanitarian crisis there is likely to draw on Australian support, and El Niño often brings drier conditions to Australia too.",
+    "deep_analysis": "## Historical Context\nAs general background, PNG has been hit hard by strong El Niño events before, notably in 1997–98 and 2015–16, when drought and frost damaged crops in the Highlands and caused serious food and water shortages. Many communities rely on subsistence gardens and rainwater, so long dry spells hit quickly.\n\n## Multiple Perspectives\nThe source describes the situation as escalating into a national humanitarian concern, with authorities urging Provincial Disaster Offices to act fast. The Lou Islands fires highlight a recurring theme: local communities often lack the resources to respond. The WMO frames this as part of a global El Niño causing both droughts and floods. The article doesn't include figures on how many people are affected, so the full scale is not yet clear.\n\n## What to Watch\n- Whether rapid assessments lead to food and water relief reaching remote Highlands communities.\n- Further bushfires as dry conditions continue.\n- Requests for international help, including from Australia.\n- The WMO's forecast peak late this year and impacts lasting into 2027.",
     "concepts": [
      {
-      "term": "blocking pattern",
-      "definition": "A stubborn weather system, like a high-pressure area, that stays put and stops other weather from moving through normally.",
-      "context": "High pressure over the Tasman Sea held storms and rain over southern Queensland for about 10 days."
+      "term": "El Niño",
+      "definition": "A natural climate pattern where the tropical Pacific Ocean becomes unusually warm, shifting rainfall around the world.",
+      "context": "It's behind the prolonged dry spell hitting PNG."
      },
      {
-      "term": "cold front",
-      "definition": "The leading edge of a cooler air mass, which often triggers storms as it pushes into warm, moist air.",
-      "context": "A cold front from the west is shoving the blocking high away and sparking the storm line."
+      "term": "kunai grass",
+      "definition": "A tall, tough grass common in PNG that dries out and burns easily.",
+      "context": "Dried-out kunai grass is helping fuel bushfires."
      },
      {
-      "term": "Emergency Warning",
-      "definition": "The highest level of public alert, meaning people must act immediately to protect themselves.",
-      "context": "One was issued for flash flooding near Clermont and lifted on Sunday."
+      "term": "humanitarian concern",
+      "definition": "A situation where people's basic needs like food, water and health are at serious risk and may need outside help.",
+      "context": "The drought is escalating into a national humanitarian concern in PNG."
      }
     ],
     "quiz": {
-     "question": "Why had southern Queensland been getting so much rain before the big storm line arrived?",
+     "question": "Why are bushfires becoming a bigger problem in PNG right now?",
      "options": [
-      "A high-pressure system over the Tasman Sea was blocking weather from moving on",
-      "Snow melting in the Snowy Mountains fed the rivers",
-      "September had been unusually wet, saturating the ground",
-      "A cyclone had crossed the coast near Gympie"
+      "New farming laws require burning fields",
+      "Volcanic eruptions have spread across the Highlands",
+      "The El Niño dry spell has made grass, bush and forest floors highly flammable",
+      "Heavy floods have washed debris into forests"
      ],
-     "answer_index": 0,
-     "explanation": "The BoM said high pressure over the Tasman Sea sat for about 10 days, blocking fronts and keeping storms and rain over southern Queensland. September was actually very dry."
+     "answer_index": 2,
+     "explanation": "The prolonged dry conditions from El Niño have dried out vegetation like kunai grass, making it easy to burn."
     },
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/bd77552df3d7c33d1c98eae539477a7f6e2cb755/527_0_5343_4273/master/5343.jpg?width=1920&quality=85&auto=format&fit=max&s=84a5cdc3b2bbda7f62d79a3e57b57fe1",
+    "background_beginner": "El Niño is a natural climate pattern that happens every few years when the Pacific Ocean near the equator gets warmer than normal. That change shifts where rain falls, so some countries get floods while others get droughts. Papua New Guinea, Australia's northern neighbour, often ends up on the dry side. Many people there grow their own food and depend on rain for drinking water, so a long drought can quickly lead to hunger, sickness and fires. Weather agencies like the World Meteorological Organisation track El Niño closely, and it keeps coming up because each strong event can cause damage across the Pacific and beyond.\n",
+    "impact_score": 58,
+    "image_url": "https://media.rnztools.nz/rnz/image/upload/s--Ake3hyyr--/t_tohu-badge-facebook/f_auto/q_auto/4OPEY2M_image_crop_17915",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "An \"unusually large\" storm system stretching across several states brought hail, damaging winds and flood warnings to eastern Australia, with south-east Queensland bracing for its peak on Monday.",
+    "description": "A long El Niño dry spell is causing water, food and health problems across Papua New Guinea, with bushfires adding to the damage and more dry months expected.",
+    "tier": "LOCAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "RNZ",
+      "url": "https://www.rnz.co.nz/news/pacific/2168659/png-communities-stuggle-with-el-nino-drought"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-10-26T13:08:49.532006+00:00",
+    "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
+    "id": "811ebde9-a7fa-5156-81d4-605d5c6da17d",
+    "title": "Australia's second largest veggie company admits 'cartel conduct'",
+    "simplified_title": "Big veggie supplier admits fixing prices on vegies sold to Aldi",
+    "quick_summary": "Perfection Fresh Australia, the country's second-largest fresh produce supplier, has admitted to 11 instances of illegal price fixing on broccoli, cauliflower and iceberg lettuce sold to Aldi in New South Wales, and agreed to a $12 million penalty pending court approval.",
+    "simplified_body": "Perfection Fresh Australia has admitted to \"cartel conduct\" on 11 occasions between 2019 and 2020. It fixed the price of broccoli, cauliflower and iceberg lettuce sold to Aldi stores in New South Wales (NSW). The company has agreed to pay a $12 million penalty, but the Federal Court still has to approve it.\n\nThe Australian Competition and Consumer Commission (ACCC), the national competition watchdog, says price fixing can push prices up, hurting shoppers and raising costs for businesses. Perfection Fresh supplies vegies to every state and territory. It says it takes full responsibility, has cooperated with the ACCC, and has strengthened its leadership, governance and compliance systems.\n\nIn September 2025 the ACCC began civil action against four vegetable-growing companies and three individuals. It alleges they worked together to fix prices of fresh produce sold at Aldi in NSW, Victoria and Queensland between 2018 and 2024. Although Perfection Fresh admitted 11 occasions, the court can only penalise 10: nine contraventions and one attempted contravention. The other one falls outside the period in which a penalty can apply.\n\nThe case against the other suppliers, Hydro Produce, Veli Velisha Fresh Produce and Velisha National Farms, and M Fragapane & Sons, is still going. The Federal Court will also decide later whether to approve the $12 million penalty.",
+    "why_it_matters": "Fresh food prices hit every Australian household, and this case shows the ACCC is actively chasing suppliers who secretly agree on prices instead of competing. It could also shape how much trust shoppers place in what they pay at the checkout.",
+    "deep_analysis": "## Historical Context\nAs general background, Australia's competition law bans businesses from agreeing with rivals on prices, a practice known as cartel conduct. The ACCC enforces these rules and has made fresh food supply an ongoing priority. In September 2025 it took civil action in the Federal Court against four vegetable growers and three individuals over alleged price fixing on produce sold to Aldi in NSW, Victoria and Queensland between 2018 and 2024.\n\n## Multiple Perspectives\n- **The ACCC:** Commissioner Luke Woodward said cartel conduct \"undermines competition\" and \"can increase prices, harming consumers and raising the cost of doing business.\"\n- **Perfection Fresh:** It takes full responsibility, regrets the impact on relationships, says it fully cooperated, and has strengthened its governance and compliance.\n- **The other accused:** Hydro Produce, the Velisha companies and M Fragapane & Sons have not admitted wrongdoing in the source, and their case continues. The allegations against them remain unproven.\n\n## What to Watch\n- Whether the Federal Court approves the $12 million penalty.\n- How the case against the remaining suppliers and individuals unfolds.\n- Whether the ACCC pursues further action in the fresh food sector.",
+    "concepts": [
+     {
+      "term": "cartel conduct",
+      "definition": "When competing businesses secretly agree to work together, for example by fixing prices, instead of competing fairly.",
+      "context": "Perfection Fresh admitted cartel conduct by fixing vegetable prices sold to Aldi."
+     },
+     {
+      "term": "civil action",
+      "definition": "A court case seeking penalties or orders rather than criminal convictions and jail time.",
+      "context": "The ACCC began civil action in the Federal Court in September 2025."
+     },
+     {
+      "term": "attempted contravention",
+      "definition": "Trying to break the law even if the illegal act wasn't fully carried out.",
+      "context": "One of the 10 penalisable instances was an attempted contravention."
+     }
+    ],
+    "quiz": {
+     "question": "Why can the court penalise Perfection Fresh for only 10 of the 11 admitted occasions?",
+     "options": [
+      "Aldi forgave one of the occasions",
+      "The ACCC dropped one charge in exchange for cooperation",
+      "One occasion involved a different company",
+      "One occasion falls outside the period in which a penalty can apply"
+     ],
+     "answer_index": 3,
+     "explanation": "The article says the 11th instance falls outside the period in which a penalty can apply, leaving nine contraventions and one attempted contravention."
+    },
+    "background_beginner": "Supermarkets buy fruit and vegies from big supplier companies. Normally those suppliers compete, each trying to offer a better price to win the business. When rival suppliers secretly agree on prices instead, it's called a cartel, and it's illegal in Australia because it can push up what shoppers pay. The Australian Competition and Consumer Commission is the government watchdog that polices this. Grocery prices have been a hot topic in Australia for years, as households feel cost-of-living pressure, so the watchdog has kept a close eye on the fresh food supply chain. This case, involving vegies sold to Aldi, is one example of that scrutiny.",
+    "impact_score": 45,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/c3c0bfc52942f877f55f70fb3375a611?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=281&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Perfection Fresh Australia, the country's second-largest fresh produce supplier, has admitted to 11 instances of illegal price fixing on broccoli, cauliflower and iceberg lettuce sold to Aldi in New South Wales, and agreed to a $12 million penalty pending court approval.",
+    "tier": "LOCAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-26/perfection-fresh-admits-to-aldi-vegetable-price-fixing/107308678"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-26T13:08:48.693738+00:00",
+    "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
+    "id": "a8e268b0-0a70-5c71-b2e8-e3860d6ebba8",
+    "title": "Man found dead in Queensland flood waters as state hit by multiple storms and days-long deluge",
+    "simplified_title": "Former Fraser Coast councillor dies in Queensland floodwaters after days of storms",
+    "quick_summary": "Former councillor and dairy farmer James Hansen, 57, was found dead in a flooded creek near Maryborough after an unusual weather system dumped days of heavy rain across southern and eastern Queensland.",
+    "simplified_body": "A 57-year-old man found dead in Smothering Creek at Boompa, west of Maryborough on Queensland's Fraser Coast, has been identified as local dairy farmer and former councillor James Hansen. Emergency services were called just after 11am on Monday. Police are preparing a report for the coroner as they investigate how he died.\n\nMr Hansen was a fourth-generation local who served on the Fraser Coast Regional Council from 2012 to 2024, and on the former Woocoo Shire Council before that. Mayor George Seymour called him a passionate advocate for primary producers. Elsewhere, Swiftwater crews rescued six campers stranded at Leyburn on the Southern Downs, and two drivers were pulled from flooded cars near Warwick. The Guardian lists five rescued campers by age and sex, while both outlets say six were rescued.\n\nTorrential rain fell from Thursday to Monday. Blackdown Tableland near Rockhampton recorded 439.4mm over four days. Meteorologist Angus Hines said the system was unusual because the storms were driven by what was happening high in the atmosphere. On Sunday evening, a band of thunderstorms briefly stretched from southern Queensland to Bass Strait.\n\nFlood warnings remain for several rivers, including the Mary, Bremer, Macintyre and Warrego. Mr Seymour said the Maryborough peak was lower than predicted and the region was likely \"over the worst of it\". However, the Bureau of Meteorology (BoM) warned that afternoon storms could push river levels up again. Later in the week, conditions should return to more typical spring weather.",
+    "why_it_matters": "This shows how quickly Queensland creeks can turn deadly, even for locals who know the land well. It's a sharp reminder of the \"if it's flooded, forget it\" message as storm season begins.",
+    "deep_analysis": "## Historical Context\nAs background, Queensland has a long history of damaging floods, including major events in 2011 and 2022 in the south-east. Flood deaths in Australia often involve people entering or being caught near floodwater, especially in vehicles. This latest system was described as unusual. Its storms were driven by upper-atmosphere winds rather than the typical spring heat.\n\n## Multiple Perspectives\nEmergency services stress the scale of the rescue effort. Swiftwater crews have been busy since Thursday. Locally, Mayor George Seymour struck an optimistic note, saying the Maryborough peak was lower than BoM predicted. The Bureau, however, warned that renewed river rises were possible. The two outlets differ slightly on the Leyburn rescue: The Guardian lists five named rescues while reporting six campers. It also gives a rescue time of about 11.15am, while the ABC says just after 11am.\n\n## What to Watch\n- The coroner's findings on Mr Hansen's death.\n- Whether afternoon storms trigger fresh rises on the Mary River and in the Lockyer Valley.\n- River levels in western Queensland at Charleville, Quilpie and Blackall.\n- Whether conditions settle into typical spring weather as forecast.",
+    "concepts": [
+     {
+      "term": "coroner",
+      "definition": "An official who investigates sudden or unexplained deaths to work out how and why they happened.",
+      "context": "Police are preparing a report for the coroner on Mr Hansen's death."
+     },
+     {
+      "term": "Swiftwater crews",
+      "definition": "Specially trained rescue teams who save people from fast-moving floodwater.",
+      "context": "They rescued the campers stranded at Leyburn."
+     },
+     {
+      "term": "primary producers",
+      "definition": "People who produce raw goods from the land or sea, such as farmers and fishers.",
+      "context": "Mr Hansen, a dairy farmer, was praised as their advocate."
+     }
+    ],
+    "quiz": {
+     "question": "Why did meteorologist Angus Hines describe this weather system as unusual?",
+     "options": [
+      "Its storms were driven by conditions high in the atmosphere, with cooler temperatures and lots of cloud",
+      "It brought record heat to Queensland",
+      "It only affected western Queensland",
+      "It was a tropical cyclone crossing the coast"
+     ],
+     "answer_index": 0,
+     "explanation": "Hines said the widespread rain, cloud cover and cooler temperatures meant the storms were driven by the upper atmosphere, not the usual spring heat."
+    },
+    "background_beginner": "Queensland is Australia's north-eastern state, and its weather can swing from drought to flooding. During spring and summer, storms and heavy rain can make creeks and rivers rise very fast. This puts people on farms, on roads and at campgrounds at risk. Several groups respond when this happens. The Bureau of Meteorology forecasts the weather and issues flood warnings. Police and fire services carry out rescues, and local councils help their communities recover. Floods keep making the news because they happen often in Queensland, can be deadly, and cause damage to homes, roads and farms. Authorities repeatedly urge people never to drive or walk into floodwater.",
+    "impact_score": 38,
+    "image_url": "https://i.guim.co.uk/img/media/4946af02b76a100572a0eb07e3f74c7680d87560/324_0_6880_5504/master/6880.jpg?width=1920&quality=85&auto=format&fit=max&s=3e5260db1a6e670d922026c8c7ac9101",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Former councillor and dairy farmer James Hansen, 57, was found dead in a flooded creek near Maryborough after an unusual weather system dumped days of heavy rain across southern and eastern Queensland.",
     "tier": "LOCAL",
     "category": "ENVIRONMENT_CLIMATE",
     "sources": [
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge"
      },
      {
       "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-25/flood-warnings-queensland-braces-for-more-rain-storms/107306066"
+      "url": "https://www.abc.net.au/news/2026-10-26/qld-man-found-dead-in-floodwater/107310850"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
-    "related_story_ids": [],
+    "related_story_ids": [
+     "2592ac42-42ae-59a2-ad9a-adecb9fff23f"
+    ],
     "reading_minutes": 2,
-    "created_at": "2026-10-25T06:18:16.184925+00:00",
-    "published_date": "2026-10-25",
+    "created_at": "2026-10-26T13:08:52.083339+00:00",
+    "published_date": "2026-10-26",
     "has_fulltext": true
    }
   ],
@@ -503,71 +622,6 @@
     "has_fulltext": true
    },
    {
-    "id": "f2ee8ade-7544-530b-8570-9450fbeabf20",
-    "title": "Ukraine: Starlink satellite speeds restored to normal",
-    "simplified_title": "Ukraine's Starlink speeds restored after week of mysterious slowdown",
-    "quick_summary": "Ukraine says its Starlink and Starshield satellite connections are back to full speed after more than a week of restrictions that hampered drone operations, but nobody has clearly owned up to causing the slowdown.",
-    "simplified_body": "Ukraine's government says the Starlink satellite internet system and its military version, Starshield, are working properly again. Defence Minister Yevhenii Khmara said connections now stay stable at speeds above 400km/h. During the restrictions, devices lost connection at around 160km/h, which Ukrainian officials said hurt their ability to intercept Russian attack drones and forced some operations to be cancelled.\n\nThis matters most for Ukraine's soldiers, who rely on Starlink to pilot drones, run frontline logistics and communicate, especially in remote areas. President Volodymyr Zelenskyy said the fix was crucial for defending against jet-powered 'Shaheds' (Russian attack drones). The big question is who caused the slowdown. Elon Musk, whose company SpaceX runs Starlink, said limits on Starshield are decided by the US military and ultimately the President. Donald Trump and Defense Secretary Pete Hegseth denied the Pentagon (the US Department of Defense) ordered anything. Later, Musk also said Ukraine broke Starlink's terms of service by using it for offensive drone strikes, and that 'loophole' was closed. Zelenskyy blamed both: a message from the US government, carried out technically by SpaceX.\n\nFor background: relations between the US and Ukraine are strained. Trump has waived some sanctions on Russia and agreed to import Russian diesel, which Ukraine saw as a betrayal. Trump has also complained that Ukrainian strikes on Russian oil refineries push up global prices. Zelenskyy said the US threatened to stop sharing intelligence unless those strikes stopped, which Trump denied.\n\nNext, watch whether Ukraine can still use Starlink for long and medium-range attack drones; a presidential adviser said it is 'physically unable' to. Meanwhile, heavy fighting and drone strikes continue on both sides.",
-    "why_it_matters": "It shows how a modern war can hinge on one private company's satellite network, and how quickly access can change. For countries like Australia that also use commercial satellite services, it's a sharp reminder of the risks of depending on a single provider.",
-    "deep_analysis": "## Historical Context\nAccording to the sources, Ukraine uses both civilian Starlink and the more secure Starshield, built on Starlink technology and, per The Guardian, operated by the US government. The BBC notes the network of 10,000 low Earth orbit satellites is used heavily on remote parts of the battlefield, and that Russia is not authorised to use it. The slowdown came during a row over Ukrainian strikes on Russian oil infrastructure and Trump's deal to import Russian diesel, ahead of US midterm elections. As general background, Starlink has been central to Ukraine's communications since early in Russia's full-scale invasion, and questions about Musk's influence over its use have come up before.\n\n## Multiple Perspectives\nThe accounts of responsibility conflict. The Wall Street Journal, as reported by DW, said US officials believed Musk acted on his own. Musk said Starshield limits are decided by the US military and the President, then separately said Ukraine violated terms of service by using Starlink for offensive drone strikes. Trump said 'it wasn't me, and I don't think it was Elon'. Secretary of State Marco Rubio said the President can't direct a private company, which appeared to point at Musk. Vice-President JD Vance backed Musk, saying he wouldn't act without government direction. Zelenskyy said it was a US government message carried out by SpaceX, noting the limits applied only in Ukraine, not EU countries. Sources also differ on timing: Trump said service was restored on Thursday, but a European official told the Associated Press it wasn't fully working; Ukraine confirmed restoration on Saturday. The BBC adds that while Ukrainian refinery strikes have affected fuel prices, this year's rises are mainly due to the Iran war.\n\n## What to Watch\n- Whether Ukraine regains use of Starlink for long and medium-range attack drones, which an adviser says is currently impossible.\n- Any clear answer on who ordered the restrictions.\n- Whether US intelligence sharing with Ukraine stays intact.\n- How the diesel deal and sanctions waivers shape US–Ukraine ties around the midterms.",
-    "concepts": [
-     {
-      "term": "Starshield",
-      "definition": "A military-grade, more secure version of Starlink built on the same technology.",
-      "context": "Musk says the US military controls Starshield limits, which is why its role is central to the blame game."
-     },
-     {
-      "term": "Shaheds",
-      "definition": "Russian attack drones, here including jet-powered versions that fly fast.",
-      "context": "Zelenskyy said full speeds are needed to defend against them, since slow connections hurt interception."
-     },
-     {
-      "term": "terms of service",
-      "definition": "The rules a company sets for how customers may use its product.",
-      "context": "Musk claimed Ukraine broke Starlink's rules by using it for offensive drone strikes."
-     }
-    ],
-    "quiz": {
-     "question": "Why did the speed cap of about 160km/h cause problems for Ukraine's military?",
-     "options": [
-      "Fast-moving drones lost connection, hurting interceptions and missions",
-      "It stopped soldiers from using social media",
-      "It made Russia able to use Starlink",
-      "It shut down Ukraine's power grid"
-     ],
-     "answer_index": 0,
-     "explanation": "Drones travelling above the cap lost connection, which officials said hampered intercepting Russian drones and led to cancelled operations."
-    },
-    "impact_score": 68,
-    "image_url": "https://static.dw.com/image/79738872_6.jpg",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "Ukraine says its Starlink and Starshield satellite connections are back to full speed after more than a week of restrictions that hampered drone operations, but nobody has clearly owned up to causing the slowdown.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-25T06:18:18.494069+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
-   },
-   {
     "id": "a57bbdc4-9f13-5c6e-b135-ee085a776457",
     "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
     "simplified_title": "France arrests over 1,300 as cost-of-living protests continue",
@@ -631,136 +685,9 @@
     "created_at": "2026-10-26T06:26:32.906135+00:00",
     "published_date": "2026-10-26",
     "has_fulltext": true
-   },
-   {
-    "id": "07f0313a-e9af-5b21-b5e4-4c1f54e58ac2",
-    "title": "Macron says deadly shooting near Paris is a 'racist terrorist attack'",
-    "simplified_title": "Macron calls deadly shooting near Paris a 'racist terrorist attack'",
-    "quick_summary": "A gunman firing from his car killed one person and injured five in two towns near Paris, apparently targeting people of migrant origin, and France's president has called it a racist terrorist attack.",
-    "simplified_body": "A man drove through Trappes, south-west of Paris, and then nearby La Verrière, firing from his car over about 15 minutes. One person was killed and five were injured. Witnesses said he drove a grey Renault Clio, and the mayor of Trappes, Ali Rabeh, said people were shot at a petrol station, a medical centre and a playground. The suspect was arrested in La Verrière.\n\nThe attacker appeared to target people of migrant origin. Three of the injured are in a serious condition, including a 12-year-old girl who was shot eight times. Her mother said the girl was wearing a headscarf and wondered if that was why she was targeted. President Emmanuel Macron called it \"a racist terrorist attack\" and a \"turning point\" for France, saying it was the first random racial killing like this.\n\nThe suspect, named in French media as Kevin T, is 39. He was known to police but, according to local media, not to intelligence services, and he wasn't on France's list of serious security threats. The National Anti-Terrorist Prosecutor's Office (PNAT) says he had four previous convictions that were \"automatically expunged\". Police say he used an older semi-automatic gun, and the newspaper Le Parisien reports it dated back to World War Two.\n\nThe exact motive is still unclear. PNAT is investigating murder linked to a terrorist enterprise, possession of a Category A weapon, and conspiracy with a terrorist group. A member of the suspect's immediate family has also been taken into custody, so more details may come out as the investigation continues.",
-    "why_it_matters": "Macron is framing this as a new kind of threat in France: random violence aimed at people because of their skin colour or religion. That raises hard questions about how authorities spot dangerous people who aren't on any watchlist.",
-    "deep_analysis": "## Historical Context\nAccording to the source, Macron said this was the first time France had seen a random racial killing like this, calling it a \"turning point\" for the Republic. As general background, France has dealt with many terrorist attacks in the past decade, and debates about immigration, religion and identity are a big part of its politics. Trappes and La Verrière are suburbs with communities of migrant origin.\n\n## Multiple Perspectives\nMacron and PNAT treat the attack as terrorism, with PNAT describing it as \"murder in connection with a terrorist enterprise\". Still, the source stresses that the exact motive remains unclear. Mayor Ali Rabeh described the shooting as random and aimed at causing \"carnage\". The injured girl's mother put the focus on belonging, saying her French-born daughter \"has the right to live in France\". The suspect's record raises its own questions: he was known to police, but his convictions had been expunged and he wasn't on the threat list.\n\n## What to Watch\n- Whether investigators confirm a racist motive or any links to a wider group, given the conspiracy line of inquiry.\n- What role the detained family member played, if any.\n- How he got a World War Two-era, Category A weapon.\n- Political debate over how authorities monitor people who aren't flagged by intelligence services.\n- How the three seriously injured victims recover.",
-    "concepts": [
-     {
-      "term": "expunged",
-      "definition": "Officially erased from a person's criminal record.",
-      "context": "The suspect's four earlier convictions had been automatically expunged, which may help explain why he wasn't seen as a serious risk."
-     },
-     {
-      "term": "Category A weapon",
-      "definition": "A French legal category covering military-grade weapons or guns that can fire in bursts.",
-      "context": "Prosecutors are investigating him for possessing this kind of weapon."
-     },
-     {
-      "term": "terrorist enterprise",
-      "definition": "A French legal term for a crime committed with the aim of seriously disrupting public order through intimidation or terror.",
-      "context": "PNAT says the killing appeared to be murder connected to a terrorist enterprise, which is why anti-terror prosecutors are handling the case."
-     }
-    ],
-    "quiz": {
-     "question": "Why is this case being handled by France's anti-terrorism prosecutors rather than treated as an ordinary murder?",
-     "options": [
-      "Because the suspect was on France's list of serious security threats",
-      "Because the gun was from World War Two",
-      "Because the attack appeared to target people for their skin colour or religion and is being investigated as linked to a terrorist enterprise",
-      "Because the attack happened in two different towns"
-     ],
-     "answer_index": 2,
-     "explanation": "PNAT says the shooting appeared to be murder connected to a terrorist enterprise, and Macron said victims were targeted over skin colour or religion. The suspect was not on the threat list."
-    },
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7c59/live/b8966750-cef5-11f1-a701-fddedf244c16.jpg",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "A gunman firing from his car killed one person and injured five in two towns near Paris, apparently targeting people of migrant origin, and France's president has called it a racist terrorist attack.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-25T06:18:14.775823+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
    }
   ],
   "MIDDLE_EAST_AFRICA": [
-   {
-    "id": "d83687dc-daf6-5e1c-87b9-7f98e012cce1",
-    "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-    "simplified_title": "Iran blames US for failed peace deal as fears of new strikes grow",
-    "quick_summary": "Iran's president says the US wrecked an interim deal to end their war, while a US intelligence memo warns Iran is stepping up plots against American personnel.",
-    "simplified_body": "Iranian President Masoud Pezeshkian has blamed Washington for the collapse of an interim deal meant to end Iran's war with the United States and Israel, but says both sides should return and \"conclude it\". This comes after US President Donald Trump said he \"may do another little Epic Fury\", the codename for the US-Israeli war on Iran. Meanwhile, a memo from US national intelligence director Jay Clayton warns Iran has \"substantially increased efforts to target US personnel\" in the Middle East and elsewhere.\n\nPeople across the region are in the firing line. Iran's Islamic Revolutionary Guard Corps (IRGC) says even limited strikes would bring a response \"several times greater\". The US has ordered non-emergency embassy staff out of Saudi Arabia, partly because Yemen's Iran-backed Houthis have been attacking Saudi airports, killing at least 21 people since early October, according to Saudi authorities.\n\nSome background: the war began on February 28, when US-Israeli strikes killed Iran's supreme leader. His son, Mojtaba Khamenei, replaced him and hasn't been seen in public since. Iran hit back at US allies and effectively closed the Strait of Hormuz, a channel carrying around a fifth of the world's oil and gas. A preliminary agreement in June collapsed within weeks, after Iranian attacks on shipping resumed and the US reinstated its blockade, pushing oil prices up.\n\nWhat's next is uncertain. Israelis vote on Tuesday, and Israeli Prime Minister Benjamin Netanyahu says he's still committed to overthrowing Iran's government. Trump's Republicans face midterm elections on November 3. Fears are growing that fighting could restart as soon as this weekend.",
-    "why_it_matters": "A renewed war could keep the Strait of Hormuz disrupted and oil prices high, which flows through to fuel costs for countries like Australia that rely on global energy markets.",
-    "deep_analysis": "## Historical Context\nAccording to the sources, the US-Israeli war on Iran began on February 28, killing Iran's then supreme leader. A preliminary US-Iran deal in June to end the war and reopen the Strait of Hormuz collapsed within weeks. Separately, Yemen's civil war dates to 2014, when the Houthis ousted the government from Sanaa, escalating in 2015 with a Saudi-led intervention. An informal ceasefire there began unravelling in July. As general background, the Strait of Hormuz has long been one of the world's most important energy chokepoints, which is why disruptions there move global prices.\n\n## Multiple Perspectives\n- **Iran:** President Pezeshkian blames the US but wants to finish the deal; spokesperson Fatemeh Mohajerani says Iran \"seeks peace\" but won't wait for permission to defend itself. Military chief Ali Abdollahi says US forces won't be allowed in the Gulf.\n- **US:** Trump hints at more strikes; intelligence chief Jay Clayton says Iranian plots against US citizens have reached \"advanced stages\".\n- **Israel:** Netanyahu remains committed to overthrowing Iran's government.\n- **Houthis:** Say attacks on Saudi Arabia retaliate for a Saudi blockade and an air strike on Sanaa airport.\nNote the framing: the sources don't give exactly the same account of why the June deal failed. The BBC links it to resumed Iranian attacks on shipping and the US reinstating its blockade, while Al Jazeera reports Iran blaming Washington.\n\n## What to Watch\n- Whether Trump orders another round of strikes, and how the IRGC responds.\n- Israel's election on Tuesday and the US midterms on November 3.\n- Any return to negotiations led by Iran's chief negotiator Mohammad Bagher Ghalibaf.\n- Houthi attacks on Saudi Arabia and further US embassy staffing changes.\n- Oil prices and shipping through the Strait of Hormuz.",
-    "concepts": [
-     {
-      "term": "Islamic Revolutionary Guard Corps",
-      "definition": "A powerful branch of Iran's armed forces, separate from the regular military.",
-      "context": "It warned that any US strikes would be met with a much bigger response."
-     },
-     {
-      "term": "Strait of Hormuz",
-      "definition": "A narrow sea passage out of the Gulf that around a fifth of the world's oil and gas usually travels through.",
-      "context": "Iran effectively closed it during the war, sending oil prices up."
-     },
-     {
-      "term": "Houthis",
-      "definition": "An Iran-backed armed group in Yemen that took the capital Sanaa in 2014.",
-      "context": "Their attacks on Saudi airports led the US to pull non-emergency embassy staff from Saudi Arabia."
-     },
-     {
-      "term": "interim deal",
-      "definition": "A temporary or preliminary agreement meant to pause a conflict while a fuller deal is worked out.",
-      "context": "The US-Iran interim deal from June fell apart within weeks."
-     }
-    ],
-    "quiz": {
-     "question": "Why does the Strait of Hormuz matter so much to the wider world in this conflict?",
-     "options": [
-      "It's where Iran's supreme leader lives",
-      "Around a fifth of the world's oil and gas usually passes through it, so closure pushes prices up",
-      "It's the main route for Houthi attacks on Riyadh airport",
-      "It's the site of Israel's upcoming election"
-     ],
-     "answer_index": 1,
-     "explanation": "The BBC reports roughly a fifth of global oil and gas usually travels through the strait, so its effective closure helped send oil prices surging."
-    },
-    "impact_score": 80,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26271650639081-1791496832.jpg?resize=1920%2C1440",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Iran's president says the US wrecked an interim deal to end their war, while a US intelligence memo warns Iran is stepping up plots against American personnel.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "7baab65b-f998-52c8-ab46-6f78a33bf23d",
-     "9c42b941-4022-56e0-a2bc-58434166e6e5",
-     "adabd6c4-a1b8-5204-9a50-3b162f5bf191"
-    ],
-    "reading_minutes": 2,
-    "created_at": "2026-10-25T06:18:17.643036+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
-   },
    {
     "id": "c47d33e3-761d-5b7d-bb88-edcb7b5b305c",
     "title": "Deeply divided Israel braces for pivotal election",
@@ -828,6 +755,74 @@
     "has_fulltext": true
    },
    {
+    "id": "90d1e3d3-4112-5843-be35-34047512daa0",
+    "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+    "simplified_title": "Israeli forces flatten Hebron areas, displacing thousands before Israel's election",
+    "quick_summary": "After a gun attack killed two Israeli soldiers near Hebron, Israeli forces sealed off the West Bank city, demolished buildings and drove roughly 1,500 to 2,000 Palestinians from their homes, days before Israel's general election.",
+    "simplified_body": "On Friday, two Palestinian gunmen attacked an Israeli military checkpoint outside Hebron, the biggest city in the occupied West Bank. Two Israeli soldiers and both gunmen were killed. Within hours, Israeli forces sealed off the city of 250,000 people, flattened the nearby Farsh al-Hawa industrial area and began emptying Ein Deir Baha, the district the gunmen allegedly came from.\n\nNumbers vary: the Hebron municipality first said about 1,500 people had been evicted, later saying 370 families, nearly 2,000 people, were displaced. City officials say almost half are children. Residents describe being ordered out at night, sometimes with 10 minutes' notice, and soldiers turning homes into bases. The Israel Defense Forces (IDF) says civilians left voluntarily and that about 2,000 residents belong to a clan \"associated with Hamas\". Locals dispute this, saying that clan numbers about 150 at most. Palestinian leaders call it collective punishment.\n\nThe West Bank has been under Israeli occupation for nearly 60 years, and Palestinians there can't vote in Israeli elections. Israel votes on Tuesday, with Prime Minister Benjamin Netanyahu's coalition narrowly trailing. Netanyahu vowed to \"destroy this place\", while Finance Minister Bezalel Smotrich called for a campaign \"exactly like in Gaza and Lebanon\". Many Palestinians believe the crackdown is aimed at voters.\n\nThe lockdown affects nearly a million people in the wider district. Schools and universities have moved online, and the Fawwar refugee camp has been closed off. A Palestinian news agency, Wafa, reported plans to displace a further 2,500 people. Locals have opened their homes to displaced families while waiting to see what happens after the election.",
+    "why_it_matters": "Mass displacement and the demolition of homes in occupied territory raise serious humanitarian and international law questions, and Israel's election result could shape what happens next in the West Bank. Australia has long backed a two-state solution, so events like this feed into debate here about that goal.",
+    "deep_analysis": "## Historical Context\nAs background: Israel has occupied the West Bank since the 1967 war, and the sources note it has been nearly 60 years. Hebron is especially tense because Israeli settlers live in and around the city alongside a large Palestinian population. Ministers Itamar Ben-Gvir and Orit Strook live in settlements in the Hebron area. Demolishing homes linked to attackers is a long-running Israeli practice that critics call collective punishment.\n\n## Multiple Perspectives\nThe IDF says it let civilians who wished to evacuate leave temporarily through screening points, targeted a clan it describes as Hamas-associated, and removed illegally built structures that posed security risks. Netanyahu and Smotrich promised a ferocious response. Palestinians, including Hebron's mayor Yousef al-Jabari and activist Issa Amro, call it collective punishment of uninvolved families and accuse leaders of using it as election material. Residents reject the claim that they left by choice and dispute the IDF's clan figures. Displacement estimates differ, ranging from about 1,500 to more than 2,000 people.\n\n## What to Watch\n- Tuesday's Israeli election result and whether the operation expands or winds down afterwards.\n- Wafa's report of a further 2,500 people facing displacement.\n- How long the city closure, online schooling and the Fawwar camp lockdown last.\n- Settler violence, such as the reported attack on a delivery truck driver.",
+    "concepts": [
+     {
+      "term": "collective punishment",
+      "definition": "Punishing a whole group of people for something done by a few individuals.",
+      "context": "Hebron officials say families with no link to the attack lost their homes."
+     },
+     {
+      "term": "occupied West Bank",
+      "definition": "Palestinian territory controlled by Israel's military since 1967, where Palestinians live under Israeli rule without voting in Israeli elections.",
+      "context": "Hebron is the West Bank's biggest city."
+     },
+     {
+      "term": "refugee camp",
+      "definition": "A long-standing settlement for Palestinians displaced in earlier conflicts and their descendants.",
+      "context": "Fawwar camp, home to nearly 8,000 people, was sealed shut."
+     }
+    ],
+    "quiz": {
+     "question": "Why do many Hebron residents believe the crackdown has a political dimension?",
+     "options": [
+      "Because the attack happened inside Israel's parliament",
+      "Because it came days before an Israeli election in which Netanyahu's coalition is narrowly trailing",
+      "Because Palestinians in the West Bank are voting on Tuesday",
+      "Because Hamas announced it was running in the election"
+     ],
+     "answer_index": 1,
+     "explanation": "Israel votes on Tuesday, and leaders made televised visits vowing harsh retribution while trailing in the race. West Bank Palestinians can't vote in that election."
+    },
+    "background_beginner": "Israelis and Palestinians have argued over the same land for more than a century. In a 1967 war, Israel took control of the West Bank, an area where millions of Palestinians live, and has held it under military occupation ever since. Over the years, Israeli settlements have grown there, which most of the world considers illegal. Palestinian armed groups sometimes attack Israeli soldiers or civilians, and Israel often responds with raids, closures and home demolitions. Hebron is a flashpoint because settlers and Palestinians live very close together. The conflict keeps coming up because neither side's core demands, such as land, security and statehood, have been resolved.",
+    "impact_score": 68,
+    "image_url": "https://i.guim.co.uk/img/media/f4bed34ab5e6b3719ff91ade5e3590c1842a8d24/0_0_5500_3668/master/5500.jpg?width=1920&quality=85&auto=format&fit=max&s=ac3c85397838015ab1254951ecd9f131",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "After a gun attack killed two Israeli soldiers near Hebron, Israeli forces sealed off the West Bank city, demolished buildings and drove roughly 1,500 to 2,000 Palestinians from their homes, days before Israel's general election.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "42c220a5-4b98-5791-b027-74ea76f99e6a"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-10-26T13:08:54.090748+00:00",
+    "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
     "id": "e7784c73-91ca-5926-a3c8-70bbbc84035f",
     "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
     "simplified_title": "Kenya records second Ebola death during its first-ever outbreak",
@@ -889,69 +884,6 @@
     ],
     "reading_minutes": 2,
     "created_at": "2026-10-25T12:39:18.409549+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
-   },
-   {
-    "id": "39c9a926-ada7-56e9-afa0-7563c7f96203",
-    "title": "Nine killed and 40 injured after gunmen open fire at church funeral in Jordan",
-    "simplified_title": "Gunmen attack church funeral in Jordan, killing several mourners",
-    "quick_summary": "Gunmen opened fire on a funeral at a Greek Orthodox church in Jordan's Karak governorate on Friday, killing at least seven people (the Guardian says nine) in a rare attack on the country's Christian minority.",
-    "simplified_body": "On Friday, gunmen opened fire on mourners at a funeral at St George's Greek Orthodox church in Hamoud (also spelt Hmoud), in Jordan's Karak governorate. The sources disagree on the toll: the Guardian reports nine dead and 40 injured, while the BBC says seven dead and at least 34 injured, after officials revised the number several times. Security camera footage verified by news outlets shows three attackers, and the BBC says they appeared to carry handguns and fled in a pickup truck.\n\nThe attack hit Jordan's Christian minority, which has a sizeable community in Karak. Witnesses described panic, with people diving under pews as shooting went on for several minutes. Officials called it a terrorist act by \"extremists\", but the interior minister said it was too early to say whether they were linked to any known group. No-one has claimed responsibility.\n\nJordan is a majority-Muslim country that is usually stable, and attacks like this are rare. The interior minister called it \"unparalleled\" in the kingdom's history. King Abdullah II, a key United States partner against militant Islamist groups, visited Karak and promised the harshest response. The United Nations (UN) secretary general, António Guterres, condemned the attack.\n\nThe hunt for the gunmen is continuing. Security has been stepped up at malls, embassies and other sites across Jordan. Some locals are angry, calling for a tougher approach to extremism and asking where these ideas come from.",
-    "why_it_matters": "An attack on worshippers in one of the Middle East's more stable countries raises worries about extremism spreading in a region already shaken by conflict involving Iran this year.",
-    "deep_analysis": "## Historical Context\nAccording to the sources, Jordan is relatively stable and attacks like this are rare, though the BBC notes deadly attacks have happened before, and US authorities say they've foiled attempted Islamist militant attacks in recent years. The Guardian adds that Jordan was hit by Iranian attacks this year after the US and Israel struck Iran in February. As general background, Jordan is home to one of the region's long-established Christian communities and several biblical sites that draw pilgrims.\n\n## Multiple Perspectives\nThe government frames the attack as blind extremism that won't divide Jordanians, with the king promising an \"iron fist\". Some residents back that but criticise what they see as a past failure to be tougher on terrorists, while others want the state to probe how extremist ideas reach young people. International voices, including the UN chief, the US ambassador to the UN and Lebanon's Christian president Joseph Aoun, condemned it. Reported casualty figures differ between outlets.\n\n## What to Watch\nWhether the attackers are caught, whether any group claims responsibility or is linked to it, the final confirmed death toll, and whether Jordan tightens security or anti-extremism policy in response.",
-    "concepts": [
-     {
-      "term": "governorate",
-      "definition": "An administrative region, a bit like a state or province, used in countries such as Jordan.",
-      "context": "The church is in Karak governorate, in central Jordan."
-     },
-     {
-      "term": "Greek Orthodox",
-      "definition": "A branch of Eastern Christianity with a long history across the Middle East.",
-      "context": "St George's, the targeted church, is a Greek Orthodox church."
-     },
-     {
-      "term": "claimed responsibility",
-      "definition": "When a group publicly says it carried out an attack.",
-      "context": "No-one has claimed responsibility, so it's unclear who was behind the shooting."
-     }
-    ],
-    "quiz": {
-     "question": "Why do reports of the death toll differ?",
-     "options": [
-      "Officials revised the figures several times and outlets reported different numbers",
-      "The attackers released their own figures",
-      "Only one outlet visited the hospital",
-      "The UN refused to confirm any numbers"
-     ],
-     "answer_index": 0,
-     "explanation": "The BBC says officials revised the toll from seven to six and back to seven, while the Guardian reported nine dead, so the sources disagree."
-    },
-    "impact_score": 55,
-    "image_url": "https://i.guim.co.uk/img/media/c5dd22b7faaff144d117160192cbbd75a914bf8f/1009_0_7240_5792/master/7240.jpg?width=1920&quality=85&auto=format&fit=max&s=eb93f743a98d03fde29cb6e98c809cb2",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Gunmen opened fire on a funeral at a Greek Orthodox church in Jordan's Karak governorate on Friday, killing at least seven people (the Guardian says nine) in a rare attack on the country's Christian minority.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "20f16213-bf92-5ce5-a647-9adea8ab1a6d"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-10-25T06:18:13.961149+00:00",
     "published_date": "2026-10-25",
     "has_fulltext": true
    }
@@ -1218,6 +1150,127 @@
   ],
   "GLOBAL_SYSTEMS": [
    {
+    "id": "de13a872-3cc4-5424-8583-0795521740c2",
+    "title": "European gas prices soar to four-year high over winter supply fears",
+    "simplified_title": "Europe's gas prices hit four-year high as winter worries grow",
+    "quick_summary": "European wholesale gas prices have jumped to their highest level since 2022, driven by cold weather, low storage and fears of fresh conflict in the Middle East.",
+    "simplified_body": "European wholesale gas prices hit €97 a megawatt-hour on Monday, the highest since 2022. Temperatures are falling and traders expect more demand for heating. In the UK, the month-ahead gas contract rose 4% to 240p a therm, its highest since December 2022.\n\nPart of the jump comes from fears of new supply disruptions in the Middle East, amid reports that the US and Israel have planned renewed strikes on Iran after the US midterm elections. Those reports pushed oil as high as $117 a barrel on Friday. The Brent crude benchmark eased about 2% on Monday but stayed above $114. Households feel it most: British energy bills are predicted to rise 16% in January, to about £2,000 a year for a typical dual fuel bill.\n\nEurope is heading into winter with gas storage at its lowest level in more than a decade. Exports from Qatar have slowed, and people used more energy in summer for cooling and refrigeration. Storage is about 75% full, against a seasonal average closer to 80%. The UK is especially exposed because it has some of Europe's smallest gas stores, after decades of relying on its own North Sea gas. According to the Office for National Statistics (ONS), the UK paid a record £4bn for power imports in the year to August.\n\nWhat happens next depends on how cold the winter gets and whether conflict in the Middle East escalates. Britain's energy regulators expect the UK to pay some of Europe's highest energy costs this winter.",
+    "why_it_matters": "Gas and oil are traded globally, so a supply squeeze in Europe and tension in the Middle East can push up fuel and energy costs worldwide. That includes the prices Australians pay at the bowser.",
+    "deep_analysis": "## Historical Context\nThe last time prices were this high was 2022. That year, Russia's full-scale invasion of Ukraine sent European energy costs soaring. As background, Europe had relied heavily on Russian pipeline gas. Since then it has leaned more on imported liquefied gas from suppliers such as Qatar, which makes a slowdown in Qatari exports matter.\n\n## Multiple Perspectives\nTraders are pricing in colder weather and the risk of Middle East disruption. The reports of planned US-Israeli strikes on Iran are not confirmed. UK regulators point to Britain's reliance on imports and its small storage capacity. The article also notes inefficiencies in the UK system: the country has paid to fire up gas plants while paying wind and solar farms to switch off because of grid bottlenecks. Investors seemed calmer. Stock markets rose slightly on Monday as oil prices eased.\n\n## What to Watch\n- Winter temperatures across Europe\n- How quickly storage levels fall from about 75%\n- Any military escalation involving Iran after the US midterms\n- Whether the predicted 16% rise in UK household bills goes ahead in January",
+    "concepts": [
+     {
+      "term": "megawatt-hour",
+      "definition": "A unit of energy equal to one megawatt of power used for one hour, commonly used to price wholesale gas and electricity.",
+      "context": "European gas hit €97 per megawatt-hour."
+     },
+     {
+      "term": "Brent crude benchmark",
+      "definition": "A standard type of oil whose price is used as a global reference point for oil markets.",
+      "context": "Brent stayed above $114 a barrel despite easing on Monday."
+     },
+     {
+      "term": "month ahead contract",
+      "definition": "An agreement to buy gas for delivery next month at a price set now.",
+      "context": "The UK month-ahead contract rose 4% to 240p a therm."
+     },
+     {
+      "term": "dual fuel bill",
+      "definition": "A combined household bill covering both gas and electricity.",
+      "context": "Typical UK dual fuel bills are predicted to reach about £2,000 a year."
+     }
+    ],
+    "quiz": {
+     "question": "Why is the UK considered especially exposed to high gas prices this winter?",
+     "options": [
+      "It has some of Europe's smallest gas stores and relies on imports",
+      "It has banned wind and solar power",
+      "Its gas storage is fuller than the European average",
+      "It gets most of its gas directly from Iran"
+     ],
+     "answer_index": 0,
+     "explanation": "After decades of relying on North Sea gas, the UK built little storage, so it depends on imports and pays more when supplies tighten."
+    },
+    "background_beginner": "Europe uses a lot of gas to heat homes in winter and to make electricity. For years much of it came from Russia. In 2022, Russia's full-scale invasion of Ukraine caused prices to explode, and Europe switched to buying more gas from other places, such as Qatar. Countries store gas over summer so they have enough for winter. When storage is low, the weather turns cold, or conflict threatens supply routes, as in the Middle East, prices jump. That is why this topic comes back every winter.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/275f98d8c2bcb343ced7e3b49bd547734a4db6f9/865_0_6406_5124/master/6406.jpg?width=1920&quality=85&auto=format&fit=max&s=f80b42374235d796c62aff03cca6bf39",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "European wholesale gas prices have jumped to their highest level since 2022, driven by cold weather, low storage and fears of fresh conflict in the Middle East.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-26T13:08:49.411594+00:00",
+    "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
+    "id": "409fa287-ca66-52db-8ce2-8fcebb23599c",
+    "title": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
+    "simplified_title": "Emirati diplomat Lana Nusseibeh joins race for top UN job",
+    "quick_summary": "Lana Nusseibeh, a former United Arab Emirates (UAE) ambassador to the UN known for her Gaza aid work, has entered the race to replace António Guterres as UN secretary general, drawing both praise and fierce criticism.",
+    "simplified_body": "Lana Nusseibeh, who served as the United Arab Emirates (UAE) ambassador to the United Nations (UN), has joined the race to become the next UN secretary general. She's a late entry, saying the Security Council seems close to deadlock on the six remaining candidates after six rounds of voting, the latest on 16 October. She's of Palestinian heritage and has been endorsed by the state of Palestine.\n\nSupporters, including former Biden adviser Brett McGurk, credit her with helping make the UAE the largest global provider of humanitarian aid to Gaza, according to UN data. But human rights activists, including former Human Rights Watch boss Kenneth Roth, attack her for denying reports that the UAE armed the Rapid Support Forces (RSF) in Sudan, a group accused of genocide by two US administrations. A January 2024 UN panel of experts report called allegations of arms smuggling from the UAE to the RSF credible. The UAE denies backing any faction.\n\nThe secretary general is chosen through straw polls in the 15-member Security Council, where the five permanent members can block candidates. Costa Rica's Rebeca Grynspan currently leads, with nine supporters but objections from five members, including two unnamed permanent members. A Latin American and Caribbean group, CELAC (the Community of Latin American and Caribbean States), has formally objected to Nusseibeh's late entry, saying consensus was forming behind their region getting the job.\n\nGuterres steps down at the end of the year, so more voting rounds are expected soon. Other candidates include Rafael Grossi, Carolyn Rodrigues-Birkett, Olara Otunnu and María Fernanda Espinosa.",
+    "why_it_matters": "The secretary general shapes how the UN responds to crises like Gaza and Sudan, and Australia, as a strong backer of the UN system, will be working closely with whoever wins.",
+    "deep_analysis": "## Historical Context\nAs general background, the secretary general is appointed by the General Assembly on the Security Council's recommendation, and there's an informal tradition of rotating the job between regions. Latin America has argued it's its turn, and many have also pushed for the first woman in the role. This race also marks the first straw poll revealing whether permanent members objected to candidates.\n\n## Multiple Perspectives\nBacker Brett McGurk calls Nusseibeh 'an inspired choice', and Nickolay Mladenov, who heads Donald Trump's Gaza Board of Peace, praises her bridge-building. Critics such as Kenneth Roth point to the UAE's domestic human rights record and alleged support for the RSF, which is blamed for thousands of deaths, including at El Fasher. The UAE denies supplying weapons and says it supports a civilian-led government in Sudan. CELAC sees her entry as disrupting an emerging regional consensus.\n\n## What to Watch\nWatch upcoming straw polls for whether Nusseibeh avoids permanent-member objections, whether Grynspan's opposition hardens, and whether pressure over Sudan grows. A decision is needed before Guterres leaves at year's end.",
+    "concepts": [
+     {
+      "term": "straw polls",
+      "definition": "Informal, secret test votes the Security Council holds to see which candidates have support or face objections.",
+      "context": "Grynspan leads the latest straw poll but faces objections from five members."
+     },
+     {
+      "term": "permanent members",
+      "definition": "The five countries with permanent Security Council seats and the power to veto decisions, including the choice of secretary general.",
+      "context": "Objections from two permanent members make Grynspan's path harder."
+     },
+     {
+      "term": "Rapid Support Forces (RSF)",
+      "definition": "A Sudanese paramilitary group led by Mohamed Hamdan 'Hemedti' Dagalo, fighting in Sudan's civil war.",
+      "context": "The UAE's alleged arming of the RSF is the main criticism of Nusseibeh."
+     }
+    ],
+    "quiz": {
+     "question": "Why does it matter that Rebeca Grynspan faced objections from two permanent Security Council members?",
+     "options": [
+      "Permanent members choose the winner alone without other votes",
+      "It means she has been disqualified from the race",
+      "It shows she has the most support in the General Assembly",
+      "Permanent members can effectively block a candidate, so their objections weaken her chances"
+     ],
+     "answer_index": 3,
+     "explanation": "Even with nine supporters, objections from permanent members, who hold veto power, make it hard for her to be a consensus candidate."
+    },
+    "background_beginner": "The United Nations is the world's main club of countries, and its leader is called the secretary general. António Guterres has held the job and leaves at the end of this year, so countries are choosing a replacement. The decision mostly happens in the Security Council, a group of 15 countries where five powerful members, the US, China, Russia, the UK and France, can block anyone. Candidates are tested in secret practice votes. It keeps coming up because the choice is political: regions argue about whose turn it is, and each candidate's record on wars like Gaza and Sudan gets put under the microscope.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/98a81df6f55fb9ab99a50af7c6007f18f3025042/917_0_4583_3667/master/4583.jpg?width=1920&quality=85&auto=format&fit=max&s=37af4b1909c996552b09e2d28d983115",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "Lana Nusseibeh, a former United Arab Emirates (UAE) ambassador to the UN known for her Gaza aid work, has entered the race to replace António Guterres as UN secretary general, drawing both praise and fierce criticism.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-26T13:09:06.211446+00:00",
+    "published_date": "2026-10-26",
+    "has_fulltext": true
+   },
+   {
     "id": "4f7a4ff5-dd74-5a2d-812b-56d66787bbe6",
     "title": "How Turkey's deal on Mediterranean maritime boundaries with Libya exacerbates a longtime feud with Greece",
     "simplified_title": "Eastern Libya backs Turkey sea deal, angering Greece and the EU",
@@ -1273,127 +1326,72 @@
     "created_at": "2026-10-25T12:39:19.890263+00:00",
     "published_date": "2026-10-25",
     "has_fulltext": true
-   },
+   }
+  ],
+  "ADF": [
    {
-    "id": "113847ed-f5c1-5869-b285-d2cef2b6cb50",
-    "title": "US lifts tariffs on some Canadian goods before midterm elections",
-    "simplified_title": "US eases some Canada tariffs just before midterm elections",
-    "quick_summary": "Two weeks before the US midterm elections, the Trump administration is lifting its 50% tariffs on some Canadian goods like plywood and farm equipment, while adding new ones on items like carpets, after Maine Senator Susan Collins lobbied for relief.",
-    "simplified_body": "The White House says that from 30 October it will ease its 50% tariffs on some Canadian products, including \"plywood sheets, some paper products, certain machinery and refrigeration equipment\" and some packing crates and boxes. At the same time, it's adding new tariffs on other items such as carpets, certain valves and \"waste products\".\n\nThe change matters most to US states that trade heavily with Canada. Republican Senator Susan Collins, who is in a tight race to keep her seat in Maine, says she lobbied senior Trump officials for the relief. She says the goods are crucial to Maine's blueberry, potato, apple and seaweed producers. Her Democratic challenger, Troy Jackson, says she helped enable the trade war in the first place.\n\nSome background: the US put a 50% tariff on $20bn worth of Canadian goods after trade talks collapsed in August. Canadian Prime Minister Mark Carney hit back \"dollar for dollar\" with retaliatory tariffs. Trump says Canada treats US car, dairy and alcohol exports unfairly. The midterm elections, held halfway through a president's term, will decide whether Republicans or Democrats control Congress for Trump's last two years.\n\nWhat's next? Trump says Canada is \"working very hard\" on a deal. Carney says Canada could sign \"this afternoon\" if the US were ready, but is willing to wait months, or even for another administration. Canada's minister Dominic LeBlanc says Canada is assessing the changes.",
-    "why_it_matters": "It shows how tariffs can shift for political reasons right before an election, a reminder for trade-reliant countries like Australia that US trade policy can change quickly and unpredictably.",
-    "deep_analysis": "## Historical Context\nAccording to DW, Washington and Ottawa have been in a trade dispute since Trump returned to the White House last year, escalating when talks broke down in August. BBC notes a Canada-US advisory committee has met nine times since April 2026. As general background, the US and Canada have long been deeply integrated trading partners, and Collins herself calls Canada the US's largest trading partner.\n\n## Multiple Perspectives\n- **White House:** frames the move as defending American workers and addressing Canada's \"discriminatory treatment\" of US commerce, while reducing the burden on US commerce.\n- **Susan Collins:** says Maine farmers rely on Canadian equipment and packaging they can't easily replace, and wants a broader deal.\n- **Troy Jackson:** argues Collins enabled the trade war and is now seeking credit for a small fix.\n- **Canada:** Carney and LeBlanc say they're open to a fair deal but willing to wait. Carney has also sought closer ties with Europe.\n- **Other Republicans:** Michigan's Mike Rogers has called on Trump to end the standoff after earlier backing the policy.\n\n## What to Watch\n- Whether the midterm results shift US trade policy.\n- Whether more exemptions follow, as Collins says she'll keep pushing.\n- How Canada responds to the new tariffs on carpets, valves and waste products.\n- Whether talks produce a broader deal, or Canada waits for a different administration.",
+    "id": "6272ded1-3132-5ab8-a312-26a1a5295437",
+    "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+    "simplified_title": "Cyber agency warns Australians to expect more sudden online outages",
+    "quick_summary": "Australia's signals intelligence agency says AI is making cyber threats more dangerous, so organisations should put security ahead of keeping services online, even if that means unexpected outages.",
+    "simplified_body": "The Australian Signals Directorate (ASD), the nation's signals intelligence agency, has released its annual cyber threat report. It warns Australians to prepare for basic and important online services to go offline unexpectedly, because \"system security must be prioritised over system availability\". ASD responded to 1,500 cybersecurity incidents in 2025-26, up 20% on the year before. It also notified businesses, governments and critical infrastructure of more than 4,400 potential malicious incidents, up 80%.\n\nThis affects everyone who relies on online services, plus every organisation that runs them. ASD says hostile foreign governments, criminals and hackers are using artificial intelligence (AI) to gather intelligence, disrupt critical infrastructure and steal money. It also says \"state-based actors\" in the Indo-Pacific made persistent breach attempts, possibly to prepare for future conflicts. Cybersecurity is now a \"core business risk and leadership responsibility\", not just a tech problem.\n\nA big weak spot is legacy technology: old systems or devices that no longer get updates from their makers. ASD director general Abigail Bradshaw says these are among the most attractive targets for hackers. Just last week, newly found flaws in PHP, a programming language behind most websites, sent governments and businesses scrambling to fix them.\n\nASD's answer is to \"fight fire with fire\" by using cutting-edge AI to automate defences. Bradshaw has previously said ASD has access to Anthropic's Mythos model, a powerful AI tool not released publicly because it can find unknown flaws in IT systems. Expect more organisations to take services offline while they patch and modernise.",
+    "why_it_matters": "If your bank, government portal or favourite app suddenly goes down, it may be a deliberate choice to stay secure. ASD is signalling that Australians should get used to that trade-off as AI-powered attacks rise.",
+    "deep_analysis": "## Historical Context\nASD publishes a cyber threat report each year. This one shows incidents responded to rising 20% and notifications to outside organisations rising 80%. As background, Australia has suffered several major data breaches in recent years, which pushed cybersecurity higher up the political agenda.\n\n## Multiple Perspectives\nASD, Defence Minister Richard Marles and Home Affairs and Cybersecurity Minister Tony Burke all frame AI as both threat and tool, arguing defenders must use frontier models to keep up. ASD's claims that Indo-Pacific state actors may be preparing for future conflict are its own assessment and not independently verified in the report coverage. The call to put security over availability may frustrate users and businesses who depend on constant uptime, and outages carry their own costs.\n\n## What to Watch\n- Whether more services go offline for security patching.\n- How government agencies use frontier AI models like Mythos, and their partnerships with AI labs.\n- Progress replacing legacy technology in government and business.\n- Fallout from the PHP vulnerabilities.",
     "concepts": [
      {
-      "term": "tariffs",
-      "definition": "Taxes a government charges on goods imported from another country.",
-      "context": "The US charges a 50% tariff on some Canadian goods, making them pricier for American buyers."
+      "term": "legacy technology",
+      "definition": "Outdated systems or devices that their makers no longer support with updates.",
+      "context": "ASD says these are among the biggest risks and most attractive hacker targets."
      },
      {
-      "term": "retaliatory tariffs",
-      "definition": "Tariffs a country imposes in response to another country's tariffs.",
-      "context": "Canada matched the US tariffs \"dollar for dollar\" after talks collapsed."
+      "term": "critical infrastructure",
+      "definition": "Essential systems society runs on, such as power, water, communications and transport.",
+      "context": "ASD says attackers are using AI to try to disrupt it."
      },
      {
-      "term": "midterm elections",
-      "definition": "US elections held halfway through a president's four-year term that decide who controls Congress.",
-      "context": "They will decide whether Republicans or Democrats control Congress for Trump's final two years."
+      "term": "state-based actors",
+      "definition": "Hackers working for or backed by foreign governments.",
+      "context": "ASD says they made persistent breach attempts on Australian networks."
+     },
+     {
+      "term": "signals intelligence",
+      "definition": "Intelligence gathered from electronic communications and signals.",
+      "context": "ASD is Australia's signals intelligence agency and also leads on cyber defence."
      }
     ],
     "quiz": {
-     "question": "Why is the timing of this tariff change drawing attention?",
+     "question": "Why does ASD say Australians should expect more unexpected online outages?",
      "options": [
-      "It was requested by Canada's Prime Minister",
-      "It removed every tariff on Canadian goods",
-      "It came right after Canada signed a new trade deal with the US",
-      "It came two weeks before midterm elections, after a senator in a tight race lobbied for it"
+      "Because AI tools use too much electricity",
+      "Because organisations should prioritise securing systems over keeping them online",
+      "Because the government plans to shut down the internet during conflicts",
+      "Because PHP is being banned in Australia"
      ],
-     "answer_index": 3,
-     "explanation": "The easing was announced less than a fortnight before the midterms, and Susan Collins, in a close race in Maine, said she had pushed for it. No deal has been signed and some new tariffs were added."
+     "answer_index": 1,
+     "explanation": "ASD and Marles said security should come before availability, which may mean services go offline while they're secured."
     },
-    "impact_score": 55,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "Two weeks before the US midterm elections, the Trump administration is lifting its 50% tariffs on some Canadian goods like plywood and farm equipment, while adding new ones on items like carpets, after Maine Senator Susan Collins lobbied for relief.",
+    "background_beginner": "The Australian Signals Directorate is a government agency that collects intelligence from electronic signals and helps protect Australia from cyber attacks. Every year it reports on the threats it has seen. Attackers range from scammers stealing money to hackers working for foreign governments trying to spy or disrupt essential services. The topic keeps coming up because almost everything, from banking to hospitals, now runs online, and old, unpatched systems are easy targets. Now artificial intelligence is making attacks faster and smarter, so defenders are turning to AI too, creating a kind of digital arms race.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/a87ce9bdb5e94c4f30932078f5f45eda44e1da12/559_205_4047_3240/master/4047.jpg?width=1920&quality=85&auto=format&fit=max&s=dd1b3173d04b909c0c54532d7ac5fb5d",
+    "region": "Australian defence, ADF, AUKUS, regional security",
+    "region_code": "ADF",
+    "description": "Australia's signals intelligence agency says AI is making cyber threats more dangerous, so organisations should put security ahead of keeping services online, even if that means unexpected outages.",
     "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
+    "category": "SCIENCE_TECH",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-25T06:18:14.800165+00:00",
-    "published_date": "2026-10-25",
-    "has_fulltext": true
-   },
-   {
-    "id": "99d587e3-6919-5206-8dd3-070c4971e84a",
-    "title": "Trump announces Audi will build $4 billion factory in US state of Georgia",
-    "simplified_title": "Audi to build $4 billion SUV factory in Georgia, Trump says",
-    "quick_summary": "US President Donald Trump announced that German carmaker Audi will build a US$4 billion factory in Georgia to make 200,000 SUVs a year, crediting his tariffs for the decision.",
-    "simplified_body": "At a campaign rally in Perry, Georgia, on Saturday, US President Donald Trump announced that German carmaker Audi will build a US$4 billion (€3.77 billion) assembly plant in the state. He said it will produce 200,000 SUVs (sport utility vehicles) a year, and credited his tariff policies for the decision.\n\nAudi, which is owned by Volkswagen, says the plant will create about 4,500 jobs. A US official told Reuters it is expected to build the Audi Q7, Q8 and Q9 SUVs. Construction is scheduled to start next year, but cars won't roll off the line until the early 2030s, so the jobs and cars are a long way off.\n\nSome background: Trump has pushed companies to move production to the US, including through sweeping tariffs on car imports. Those tariffs cost Audi €1.2 billion (US$1.4 billion) last year, which gives a sense of why building cars inside the US might appeal to the company.\n\nThe timing is political. Georgia is a battleground state, and the midterm elections are on November 3. Republicans are bracing for losses amid rising prices and the ongoing war in Iran, and Trump is trying to show he has delivered on his promise to revive American manufacturing. Whether the announcement shifts votes, and whether the plant is built on schedule, remains to be seen.",
-    "why_it_matters": "It shows how tariffs can push global companies to relocate factories rather than just raise prices. There's no direct Australian angle in the source, but it's a clear example of US trade policy reshaping where big multinationals invest.",
-    "deep_analysis": "## Historical Context\nAccording to the source, Trump has used sweeping tariffs on car imports to pressure companies into producing in the US, and those tariffs cost Audi €1.2 billion last year. As general background, foreign carmakers have long built plants in the American South, and governments have often used tariffs to try to attract local manufacturing.\n\n## Multiple Perspectives\nTrump credits his tariffs directly for Audi's decision and frames it as a manufacturing win. Audi has confirmed the investment, timeline and roughly 4,500 jobs, though the source doesn't report Audi explaining its reasons. Critics might note the announcement's timing: it came at a rally in a battleground state ahead of midterms where Republicans expect losses over rising prices and the Iran war. As background, sceptics of tariffs generally argue they raise costs for consumers, which links to the price concerns mentioned.\n\n## What to Watch\n- Whether construction actually starts next year as scheduled.\n- Production slated for the early 2030s, long after the November 3 midterms.\n- How the midterm results in Georgia play out.\n- Whether other foreign carmakers make similar announcements.",
-    "concepts": [
-     {
-      "term": "tariff",
-      "definition": "A tax a government charges on goods imported from other countries.",
-      "context": "Trump's tariffs on imported cars cost Audi €1.2 billion last year, and he says they drove the decision to build in the US."
-     },
-     {
-      "term": "battleground state",
-      "definition": "A US state where elections are close, so either party could win it.",
-      "context": "Georgia is one, which is why Trump made the announcement at a rally there."
-     },
-     {
-      "term": "midterm elections",
-      "definition": "US elections held halfway through a president's four-year term, deciding seats in Congress.",
-      "context": "The midterms are on November 3, and Republicans are bracing for losses."
-     }
-    ],
-    "quiz": {
-     "question": "Why might making cars inside the US appeal to Audi, based on the article?",
-     "options": [
-      "US tariffs on imported cars have cost Audi a lot of money",
-      "Germany has banned SUV production",
-      "Georgia is offering free land to all carmakers",
-      "Volkswagen is closing all its European factories"
-     ],
-     "answer_index": 0,
-     "explanation": "The article says Trump's tariffs on car imports cost Audi €1.2 billion last year; building in the US avoids those import taxes. The other options aren't in the source."
-    },
-    "impact_score": 55,
-    "image_url": "https://static.dw.com/image/74909685_6.jpg",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "US President Donald Trump announced that German carmaker Audi will build a US$4 billion factory in Georgia to make 200,000 SUVs a year, crediting his tariffs for the decision.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-10-25T06:18:28.352025+00:00",
-    "published_date": "2026-10-25",
+    "reading_minutes": 3,
+    "created_at": "2026-10-26T13:08:49.819575+00:00",
+    "published_date": "2026-10-26",
     "has_fulltext": true
-   }
-  ],
-  "ADF": [
+   },
    {
     "id": "bdf6a832-0205-51d1-a506-b494bcca86d2",
     "title": "We want you! ADF recruitment rates are growing, even as the odds of conflict rise. Why are people signing up?",
