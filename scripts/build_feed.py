@@ -20,6 +20,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import math
 import os
 import random
 import re
@@ -60,10 +61,17 @@ FEEDS: list[tuple[str, str]] = [
     ("The Guardian", "https://www.theguardian.com/australia-news/rss"),
     ("The Guardian", "https://www.theguardian.com/world/rss"),
     ("The Guardian", "https://www.theguardian.com/technology/rss"),
+    ("The Guardian", "https://www.theguardian.com/environment/rss"),
     ("The Conversation", "https://theconversation.com/au/articles.atom"),
+    ("ABC News", "https://www.abc.net.au/news/feed/9167762/rss.xml"),  # health
+    ("ABC News", "https://www.abc.net.au/news/feed/2942460/rss.xml"),  # science
+    ("RNZ", "https://www.rnz.co.nz/rss/national.xml"),
+    ("RNZ", "https://www.rnz.co.nz/rss/pacific.xml"),
     ("BBC News", "https://feeds.bbci.co.uk/news/world/rss.xml"),
     ("BBC News", "https://feeds.bbci.co.uk/news/business/rss.xml"),
     ("BBC News", "https://feeds.bbci.co.uk/news/technology/rss.xml"),
+    ("BBC News", "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"),
+    ("BBC News", "https://feeds.bbci.co.uk/news/health/rss.xml"),
     ("BBC News", "https://feeds.bbci.co.uk/news/world/asia/rss.xml"),
     ("BBC News", "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"),
     ("BBC News", "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml"),
@@ -91,6 +99,12 @@ CATEGORIES = [
     "POLITICS_POLICY", "ECONOMY_MARKETS", "SCIENCE_TECH", "SOCIETY_CULTURE",
     "ENVIRONMENT_CLIMATE", "CRIME_SAFETY", "HEALTH",
 ]
+
+# Edition balance (enforced in code after the editor's picks, not just asked for in the prompt)
+OUTLET_SHARE = 0.20      # no single outlet supplies more than ~20% of an edition
+POLITICS_SHARE = 0.35    # politics is capped so other beats get room
+WANTED_CATEGORIES = ["ECONOMY_MARKETS", "SCIENCE_TECH", "ENVIRONMENT_CLIMATE", "HEALTH"]
+REGION_MINIMUMS = {"OCEANIA": 5}  # reader is in Brisbane; overrides --min-per-region
 
 client = anthropic.Anthropic()
 
@@ -192,7 +206,11 @@ SELECT_SCHEMA = {
 
 
 def select(
-    items: list[dict], per_region: int, existing: list[dict] | None = None, needs: dict[str, int] | None = None
+    items: list[dict],
+    per_region: int,
+    existing: list[dict] | None = None,
+    needs: dict[str, int] | None = None,
+    missing_categories: list[str] | None = None,
 ) -> list[dict]:
     lines = "\n".join(
         f"[{i}] ({it['source']}) {it['title']} — {it['summary'][:160]}" for i, it in enumerate(items)
@@ -214,11 +232,17 @@ is the right answer on a quiet news cycle. At most {per_region} per region. List
 Some regions are thin and must be topped up so every section has something to read: {thin}.
 For those regions only, pick the best available uncovered stories even if they are less major."""
     else:
-        task = f"Pick up to {per_region} stories per region that matter most."
+        task = f"Pick up to {per_region} stories per region that matter most, plus up to 2 extra per region as reserves."
+    if missing_categories:
+        task += f"""
+
+The edition is short on these beats: {", ".join(missing_categories)}. If a genuinely newsworthy story on one
+of them exists below, include it."""
     prompt = f"""You are the editor of a daily news-learning app for a young Australian in Brisbane.
 Below are the latest real headlines from free outlets. {task}
 Favour broad impact, real consequences, genuinely new developments. Skip sport results, celebrity, live blogs,
-quizzes, opinion columns and minor crime. Each story must appear only once (pick the best-sourced item as
+quizzes, opinion columns and minor crime. Don't let politics crowd out economy, science, environment and
+health stories of similar weight, and spread picks across outlets. Each story must appear only once (pick the best-sourced item as
 `index`; put other items covering the SAME event in `also`).
 
 Regions:
@@ -231,6 +255,57 @@ Headlines:
     valid = [p for p in picks if 0 <= p["index"] < len(items) and items[p["index"]]["url"] not in known]
     print(f"  selected {len(valid)} stories")
     return valid
+
+
+def balance(
+    picks: list[dict],
+    items: list[dict],
+    existing: list[dict],
+    needs: dict[str, int] | None = None,
+    limit: int | None = None,
+) -> list[dict]:
+    """Enforce outlet and politics caps over the projected edition, keeping the editor's order.
+
+    picks arrive most-important first. A pick that would push an outlet past OUTLET_SHARE or politics
+    past POLITICS_SHARE is held back; held picks only come back to fill regions that still need stories.
+    """
+    want = limit if limit is not None else len(picks)
+    size = len(existing) + min(want, len(picks))
+    outlet_cap = max(1, math.ceil(OUTLET_SHARE * size))
+    politics_cap = max(1, math.ceil(POLITICS_SHARE * size))
+
+    outlets: dict[str, int] = {}
+    for s in existing:
+        name = (s.get("sources") or [{}])[0].get("name")
+        outlets[name] = outlets.get(name, 0) + 1
+    politics = sum(s.get("category") == "POLITICS_POLICY" for s in existing)
+    region_need = dict(needs or {})
+
+    chosen: list[dict] = []
+    held: list[dict] = []
+    for p in picks:
+        src = items[p["index"]]["source"]
+        is_politics = p["category"] == "POLITICS_POLICY"
+        if outlets.get(src, 0) >= outlet_cap or (is_politics and politics >= politics_cap):
+            held.append(p)
+            continue
+        chosen.append(p)
+        outlets[src] = outlets.get(src, 0) + 1
+        politics += is_politics
+        if region_need.get(p["region_code"]):
+            region_need[p["region_code"]] -= 1
+
+    # Thin regions beat the caps: better a slightly lopsided edition than an empty section
+    for p in held:
+        if region_need.get(p["region_code"], 0) > 0:
+            chosen.append(p)
+            region_need[p["region_code"]] -= 1
+
+    order = {id(p): i for i, p in enumerate(picks)}
+    chosen.sort(key=lambda p: order[id(p)])
+    if len(chosen) != len(picks):
+        print(f"  balance: kept {len(chosen)}/{len(picks)} picks (outlet cap {outlet_cap}, politics cap {politics_cap})")
+    return chosen[:want] if limit is not None else chosen
 
 
 # ── 3. Fetch full text ───────────────────────────────────────────────────────
@@ -305,17 +380,20 @@ WRITE_SCHEMA = {
             "additionalProperties": False,
         },
         "impact_score": {"type": "integer"},
+        "background_beginner": {"type": "string"},
     },
     "required": [
         "simplified_title", "quick_summary", "simplified_body", "why_it_matters",
-        "deep_analysis", "concepts", "quiz", "impact_score",
+        "deep_analysis", "concepts", "quiz", "impact_score", "background_beginner",
     ],
     "additionalProperties": False,
 }
 
 WRITE_RULES = """Write in Australian English, friendly and clear, like a smart older sibling.
 Use ONLY facts stated in the source articles below. Never invent numbers, quotes, names or dates.
-If sources disagree, say so.
+If sources disagree, say so. State settled, well-established facts plainly; only attribute or hedge
+("X says", "reportedly") for claims that are disputed, unverified or brand new. Never open a section with
+"According to the sources".
 
 - simplified_title: plain-language headline, max 12 words.
 - quick_summary: one sentence.
@@ -326,7 +404,9 @@ If sources disagree, say so.
   "## What to Watch". General background knowledge is allowed here but keep it clearly framed as background.
 - concepts: 2-4 terms a newcomer wouldn't know (term must appear verbatim in simplified_body).
 - quiz: one multiple-choice question (4 options) that checks understanding, not trivia.
-- impact_score: 0-100 (breadth, severity, novelty)."""
+- impact_score: 0-100 (breadth, severity, novelty).
+- background_beginner: 60-120 words for someone who has never heard of this topic: who the main players
+  are, how it started, and why it keeps coming up. No jargon; general background knowledge is fine here."""
 
 
 def shuffle_quiz(quiz: dict, seed: str) -> dict:
@@ -352,7 +432,7 @@ def write_story(pick: dict, articles: list[dict]) -> dict:
     return {
         "id": story_id,
         "title": lead["title"],
-        **{k: out[k] for k in ("simplified_title", "quick_summary", "simplified_body", "why_it_matters", "deep_analysis", "concepts", "quiz")},
+        **{k: out[k] for k in ("simplified_title", "quick_summary", "simplified_body", "why_it_matters", "deep_analysis", "concepts", "quiz", "background_beginner")},
         "impact_score": max(0, min(100, out["impact_score"])),
         "image_url": next((a["image"] for a in articles if a["image"]), None),
         "region": REGIONS[pick["region_code"]],
@@ -379,8 +459,13 @@ LINK_SCHEMA = {
             "type": "array",
             "items": {
                 "type": "object",
-                "properties": {"id": {"type": "string"}, "related": {"type": "array", "items": {"type": "string"}}},
-                "required": ["id", "related"],
+                "properties": {
+                    "id": {"type": "string"},
+                    "related": {"type": "array", "items": {"type": "string"}},
+                    "shared_subject": {"type": "string"},
+                    "confidence": {"type": "number"},
+                },
+                "required": ["id", "related", "shared_subject", "confidence"],
                 "additionalProperties": False,
             },
         }
@@ -396,7 +481,25 @@ GROUP_SCHEMA = {
 }
 SAME_THREAD = """Two stories belong to the same thread only if they cover the same ongoing event or
 saga (the same war, court case, election, outbreak, negotiation, company crisis). Sharing a topic or a
-country is not enough."""
+country is not enough, and neither is a knock-on effect (an oil price move caused by a war is not part of
+the war's thread unless the story is mainly about the war)."""
+
+LINK_CONFIDENCE = 0.75
+_NOT_NAMES = {
+    "The", "A", "An", "In", "On", "At", "As", "After", "Before", "Why", "How", "What", "New", "More", "Its",
+    "This", "That", "Over", "Amid", "With", "From", "For", "And", "But", "Says", "Is", "Are", "Of", "To", "By",
+}
+
+
+def _names(s: dict) -> set[str]:
+    """Rough proper-noun set from a story's headline + summary, used as a cheap same-subject check."""
+    text = f"{s.get('simplified_title', '')} {s.get('title', '')} {s.get('quick_summary', '')}"
+    return {w for w in re.findall(r"\b[A-Z][a-zA-Z'-]{2,}\b", text) if w not in _NOT_NAMES}
+
+
+def thread_link_ok(target: dict, earlier: dict, confidence: float) -> bool:
+    """Keep a suggested thread link only if the model is confident and the stories share a named subject."""
+    return confidence >= LINK_CONFIDENCE and bool(_names(target) & _names(earlier))
 
 
 def _story_line(s: dict) -> str:
@@ -422,7 +525,8 @@ def link_threads(targets: list[dict], pool: list[dict]) -> None:
         return
     prompt = f"""{SAME_THREAD}
 
-For each NEW story, list the ids of EARLIER stories in the same thread. Most stories have none;
+For each NEW story, list the ids of EARLIER stories in the same thread, name the shared subject
+(e.g. "US-Iran war"), and give your confidence 0-1 that they are the same saga. Most stories have none;
 return an empty list for those.
 
 EARLIER stories (id | date | headline — summary):
@@ -435,12 +539,17 @@ NEW stories:
     except Exception as ex:  # threads are a nice-to-have; never fail the run over them
         print(f"  ! thread linking skipped: {ex}")
         return
-    valid = {p["id"] for p in pool}
+    pool_by_id = {p["id"]: p for p in pool}
     by_id = {t["id"]: t for t in targets}
     linked = 0
     for link in links:
         target = by_id.get(link["id"])
-        related = [r for r in link["related"] if r in valid]
+        if target is None:
+            continue
+        related = [
+            r for r in link["related"]
+            if r in pool_by_id and thread_link_ok(target, pool_by_id[r], link["confidence"])
+        ]
         if target is not None and related:
             target["related_story_ids"] = sorted(set(target.get("related_story_ids") or []) | set(related))
             linked += 1
@@ -537,11 +646,23 @@ def main() -> None:
     if existing:
         for code in REGIONS:
             have = sum(s["region_code"] == code for s in existing)
-            if have < args.min_per_region:
-                needs[code] = args.min_per_region - have
-    picks = select(items, args.per_region if not existing else 2, existing, needs)
+            floor = REGION_MINIMUMS.get(code, args.min_per_region)
+            if have < floor:
+                needs[code] = floor - have
+    covered = {s.get("category") for s in existing}
+    missing = [c for c in WANTED_CATEGORIES if c not in covered]
+    picks = select(items, args.per_region if not existing else 2, existing, needs, missing)
     if existing:
-        picks = picks[: args.new_max + sum(needs.values())]
+        picks = balance(picks, items, existing, needs, limit=args.new_max + sum(needs.values()))
+    else:
+        picks = balance(picks, items, [], {c: REGION_MINIMUMS.get(c, args.min_per_region) for c in REGIONS})
+        per: dict[str, int] = {}
+        trimmed = []
+        for p in picks:  # reserves only survive where a region's first choices were held back
+            per[p["region_code"]] = per.get(p["region_code"], 0) + 1
+            if per[p["region_code"]] <= max(args.per_region, REGION_MINIMUMS.get(p["region_code"], 0)):
+                trimmed.append(p)
+        picks = trimmed
 
     print("3/4 fetching full articles")
 
