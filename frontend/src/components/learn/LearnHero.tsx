@@ -17,8 +17,10 @@ function SplitTitle({ text, className = "" }: { text: string; className?: string
   return (
     <h1 className={`split ${className}`}>
       {text.split(/\s+/).map((w, i) => (
-        <span key={i} className="w">
-          <span style={{ ["--i" as string]: i }}>{w}</span>
+        <span key={i}>
+          <span className="w">
+            <span style={{ ["--i" as string]: i }}>{w}</span>
+          </span>{" "}
         </span>
       ))}
     </h1>

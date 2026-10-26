@@ -42,12 +42,15 @@ export default function NewsImage({ src, sizes, className = "", priority, fallba
     return <img {...common} src={src} onError={() => setStage("failed")} />;
   }
 
+  // Wikimedia URLs skip the proxy, so every width resolves to the same URL — no srcSet needed
+  const renditions = [...new Set(WIDTHS.map((w) => proxied(src!, w)))];
+
   return (
     // eslint-disable-next-line @next/next/no-img-element
     <img
       {...common}
-      src={proxied(src, 800)}
-      srcSet={WIDTHS.map((w) => `${proxied(src, w)} ${w}w`).join(", ")}
+      src={renditions[0]}
+      srcSet={renditions.length > 1 ? renditions.map((u, i) => `${u} ${WIDTHS[i]}w`).join(", ") : undefined}
       sizes={sizes}
       onError={() => setStage("original")}
     />

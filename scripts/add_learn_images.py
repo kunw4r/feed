@@ -85,7 +85,7 @@ def scaled(url: str, width: int) -> str | None:
         return None
     name = m.group(3)
     rendered = {"svg": ".png", "pdf": ".jpg", "djvu": ".jpg"}.get(name.rsplit(".", 1)[-1].lower(), "")
-    return f"{m.group(1)}thumb/{m.group(2)}{width}px-{name}{rendered}"
+    return f"{m.group(1)}thumb/{m.group(2)}{name}/{width}px-{name}{rendered}"
 
 
 def pick_image(summary: dict) -> dict | None:
