@@ -138,5 +138,12 @@
     "Should governments always bail out failing banks, or should they let them fail so people learn not to take risks? What would happen if they didn't?",
     "How might the 2008 crisis have been prevented? What rules or regulations would have helped?"
   ],
-  "slug": "financial-crisis-2008"
+  "slug": "financial-crisis-2008",
+  "hero_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lehman_Brothers_Times_Square_by_David_Shankbone.jpg",
+    "width": 2448,
+    "height": 3264,
+    "credit": "Wikimedia Commons (2008 financial crisis)",
+    "source_url": "https://en.wikipedia.org/wiki/2008_financial_crisis"
+  }
 }

@@ -250,5 +250,12 @@
     "The Space Race cost billions of dollars. Was it worth spending that much money to prove which system was better, or should that money have been spent on schools and hospitals instead?",
     "Today, Russia and the US are still rivals, and China is becoming a new superpower. Do you think we could have another Cold War, or have we learned from history?"
   ],
-  "slug": "cold-war"
+  "slug": "cold-war",
+  "hero_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/1920px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png",
+    "width": 1920,
+    "height": 1920,
+    "credit": "Wikimedia Commons (Cold War)",
+    "source_url": "https://en.wikipedia.org/wiki/Cold_War"
+  }
 }

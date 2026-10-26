@@ -6,7 +6,8 @@ import { Story, CardStory, Concept, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib
 import { markRead, useProgress } from "@/lib/progress";
 import { Reveal, InkText } from "@/components/motion";
 import QuizBlock from "./QuizBlock";
-import NewsImage, { proxied } from "@/components/NewsImage";
+import NewsImage from "@/components/NewsImage";
+import { proxied } from "@/lib/images";
 import OriginalReporting from "./OriginalReporting";
 
 const WPM = 230;

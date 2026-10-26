@@ -164,5 +164,12 @@
     "Brexit made trade between Britain and Europe more difficult. Is it worth making trade harder if it means a country has more control over its own rules? Why or why not?",
     "How might Brexit affect your future if you wanted to work or study in Britain? Would it change your plans?"
   ],
-  "slug": "brexit"
+  "slug": "brexit",
+  "hero_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Location_map_of_the_United_Kingdom_and_the_European_Union.svg/1920px-Location_map_of_the_United_Kingdom_and_the_European_Union.svg.png",
+    "width": 1920,
+    "height": 1962,
+    "credit": "Wikimedia Commons (Brexit)",
+    "source_url": "https://en.wikipedia.org/wiki/Brexit"
+  }
 }

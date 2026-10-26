@@ -2,41 +2,97 @@
   {
     "slug": "financial-crisis-2008",
     "title": "The 2008 Global Financial Crisis",
-    "subtitle": "How banks' risky bets crashed the world economy and affected millions of ordinary people"
+    "subtitle": "How banks' risky bets crashed the world economy and affected millions of ordinary people",
+    "hero_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lehman_Brothers_Times_Square_by_David_Shankbone.jpg",
+      "width": 2448,
+      "height": 3264,
+      "credit": "Wikimedia Commons (2008 financial crisis)",
+      "source_url": "https://en.wikipedia.org/wiki/2008_financial_crisis"
+    }
   },
   {
     "slug": "the-great-depression",
     "title": "The Great Depression: When the World's Economy Collapsed",
-    "subtitle": "How a stock market crash in 1929 led to the worst economic crisis in modern history, affecting millions worldwide including Australians."
+    "subtitle": "How a stock market crash in 1929 led to the worst economic crisis in modern history, affecting millions worldwide including Australians.",
+    "hero_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone%2C_02-1931_-_NARA_-_541927.jpg",
+      "width": 2939,
+      "height": 2392,
+      "credit": "Wikimedia Commons (Great Depression)",
+      "source_url": "https://en.wikipedia.org/wiki/Great_Depression"
+    }
   },
   {
     "slug": "cold-war",
     "title": "The Cold War: When Two Superpowers Nearly Destroyed the World",
-    "subtitle": "How the US and Soviet Union became enemies after WWII and shaped the world for 45 years."
+    "subtitle": "How the US and Soviet Union became enemies after WWII and shaped the world for 45 years.",
+    "hero_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/1920px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png",
+      "width": 1920,
+      "height": 1920,
+      "credit": "Wikimedia Commons (Cold War)",
+      "source_url": "https://en.wikipedia.org/wiki/Cold_War"
+    }
   },
   {
     "slug": "covid-19-pandemic",
     "title": "COVID-19: The Pandemic That Changed Everything (2020-2023)",
-    "subtitle": "How a virus shut down the world, changed how we work, and sparked fierce debates about freedom and safety."
+    "subtitle": "How a virus shut down the world, changed how we work, and sparked fierce debates about freedom and safety.",
+    "hero_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Covid-19_SP_-_UTI_V._Nova_Cachoeirinha.jpg",
+      "width": 2400,
+      "height": 1602,
+      "credit": "Wikimedia Commons (COVID-19 pandemic)",
+      "source_url": "https://en.wikipedia.org/wiki/COVID-19_pandemic"
+    }
   },
   {
     "slug": "september-11",
     "title": "September 11 and the War on Terror: How One Day Changed the World",
-    "subtitle": "Understanding the 2001 attacks, the global response, and why their effects still shape our world today."
+    "subtitle": "Understanding the 2001 attacks, the global response, and why their effects still shape our world today.",
+    "hero_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/WTC_smoking_on_9-11.jpeg",
+      "width": 1600,
+      "height": 1200,
+      "credit": "Wikimedia Commons (September 11 attacks)",
+      "source_url": "https://en.wikipedia.org/wiki/September_11_attacks"
+    }
   },
   {
     "slug": "brexit",
     "title": "Brexit: Why Britain Left the European Union",
-    "subtitle": "How a 2016 vote changed Britain's relationship with Europe and what it means for the world."
+    "subtitle": "How a 2016 vote changed Britain's relationship with Europe and what it means for the world.",
+    "hero_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Location_map_of_the_United_Kingdom_and_the_European_Union.svg/1920px-Location_map_of_the_United_Kingdom_and_the_European_Union.svg.png",
+      "width": 1920,
+      "height": 1962,
+      "credit": "Wikimedia Commons (Brexit)",
+      "source_url": "https://en.wikipedia.org/wiki/Brexit"
+    }
   },
   {
     "slug": "fall-of-the-berlin-wall",
     "title": "The Berlin Wall: Division, Oppression, and the Fall of Communist Europe",
-    "subtitle": "How a concrete barrier became the symbol of a divided world—and why its collapse changed everything."
+    "subtitle": "How a concrete barrier became the symbol of a divided world—and why its collapse changed everything.",
+    "hero_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg",
+      "width": 1200,
+      "height": 913,
+      "credit": "Wikimedia Commons (Berlin Wall)",
+      "source_url": "https://en.wikipedia.org/wiki/Berlin_Wall"
+    }
   },
   {
     "slug": "climate-change",
     "title": "Climate Change: The Complete Guide for Young Australians",
-    "subtitle": "Understanding the greenhouse effect, evidence, global agreements, and what we can do about it."
+    "subtitle": "Understanding the greenhouse effect, evidence, global agreements, and what we can do about it.",
+    "hero_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Change_in_Average_Temperature_With_Fahrenheit.svg/1920px-Change_in_Average_Temperature_With_Fahrenheit.svg.png",
+      "width": 1920,
+      "height": 1728,
+      "credit": "Wikimedia Commons (Climate change)",
+      "source_url": "https://en.wikipedia.org/wiki/Climate_change"
+    }
   }
 ]

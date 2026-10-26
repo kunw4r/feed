@@ -164,5 +164,12 @@
     "Some people today argue for 'walls' to divide countries or groups. What does the Berlin Wall's history teach us about dividing people with physical barriers?",
     "If you had lived in East Germany during the Cold War, would you have tried to escape? What would have stopped you or encouraged you?"
   ],
-  "slug": "fall-of-the-berlin-wall"
+  "slug": "fall-of-the-berlin-wall",
+  "hero_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg",
+    "width": 1200,
+    "height": 913,
+    "credit": "Wikimedia Commons (Berlin Wall)",
+    "source_url": "https://en.wikipedia.org/wiki/Berlin_Wall"
+  }
 }
