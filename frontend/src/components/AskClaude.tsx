@@ -16,6 +16,8 @@ function openClaude(context: string, question: string) {
   window.open(`https://claude.ai/new?q=${encodeURIComponent(prompt)}`, "_blank", "noopener,noreferrer");
 }
 
+export { openClaude };
+
 export default function AskClaude({ subject, context }: { subject: string; context: string }) {
   const [open, setOpen] = useState(false);
   const [q, setQ] = useState("");

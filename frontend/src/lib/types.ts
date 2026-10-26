@@ -3,6 +3,16 @@ export interface Source {
   url: string;
 }
 
+/** A Wikipedia/Wikimedia image attached to a deep dive by scripts/add_learn_images.py */
+export interface HeroImage {
+  url: string;
+  width: number;
+  height: number;
+  credit: string;
+  source_url: string;
+}
+
+
 export interface Concept {
   term: string;
   definition: string;

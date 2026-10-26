@@ -3,7 +3,8 @@
 import { CardStory, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
 import { useProgress } from "@/lib/progress";
 import Link from "next/link";
-import NewsImage, { proxied } from "./NewsImage";
+import NewsImage from "./NewsImage";
+import { proxied } from "@/lib/images";
 
 type Variant = "hero" | "rail" | "row";
 

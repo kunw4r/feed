@@ -1,15 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-
-// Publisher photos arrive at up to ~4000px. wsrv.nl (open-source image proxy/cache)
-// resizes them to what the layout needs and serves WebP, without us re-hosting them.
-// If the proxy fails we fall back to the original URL, then to the parent's fallback.
-const WIDTHS = [480, 800, 1200, 1600];
-
-export function proxied(url: string, w: number) {
-  return `https://wsrv.nl/?url=${encodeURIComponent(url)}&w=${w}&output=webp&q=78`;
-}
+import { proxied, WIDTHS } from "@/lib/images";
 
 interface NewsImageProps {
   src?: string | null;

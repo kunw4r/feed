@@ -5,7 +5,8 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { CardStory, QuizItem, CATEGORY_CONFIG, REGION_CONFIG } from "@/lib/types";
 import { useProgress } from "@/lib/progress";
-import NewsImage, { proxied } from "./NewsImage";
+import NewsImage from "./NewsImage";
+import { proxied } from "@/lib/images";
 import QuizRunner from "./QuizRunner";
 
 // Full-screen, one-story-per-screen triage: read the gist, go deeper only on what hooks you.
