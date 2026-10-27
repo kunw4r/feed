@@ -207,5 +207,12 @@
     }
   ],
   "slug": "psychology",
-  "icon": "brain"
+  "icon": "brain",
+  "cover_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Greek_uc_psi_icon.svg/1920px-Greek_uc_psi_icon.svg.png",
+    "width": 1920,
+    "height": 1805,
+    "credit": "Wikimedia Commons (Psychology)",
+    "source_url": "https://en.wikipedia.org/wiki/Psychology"
+  }
 }

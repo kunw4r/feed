@@ -152,5 +152,12 @@
     }
   ],
   "slug": "gym",
-  "icon": "dumbbell"
+  "icon": "dumbbell",
+  "cover_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/USMC-Rich_Froning_Jr.jpg/1920px-USMC-Rich_Froning_Jr.jpg",
+    "width": 1920,
+    "height": 2128,
+    "credit": "Wikimedia Commons (Physical fitness)",
+    "source_url": "https://en.wikipedia.org/wiki/Physical_fitness"
+  }
 }

@@ -172,5 +172,12 @@
     }
   ],
   "slug": "photography",
-  "icon": "camera"
+  "icon": "camera",
+  "cover_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Photographer_Photographing_Nevada_Mountains.jpg/3840px-Photographer_Photographing_Nevada_Mountains.jpg",
+    "width": 4272,
+    "height": 2848,
+    "credit": "Wikimedia Commons (Photography)",
+    "source_url": "https://en.wikipedia.org/wiki/Photography"
+  }
 }

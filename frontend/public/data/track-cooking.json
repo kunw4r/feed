@@ -170,5 +170,12 @@
     }
   ],
   "slug": "cooking",
-  "icon": "chef-hat"
+  "icon": "chef-hat",
+  "cover_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Agdz-rosino-05.jpg/1920px-Agdz-rosino-05.jpg",
+    "width": 1920,
+    "height": 2888,
+    "credit": "Wikimedia Commons (Cooking)",
+    "source_url": "https://en.wikipedia.org/wiki/Cooking"
+  }
 }

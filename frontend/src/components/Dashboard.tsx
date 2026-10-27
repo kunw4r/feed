@@ -7,6 +7,7 @@ import { useProgress, streakOf, dueForReview } from "@/lib/progress";
 import { Reveal } from "./motion";
 import StoryCard from "./StoryCard";
 import GlancePanel from "./GlancePanel";
+import DevelopingTicker from "./DevelopingTicker";
 
 interface DashboardProps {
   briefing: Edition;
@@ -108,6 +109,7 @@ export default function Dashboard({ briefing, region, topic, archived }: Dashboa
   const readCount = allStories.filter((s) => progress.read[s.id]).length;
   const streak = streakOf(progress.days);
   const briefMinutes = Math.max(1, Math.round(allStories.reduce((n, s) => n + s.quick_summary.split(" ").length, 0) / 200));
+  const developing = allStories.filter((s) => (s.thread_size ?? 1) > 1);
 
   const formatted = new Date(briefing.date + "T12:00:00+10:00").toLocaleDateString("en-AU", {
     weekday: "long",
@@ -209,6 +211,8 @@ export default function Dashboard({ briefing, region, topic, archived }: Dashboa
           </nav>
         )}
       </header>
+
+      {!archived && <DevelopingTicker stories={developing} />}
 
       {lead && (
         <div className="px-4 md:px-10 mb-16 rise" style={{ animationDelay: "200ms" }}>

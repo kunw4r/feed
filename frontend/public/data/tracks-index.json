@@ -11,69 +11,139 @@
     "title": "Photography Basics",
     "description": "Learn the fundamental skills to take better photos. From understanding how cameras work to editing your images, this track covers everything a beginner needs to start their photography journey.",
     "icon": "camera",
-    "lesson_count": 6
+    "lesson_count": 6,
+    "cover_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Photographer_Photographing_Nevada_Mountains.jpg/3840px-Photographer_Photographing_Nevada_Mountains.jpg",
+      "width": 4272,
+      "height": 2848,
+      "credit": "Wikimedia Commons (Photography)",
+      "source_url": "https://en.wikipedia.org/wiki/Photography"
+    }
   },
   {
     "slug": "coding",
     "title": "Coding Essentials",
     "description": "Master the fundamentals of writing good code. Learn what code actually is, how to structure your thinking, write readable programs, debug problems, connect with other apps, and collaborate with version control. Perfect for beginners with zero coding experience.",
     "icon": "code",
-    "lesson_count": 6
+    "lesson_count": 6,
+    "cover_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Two_women_operating_ENIAC_%28full_resolution%29.jpg/3840px-Two_women_operating_ENIAC_%28full_resolution%29.jpg",
+      "width": 5682,
+      "height": 3899,
+      "credit": "Wikimedia Commons (Programmer)",
+      "source_url": "https://en.wikipedia.org/wiki/Programmer"
+    }
   },
   {
     "slug": "gym",
     "title": "Fitness & Training",
     "description": "A beginner-friendly guide to understanding how your body responds to exercise, building effective workout routines, and achieving your fitness goals through science-backed principles.",
     "icon": "dumbbell",
-    "lesson_count": 6
+    "lesson_count": 6,
+    "cover_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/USMC-Rich_Froning_Jr.jpg/1920px-USMC-Rich_Froning_Jr.jpg",
+      "width": 1920,
+      "height": 2128,
+      "credit": "Wikimedia Commons (Physical fitness)",
+      "source_url": "https://en.wikipedia.org/wiki/Physical_fitness"
+    }
   },
   {
     "slug": "psychology",
     "title": "Psychology Basics",
     "description": "An introductory journey into the science of human behaviour, the brain, and why we think and act the way we do. Perfect for beginners with zero psychology knowledge.",
     "icon": "brain",
-    "lesson_count": 6
+    "lesson_count": 6,
+    "cover_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Greek_uc_psi_icon.svg/1920px-Greek_uc_psi_icon.svg.png",
+      "width": 1920,
+      "height": 1805,
+      "credit": "Wikimedia Commons (Psychology)",
+      "source_url": "https://en.wikipedia.org/wiki/Psychology"
+    }
   },
   {
     "slug": "writing",
     "title": "Writing Skills",
     "description": "Master the fundamentals of effective writing, from clarity and structure to persuasion and storytelling. Learn how to organise your thoughts, write concisely, and edit like a professional.",
     "icon": "pen-tool",
-    "lesson_count": 6
+    "lesson_count": 6,
+    "cover_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/1920px-Rosetta_Stone.JPG",
+      "width": 1920,
+      "height": 2246,
+      "credit": "Wikimedia Commons (Writing)",
+      "source_url": "https://en.wikipedia.org/wiki/Writing"
+    }
   },
   {
     "slug": "cooking",
     "title": "Cooking Fundamentals",
     "description": "Master the essential skills and knowledge every home cook needs. Learn kitchen safety, heat science, flavour building, knife skills, classic sauces, and smart meal planning. Perfect for complete beginners.",
     "icon": "chef-hat",
-    "lesson_count": 6
+    "lesson_count": 6,
+    "cover_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Agdz-rosino-05.jpg/1920px-Agdz-rosino-05.jpg",
+      "width": 1920,
+      "height": 2888,
+      "credit": "Wikimedia Commons (Cooking)",
+      "source_url": "https://en.wikipedia.org/wiki/Cooking"
+    }
   },
   {
     "slug": "music-theory",
     "title": "Music Theory",
     "description": "Learn the fundamentals of music theory from scratch. This track covers everything from how sound works to reading sheet music, with practical examples and clear explanations.",
     "icon": "music",
-    "lesson_count": 6
+    "lesson_count": 6,
+    "cover_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gaffurio_Pythagoras.png/1920px-Gaffurio_Pythagoras.png",
+      "width": 1920,
+      "height": 2496,
+      "credit": "Wikimedia Commons (Music theory)",
+      "source_url": "https://en.wikipedia.org/wiki/Music_theory"
+    }
   },
   {
     "slug": "public-speaking",
     "title": "Public Speaking",
     "description": "Master the art of public speaking with practical, bite-sized lessons. Learn to overcome fear, structure compelling speeches, command a room with body language, engage audiences, handle tough questions, and create effective visual aids. Perfect for beginners who want to speak with confidence and impact.",
     "icon": "mic",
-    "lesson_count": 6
+    "lesson_count": 6,
+    "cover_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Reijiro_Wakatsuki_giving_a_speech_at_the_London_Naval_Conference.jpg",
+      "width": 700,
+      "height": 494,
+      "credit": "Wikimedia Commons (Public speaking)",
+      "source_url": "https://en.wikipedia.org/wiki/Public_speaking"
+    }
   },
   {
     "slug": "mathematics",
     "title": "Everyday Maths",
     "description": "Master practical maths skills you'll use every day. From mental maths shortcuts to spotting dodgy statistics, learn how numbers actually work in the real world.",
     "icon": "calculator",
-    "lesson_count": 6
+    "lesson_count": 6,
+    "cover_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Woman_teaching_geometry.jpg",
+      "width": 1039,
+      "height": 1148,
+      "credit": "Wikimedia Commons (Mathematics)",
+      "source_url": "https://en.wikipedia.org/wiki/Mathematics"
+    }
   },
   {
     "slug": "geography",
     "title": "World Geography",
     "description": "Discover how Earth's physical features, climate systems, and human populations shape our world. Learn why earthquakes happen, how oceans work, where people live, and how geography influences global power and resources.",
     "icon": "globe",
-    "lesson_count": 6
+    "lesson_count": 6,
+    "cover_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/CIA_World_Physical_Map_%282023%29.pdf/page1-3840px-CIA_World_Physical_Map_%282023%29.pdf.jpg",
+      "width": 6600,
+      "height": 3600,
+      "credit": "Wikimedia Commons (Geography)",
+      "source_url": "https://en.wikipedia.org/wiki/Geography"
+    }
   }
 ]

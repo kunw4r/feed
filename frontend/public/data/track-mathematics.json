@@ -164,5 +164,12 @@
     }
   ],
   "slug": "mathematics",
-  "icon": "calculator"
+  "icon": "calculator",
+  "cover_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Woman_teaching_geometry.jpg",
+    "width": 1039,
+    "height": 1148,
+    "credit": "Wikimedia Commons (Mathematics)",
+    "source_url": "https://en.wikipedia.org/wiki/Mathematics"
+  }
 }

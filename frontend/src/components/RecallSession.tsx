@@ -82,7 +82,7 @@ export default function RecallSession() {
       .filter((d) => d > today)
       .sort()[0];
     return (
-      <div className="max-w-3xl px-4 md:px-10 pb-24">
+      <div className="max-w-4xl px-4 md:px-10 pb-24">
         <PageHeader
           kicker="Make it stick"
           title={<>Review</>}
@@ -115,9 +115,37 @@ export default function RecallSession() {
           </div>
         ) : (
           <div className="rise">
-            <p className="font-display text-[2rem] leading-tight text-content">Nothing to review yet.</p>
-            <p className="mt-2 font-read text-[1.1rem] text-content-dim">Read a few stories and they&apos;ll show up here, spaced out so they stick.</p>
-            <Link href="/" className="mt-8 inline-block rounded-full bg-content px-6 py-3 text-[15px] font-medium text-surface">Today&apos;s edition →</Link>
+            <div className="md:grid md:grid-cols-[1fr_360px] md:gap-12">
+              <div>
+                <p className="font-display text-[2rem] leading-tight text-content">Nothing to review yet.</p>
+                <p className="mt-3 font-read text-[1.1rem] leading-[1.6] text-content-dim">
+                  Review is where reading turns into knowing. Every story you finish leaves behind one
+                  question, and Brainfeed brings it back just before you&apos;d forget it — tomorrow, then in
+                  three days, then a week, each answer pushing it further out.
+                </p>
+                <p className="mt-3 font-read text-[1.1rem] leading-[1.6] text-content-dim">
+                  Read today&apos;s edition and your first questions will be waiting here.
+                </p>
+                <Link href="/" className="mt-8 inline-block rounded-full bg-content px-6 py-3 text-[15px] font-medium text-surface">Today&apos;s edition →</Link>
+              </div>
+              {bank.length > 0 && (
+                <aside className="mt-10 md:mt-0" aria-label="Example review question">
+                  <p className="smallcaps text-[12px] text-content-faint">A review looks like this</p>
+                  <div className="mt-3 rounded-[20px] border border-edge bg-surface-raised p-5" style={{ boxShadow: "var(--t-shadow-card)" }}>
+                    <p className="font-read italic text-[0.95rem] leading-snug text-content-faint">{bank[0].title}</p>
+                    <p className="mt-3 font-display text-[1.15rem] leading-snug text-content">{bank[0].quiz.question}</p>
+                    <ul className="mt-4 space-y-2 border-t border-edge pt-4">
+                      {bank[0].quiz.options.slice(0, 3).map((opt, i) => (
+                        <li key={i} className="flex items-baseline gap-2.5 text-[13.5px] leading-snug text-content-faint">
+                          <span className="font-display italic">{String.fromCharCode(97 + i)}</span>
+                          {opt}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                </aside>
+              )}
+            </div>
           </div>
         )}
       </div>
