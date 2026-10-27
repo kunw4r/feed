@@ -1,6 +1,6 @@
 {
- "date": "2026-10-27",
- "generated_at": "2026-10-27T13:22:21.892056+00:00",
+ "date": "2026-10-28",
+ "generated_at": "2026-10-27T23:00:37.420493+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -79,61 +79,186 @@
     "has_fulltext": true
    },
    {
-    "id": "ac553a49-4428-5bd0-9335-d974cd6cfacd",
-    "title": "PNG communities stuggle with El Niño drought",
-    "simplified_title": "El Niño drought hits Papua New Guinea hard, fuelling fires",
-    "quick_summary": "A long El Niño dry spell is causing water, food and health problems across Papua New Guinea, with bushfires adding to the damage and more dry months expected.",
-    "simplified_body": "Many parts of Papua New Guinea (PNG), from the Highlands to the coast, are being hit hard by a prolonged dry spell linked to El Niño. What started as a drought is turning into a national humanitarian concern, affecting water supplies, food, health and people's ability to earn a living.\n\nIt's not just the lack of rain. PNG's National Broadcasting Corporation (NBC) reports that bushfires are becoming a problem because dry bush, kunai grass and forest floors are now highly flammable. Earlier this month, wildfires on Lou Islands reportedly destroyed at least half of the island's forests, and locals didn't have the right gear to fight them. Provincial Disaster Offices in the Highlands have been urged to do rapid assessments and get relief to people quickly.\n\nEl Niño is a natural climate pattern where the tropical Pacific Ocean warms up more than usual. That shifts rainfall patterns, bringing drought to some places and floods to others. The World Meteorological Organisation (WMO) says this El Niño is already causing disruption and devastation in various parts of the world, including the Pacific.\n\nThings may get worse before they get better. The WMO said in September that El Niño is expected to peak towards the end of this year, with climate impacts continuing well into 2027. PNG is bracing for more dry months ahead.",
-    "why_it_matters": "PNG is Australia's closest neighbour and a major partner in the Pacific, so a growing humanitarian crisis there is likely to draw on Australian support, and El Niño often brings drier conditions to Australia too.",
-    "deep_analysis": "## Historical Context\nAs general background, PNG has been hit hard by strong El Niño events before, notably in 1997–98 and 2015–16, when drought and frost damaged crops in the Highlands and caused serious food and water shortages. Many communities rely on subsistence gardens and rainwater, so long dry spells hit quickly.\n\n## Multiple Perspectives\nThe source describes the situation as escalating into a national humanitarian concern, with authorities urging Provincial Disaster Offices to act fast. The Lou Islands fires highlight a recurring theme: local communities often lack the resources to respond. The WMO frames this as part of a global El Niño causing both droughts and floods. The article doesn't include figures on how many people are affected, so the full scale is not yet clear.\n\n## What to Watch\n- Whether rapid assessments lead to food and water relief reaching remote Highlands communities.\n- Further bushfires as dry conditions continue.\n- Requests for international help, including from Australia.\n- The WMO's forecast peak late this year and impacts lasting into 2027.",
+    "id": "098bd952-2d6d-534e-a728-734570d8620e",
+    "title": "Why inflation is so high at the moment, and why it matters",
+    "simplified_title": "Australia awaits key inflation figures before next week's interest rate decision",
+    "quick_summary": "New inflation data out today will heavily shape whether the Reserve Bank of Australia raises interest rates for a fifth time this year at its meeting next Tuesday.",
+    "simplified_body": "The Australian Bureau of Statistics (ABS) is releasing its latest Consumer Price Index (CPI) figures at 11:30am AEDT, covering both September and the July–September quarter. Headline inflation already jumped to 4 per cent in August, up from 3.5 per cent in July, driven by housing costs and fuel. Economists expect the key 'trimmed mean' measure to rise 1 per cent over the quarter, or 3.6 per cent over the year, well above the Reserve Bank of Australia's (RBA) August forecast of 0.8 per cent.\n\nThis matters for anyone with a variable home loan, because the RBA board meets after the weekend and could lift the cash rate for a fifth time this year. Markets put the odds of a hike at about 60 to 65 per cent. Economists are split: Commonwealth Bank's (CBA) Trent Saunders leans towards a pause because the jobs market and spending are softening, while UBS's Stephen Wu expects a 0.25 percentage point rise to 4.85 per cent.\n\nInflation is how fast prices are rising. The RBA aims to keep it between 2 and 3 per cent on average. When wages rise more slowly than prices, real wages go backwards. RBA officials have blamed the Middle East war, which has pushed oil prices up, plus the artificial intelligence (AI) investment boom and weak productivity.\n\nIf today's numbers come in at or above expectations, a hike looks more likely; a result below 0.8 per cent for the quarter might keep the RBA on hold. RBA Governor Michelle Bullock is also appearing before a Senate Estimates committee today, so she may react in real time.",
+    "why_it_matters": "A rate rise next week would push up monthly repayments for Australians on variable home loans, on top of already rising grocery, fuel and housing costs.",
+    "deep_analysis": "## Historical Context\nAustralia adopted inflation targeting in the 1990s, an idea that began in New Zealand. The RBA's 2–3 per cent target aims to keep prices predictable. This year the RBA has already raised rates four times, and the trimmed mean is on track for a fifth straight quarter between 0.8 and 1.0 per cent, showing persistent pressure. An oil price shock tied to the Middle East war, including attacks on shipping near the Strait of Hormuz, has pushed fuel costs higher.\n\n## Multiple Perspectives\nCBA's Trent Saunders argues the RBA should weigh easing employment and subdued consumption, and expects a hold. UBS's Stephen Wu points to Deputy Governor Andrew Hauser's comment that the inflation outlook looks 'materially worse' and expects a hike to 4.85 per cent. Hauser himself framed it as a hard trade-off between fighting inflation and avoiding unnecessary job losses. For households, a hike means raising one cost (mortgages) to contain others, which can feel tough.\n\n## What to Watch\n- Whether the quarterly trimmed mean hits 1 per cent or falls below 0.8 per cent.\n- The September headline figure; a 0.7 per cent monthly rise would mean 4 per cent annual inflation.\n- The Australian dollar, which CBA says could fall sharply on a softer result.\n- Comments from Michelle Bullock at Senate Estimates and the RBA decision on Tuesday.",
     "concepts": [
      {
-      "term": "El Niño",
-      "definition": "A natural climate pattern where the tropical Pacific Ocean becomes unusually warm, shifting rainfall around the world.",
-      "context": "It's behind the prolonged dry spell hitting PNG."
+      "term": "trimmed mean",
+      "definition": "A measure of inflation that strips out the most extreme price rises and falls to show the underlying trend.",
+      "context": "It's the figure the RBA watches most closely, which is why economists call it the most 'policy-relevant' number."
      },
      {
-      "term": "kunai grass",
-      "definition": "A tall, tough grass common in PNG that dries out and burns easily.",
-      "context": "Dried-out kunai grass is helping fuel bushfires."
+      "term": "cash rate",
+      "definition": "The RBA's main interest rate, affecting overnight loans between banks, which flows through to home and business loan rates.",
+      "context": "Raising it makes borrowing dearer, reducing spending and, in theory, slowing price rises."
      },
      {
-      "term": "humanitarian concern",
-      "definition": "A situation where people's basic needs like food, water and health are at serious risk and may need outside help.",
-      "context": "The drought is escalating into a national humanitarian concern in PNG."
+      "term": "real wages",
+      "definition": "Your pay after adjusting for inflation, showing what it can actually buy.",
+      "context": "A 3 per cent pay rise with 4 per cent inflation means real wages have gone backwards."
      }
     ],
     "quiz": {
-     "question": "Why are bushfires becoming a bigger problem in PNG right now?",
+     "question": "Why would a higher-than-expected trimmed mean inflation result make an RBA rate hike more likely?",
      "options": [
-      "New farming laws require burning fields",
-      "Volcanic eruptions have spread across the Highlands",
-      "The El Niño dry spell has made grass, bush and forest floors highly flammable",
-      "Heavy floods have washed debris into forests"
+      "Because it shows underlying price pressure persisting above target, and higher rates aim to cool demand",
+      "Because higher rates make imported goods more expensive",
+      "Because higher rates directly lower petrol prices",
+      "Because the ABS requires the RBA to raise rates when inflation rises"
      ],
-     "answer_index": 2,
-     "explanation": "The prolonged dry conditions from El Niño have dried out vegetation like kunai grass, making it easy to burn."
+     "answer_index": 0,
+     "explanation": "The trimmed mean shows underlying inflation. If it stays well above the 2–3 per cent target, the RBA may raise the cash rate to make borrowing dearer, reduce spending and slow price rises."
     },
-    "background_beginner": "El Niño is a natural climate pattern that happens every few years when the Pacific Ocean near the equator gets warmer than normal. That change shifts where rain falls, so some countries get floods while others get droughts. Papua New Guinea, Australia's northern neighbour, often ends up on the dry side. Many people there grow their own food and depend on rain for drinking water, so a long drought can quickly lead to hunger, sickness and fires. Weather agencies like the World Meteorological Organisation track El Niño closely, and it keeps coming up because each strong event can cause damage across the Pacific and beyond.\n",
-    "impact_score": 58,
-    "image_url": "https://media.rnztools.nz/rnz/image/upload/s--Ake3hyyr--/t_tohu-badge-facebook/f_auto/q_auto/4OPEY2M_image_crop_17915",
+    "background_beginner": "Inflation is how quickly the prices of everyday things like food, fuel and rent go up. In Australia, the Reserve Bank (the RBA) is in charge of keeping it under control, aiming for 2 to 3 per cent a year. Every few months the Australian Bureau of Statistics publishes figures showing how fast prices are rising. If inflation is too high, the RBA can raise interest rates, making loans more expensive so people spend less and prices calm down. That's why each new inflation figure gets so much attention: it affects mortgages, savings and the cost of living for millions of households.",
+    "impact_score": 68,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/32aa0bdd1f2e626802f4646c2e8500df?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "A long El Niño dry spell is causing water, food and health problems across Papua New Guinea, with bushfires adding to the damage and more dry months expected.",
+    "description": "New inflation data out today will heavily shape whether the Reserve Bank of Australia raises interest rates for a fifth time this year at its meeting next Tuesday.",
     "tier": "LOCAL",
-    "category": "ENVIRONMENT_CLIMATE",
+    "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "RNZ",
-      "url": "https://www.rnz.co.nz/news/pacific/2168659/png-communities-stuggle-with-el-nino-drought"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-28/what-is-inflation-and-why-does-rba-hike-interest-rates/107308110"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-28/asx-markets-business-live-news/107316614"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 5,
+    "created_at": "2026-10-27T23:01:15.048465+00:00",
+    "published_date": "2026-10-28",
+    "has_fulltext": true
+   },
+   {
+    "id": "66b82da8-7b45-5542-8692-5851a87d8c9a",
+    "title": "Guardian Essential poll: One Nation and Labor’s primary vote on par as discontent with Albanese rises",
+    "simplified_title": "One Nation draws level with Labor as Albanese's popularity slides",
+    "quick_summary": "The latest Guardian Essential poll has One Nation and Labor tied on 28% of the primary vote, with Anthony Albanese's disapproval at its equal highest, but voters still trust Labor most to run the economy and the country.",
+    "simplified_body": "A new Guardian Essential poll of 1,087 Australians has Labor and Pauline Hanson's One Nation tied on 28% of the primary vote each. The Coalition (the Liberal and National parties) sits on 23%. Labor dropped a point from September, while both conservative parties gained since last month. Prime Minister Anthony Albanese's disapproval rose to 56%, equal to his worst since he took office in 2022. A record 61% of people said the country is on the wrong track.\n\nThe main pressure on Labor is the cost of living. Asked for the biggest cause of rising prices, 32% blamed government spending. That was well ahead of the war in the Middle East (24%) and supermarket price gouging (19%). Opposition leader Angus Taylor's ratings improved, with a net approval of -5, up from September.\n\nBut voters aren't sold on an alternative. Labor is still the most trusted party to make the economy work for everyday Australians (32%, ahead of One Nation's 29%) and to manage the country generally (31%). More people think One Nation would handle immigration better (43%) than worse (33%). But more think it would do worse than better on trade with the US and China, the economy, energy, groceries and handling a pandemic.\n\nThe primary vote is the share of people who put a party first on their ballot. Peter Lewis from Essential Media called it \"a sobering poll for Labor, but not a ringing endorsement of One Nation either\". Watch whether Labor can shift the blame for prices toward global events, and whether One Nation's surge holds.",
+    "why_it_matters": "A minor party matching the governing party's primary vote mid-term is a big shake-up of Australia's usual two-party politics. It could reshape how preferences flow at the next federal election.",
+    "deep_analysis": "## Historical Context\nAs general background, One Nation was founded by Pauline Hanson in the 1990s and has had periods of surging and fading support. Essential's 'wrong track' number has climbed from 38% in May 2023 to 46% in October 2025, then 54% in January. It hasn't dipped below 50% since, and now sits at a record 61%. Albanese's disapproval has reached 56% once before, in August, when his net approval was -21.\n\n## Multiple Perspectives\nFor Labor, the poll shows historically low midterm standing, driven by cost-of-living frustration. Lewis argues the bigger challenge is that voters blame local factors rather than 'global chaos emanating from the White House'. For One Nation, the result shows real momentum and an edge on immigration. However, voters doubt its skills on trade, the economy and crisis management. The Coalition under Angus Taylor has better personal ratings but still trails both parties on trust and primary vote. Around 21% of voters see no difference between the parties on the economy.\n\n## What to Watch\n- Whether One Nation holds level with Labor in later polls.\n- Movement in Albanese's and Taylor's approval ratings.\n- Whether inflation news changes who voters blame for prices.\n- How the Coalition responds to being squeezed by One Nation.",
+    "concepts": [
+     {
+      "term": "primary vote",
+      "definition": "The share of voters who number a party first on their ballot, before any preferences are counted.",
+      "context": "Labor and One Nation are each on 28% of the primary vote."
+     },
+     {
+      "term": "Coalition",
+      "definition": "The long-standing partnership of the Liberal and National parties, usually the main alternative to Labor.",
+      "context": "The Coalition trails both Labor and One Nation on 23%."
+     },
+     {
+      "term": "price gouging",
+      "definition": "Charging unfairly high prices, especially for essentials, to boost profits.",
+      "context": "19% of voters named supermarket price gouging as the top cause of rising living costs."
+     }
+    ],
+    "quiz": {
+     "question": "What does the poll suggest about voters' attitudes overall?",
+     "options": [
+      "Voters strongly prefer the Coalition to govern",
+      "Voters blame mainly global events for the cost of living",
+      "Voters are unhappy with Labor but not convinced any alternative would do better",
+      "Voters trust One Nation most on trade with the US and China"
+     ],
+     "answer_index": 2,
+     "explanation": "Disapproval of Albanese and 'wrong track' views are high. But Labor still leads on trust to manage the economy and the country, and voters doubt One Nation on several issues."
+    },
+    "background_beginner": "Australia is usually run by either Labor or the Coalition, which is the Liberal and National parties working together. One Nation is a smaller right-wing party led by Pauline Hanson, best known for wanting less immigration. Labor, led by Anthony Albanese, has governed since 2022. Pollsters like Essential regularly ask voters who they would support and how leaders are performing. Lately, rising prices have made many people unhappy with the government. That frustration has helped One Nation climb in the polls, which is why it keeps making headlines.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/420b30cad8672bc01ca69f621435831e16812140/0_0_5000_4000/master/5000.jpg?width=1920&quality=85&auto=format&fit=max&s=d15388ac6e0d25a79b337fc720b52a79",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "The latest Guardian Essential poll has One Nation and Labor tied on 28% of the primary vote, with Anthony Albanese's disapproval at its equal highest, but voters still trust Labor most to run the economy and the country.",
+    "tier": "LOCAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/guardian-essential-poll-labor-albanese-one-nation-hanson-coalition-ntwnfb"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-10-26T13:08:49.532006+00:00",
-    "published_date": "2026-10-26",
+    "reading_minutes": 3,
+    "created_at": "2026-10-27T23:01:13.640537+00:00",
+    "published_date": "2026-10-28",
+    "has_fulltext": true
+   },
+   {
+    "id": "ded839a8-9e6e-5e65-9fd0-075e708d2cb4",
+    "title": "Dementia deaths in Australia surpass one in 10 of all fatalities",
+    "simplified_title": "Dementia now causes more than one in 10 Australian deaths",
+    "quick_summary": "New Australian Bureau of Statistics figures show dementia caused more than 10 per cent of all deaths in Australia in 2025, while overall death rates returned to pre-pandemic levels.",
+    "simplified_body": "Dementia was the leading cause of death in Australia in 2025. It caused more than 19,000 of the 188,421 deaths registered, which is more than one in 10. The Australian Bureau of Statistics (ABS) says this is the first time dementia has crossed the 10 per cent mark. Ischaemic heart disease, where the heart is starved of oxygen, came second at about 8 per cent, but deaths from it are now the lowest since 1968.\n\nThe picture isn't the same for everyone. Dementia has been the top killer of women for a decade. For Aboriginal and Torres Strait Islander people, heart disease is still the leading cause of death. Their age-standardised death rate rose 5.2 per cent, and Indigenous suicides hit 320, the highest in this ABS data series. Overall, 3,283 people died by suicide, a slight drop. Male suicide fell to its lowest level since 2016, but suicide is still the leading cause of premature death. Drug-induced deaths rose to 2,063.\n\nSome background: demographer Liz Allen from the Australian National University says Australia is now an \"aged society\". People are living longer and healthier lives, so conditions of old age, like dementia, dominate. The median age of death was 81.9 years. COVID-19 briefly pushed death rates up, but they're now back on their long-term downward trend.\n\nWhat's next? The ABS says the suicide figures are preliminary and may change once coroners finish their investigations. Suicide Prevention Australia's Chris Stone says there's reason for optimism about men's suicide rates, but the numbers haven't fallen far enough and more prevention work is needed. As the population ages, total deaths are expected to rise even as the rate falls.",
+    "why_it_matters": "Dementia topping the list shows how Australia's ageing population is reshaping health and aged-care needs. Rising Indigenous suicides and death rates show the gap in health outcomes isn't closing.",
+    "deep_analysis": "## Historical Context\nThe ABS says dementia became Australia's leading cause of death in 2024 and has stayed there. Heart disease used to lead. As general background, the steady fall in heart disease deaths since the late 1960s is often linked to less smoking, better treatment and medicines. The COVID-19 pandemic temporarily lifted death rates, and the 2025 data shows they're back on the long-term downward trend. Drug-induced deaths peaked as a rate in 1999. The median age of those deaths is now almost 15 years older than it was then.\n\n## Multiple Perspectives\nLiz Allen frames dementia's rise as partly a sign of success: people live long enough to develop diseases of old age. Chris Stone welcomes the drop in male suicide but says the numbers are roughly steady and need to fall substantially. The national averages hide worse trends: Indigenous death rates rose 5.2 per cent and Indigenous suicides reached a series high. Among Indigenous women, suicides rose by 42.\n\n## What to Watch\n- Revisions to the preliminary suicide figures as coronial investigations finish.\n- Whether stimulant-related deaths keep climbing (779 in 2025, up from 504 in 2021).\n- How governments respond on dementia care and Indigenous health.\n- Allen's point that deaths will soon outnumber births.",
+    "concepts": [
+     {
+      "term": "age-standardised death rate",
+      "definition": "Deaths per 100,000 people, adjusted so that populations with different age mixes can be compared fairly.",
+      "context": "This rate fell for men and women in 2025 but rose 5.2 per cent for Indigenous people."
+     },
+     {
+      "term": "Ischaemic heart disease",
+      "definition": "A condition where the heart muscle doesn't get enough oxygen, usually because its arteries are narrowed.",
+      "context": "It was Australia's second leading cause of death in 2025."
+     },
+     {
+      "term": "premature death",
+      "definition": "A death that happens earlier than expected, typically at a younger age.",
+      "context": "Suicide remains the leading cause of premature death for both males and females."
+     },
+     {
+      "term": "aged society",
+      "definition": "A society where a large share of people are already old, not just a society that is getting older.",
+      "context": "Liz Allen uses the term to explain why dementia dominates the causes of death."
+     }
+    ],
+    "quiz": {
+     "question": "Why does demographer Liz Allen say dementia now dominates causes of death in Australia?",
+     "options": [
+      "Heart disease deaths have increased sharply",
+      "People are living longer, healthier lives and reaching old age",
+      "COVID-19 caused dementia cases to spike",
+      "Dementia has become far more contagious"
+     ],
+     "answer_index": 1,
+     "explanation": "Allen says Australians are living longer and healthier lives, so diseases of old age like dementia make up more of the deaths."
+    },
+    "background_beginner": "Every year the Australian Bureau of Statistics, the government's official number-crunchers, publishes what Australians died from. Dementia is a group of brain conditions, including Alzheimer's disease, that slowly damage memory and thinking. It mostly affects older people. For decades heart disease was the biggest killer. As people live longer and heart care improves, dementia has taken its place. The yearly report keeps making news because it shows how the country is changing. It also tracks problems like suicide, drug deaths and the health gap facing Aboriginal and Torres Strait Islander people.",
+    "impact_score": 62,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/dacf8c0b7fc022a363973fe22d2bea77?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "New Australian Bureau of Statistics figures show dementia caused more than 10 per cent of all deaths in Australia in 2025, while overall death rates returned to pre-pandemic levels.",
+    "tier": "LOCAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-27/one-in-10-deaths-dementia-australia-leading-cause-of-death/107313318"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-27T23:01:13.816274+00:00",
+    "published_date": "2026-10-28",
     "has_fulltext": true
    },
    {
@@ -197,128 +322,6 @@
     "reading_minutes": 4,
     "created_at": "2026-10-26T23:11:43.719911+00:00",
     "published_date": "2026-10-27",
-    "has_fulltext": true
-   },
-   {
-    "id": "811ebde9-a7fa-5156-81d4-605d5c6da17d",
-    "title": "Australia's second largest veggie company admits 'cartel conduct'",
-    "simplified_title": "Big veggie supplier admits fixing prices on vegies sold to Aldi",
-    "quick_summary": "Perfection Fresh Australia, the country's second-largest fresh produce supplier, has admitted to 11 instances of illegal price fixing on broccoli, cauliflower and iceberg lettuce sold to Aldi in New South Wales, and agreed to a $12 million penalty pending court approval.",
-    "simplified_body": "Perfection Fresh Australia has admitted to \"cartel conduct\" on 11 occasions between 2019 and 2020. It fixed the price of broccoli, cauliflower and iceberg lettuce sold to Aldi stores in New South Wales (NSW). The company has agreed to pay a $12 million penalty, but the Federal Court still has to approve it.\n\nThe Australian Competition and Consumer Commission (ACCC), the national competition watchdog, says price fixing can push prices up, hurting shoppers and raising costs for businesses. Perfection Fresh supplies vegies to every state and territory. It says it takes full responsibility, has cooperated with the ACCC, and has strengthened its leadership, governance and compliance systems.\n\nIn September 2025 the ACCC began civil action against four vegetable-growing companies and three individuals. It alleges they worked together to fix prices of fresh produce sold at Aldi in NSW, Victoria and Queensland between 2018 and 2024. Although Perfection Fresh admitted 11 occasions, the court can only penalise 10: nine contraventions and one attempted contravention. The other one falls outside the period in which a penalty can apply.\n\nThe case against the other suppliers, Hydro Produce, Veli Velisha Fresh Produce and Velisha National Farms, and M Fragapane & Sons, is still going. The Federal Court will also decide later whether to approve the $12 million penalty.",
-    "why_it_matters": "Fresh food prices hit every Australian household, and this case shows the ACCC is actively chasing suppliers who secretly agree on prices instead of competing. It could also shape how much trust shoppers place in what they pay at the checkout.",
-    "deep_analysis": "## Historical Context\nAs general background, Australia's competition law bans businesses from agreeing with rivals on prices, a practice known as cartel conduct. The ACCC enforces these rules and has made fresh food supply an ongoing priority. In September 2025 it took civil action in the Federal Court against four vegetable growers and three individuals over alleged price fixing on produce sold to Aldi in NSW, Victoria and Queensland between 2018 and 2024.\n\n## Multiple Perspectives\n- **The ACCC:** Commissioner Luke Woodward said cartel conduct \"undermines competition\" and \"can increase prices, harming consumers and raising the cost of doing business.\"\n- **Perfection Fresh:** It takes full responsibility, regrets the impact on relationships, says it fully cooperated, and has strengthened its governance and compliance.\n- **The other accused:** Hydro Produce, the Velisha companies and M Fragapane & Sons have not admitted wrongdoing in the source, and their case continues. The allegations against them remain unproven.\n\n## What to Watch\n- Whether the Federal Court approves the $12 million penalty.\n- How the case against the remaining suppliers and individuals unfolds.\n- Whether the ACCC pursues further action in the fresh food sector.",
-    "concepts": [
-     {
-      "term": "cartel conduct",
-      "definition": "When competing businesses secretly agree to work together, for example by fixing prices, instead of competing fairly.",
-      "context": "Perfection Fresh admitted cartel conduct by fixing vegetable prices sold to Aldi."
-     },
-     {
-      "term": "civil action",
-      "definition": "A court case seeking penalties or orders rather than criminal convictions and jail time.",
-      "context": "The ACCC began civil action in the Federal Court in September 2025."
-     },
-     {
-      "term": "attempted contravention",
-      "definition": "Trying to break the law even if the illegal act wasn't fully carried out.",
-      "context": "One of the 10 penalisable instances was an attempted contravention."
-     }
-    ],
-    "quiz": {
-     "question": "Why can the court penalise Perfection Fresh for only 10 of the 11 admitted occasions?",
-     "options": [
-      "Aldi forgave one of the occasions",
-      "The ACCC dropped one charge in exchange for cooperation",
-      "One occasion involved a different company",
-      "One occasion falls outside the period in which a penalty can apply"
-     ],
-     "answer_index": 3,
-     "explanation": "The article says the 11th instance falls outside the period in which a penalty can apply, leaving nine contraventions and one attempted contravention."
-    },
-    "background_beginner": "Supermarkets buy fruit and vegies from big supplier companies. Normally those suppliers compete, each trying to offer a better price to win the business. When rival suppliers secretly agree on prices instead, it's called a cartel, and it's illegal in Australia because it can push up what shoppers pay. The Australian Competition and Consumer Commission is the government watchdog that polices this. Grocery prices have been a hot topic in Australia for years, as households feel cost-of-living pressure, so the watchdog has kept a close eye on the fresh food supply chain. This case, involving vegies sold to Aldi, is one example of that scrutiny.",
-    "impact_score": 45,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/c3c0bfc52942f877f55f70fb3375a611?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=281&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Perfection Fresh Australia, the country's second-largest fresh produce supplier, has admitted to 11 instances of illegal price fixing on broccoli, cauliflower and iceberg lettuce sold to Aldi in New South Wales, and agreed to a $12 million penalty pending court approval.",
-    "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-26/perfection-fresh-admits-to-aldi-vegetable-price-fixing/107308678"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-26T13:08:48.693738+00:00",
-    "published_date": "2026-10-26",
-    "has_fulltext": true
-   },
-   {
-    "id": "a8e268b0-0a70-5c71-b2e8-e3860d6ebba8",
-    "title": "Man found dead in Queensland flood waters as state hit by multiple storms and days-long deluge",
-    "simplified_title": "Former Fraser Coast councillor dies in Queensland floodwaters after days of storms",
-    "quick_summary": "Former councillor and dairy farmer James Hansen, 57, was found dead in a flooded creek near Maryborough after an unusual weather system dumped days of heavy rain across southern and eastern Queensland.",
-    "simplified_body": "A 57-year-old man found dead in Smothering Creek at Boompa, west of Maryborough on Queensland's Fraser Coast, has been identified as local dairy farmer and former councillor James Hansen. Emergency services were called just after 11am on Monday. Police are preparing a report for the coroner as they investigate how he died.\n\nMr Hansen was a fourth-generation local who served on the Fraser Coast Regional Council from 2012 to 2024, and on the former Woocoo Shire Council before that. Mayor George Seymour called him a passionate advocate for primary producers. Elsewhere, Swiftwater crews rescued six campers stranded at Leyburn on the Southern Downs, and two drivers were pulled from flooded cars near Warwick. The Guardian lists five rescued campers by age and sex, while both outlets say six were rescued.\n\nTorrential rain fell from Thursday to Monday. Blackdown Tableland near Rockhampton recorded 439.4mm over four days. Meteorologist Angus Hines said the system was unusual because the storms were driven by what was happening high in the atmosphere. On Sunday evening, a band of thunderstorms briefly stretched from southern Queensland to Bass Strait.\n\nFlood warnings remain for several rivers, including the Mary, Bremer, Macintyre and Warrego. Mr Seymour said the Maryborough peak was lower than predicted and the region was likely \"over the worst of it\". However, the Bureau of Meteorology (BoM) warned that afternoon storms could push river levels up again. Later in the week, conditions should return to more typical spring weather.",
-    "why_it_matters": "This shows how quickly Queensland creeks can turn deadly, even for locals who know the land well. It's a sharp reminder of the \"if it's flooded, forget it\" message as storm season begins.",
-    "deep_analysis": "## Historical Context\nAs background, Queensland has a long history of damaging floods, including major events in 2011 and 2022 in the south-east. Flood deaths in Australia often involve people entering or being caught near floodwater, especially in vehicles. This latest system was described as unusual. Its storms were driven by upper-atmosphere winds rather than the typical spring heat.\n\n## Multiple Perspectives\nEmergency services stress the scale of the rescue effort. Swiftwater crews have been busy since Thursday. Locally, Mayor George Seymour struck an optimistic note, saying the Maryborough peak was lower than BoM predicted. The Bureau, however, warned that renewed river rises were possible. The two outlets differ slightly on the Leyburn rescue: The Guardian lists five named rescues while reporting six campers. It also gives a rescue time of about 11.15am, while the ABC says just after 11am.\n\n## What to Watch\n- The coroner's findings on Mr Hansen's death.\n- Whether afternoon storms trigger fresh rises on the Mary River and in the Lockyer Valley.\n- River levels in western Queensland at Charleville, Quilpie and Blackall.\n- Whether conditions settle into typical spring weather as forecast.",
-    "concepts": [
-     {
-      "term": "coroner",
-      "definition": "An official who investigates sudden or unexplained deaths to work out how and why they happened.",
-      "context": "Police are preparing a report for the coroner on Mr Hansen's death."
-     },
-     {
-      "term": "Swiftwater crews",
-      "definition": "Specially trained rescue teams who save people from fast-moving floodwater.",
-      "context": "They rescued the campers stranded at Leyburn."
-     },
-     {
-      "term": "primary producers",
-      "definition": "People who produce raw goods from the land or sea, such as farmers and fishers.",
-      "context": "Mr Hansen, a dairy farmer, was praised as their advocate."
-     }
-    ],
-    "quiz": {
-     "question": "Why did meteorologist Angus Hines describe this weather system as unusual?",
-     "options": [
-      "Its storms were driven by conditions high in the atmosphere, with cooler temperatures and lots of cloud",
-      "It brought record heat to Queensland",
-      "It only affected western Queensland",
-      "It was a tropical cyclone crossing the coast"
-     ],
-     "answer_index": 0,
-     "explanation": "Hines said the widespread rain, cloud cover and cooler temperatures meant the storms were driven by the upper atmosphere, not the usual spring heat."
-    },
-    "background_beginner": "Queensland is Australia's north-eastern state, and its weather can swing from drought to flooding. During spring and summer, storms and heavy rain can make creeks and rivers rise very fast. This puts people on farms, on roads and at campgrounds at risk. Several groups respond when this happens. The Bureau of Meteorology forecasts the weather and issues flood warnings. Police and fire services carry out rescues, and local councils help their communities recover. Floods keep making the news because they happen often in Queensland, can be deadly, and cause damage to homes, roads and farms. Authorities repeatedly urge people never to drive or walk into floodwater.",
-    "impact_score": 38,
-    "image_url": "https://i.guim.co.uk/img/media/4946af02b76a100572a0eb07e3f74c7680d87560/324_0_6880_5504/master/6880.jpg?width=1920&quality=85&auto=format&fit=max&s=3e5260db1a6e670d922026c8c7ac9101",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Former councillor and dairy farmer James Hansen, 57, was found dead in a flooded creek near Maryborough after an unusual weather system dumped days of heavy rain across southern and eastern Queensland.",
-    "tier": "LOCAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-26/qld-man-found-dead-in-floodwater/107310850"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "2592ac42-42ae-59a2-ad9a-adecb9fff23f"
-    ],
-    "reading_minutes": 2,
-    "created_at": "2026-10-26T13:08:52.083339+00:00",
-    "published_date": "2026-10-26",
     "has_fulltext": true
    }
   ],
@@ -592,63 +595,74 @@
     "has_fulltext": true
    },
    {
-    "id": "c4da2d3e-2579-5be3-a7af-81d86e0350ad",
-    "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-    "simplified_title": "Musk admits SpaceX limited Ukraine's Starlink, now service is back",
-    "quick_summary": "Elon Musk says SpaceX deliberately restricted Ukraine's Starlink internet over 'offensive drone strikes', as Ukraine reports its connection is stable again after more than a week of problems.",
-    "simplified_body": "Elon Musk has said his company SpaceX restricted Ukraine's Starlink satellite internet, claiming Ukraine's military broke the terms of service by using it for offensive drone strikes. He'd earlier denied deliberately throttling the connection. The admission came as Ukraine said the service was working again, after US President Donald Trump said he'd told Musk to \"put it back\".\n\nUkraine says the slowdown hurt its defence for more than a week. Drones lost connection above 161km/h; now they can go faster than 400km/h. Ukrainian presidential adviser Serhii Beskrestnov called Musk's post \"very strange\", saying commercial Starlink already doesn't work on Russian territory and caps drones at 70-90km/h, so it physically can't be used for deep strikes. Musk also denied responsibility for a simultaneous problem with Starshield, the more secure, military-grade version run by the US government.\n\nUkraine uses Starlink to help units coordinate in remote areas, while Starshield lets drone operators see targets live. Both run on low Earth orbit satellites launched by SpaceX. The outage came during a row between Washington and Kyiv over Ukrainian strikes on Russian oil refineries, which Trump says pushed fuel prices up, though this year's rises are mainly due to the Iran war. Zelensky also says the US threatened to stop sharing intelligence, which Trump denies.\n\nWith US midterm elections next month, fuel prices and the war remain politically touchy. Watch whether the connection stays stable, whether SpaceX explains why it acted now, and whether Ukraine keeps hitting Russian oil sites.",
-    "why_it_matters": "It shows how much a modern war can hinge on one private company's decisions, a lesson for any country, Australia included, that leans on commercial satellite services. The oil-strike row also feeds into global fuel prices Australians pay at the bowser.",
-    "deep_analysis": "## Historical Context\nRussia launched its full-scale invasion of Ukraine in February 2022, and the war is now in its fifth year. As background, Starlink became a lifeline for Ukraine early in the war, and Musk has clashed with Kyiv over its use before. Ukraine's heavy use of the service has been known for years, which makes the timing of this restriction notable.\n\n## Multiple Perspectives\nMusk argues a civilian service shouldn't be used for strikes that make it \"fair game to be struck back\", and says SpaceX has done more for Ukraine than any private company. Ukraine says the restrictions already in place make deep strikes via Starlink impossible, and that the slowdown hampered defensive operations. Trump denied telling Musk to limit the service, but said he told him to restore it. He also denied threatening to cut intelligence sharing. European allies have criticised a US deal to supply Russian diesel as funding Russia's war.\n\n## What to Watch\n- Whether SpaceX explains why it acted last week specifically\n- Starshield's status, which the US government controls\n- Ukrainian strikes on Russian oil and the US response ahead of the midterms\n- Fuel price moves linked to Russia and the Iran war",
+    "id": "ea512abb-8d00-5904-b400-e86e76228a2d",
+    "title": "Norway and Finland hold rare call with Putin to discuss ending war",
+    "simplified_title": "Finland and Norway leaders phone Putin about ending Ukraine war",
+    "quick_summary": "Finland's President Alexander Stubb and Norway's Prime Minister Jonas Gahr Støre held a rare 90-minute call with Vladimir Putin about peace in Ukraine, winning thanks from Kyiv but criticism from some European neighbours.",
+    "simplified_body": "Finland's President Alexander Stubb and Norway's Prime Minister Jonas Gahr Støre held a joint 90-minute phone call with Russian President Vladimir Putin from Helsinki. They said the aim was to pass on messages about future peace negotiations. Stubb called it \"frank and substantive\", but Støre admitted there were \"big differences in views\". The Kremlin said Putin insisted peace was only possible if Russia's interests were taken into account \"fully and unconditionally\", and he again raised what he calls the \"root causes\" of the war.\n\nUkraine welcomed the call. Foreign Minister Andrii Sybiha said it was coordinated with Kyiv and was \"the right approach\", calling the European channel a \"supplementary track\" to US-led talks. Not everyone was happy, though. Danish Prime Minister Mette Frederiksen said the pair had gone \"solo\" without coordinating with allies, and Sweden, Estonia and Poland also voiced scepticism. Støre insisted partners were informed in advance, so accounts differ on that.\n\nSome background: Russia launched its full-scale invasion of Ukraine in 2022. Finland and Norway both border Russia. Europe has been largely sidelined from peace talks since Putin met US President Donald Trump in Alaska, and this is the first European leader contact with Putin since France's Emmanuel Macron spoke to him in July 2025. Meanwhile, a US-mediated local ceasefire is in place in the Russian-occupied town of Oleshky.\n\nNext up, the first trilateral talks between the United States, Ukraine and Russia this year are tentatively planned for early November in Abu Dhabi, in the United Arab Emirates (UAE). All three leaders on the call reportedly agreed to keep talking directly.",
+    "why_it_matters": "It shows Europe trying to get back a seat at the table in Ukraine peace talks, while also exposing splits among European allies about how to deal with Putin. Any peace deal would shape European security for years.",
+    "deep_analysis": "## Historical Context\nRussia's full-scale invasion of Ukraine began in 2022. As background, Finland joined NATO (the North Atlantic Treaty Organization) in 2023 after the invasion, and Norway is a founding member, so both are frontline neighbours. Per the sources, Europe has been sidelined since the Putin–Trump summit in Alaska, and Macron's July 2025 call was the last European leader contact before this one. US-Ukraine relations have also soured after Trump lifted some sanctions on Russia.\n\n## Multiple Perspectives\n- **Finland and Norway:** Say ending the war \"will not be achieved through silence\" and that they spoke only for themselves, after consulting Ukraine and the US.\n- **Ukraine:** Zelensky was grateful; Sybiha called it the right approach and said Ukraine is ready for partial ceasefires and a Zelensky–Putin meeting.\n- **Russia:** Putin demanded unconditional recognition of Russia's interests and blamed the EU and NATO; spokesman Dmitry Peskov called the talks \"very constructive and practical\" and said a European negotiator would be \"good\".\n- **Sceptics:** Denmark's Frederiksen and Sweden's Ulf Kristersson said Europe should stick together; Estonia's foreign minister argued only more pressure on Russia works. Note the dispute: Danish and Swedish leaders say it wasn't coordinated, while Støre says allies were informed in advance.\n- **Germany:** Friedrich Merz said no solution can be found without Ukraine and Europe at the table.\n\n## What to Watch\n- The planned early-November US-Ukraine-Russia talks in Abu Dhabi.\n- Whether the Oleshky ceasefire, set to last until 1 November and described by Ukraine's negotiator as the biggest de-escalation since 2022, holds or expands.\n- Whether the Finnish-Norwegian channel continues and whether Europe unites behind a single negotiating role.",
     "concepts": [
      {
-      "term": "Starshield",
-      "definition": "A more secure, military-grade satellite network built by SpaceX and controlled by the US government.",
-      "context": "Ukraine uses it so drone operators can see targets in real time and fly interceptor drones."
+      "term": "Kremlin",
+      "definition": "The Russian government's seat of power in Moscow, often used as shorthand for Putin's government.",
+      "context": "The Kremlin released its own account of what Putin said on the call."
      },
      {
-      "term": "low Earth orbit",
-      "definition": "A zone of space relatively close to Earth where satellites circle quickly and can give fast internet.",
-      "context": "Both Starlink and Starshield rely on many satellites in low Earth orbit."
+      "term": "root causes",
+      "definition": "Putin's phrase for what he says caused the war, which critics see as code for rejecting Ukraine's right to be an independent country.",
+      "context": "Putin repeated his 'root causes' argument to the Nordic leaders."
      },
      {
-      "term": "terms of service",
-      "definition": "The rules a customer agrees to when using a company's product.",
-      "context": "Musk says Ukraine broke Starlink's rules by using it for offensive strikes."
+      "term": "trilateral",
+      "definition": "Involving three parties.",
+      "context": "The planned Abu Dhabi talks would bring together the US, Ukraine and Russia."
+     },
+     {
+      "term": "supplementary track",
+      "definition": "An extra diplomatic channel that supports, rather than replaces, the main negotiations.",
+      "context": "Ukraine described the Nordic contact as adding to, not competing with, US-led talks."
      }
     ],
     "quiz": {
-     "question": "Why does Ukraine say Musk's claim about Starlink and deep strikes doesn't add up?",
+     "question": "Why did Denmark's prime minister criticise the Finnish-Norwegian call with Putin?",
      "options": [
-      "Commercial Starlink already doesn't work in Russia and caps drone speeds",
-      "Starlink is controlled by the Ukrainian government",
-      "Russia also uses Starlink for its drones",
-      "Ukraine has stopped using Starlink entirely"
+      "She believed Finland and Norway were secretly siding with Russia",
+      "She thought it was done without coordinating with other European allies",
+      "The call broke an official EU ban on talking to Putin",
+      "Ukraine had objected to the call"
      ],
-     "answer_index": 0,
-     "explanation": "Beskrestnov said Starlink drones are limited to 70-90km/h and don't work on Russian territory, so it can't be used for deep strikes."
+     "answer_index": 1,
+     "explanation": "Frederiksen said the pair went 'solo' and that Europe should stay united. Ukraine actually supported the call, and no EU ban was mentioned."
     },
-    "background_beginner": "Starlink is a satellite internet service from SpaceX, the rocket company owned by billionaire Elon Musk. When Russia invaded Ukraine in 2022, Starlink helped Ukraine's soldiers stay connected when normal networks were destroyed. Since then, Ukraine has relied on it heavily, along with a US government-run military version called Starshield. That reliance gives a private company, and one very outspoken man, real influence over a war. The topic keeps resurfacing because Musk, Ukraine and the US government sometimes disagree about how the technology should be used, especially as US politics, oil prices and peace talks shift around the conflict.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg",
+    "background_beginner": "In 2022 Russia, led by President Vladimir Putin, launched a full-scale invasion of its neighbour Ukraine, led by President Volodymyr Zelensky. Ukraine has been backed by European countries and, for much of the war, the United States. Efforts to end the fighting keep returning to the news because both sides want very different things: Ukraine wants to stay independent with its land intact, while Russia demands its 'interests' be accepted. Lately the US under Donald Trump has led peace talks, leaving European countries feeling shut out. Finland and Norway, which share borders with Russia, are among those trying to find a way back into the conversation.",
+    "impact_score": 55,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg",
     "region": "Europe incl. UK, Russia-Ukraine",
     "region_code": "EUROPE",
-    "description": "Elon Musk says SpaceX deliberately restricted Ukraine's Starlink internet over 'offensive drone strikes', as Ukraine reports its connection is stable again after more than a week of problems.",
+    "description": "Finland's President Alexander Stubb and Norway's Prime Minister Jonas Gahr Støre held a rare 90-minute call with Vladimir Putin about peace in Ukraine, winning thanks from Kyiv but criticism from some European neighbours.",
     "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
+    "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo"
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-rdf"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "f2ee8ade-7544-530b-8570-9450fbeabf20"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-10-26T13:54:28.566302+00:00",
-    "published_date": "2026-10-26",
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-27T23:01:17.004533+00:00",
+    "published_date": "2026-10-28",
     "has_fulltext": true
    },
    {
@@ -718,6 +732,69 @@
   ],
   "MIDDLE_EAST_AFRICA": [
    {
+    "id": "357ebcac-4d16-58b5-9d08-dd0ce6d96cb1",
+    "title": "Ebola cases exceed 10,000 in DR Congo as infections are confirmed in Kenya and Nigeria",
+    "simplified_title": "Ebola cases pass 10,000 in DR Congo, spread to Kenya and Nigeria",
+    "quick_summary": "An Ebola outbreak caused by the Bundibugyo virus has infected more than 10,000 people in the Democratic Republic of Congo, killed 4,887, and now reached Kenya and Nigeria.",
+    "simplified_body": "Health authorities in the Democratic Republic of Congo (DR Congo) say Ebola cases have climbed to 10,060, with 4,887 deaths since the outbreak was identified in mid-May. The Africa Centres for Disease Control and Prevention (Africa CDC) calls it the fastest-growing Ebola outbreak in history.\n\nIt's now crossing borders. Kenya has confirmed nine infections, including two deaths, after a patient travelled from DR Congo through Uganda to Nairobi. Nigeria confirmed a case in a Swiss woman, the wife of a Swiss diplomat, who fell ill after visiting Uganda. Authorities are still working out where she caught it, and she's been evacuated to Switzerland.\n\nThis outbreak is caused by the Bundibugyo virus, a type of Ebola with no approved vaccine or specific treatment. Ebola spreads through direct contact with an infected person's blood or other bodily fluids, causing fever, diarrhoea and sometimes bleeding. Early symptoms can look like malaria, which can delay isolation and care.\n\nScientists are racing to catch up. Clinical trials of two antiviral treatment approaches have been running since July, and two more trials are testing whether the Ervebo vaccine, currently approved only against a different species called Ebola virus (formerly Zaire ebolavirus), can also protect against Bundibugyo. The results, and whether spread to new countries continues, will shape what comes next.",
+    "why_it_matters": "With no approved vaccine and cases now turning up via international travel, this outbreak shows how fast a disease can move between countries, which is why health agencies everywhere, including Australia's, keep a close eye on outbreaks like this.",
+    "deep_analysis": "## Historical Context\nAs general background, Ebola was first identified in 1976 near the Ebola River in what is now DR Congo, and the country has had many outbreaks since. The 2014–2016 West Africa epidemic was the largest before this one. The Ervebo vaccine was developed for the Zaire species, which is why this Bundibugyo outbreak is so hard to fight: existing tools weren't built for it.\n\n## Multiple Perspectives\nThe Africa CDC frames this as the fastest-growing Ebola outbreak in history. Health workers face a practical problem: early symptoms resemble malaria, so cases can be missed. The Nigerian case highlights uncertainty, since officials haven't confirmed where the Swiss woman was infected. Researchers see a chance to test whether an existing vaccine offers cross-protection, though results aren't in yet.\n\n## What to Watch\n- Results from the two antiviral trials and two Ervebo trials.\n- Whether more cases appear in Kenya, Nigeria, Uganda or beyond.\n- The source of the Nigerian infection.\n- Whether the rate of new cases in DR Congo slows.",
+    "concepts": [
+     {
+      "term": "Bundibugyo virus",
+      "definition": "One species of Ebola-causing virus, different from the more familiar Zaire type.",
+      "context": "It's driving this outbreak and has no approved vaccine or specific treatment."
+     },
+     {
+      "term": "Ervebo vaccine",
+      "definition": "An Ebola vaccine approved for the Ebola virus species formerly called Zaire ebolavirus.",
+      "context": "Trials are checking whether it also protects against Bundibugyo."
+     },
+     {
+      "term": "Clinical trials",
+      "definition": "Carefully controlled studies testing whether a treatment or vaccine is safe and works in people.",
+      "context": "Two antiviral approaches have been in trials since July."
+     }
+    ],
+    "quiz": {
+     "question": "Why is this particular Ebola outbreak especially hard to control?",
+     "options": [
+      "It's caused by the Bundibugyo virus, which has no approved vaccine or specific treatment",
+      "It only affects people outside Africa",
+      "The Ervebo vaccine has been proven not to work",
+      "It spreads through the air like the flu"
+     ],
+     "answer_index": 0,
+     "explanation": "The Bundibugyo virus has no approved vaccine or treatment. Ebola spreads through bodily fluids, not air, and Ervebo is still being tested against it."
+    },
+    "background_beginner": "Ebola is a serious, often deadly disease caused by a group of related viruses. It was first discovered in the 1970s in central Africa, and the Democratic Republic of Congo has faced repeated outbreaks. It spreads when people touch an infected person's blood or bodily fluids, so caring for the sick and preparing bodies for burial can be risky. The main players are national health ministries, the Africa Centres for Disease Control and Prevention, the World Health Organization and vaccine researchers. It keeps coming up because outbreaks flare unpredictably, early symptoms look like common illnesses, and travel can carry it across borders before anyone notices.",
+    "impact_score": 78,
+    "image_url": "https://static.dw.com/image/79742506_6.jpg",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "An Ebola outbreak caused by the Bundibugyo virus has infected more than 10,000 people in the Democratic Republic of Congo, killed 4,887, and now reached Kenya and Nigeria.",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "920de58d-374c-5da9-baa1-d152afa9a420",
+     "e61a7066-899c-5fb7-a4bc-d09fc0db5d44",
+     "e7784c73-91ca-5926-a3c8-70bbbc84035f",
+     "fb15646b-0dc3-51ce-a492-c32758b51f8f"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-10-27T23:01:12.931886+00:00",
+    "published_date": "2026-10-28",
+    "has_fulltext": true
+   },
+   {
     "id": "a928be3c-56a5-5dbb-b0f3-e01b7416e926",
     "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
     "simplified_title": "Israelis vote in record numbers as Netanyahu faces tight race",
@@ -784,74 +861,6 @@
     "reading_minutes": 5,
     "created_at": "2026-10-27T13:22:59.155381+00:00",
     "published_date": "2026-10-27",
-    "has_fulltext": true
-   },
-   {
-    "id": "90d1e3d3-4112-5843-be35-34047512daa0",
-    "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-    "simplified_title": "Israeli forces flatten Hebron areas, displacing thousands before Israel's election",
-    "quick_summary": "After a gun attack killed two Israeli soldiers near Hebron, Israeli forces sealed off the West Bank city, demolished buildings and drove roughly 1,500 to 2,000 Palestinians from their homes, days before Israel's general election.",
-    "simplified_body": "On Friday, two Palestinian gunmen attacked an Israeli military checkpoint outside Hebron, the biggest city in the occupied West Bank. Two Israeli soldiers and both gunmen were killed. Within hours, Israeli forces sealed off the city of 250,000 people, flattened the nearby Farsh al-Hawa industrial area and began emptying Ein Deir Baha, the district the gunmen allegedly came from.\n\nNumbers vary: the Hebron municipality first said about 1,500 people had been evicted, later saying 370 families, nearly 2,000 people, were displaced. City officials say almost half are children. Residents describe being ordered out at night, sometimes with 10 minutes' notice, and soldiers turning homes into bases. The Israel Defense Forces (IDF) says civilians left voluntarily and that about 2,000 residents belong to a clan \"associated with Hamas\". Locals dispute this, saying that clan numbers about 150 at most. Palestinian leaders call it collective punishment.\n\nThe West Bank has been under Israeli occupation for nearly 60 years, and Palestinians there can't vote in Israeli elections. Israel votes on Tuesday, with Prime Minister Benjamin Netanyahu's coalition narrowly trailing. Netanyahu vowed to \"destroy this place\", while Finance Minister Bezalel Smotrich called for a campaign \"exactly like in Gaza and Lebanon\". Many Palestinians believe the crackdown is aimed at voters.\n\nThe lockdown affects nearly a million people in the wider district. Schools and universities have moved online, and the Fawwar refugee camp has been closed off. A Palestinian news agency, Wafa, reported plans to displace a further 2,500 people. Locals have opened their homes to displaced families while waiting to see what happens after the election.",
-    "why_it_matters": "Mass displacement and the demolition of homes in occupied territory raise serious humanitarian and international law questions, and Israel's election result could shape what happens next in the West Bank. Australia has long backed a two-state solution, so events like this feed into debate here about that goal.",
-    "deep_analysis": "## Historical Context\nAs background: Israel has occupied the West Bank since the 1967 war, and the sources note it has been nearly 60 years. Hebron is especially tense because Israeli settlers live in and around the city alongside a large Palestinian population. Ministers Itamar Ben-Gvir and Orit Strook live in settlements in the Hebron area. Demolishing homes linked to attackers is a long-running Israeli practice that critics call collective punishment.\n\n## Multiple Perspectives\nThe IDF says it let civilians who wished to evacuate leave temporarily through screening points, targeted a clan it describes as Hamas-associated, and removed illegally built structures that posed security risks. Netanyahu and Smotrich promised a ferocious response. Palestinians, including Hebron's mayor Yousef al-Jabari and activist Issa Amro, call it collective punishment of uninvolved families and accuse leaders of using it as election material. Residents reject the claim that they left by choice and dispute the IDF's clan figures. Displacement estimates differ, ranging from about 1,500 to more than 2,000 people.\n\n## What to Watch\n- Tuesday's Israeli election result and whether the operation expands or winds down afterwards.\n- Wafa's report of a further 2,500 people facing displacement.\n- How long the city closure, online schooling and the Fawwar camp lockdown last.\n- Settler violence, such as the reported attack on a delivery truck driver.",
-    "concepts": [
-     {
-      "term": "collective punishment",
-      "definition": "Punishing a whole group of people for something done by a few individuals.",
-      "context": "Hebron officials say families with no link to the attack lost their homes."
-     },
-     {
-      "term": "occupied West Bank",
-      "definition": "Palestinian territory controlled by Israel's military since 1967, where Palestinians live under Israeli rule without voting in Israeli elections.",
-      "context": "Hebron is the West Bank's biggest city."
-     },
-     {
-      "term": "refugee camp",
-      "definition": "A long-standing settlement for Palestinians displaced in earlier conflicts and their descendants.",
-      "context": "Fawwar camp, home to nearly 8,000 people, was sealed shut."
-     }
-    ],
-    "quiz": {
-     "question": "Why do many Hebron residents believe the crackdown has a political dimension?",
-     "options": [
-      "Because the attack happened inside Israel's parliament",
-      "Because it came days before an Israeli election in which Netanyahu's coalition is narrowly trailing",
-      "Because Palestinians in the West Bank are voting on Tuesday",
-      "Because Hamas announced it was running in the election"
-     ],
-     "answer_index": 1,
-     "explanation": "Israel votes on Tuesday, and leaders made televised visits vowing harsh retribution while trailing in the race. West Bank Palestinians can't vote in that election."
-    },
-    "background_beginner": "Israelis and Palestinians have argued over the same land for more than a century. In a 1967 war, Israel took control of the West Bank, an area where millions of Palestinians live, and has held it under military occupation ever since. Over the years, Israeli settlements have grown there, which most of the world considers illegal. Palestinian armed groups sometimes attack Israeli soldiers or civilians, and Israel often responds with raids, closures and home demolitions. Hebron is a flashpoint because settlers and Palestinians live very close together. The conflict keeps coming up because neither side's core demands, such as land, security and statehood, have been resolved.",
-    "impact_score": 68,
-    "image_url": "https://i.guim.co.uk/img/media/f4bed34ab5e6b3719ff91ade5e3590c1842a8d24/0_0_5500_3668/master/5500.jpg?width=1920&quality=85&auto=format&fit=max&s=ac3c85397838015ab1254951ecd9f131",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "After a gun attack killed two Israeli soldiers near Hebron, Israeli forces sealed off the West Bank city, demolished buildings and drove roughly 1,500 to 2,000 Palestinians from their homes, days before Israel's general election.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes"
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "42c220a5-4b98-5791-b027-74ea76f99e6a"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-10-26T13:08:54.090748+00:00",
-    "published_date": "2026-10-26",
     "has_fulltext": true
    },
    {
@@ -1119,6 +1128,64 @@
   ],
   "GLOBAL_SYSTEMS": [
    {
+    "id": "e13f8d1c-370e-521a-bd7c-b938c458d218",
+    "title": "Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions",
+    "simplified_title": "India's biggest ever share sale could mean pricier mobile data",
+    "quick_summary": "Jio Platforms, India's largest telecom company, is debuting on the stock market after a record $3.2bn share sale, and analysts warn its era of ultra-cheap mobile data may be ending.",
+    "simplified_body": "Jio Platforms, India's biggest telecom company and part of Mukesh Ambani's Reliance empire, is set to start trading on the stock market on Wednesday. Its $3.2bn initial public offering (IPO), the first time a company sells shares to the public, is India's largest ever. Demand was huge: bids outstripped the shares on offer within hours of opening on 21 October, despite a rough patch for Indian markets.\n\nIt matters for the roughly half a billion people using Jio's cheap mobile data. Analysts say that once Jio answers to minority shareholders, it has less reason to keep prices low. Growth would come from earning more per customer, through 5G upgrades and tariff rises, rather than signing up new users with discounts. Rivals like Vodafone Idea could then raise prices too, with less fear of being undercut.\n\nSome background: Jio launched in 2016 with rock-bottom prices that got millions of Indians online. Data use jumped fifty-fold in three years and prices crashed. But the market shrank from 17 operators to an oligopoly of just three, and critics accuse Jio of a price war that pushed rivals out. Elon Musk has also accused Ambani of trying to block Starlink's entry, which Reliance denies.\n\nWhat next? Consumers may face higher bills, following an industry-wide price hike a few years ago, and analysts expect some price-sensitive customers to switch to the cheapest plans. Investors, meanwhile, are betting on India's growing hunger for data, with monthly use per Jio customer up from 28.7 GB in 2024 to 42.3 GB in 2026.",
+    "why_it_matters": "Jio's cheap data powered India's digital boom, so ending it could reshape how hundreds of millions of people get online. It also tests whether listing a company changes how it treats customers.",
+    "deep_analysis": "## Historical Context\nReliance began in 1958 as a small spice and polyester yarn trading business, later growing into textiles, petrochemicals, refining, retail and telecom. Founder Dhirubhai Ambani is credited with popularising share investing among ordinary Indians in the 1980s and 90s. Jio's 2016 launch slashed data prices and consolidated a 17-operator market into three. This is Reliance's first share sale in over two decades.\n\n## Multiple Perspectives\nSupporters, like brokerage Emkay Global, call Jio the \"digital engine of India\", noting it carries 60% of India's wireless data traffic and has the largest 5G subscriber base outside China. Critics say its discounting was a price war that killed competition, and Elon Musk has accused Ambani of thwarting Starlink, a claim Reliance rejects. Analysts such as Nitya Shah say listing will push prices up, which would help weaker rivals like Vodafone Idea but hurt consumers. Moody's says the listing should bring more transparency and a clearer valuation.\n\n## What to Watch\nWatch for tariff increases from Jio and its rivals, whether customers switch to cheaper plans, how Jio's share price performs given Reliance's stock has fallen nearly 20% in a year, and whether Starlink gets a foothold in India.",
+    "concepts": [
+     {
+      "term": "initial public offering",
+      "definition": "The first time a private company sells its shares to the public on a stock exchange.",
+      "context": "Jio's $3.2bn IPO is the largest in India's history."
+     },
+     {
+      "term": "minority shareholders",
+      "definition": "Investors who own a small slice of a company and expect it to make money for them.",
+      "context": "Analysts say answering to them gives Jio less reason to keep prices low."
+     },
+     {
+      "term": "oligopoly",
+      "definition": "A market dominated by just a few big companies.",
+      "context": "India's telecom market shrank from 17 operators to three after Jio launched."
+     }
+    ],
+    "quiz": {
+     "question": "Why do analysts think Jio's stock market listing could lead to higher mobile prices?",
+     "options": [
+      "Starlink has already undercut Jio's prices",
+      "The government will require higher prices from listed companies",
+      "Shareholders will expect more profit per customer rather than growth through discounts",
+      "Jio is running out of network capacity"
+     ],
+     "answer_index": 2,
+     "explanation": "Analysts say a listed Jio must answer to minority shareholders, which reduces its incentive to keep prices low and shifts focus to earning more per subscriber."
+    },
+    "background_beginner": "India has one of the world's biggest mobile phone markets. In 2016, a new company called Jio, owned by billionaire Mukesh Ambani's Reliance group, launched with super-cheap data, which got millions of people online for the first time and powered things like online payments and food delivery apps. But many rival phone companies couldn't compete and disappeared, leaving just three big players. Jio keeps making headlines because it's so central to everyday life in India, it's been accused of crushing competition, and now it's selling shares to the public, which may change how it sets prices.",
+    "impact_score": 68,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/06b7/live/fccc6560-d13d-11f1-b441-2b33b063138f.jpg",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "Jio Platforms, India's largest telecom company, is debuting on the stock market after a record $3.2bn share sale, and analysts warn its era of ultra-cheap mobile data may be ending.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-10-27T23:01:29.683689+00:00",
+    "published_date": "2026-10-28",
+    "has_fulltext": true
+   },
+   {
     "id": "54b624e2-4777-5fd6-b479-797998c7bd00",
     "title": "Africa food security under threat due to Iran war, trade officials warn",
     "simplified_title": "Iran war pushes up fuel and fertiliser costs, threatening African food supplies",
@@ -1177,124 +1244,61 @@
     "has_fulltext": true
    },
    {
-    "id": "de13a872-3cc4-5424-8583-0795521740c2",
-    "title": "European gas prices soar to four-year high over winter supply fears",
-    "simplified_title": "Europe's gas prices hit four-year high as winter worries grow",
-    "quick_summary": "European wholesale gas prices have jumped to their highest level since 2022, driven by cold weather, low storage and fears of fresh conflict in the Middle East.",
-    "simplified_body": "European wholesale gas prices hit €97 a megawatt-hour on Monday, the highest since 2022. Temperatures are falling and traders expect more demand for heating. In the UK, the month-ahead gas contract rose 4% to 240p a therm, its highest since December 2022.\n\nPart of the jump comes from fears of new supply disruptions in the Middle East, amid reports that the US and Israel have planned renewed strikes on Iran after the US midterm elections. Those reports pushed oil as high as $117 a barrel on Friday. The Brent crude benchmark eased about 2% on Monday but stayed above $114. Households feel it most: British energy bills are predicted to rise 16% in January, to about £2,000 a year for a typical dual fuel bill.\n\nEurope is heading into winter with gas storage at its lowest level in more than a decade. Exports from Qatar have slowed, and people used more energy in summer for cooling and refrigeration. Storage is about 75% full, against a seasonal average closer to 80%. The UK is especially exposed because it has some of Europe's smallest gas stores, after decades of relying on its own North Sea gas. According to the Office for National Statistics (ONS), the UK paid a record £4bn for power imports in the year to August.\n\nWhat happens next depends on how cold the winter gets and whether conflict in the Middle East escalates. Britain's energy regulators expect the UK to pay some of Europe's highest energy costs this winter.",
-    "why_it_matters": "Gas and oil are traded globally, so a supply squeeze in Europe and tension in the Middle East can push up fuel and energy costs worldwide. That includes the prices Australians pay at the bowser.",
-    "deep_analysis": "## Historical Context\nThe last time prices were this high was 2022. That year, Russia's full-scale invasion of Ukraine sent European energy costs soaring. As background, Europe had relied heavily on Russian pipeline gas. Since then it has leaned more on imported liquefied gas from suppliers such as Qatar, which makes a slowdown in Qatari exports matter.\n\n## Multiple Perspectives\nTraders are pricing in colder weather and the risk of Middle East disruption. The reports of planned US-Israeli strikes on Iran are not confirmed. UK regulators point to Britain's reliance on imports and its small storage capacity. The article also notes inefficiencies in the UK system: the country has paid to fire up gas plants while paying wind and solar farms to switch off because of grid bottlenecks. Investors seemed calmer. Stock markets rose slightly on Monday as oil prices eased.\n\n## What to Watch\n- Winter temperatures across Europe\n- How quickly storage levels fall from about 75%\n- Any military escalation involving Iran after the US midterms\n- Whether the predicted 16% rise in UK household bills goes ahead in January",
+    "id": "cbe464d1-42d0-5ad6-978e-0c6939d8dfbf",
+    "title": "Germany's Merz says erosion of global order means middle powers in Europe and Asia must be more assertive",
+    "simplified_title": "Germany's Merz urges Europe and Asia's middle powers to stand up",
+    "quick_summary": "German Chancellor Friedrich Merz, on a trip through Singapore, Japan and South Korea, says the breakdown of the global order means mid-sized countries in Europe and Asia must assert themselves more, as German carmakers struggle in China and Europe rethinks its defence.",
+    "simplified_body": "German Chancellor Friedrich Merz kicked off a four-day business trip in Singapore that also takes in Japan and South Korea. He said nations in Europe and Asia must \"assert our interests\" amid \"renewed great-power rivalry\", pointing to unpredictable tariffs from the United States under President Donald Trump and trade restrictions from China. He pitched Europe as a stable partner offering free trade and a rules-based order.\n\nThis matters for so-called middle powers: countries big enough to matter but not superpowers. Germany is feeling the squeeze. Its trade deficit with China was just under €90 billion in 2025, and Mercedes-Benz became the third big German carmaker, after BMW and VW, to cut its 2026 outlook, with deliveries in China down a further 29% in the nine months to September. Meanwhile German President Frank-Walter Steinmeier, visiting China, urged German firms to act with confidence there but warned the relationship is becoming unbalanced.\n\nSecurity is shifting too. Germany's defence minister Boris Pistorius and counterparts from France, Italy, Poland and the UK wrote that Russia is the biggest threat to Euro-Atlantic security and called for \"a stronger Europe within a stronger NATO\" (the North Atlantic Treaty Organization, a Western military alliance). That comes as Trump has threatened to leave NATO and to take Greenland from Denmark, though the ministers still called the US an \"indispensable ally\".\n\nNext, watch what deals Merz strikes in Japan and South Korea, whether Europe reshapes its trade tools to deal with China, and how European defence spending develops.",
+    "why_it_matters": "When big powers like the US and China play rough on trade, mid-sized trading nations look for each other — and Australia, a middle power with deep ties to both, faces the same balancing act Merz is describing.",
+    "deep_analysis": "## Historical Context\nAs background: after World War II, the US-led system of alliances and trade rules helped export-driven economies like Germany thrive. Germany also leaned on cheap Russian gas — the Nord Stream pipelines, damaged by blasts in September 2022, symbolise how that bet unravelled; a Ukrainian ex-officer is now on trial in Hamburg, though Ukraine's president denies involvement. China became a key market, but German carmakers now face sluggish demand and tough local rivals.\n\n## Multiple Perspectives\nMerz frames Europe as a reliable counterpoint to US tariffs and Chinese restrictions. Steinmeier wants continued cooperation with China but worries about the trade imbalance, while lawmaker Johannes Volkmann warns Germany must not lose its innovation lead or create new dependencies. Defence ministers want Europe to do more for itself yet still see the US as indispensable. Business leaders like Mercedes CEO Ola Kaellenius are shifting production to cheaper Hungary and asking German staff to work more without pay.\n\n## What to Watch\n- Outcomes of Merz's Japan and South Korea visits.\n- EU moves on its trade deficit with China, almost €197 billion in the first half of 2026.\n- Further profit warnings from German carmakers.\n- US commitment to NATO and Ukraine.",
     "concepts": [
      {
-      "term": "megawatt-hour",
-      "definition": "A unit of energy equal to one megawatt of power used for one hour, commonly used to price wholesale gas and electricity.",
-      "context": "European gas hit €97 per megawatt-hour."
+      "term": "middle powers",
+      "definition": "Countries with real economic or military weight that aren't superpowers.",
+      "context": "Merz says these countries in Europe and Asia must push their interests as the US and China compete."
      },
      {
-      "term": "Brent crude benchmark",
-      "definition": "A standard type of oil whose price is used as a global reference point for oil markets.",
-      "context": "Brent stayed above $114 a barrel despite easing on Monday."
+      "term": "trade deficit",
+      "definition": "When a country buys more goods from another country than it sells to it.",
+      "context": "Germany imported far more from China in 2025 than it exported there."
      },
      {
-      "term": "month ahead contract",
-      "definition": "An agreement to buy gas for delivery next month at a price set now.",
-      "context": "The UK month-ahead contract rose 4% to 240p a therm."
-     },
-     {
-      "term": "dual fuel bill",
-      "definition": "A combined household bill covering both gas and electricity.",
-      "context": "Typical UK dual fuel bills are predicted to reach about £2,000 a year."
+      "term": "rules-based order",
+      "definition": "A system where countries agree to follow shared international rules on trade and conduct.",
+      "context": "Merz pitched Europe as a defender of this system against unpredictable tariffs."
      }
     ],
     "quiz": {
-     "question": "Why is the UK considered especially exposed to high gas prices this winter?",
+     "question": "Why is Merz urging middle powers to be more assertive?",
      "options": [
-      "It has some of Europe's smallest gas stores and relies on imports",
-      "It has banned wind and solar power",
-      "Its gas storage is fuller than the European average",
-      "It gets most of its gas directly from Iran"
+      "Because German carmakers are booming in China",
+      "Because the US and China are creating an unpredictable environment with tariffs and trade restrictions",
+      "Because Singapore asked Germany for military help",
+      "Because Germany wants to leave NATO"
      ],
-     "answer_index": 0,
-     "explanation": "After decades of relying on North Sea gas, the UK built little storage, so it depends on imports and pays more when supplies tighten."
+     "answer_index": 1,
+     "explanation": "Merz pointed to renewed great-power rivalry, US tariffs and Chinese trade restrictions as reasons Europe and Asia must stand up for their interests."
     },
-    "background_beginner": "Europe uses a lot of gas to heat homes in winter and to make electricity. For years much of it came from Russia. In 2022, Russia's full-scale invasion of Ukraine caused prices to explode, and Europe switched to buying more gas from other places, such as Qatar. Countries store gas over summer so they have enough for winter. When storage is low, the weather turns cold, or conflict threatens supply routes, as in the Middle East, prices jump. That is why this topic comes back every winter.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/275f98d8c2bcb343ced7e3b49bd547734a4db6f9/865_0_6406_5124/master/6406.jpg?width=1920&quality=85&auto=format&fit=max&s=f80b42374235d796c62aff03cca6bf39",
+    "background_beginner": "For decades Germany got rich making and selling things — especially cars and machines — to the world, relying on the US for security and trading heavily with China. Lately that formula is wobbling. The US under Donald Trump has slapped on unpredictable tariffs and questioned its commitment to the NATO alliance, while China has become a tough competitor and sells Germany far more than it buys. Russia's war on Ukraine has also made Europe nervous about its safety. So German leaders keep talking about Europe standing on its own feet and teaming up with like-minded countries in Asia.",
+    "impact_score": 58,
+    "image_url": "https://static.dw.com/image/79773049_6.jpg",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "European wholesale gas prices have jumped to their highest level since 2022, driven by cold weather, low storage and fears of fresh conflict in the Middle East.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-26T13:08:49.411594+00:00",
-    "published_date": "2026-10-26",
-    "has_fulltext": true
-   },
-   {
-    "id": "409fa287-ca66-52db-8ce2-8fcebb23599c",
-    "title": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
-    "simplified_title": "Emirati diplomat Lana Nusseibeh joins race for top UN job",
-    "quick_summary": "Lana Nusseibeh, a former United Arab Emirates (UAE) ambassador to the UN known for her Gaza aid work, has entered the race to replace António Guterres as UN secretary general, drawing both praise and fierce criticism.",
-    "simplified_body": "Lana Nusseibeh, who served as the United Arab Emirates (UAE) ambassador to the United Nations (UN), has joined the race to become the next UN secretary general. She's a late entry, saying the Security Council seems close to deadlock on the six remaining candidates after six rounds of voting, the latest on 16 October. She's of Palestinian heritage and has been endorsed by the state of Palestine.\n\nSupporters, including former Biden adviser Brett McGurk, credit her with helping make the UAE the largest global provider of humanitarian aid to Gaza, according to UN data. But human rights activists, including former Human Rights Watch boss Kenneth Roth, attack her for denying reports that the UAE armed the Rapid Support Forces (RSF) in Sudan, a group accused of genocide by two US administrations. A January 2024 UN panel of experts report called allegations of arms smuggling from the UAE to the RSF credible. The UAE denies backing any faction.\n\nThe secretary general is chosen through straw polls in the 15-member Security Council, where the five permanent members can block candidates. Costa Rica's Rebeca Grynspan currently leads, with nine supporters but objections from five members, including two unnamed permanent members. A Latin American and Caribbean group, CELAC (the Community of Latin American and Caribbean States), has formally objected to Nusseibeh's late entry, saying consensus was forming behind their region getting the job.\n\nGuterres steps down at the end of the year, so more voting rounds are expected soon. Other candidates include Rafael Grossi, Carolyn Rodrigues-Birkett, Olara Otunnu and María Fernanda Espinosa.",
-    "why_it_matters": "The secretary general shapes how the UN responds to crises like Gaza and Sudan, and Australia, as a strong backer of the UN system, will be working closely with whoever wins.",
-    "deep_analysis": "## Historical Context\nAs general background, the secretary general is appointed by the General Assembly on the Security Council's recommendation, and there's an informal tradition of rotating the job between regions. Latin America has argued it's its turn, and many have also pushed for the first woman in the role. This race also marks the first straw poll revealing whether permanent members objected to candidates.\n\n## Multiple Perspectives\nBacker Brett McGurk calls Nusseibeh 'an inspired choice', and Nickolay Mladenov, who heads Donald Trump's Gaza Board of Peace, praises her bridge-building. Critics such as Kenneth Roth point to the UAE's domestic human rights record and alleged support for the RSF, which is blamed for thousands of deaths, including at El Fasher. The UAE denies supplying weapons and says it supports a civilian-led government in Sudan. CELAC sees her entry as disrupting an emerging regional consensus.\n\n## What to Watch\nWatch upcoming straw polls for whether Nusseibeh avoids permanent-member objections, whether Grynspan's opposition hardens, and whether pressure over Sudan grows. A decision is needed before Guterres leaves at year's end.",
-    "concepts": [
-     {
-      "term": "straw polls",
-      "definition": "Informal, secret test votes the Security Council holds to see which candidates have support or face objections.",
-      "context": "Grynspan leads the latest straw poll but faces objections from five members."
-     },
-     {
-      "term": "permanent members",
-      "definition": "The five countries with permanent Security Council seats and the power to veto decisions, including the choice of secretary general.",
-      "context": "Objections from two permanent members make Grynspan's path harder."
-     },
-     {
-      "term": "Rapid Support Forces (RSF)",
-      "definition": "A Sudanese paramilitary group led by Mohamed Hamdan 'Hemedti' Dagalo, fighting in Sudan's civil war.",
-      "context": "The UAE's alleged arming of the RSF is the main criticism of Nusseibeh."
-     }
-    ],
-    "quiz": {
-     "question": "Why does it matter that Rebeca Grynspan faced objections from two permanent Security Council members?",
-     "options": [
-      "Permanent members choose the winner alone without other votes",
-      "It means she has been disqualified from the race",
-      "It shows she has the most support in the General Assembly",
-      "Permanent members can effectively block a candidate, so their objections weaken her chances"
-     ],
-     "answer_index": 3,
-     "explanation": "Even with nine supporters, objections from permanent members, who hold veto power, make it hard for her to be a consensus candidate."
-    },
-    "background_beginner": "The United Nations is the world's main club of countries, and its leader is called the secretary general. António Guterres has held the job and leaves at the end of this year, so countries are choosing a replacement. The decision mostly happens in the Security Council, a group of 15 countries where five powerful members, the US, China, Russia, the UK and France, can block anyone. Candidates are tested in secret practice votes. It keeps coming up because the choice is political: regions argue about whose turn it is, and each candidate's record on wars like Gaza and Sudan gets put under the microscope.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/98a81df6f55fb9ab99a50af7c6007f18f3025042/917_0_4583_3667/master/4583.jpg?width=1920&quality=85&auto=format&fit=max&s=37af4b1909c996552b09e2d28d983115",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "Lana Nusseibeh, a former United Arab Emirates (UAE) ambassador to the UN known for her Gaza aid work, has entered the race to replace António Guterres as UN secretary general, drawing both praise and fierce criticism.",
+    "description": "German Chancellor Friedrich Merz, on a trip through Singapore, Japan and South Korea, says the breakdown of the global order means mid-sized countries in Europe and Asia must assert themselves more, as German carmakers struggle in China and Europe rethinks its defence.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race"
+      "name": "DW",
+      "url": "https://www.dw.com/en/germany-s-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-26T13:09:06.211446+00:00",
-    "published_date": "2026-10-26",
+    "reading_minutes": 9,
+    "created_at": "2026-10-27T23:01:31.560157+00:00",
+    "published_date": "2026-10-28",
     "has_fulltext": true
    }
   ],
@@ -1363,66 +1367,61 @@
     "has_fulltext": true
    },
    {
-    "id": "6272ded1-3132-5ab8-a312-26a1a5295437",
-    "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
-    "simplified_title": "Cyber agency warns Australians to expect more sudden online outages",
-    "quick_summary": "Australia's signals intelligence agency says AI is making cyber threats more dangerous, so organisations should put security ahead of keeping services online, even if that means unexpected outages.",
-    "simplified_body": "The Australian Signals Directorate (ASD), the nation's signals intelligence agency, has released its annual cyber threat report. It warns Australians to prepare for basic and important online services to go offline unexpectedly, because \"system security must be prioritised over system availability\". ASD responded to 1,500 cybersecurity incidents in 2025-26, up 20% on the year before. It also notified businesses, governments and critical infrastructure of more than 4,400 potential malicious incidents, up 80%.\n\nThis affects everyone who relies on online services, plus every organisation that runs them. ASD says hostile foreign governments, criminals and hackers are using artificial intelligence (AI) to gather intelligence, disrupt critical infrastructure and steal money. It also says \"state-based actors\" in the Indo-Pacific made persistent breach attempts, possibly to prepare for future conflicts. Cybersecurity is now a \"core business risk and leadership responsibility\", not just a tech problem.\n\nA big weak spot is legacy technology: old systems or devices that no longer get updates from their makers. ASD director general Abigail Bradshaw says these are among the most attractive targets for hackers. Just last week, newly found flaws in PHP, a programming language behind most websites, sent governments and businesses scrambling to fix them.\n\nASD's answer is to \"fight fire with fire\" by using cutting-edge AI to automate defences. Bradshaw has previously said ASD has access to Anthropic's Mythos model, a powerful AI tool not released publicly because it can find unknown flaws in IT systems. Expect more organisations to take services offline while they patch and modernise.",
-    "why_it_matters": "If your bank, government portal or favourite app suddenly goes down, it may be a deliberate choice to stay secure. ASD is signalling that Australians should get used to that trade-off as AI-powered attacks rise.",
-    "deep_analysis": "## Historical Context\nASD publishes a cyber threat report each year. This one shows incidents responded to rising 20% and notifications to outside organisations rising 80%. As background, Australia has suffered several major data breaches in recent years, which pushed cybersecurity higher up the political agenda.\n\n## Multiple Perspectives\nASD, Defence Minister Richard Marles and Home Affairs and Cybersecurity Minister Tony Burke all frame AI as both threat and tool, arguing defenders must use frontier models to keep up. ASD's claims that Indo-Pacific state actors may be preparing for future conflict are its own assessment and not independently verified in the report coverage. The call to put security over availability may frustrate users and businesses who depend on constant uptime, and outages carry their own costs.\n\n## What to Watch\n- Whether more services go offline for security patching.\n- How government agencies use frontier AI models like Mythos, and their partnerships with AI labs.\n- Progress replacing legacy technology in government and business.\n- Fallout from the PHP vulnerabilities.",
+    "id": "0b5c40ac-28fe-5b41-909b-e91dcb714476",
+    "title": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
+    "simplified_title": "US military base in Japan bans all Chinese-made BYD cars",
+    "quick_summary": "Kadena Air Base in Okinawa, Japan, has banned every vehicle made by Chinese electric car giant BYD, with the US military calling them an \"unacceptable and unmitigable risk\" to security.",
+    "simplified_body": "Kadena Air Base, one of America's biggest overseas military bases, on the Japanese island of Okinawa, has banned all vehicles made by Chinese electric vehicle (EV) maker BYD. The ban started this week and reportedly covers private cars, taxis and delivery vans. Gate guards have been told to turn BYD drivers away. A US Air Force spokesperson said the vehicles present \"an unacceptable and unmitigable risk to our personnel and our mission.\"\n\nThe worry is that tech built into modern cars, such as cameras, sensors and GPS (Global Positioning System) devices, could leak sensitive information. US officials haven't named a specific threat. Kadena matters a lot: it's the biggest US air force base in east Asia, hosts fighter jets and surveillance aircraft, and holds the Typhon missile system, which can reportedly reach parts of China and Russia.\n\nThis fits a bigger pattern. In June the Pentagon (the US Department of Defense) added BYD to a blacklist of 188 Chinese firms it believes have ties to China's military, which Beijing protested. In 2018 the US banned Huawei and ZTE phones on its bases. China has done similar things too, barring Tesla cars from some government compounds in 2021 before lifting that in 2024. BYD overtook Tesla as the world's top seller of battery-electric cars in 2025 and is expanding overseas, including into Japan.\n\nThe ban has sparked speculation that other US military sites could follow. BYD hadn't responded publicly at the time of reporting.",
+    "why_it_matters": "It shows how cars have become a national security issue, not just a consumer product. BYD is a big name in Australia's EV market and Australia hosts US forces, so similar debates could well land here, though the source doesn't mention Australia.",
+    "deep_analysis": "## Historical Context\nThe US has been restricting Chinese tech on security grounds for years: Huawei and ZTE phones were banned on US bases in 2018, and in June the Pentagon listed BYD among 188 firms it links to China's military. China has mirrored this, barring Tesla vehicles from some government compounds in 2021 over camera concerns before lifting it in 2024. As background, modern \"connected\" cars constantly collect location and camera data, which is why governments now treat them like smartphones on wheels.\n\n## Multiple Perspectives\nThe US military says BYD vehicles are an unmitigable risk, though it hasn't identified a specific threat. Beijing protested BYD's blacklisting. BYD hadn't responded publicly. Critics of such bans (general background) argue they can blur the line between genuine security and trade protectionism; supporters say military bases can't afford any data risk, especially one like Kadena that would be central in a crisis involving China, Russia or North Korea.\n\n## What to Watch\n- Whether other US bases in Japan or worldwide copy the ban.\n- Any response from BYD or Beijing.\n- Effects on BYD's push into Japan, where it launched the Racco minicar in July.\n- Whether allies, potentially including Australia, review Chinese connected cars near sensitive sites.",
     "concepts": [
      {
-      "term": "legacy technology",
-      "definition": "Outdated systems or devices that their makers no longer support with updates.",
-      "context": "ASD says these are among the biggest risks and most attractive hacker targets."
+      "term": "electric vehicle (EV)",
+      "definition": "A car powered by a battery and electric motor instead of petrol.",
+      "context": "BYD is now the world's biggest seller of battery-electric vehicles."
      },
      {
-      "term": "critical infrastructure",
-      "definition": "Essential systems society runs on, such as power, water, communications and transport.",
-      "context": "ASD says attackers are using AI to try to disrupt it."
+      "term": "Pentagon",
+      "definition": "The headquarters and common nickname for the US Department of Defense.",
+      "context": "It blacklisted BYD as a firm with alleged Chinese military ties."
      },
      {
-      "term": "state-based actors",
-      "definition": "Hackers working for or backed by foreign governments.",
-      "context": "ASD says they made persistent breach attempts on Australian networks."
-     },
-     {
-      "term": "signals intelligence",
-      "definition": "Intelligence gathered from electronic communications and signals.",
-      "context": "ASD is Australia's signals intelligence agency and also leads on cyber defence."
+      "term": "blacklist",
+      "definition": "An official list of companies or people treated as risky or restricted.",
+      "context": "BYD joined Alibaba, Baidu and Nio on the Pentagon's list of 188 Chinese firms."
      }
     ],
     "quiz": {
-     "question": "Why does ASD say Australians should expect more unexpected online outages?",
+     "question": "Why did Kadena Air Base ban BYD vehicles?",
      "options": [
-      "Because AI tools use too much electricity",
-      "Because organisations should prioritise securing systems over keeping them online",
-      "Because the government plans to shut down the internet during conflicts",
-      "Because PHP is being banned in Australia"
+      "Fears that in-car cameras, sensors and GPS could leak sensitive information",
+      "BYD cars were too expensive for personnel",
+      "Japan asked the US to protect local car brands",
+      "BYD cars failed safety crash tests"
      ],
-     "answer_index": 1,
-     "explanation": "ASD and Marles said security should come before availability, which may mean services go offline while they're secured."
+     "answer_index": 0,
+     "explanation": "The concern is data leaking through vehicle tech like cameras, sensors and GPS, though no specific threat was named."
     },
-    "background_beginner": "The Australian Signals Directorate is a government agency that collects intelligence from electronic signals and helps protect Australia from cyber attacks. Every year it reports on the threats it has seen. Attackers range from scammers stealing money to hackers working for foreign governments trying to spy or disrupt essential services. The topic keeps coming up because almost everything, from banking to hospitals, now runs online, and old, unpatched systems are easy targets. Now artificial intelligence is making attacks faster and smarter, so defenders are turning to AI too, creating a kind of digital arms race.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/a87ce9bdb5e94c4f30932078f5f45eda44e1da12/559_205_4047_3240/master/4047.jpg?width=1920&quality=85&auto=format&fit=max&s=dd1b3173d04b909c0c54532d7ac5fb5d",
+    "background_beginner": "The US and China are the world's two biggest powers and are increasingly rivals, especially over technology. The US fears Chinese companies could be pressured to hand data to China's government, so it has restricted Chinese products like Huawei phones. Cars are now part of this, because modern cars are full of cameras, sensors and internet connections. BYD is a Chinese company that has become the world's biggest seller of battery-electric cars. The US has big military bases in Japan, like Kadena on Okinawa, which would matter in any regional conflict. China has done similar things to American brands like Tesla, so this tit-for-tat keeps coming up.",
+    "impact_score": 55,
+    "image_url": "https://i.guim.co.uk/img/media/9ce436c9418b683f9bbe3e031fa0c07c06401260/504_0_5455_4367/master/5455.jpg?width=1920&quality=85&auto=format&fit=max&s=875a442b082fba0e6126daa50fa0ef9f",
     "region": "Australian defence, ADF, AUKUS, regional security",
     "region_code": "ADF",
-    "description": "Australia's signals intelligence agency says AI is making cyber threats more dangerous, so organisations should put security ahead of keeping services online, even if that means unexpected outages.",
+    "description": "Kadena Air Base in Okinawa, Japan, has banned every vehicle made by Chinese electric car giant BYD, with the US military calling them an \"unacceptable and unmitigable risk\" to security.",
     "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
+    "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns"
+      "url": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-26T13:08:49.819575+00:00",
-    "published_date": "2026-10-26",
+    "reading_minutes": 2,
+    "created_at": "2026-10-27T23:01:31.326804+00:00",
+    "published_date": "2026-10-28",
     "has_fulltext": true
    },
    {
@@ -1486,66 +1485,129 @@
   ],
   "AI_TECH": [
    {
-    "id": "073a5764-7eae-5d10-902a-5a2ab4c0a032",
-    "title": "AI giant Anthropic unveils plans for blockbuster share listing",
-    "simplified_title": "Anthropic, maker of Claude, reveals finances ahead of record share listing",
-    "quick_summary": "AI company Anthropic has opened its books ahead of plans to list on the Nasdaq stock exchange, in what will likely be the biggest stock market debut ever.",
-    "simplified_body": "Anthropic, the company behind the AI chatbot Claude, has revealed details of its business ahead of selling shares to the public. It reported losses of more than US$80.7 billion in the first half of the year, against revenue of US$16.3 billion over the same period. It will list on the Nasdaq under the symbol ANT, though the number of shares and their price range haven't been set yet.\n\nThis matters to investors and the wider tech world because Anthropic will be the first true artificial intelligence (AI) company to go public. Its valuation is expected to top SpaceX's, which listed this summer at about US$1.8 trillion, the biggest stock listing ever. That makes it a real test of whether the money pouring into AI makes business sense.\n\nSome background: tech companies have spent more than US$1 trillion in the past year alone on AI infrastructure such as data centres and the models that power AI tools. Anthropic was founded five years ago by chief executive Dario Amodei, his sister Daniela Amodei and five other co-founders. It announced its plan to go public in June, and its biggest rival, OpenAI, quickly said it would do the same.\n\nSince then, there's been a wave of cyber-security and other breaches involving the companies' AI agents, and current and former staff have warned that AI is being built without enough protection against future harms. Anthropic's documents repeat its promise to develop AI that benefits people, while warning investors of the risks. OpenAI's listing is reportedly expected early next year.",
-    "why_it_matters": "A listing this big will be a key signal of whether markets believe AI's massive spending can ever pay off, which affects global tech shares that many Australians hold through super funds.",
-    "deep_analysis": "## Historical Context\nAs general background, big tech listings have often marked turning points, from the dot-com era to later giant floats. Anthropic is only five years old, yet it's expected to beat SpaceX's roughly US$1.8 trillion debut from this summer. Its June announcement kicked off a race with OpenAI, which also plans to list.\n\n## Multiple Perspectives\nBulls will point to US$16.3 billion in half-year revenue as proof of real demand. Sceptics will point to losses above US$80.7 billion over the same period and the more than US$1 trillion industry-wide spend on infrastructure. Safety critics, including current and former staff at both Anthropic and OpenAI, warn that AI is being developed without enough ability to protect humanity from future harms, and recent breaches involving AI agents add weight to those concerns. Anthropic says it remains committed to beneficial AI while flagging the dangers to investors.\n\n## What to Watch\n- The share count and price range, which are yet to be set.\n- Whether the valuation actually exceeds SpaceX's.\n- OpenAI's listing, reportedly expected early next year.\n- Any further security incidents involving AI agents.",
+    "id": "0da59b02-7964-59c9-bd4b-6036514dec0b",
+    "title": "Anthropic files for potentially record-breaking stock market valuation in key test for AI industry",
+    "simplified_title": "Claude maker Anthropic files to list on US stock market",
+    "quick_summary": "Anthropic, the company behind the Claude chatbot, has publicly filed to list its shares in what could be one of the biggest stock market debuts ever, revealing soaring revenue, huge losses and unusual warnings about AI's risks.",
+    "simplified_body": "Anthropic, the San Francisco company behind the Claude chatbot, has released its paperwork for an initial public offering (IPO), its first sale of shares on the US stock market under the symbol ANT. It hasn't named a target valuation, but investors have valued it at $1.5 trillion to $2 trillion or more, which could make it the largest listing in history.\n\nThe filing shows revenue rocketing from $41m in 2023 to about $16.3bn in the first half of 2026 alone. But it also lost roughly $80bn in that half-year, though much of that was a $72.4bn one-off charge. Most of its money comes from businesses rather than everyday users, and its top five customers make up a quarter of revenue, which is a risk if any walk away. It does have a big cash pile, reported at $131.6bn.\n\nAnthropic was founded in 2021 by Dario Amodei after he left OpenAI, the maker of ChatGPT. It's a public benefit corporation, meaning it must balance profit with a stated social goal. Its filing lists 92 pages of risks, including that its safety safeguards are \"incomplete\" and that a Chinese state-sponsored hacking group allegedly manipulated its tools to attack around 30 targets. It's also in a dispute with the Trump administration, which labelled it a supply chain risk, blocking military contracts. Anthropic is challenging this.\n\nThe listing is being watched as a test of whether the giant AI boom can actually make money. Analysts say investors are now less forgiving of companies promising future profits, so the share price and early trading will be a key signal for the whole AI industry.",
+    "why_it_matters": "This listing is a major test of whether the AI boom is a sound business or a bubble, and the outcome could ripple through global markets, including the share markets and superannuation funds many Australians are invested in.",
+    "deep_analysis": "## Historical Context\nAnthropic was founded in 2021 after CEO Dario Amodei left OpenAI. It grew from $41m in revenue in 2023 to $4.585bn in 2025, and $16.3bn in the first half of 2026. As general background, big tech listings such as Facebook's have historically been treated as milestones for whole industries, and this one is framed the same way for AI.\n\n## Multiple Perspectives\nAnthropic argues AI could deliver a \"country of geniuses in a datacenter\", speeding up medicine and science. Sceptics point to massive losses: the BBC reports $80.7bn for the half-year, while The Guardian notes $72.4bn of the roughly $80bn was a one-off charge. Mergermarket's Troy Hooper calls revenue growth \"exceptional\" but says investors lack a clear view of underlying profitability and are \"paying for future dominance\". Founder ETF's Michael Monaghan flags that many top customers have no long-term contracts, and that Google and Amazon are both investors and competitors. There's also a tension: Amodei has called for slowing AI development, yet a successful listing could pour more money into the sector and speed it up. Sources also differ slightly on customer numbers (over 14,000 vs almost 12,000 enterprise customers).\n\n## What to Watch\n- The target share price and final valuation.\n- Whether the Trump administration's supply chain risk designation is overturned.\n- Rising computing and data centre costs, including $321.4bn in leasing commitments.\n- How other AI companies' valuations react.",
     "concepts": [
      {
-      "term": "Nasdaq",
-      "definition": "A major US stock exchange where many technology companies' shares are traded.",
-      "context": "Anthropic will list its shares there under the symbol ANT."
+      "term": "initial public offering (IPO)",
+      "definition": "The first time a private company sells its shares to the public on a stock exchange.",
+      "context": "Anthropic's IPO will let ordinary investors buy shares in the company for the first time."
      },
      {
-      "term": "valuation",
-      "definition": "An estimate of what a whole company is worth.",
-      "context": "Anthropic's is expected to top SpaceX's record US$1.8 trillion listing."
+      "term": "public benefit corporation",
+      "definition": "A for-profit company that must balance making money with pursuing a stated social good, and report on that progress.",
+      "context": "Anthropic says this structure could make short-term financial goals harder to hit."
      },
      {
-      "term": "AI agents",
-      "definition": "AI programs designed to carry out tasks somewhat on their own, rather than just answering questions.",
-      "context": "A wave of security breaches involving AI agents followed the listing announcements."
-     },
-     {
-      "term": "go public",
-      "definition": "When a private company first sells shares to the general public on a stock exchange.",
-      "context": "Anthropic and OpenAI both plan to go public."
+      "term": "supply chain risk",
+      "definition": "A government label marking a supplier as a security concern, blocking certain agencies from buying from it.",
+      "context": "The Trump administration gave Anthropic this label, preventing military agencies contracting with it."
      }
     ],
     "quiz": {
-     "question": "Why is Anthropic's listing described as a test for the future of AI?",
+     "question": "Why do analysts see Anthropic's reliance on a small group of customers as risky?",
      "options": [
-      "Because SpaceX is buying Anthropic",
-      "Because it's the first company ever to list on the Nasdaq",
-      "Because the government will decide whether AI is legal based on it",
-      "Because it's the first true AI company to sell shares publicly, while losing far more than it earns"
+      "Because the law limits how many customers it can have",
+      "Because those customers are all government agencies",
+      "Because losing even one big customer could cut revenue sharply, and many lack long-term contracts",
+      "Because small customers pay more than big ones"
      ],
-     "answer_index": 3,
-     "explanation": "It's the first true AI company to go public, and with losses above US$80.7 billion against US$16.3 billion revenue, investors' response will show confidence in AI's business case."
+     "answer_index": 2,
+     "explanation": "Its top five customers make up a quarter of revenue, and many top customers have no long-term contract, so losing one could hurt badly."
     },
-    "background_beginner": "Anthropic is an American company that makes Claude, an AI chatbot that can write, answer questions and help with tasks. It was started five years ago by siblings Dario and Daniela Amodei and others. Its main rival is OpenAI, maker of ChatGPT. Building AI costs enormous sums because it needs huge computer centres, so these companies have mostly raised money from private investors. Now they want to sell shares to everyday investors on the stock market. The topic keeps coming up because AI is spreading fast, is very expensive, isn't yet profitable for these firms, and raises ongoing worries about safety and security.",
+    "background_beginner": "Anthropic is an American tech company that makes Claude, an AI chatbot that can write, answer questions and code. It was started in 2021 by Dario Amodei and others who left OpenAI, the company behind ChatGPT. These firms are racing to build ever more powerful AI, spending enormous sums on computers and data centres. Anthropic is known for warning loudly about AI's dangers while building it anyway. People keep talking about it because AI companies are worth huge amounts on paper but lose lots of money, raising fears of a bubble. Selling shares publicly forces Anthropic to reveal its real finances for the first time.",
     "impact_score": 82,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/746e/live/6e0550b0-cec4-11f1-b9e0-e5f0da03dc7f.jpg",
+    "image_url": "https://i.guim.co.uk/img/media/445e90b032229c54129ea99217bf19c2cdd0d1a3/0_0_5500_3666/master/5500.jpg?width=1920&quality=85&auto=format&fit=max&s=99b406b091b9634ddab1eeb56b17f2e8",
     "region": "AI and technology",
     "region_code": "AI_TECH",
-    "description": "AI company Anthropic has opened its books ahead of plans to list on the Nasdaq stock exchange, in what will likely be the biggest stock market debut ever.",
+    "description": "Anthropic, the company behind the Claude chatbot, has publicly filed to list its shares in what could be one of the biggest stock market debuts ever, revealing soaring revenue, huge losses and unusual warnings about AI's risks.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways"
+     },
+     {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo"
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "073a5764-7eae-5d10-902a-5a2ab4c0a032"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-10-27T23:01:14.778865+00:00",
+    "published_date": "2026-10-28",
+    "has_fulltext": true
+   },
+   {
+    "id": "770f346c-9cee-5fd4-90e1-40e6de4b7643",
+    "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+    "simplified_title": "Serious boot-up flaw leaked early, putting most servers worldwide at risk",
+    "quick_summary": "A critical flaw in widely used open source boot firmware for servers became public before a planned January disclosure, leaving defenders scrambling to patch millions of devices.",
+    "simplified_body": "A serious security hole has been found in TianoCore EDK II, open source code that hardware makers and cloud providers use to build the Unified Extensible Firmware Interface (UEFI) firmware that runs when a computer starts up. The flaw, tracked as CVE-2026-97631, is rated 9.5 out of 10 for severity. It's a memory-corruption bug in a networking component called ICMP (Internet Control Message Protocol) that lets attackers run malicious code before the operating system loads.\n\nThis matters because nearly every firmware supplier, including AMI, Insyde and Phoenix, relies on this code, and so did Microsoft's hardened version, Project Mu. Malicious code that runs this early slips in before protections like Secure Boot kick in. The attack itself only runs once, but it can open the door for attackers to install other nasties that run every time the machine boots.\n\nThe flaw was discovered by Alex Matrosov of Anthropic and Dan Holmes of Google, who planned a coordinated disclosure for January. But AMI published a pull request last month describing the bug and its fix. Once the discoverers noticed, TianoCore Project members released a public advisory last week. With the fix public, skilled hackers can work out how to trigger the flaw and build working attacks.\n\nNext comes the slow part: patching firmware across millions of devices made by thousands of hardware makers and cloud providers, which is cumbersome and time-consuming. It's the second botched disclosure in about a week, after a critical flaw in the PHP programming language.",
+    "why_it_matters": "Most of the world's servers and data centres, including those running cloud services Australians use every day, depend on this firmware, so a slow patch rollout leaves a wide window for attackers.",
+    "deep_analysis": "## Historical Context\nAs background, UEFI replaced the older BIOS as the software that starts a computer, and EDK II became the reference implementation most vendors build on. Because firmware sits below the operating system, bugs there have long been prized by sophisticated attackers. This flaw comes six days after another botched disclosure involving a critical PHP vulnerability.\n\n## Multiple Perspectives\nThe discoverers, from Anthropic and Google, wanted the bug kept quiet until a coordinated disclosure in January, giving vendors time to prepare patches. AMI's pull request made the details public early, forcing TianoCore to publish its advisory. The source doesn't give AMI's side of why the pull request went out. Defenders now face pressure because the published fix effectively serves as a roadmap for attackers.\n\n## What to Watch\n- How quickly hardware makers and cloud providers ship firmware updates.\n- Whether working exploits appear publicly.\n- Whether repeated botched disclosures prompt changes to how coordinated disclosure is handled.",
+    "concepts": [
+     {
+      "term": "Unified Extensible Firmware Interface (UEFI)",
+      "definition": "The low-level software that runs when a computer powers on, before the operating system loads.",
+      "context": "The flaw lives in code used to build UEFI firmware for most servers."
+     },
+     {
+      "term": "Secure Boot",
+      "definition": "A protection that checks each piece of start-up code is trusted before running it, creating a chain of trust.",
+      "context": "The bug lets attackers run code before Secure Boot can protect the machine."
+     },
+     {
+      "term": "coordinated disclosure",
+      "definition": "An agreement to keep a security flaw secret until fixes are ready, then announce it publicly at a set time.",
+      "context": "The planned January disclosure was derailed when AMI published details early."
+     }
+    ],
+    "quiz": {
+     "question": "Why does publishing the patch code early make this flaw more dangerous?",
+     "options": [
+      "It makes the attack permanent on every machine",
+      "It deletes Secure Boot from all servers",
+      "It raises the severity score to 10",
+      "It shows skilled hackers how to trigger the bug and build exploits before most devices are patched"
+     ],
+     "answer_index": 3,
+     "explanation": "Public fix code reveals how the vulnerability works, and since patching firmware across millions of devices is slow, attackers get a head start."
+    },
+    "background_beginner": "Every computer runs a small program the moment it switches on, called firmware, which wakes up the hardware and hands over to the operating system. Today most of this firmware follows a standard called UEFI, and a free shared codebase called EDK II is the foundation most manufacturers use. Because so many companies build on the same code, one bug can affect huge numbers of machines. Security researchers who find bugs usually tell the makers privately first so fixes are ready before the public finds out. When that process breaks down and details leak early, attackers can strike before everyone is patched, which is why these stories keep coming up.",
+    "impact_score": 82,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "A critical flaw in widely used open source boot firmware for servers became public before a planned January disclosure, leaving defenders scrambling to patch millions of devices.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
     "reading_minutes": 2,
-    "created_at": "2026-10-26T13:54:27.808177+00:00",
-    "published_date": "2026-10-26",
+    "created_at": "2026-10-27T23:01:31.548881+00:00",
+    "published_date": "2026-10-28",
     "has_fulltext": true
    },
    {
@@ -1670,5 +1732,5 @@
    }
   ]
  },
- "total_stories": 26
+ "total_stories": 27
 }
