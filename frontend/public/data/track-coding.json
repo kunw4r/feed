@@ -177,5 +177,12 @@
     }
   ],
   "slug": "coding",
-  "icon": "code"
+  "icon": "code",
+  "cover_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Two_women_operating_ENIAC_%28full_resolution%29.jpg/3840px-Two_women_operating_ENIAC_%28full_resolution%29.jpg",
+    "width": 5682,
+    "height": 3899,
+    "credit": "Wikimedia Commons (Programmer)",
+    "source_url": "https://en.wikipedia.org/wiki/Programmer"
+  }
 }

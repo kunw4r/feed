@@ -174,5 +174,12 @@
     }
   ],
   "slug": "music-theory",
-  "icon": "music"
+  "icon": "music",
+  "cover_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gaffurio_Pythagoras.png/1920px-Gaffurio_Pythagoras.png",
+    "width": 1920,
+    "height": 2496,
+    "credit": "Wikimedia Commons (Music theory)",
+    "source_url": "https://en.wikipedia.org/wiki/Music_theory"
+  }
 }

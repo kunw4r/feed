@@ -172,5 +172,12 @@
     }
   ],
   "slug": "geography",
-  "icon": "globe"
+  "icon": "globe",
+  "cover_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/CIA_World_Physical_Map_%282023%29.pdf/page1-3840px-CIA_World_Physical_Map_%282023%29.pdf.jpg",
+    "width": 6600,
+    "height": 3600,
+    "credit": "Wikimedia Commons (Geography)",
+    "source_url": "https://en.wikipedia.org/wiki/Geography"
+  }
 }

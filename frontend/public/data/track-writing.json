@@ -147,5 +147,12 @@
     }
   ],
   "slug": "writing",
-  "icon": "pen-tool"
+  "icon": "pen-tool",
+  "cover_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/1920px-Rosetta_Stone.JPG",
+    "width": 1920,
+    "height": 2246,
+    "credit": "Wikimedia Commons (Writing)",
+    "source_url": "https://en.wikipedia.org/wiki/Writing"
+  }
 }

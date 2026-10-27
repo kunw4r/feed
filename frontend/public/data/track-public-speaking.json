@@ -154,5 +154,12 @@
     }
   ],
   "slug": "public-speaking",
-  "icon": "mic"
+  "icon": "mic",
+  "cover_image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Reijiro_Wakatsuki_giving_a_speech_at_the_London_Naval_Conference.jpg",
+    "width": 700,
+    "height": 494,
+    "credit": "Wikimedia Commons (Public speaking)",
+    "source_url": "https://en.wikipedia.org/wiki/Public_speaking"
+  }
 }
