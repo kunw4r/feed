@@ -3,6 +3,7 @@
 Shared working memory for Claude Code and ZCode. One line per entry, `YYYY-MM-DD — note`, newest first. Prune when stale.
 
 ## Decisions
+2026-10-27 — Phase 2 ticker: DevelopingTicker under the masthead (today's edition only) lists thread_size>1 stories; CSS marquee = two copies translating -50%, duration measured from half the track width at ~55px/s (clamped 30–120s), pauses via .ticker:hover/:focus-within, reduced-motion = animation:none + overflow-x:auto row (globals.css .ticker).
 2026-10-27 — Phase 2 archive: day covers are portrait magazine covers (weekday + italic date numeral on the photo, lead headline + story count on the scrim); months group under display headings with an edition count.
 2026-10-27 — Phase 2 /you: heatmap = fixed 14px cells, 12 weeks ending today, Monday-start columns, intensity from reads/day; coverage + accuracy-buckets need story metadata, fetched client-side from /search/index.json (id→region/topic/date); accuracy buckets = by the week each story RAN (progress.quiz has no timestamps); all Date.now-derived UI gated behind a mounted flag or the static build bakes stale dates and hydration errors.
 2026-10-27 — Phase 2 empty states: /recall and /weekly zero-states show a real sample/example question card (recall uses bank[0]; weekly's example is fabricated and clearly labelled — its empty branch can't occur while editions carry quizzes, verified via a temporary items=[] build). /search idle now shows browse chips + newest 9 stories (ResultList shared with results).

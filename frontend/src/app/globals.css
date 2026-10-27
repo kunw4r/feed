@@ -547,3 +547,18 @@ body[data-finale="on"] { background-color: #141009; }
   box-shadow: 0 0 0 1px var(--t-edge-accent);
 }
 .scrub:focus-visible { outline-offset: 8px; }
+
+/* ── Developing ticker ──
+   Two copies of the list translate -50% for a seamless loop; hover/focus pauses.
+   Reduced motion: no animation, the strip becomes a plain scrollable row. */
+.ticker { overflow: hidden; }
+.ticker-track { animation: ticker-scroll var(--ticker-duration, 60s) linear infinite; will-change: transform; }
+.ticker:hover .ticker-track, .ticker:focus-within .ticker-track { animation-play-state: paused; }
+@keyframes pulse-dot { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+.pulse-dot { animation: pulse-dot 2.4s ease-in-out infinite; }
+@media (prefers-reduced-motion: reduce) {
+  .ticker { overflow-x: auto; scrollbar-width: none; }
+  .ticker::-webkit-scrollbar { display: none; }
+  .ticker-track { animation: none; }
+  .pulse-dot { animation: none; }
+}
