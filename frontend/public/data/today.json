@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "generated_at": "2026-10-27T23:00:37.420493+00:00",
+ "generated_at": "2026-10-28T06:55:49.179259+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -141,6 +141,64 @@
     "has_fulltext": true
    },
    {
+    "id": "3cfe8f4e-45e0-5d5e-af76-e949c31f0edc",
+    "title": "‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws",
+    "simplified_title": "Australia moves to ban AI chatbots that fake emotional closeness with kids",
+    "quick_summary": "Australia's digital duty of care bill, which would ban AI chatbots from fostering children's emotional dependence, has passed the lower house and now faces an uncertain Senate.",
+    "simplified_body": "The federal government's digital duty of care bill passed the House of Representatives on Wednesday. It would place an overarching obligation on social media, games, apps and chatbots to provide a safe online environment. Labor accepted amendments from crossbencher Kate Chaney adding a ban on chatbot \"material or conduct that simulates emotional intimacy\" and encourages a child's dependence on it instead of human relationships.\n\nThis affects big tech platforms and every Australian who uses them, especially kids. Prime Minister Anthony Albanese said stories of people calling a chatbot their best friend should be a \"wake up call\". Platforms would also have to offer an easy, prominent \"opt-out\" from their algorithm and suggested content. Communications Minister Anika Wells says harmful content like material promoting misogyny, terrorism, suicide, self-harm and eating disorders would be captured.\n\nThe bill replaces a patchwork of existing online codes with one broad duty. The Coalition and One Nation voted against it, calling it \"Orwellian\" censorship, which Wells strongly denies. The Greens support it but want it tougher, including the right to sue platforms and bigger penalties.\n\nThe Senate will debate it in coming weeks, and a Greens inquiry reports back in late November. The government hopes to pass it by the end of 2026. A big sticking point is whether the telecommunications industry ombudsman should become a complaints watchdog for big tech. Labor rejected that idea in the lower house, but the Greens will push it in the Senate, and the ombudsman herself says her office is well placed to do it.",
+    "why_it_matters": "It could change how chatbots and social media are allowed to treat Australian kids, and may give everyday users somewhere to complain when platforms ignore them.",
+    "deep_analysis": "## Historical Context\nAs background, Australia has positioned itself as a world leader in online safety regulation, with an eSafety Commissioner and a social media minimum age for under-16s. This bill shifts from a list of specific codes to a broad \"duty of care\", a concept borrowed from negligence law, putting the onus on platforms to prevent harm.\n\n## Multiple Perspectives\n- **Labor** says platforms must take responsibility and remains open to Coalition amendments.\n- **Coalition and One Nation** call it \"Orwellian\" censorship and voted against it.\n- **Greens** back it but want private legal action, higher penalties and an external complaints body.\n- **Independents** Kate Chaney won chatbot and opt-out amendments; Sophie Scamps's ombudsman amendment was rejected.\n- **Ombudsman Cynthia Gebert** says without an external pathway, users risk being stuck with automated responses that \"don't go anywhere\".\n\n## What to Watch\n- The Greens' Senate inquiry report in late November.\n- Whether the Coalition shifts or Labor relies on the Greens and crossbench.\n- Whether an ombudsman role for big tech is added.\n- How \"simulates emotional intimacy\" would be defined and enforced.",
+    "concepts": [
+     {
+      "term": "digital duty of care",
+      "definition": "A legal obligation requiring platforms to take reasonable steps to keep users safe, rather than just following a checklist of rules.",
+      "context": "It's the core of the bill, replacing several existing online codes."
+     },
+     {
+      "term": "telecommunications industry ombudsman",
+      "definition": "An independent body that resolves complaints between consumers and phone or internet providers, funded by industry.",
+      "context": "Some want its powers expanded to handle complaints against big tech."
+     },
+     {
+      "term": "opt-out",
+      "definition": "A setting that lets users switch off a feature, here the algorithm that picks suggested content.",
+      "context": "The bill requires it to be easy to use and prominently available."
+     }
+    ],
+    "quiz": {
+     "question": "What is the main gap the telecommunications ombudsman says the bill leaves open?",
+     "options": [
+      "It has no algorithm opt-out",
+      "It only applies to games",
+      "Users have no external place to take unresolved complaints against platforms",
+      "It doesn't cover chatbots"
+     ],
+     "answer_index": 2,
+     "explanation": "Gebert praised the bill's onus on platforms but said people need somewhere to go when platforms don't resolve complaints."
+    },
+    "background_beginner": "Governments worldwide are wrestling with how to make the internet safer, especially for kids. The main players are big tech companies like social media platforms and AI chatbot makers, governments writing new rules, and parents and advocates worried about harm. Australia has been especially active, creating online safety watchdogs and age rules. Recently AI chatbots that chat like a friend have raised new worries about children forming attachments to them. The debate keeps returning because it pits child safety against concerns about free speech and censorship, and technology keeps changing faster than laws can keep up.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/b3e44fb72cc705d89a54b8eb9719b50630ca675c/549_0_5485_4388/master/5485.jpg?width=1920&quality=85&auto=format&fit=max&s=856eab4ffcaa4d034d049d00d96737ff",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Australia's digital duty of care bill, which would ban AI chatbots from fostering children's emotional dependence, has passed the lower house and now faces an uncertain Senate.",
+    "tier": "LOCAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-10-28T06:56:20.535322+00:00",
+    "published_date": "2026-10-28",
+    "has_fulltext": true
+   },
+   {
     "id": "66b82da8-7b45-5542-8692-5851a87d8c9a",
     "title": "Guardian Essential poll: One Nation and Labor’s primary vote on par as discontent with Albanese rises",
     "simplified_title": "One Nation draws level with Labor as Albanese's popularity slides",
@@ -259,69 +317,6 @@
     "reading_minutes": 3,
     "created_at": "2026-10-27T23:01:13.816274+00:00",
     "published_date": "2026-10-28",
-    "has_fulltext": true
-   },
-   {
-    "id": "7107484a-fc77-5220-a172-49bccc3ea1c2",
-    "title": "Tough new testing rules for sunscreens in the wake of SPF scandal",
-    "simplified_title": "Regulator proposes tougher sunscreen testing after SPF failures",
-    "quick_summary": "Australia's medicines regulator wants sunscreen makers to test finished products more often and hand over results before sale, after Choice found 16 of 20 popular sunscreens fell short of their SPF claims.",
-    "simplified_body": "The Therapeutic Goods Administration (TGA), Australia's medicines regulator, has proposed stricter rules for sunscreens. Brands would have to test the sun protection factor (SPF) of their finished product, not just the base formula, keep testing it over its shelf life, and give results to the TGA confidentially before going to market. The TGA also wants to allow an in vitro test method and tighten accreditation of testing labs.\n\nThis matters for anyone who wears sunscreen, which is a lot of Australians. Trust took a hit last year when consumer group Choice found 16 of 20 popular sunscreens failed their SPF label claims. One SPF 50+ product tested at just SPF 4 and was recalled, along with 19 others sharing the same base formula. The TGA's chief medical adviser Robyn Langham said there were multiple factors behind the low results, not a single cause.\n\nRight now, makers only hand over SPF data if the TGA asks, and the TGA doesn't regulate or accredit testing labs. An ABC investigation found more than half the failing sunscreens used one overseas lab whose results experts questioned. Current testing is in vivo, meaning sunscreen goes on volunteers' skin, which the TGA says gives variable results. Even under the new rules, test data won't be made public and the TGA won't routinely check it before products hit shelves.\n\nSome changes could arrive soon, while others need more consultation and possibly law changes. The TGA is still weighing new labels, such as \"low\" to \"very high\" instead of numbers. It's unclear how sunscreens already on sale will be affected, and the TGA hasn't released its investigation results.",
-    "why_it_matters": "Two in three Australians will be diagnosed with skin cancer in their lifetime and about 2,000 die from it each year, so being able to trust the number on the bottle really counts.",
-    "deep_analysis": "## Historical Context\nAs background, Australia has some of the world's highest skin cancer rates and a long history of sun-safety campaigns. The current shake-up traces to Choice's testing last year, which found 16 of 20 sunscreens missed their SPF claims, followed by a recall of one 50+ product that tested at SPF 4 and 19 others with the same base formula.\n\n## Multiple Perspectives\nThe TGA frames the reforms as making SPF claims more reliable and putting responsibility on suppliers. But transparency gaps remain: data stays confidential, won't be routinely checked before sale, and the TGA hasn't released its investigation results. The TGA cited confidentiality, intellectual property and misinterpretation risks for not publishing data. It also admits stricter lab accreditation could make testing more expensive and harder to access, a likely concern for manufacturers. Allowing in vitro testing addresses variability in human testing, though the TGA says it may not suit some formulations or water-resistance claims.\n\n## What to Watch\n- Which changes start soon versus those needing legislation.\n- Whether labels move from numbers to words like \"high\" and \"very high\".\n- How rules apply to sunscreens already on shelves.\n- Whether the TGA publishes its investigation into the Choice findings.\n- Clearer lines between cosmetic and therapeutic sunscreens.",
-    "concepts": [
-     {
-      "term": "sun protection factor (SPF)",
-      "definition": "A rating of how well a sunscreen blocks UVB rays; SPF 20 filters about 95% and SPF 50 about 98%.",
-      "context": "Many sunscreens tested well below the SPF printed on their labels."
-     },
-     {
-      "term": "in vitro",
-      "definition": "A lab test where sunscreen is spread on a plastic plate rather than human skin.",
-      "context": "The TGA proposes allowing it because human-skin tests gave variable results."
-     },
-     {
-      "term": "in vivo",
-      "definition": "Testing on living people, here by applying sunscreen to volunteers under simulated sunlight.",
-      "context": "It's the current required method and won't be fully replaced."
-     },
-     {
-      "term": "base formula",
-      "definition": "The core recipe a sunscreen is built on, which can be shared by several products.",
-      "context": "20 sunscreens were recalled because they shared one failing base formula."
-     }
-    ],
-    "quiz": {
-     "question": "Under the TGA's proposal, what happens to sunscreen SPF test results?",
-     "options": [
-      "They are published online for shoppers",
-      "Choice reviews them before each product launches",
-      "They are no longer required",
-      "They go to the TGA confidentially before sale, but aren't routinely checked"
-     ],
-     "answer_index": 3,
-     "explanation": "Brands would submit results confidentially before market, but the TGA said it wouldn't routinely check them and decided against making them public."
-    },
-    "background_beginner": "Sunscreen in Australia is regulated by the Therapeutic Goods Administration, the government body that oversees medicines. Each bottle shows an SPF number saying how much sunburn-causing UV it blocks. Because Australia has very high skin cancer rates, people rely heavily on that number. Last year, consumer group Choice tested popular sunscreens and found most didn't live up to their labels, sparking recalls and questions about how sunscreens are tested and which labs do the testing. The issue keeps coming up because it touches public health, trust in big brands, and whether the regulator is watching closely enough.",
-    "impact_score": 55,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/8b004397929678458c095a56b5a471ba?impolicy=wcms_watermark_news&cropH=477&cropW=849&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Australia's medicines regulator wants sunscreen makers to test finished products more often and hand over results before sale, after Choice found 16 of 20 popular sunscreens fell short of their SPF claims.",
-    "tier": "LOCAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-27/tga-to-overhaul-spf-testing-for-australian-sunscreen-brands/107308980"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-10-26T23:11:43.719911+00:00",
-    "published_date": "2026-10-27",
     "has_fulltext": true
    }
   ],
@@ -457,69 +452,69 @@
     "has_fulltext": true
    },
    {
-    "id": "2b11d451-d22a-536c-9e8f-d0a847102bb1",
-    "title": "Typhoon Champi declared strongest storm of year so far",
-    "simplified_title": "Typhoon Champi named year's strongest storm after hitting Taiwan and Japan",
-    "quick_summary": "Typhoon Champi, the strongest storm of the year so far, battered Taiwan and Japan's southern islands, while Greece braces for more flooding and Cyclone Arnab heads for India's east coast.",
-    "simplified_body": "Typhoon Champi has been declared the strongest storm of the year so far after recording sustained winds of 185mph (about 298km/h). From late Thursday to early Saturday it battered Taiwan and Japan's southern islands. It skirted Taiwan's Yilan County coastline, looped offshore and then tracked north, bringing gusts of up to 141mph and more than 620mm of rain in 48 hours to parts of Yilan.\n\nOne person has died and 527 were injured. At one point more than 288,000 homes lost power, though most have since been reconnected. By Monday, Champi had been downgraded to a tropical storm and was rapidly weakening south-west of Japan's mainland.\n\nElsewhere, Greece faces its fourth flood risk this October. Its national weather agency warned of 30mm-60mm of rain in 12 hours across central areas and 50mm-80mm in the north-east Aegean Islands, with similar totals possible between Wednesday and Thursday. Meanwhile, a low-pressure system over the Bay of Bengal has become Cyclone Arnab.\n\nArnab is expected to make landfall on the north Andhra Pradesh and south Odisha coast on Wednesday, with gusts up to 85mph and up to 100mm of rain in six hours. The India Meteorological Department has issued alerts for extreme heavy rain, thunderstorms and strong winds. The storm should then drift north and fizzle out over north-east India by the end of the week.",
-    "why_it_matters": "Several dangerous weather systems are hitting different regions at once, and Champi's power shows how intense Asia-Pacific storms can get. Australians with family or travel plans in Taiwan, Japan, Greece or eastern India may want to keep an eye on local warnings.",
-    "deep_analysis": "## Historical Context\nAs general background, typhoons and cyclones are the same kind of storm, a tropical cyclone, named differently by region. Taiwan and southern Japan sit in the path of many western Pacific typhoons each year, and India's east coast regularly faces Bay of Bengal cyclones, particularly around October. Greece's repeated October flooding comes from low-pressure systems rather than tropical storms.\n\n## Multiple Perspectives\nChampi's toll of one death and 527 injuries is low given its strength, which may partly reflect the storm looping offshore rather than crossing Taiwan directly. Widespread outages that were mostly restored show both the vulnerability and resilience of infrastructure. In Greece, the concern is cumulative: repeated rain on already soaked ground raises flood risk.\n\n## What to Watch\n- Whether Cyclone Arnab lands on Wednesday as forecast and how Andhra Pradesh and Odisha cope.\n- Further Greek flooding between Wednesday and Thursday.\n- Any updates to Champi's casualty figures as it weakens near Japan.",
+    "id": "6e53f856-a20c-58d7-9e10-f1dc4286fee3",
+    "title": "Cyclone Arnab lashes India coast, no deaths reported",
+    "simplified_title": "Cyclone Arnab slams India's east coast, but no deaths reported",
+    "quick_summary": "A \"very severe\" Cyclone Arnab made landfall in India's Andhra Pradesh state on Wednesday 28 October, bringing fierce winds, flooding and disruption, but mass evacuations meant no deaths were reported early on.",
+    "simplified_body": "Cyclone Arnab hit India's southeastern state of Andhra Pradesh on Wednesday 28 October as a \"very severe cyclonic storm\". The India Meteorological Department (IMD) reported winds of 115 to 125 km/h with gusts up to 140 km/h, though DW cited winds over 125 km/h and gusts of 150 km/h. The storm crawled ashore slowly, knocking down trees, damaging power lines and pushing the sea higher than many locals had seen before. Andhra Pradesh's Chief Minister, N Chandrababu Naidu, said no lives were lost and credited early preparation.\n\nThe hardest-hit areas were coastal Andhra Pradesh and neighbouring Odisha. Evacuation numbers differ between reports: CNA said more than 180,000 people were moved, while DW said nearly 100,000. Three airports shut, trains were cancelled and schools closed. The IMD warned of flash floods between Bapatla and Visakhapatnam and \"total destruction\" of thatched houses and damage to crops.\n\nArnab formed over the Bay of Bengal, one of the world's busiest areas for tropical cyclones. India's east coast has a grim history: a super cyclone killed nearly 10,000 people in Odisha in October 1999. Experts told DW this season is being \"turbocharged\" by El Nino, a climate pattern causing unusual warming.\n\nThe storm's effects may spread. Nepal warned tourists to avoid high-altitude areas, fearing heavy rain, snowstorms and avalanches from Thursday night to Saturday. Nepal is still recovering from a catastrophic August flood (reported death tolls range from about 1,400 to 1,500). Sri Lanka also closed schools over flash flood and mudslide risks.",
+    "why_it_matters": "Arnab shows how early warnings and evacuations can save lives in a cyclone-prone region, a lesson that matters for cyclone-exposed parts of northern Australia too.",
+    "deep_analysis": "## Historical Context\nThe Bay of Bengal has produced some of history's deadliest storms. The 1999 Odisha super cyclone killed nearly 10,000 people. As general background, India has since invested heavily in forecasting, cyclone shelters and mass evacuation planning, which is why recent storms have generally caused far fewer deaths.\n\n## Multiple Perspectives\nOfficials, led by Chief Minister Naidu, credit \"proactive measures\" for zero reported deaths. Residents like Sadiq agreed early warnings helped, while others, like 65-year-old Rajeshwari, highlight the ongoing reality of homes flooding repeatedly. Reports disagree on evacuation numbers (180,000+ vs nearly 100,000) and wind speeds. Experts quoted by DW link the season's intensity to El Nino warming.\n\n## What to Watch\n- Damage assessments for crops, thatched homes and power infrastructure.\n- Whether the remnants trigger snowstorms or avalanches in Nepal's Himalayas from Thursday to Saturday.\n- Flash flooding and mudslides in Sri Lanka.\n- Whether the no-deaths record holds as the slow-moving storm moves inland.",
     "concepts": [
      {
-      "term": "sustained winds",
-      "definition": "The average wind speed held over a period of time, rather than brief bursts.",
-      "context": "Champi's sustained winds of 185mph are why it was named the year's strongest storm."
-     },
-     {
-      "term": "tropical storm",
-      "definition": "A rotating storm that is weaker than a typhoon or cyclone.",
-      "context": "Champi was downgraded to a tropical storm as it lost strength."
-     },
-     {
-      "term": "low-pressure system",
-      "definition": "An area where air pressure is lower than its surroundings, often bringing clouds, rain and wind.",
-      "context": "A low-pressure system over the Bay of Bengal grew into Cyclone Arnab."
-     },
-     {
       "term": "landfall",
-      "definition": "When the centre of a storm moves from sea onto land.",
-      "context": "Arnab is expected to make landfall on Wednesday."
+      "definition": "The moment the centre of a storm moves from the sea onto land.",
+      "context": "Arnab's landfall was drawn out because it moved at only about 4 km/h."
+     },
+     {
+      "term": "Bay of Bengal",
+      "definition": "A large body of water east of India, part of the Indian Ocean.",
+      "context": "Its warm waters regularly breed powerful cyclones that hit India's east coast."
+     },
+     {
+      "term": "El Nino",
+      "definition": "A natural climate pattern where Pacific Ocean waters warm up, shifting weather worldwide.",
+      "context": "Experts say it is causing unusual warming that's supercharging this cyclone season."
      }
     ],
     "quiz": {
-     "question": "What does it mean that Typhoon Champi was 'downgraded to a tropical storm'?",
+     "question": "What do officials and residents mainly credit for the lack of reported deaths from Cyclone Arnab?",
      "options": [
-      "It weakened and now has lower wind speeds",
-      "It was renamed for a different region",
-      "It got stronger and moved onto land",
-      "It split into two separate storms"
+      "El Nino reduced the storm's strength",
+      "The storm weakened completely before reaching land",
+      "Early warnings and large-scale evacuations",
+      "The cyclone hit only uninhabited areas"
      ],
-     "answer_index": 0,
-     "explanation": "A downgrade means the storm has weakened. Champi was rapidly weakening south-west of Japan's mainland."
+     "answer_index": 2,
+     "explanation": "Chief Minister Naidu praised proactive measures, and residents said early warnings let them move to safer places."
     },
-    "background_beginner": "Tropical cyclones are huge spinning storms that form over warm oceans. In the western Pacific they're called typhoons, near India they're called cyclones, and in the Atlantic, hurricanes. Places like Taiwan, southern Japan and India's east coast get hit regularly because they sit along common storm paths. Weather agencies in each country track these storms, rate their strength by wind speed and issue warnings. Separately, parts of Europe like Greece can get severe flooding from low-pressure systems that dump heavy rain. These stories keep coming up because storm seasons return every year, and strong ones can kill people, cut power and flood towns.",
+    "background_beginner": "Cyclones are huge spinning storms that form over warm oceans. Australians call them cyclones too; in America they're hurricanes. The Bay of Bengal, east of India, is one of the world's cyclone hotspots, so states like Andhra Pradesh and Odisha get hit often. In 1999 a super cyclone killed nearly 10,000 people in Odisha, and since then India has got much better at warning people and moving them to shelters before storms arrive. Cyclones keep making news because they strike regularly, threaten millions of coastal residents, and scientists say warmer oceans may be making them stronger.",
     "impact_score": 55,
-    "image_url": "https://i.guim.co.uk/img/media/82f80ccc07bb29b20e14a9a3f8d0c0cd95280e1d/651_0_3750_3000/master/3750.jpg?width=1920&quality=85&auto=format&fit=max&s=9d3d014d59d80ce843556d202577507d",
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--RZOrLVaY--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-27T091224Z_1_LYNXNPEM9Q0PH_RTROPTP_3_ASIA-WEATHER-INDIA-CYCLONE.JPG?itok=j4gqkh8I",
     "region": "Asia",
     "region_code": "ASIA",
-    "description": "Typhoon Champi, the strongest storm of the year so far, battered Taiwan and Japan's southern islands, while Greece braces for more flooding and Cyclone Arnab heads for India's east coast.",
+    "description": "A \"very severe\" Cyclone Arnab made landfall in India's Andhra Pradesh state on Wednesday 28 October, bringing fierce winds, flooding and disruption, but mass evacuations meant no deaths were reported early on.",
     "tier": "GLOBAL",
     "category": "ENVIRONMENT_CLIMATE",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/26/typhoon-champi-taiwan-japan-storm-greece-floods"
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/cyclone-arnab-india-east-coast-6497916"
+     },
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/india-thousands-evacuated-cyclone-arnab-6495481"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/india-news-cyclone-arnab-brings-heavy-rain-disruption/live-79782323?maca=en-rss-en-all-1573-rdf"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "9f7b9aa1-3229-59b2-ba61-f2a2470a9563",
-     "b81cbf25-f5e2-5de5-b262-e5f6369afeca"
-    ],
-    "reading_minutes": 1,
-    "created_at": "2026-10-26T23:11:41.896501+00:00",
-    "published_date": "2026-10-27",
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-28T06:56:21.732992+00:00",
+    "published_date": "2026-10-28",
     "has_fulltext": true
    }
   ],
@@ -864,65 +859,69 @@
     "has_fulltext": true
    },
    {
-    "id": "fb15646b-0dc3-51ce-a492-c32758b51f8f",
-    "title": "Why Ebola cases in Kenya and Nigeria have cast doubt on Uganda's claims of being virus-free",
-    "simplified_title": "Ebola cases in Kenya and Nigeria raise questions about Uganda",
-    "quick_summary": "Kenya's and Nigeria's first confirmed Ebola patients both passed through Uganda's Entebbe airport on 3 October, and Switzerland now disputes Uganda's account of the Nigerian patient's travels, putting Uganda's claim of having no active cases under the spotlight.",
-    "simplified_body": "Kenya and Nigeria have each confirmed their first Ebola patients, and both people passed through Entebbe International Airport in Uganda on 3 October. That's according to Wessam Mankoula of the Africa Centres for Disease Control and Prevention (Africa CDC). Investigators are checking whether the two crossed paths there. Nobody has established that they met, or that any infection happened at the airport.\n\nThe Nigerian patient is a Swiss national of Ugandan origin who is married to a Swiss diplomat in Abuja. She's stable, and 44 contacts have been identified. Uganda's Health Ministry says she visited eastern Democratic Republic of Congo (DRC), where an outbreak is underway. Switzerland says she and her husband never went there and believes she caught the virus in Uganda, though that hasn't been independently confirmed. The World Health Organization (WHO) and Africa CDC say they haven't received confirmed information that she went to the DRC. The Kenyan patient died in Nairobi on 5 October after travelling from the DRC through Uganda. Kenya has since reported more infections, and officials can't reach a Ugandan contact of the patient who was using a South Sudanese phone number.\n\nUganda insists it has no confirmed active cases. It shares a long border with the DRC, and busy trade and travel routes make it hard to pin down where someone was exposed. Ebola symptoms appear two to 21 days after infection, so even good border screening can't catch every infected traveller.\n\nUganda says it's tightening screening at its entry points, and Nigeria has stepped up contact tracing. The Africa CDC will hold an \"extraordinary virtual meeting\" of national health officials on 28 October.",
-    "why_it_matters": "The confusion shows how quickly a deadly virus can move across borders through airports, and how much stopping it depends on countries sharing accurate travel information fast.",
-    "deep_analysis": "## Historical Context\nAs general background, Ebola was first identified in 1976 near the Ebola River in what is now the DRC, and the DRC has had repeated outbreaks since. The article notes that the DRC's outbreaks have repeatedly challenged health authorities and that Nigeria's new case has revived memories of earlier outbreaks there.\n\n## Multiple Perspectives\n- **Uganda** says it has no confirmed active cases. It says travel through Uganda doesn't establish that infection happened there and that it's waiting for details from Nigeria.\n- **Switzerland** says the Nigerian patient never went to the DRC and believes she caught the virus in Uganda. That assessment hasn't been independently confirmed.\n- **WHO and Africa CDC** haven't confirmed the claimed DRC travel.\n- **Abuja residents** are worried. One says people are more focused on economic survival than on sickness.\n\nThe article stresses that Uganda's zero-case declaration doesn't rule out infections, but the travel histories don't prove a hidden outbreak either.\n\n## What to Watch\n- Whether the two patients actually overlapped at Entebbe.\n- Where the Nigerian patient was really exposed.\n- Whether Kenya finds the untraced Ugandan contact.\n- The outcome of the Africa CDC meeting on 28 October.",
+    "id": "a1953172-37fc-55b9-a715-9bbde7c2c360",
+    "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+    "simplified_title": "Gulf nations push peace plan to stop another US-Iran war",
+    "quick_summary": "Gulf states are building a multipart peace deal to reopen the Strait of Hormuz and calm the war in Yemen, but the US still wants Iran to let UN weapons inspectors back in.",
+    "simplified_body": "Gulf states are working on a peace deal with several parts to stop war between Iran and the United States (US) from starting up again. The plan would reopen the Strait of Hormuz within four days of economic sanctions on Iran being lifted, and would see the Houthis pull back substantial forces inside Yemen. Iran has offered to cut its earlier proposal of seven days down to four.\n\nThe US knows how the talks are going but is holding out for one more concession. European diplomats think the minimum is Iran letting United Nations (UN) weapons inspectors back in to visit its bombed nuclear sites. Britain's foreign secretary, Ed Miliband, pressed Iran's foreign minister, Abbas Araghchi, on this in New York. So far Iran has refused and says it will only talk about its nuclear program in principle.\n\nSome background helps here. Iran backs the Houthis, a group fighting in Yemen, and can influence them. The Houthis want Saudi Arabia to lift what they call a naval and air blockade on the areas they hold. A delegation from Saudi Arabia, Turkey and Pakistan recently visited Tehran, and Iran steered that meeting towards a long-term regional security plan rather than its nuclear program. Since the 1979 Islamic Revolution, Iran has been shut out by the rest of the Gulf. A non-aggression pact that ended this would meet Iran's biggest goal, and it would like the US presence in the region reduced or ended.\n\nWhat comes next depends on whether Iran will budge on inspectors. Oman's foreign minister, Badr Albusaidi, believes the US accepts that a regional peace plan is where things are heading once a deal is done.",
+    "why_it_matters": "The Strait of Hormuz is a key route for the world's oil shipping, so keeping it closed or restarting a war could push up fuel prices well beyond the Middle East, including at Australian petrol stations.",
+    "deep_analysis": "## Historical Context\nThe article notes Iran has been ostracised by the rest of the Gulf since the 1979 Islamic Revolution. As general background, Iran and Saudi Arabia have long been regional rivals, and Yemen's civil war has often been described as a proxy conflict between them. The article refers to Iran's 'bombed nuclear sites' and a possible 'renewal' of US-Iran war, meaning fighting has already happened.\n\n## Multiple Perspectives\n- **Gulf states** see renewed war as disastrous and are pushing an inclusive deal; Oman's Badr Albusaidi talks up the 'enormous' economic potential of peace.\n- **Iran** focuses on guaranteed sanctions relief and a postwar security pact, while avoiding detailed nuclear talks. Araghchi says its policies stay the same 'whether there is war or not'.\n- **The US** is aware of progress but wants a further concession.\n- **European powers**, including Britain, see readmitting UN inspectors as the minimum needed to win over President Donald Trump.\n- **The Houthis** want Saudi Arabia to lift its blockade on their territory.\n\n## What to Watch\n- Whether Iran agrees to let UN inspectors back in.\n- Whether the four-day reopening timeline satisfies Washington.\n- Any Houthi withdrawal or Saudi easing of the blockade.\n- Whether the six Gulf states formally commit to a regional non-aggression pact including Iran.",
     "concepts": [
      {
-      "term": "contact tracing",
-      "definition": "Finding everyone an infected person may have been near so they can be checked and isolated if needed.",
-      "context": "Nigeria has stepped up contact tracing around its patient, who has 44 identified contacts."
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage between Iran and the Arabian Peninsula that links the Gulf to the open ocean.",
+      "context": "Iran is offering to reopen it within four days of sanctions being lifted."
      },
      {
-      "term": "Africa Centres for Disease Control and Prevention (Africa CDC)",
-      "definition": "The African Union's public health agency, which coordinates responses to disease outbreaks across the continent.",
-      "context": "Its official revealed the Entebbe airport link and is convening a meeting on 28 October."
+      "term": "economic sanctions",
+      "definition": "Penalties like trade bans that countries put on another country to pressure it.",
+      "context": "Iran wants guarantees these will be lifted in exchange for reopening the strait."
      },
      {
-      "term": "border screening",
-      "definition": "Checking travellers at airports and land crossings for signs of illness.",
-      "context": "It can't catch everyone because Ebola can take up to 21 days to cause symptoms."
+      "term": "Houthis",
+      "definition": "An armed group in Yemen that controls part of the country and is backed by Iran.",
+      "context": "The deal would see them pull back substantial forces inside Yemen."
+     },
+     {
+      "term": "non-aggression pact",
+      "definition": "An agreement between countries promising not to attack each other.",
+      "context": "A pact including Iran and Gulf states would meet Iran's highest strategic goal."
      }
     ],
     "quiz": {
-     "question": "Why can't border screening alone reliably stop Ebola from spreading between countries?",
+     "question": "Why might a regional security pact make it easier for Iran to accept nuclear concessions?",
      "options": [
-      "Ebola is only found in Uganda",
-      "Airports don't allow health checks",
-      "Ebola only spreads through animals",
-      "Infected people may show no symptoms for up to 21 days, so they look healthy while travelling"
+      "Because Saudi Arabia promised to build Iran's nuclear sites",
+      "Because the pact would cancel all US sanctions automatically",
+      "Because ending Iran's isolation in the Gulf meets its biggest goal, making tough trade-offs easier to swallow",
+      "Because the pact would ban UN inspectors permanently"
      ],
-     "answer_index": 3,
-     "explanation": "Symptoms appear two to 21 days after infection, so a traveller can carry the virus without showing signs. That's why contact tracing and accurate travel histories matter so much."
+     "answer_index": 2,
+     "explanation": "The article says a non-aggression pact ending Iran's ostracism would meet its highest strategic goal, which might make difficult nuclear concessions easier to accept."
     },
-    "background_beginner": "Ebola is a rare but often deadly virus that causes severe illness and bleeding. It spreads through contact with the body fluids of sick people. Outbreaks have struck central and west Africa many times, especially the Democratic Republic of Congo. The World Health Organization and the Africa CDC help countries respond. Ebola keeps making the news because outbreaks can flare up in places with busy borders and stretched health systems. Air travel means one case can quickly turn up in a distant country. In this story, Kenya and Nigeria are dealing with new cases, while neighbouring Uganda says it has none.",
-    "impact_score": 62,
-    "image_url": "https://static.dw.com/image/60287067_6.jpg",
+    "background_beginner": "Iran is a big country in the Middle East that has been at odds with the US and many of its Gulf neighbours, like Saudi Arabia, since its 1979 revolution. The US worries Iran could build nuclear weapons, and has used sanctions, and more recently military strikes, to pressure it. Iran can respond by disrupting the Strait of Hormuz, a narrow waterway that much of the world's oil passes through. Meanwhile in Yemen, the Iran-backed Houthis have fought a Saudi-led coalition for years. These issues keep resurfacing because they're tangled together: oil, nuclear fears, regional rivalries and the role of the US all overlap.",
+    "impact_score": 72,
+    "image_url": "https://i.guim.co.uk/img/media/7696200dce7254abdadd923a886adbbcc098804a/11_17_4694_3755/master/4694.jpg?width=1920&quality=85&auto=format&fit=max&s=9ee2bc4e098ee5aefda27f1124ea7b7c",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Kenya's and Nigeria's first confirmed Ebola patients both passed through Uganda's Entebbe airport on 3 October, and Switzerland now disputes Uganda's account of the Nigerian patient's travels, putting Uganda's claim of having no active cases under the spotlight.",
+    "description": "Gulf states are building a multipart peace deal to reopen the Strait of Hormuz and calm the war in Yemen, but the US still wants Iran to let UN weapons inspectors back in.",
     "tier": "GLOBAL",
-    "category": "HEALTH",
+    "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [
-     "920de58d-374c-5da9-baa1-d152afa9a420",
-     "e61a7066-899c-5fb7-a4bc-d09fc0db5d44",
-     "e7784c73-91ca-5926-a3c8-70bbbc84035f"
+     "adabd6c4-a1b8-5204-9a50-3b162f5bf191",
+     "d83687dc-daf6-5e1c-87b9-7f98e012cce1"
     ],
-    "reading_minutes": 5,
-    "created_at": "2026-10-26T23:11:43.558541+00:00",
-    "published_date": "2026-10-27",
+    "reading_minutes": 3,
+    "created_at": "2026-10-28T06:56:22.552487+00:00",
+    "published_date": "2026-10-28",
     "has_fulltext": true
    }
   ],
@@ -995,6 +994,83 @@
     "has_fulltext": true
    },
    {
+    "id": "38cf0b08-014e-59b6-ab12-5d5f79a10b6b",
+    "title": "Flávio Bolsonaro arrives in US after Brazil cancels his passports",
+    "simplified_title": "Brazil's defeated Flávio Bolsonaro leaves for the US after passports cancelled",
+    "quick_summary": "Right-wing senator Flávio Bolsonaro left Brazil and reportedly arrived in the US after losing the presidential run-off to Lula and missing a court deadline to hand over his passports in a money-laundering probe.",
+    "simplified_body": "Flávio Bolsonaro, the right-wing senator who lost Brazil's presidential run-off on Sunday, has left the country. Brazil's Supreme Court had ordered him to hand over his passports within 24 hours as part of a money-laundering investigation. He missed the deadline, his passports were cancelled, and sources told the BBC he has since met his brother Eduardo in Florida. A US State Department official said the Trump administration would give him and his family visas. Accounts of his route differ: Argentina's migration agency said he, his wife and two daughters crossed into Argentina and took a private flight to Ecuador, but the BBC was told by Argentine authorities there was no record of him entering.\n\nBolsonaro hasn't been charged and denies wrongdoing. Police are probing alleged links to a lawyer accused of a huge fraud scheme, and separately looking at alleged foreign funding of his campaign. On Monday he said he had \"never thought about leaving the country\". President Luiz Inácio Lula da Silva called his departure \"shameful\", and Lula's Workers' Party has asked for his arrest and an Interpol Red Notice.\n\nFlávio is the son of former president Jair Bolsonaro, who was convicted of plotting a coup and is under house arrest. Lula won 51.79% to 48.21%. Flávio hasn't conceded and wants the result annulled over a two-hour polling extension, though his own Liberal Party has accepted the result. US President Donald Trump said it \"looked like another rigged election\", but no evidence of wrongdoing has emerged.\n\nNext, watch whether Brazil seeks his arrest or extradition, whether he asks for asylum in the US, and who takes over leadership of Brazil's right.",
+    "why_it_matters": "It tests how far one country will shelter a politician fleeing a court order in another, and it strains ties between the US and Brazil, a major democracy and one of Australia's key competitors and partners in farm and mining exports.",
+    "deep_analysis": "## Historical Context\nAs background: Jair Bolsonaro, a career congressman, surprisingly won Brazil's presidency in 2018, and since then the right has largely been dominated by the far-right Bolsonarismo movement. Jair was later convicted of plotting a coup and is under house arrest. His son Eduardo moved to the US, was convicted in absentia for lobbying the Trump administration to sanction the judges hearing his father's case, and has an arrest warrant in Brazil. Flávio became the candidate after Eduardo, the family's \"plan A\", was out of the picture. Lula became the first candidate to win a run-off after losing the first round.\n\n## Multiple Perspectives\n- **Flávio Bolsonaro** denies the allegations, calls the passport order intimidation and the polling extension a \"dirty trick\".\n- **Lula** says fleeing shows he has \"something to hide\" and accuses the family of serving US interests.\n- **The Trump administration** is granting visas; Trump questioned the result.\n- **US Democrat Joaquin Castro** says losing an election isn't grounds for asylum and wants answers from the administration.\n- **His campaign chief Rogério Marinho** was surprised but suggested he could lead the opposition from abroad.\n- **Political scientists** Magna Inácio and Camila Rocha expect a power vacuum and a shift away from the Bolsonaro sons, toward figures like Michelle Bolsonaro or Tarcísio de Freitas.\n\nSources disagree on his route: the Guardian cites Argentina confirming a crossing and flight to Ecuador, while the BBC was told Argentina had no record of him entering.\n\n## What to Watch\n- Whether Brazil's Supreme Court orders his arrest or an Interpol Red Notice is issued.\n- Whether he formally seeks US political asylum, and any use of his reported Italian passport.\n- Brazil–US diplomatic fallout.\n- The leadership contest on Brazil's right, including family tensions.",
+    "concepts": [
+     {
+      "term": "money laundering",
+      "definition": "Hiding where illegally obtained money came from by passing it through legitimate-looking businesses or accounts.",
+      "context": "Police are investigating whether Flávio Bolsonaro was linked to a lawyer accused of laundering huge sums."
+     },
+     {
+      "term": "run-off",
+      "definition": "A second-round election between the top two candidates when nobody wins outright in the first round.",
+      "context": "Bolsonaro led the first round but lost the run-off to Lula."
+     },
+     {
+      "term": "Interpol Red Notice",
+      "definition": "An international alert asking police worldwide to find and provisionally arrest a wanted person.",
+      "context": "Lula's party asked for Bolsonaro's name to be put on this list."
+     },
+     {
+      "term": "annulled",
+      "definition": "Officially cancelled, as if it never happened.",
+      "context": "Bolsonaro wants the election result annulled over the polling-hours extension."
+     }
+    ],
+    "quiz": {
+     "question": "Why was Flávio Bolsonaro's leaving Brazil so controversial?",
+     "options": [
+      "He left despite a court order to surrender his passports during a criminal investigation",
+      "His party refused to accept the election result",
+      "He was convicted of plotting a coup",
+      "He was banned from running for president"
+     ],
+     "answer_index": 0,
+     "explanation": "The Supreme Court had ordered him to hand over his passports in a money-laundering probe; he missed the deadline and left. The coup conviction belongs to his father, and his party actually accepted the result."
+    },
+    "background_beginner": "Brazil is South America's biggest country and a large democracy. Its politics has long been a contest between left-wing leader Lula and the Bolsonaro family on the far right. Jair Bolsonaro was president from 2019 and was later convicted of plotting a coup to stay in power; he's now under house arrest. His sons are politicians too. One son, Eduardo, lives in the US and is wanted in Brazil. Another, Flávio, just ran for president and lost narrowly to Lula. The family has close ties to US President Donald Trump, which keeps dragging the US into Brazil's political fights.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8385/live/d2ce76e0-d232-11f1-93e1-3b657b665bcf.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Right-wing senator Flávio Bolsonaro left Brazil and reportedly arrived in the US after losing the presidential run-off to Lula and missing a court deadline to hand over his passports in a money-laundering probe.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "534ff637-863c-582e-9044-8544adff934b",
+     "6c2d6990-cf50-58f6-8593-8d1d6a4899ef",
+     "b140347d-8ea0-51cd-9a95-969a2c0577b7",
+     "bcfade68-2ccd-5755-813b-a1be3244d895",
+     "c2ac342f-c1d8-57b2-a7fb-32a818ac16b5"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-10-28T06:56:24.621663+00:00",
+    "published_date": "2026-10-28",
+    "has_fulltext": true
+   },
+   {
     "id": "37155347-d010-584c-aef6-e446e39c0bb8",
     "title": "María Machado returns from exile to a Venezuela reshaped by Trump",
     "simplified_title": "Venezuela's opposition leader María Corina Machado returns home from exile",
@@ -1062,71 +1138,71 @@
     "created_at": "2026-10-27T06:26:37.343188+00:00",
     "published_date": "2026-10-27",
     "has_fulltext": true
-   },
+   }
+  ],
+  "GLOBAL_SYSTEMS": [
    {
-    "id": "1fc99202-e937-53b6-86e9-5213102ff398",
-    "title": "Ex-FBI chief James Comey faces federal charges for third time",
-    "simplified_title": "Former FBI boss James Comey hit with a third set of charges",
-    "quick_summary": "US federal prosecutors have charged former Federal Bureau of Investigation (FBI) Director James Comey, a long-time Trump critic, with leaking national defence information to the New York Times in 2016 — the third attempt to prosecute him since Donald Trump returned to office.\n",
-    "simplified_body": "Federal prosecutors have filed two counts against James Comey, the former head of the Federal Bureau of Investigation (FBI), accusing him of unlawfully sharing \"information related to national defence\". The case centres on an October 2016 New York Times story about Yahoo being ordered to scan its email traffic for a computer signature allegedly tied to a terrorist group. Prosecutors say Comey, through co-conspirators, directed someone to disclose the information to reporter Charlie Savage.\n\nComey denies it, calling the charges an \"appalling abuse\" of the Department of Justice. His lawyer, Patrick Fitzgerald, says two separate prosecution teams already looked into the leak during Trump's first term and both decided no one should be charged. Notably, prosecutors used a criminal information rather than an indictment, meaning they skipped a grand jury. The judge overseeing the case, Trevor McFadden, is a Trump appointee.\n\nSome background: Trump fired Comey in 2017 while the FBI was investigating possible links between Russia and Trump's 2016 campaign. Trump has called for his prosecution ever since. In September 2025, Comey was indicted for allegedly lying to Congress, but that case was dismissed because the prosecutor, Lindsey Halligan, was unlawfully appointed. In April 2026 he was charged over an Instagram photo of seashells spelling \"86 47\", which prosecutors say encouraged violence against Trump. Comey says he didn't know what it meant, and that case is ongoing.\n\nComey's legal team is seeking to have the newest charges dismissed. Comey himself hinted he expects more charges, saying \"the next couple years are going to be hard for all of us.\"",
-    "why_it_matters": "Using the justice system against a president's critics tests whether courts can act as a check on political power — something Australians watching their closest ally will want to keep an eye on.",
-    "deep_analysis": "## Historical Context\nComey led the FBI from 2013 until Trump fired him in 2017, amid the investigation into Russian interference in the 2016 election, which Trump calls a \"hoax\". After Trump's second inauguration in January 2025, he publicly urged then-Attorney General Pam Bondi to pursue Comey, Senator Adam Schiff and New York Attorney General Letitia James. Comey was indicted five days later. That case collapsed over an unlawful prosecutor appointment; a second case over the \"86 47\" post continues.\n\n## Multiple Perspectives\n**Prosecutors** say Comey directed a colleague to leak national defence information to a reporter. **Comey** calls it political retribution and says he's \"still innocent\". **His lawyer** argues the matter was investigated twice before with no charges, and criticises the choice to bypass a grand jury. Critics may also point out the judge is a Trump appointee, though that alone doesn't determine an outcome. On the same day, a separate court ruled Comey's daughter Maurene was unlawfully fired, a decision she links to retaliation against her father.\n\n## What to Watch\n- Whether Judge McFadden dismisses the information.\n- The outcome of the ongoing \"86 47\" case.\n- Whether other Trump critics face similar charges.\n- Background: leak cases involving classified material can be legally complex and slow-moving.",
+    "id": "c853f077-275f-572b-a62a-7d313176ce5d",
+    "title": "Hundreds of scientists across the globe declare 'climate health emergency'",
+    "simplified_title": "Scientists call climate change a global health emergency as heat deaths climb",
+    "quick_summary": "The annual Lancet Countdown report says climate change has caused nearly 3 million heat deaths since 2016 and wants it declared a global health emergency.",
+    "simplified_body": "Nearly 150 researchers from more than 30 countries, writing in this year's Lancet Countdown on Health and Climate Change, say climate change should be declared a global health emergency. For the first time, they estimated deaths directly caused by human-driven warming: about 3 million between 2016 and 2023. Climate change was behind 68% of heat-related deaths in that period, up from 55% in the decade before.\n\nThe harm falls hardest on developing countries, which did least to cause the problem. Heat wiped out 573 billion potential work hours in 2025, costing US$1.07 trillion in lost income, with farmworkers and economies in Africa and South-East Asia worst hit. Nobody is immune, though. A Western Sydney doctor reported a 13% rise in emergency presentations during heatwaves.\n\nThe report tracks progress since the 2015 Paris Agreement, the global deal to limit warming. There's good news: renewable energy has grown far faster than expected, and cleaner air has prevented hundreds of thousands of deaths. But fossil fuels still supply about 80% of the world's energy, energy emissions hit a record in 2024, and government fossil fuel subsidies have doubled since 2016 to $6.2 trillion. The authors also criticise the United States for backing fossil fuel expansion and quitting the Paris Agreement.\n\nThe researchers want a new World Health Organization (WHO) tool to coordinate a long-term global response. The existing emergency system, used for COVID-19, was built for short crises. The report lands ahead of the COP 31 climate conference in Türkiye. Professor Paul Beggs of Macquarie University says Australia is COP president this year and is hoping for big progress on cutting emissions.",
+    "why_it_matters": "Heatwaves and bushfire smoke already kill Australians, and the report says the health toll is getting worse. Australia's role as COP president this year, as described by one of the report's authors, puts it in a position to push for faster action.",
+    "deep_analysis": "## Historical Context\nThe Paris Agreement was signed in 2015, and the WHO called it \"the most important public health agreement of the century\". The Lancet Countdown is an annual report funded by the Wellcome Trust. It tracks 54 indicators of how climate change affects health. This year it compared the decade since Paris with the decade before, and found that harms have sped up. Drought-affected area grew more than 700% faster, and the past 11 years were the hottest on record.\n\n## Multiple Perspectives\nThe authors acknowledge real gains. Projected warming by 2100 has fallen from up to 3.5C to 2.6C, renewables have \"vastly exceeded expectations\", and 56 countries now have plans to adapt their health services, up from 14 in 2015.\n\nThe two articles cite different figures for deaths prevented by cleaner air. ABC reports 400,000 fewer deaths in 2023 compared with 2016. DW reports an estimated 323,000 deaths a year prevented across half of 140 countries. These may be measuring different things.\n\nThe authors blame fossil fuel lobbying, disinformation and US policy for slowing progress. Helen Clark, chair of the Lancet Countdown board, says what's missing is \"political will\", not evidence. Marina Romanello, the report's executive director, compares new fossil fuel investment to backing Blockbuster in the age of Netflix. The articles don't include responses from the fossil fuel industry or the US.\n\n## What to Watch\n- Whether the United Nations and its member states take up the call for a new WHO emergency mechanism.\n- What COP 31 delivers on cutting fossil fuels.\n- The upcoming Lancet report on Oceania.\n- Whether a severe El Niño (a natural climate pattern that can bring extra heat and drought) worsens the crises the report warns about.\n- Whether funding to help health systems adapt grows. Only about a third of the roughly $3.3 billion a year developing countries need was committed in 2024.",
     "concepts": [
      {
-      "term": "criminal information",
-      "definition": "A formal written charge filed directly by a prosecutor, without a grand jury's approval.",
-      "context": "Prosecutors used this route against Comey, which his lawyer criticised."
+      "term": "Paris Agreement",
+      "definition": "The 2015 global deal in which countries agreed to limit global warming.",
+      "context": "The report measures progress, and failures, in the decade since it was signed."
      },
      {
-      "term": "indictment",
-      "definition": "A formal charge approved by a grand jury after reviewing the evidence.",
-      "context": "Comey's first two cases were indictments; this one is not."
+      "term": "global health emergency",
+      "definition": "An official declaration that a threat needs urgent, coordinated international action to protect health.",
+      "context": "Researchers want climate change to be treated this way, with a new WHO tool designed for a long-term threat."
      },
      {
-      "term": "grand jury",
-      "definition": "A group of sworn citizens who decide whether evidence is strong enough to prosecute.",
-      "context": "Skipping it is part of why Comey's team calls the case weak."
+      "term": "subsidies",
+      "definition": "Government money or tax breaks that lower the cost of something for producers or users.",
+      "context": "Fossil fuel subsidies have doubled since 2016, and 10 countries spent more on them in 2024 than on their whole health systems."
      }
     ],
     "quiz": {
-     "question": "Why does Comey's lawyer highlight that prosecutors used a 'criminal information'?",
+     "question": "Why do the researchers want a new WHO mechanism instead of relying on the existing emergency system used for COVID-19?",
      "options": [
-      "Because it means the case will be heard in the New York Times",
-      "Because it can only be used for minor traffic offences",
-      "Because it means Comey has already been convicted",
-      "Because it means the charges skipped review by a grand jury"
+      "The existing system only deals with air pollution",
+      "The existing system was built for short-term crises, while climate change needs sustained, long-term action",
+      "The existing system only covers wealthy countries",
+      "The WHO has abolished the existing system"
      ],
-     "answer_index": 3,
-     "explanation": "A criminal information is filed directly by a prosecutor, bypassing the grand jury check that an indictment requires."
+     "answer_index": 1,
+     "explanation": "The current Public Health Emergency of International Concern (PHEIC) mechanism was designed for short-term outbreaks. The researchers say climate change needs ongoing action across many sectors, so countries aren't just responding to one emergency after another."
     },
-    "background_beginner": "James Comey ran the FBI, America's main federal police and intelligence agency, from 2013. In 2017 President Donald Trump sacked him while the FBI was investigating possible ties between Russia and Trump's 2016 campaign. Comey became one of Trump's loudest critics, and Trump has repeatedly said Comey should be prosecuted. Since Trump returned to office in 2025, his government has brought charges against Comey three times: over his testimony to Congress (dismissed), over a seashell photo reading \"86 47\" (ongoing), and now over a 2016 news leak. It keeps coming up because it's a big test of whether the justice system is being used to target political opponents.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "US federal prosecutors have charged former Federal Bureau of Investigation (FBI) Director James Comey, a long-time Trump critic, with leaking national defence information to the New York Times in 2016 — the third attempt to prosecute him since Donald Trump returned to office.\n",
+    "background_beginner": "Burning coal, oil and gas releases gases that trap heat and warm the planet. In 2015, almost every country signed the Paris Agreement, promising to limit that warming. Each year, a big team of health researchers publishes the Lancet Countdown, a sort of report card on how climate change affects people's health: heat deaths, droughts, floods, disease and lost work. The topic keeps coming up because the planet keeps getting hotter. Countries also argue every year at United Nations climate meetings, called COPs, about how fast to move away from fossil fuels and who should pay to protect poorer nations.",
+    "impact_score": 78,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/bee61b81b6a50c41f5ed0f420aa8f209?impolicy=wcms_watermark_news&cropH=2264&cropW=4025&xPos=0&yPos=209&width=862&height=485&imformat=generic",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "The annual Lancet Countdown report says climate change has caused nearly 3 million heat deaths since 2016 and wants it declared a global health emergency.",
     "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
+    "category": "ENVIRONMENT_CLIMATE",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-28/lancet-study-counts-three-million-climate-change-related-deaths/107315006"
      },
      {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss"
+      "name": "DW",
+      "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
     "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-26T23:11:44.178335+00:00",
-    "published_date": "2026-10-27",
+    "reading_minutes": 4,
+    "created_at": "2026-10-28T06:56:23.838489+00:00",
+    "published_date": "2026-10-28",
     "has_fulltext": true
-   }
-  ],
-  "GLOBAL_SYSTEMS": [
+   },
    {
     "id": "e13f8d1c-370e-521a-bd7c-b938c458d218",
     "title": "Jio Platforms IPO: India's largest share sale could end cheap mobile internet for millions",
@@ -1183,64 +1259,6 @@
     "reading_minutes": 4,
     "created_at": "2026-10-27T23:01:29.683689+00:00",
     "published_date": "2026-10-28",
-    "has_fulltext": true
-   },
-   {
-    "id": "54b624e2-4777-5fd6-b479-797998c7bd00",
-    "title": "Africa food security under threat due to Iran war, trade officials warn",
-    "simplified_title": "Iran war pushes up fuel and fertiliser costs, threatening African food supplies",
-    "quick_summary": "African trade ministers and a United Nations trade official warn that the US-Israel war on Iran and disruption around the Strait of Hormuz are pushing up fuel and fertiliser prices, which could mean smaller harvests and dearer food next year.",
-    "simplified_body": "At a United Nations Trade and Development (UNCTAD) investment forum in Doha, Qatar, officials warned that the war the United States and Israel are waging on Iran is hurting African economies. Disruption around the Strait of Hormuz has sent fuel and fertiliser prices soaring. UNCTAD's Luz Maria de la Mora said many countries are now using less fertiliser, which could shrink crops and raise food prices next year.\n\nFarming nations are feeling it most. In Zimbabwe, more than 70 percent of people depend on agriculture. In Uganda, fuel prices have more than doubled and the shilling has lost 10 percent of its value against the US dollar. Uganda's trade minister, Sanjay Tanna, said subsistence farming, where families grow their own food, has cushioned the blow somewhat.\n\nThe Strait of Hormuz is a narrow waterway that previously carried one-fifth of the world's oil and liquefied natural gas trade, so trouble there ripples through global supply chains. De la Mora said the effects are lasting longer than expected. Officials also spoke about the wider challenge of attracting investment: Zimbabwe pitched itself as \"a friend to all and an enemy to none\" amid the US-China trade war, pointing to its critical minerals like lithium and graphite.\n\nWhat comes next depends partly on how quickly the Hormuz crisis is resolved, which de la Mora said must happen \"sooner rather than later\". Meanwhile, countries like the Republic of Congo want to process more of their own raw materials at home rather than exporting them cheaply.",
-    "why_it_matters": "When a single shipping chokepoint is disrupted, poorer farming nations can face food shortages a whole season later. Australia, as a big fertiliser and fuel importer and a major food exporter, is plugged into these same global price swings.",
-    "deep_analysis": "## Historical Context\nAs background, the Strait of Hormuz sits between Iran and the Arabian Peninsula and has long been seen as one of the world's most important energy chokepoints. The article notes it previously carried one-fifth of global oil and liquefied natural gas trade. Fertiliser production depends heavily on natural gas, so energy shocks tend to flow into farm costs. African officials have also long complained that the continent exports raw materials and buys back finished goods at higher prices, a point the Republic of Congo's Jean-Jacques Bouya made bluntly.\n\n## Multiple Perspectives\nUNCTAD's de la Mora stresses the knock-on effect: farmers cutting fertiliser use now could mean lower harvests next year. She also argues investment concentrating in a few countries is \"very understandable\" because capital is risk averse, and governments must build confidence through rule of law and infrastructure. Uganda's Tanna says the trading system is not fair, \"Of course not\", but sees self-sufficiency in food as a strength. Zimbabwe's Monica Mutsvangwa takes a pragmatic line, welcoming investors from either side of the US-China divide.\n\n## What to Watch\n- Whether the Hormuz disruption eases or drags on.\n- Next season's harvests in fertiliser-dependent African countries.\n- Currency pressure, such as the Ugandan shilling's slide.\n- Whether pushes for local processing of minerals like lithium attract real investment.",
-    "concepts": [
-     {
-      "term": "Strait of Hormuz",
-      "definition": "A narrow sea passage off Iran that a large share of the world's oil and gas shipping passes through.",
-      "context": "Disruption there has pushed up global fuel and fertiliser prices."
-     },
-     {
-      "term": "subsistence farming",
-      "definition": "Farming mainly to feed your own family or community rather than to sell.",
-      "context": "Uganda's minister said it helped shield the country from global food price swings."
-     },
-     {
-      "term": "critical minerals",
-      "definition": "Minerals such as lithium and graphite that are vital for modern technology like batteries.",
-      "context": "Zimbabwe uses its deposits to attract foreign investors."
-     }
-    ],
-    "quiz": {
-     "question": "Why might the fertiliser price rise affect food prices next year rather than straight away?",
-     "options": [
-      "Food prices are fixed by the UN for 12 months",
-      "Farmers using less fertiliser now may grow smaller crops at the next harvest",
-      "Fertiliser is only sold once a year",
-      "Fertiliser takes a year to ship through Hormuz"
-     ],
-     "answer_index": 1,
-     "explanation": "De la Mora said many countries have cut fertiliser use, which will reduce crops next year and could affect food availability and prices."
-    },
-    "background_beginner": "The United States and Israel are at war with Iran, and that conflict has disrupted the Strait of Hormuz, a narrow sea lane near Iran where lots of the world's oil and gas used to travel. When ships can't move freely, fuel gets more expensive, and so does fertiliser, which is made using energy. Many African countries rely heavily on farming, so higher costs hit them hard. This story keeps coming up because it shows how a war far away can change what families pay for food, and how poorer countries often have the least protection from global shocks.",
-    "impact_score": 66,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6adfa8dc34-1793042652.jpg?resize=1920%2C1440",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "African trade ministers and a United Nations trade official warn that the US-Israel war on Iran and disruption around the Strait of Hormuz are pushing up fuel and fertiliser prices, which could mean smaller harvests and dearer food next year.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-10-26T23:11:43.795741+00:00",
-    "published_date": "2026-10-27",
     "has_fulltext": true
    },
    {
