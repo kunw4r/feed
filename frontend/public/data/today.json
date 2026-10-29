@@ -1,6 +1,6 @@
 {
- "date": "2026-10-29",
- "generated_at": "2026-10-29T07:14:58.203483+00:00",
+ "date": "2026-10-30",
+ "generated_at": "2026-10-29T14:29:22.566220+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -73,6 +73,64 @@
     "has_fulltext": true
    },
    {
+    "id": "3cfe8f4e-45e0-5d5e-af76-e949c31f0edc",
+    "title": "‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws",
+    "simplified_title": "Australia moves to ban AI chatbots that fake emotional closeness with kids",
+    "quick_summary": "The federal government's digital duty of care bill, which now bans AI chatbots from fostering children's emotional dependence, has passed the lower house and heads to a divided Senate.",
+    "simplified_body": "The federal government's digital duty of care bill passed the House of Representatives on Wednesday. It would put an overarching obligation on social media, games, apps and chatbots to provide a safe online environment. Labor accepted amendments from crossbencher Kate Chaney that require platforms to ban material or conduct that simulates emotional intimacy and encourages a child's dependence on it in place of human relationships. Platforms would also have to offer an algorithm opt-out that is easy to find and use.\n\nThe laws would affect big tech companies and everyday Australians, especially kids. Prime Minister Anthony Albanese said stories of people calling a chatbot their best friend should be a wake-up call. Communications Minister Anika Wells has suggested content promoting misogyny, terrorism, suicide, self-harm and eating disorders would be covered. The Coalition and One Nation voted against the bill, calling it Orwellian censorship, which Wells strongly denied.\n\nA duty of care means a legal responsibility to take reasonable steps to keep people safe. This bill would replace a patchwork of existing online codes with that one broad obligation. Right now there's no independent watchdog for complaints about big tech, unlike for phone and internet providers.\n\nThe bill now goes to the Senate, where the Greens support it but want it strengthened, including the right to sue platforms and bigger penalties. A Greens-led inquiry reports in late November. The Greens will also push to let the telecommunications industry ombudsman handle complaints about social media and AI, an idea Independent MP Sophie Scamps proposed and Labor rejected in the lower house. The government hopes to pass the bill by the end of 2026.",
+    "why_it_matters": "Australia already leads the world on regulating kids' online safety, and this would be one of the first laws anywhere to target AI chatbots building emotional bonds with children. It could also change how easily Australians can complain when big tech lets them down.",
+    "deep_analysis": "## Historical Context\nAs background, Australia has been an early mover on online safety, creating an eSafety Commissioner and pursuing age limits for social media. The digital duty of care bill shifts the approach from many specific codes to one broad obligation on platforms, putting the onus on them to make things safe.\n\n## Multiple Perspectives\nThe government frames the bill as essential protection, with Albanese making an emotional plea to the Coalition. The Coalition and One Nation call it Orwellian censorship. The Greens back it but say it's too weak, wanting private legal action and higher penalties. Telecommunications industry ombudsman Cynthia Gebert praises the duty of care but warns that without an external complaints body, people are left with automated responses and escalations that go nowhere. She says such a scheme could be funded by big tech.\n\n## What to Watch\n- The Greens' Senate inquiry report in late November.\n- Whether Labor wins Coalition support through amendments or relies on the Greens and crossbench.\n- Whether an ombudsman role for big tech gets added in Senate negotiations.\n- How emotional intimacy by chatbots is defined and enforced in practice.",
+    "concepts": [
+     {
+      "term": "duty of care",
+      "definition": "A legal responsibility to take reasonable steps to keep people safe from harm.",
+      "context": "The bill places a broad duty of care on tech platforms instead of many separate rules."
+     },
+     {
+      "term": "telecommunications industry ombudsman",
+      "definition": "An independent body that resolves complaints people can't sort out with their phone or internet provider.",
+      "context": "Some want its powers expanded to cover social media and AI complaints."
+     },
+     {
+      "term": "algorithm opt-out",
+      "definition": "A setting that lets users turn off the automated system that picks suggested content for them.",
+      "context": "The bill requires platforms to make this opt-out prominent and easy to use."
+     }
+    ],
+    "quiz": {
+     "question": "What is the main gap the telecommunications industry ombudsman says the bill leaves?",
+     "options": [
+      "It bans all social media for children",
+      "It has no penalties for harmful content",
+      "There's no external place to take complaints platforms won't resolve",
+      "It doesn't cover chatbots at all"
+     ],
+     "answer_index": 2,
+     "explanation": "Cynthia Gebert supports the duty of care but says people need somewhere independent to go when platforms don't fix their complaints."
+    },
+    "background_beginner": "Governments around the world are wrestling with how to keep people, especially kids, safe online. In Australia, the main players are the Labor government, which wrote this bill; the Coalition opposition, which opposes it; the Greens and independent MPs, who hold sway in parliament; and big tech companies that run social media and AI chatbots. Worries have grown about harmful content, addictive feeds and, more recently, AI chatbots that act like friends. The topic keeps coming up because technology changes faster than laws, and people disagree about where safety ends and censorship begins.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/b3e44fb72cc705d89a54b8eb9719b50630ca675c/549_0_5485_4388/master/5485.jpg?width=1920&quality=85&auto=format&fit=max&s=856eab4ffcaa4d034d049d00d96737ff",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "The federal government's digital duty of care bill, which now bans AI chatbots from fostering children's emotional dependence, has passed the lower house and heads to a divided Senate.",
+    "tier": "LOCAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-10-29T14:29:58.563901+00:00",
+    "published_date": "2026-10-30",
+    "has_fulltext": true
+   },
+   {
     "id": "c502cd44-12d4-5da9-924a-58c811468346",
     "title": "Australia records highest rates of anorexia and bulimia globally",
     "simplified_title": "Australia has the world's highest rates of anorexia and bulimia",
@@ -128,64 +186,6 @@
     "reading_minutes": 4,
     "created_at": "2026-10-29T07:15:32.843049+00:00",
     "published_date": "2026-10-29",
-    "has_fulltext": true
-   },
-   {
-    "id": "3cfe8f4e-45e0-5d5e-af76-e949c31f0edc",
-    "title": "‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws",
-    "simplified_title": "Australia moves to ban AI chatbots that fake emotional closeness with kids",
-    "quick_summary": "Australia's digital duty of care bill, which would ban AI chatbots from fostering children's emotional dependence, has passed the lower house and now faces an uncertain Senate.",
-    "simplified_body": "The federal government's digital duty of care bill passed the House of Representatives on Wednesday. It would place an overarching obligation on social media, games, apps and chatbots to provide a safe online environment. Labor accepted amendments from crossbencher Kate Chaney adding a ban on chatbot \"material or conduct that simulates emotional intimacy\" and encourages a child's dependence on it instead of human relationships.\n\nThis affects big tech platforms and every Australian who uses them, especially kids. Prime Minister Anthony Albanese said stories of people calling a chatbot their best friend should be a \"wake up call\". Platforms would also have to offer an easy, prominent \"opt-out\" from their algorithm and suggested content. Communications Minister Anika Wells says harmful content like material promoting misogyny, terrorism, suicide, self-harm and eating disorders would be captured.\n\nThe bill replaces a patchwork of existing online codes with one broad duty. The Coalition and One Nation voted against it, calling it \"Orwellian\" censorship, which Wells strongly denies. The Greens support it but want it tougher, including the right to sue platforms and bigger penalties.\n\nThe Senate will debate it in coming weeks, and a Greens inquiry reports back in late November. The government hopes to pass it by the end of 2026. A big sticking point is whether the telecommunications industry ombudsman should become a complaints watchdog for big tech. Labor rejected that idea in the lower house, but the Greens will push it in the Senate, and the ombudsman herself says her office is well placed to do it.",
-    "why_it_matters": "It could change how chatbots and social media are allowed to treat Australian kids, and may give everyday users somewhere to complain when platforms ignore them.",
-    "deep_analysis": "## Historical Context\nAs background, Australia has positioned itself as a world leader in online safety regulation, with an eSafety Commissioner and a social media minimum age for under-16s. This bill shifts from a list of specific codes to a broad \"duty of care\", a concept borrowed from negligence law, putting the onus on platforms to prevent harm.\n\n## Multiple Perspectives\n- **Labor** says platforms must take responsibility and remains open to Coalition amendments.\n- **Coalition and One Nation** call it \"Orwellian\" censorship and voted against it.\n- **Greens** back it but want private legal action, higher penalties and an external complaints body.\n- **Independents** Kate Chaney won chatbot and opt-out amendments; Sophie Scamps's ombudsman amendment was rejected.\n- **Ombudsman Cynthia Gebert** says without an external pathway, users risk being stuck with automated responses that \"don't go anywhere\".\n\n## What to Watch\n- The Greens' Senate inquiry report in late November.\n- Whether the Coalition shifts or Labor relies on the Greens and crossbench.\n- Whether an ombudsman role for big tech is added.\n- How \"simulates emotional intimacy\" would be defined and enforced.",
-    "concepts": [
-     {
-      "term": "digital duty of care",
-      "definition": "A legal obligation requiring platforms to take reasonable steps to keep users safe, rather than just following a checklist of rules.",
-      "context": "It's the core of the bill, replacing several existing online codes."
-     },
-     {
-      "term": "telecommunications industry ombudsman",
-      "definition": "An independent body that resolves complaints between consumers and phone or internet providers, funded by industry.",
-      "context": "Some want its powers expanded to handle complaints against big tech."
-     },
-     {
-      "term": "opt-out",
-      "definition": "A setting that lets users switch off a feature, here the algorithm that picks suggested content.",
-      "context": "The bill requires it to be easy to use and prominently available."
-     }
-    ],
-    "quiz": {
-     "question": "What is the main gap the telecommunications ombudsman says the bill leaves open?",
-     "options": [
-      "It has no algorithm opt-out",
-      "It only applies to games",
-      "Users have no external place to take unresolved complaints against platforms",
-      "It doesn't cover chatbots"
-     ],
-     "answer_index": 2,
-     "explanation": "Gebert praised the bill's onus on platforms but said people need somewhere to go when platforms don't resolve complaints."
-    },
-    "background_beginner": "Governments worldwide are wrestling with how to make the internet safer, especially for kids. The main players are big tech companies like social media platforms and AI chatbot makers, governments writing new rules, and parents and advocates worried about harm. Australia has been especially active, creating online safety watchdogs and age rules. Recently AI chatbots that chat like a friend have raised new worries about children forming attachments to them. The debate keeps returning because it pits child safety against concerns about free speech and censorship, and technology keeps changing faster than laws can keep up.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/b3e44fb72cc705d89a54b8eb9719b50630ca675c/549_0_5485_4388/master/5485.jpg?width=1920&quality=85&auto=format&fit=max&s=856eab4ffcaa4d034d049d00d96737ff",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Australia's digital duty of care bill, which would ban AI chatbots from fostering children's emotional dependence, has passed the lower house and now faces an uncertain Senate.",
-    "tier": "LOCAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-10-28T06:56:20.535322+00:00",
-    "published_date": "2026-10-28",
     "has_fulltext": true
    },
    {
@@ -306,6 +306,68 @@
    }
   ],
   "ASIA": [
+   {
+    "id": "732edbca-e226-52b7-87ac-987c00cb62c2",
+    "title": "Hong Kong leader apologises and housing minister resigns after fire investigation exposes failures",
+    "simplified_title": "Hong Kong leader apologises as housing chief quits over deadly tower fire",
+    "quick_summary": "Hong Kong's leader John Lee has apologised and his housing secretary has resigned after an independent report blamed cost-cutting contractors and weak government oversight for the Wang Fuk Court fire that killed 168 people.",
+    "simplified_body": "Hong Kong Chief Executive John Lee and several top officials bowed in apology on Thursday for the November 2025 fire at Wang Fuk Court in the Tai Po district, which killed 168 people. Housing Secretary Winnie Ho resigned to take political responsibility, although no personal wrongdoing by her was found. An independent committee's report found the fire was most likely started by a cigarette, probably dropped by construction workers.\n\nThe complex housed about 4,600 people, and nearly 40% were 65 or older. Most deaths came from smoke inhalation rather than burns. The report said the main contractor, Prestige Construction & Engineering, and consultant Will Power Architects cut corners. They used scaffolding nets that weren't fire retardant, covered windows with flammable foam boards, swapped staircase windows for panels that let smoke into escape routes, and had the fire alarm shut down. The report also found that some professionals simply lent their names to \"rubber-stamp\" safety paperwork for a fee.\n\nRegulators didn't escape blame. The Housing Bureau's independent checking unit and the Buildings Department failed to properly investigate complaints, and the checking unit even warned contractors before inspections. The report described \"decades of failure\" by government bodies and \"widespread, systematic and long-standing\" dodgy practices in construction, including bid-rigging, sometimes involving people linked to local mafias.\n\nNext, four government agencies face a three-month investigation into whether staff neglected their duties. The checking unit will be replaced, and Lee promised to make bid-rigging a crime with long jail terms and heavy fines. Separately, seven people and both companies have been charged with offences including manslaughter and conspiracy to defraud. Officials have also floated using AI and drones with infra-red cameras to spot smokers on building sites.",
+    "why_it_matters": "Many Hong Kongers live in similar ageing high-rises, so this report tests whether the government can fix systemic safety failures. For Australians, it echoes our own debates over flammable building materials and how much regulators should trust builders to self-certify.",
+    "deep_analysis": "## Historical Context\nThe fire was Hong Kong's deadliest in decades, engulfing seven buildings in a 1980s-era complex that was under a renovation contract worth more than 300 million Hong Kong dollars (over US$38 million). An earlier France 24 report cited a death toll of 151 when Lee first ordered the probe; the final figure is 168, including firefighter Ho Wai-ho. As background, major building fires elsewhere, such as London's Grenfell Tower in 2017, have also exposed flammable materials and weak oversight.\n\n## Multiple Perspectives\nThe committee put the heaviest blame on the private contractor and consultant, calling them the \"main culprits\". It also argued that the deception worked only because regulators relied on the good faith of the companies they were meant to police. The government has accepted political responsibility, but critics may ask whether one resignation without findings of personal wrongdoing is enough accountability. Residents have waited nearly a year for answers.\n\n## What to Watch\n- Outcomes of the three-month probe into the four agencies (Housing Bureau's checking unit, Buildings, Fire Services and Labour departments).\n- The criminal trials for manslaughter and fraud.\n- Legislation criminalising bid-rigging and its penalties.\n- Whether surveillance ideas like AI and drones actually get rolled out.",
+    "concepts": [
+     {
+      "term": "bid-rigging",
+      "definition": "When companies secretly coordinate their bids for a contract so a chosen firm wins, often at inflated prices.",
+      "context": "The report found bid-rigging in Hong Kong's construction sector, and the government plans to make it a crime."
+     },
+     {
+      "term": "fire retardant",
+      "definition": "Treated or made so it resists catching fire and slows flames from spreading.",
+      "context": "The scaffolding nets at Wang Fuk Court were not fire retardant, helping the fire spread."
+     },
+     {
+      "term": "rubber-stamp",
+      "definition": "To approve something automatically without actually checking it.",
+      "context": "Some professionals were paid to sign safety forms without doing any real work."
+     }
+    ],
+    "quiz": {
+     "question": "Why did the committee say government regulators shared blame, even though contractors deceived them?",
+     "options": [
+      "Regulators approved the cigarette smoking on site",
+      "Regulators relied on contractors' good faith and gave warnings before inspections, letting hazards go unchecked",
+      "Regulators started the fire themselves",
+      "Regulators chose the contractor for the project"
+     ],
+     "answer_index": 1,
+     "explanation": "The report said deception succeeded because regulators' own practices, like trusting the companies and pre-notifying inspections, enabled it."
+    },
+    "background_beginner": "Hong Kong is a crowded city where most people live in tall apartment towers, many of them decades old. These buildings need regular repairs, which owners pay contractors to carry out while government departments are meant to check the work is safe. In November 2025, a fire broke out at Wang Fuk Court, a complex being renovated, and spread across seven buildings, killing 168 people, many of them elderly. An independent inquiry has now found that contractors cut corners and that government checkers didn't do their jobs properly. The story keeps coming up because it raises questions about safety, corruption and accountability that affect millions of residents.",
+    "impact_score": 62,
+    "image_url": "https://s.france24.com/media/display/2b2175bc-d383-11f1-88d2-811458fcf026/w:1280/p:16x9/000-D4RL864.jpg",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "Hong Kong's leader John Lee has apologised and his housing secretary has resigned after an independent report blamed cost-cutting contractors and weak government oversight for the Wang Fuk Court fire that killed 168 people.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261029-hong-kong-leader-apologises-and-housing-minister-resigns-after-fire-investigation-exposes-failures"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr5yn9770pgvo"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-10-29T14:30:16.512630+00:00",
+    "published_date": "2026-10-30",
+    "has_fulltext": true
+   },
    {
     "id": "d70cbff2-58b9-52e3-9a49-be6745f4c77f",
     "title": "China's families are now supporting more old people than kids",
@@ -493,72 +555,6 @@
     "created_at": "2026-10-28T23:21:04.938181+00:00",
     "published_date": "2026-10-29",
     "has_fulltext": true
-   },
-   {
-    "id": "6e53f856-a20c-58d7-9e10-f1dc4286fee3",
-    "title": "Cyclone Arnab lashes India coast, no deaths reported",
-    "simplified_title": "Cyclone Arnab slams India's east coast, but no deaths reported",
-    "quick_summary": "A \"very severe\" Cyclone Arnab made landfall in India's Andhra Pradesh state on Wednesday 28 October, bringing fierce winds, flooding and disruption, but mass evacuations meant no deaths were reported early on.",
-    "simplified_body": "Cyclone Arnab hit India's southeastern state of Andhra Pradesh on Wednesday 28 October as a \"very severe cyclonic storm\". The India Meteorological Department (IMD) reported winds of 115 to 125 km/h with gusts up to 140 km/h, though DW cited winds over 125 km/h and gusts of 150 km/h. The storm crawled ashore slowly, knocking down trees, damaging power lines and pushing the sea higher than many locals had seen before. Andhra Pradesh's Chief Minister, N Chandrababu Naidu, said no lives were lost and credited early preparation.\n\nThe hardest-hit areas were coastal Andhra Pradesh and neighbouring Odisha. Evacuation numbers differ between reports: CNA said more than 180,000 people were moved, while DW said nearly 100,000. Three airports shut, trains were cancelled and schools closed. The IMD warned of flash floods between Bapatla and Visakhapatnam and \"total destruction\" of thatched houses and damage to crops.\n\nArnab formed over the Bay of Bengal, one of the world's busiest areas for tropical cyclones. India's east coast has a grim history: a super cyclone killed nearly 10,000 people in Odisha in October 1999. Experts told DW this season is being \"turbocharged\" by El Nino, a climate pattern causing unusual warming.\n\nThe storm's effects may spread. Nepal warned tourists to avoid high-altitude areas, fearing heavy rain, snowstorms and avalanches from Thursday night to Saturday. Nepal is still recovering from a catastrophic August flood (reported death tolls range from about 1,400 to 1,500). Sri Lanka also closed schools over flash flood and mudslide risks.",
-    "why_it_matters": "Arnab shows how early warnings and evacuations can save lives in a cyclone-prone region, a lesson that matters for cyclone-exposed parts of northern Australia too.",
-    "deep_analysis": "## Historical Context\nThe Bay of Bengal has produced some of history's deadliest storms. The 1999 Odisha super cyclone killed nearly 10,000 people. As general background, India has since invested heavily in forecasting, cyclone shelters and mass evacuation planning, which is why recent storms have generally caused far fewer deaths.\n\n## Multiple Perspectives\nOfficials, led by Chief Minister Naidu, credit \"proactive measures\" for zero reported deaths. Residents like Sadiq agreed early warnings helped, while others, like 65-year-old Rajeshwari, highlight the ongoing reality of homes flooding repeatedly. Reports disagree on evacuation numbers (180,000+ vs nearly 100,000) and wind speeds. Experts quoted by DW link the season's intensity to El Nino warming.\n\n## What to Watch\n- Damage assessments for crops, thatched homes and power infrastructure.\n- Whether the remnants trigger snowstorms or avalanches in Nepal's Himalayas from Thursday to Saturday.\n- Flash flooding and mudslides in Sri Lanka.\n- Whether the no-deaths record holds as the slow-moving storm moves inland.",
-    "concepts": [
-     {
-      "term": "landfall",
-      "definition": "The moment the centre of a storm moves from the sea onto land.",
-      "context": "Arnab's landfall was drawn out because it moved at only about 4 km/h."
-     },
-     {
-      "term": "Bay of Bengal",
-      "definition": "A large body of water east of India, part of the Indian Ocean.",
-      "context": "Its warm waters regularly breed powerful cyclones that hit India's east coast."
-     },
-     {
-      "term": "El Nino",
-      "definition": "A natural climate pattern where Pacific Ocean waters warm up, shifting weather worldwide.",
-      "context": "Experts say it is causing unusual warming that's supercharging this cyclone season."
-     }
-    ],
-    "quiz": {
-     "question": "What do officials and residents mainly credit for the lack of reported deaths from Cyclone Arnab?",
-     "options": [
-      "El Nino reduced the storm's strength",
-      "The storm weakened completely before reaching land",
-      "Early warnings and large-scale evacuations",
-      "The cyclone hit only uninhabited areas"
-     ],
-     "answer_index": 2,
-     "explanation": "Chief Minister Naidu praised proactive measures, and residents said early warnings let them move to safer places."
-    },
-    "background_beginner": "Cyclones are huge spinning storms that form over warm oceans. Australians call them cyclones too; in America they're hurricanes. The Bay of Bengal, east of India, is one of the world's cyclone hotspots, so states like Andhra Pradesh and Odisha get hit often. In 1999 a super cyclone killed nearly 10,000 people in Odisha, and since then India has got much better at warning people and moving them to shelters before storms arrive. Cyclones keep making news because they strike regularly, threaten millions of coastal residents, and scientists say warmer oceans may be making them stronger.",
-    "impact_score": 55,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--RZOrLVaY--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-27T091224Z_1_LYNXNPEM9Q0PH_RTROPTP_3_ASIA-WEATHER-INDIA-CYCLONE.JPG?itok=j4gqkh8I",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "A \"very severe\" Cyclone Arnab made landfall in India's Andhra Pradesh state on Wednesday 28 October, bringing fierce winds, flooding and disruption, but mass evacuations meant no deaths were reported early on.",
-    "tier": "GLOBAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/cyclone-arnab-india-east-coast-6497916"
-     },
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/india-thousands-evacuated-cyclone-arnab-6495481"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/india-news-cyclone-arnab-brings-heavy-rain-disruption/live-79782323?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-28T06:56:21.732992+00:00",
-    "published_date": "2026-10-28",
-    "has_fulltext": true
    }
   ],
   "EUROPE": [
@@ -626,6 +622,75 @@
     "reading_minutes": 2,
     "created_at": "2026-10-28T14:08:07.981030+00:00",
     "published_date": "2026-10-29",
+    "has_fulltext": true
+   },
+   {
+    "id": "fb9180f1-fa27-5646-8dfe-683b66906451",
+    "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+    "simplified_title": "Russian drone kills at least 14 at crowded Dnipro train station",
+    "quick_summary": "A Russian jet-powered drone hit a busy railway platform in the Ukrainian city of Dnipro, killing at least 14 people and wounding 14 more, as a fragile local ceasefire held elsewhere in Oleshky.",
+    "simplified_body": "A Russian jet-powered drone slammed into a crowded platform at Dnipro's main railway station on Thursday, killing at least 14 people and wounding at least 14 others, including an 11-year-old boy. A passenger train bound for Zaporizhzhia was at the platform. Ukraine's air force says it shot down three drones, but a fourth got through. A threat warning had been issued beforehand, but many people were still on the platform.\n\nThe attack hits ordinary Ukrainians hard because, with commercial flights shut down by the war, trains are the country's lifeline for moving people and goods. Ukrzaliznytsia, the state railway operator, says attacks on railway facilities have jumped from 1,206 in 2025 to 1,700 so far this year. Russia says it targets railway infrastructure used for military transport and denies deliberately targeting civilians. Other Russian strikes killed two 15-year-old girls in Chernihiv and people in Kremenchuk, although sources differ on whether two or three died there.\n\nSome background: Russia launched its full-scale invasion of Ukraine in February 2022. Earlier this month, United States (US) President Donald Trump and Russian President Vladimir Putin struck a deal easing some sanctions on Russia, letting Russian diesel reach global markets. Ukrainian President Volodymyr Zelensky criticised that deal again and called for more sanctions from the US, Europe and the Group of Seven (G7) major economies.\n\nMeanwhile, a fragile local ceasefire in the Russian-occupied city of Oleshky, where residents lack food, water and medicine, was holding into a third day. Russia and Ukraine are due to meet with US envoys next month to restart peace talks, though no dates are set and earlier rounds have failed.",
+    "why_it_matters": "Attacks on civilian rail show the war is escalating even as peace talks are planned, and the debate over easing sanctions affects how countries like Australia, which has its own sanctions on Russia, weigh pressure against diplomacy.",
+    "deep_analysis": "## Historical Context\nRussia has struck Ukrainian trains and stations since the first days of its February 2022 full-scale invasion, destroying hundreds of locomotives. Ukrzaliznytsia figures supplied to AFP show 521 locomotives hit since the invasion began, almost 60% of them this year. In September alone, more than 5,800 trains were evacuated because of strike threats. As background, the conflict's roots go back to Russia's 2014 annexation of Crimea and fighting in eastern Ukraine.\n\n## Multiple Perspectives\nUkraine calls the strike deliberate terror against civilians; Prime Minister Sergiy Koretskyi said Russia is \"deliberately hunting civilians\". Zelensky argues sanctions must not be eased while the war continues, directly challenging the Trump-Putin diesel deal. French President Emmanuel Macron called Russia's rejection of broader ceasefire proposals \"intolerable\" and urged \"far more than a localised ceasefire\". Russia's military did not comment publicly but maintains it hits rail infrastructure to disrupt military transport, not civilians. Meanwhile, the Kremlin condemned Ukrainian drone attacks on Moscow during the Russia-Africa Summit; Moscow's mayor said 613 drones were launched overnight, most shot down.\n\n## What to Watch\n- Whether the Oleshky ceasefire holds and aid reaches residents.\n- US-mediated talks next month, where Russia demands more eastern territory and Ukraine says ceding ground equals capitulation.\n- Whether the US, Europe or G7 respond with new sanctions or keep the eased measures.\n- Continued Russian strikes on energy and transport ahead of winter.",
+    "concepts": [
+     {
+      "term": "sanctions",
+      "definition": "Penalties, often trade or financial restrictions, that countries impose to pressure another government.",
+      "context": "Zelensky wants more sanctions on Russia and opposes the recent easing that let Russian diesel be sold."
+     },
+     {
+      "term": "jet-powered drone",
+      "definition": "An uncrewed aircraft driven by a jet engine, making it faster and harder to intercept than propeller drones.",
+      "context": "One of four such drones evaded Ukraine's air defences and hit the Dnipro platform."
+     },
+     {
+      "term": "local ceasefire",
+      "definition": "A temporary pause in fighting limited to one area, rather than the whole war.",
+      "context": "The truce in Oleshky lets humanitarian help in, but fighting continues elsewhere."
+     }
+    ],
+    "quiz": {
+     "question": "Why are attacks on Ukraine's railways especially damaging to everyday life?",
+     "options": [
+      "Ukraine has no roads",
+      "With commercial flights shut down, trains are essential for moving people and goods and travelling in and out of Ukraine",
+      "Trains carry all of Ukraine's electricity",
+      "Railways are only used by the military"
+     ],
+     "answer_index": 1,
+     "explanation": "Commercial air travel in Ukraine is shut down, so the rail network has become vital for passengers, goods and entering or leaving the country."
+    },
+    "background_beginner": "Russia and Ukraine are neighbours that were both once part of the Soviet Union. In 2014 Russia took Crimea from Ukraine, and in February 2022 it launched a full-scale invasion. Since then, fighting has killed many people and destroyed cities, power stations and transport. Ukraine is led by President Volodymyr Zelensky and is backed by Western countries with weapons and money; Russia is led by Vladimir Putin. Countries like the US, European nations and Australia have used sanctions to pressure Russia. The war keeps making news because attacks on civilians continue, peace talks keep stalling, and big powers disagree over how hard to push Russia.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c3f6/live/c8559bf0-d389-11f1-b5f4-fd541fd21001.jpg",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "A Russian jet-powered drone hit a busy railway platform in the Ukrainian city of Dnipro, killing at least 14 people and wounding 14 more, as a fragile local ceasefire held elsewhere in Oleshky.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "d30189ff-6a38-5bdf-9167-96edac892f4b",
+     "d31c63c1-f0b3-5273-9605-793d7030e47e"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-10-29T14:30:00.685876+00:00",
+    "published_date": "2026-10-30",
     "has_fulltext": true
    },
    {
@@ -914,69 +979,65 @@
     "has_fulltext": true
    },
    {
-    "id": "a1953172-37fc-55b9-a715-9bbde7c2c360",
-    "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
-    "simplified_title": "Gulf nations push peace plan to stop another US-Iran war",
-    "quick_summary": "Gulf states are building a multipart peace deal to reopen the Strait of Hormuz and calm the war in Yemen, but the US still wants Iran to let UN weapons inspectors back in.",
-    "simplified_body": "Gulf states are working on a peace deal with several parts to stop war between Iran and the United States (US) from starting up again. The plan would reopen the Strait of Hormuz within four days of economic sanctions on Iran being lifted, and would see the Houthis pull back substantial forces inside Yemen. Iran has offered to cut its earlier proposal of seven days down to four.\n\nThe US knows how the talks are going but is holding out for one more concession. European diplomats think the minimum is Iran letting United Nations (UN) weapons inspectors back in to visit its bombed nuclear sites. Britain's foreign secretary, Ed Miliband, pressed Iran's foreign minister, Abbas Araghchi, on this in New York. So far Iran has refused and says it will only talk about its nuclear program in principle.\n\nSome background helps here. Iran backs the Houthis, a group fighting in Yemen, and can influence them. The Houthis want Saudi Arabia to lift what they call a naval and air blockade on the areas they hold. A delegation from Saudi Arabia, Turkey and Pakistan recently visited Tehran, and Iran steered that meeting towards a long-term regional security plan rather than its nuclear program. Since the 1979 Islamic Revolution, Iran has been shut out by the rest of the Gulf. A non-aggression pact that ended this would meet Iran's biggest goal, and it would like the US presence in the region reduced or ended.\n\nWhat comes next depends on whether Iran will budge on inspectors. Oman's foreign minister, Badr Albusaidi, believes the US accepts that a regional peace plan is where things are heading once a deal is done.",
-    "why_it_matters": "The Strait of Hormuz is a key route for the world's oil shipping, so keeping it closed or restarting a war could push up fuel prices well beyond the Middle East, including at Australian petrol stations.",
-    "deep_analysis": "## Historical Context\nThe article notes Iran has been ostracised by the rest of the Gulf since the 1979 Islamic Revolution. As general background, Iran and Saudi Arabia have long been regional rivals, and Yemen's civil war has often been described as a proxy conflict between them. The article refers to Iran's 'bombed nuclear sites' and a possible 'renewal' of US-Iran war, meaning fighting has already happened.\n\n## Multiple Perspectives\n- **Gulf states** see renewed war as disastrous and are pushing an inclusive deal; Oman's Badr Albusaidi talks up the 'enormous' economic potential of peace.\n- **Iran** focuses on guaranteed sanctions relief and a postwar security pact, while avoiding detailed nuclear talks. Araghchi says its policies stay the same 'whether there is war or not'.\n- **The US** is aware of progress but wants a further concession.\n- **European powers**, including Britain, see readmitting UN inspectors as the minimum needed to win over President Donald Trump.\n- **The Houthis** want Saudi Arabia to lift its blockade on their territory.\n\n## What to Watch\n- Whether Iran agrees to let UN inspectors back in.\n- Whether the four-day reopening timeline satisfies Washington.\n- Any Houthi withdrawal or Saudi easing of the blockade.\n- Whether the six Gulf states formally commit to a regional non-aggression pact including Iran.",
+    "id": "315ff6a2-e859-54be-9370-470d95fabca2",
+    "title": "Ship reported on fire off Oman as Iran escalation fears mount",
+    "simplified_title": "Ship on fire in Strait of Hormuz as US-Iran tensions rise",
+    "quick_summary": "A burning ship has been reported off Oman in the Strait of Hormuz, as Iran steps up attacks on shipping and fears grow of fresh US strikes.",
+    "simplified_body": "A ship has been reported on fire in the Strait of Hormuz, about 9 nautical miles (17 kilometres) north of Khasab in Oman. The UK Maritime Trade Operations agency (UKMTO), run by Britain's Royal Navy, didn't give a cause or say whether anyone was hurt. Separately, Iran's Islamic Revolutionary Guard Corps (IRGC) said three tankers hit sea mines and caught fire in the past 24 hours while using an \"unauthorized\" route. It's not known if the burning ship is one of them.\n\nThis matters for anyone who relies on oil and gas, which is basically everyone. The strait is a key route for global energy supplies, and oil exports through it fell again last week, according to shipping data firm Kpler. The Washington Institute for Near East Policy says attacks on ships there are at their highest level since the war began.\n\nSome background: a Middle East war kicked off in February when the US and Israel attacked Iran. Since then, Tehran has tried to control the strait and attack ships it sees as unauthorised, while the US Navy runs its own blockade of Iranian vessels and has escorted tankers through the area. Iran also says it shot down another US drone; that claim hasn't been independently verified.\n\nWhat's next? President Donald Trump is widely seen as weighing fresh strikes on Iran after the US midterm elections on November 3, recently saying \"we may do another little Epic Fury\". A third US aircraft carrier and thousands more troops are heading to the region. Meanwhile, Defense Secretary Pete Hegseth has reportedly fired the Pentagon's top military planner, Lieutenant General Brett Sylvia, with no reason given.",
+    "why_it_matters": "Disruption in the Strait of Hormuz pushes up global oil and gas prices, which can flow through to what Australians pay at the bowser. A wider US-Iran escalation could also shake shipping and markets worldwide.",
+    "deep_analysis": "## Historical Context\nAs general background, the Strait of Hormuz is a narrow chokepoint between Iran and Oman that has long been a flashpoint, including during the 1980s 'Tanker War'. In this conflict, the source says the war began in February with US and Israeli attacks on Iran (dubbed 'Epic Fury'), after which Iran sought to control the strait and the US imposed its own blockade on Iranian vessels.\n\n## Multiple Perspectives\nIran frames its actions as policing 'unauthorized' use of the waterway, and the IRGC claims to have destroyed more than 50 MQ-9 Reaper drones plus 14 of another type. Those claims are unverified, though the US Congressional Research Service says dozens of US aircraft and drones have been reported lost or damaged. The UKMTO is more cautious, giving no cause for the latest fire. In Washington, Trump hints at more strikes, while the reported firing of Lt Gen Brett Sylvia, following the forced retirement of his predecessor Lt Gen Joseph McGee, raises questions about stability in military planning.\n\n## What to Watch\n- Whether the burning ship is confirmed as one of the mined tankers, and the crew's fate.\n- US moves after the November 3 midterms, as a third carrier arrives.\n- Kpler data on oil flows and any knock-on effect on fuel prices.\n- Official confirmation of Sylvia's departure and who replaces him.",
     "concepts": [
      {
       "term": "Strait of Hormuz",
-      "definition": "A narrow sea passage between Iran and the Arabian Peninsula that links the Gulf to the open ocean.",
-      "context": "Iran is offering to reopen it within four days of sanctions being lifted."
+      "definition": "A narrow sea passage between Iran and Oman linking the Persian Gulf to the open ocean.",
+      "context": "A large share of the world's oil and gas shipping passes through it, so trouble there affects global energy prices."
      },
      {
-      "term": "economic sanctions",
-      "definition": "Penalties like trade bans that countries put on another country to pressure it.",
-      "context": "Iran wants guarantees these will be lifted in exchange for reopening the strait."
+      "term": "sea mines",
+      "definition": "Explosive devices placed in water that blow up when ships hit or pass near them.",
+      "context": "Iran's IRGC says three tankers hit sea mines while using an 'unauthorized' route."
      },
      {
-      "term": "Houthis",
-      "definition": "An armed group in Yemen that controls part of the country and is backed by Iran.",
-      "context": "The deal would see them pull back substantial forces inside Yemen."
-     },
-     {
-      "term": "non-aggression pact",
-      "definition": "An agreement between countries promising not to attack each other.",
-      "context": "A pact including Iran and Gulf states would meet Iran's highest strategic goal."
+      "term": "blockade",
+      "definition": "Using military force to stop ships from entering or leaving certain ports or areas.",
+      "context": "The US Navy is enforcing a blockade of Iranian vessels while escorting other tankers through the strait."
      }
     ],
     "quiz": {
-     "question": "Why might a regional security pact make it easier for Iran to accept nuclear concessions?",
+     "question": "Why do incidents in the Strait of Hormuz worry countries far from the Middle East?",
      "options": [
-      "Because Saudi Arabia promised to build Iran's nuclear sites",
-      "Because the pact would cancel all US sanctions automatically",
-      "Because ending Iran's isolation in the Gulf meets its biggest goal, making tough trade-offs easier to swallow",
-      "Because the pact would ban UN inspectors permanently"
+      "Because it is a key transit route for global oil and gas supplies",
+      "Because the UK Royal Navy owns the strait",
+      "Because Oman controls world drone production",
+      "Because it is the only route for US aircraft carriers"
      ],
-     "answer_index": 2,
-     "explanation": "The article says a non-aggression pact ending Iran's ostracism would meet its highest strategic goal, which might make difficult nuclear concessions easier to accept."
+     "answer_index": 0,
+     "explanation": "The strait is a major chokepoint for energy shipments, so attacks there cut oil exports and can push up prices worldwide."
     },
-    "background_beginner": "Iran is a big country in the Middle East that has been at odds with the US and many of its Gulf neighbours, like Saudi Arabia, since its 1979 revolution. The US worries Iran could build nuclear weapons, and has used sanctions, and more recently military strikes, to pressure it. Iran can respond by disrupting the Strait of Hormuz, a narrow waterway that much of the world's oil passes through. Meanwhile in Yemen, the Iran-backed Houthis have fought a Saudi-led coalition for years. These issues keep resurfacing because they're tangled together: oil, nuclear fears, regional rivalries and the role of the US all overlap.",
+    "background_beginner": "The Strait of Hormuz is a narrow stretch of sea between Iran and Oman that a huge amount of the world's oil and gas travels through. The US and Iran have been at odds for decades, and this year it became an open war after the US and Israel attacked Iran in February. Since then Iran has tried to control who sails through the strait, attacking ships it says are unauthorised, while the US blocks Iranian ships and escorts others. Because so much energy passes through, every flare-up there ripples into fuel prices and global politics, which is why it keeps making headlines.",
     "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/7696200dce7254abdadd923a886adbbcc098804a/11_17_4694_3755/master/4694.jpg?width=1920&quality=85&auto=format&fit=max&s=9ee2bc4e098ee5aefda27f1124ea7b7c",
+    "image_url": "https://static.dw.com/image/79686475_6.jpg",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Gulf states are building a multipart peace deal to reopen the Strait of Hormuz and calm the war in Yemen, but the US still wants Iran to let UN weapons inspectors back in.",
+    "description": "A burning ship has been reported off Oman in the Strait of Hormuz, as Iran steps up attacks on shipping and fears grow of fresh US strikes.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war"
+      "name": "DW",
+      "url": "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [
+     "a1953172-37fc-55b9-a715-9bbde7c2c360",
      "adabd6c4-a1b8-5204-9a50-3b162f5bf191",
      "d83687dc-daf6-5e1c-87b9-7f98e012cce1"
     ],
-    "reading_minutes": 3,
-    "created_at": "2026-10-28T06:56:22.552487+00:00",
-    "published_date": "2026-10-28",
+    "reading_minutes": 2,
+    "created_at": "2026-10-29T14:29:58.675464+00:00",
+    "published_date": "2026-10-30",
     "has_fulltext": true
    }
   ],
@@ -1040,80 +1101,72 @@
     "has_fulltext": true
    },
    {
-    "id": "38cf0b08-014e-59b6-ab12-5d5f79a10b6b",
-    "title": "Flávio Bolsonaro arrives in US after Brazil cancels his passports",
-    "simplified_title": "Brazil's defeated Flávio Bolsonaro leaves for the US after passports cancelled",
-    "quick_summary": "Right-wing senator Flávio Bolsonaro left Brazil and reportedly arrived in the US after losing the presidential run-off to Lula and missing a court deadline to hand over his passports in a money-laundering probe.",
-    "simplified_body": "Flávio Bolsonaro, the right-wing senator who lost Brazil's presidential run-off on Sunday, has left the country. Brazil's Supreme Court had ordered him to hand over his passports within 24 hours as part of a money-laundering investigation. He missed the deadline, his passports were cancelled, and sources told the BBC he has since met his brother Eduardo in Florida. A US State Department official said the Trump administration would give him and his family visas. Accounts of his route differ: Argentina's migration agency said he, his wife and two daughters crossed into Argentina and took a private flight to Ecuador, but the BBC was told by Argentine authorities there was no record of him entering.\n\nBolsonaro hasn't been charged and denies wrongdoing. Police are probing alleged links to a lawyer accused of a huge fraud scheme, and separately looking at alleged foreign funding of his campaign. On Monday he said he had \"never thought about leaving the country\". President Luiz Inácio Lula da Silva called his departure \"shameful\", and Lula's Workers' Party has asked for his arrest and an Interpol Red Notice.\n\nFlávio is the son of former president Jair Bolsonaro, who was convicted of plotting a coup and is under house arrest. Lula won 51.79% to 48.21%. Flávio hasn't conceded and wants the result annulled over a two-hour polling extension, though his own Liberal Party has accepted the result. US President Donald Trump said it \"looked like another rigged election\", but no evidence of wrongdoing has emerged.\n\nNext, watch whether Brazil seeks his arrest or extradition, whether he asks for asylum in the US, and who takes over leadership of Brazil's right.",
-    "why_it_matters": "It tests how far one country will shelter a politician fleeing a court order in another, and it strains ties between the US and Brazil, a major democracy and one of Australia's key competitors and partners in farm and mining exports.",
-    "deep_analysis": "## Historical Context\nAs background: Jair Bolsonaro, a career congressman, surprisingly won Brazil's presidency in 2018, and since then the right has largely been dominated by the far-right Bolsonarismo movement. Jair was later convicted of plotting a coup and is under house arrest. His son Eduardo moved to the US, was convicted in absentia for lobbying the Trump administration to sanction the judges hearing his father's case, and has an arrest warrant in Brazil. Flávio became the candidate after Eduardo, the family's \"plan A\", was out of the picture. Lula became the first candidate to win a run-off after losing the first round.\n\n## Multiple Perspectives\n- **Flávio Bolsonaro** denies the allegations, calls the passport order intimidation and the polling extension a \"dirty trick\".\n- **Lula** says fleeing shows he has \"something to hide\" and accuses the family of serving US interests.\n- **The Trump administration** is granting visas; Trump questioned the result.\n- **US Democrat Joaquin Castro** says losing an election isn't grounds for asylum and wants answers from the administration.\n- **His campaign chief Rogério Marinho** was surprised but suggested he could lead the opposition from abroad.\n- **Political scientists** Magna Inácio and Camila Rocha expect a power vacuum and a shift away from the Bolsonaro sons, toward figures like Michelle Bolsonaro or Tarcísio de Freitas.\n\nSources disagree on his route: the Guardian cites Argentina confirming a crossing and flight to Ecuador, while the BBC was told Argentina had no record of him entering.\n\n## What to Watch\n- Whether Brazil's Supreme Court orders his arrest or an Interpol Red Notice is issued.\n- Whether he formally seeks US political asylum, and any use of his reported Italian passport.\n- Brazil–US diplomatic fallout.\n- The leadership contest on Brazil's right, including family tensions.",
+    "id": "d1a17887-5f80-5273-8f8d-fb0e30fdb308",
+    "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
+    "simplified_title": "Flávio Bolsonaro loses Brazil election, flees to Miami, claims leadership",
+    "quick_summary": "After losing Brazil's presidential runoff to Lula, far-right senator Flávio Bolsonaro slipped out through Argentina and Ecuador to Miami, then called himself Brazil's 'true president' before toning it down to 'leader of Brazil'.",
+    "simplified_body": "Flávio Bolsonaro, a far-right senator and son of jailed former president Jair Bolsonaro, lost Sunday's presidential runoff to Luiz Inácio Lula da Silva. He vanished for more than 24 hours, crossed by land into Argentina on Tuesday night, then flew by private jet via Guayaquil in Ecuador to Miami, landing on Wednesday morning wearing a bulletproof vest. In a letter he called himself the \"true president\", later deleted it and swapped in \"the leader of Brazil\". He repeated claims of \"electoral fraud\" without evidence and says he \"did not flee Brazil\" but left \"for the sake of Brazil\".\n\nHis own party, Brazil's electoral and supreme courts, and international observers all accept Lula's win, which was by more than four million votes. Brazil's three biggest newspapers called his declaration \"coup-mongering\". Lula called the escape \"shameful\". Brazil's federal police are being criticised for letting him get away.\n\nFlávio faces at least two criminal investigations, including alleged money laundering, which he denies. The Guardian puts that case at about $905m involving betting companies, while the BBC also mentions a probe into nearly $70m sent from Banco Master to a biopic about his father. Authorities cancelled his passports after he missed a deadline to hand them in. The United States (US) gave him and his family visas, and President Donald Trump said \"we gave him a pass\" but won't \"get involved\". Fleeing abroad is a familiar move in his circle: his father spent three months in Florida after losing in 2022, and his brother Eduardo lives in the US.\n\nNext, watch his parliamentary immunity, which ends on 31 January when his Senate term finishes, and whether Brazil tries to bring him back.",
+    "why_it_matters": "It's a live test of whether a defeated politician can reject an election result from abroad with the backing of a friendly foreign government. For Australians, it shows how fragile the peaceful handover of power, something we tend to take for granted, can be elsewhere.",
+    "deep_analysis": "## Historical Context\nAs general background, Brazil was under a military dictatorship from 1964 to 1985, so attacks on election results hit a raw nerve there. More recently, Jair Bolsonaro left for Florida in December 2022 before Lula's inauguration. While he was away, his supporters stormed government buildings and the Supreme Court on 8 January. He was later convicted over an attempted coup and sentenced to 27 years. Eduardo Bolsonaro lobbied US officials over his father's trial, which led to US tariffs on Brazil and sanctions on Brazilian officials, and he has since been convicted in absentia.\n\n## Multiple Perspectives\nFlávio says he is a victim of a coup d'état and political persecution, and that he left to protect his family. Lula and Brazil's institutions say the election was legitimate, and Lula notes \"those who have nothing to hide have nothing to fear\". Trump has been ambivalent. He said he didn't take sides and won't get involved, but he also called it \"a very strange election\" and said the family was treated unfairly. The sources differ slightly on the timeline. The BBC reports early, wrong claims that he had already reached the US, while the Guardian says government figures suspected allies spread those claims on purpose as a distraction.\n\n## What to Watch\n- The loss of his immunity on 31 January.\n- Any request by Brazil to have him sent back.\n- How long his US humanitarian visa status lasts.\n- Any fallout in Argentina over the jet, which reportedly belongs to a businessman linked to a scandal in Milei's government.\n- Whether US–Brazil relations sour further.",
     "concepts": [
      {
+      "term": "runoff",
+      "definition": "A second-round vote between the top two candidates when no one wins outright in the first round.",
+      "context": "Flávio won the first round, but Lula won the runoff by more than four million votes."
+     },
+     {
+      "term": "parliamentary immunity",
+      "definition": "Legal protection that shields sitting lawmakers from some prosecutions while they are in office.",
+      "context": "Flávio's immunity ends on 31 January when his Senate term finishes, which could expose him to prosecution."
+     },
+     {
       "term": "money laundering",
-      "definition": "Hiding where illegally obtained money came from by passing it through legitimate-looking businesses or accounts.",
-      "context": "Police are investigating whether Flávio Bolsonaro was linked to a lawyer accused of laundering huge sums."
-     },
-     {
-      "term": "run-off",
-      "definition": "A second-round election between the top two candidates when nobody wins outright in the first round.",
-      "context": "Bolsonaro led the first round but lost the run-off to Lula."
-     },
-     {
-      "term": "Interpol Red Notice",
-      "definition": "An international alert asking police worldwide to find and provisionally arrest a wanted person.",
-      "context": "Lula's party asked for Bolsonaro's name to be put on this list."
-     },
-     {
-      "term": "annulled",
-      "definition": "Officially cancelled, as if it never happened.",
-      "context": "Bolsonaro wants the election result annulled over the polling-hours extension."
+      "definition": "Disguising money that came from crime so it looks like it came from a legitimate source.",
+      "context": "One of the investigations into Flávio involves an alleged money-laundering scheme linked to betting companies."
      }
     ],
     "quiz": {
-     "question": "Why was Flávio Bolsonaro's leaving Brazil so controversial?",
+     "question": "Why is Flávio Bolsonaro's claim to be Brazil's leader widely seen as illegitimate?",
      "options": [
-      "He left despite a court order to surrender his passports during a criminal investigation",
-      "His party refused to accept the election result",
-      "He was convicted of plotting a coup",
-      "He was banned from running for president"
+      "Brazil's courts, his own party and international observers all recognised Lula's win",
+      "Argentina refused to recognise him",
+      "The US government declared Lula the winner",
+      "He never actually ran in the election"
      ],
      "answer_index": 0,
-     "explanation": "The Supreme Court had ordered him to hand over his passports in a money-laundering probe; he missed the deadline and left. The coup conviction belongs to his father, and his party actually accepted the result."
+     "explanation": "Lula's victory was confirmed by Brazil's electoral court and supreme court, accepted by Flávio's own party, and endorsed by international observers, so his fraud claims have no official backing."
     },
-    "background_beginner": "Brazil is South America's biggest country and a large democracy. Its politics has long been a contest between left-wing leader Lula and the Bolsonaro family on the far right. Jair Bolsonaro was president from 2019 and was later convicted of plotting a coup to stay in power; he's now under house arrest. His sons are politicians too. One son, Eduardo, lives in the US and is wanted in Brazil. Another, Flávio, just ran for president and lost narrowly to Lula. The family has close ties to US President Donald Trump, which keeps dragging the US into Brazil's political fights.",
+    "background_beginner": "Brazil is South America's biggest country, and its politics have been split between left-wing Lula and the far-right Bolsonaro family. Jair Bolsonaro was president until he lost to Lula in 2022. His supporters then stormed government buildings, and he was later jailed for 27 years over a coup attempt. His son Flávio, a senator, ran for president this time and lost to Lula in a second-round vote. The story keeps coming up because the family keeps disputing election results and leaning on allies like US President Donald Trump, which tests Brazil's democracy and its relationship with the US.",
     "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8385/live/d2ce76e0-d232-11f1-93e1-3b657b665bcf.jpg",
+    "image_url": "https://i.guim.co.uk/img/media/42124afb15a49939e6544c20b2c8ea9523ee7816/0_0_3000_2000/master/3000.jpg?width=1920&quality=85&auto=format&fit=max&s=156fcbd5b0b352c9d1f968378c775c23",
     "region": "North & South America",
     "region_code": "AMERICAS",
-    "description": "Right-wing senator Flávio Bolsonaro left Brazil and reportedly arrived in the US after losing the presidential run-off to Lula and missing a court deadline to hand over his passports in a money-laundering probe.",
+    "description": "After losing Brazil's presidential runoff to Lula, far-right senator Flávio Bolsonaro slipped out through Argentina and Ecuador to Miami, then called himself Brazil's 'true president' before toning it down to 'leader of Brazil'.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o"
-     },
-     {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled"
+      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
      },
      {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
     "related_story_ids": [
+     "38cf0b08-014e-59b6-ab12-5d5f79a10b6b",
      "534ff637-863c-582e-9044-8544adff934b",
      "6c2d6990-cf50-58f6-8593-8d1d6a4899ef",
      "b140347d-8ea0-51cd-9a95-969a2c0577b7",
      "bcfade68-2ccd-5755-813b-a1be3244d895",
      "c2ac342f-c1d8-57b2-a7fb-32a818ac16b5"
     ],
-    "reading_minutes": 3,
-    "created_at": "2026-10-28T06:56:24.621663+00:00",
-    "published_date": "2026-10-28",
+    "reading_minutes": 5,
+    "created_at": "2026-10-29T14:30:01.076788+00:00",
+    "published_date": "2026-10-30",
     "has_fulltext": true
    },
    {
@@ -1177,65 +1230,123 @@
   ],
   "GLOBAL_SYSTEMS": [
    {
-    "id": "c853f077-275f-572b-a62a-7d313176ce5d",
-    "title": "Hundreds of scientists across the globe declare 'climate health emergency'",
-    "simplified_title": "Scientists call climate change a global health emergency as heat deaths climb",
-    "quick_summary": "The annual Lancet Countdown report says climate change has caused nearly 3 million heat deaths since 2016 and wants it declared a global health emergency.",
-    "simplified_body": "Nearly 150 researchers from more than 30 countries, writing in this year's Lancet Countdown on Health and Climate Change, say climate change should be declared a global health emergency. For the first time, they estimated deaths directly caused by human-driven warming: about 3 million between 2016 and 2023. Climate change was behind 68% of heat-related deaths in that period, up from 55% in the decade before.\n\nThe harm falls hardest on developing countries, which did least to cause the problem. Heat wiped out 573 billion potential work hours in 2025, costing US$1.07 trillion in lost income, with farmworkers and economies in Africa and South-East Asia worst hit. Nobody is immune, though. A Western Sydney doctor reported a 13% rise in emergency presentations during heatwaves.\n\nThe report tracks progress since the 2015 Paris Agreement, the global deal to limit warming. There's good news: renewable energy has grown far faster than expected, and cleaner air has prevented hundreds of thousands of deaths. But fossil fuels still supply about 80% of the world's energy, energy emissions hit a record in 2024, and government fossil fuel subsidies have doubled since 2016 to $6.2 trillion. The authors also criticise the United States for backing fossil fuel expansion and quitting the Paris Agreement.\n\nThe researchers want a new World Health Organization (WHO) tool to coordinate a long-term global response. The existing emergency system, used for COVID-19, was built for short crises. The report lands ahead of the COP 31 climate conference in Türkiye. Professor Paul Beggs of Macquarie University says Australia is COP president this year and is hoping for big progress on cutting emissions.",
-    "why_it_matters": "Heatwaves and bushfire smoke already kill Australians, and the report says the health toll is getting worse. Australia's role as COP president this year, as described by one of the report's authors, puts it in a position to push for faster action.",
-    "deep_analysis": "## Historical Context\nThe Paris Agreement was signed in 2015, and the WHO called it \"the most important public health agreement of the century\". The Lancet Countdown is an annual report funded by the Wellcome Trust. It tracks 54 indicators of how climate change affects health. This year it compared the decade since Paris with the decade before, and found that harms have sped up. Drought-affected area grew more than 700% faster, and the past 11 years were the hottest on record.\n\n## Multiple Perspectives\nThe authors acknowledge real gains. Projected warming by 2100 has fallen from up to 3.5C to 2.6C, renewables have \"vastly exceeded expectations\", and 56 countries now have plans to adapt their health services, up from 14 in 2015.\n\nThe two articles cite different figures for deaths prevented by cleaner air. ABC reports 400,000 fewer deaths in 2023 compared with 2016. DW reports an estimated 323,000 deaths a year prevented across half of 140 countries. These may be measuring different things.\n\nThe authors blame fossil fuel lobbying, disinformation and US policy for slowing progress. Helen Clark, chair of the Lancet Countdown board, says what's missing is \"political will\", not evidence. Marina Romanello, the report's executive director, compares new fossil fuel investment to backing Blockbuster in the age of Netflix. The articles don't include responses from the fossil fuel industry or the US.\n\n## What to Watch\n- Whether the United Nations and its member states take up the call for a new WHO emergency mechanism.\n- What COP 31 delivers on cutting fossil fuels.\n- The upcoming Lancet report on Oceania.\n- Whether a severe El Niño (a natural climate pattern that can bring extra heat and drought) worsens the crises the report warns about.\n- Whether funding to help health systems adapt grows. Only about a third of the roughly $3.3 billion a year developing countries need was committed in 2024.",
+    "id": "9db7fcfe-8162-5bb0-b4e7-8978fdbb09c2",
+    "title": "Europe’s central bank chief Christine Lagarde to step down nine months early",
+    "simplified_title": "Christine Lagarde to quit European Central Bank job nine months early",
+    "quick_summary": "European Central Bank president Christine Lagarde will step down on 7 February 2027, about nine months before her term ends, kicking off a race to replace her before France's 2027 presidential election.",
+    "simplified_body": "Christine Lagarde, president of the European Central Bank (ECB), will leave the job on 7 February 2027. Her term was meant to run until the end of October 2027. The ECB's governing council gave her a long standing ovation, and in a video message she said she leaves \"an ECB that is fit for the future\". No official reason has been given.\n\nThe ECB sets monetary policy, including interest rates, for the eurozone, so her successor will shape borrowing costs across those countries. The head is chosen by eurozone leaders through the European Council. Its president, Antonio Costa, says the search starts immediately. Names floated include Klaas Knot, Pablo Hernández de Cos, Joachim Nagel and Nadia Calviño.\n\nTiming is the big talking point. France votes for a new president in April/May 2027, and far-right candidate Marine Le Pen could win. Economists like Berenberg's Holger Schmieding say leaving early lets leaders pick a replacement while pro-European Emmanuel Macron is still in office. Lagarde has also been linked to running the World Economic Forum (WEF), the group behind the yearly Davos meeting.\n\nThe ECB kept rates on hold this week, but faces weak growth, above-target inflation and rising energy costs. DW reports it has raised rates twice since June and has a 2.5% deposit rate. France's budget deadlock has pushed its borrowing costs to 25-year highs, sparking talk of the Transmission Protection Instrument (TPI), though most observers think France doesn't yet qualify. Expect a quick, politically charged selection process.",
+    "why_it_matters": "Whoever runs the ECB steers interest rates for one of the world's biggest economies, which ripples into global markets, currencies and trade, including the Australian dollar against the euro.",
+    "deep_analysis": "## Historical Context\nLagarde took over on 1 November 2019, just before Covid. Her tenure covered the pandemic, the Russia-Ukraine war, energy and inflation shocks, Middle East conflict and Donald Trump's trade war. A former French finance minister, she ran the International Monetary Fund from 2011 to 2019. As background, ECB presidents usually serve a single eight-year term, so an early exit is notable.\n\n## Multiple Perspectives\nLagarde and Costa frame her record as steady stewardship. Macron wants an \"orderly and balanced\" succession. Analysts such as Holger Schmieding see the timing as a hedge against a possible Le Pen win; neither Lagarde nor the ECB has confirmed that motive. Some link her to a possible WEF role after founder Klaus Schwab stepped down amid misconduct accusations, which he denies.\n\n## What to Watch\n- Who eurozone leaders pick, and how fast.\n- Whether rates rise again before year's end, as DW reports is signalled.\n- France's budget crisis and whether the TPI is ever used.\n- The French election in April/May 2027.",
     "concepts": [
      {
-      "term": "Paris Agreement",
-      "definition": "The 2015 global deal in which countries agreed to limit global warming.",
-      "context": "The report measures progress, and failures, in the decade since it was signed."
+      "term": "monetary policy",
+      "definition": "How a central bank manages money and borrowing costs, mainly through interest rates, to control inflation and support growth.",
+      "context": "The ECB sets this for every eurozone country at once."
      },
      {
-      "term": "global health emergency",
-      "definition": "An official declaration that a threat needs urgent, coordinated international action to protect health.",
-      "context": "Researchers want climate change to be treated this way, with a new WHO tool designed for a long-term threat."
+      "term": "eurozone",
+      "definition": "The group of EU countries that use the euro as their currency.",
+      "context": "Their leaders jointly choose the ECB president."
      },
      {
-      "term": "subsidies",
-      "definition": "Government money or tax breaks that lower the cost of something for producers or users.",
-      "context": "Fossil fuel subsidies have doubled since 2016, and 10 countries spent more on them in 2024 than on their whole health systems."
+      "term": "Transmission Protection Instrument",
+      "definition": "An ECB emergency tool that lets it buy a member country's government bonds if borrowing costs spike out of control.",
+      "context": "It's been discussed because of France's soaring bond yields, though it has never been used."
      }
     ],
     "quiz": {
-     "question": "Why do the researchers want a new WHO mechanism instead of relying on the existing emergency system used for COVID-19?",
+     "question": "Why do many analysts think the timing of Lagarde's early exit matters?",
      "options": [
-      "The existing system only deals with air pollution",
-      "The existing system was built for short-term crises, while climate change needs sustained, long-term action",
-      "The existing system only covers wealthy countries",
-      "The WHO has abolished the existing system"
+      "It lets her successor be chosen while Macron is still French president, before the 2027 election",
+      "It means France will leave the eurozone",
+      "It automatically makes Klaas Knot the new president",
+      "It forces the ECB to cut interest rates immediately"
      ],
-     "answer_index": 1,
-     "explanation": "The current Public Health Emergency of International Concern (PHEIC) mechanism was designed for short-term outbreaks. The researchers say climate change needs ongoing action across many sectors, so countries aren't just responding to one emergency after another."
+     "answer_index": 0,
+     "explanation": "Analysts say leaving early allows eurozone leaders to appoint a replacement before a possible Marine Le Pen win in France's April/May 2027 election."
     },
-    "background_beginner": "Burning coal, oil and gas releases gases that trap heat and warm the planet. In 2015, almost every country signed the Paris Agreement, promising to limit that warming. Each year, a big team of health researchers publishes the Lancet Countdown, a sort of report card on how climate change affects people's health: heat deaths, droughts, floods, disease and lost work. The topic keeps coming up because the planet keeps getting hotter. Countries also argue every year at United Nations climate meetings, called COPs, about how fast to move away from fossil fuels and who should pay to protect poorer nations.",
-    "impact_score": 78,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/bee61b81b6a50c41f5ed0f420aa8f209?impolicy=wcms_watermark_news&cropH=2264&cropW=4025&xPos=0&yPos=209&width=862&height=485&imformat=generic",
+    "background_beginner": "The European Central Bank is like the Reserve Bank of Australia, but for the 20-odd European countries sharing the euro. It decides interest rates, which affect mortgages, business loans and prices. Its boss, Frenchwoman Christine Lagarde, has led it since 2019 through Covid, war in Ukraine and an inflation spike. Choosing the ECB president is political, because national leaders must agree. It's in the news now because she's leaving early, and many think that's so a successor can be chosen before France's next election, where a far-right, EU-sceptical candidate might win.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/f13bea6725d5657471b22b4820dbfdc9fbc83e68/0_0_4583_3667/master/4583.jpg?width=1920&quality=85&auto=format&fit=max&s=3bf19b291d33856840d08c01f70c9643",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "The annual Lancet Countdown report says climate change has caused nearly 3 million heat deaths since 2016 and wants it declared a global health emergency.",
+    "description": "European Central Bank president Christine Lagarde will step down on 7 February 2027, about nine months before her term ends, kicking off a race to replace her before France's 2027 presidential election.",
     "tier": "GLOBAL",
-    "category": "ENVIRONMENT_CLIMATE",
+    "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-28/lancet-study-counts-three-million-climate-change-related-deaths/107315006"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
      },
      {
       "name": "DW",
-      "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf"
+      "url": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
     "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-10-28T06:56:23.838489+00:00",
-    "published_date": "2026-10-28",
+    "reading_minutes": 2,
+    "created_at": "2026-10-29T14:29:58.063649+00:00",
+    "published_date": "2026-10-30",
+    "has_fulltext": true
+   },
+   {
+    "id": "19438491-f886-55db-80f1-841319eab09c",
+    "title": "What is happening with US interest rates?",
+    "simplified_title": "US Federal Reserve keeps interest rates on hold after September rise",
+    "quick_summary": "The US Federal Reserve held its key interest rate at 3.75%–4%, saying it wants more data after raising rates in September for the first time in three years.",
+    "simplified_body": "The US Federal Reserve (the Fed), America's central bank, has kept its main interest rate steady at 3.75%–4%. The call came within a week of the US midterm elections and follows a September rate rise, the first increase in three years. Fed Chair Kevin Warsh said the 'monetary medicine' from that rise is 'starting to work some'.\n\nThe decision wasn't unanimous. Ten of the 12 committee members voted to hold, while Governor Lisa Cook and Cleveland Fed President Beth Hammack wanted a rise to 4%–4.25%. Holding steady means rates on new mortgages, car loans and business loans are less likely to change, and savings rates are unlikely to climb.\n\nSome background: the Fed sets a target range for the federal funds rate, which is what commercial banks charge each other for overnight borrowing. That flows through to the rates everyday people pay and earn. The Fed aims to keep inflation (how fast prices rise) at 2% a year and keep jobs stable. When inflation runs hot, it raises rates to cool spending; when the economy needs a boost, it cuts them. Rates hit 0%–0.25% during the pandemic, climbed to a peak from mid-2023 to August 2024, then fell steadily until September's rise.\n\nThe Fed says inflation is still too high but the economy is resilient, and tightening credit conditions suggest things are heading the right way. Last month the committee signalled one more rise could come this year, but Warsh wouldn't say what happens at the next meeting on 8–9 December, saying 'a lot of things can happen'.",
+    "why_it_matters": "Fed decisions ripple through global markets, shaping the US dollar and borrowing costs worldwide, which can influence the Australian dollar and the backdrop the Reserve Bank of Australia works against.",
+    "deep_analysis": "## Historical Context\nThe BBC notes rates were last this high around the start of the 2008 global financial crisis, after which the Fed slashed them to historic lows for years. They rose before the pandemic, dropped to 0%–0.25% during it, then climbed as inflation jumped, peaking from mid-2023 to August 2024 (the article lists that peak as '5.25%-5%', likely meaning 5.25%–5.5%). A steady easing followed until September's surprise rise. As general background, central banks typically pause after a move to see how it filters through the economy, since rate changes take months to bite.\n\n## Multiple Perspectives\nThe majority, led by Warsh, believes September's rise is working and wants more data before acting again. Two dissenters, Lisa Cook and Beth Hammack, felt inflation is high enough to justify another increase now. The Fed also stresses the economy remains resilient despite uncertainty. Borrowers benefit from a pause, while savers miss out on higher returns.\n\n## What to Watch\n- The 8–9 December meeting, and whether the hinted extra rise this year eventuates.\n- Upcoming inflation and jobs data, which Warsh says will shape the decision.\n- Whether more committee members join the dissenters.\n- Any political pressure following the midterm elections.",
+    "concepts": [
+     {
+      "term": "federal funds rate",
+      "definition": "The interest rate US commercial banks charge each other for overnight loans, which the Fed targets.",
+      "context": "It's the Fed's main lever; changes flow through to mortgages, credit cards and savings."
+     },
+     {
+      "term": "inflation",
+      "definition": "The rate at which prices rise over time.",
+      "context": "The Fed aims for 2% a year and raises rates when inflation is too high."
+     },
+     {
+      "term": "monetary medicine",
+      "definition": "Warsh's phrase for using interest rate changes to treat economic problems like high inflation.",
+      "context": "He used it to say the September rise is starting to work."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the Fed raise interest rates when inflation is high?",
+     "options": [
+      "To help the government win elections",
+      "To make borrowing pricier so spending and demand slow, easing price rises",
+      "To lower savings rates",
+      "To encourage people to spend more"
+     ],
+     "answer_index": 1,
+     "explanation": "Higher rates make borrowing costlier and saving more attractive, reducing demand, which tends to slow inflation."
+    },
+    "background_beginner": "The US Federal Reserve is America's central bank. A committee of officials meets regularly to set a key interest rate, which shapes what banks charge for loans and pay on savings. Its job is to keep prices rising slowly (about 2% a year) and keep jobs steady. When prices rise too fast, it lifts rates to cool spending; when the economy struggles, it cuts them. Because the US economy is so big, its decisions affect markets, currencies and borrowing costs around the world, including Australia. That's why every meeting makes headlines, especially when inflation is stubborn and officials disagree.",
+    "impact_score": 55,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/47d7/live/753fb120-d30d-11f1-ad4f-5d2bbacf0caf.jpg",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "The US Federal Reserve held its key interest rate at 3.75%–4%, saying it wants more data after raising rates in September for the first time in three years.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-29T14:29:58.419344+00:00",
+    "published_date": "2026-10-30",
     "has_fulltext": true
    },
    {
@@ -1675,5 +1786,5 @@
    }
   ]
  },
- "total_stories": 26
+ "total_stories": 28
 }
