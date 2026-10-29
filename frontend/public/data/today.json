@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-29T14:29:22.566220+00:00",
+ "generated_at": "2026-10-29T23:24:28.592391+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -189,6 +189,73 @@
     "has_fulltext": true
    },
    {
+    "id": "8a0e4347-29f4-5cc1-8f93-29a8a24b355e",
+    "title": "Patterson's failed appeal leaves few legal avenues for the mushroom killer",
+    "simplified_title": "Erin Patterson loses appeal, now faces life without parole",
+    "quick_summary": "Victoria's Court of Appeal has rejected Erin Patterson's appeal against her mushroom murder convictions and, on the prosecution's appeal, removed her chance of parole, so she will spend the rest of her life in prison.",
+    "simplified_body": "Victoria's Court of Appeal has dismissed Erin Patterson's appeal against her convictions for murdering three relatives and trying to kill a fourth with a beef Wellington laced with death cap mushrooms in 2023. The three judges also upheld the prosecution's appeal, scrapping her 33-year non-parole period and resentencing her to life in prison without parole.\n\nThe victims were her in-laws Don and Gail Patterson and Gail's sister Heather Wilkinson. Heather's husband Ian survived after weeks in hospital. Patterson, 52, has always said she didn't know the mushrooms were poisonous. Her main argument was that the jury was compromised because jurors stayed in the same accommodation as the lead homicide detective and some prosecutors, though her barrister conceded there was no evidence of direct contact. The court rejected this and her other grounds.\n\nOriginally, Justice Christopher Beale gave her the chance of parole because of her harsh prison conditions, including near-solitary confinement. The Director of Public Prosecutions (DPP) argued that sentence was \"manifestly inadequate\". Justice Stephen McLeish said her conduct involved \"an elaborate series of deceptions\" and deserved to be \"denounced in the strongest terms\".\n\nWhat's next? Her options are slim. A second appeal in Victoria is only possible with \"fresh and compelling\" evidence, which legal researcher Christopher Corns says is most unlikely. Her other route is the High Court of Australia, but it applies very strict criteria, and barrister Nick Papas KC says there must be a clear-cut error, not just a possible mistake.",
+    "why_it_matters": "This case gripped Australia for years, and the ruling shows Victorian courts are willing to impose the harshest penalty available, life with no parole, for the worst category of offending.",
+    "deep_analysis": "## Historical Context\nPatterson was convicted by a Victorian Supreme Court jury and sentenced in September last year to three life terms plus 25 years for attempted murder, with a 33-year non-parole period. Victoria generally allows one appeal against conviction, but 2019 reforms permit a second appeal with fresh and compelling evidence, used, for example, by some former clients of Nicola Gobbo. The High Court famously quashed Cardinal George Pell's convictions in 2020 after the Victorian Court of Appeal had rejected his appeal.\n\n## Multiple Perspectives\nThe defence argued the jury accommodation arrangement was \"catastrophic\" and that justice must be seen to be done; it also said her isolation in prison, 22 to 24 hours alone a day, made her sentence harsher. Prosecutors said her conditions were reviewed monthly, her notoriety would fade, she remained remorseless, and her crimes fell into the \"worst category\". The Court of Appeal sided with the prosecution on both appeals.\n\n## What to Watch\nWhether Patterson seeks special leave from the High Court of Australia, and whether it agrees to hear her case. Experts say the bar is extremely high, requiring a fundamental failure in how the law was applied.",
+    "concepts": [
+     {
+      "term": "non-parole period",
+      "definition": "The minimum time a prisoner must serve before they can even be considered for release on parole.",
+      "context": "Patterson's original 33-year non-parole period was scrapped, so she can never apply for parole."
+     },
+     {
+      "term": "Director of Public Prosecutions",
+      "definition": "The independent official who runs criminal prosecutions for the state.",
+      "context": "Victoria's DPP appealed, arguing her sentence was too lenient."
+     },
+     {
+      "term": "fresh and compelling",
+      "definition": "The legal test for new evidence strong enough to allow a rare second appeal in Victoria.",
+      "context": "Experts say Patterson is unlikely to meet this test."
+     },
+     {
+      "term": "High Court of Australia",
+      "definition": "The country's top court, which can overrule state appeal courts but only hears a small number of carefully selected cases.",
+      "context": "It is described as Patterson's only realistic remaining hope."
+     }
+    ],
+    "quiz": {
+     "question": "Why did Patterson's sentence get harsher after the appeal hearing?",
+     "options": [
+      "The jury found new evidence against her",
+      "The prosecution successfully argued the original sentence was manifestly inadequate",
+      "The High Court overturned her original sentence",
+      "She was convicted of an additional murder"
+     ],
+     "answer_index": 1,
+     "explanation": "The DPP appealed the sentence as too lenient, and the Court of Appeal agreed, removing the 33-year non-parole period."
+    },
+    "background_beginner": "In 2023, Erin Patterson, a mother from Leongatha in regional Victoria, served a beef Wellington lunch to relatives. It contained deadly death cap mushrooms. Three people died: her former in-laws Don and Gail Patterson and Gail's sister Heather Wilkinson. Heather's husband Ian survived. Patterson said it was an accident, but a jury found her guilty of murder and attempted murder. The case drew huge national and international attention because of its unusual, almost unbelievable details. It keeps coming up as it moves through the courts: first the trial, then sentencing, and now appeals by both Patterson and prosecutors, which have ended with her receiving life without parole.",
+    "impact_score": 55,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/83a06266acadc22a8d71ff287b850726?impolicy=wcms_watermark_news&cropH=1013&cropW=1800&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Victoria's Court of Appeal has rejected Erin Patterson's appeal against her mushroom murder convictions and, on the prosecution's appeal, removed her chance of parole, so she will spend the rest of her life in prison.",
+    "tier": "LOCAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-mushroom-murder-appeal-what-next/107315286"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-appeal-decision-live-updates/107322086"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-29T23:24:55.626450+00:00",
+    "published_date": "2026-10-30",
+    "has_fulltext": true
+   },
+   {
     "id": "aefa016e-a236-581d-89f2-d4f43ddfa309",
     "title": "Actor's death may be first confirmed fatality linked to unapproved peptides",
     "simplified_title": "Coroner links actor Richard Norton's death to unapproved peptide injections",
@@ -243,64 +310,6 @@
     "related_story_ids": [],
     "reading_minutes": 4,
     "created_at": "2026-10-29T07:15:48.862925+00:00",
-    "published_date": "2026-10-29",
-    "has_fulltext": true
-   },
-   {
-    "id": "6b1ce9fd-7459-57d6-93d1-9a92eb6772eb",
-    "title": "Menindee Lakes water levels drop to lowest in five years as experts warn of mass fish deaths",
-    "simplified_title": "Menindee Lakes hit five-year low, raising fears of summer fish kills",
-    "quick_summary": "Water at Menindee Lakes in western New South Wales has dropped to its lowest level in five years, triggering irrigation restrictions as experts warn of mass fish deaths this summer.",
-    "simplified_body": "Combined water storage at Menindee Lakes in western New South Wales (NSW) fell below 480 gigalitres earlier this month, the lowest since 2021. In the upper lakes, volumes dropped below 250GL, which automatically triggers temporary restrictions across parts of the northern Murray-Darling basin.\n\nThose restrictions limit how much some irrigators can take, so water is saved for critical human needs and the environment. The big worry is the fish. Prof Jamie Pittock of the Australian National University says officials are predicting \"with a level of certainty\" that there will be fish kills at Menindee this summer unless more water flows down the Darling-Baaka River.\n\nMenindee has been here before: catastrophic fish kills in 2018, 2019 and 2023 left millions of dead fish along the river. After the 2023 state election, Premier Chris Minns promised an investigation. An expert panel under the northern basin connectivity program recommended limiting upstream overextraction during dry periods to keep water flowing to Menindee. It delivered its final report two years ago, but the government hasn't implemented it yet.\n\nWhat happens next depends largely on the weather. Local resident Graeme McCrabb says small inflows from recent Queensland rain offer some hope, but more is needed, and without it the risk would be \"very high\" in January or February. A milder summer would help. Comment has been sought from NSW water minister Rose Jackson.",
-    "why_it_matters": "The Darling-Baaka is a lifeline for outback NSW towns and ecosystems, and repeated fish kills have become a national symbol of how Australia shares scarce river water between farms, communities and nature.",
-    "deep_analysis": "## Historical Context\nMenindee Lakes saw mass fish kills in 2018, 2019 and 2023, with millions of fish dying along the Darling-Baaka. As general background, these events are usually linked to low flows, heat and algal blooms that strip oxygen from the water. After the 2023 kills, the NSW government set up an expert panel under the northern basin connectivity program, which recommended curbing upstream overextraction during dry spells. Its final report came out two years ago but hasn't been implemented.\n\n## Multiple Perspectives\nScientists like Prof Jamie Pittock want a major rainfall event plus state governments stopping irrigators pumping out the \"first flush\" of water. Local resident Graeme McCrabb says agencies have made \"no policy changes to improve water quality outcomes\" since the fish kills. The restrictions now in place do limit some irrigators, reflecting the competing needs of agriculture, towns and the environment. The NSW government's response hadn't been given at the time of reporting.\n\n## What to Watch\n- Whether Queensland inflows reach Menindee in meaningful amounts.\n- Summer temperatures, especially in January and February.\n- Signs of green algal blooms in the lakes.\n- Whether the government acts on the connectivity panel's recommendations.",
-    "concepts": [
-     {
-      "term": "gigalitres",
-      "definition": "A unit of water volume equal to one billion litres.",
-      "context": "Menindee's combined storage fell below 480 gigalitres, its lowest since 2021."
-     },
-     {
-      "term": "Murray-Darling basin",
-      "definition": "Australia's largest river system, spanning parts of Queensland, NSW, Victoria, South Australia and the ACT.",
-      "context": "Low levels at Menindee triggered water restrictions across parts of the northern basin."
-     },
-     {
-      "term": "overextraction",
-      "definition": "Taking more water from rivers than the system can sustain, often for irrigation.",
-      "context": "An expert panel recommended limiting upstream overextraction in dry periods to keep water flowing to Menindee."
-     }
-    ],
-    "quiz": {
-     "question": "What did the expert connectivity panel recommend to reduce the risk of fish kills at Menindee?",
-     "options": [
-      "Building a new dam at Menindee",
-      "Restocking the lakes with fish each summer",
-      "Limiting upstream water extraction during dry periods",
-      "Piping water in from Queensland"
-     ],
-     "answer_index": 2,
-     "explanation": "The panel recommended limiting upstream overextraction during dry periods so more water flows down the Darling-Baaka to Menindee. The government hasn't implemented it yet."
-    },
-    "background_beginner": "Menindee Lakes are a group of lakes near the small town of Menindee in outback New South Wales, fed by the Darling River, also known by its Aboriginal name, the Baaka. The river is part of the huge Murray-Darling system that supplies water to farms, towns and wildlife across south-eastern Australia. Upstream, irrigators pump water for crops like cotton, while downstream communities and the environment depend on what's left. During droughts, the river can slow to a trickle, and in recent years low water and heat have caused enormous fish deaths. Locals, scientists and governments keep arguing over how to share the water fairly, so the issue returns every dry summer.",
-    "impact_score": 55,
-    "image_url": "https://i.guim.co.uk/img/media/c3335a7db319a4242e148d1c0c6a6d1d24937c4c/144_0_1410_1128/master/1410.jpg?width=1920&quality=85&auto=format&fit=max&s=0654f2100822ca7b27fe159eeec30ab2",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Water at Menindee Lakes in western New South Wales has dropped to its lowest level in five years, triggering irrigation restrictions as experts warn of mass fish deaths this summer.",
-    "tier": "LOCAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-28T14:08:08.036513+00:00",
     "published_date": "2026-10-29",
     "has_fulltext": true
    }
@@ -366,64 +375,6 @@
     "reading_minutes": 4,
     "created_at": "2026-10-29T14:30:16.512630+00:00",
     "published_date": "2026-10-30",
-    "has_fulltext": true
-   },
-   {
-    "id": "d70cbff2-58b9-52e3-9a49-be6745f4c77f",
-    "title": "China's families are now supporting more old people than kids",
-    "simplified_title": "China now supports more elderly people than children for the first time",
-    "quick_summary": "Official Chinese data show the share of dependent elderly people relative to working-age adults (23%) has overtaken the share for children (22%) for the first time.",
-    "simplified_body": "China's National Bureau of Statistics has released data showing that, for the first time, the country's old-age dependency ratio (23%) is higher than its child dependency ratio (22%). In plain terms, working-age people are now supporting more elderly people than kids. More than 223 million people in China are aged 65 and over, nearly 16% of the population, compared with about 213 million children aged 14 and under.\n\nThis matters for families, who have fewer young people to look after ageing relatives, and for the government, which faces rising costs for pensions, healthcare and long-term care. Analysts say it could also slow growth in the world's second largest economy and reduce people's spending power. On the flip side, the state-controlled Global Times points to a growing 'silver economy' serving older consumers, many of whom are healthier and wealthier than earlier generations.\n\nThe shift comes from longer life expectancy, rapid urbanisation and the one-child policy, which ran from 1980 to the end of 2015. The government estimates it prevented about 400 million births, though that figure is contested. Even after the rules eased, birth rates have hit historic lows, with rising living costs, higher education levels and changing gender roles all playing a part.\n\nBeijing has written more support for older people into its latest five-year economic blueprint, and more than 53 million elderly people were receiving senior allowances by the end of 2025. Expect more public spending to shift from schools towards pensions and healthcare. Some experts also question the dependency ratio itself, arguing it wrongly labels many capable older people as dependants.",
-    "why_it_matters": "China's shrinking workforce is closely watched because it could affect global growth, and China is Australia's biggest trading partner, so a slower Chinese economy can ripple through to Australian exports.",
-    "deep_analysis": "## Historical Context\nThe one-child policy (1980 to end of 2015) was introduced to slow rapid population growth. As general background, China later moved to allow two and then three children, but the article notes birth rates have still fallen to historic lows. Large past birth cohorts, especially people born from the 1950s to 1970s, are now reaching old age just as fewer young people follow them.\n\n## Multiple Perspectives\n- **Government/state media:** The Global Times frames it as entry into a 'moderately ageing society', a long-term historical trend that brings strain but also opportunity in the silver economy.\n- **Economists/sociologists:** Mu Zheng (National University of Singapore) warns it may limit economic growth and spending power and challenge China's ambitions.\n- **Critics of the measure:** Professor Stuart Gietel-Basten (Hong Kong University of Science and Technology) calls the milestone 'symbolic' and says the dependency ratio risks 'taking agency away' from older people and ignores healthcare improvements.\n- The government's 400 million prevented-births estimate is contested.\n\n## What to Watch\n- How the five-year blueprint's aged-care measures are funded and rolled out.\n- Whether birth rates respond to pro-marriage and pro-family campaigns.\n- Shifts in public spending from education to pensions and healthcare.\n- Growth of the silver economy and its effect on consumer demand.",
-    "concepts": [
-     {
-      "term": "dependency ratio",
-      "definition": "A measure comparing people usually not working (children or the elderly) with the working-age population.",
-      "context": "China's old-age dependency ratio hit 23%, overtaking the child ratio of 22%."
-     },
-     {
-      "term": "one-child policy",
-      "definition": "A Chinese rule from 1980 to the end of 2015 that limited most families to one child.",
-      "context": "It is a major reason there are now fewer young people to support older relatives."
-     },
-     {
-      "term": "silver economy",
-      "definition": "Businesses and services aimed at older consumers.",
-      "context": "State media say ageing creates opportunities here as well as costs."
-     }
-    ],
-    "quiz": {
-     "question": "Why does the new data suggest more Chinese public spending may shift towards pensions and healthcare?",
-     "options": [
-      "Because China's total population suddenly grew",
-      "Because the one-child policy was reintroduced in 2025",
-      "Because the share of dependent elderly people now exceeds that of dependent children",
-      "Because children now make up 16% of the population"
-     ],
-     "answer_index": 2,
-     "explanation": "With elderly dependants (23%) now outnumbering child dependants (22%) relative to workers, spending needs move from schools to aged care, pensions and health."
-    },
-    "background_beginner": "China has the world's second largest economy and one of its largest populations. In 1980 the government brought in the one-child policy to slow fast population growth, and it lasted until the end of 2015. Combined with people living longer and moving to cities, this means China now has lots of older people and relatively few young ones. Even after relaxing the rules, the government has struggled to get couples to have more babies because of costs and changing lifestyles. The topic keeps coming up because fewer workers supporting more retirees affects pensions, healthcare, family life and economic growth, both in China and around the world.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/39b9/live/b1569840-d105-11f1-8441-f1b8954c52d9.jpg",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "Official Chinese data show the share of dependent elderly people relative to working-age adults (23%) has overtaken the share for children (22%) for the first time.",
-    "tier": "GLOBAL",
-    "category": "SOCIETY_CULTURE",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-28T14:08:08.476427+00:00",
-    "published_date": "2026-10-29",
     "has_fulltext": true
    },
    {
@@ -559,69 +510,67 @@
   ],
   "EUROPE": [
    {
-    "id": "9f71e1f0-4d22-51b2-95b1-02f2095204cd",
-    "title": "Spain train crash: at least 64 dead after collision in Toledo province",
-    "simplified_title": "Two high-speed trains collide in Spain, killing at least 64",
-    "quick_summary": "At least 64 people have died after a Renfe high-speed train ran into the back of a stopped Iryo train in Toledo province, Spain's second deadly rail crash this year.",
-    "simplified_body": "Two high-speed trains travelling the same direction on the Madrid-to-Seville line collided in Toledo province, central Spain, on Wednesday morning. A train run by state-owned Renfe slammed into the tail of a stationary train run by private company Iryo, knocking two carriages off the track. At least 64 people have died, and officials say the toll is likely to rise because rescuers still can't reach the bottom of some carriages.\n\nThe Iryo train had 147 people on board and the Renfe train had 397. The line between Madrid and the southern Andalusia region has been shut. Spain's transport minister, Óscar Puente, said the LZB signalling system failed around 8:30am, leaving just over 60km of track without coverage and automatically stopping six trains. About six minutes later, the control centre run by rail operator Adif manually overrode the warning and let traffic move again. Puente strongly suggested that should never have happened. Over the next 25 minutes, the Renfe train travelled 25km and hit the stopped Iryo train.\n\nThis comes after a January crash near Adamuz, on the same line, also involving Renfe and Iryo trains. Sources differ on that toll: The Guardian says 46 died, ABC News says 45. Investigators there are mainly looking at faulty track or welds.\n\nThe crash lands just before next month's general election, and parties have paused campaigning. Expect intense scrutiny of the signalling system, the override decision and who is held responsible.",
-    "why_it_matters": "Automatic signalling is meant to make rear-end crashes nearly impossible, so this disaster raises hard questions about human overrides of safety systems — relevant anywhere, including Australia, where new rail signalling technology is being rolled out.",
-    "deep_analysis": "## Historical Context\nSpain has one of the world's largest high-speed networks. Before this year, its deadliest recent crash was in 2013, when 80 people died. January's Adamuz crash was the worst since then, and this collision, on the same line, may exceed it. Europe is gradually moving its high-speed lines from older national signalling systems like LZB (originally used in Germany) to a common standard, ERTMS.\n\n## Multiple Perspectives\nThe transport minister points to a manual override by the Adif control centre after the LZB system lost communications. Early unconfirmed reports suggested the Iryo train stopped after flagging an LZB failure. Prime Minister Pedro Sánchez and opposition leader Alberto Núñez Feijóo both focused on victims and emergency crews. Analysts note that, unlike a recent UK rear-end crash on a line with no automatic stopping technology, this one happened on a line where the system should have prevented it — shifting attention to procedure and human decision-making.\n\n## What to Watch\n- Whether the death toll rises as rescuers reach the lower carriages.\n- Formal investigation findings on the override decision and the communications failure.\n- Political fallout ahead of next month's election.\n- Pressure to speed up the move to ERTMS and review safety at Renfe, Iryo and Adif.",
+    "id": "1924b7a1-e582-5107-83d1-69615bbb36aa",
+    "title": "Spain begins mourning period as search continues for train crash victims",
+    "simplified_title": "Spain mourns 69 dead after high-speed trains collide near Urda",
+    "quick_summary": "Spain has begun three days of national mourning after a Renfe high-speed train slammed into the back of a stalled Iryo train near Urda, killing at least 69 people, with leaked audio suggesting the moving train was wrongly cleared to go at normal speed.",
+    "simplified_body": "On Wednesday just before 9am, two high-speed trains heading from Madrid towards the southern region of Andalucía collided near Urda, about 130km south of Madrid. A train run by private company Iryo had stopped on the track, and a train from state-owned operator Renfe crashed into its rear, knocking several carriages off the line. At least 69 people died and dozens were hurt. The Renfe train had 397 passengers and the Iryo train 147.\n\nA computer failure in the automatic signalling system had halted trains on that stretch. Leaked audio published by Spanish media appears to show a control centre operator telling the Renfe driver to continue at \"normal speed\" under the Lateral Signalling Block, a back-up system, even though the Iryo train was still stuck about 25km ahead. Transport minister Óscar Puente called the decision \"inexplicable\" and said the train was ordered on in \"error\". Some left-wing politicians say blame shouldn't fall on one worker and point to years of warnings about the liberalisation of rail.\n\nThis is the second deadly Renfe–Iryo collision on the same line in 10 months; 46 people died near Adamuz in Andalucía earlier. It's Europe's deadliest train accident since a 2013 derailment in Santiago de Compostela killed 80 people. Train drivers from the union Semaf went ahead with a planned strike demanding more safety investment.\n\nInvestigators are now working out exactly what went wrong, while police collect DNA samples to identify victims; 64 people had been reported missing by relatives. Opposition leader Alberto Núñez Feijóo wants an independent review of the whole network, protesters have called for Puente and Prime Minister Pedro Sánchez to resign, and the crash lands weeks before a snap election on 29 November.",
+    "why_it_matters": "Spain's high-speed network has been seen as a world model, so two deadly crashes on one line in 10 months raise hard questions about signalling back-ups and human oversight. That's relevant for Australia too, as debate about building high-speed rail here keeps resurfacing.",
+    "deep_analysis": "## Historical Context\nAs background, Spain built one of the world's largest high-speed rail networks over recent decades. The sources note the 2013 Santiago de Compostela derailment killed 80 people, and a Renfe–Iryo collision near Adamuz killed 46 just 10 months before this crash, on the same line. Spain's rail market was opened to private competitors like Iryo, which is part of what critics mean by 'liberalisation'.\n\n## Multiple Perspectives\n- **Government:** Transport minister Óscar Puente says rear-end crashes are \"highly unlikely\" and suggests human error under \"inexplicable\" circumstances. PM Pedro Sánchez promises to uncover \"every last detail\".\n- **Left-wing critics:** Podemos' Irene Montero says blame shouldn't be pinned on one worker and that experts warned for years against liberalisation. Sumar's Alberto Ibáñez called the audio leak \"despicable\".\n- **Opposition right:** People's Party leader Alberto Núñez Feijóo demands an independent review of the whole network. Vox refused to pause campaigning, saying mourning shouldn't \"silence criticism\".\n- **Workers:** The drivers' union Semaf struck to demand more safety investment.\n- **Public:** About 1,500 protesters outside the transport ministry called for resignations; police used tear gas.\n\n## What to Watch\n- Official findings on why the Renfe train was cleared at normal speed despite the stalled Iryo train.\n- Whether the signalling failure and back-up procedures face reform.\n- Political fallout ahead of the 29 November snap election, including pressure on Puente and Sánchez.\n- Progress identifying victims through DNA.",
     "concepts": [
      {
-      "term": "LZB signalling system",
-      "definition": "A German-designed 'linear train control' system that keeps constant electronic contact between track and train and can automatically stop a train if the line ahead is occupied.",
-      "context": "It failed shortly before the crash, and a manual override let trains move without its protection."
+      "term": "Lateral Signalling Block",
+      "definition": "A back-up train control system used when the automatic signalling or data transmission system fails.",
+      "context": "The Renfe driver was told to proceed under this system at normal speed, despite a stalled train ahead."
      },
      {
-      "term": "Adif",
-      "definition": "Spain's state rail infrastructure operator, which runs the tracks and traffic control.",
-      "context": "Its control centre issued the instruction that let traffic resume."
+      "term": "automatic signalling system",
+      "definition": "Computerised signals that tell trains when it's safe to move and keep them spaced apart.",
+      "context": "A computer failure in this system halted trains on the stretch before the crash."
      },
      {
-      "term": "Renfe",
-      "definition": "Spain's state-owned train company.",
-      "context": "Its high-speed train hit the stationary Iryo train."
+      "term": "liberalisation",
+      "definition": "Opening a market once run by the state to private competitors.",
+      "context": "Critics say opening Spain's railways to private firms like Iryo has been warned against for years."
      }
     ],
     "quiz": {
-     "question": "Why is this crash especially worrying to rail safety experts?",
+     "question": "What does the leaked audio appear to show about the cause of the crash?",
      "options": [
-      "The drivers were not trained",
-      "The trains were very old",
-      "The line had an automatic system meant to prevent rear-end crashes, but it was overridden after failing",
-      "It happened during a storm"
+      "A fire on the Iryo train caused it to stop suddenly",
+      "The Iryo train was speeding and hit a Renfe train",
+      "Both trains derailed because of damaged tracks",
+      "The Renfe train was cleared to travel at normal speed while the Iryo train was still stalled ahead"
      ],
-     "answer_index": 2,
-     "explanation": "The LZB system should stop trains if the line ahead is occupied; the minister says it lost communications and a manual override let traffic resume."
+     "answer_index": 3,
+     "explanation": "The recordings suggest the controller told the Renfe driver to continue at normal speed under the back-up system, even though the Iryo driver had reported being stuck at the Urda entry signal."
     },
-    "background_beginner": "Spain runs one of the world's biggest high-speed rail networks, linking Madrid with cities like Seville. Trains are run by the state company Renfe and newer private companies such as Iryo, while another state body, Adif, manages the tracks and traffic control. High-speed rail is usually very safe, relying on computer signalling that can brake trains automatically. But Spain has had serious crashes, including one in 2013 that killed 80 and another in January this year near Adamuz. With two deadly crashes on the same line in months, rail safety has become a major national issue.",
+    "background_beginner": "Spain has one of the biggest high-speed rail networks in the world, with fast trains linking Madrid to cities across the country. The state-owned company Renfe used to run nearly everything, but private companies like Iryo now compete on the same tracks. Trains rely on computer signalling to keep them safely apart. Spain has had serious rail disasters before, including a 2013 derailment that killed 80 people, and another Renfe–Iryo crash on the same line 10 months before this one. Each accident revives arguments about safety investment, private competition and who's accountable, which is why rail safety keeps making headlines in Spain.",
     "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/daa3758f95222e908f2559628076cc26d1026dfd/0_0_3675_2940/master/3675.jpg?width=1920&quality=85&auto=format&fit=max&s=a55b3cd82ef1e7c082a8e332823f3db5",
+    "image_url": "https://i.guim.co.uk/img/media/d6a4b0e19d51f8ef690ba410c46d455a05f34ffd/0_0_6000_4000/master/6000.jpg?width=1920&quality=85&auto=format&fit=max&s=496680529834bbbbf388072c4cb482d0",
     "region": "Europe incl. UK, Russia-Ukraine",
     "region_code": "EUROPE",
-    "description": "At least 64 people have died after a Renfe high-speed train ran into the back of a stopped Iryo train in Toledo province, Spain's second deadly rail crash this year.",
+    "description": "Spain has begun three days of national mourning after a Renfe high-speed train slammed into the back of a stalled Iryo train near Urda, killing at least 69 people, with leaked audio suggesting the moving train was wrongly cleared to go at normal speed.",
     "tier": "GLOBAL",
     "category": "CRIME_SAFETY",
     "sources": [
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo"
+      "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash"
      },
      {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-28/deadly-high-speed-train-collision-spain/107320916"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-28T14:08:07.981030+00:00",
-    "published_date": "2026-10-29",
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "9f71e1f0-4d22-51b2-95b1-02f2095204cd"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-10-29T23:24:59.925951+00:00",
+    "published_date": "2026-10-30",
     "has_fulltext": true
    },
    {
@@ -1045,45 +994,45 @@
    {
     "id": "c9a82088-b5ae-5182-b8e8-927eaec5ab92",
     "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
-    "simplified_title": "Trump scraps Biden-era rules limiting methane leaks from oil and gas",
-    "quick_summary": "Donald Trump has announced his administration is ending 2024 rules that forced oil and gas companies to find and fix big leaks of the planet-warming gas methane.",
-    "simplified_body": "At a rally in Lubbock, Texas, Donald Trump said he was \"officially terminating\" Biden-era methane regulations. He and the Environmental Protection Agency (EPA) claim the change will save consumers and businesses $45bn and unlock 210 million extra barrels of oil (about 10 days of US petroleum use) plus 1.41 trillion cubic feet of natural gas.\n\nThe move mainly benefits oil and gas producers, especially small operators running marginal wells, who called the rules costly. It comes as Trump faces criticism over high fuel prices linked to the US war in Iran. Environmental groups warn it lets polluters waste energy and worsen climate change. The watchdog group Fieldnotes found industry groups met the EPA about methane rules at least 38 times in the administration's first year.\n\nMethane is a powerful greenhouse gas responsible for at least a quarter of today's warming, and last year the US oil and gas sector emitted more of it than any other country's. The 2024 rule was the first nationwide limit on methane from existing facilities, covering leaking, flaring and venting. It also had a super emitter program, where companies had to investigate big leaks spotted by third parties using approved satellite or remote sensing tools.\n\nThe EPA is revising the rules under the Clean Air Act, so the change will go through a formal proposal process. The Environmental Defense Fund says operators have already leaked, vented or flared $7bn worth of gas since the EPA stopped enforcing the rules in March 2025, and opponents are likely to keep fighting the rollback.",
-    "why_it_matters": "Methane drives at least a quarter of current global warming, so the world's biggest oil-and-gas methane emitter loosening its rules affects everyone, including Australia, which has its own methane-emitting gas industry and climate commitments.",
-    "deep_analysis": "## Historical Context\nThe Obama administration finalised a rule in 2016 covering methane from new and modified oil and gas sources. The 2024 Biden rule went further, covering existing facilities nationwide for the first time. In March 2025, EPA administrator Lee Zeldin announced the agency was reconsidering it, and enforcement stopped. As background, US environmental rules often swing back and forth between administrations, with each change frequently challenged in court.\n\n## Multiple Perspectives\nTrump and the EPA frame the rules as \"expensive and unnecessary\", saying scrapping them saves $45bn and boosts supply amid high fuel prices. Some oil and gas executives publicly supported the 2024 rule, but records from Fieldnotes suggest trade groups and companies lobbied behind the scenes to weaken it; Continental Resources pushed back on flaring bans. Fieldnotes researcher Julia Kane called industry access \"extraordinary\". The Environmental Defense Fund's Rosalie Winn says the administration is helping the worst polluters profit while wasting energy.\n\n## What to Watch\nThe formal revision process under the Clean Air Act, likely legal challenges from environmental groups, whether the claimed savings and extra barrels eventuate, and measured methane emissions from the US sector.",
+    "simplified_title": "Trump moves to scrap Biden-era rules on oil and gas methane leaks",
+    "quick_summary": "At a Texas rally, Donald Trump said his administration is \"terminating\" 2024 rules that made oil and gas companies find and fix big methane leaks, a move health and environment groups say is unlawful and harmful.",
+    "simplified_body": "Speaking at a rally in Lubbock, Texas, Donald Trump said he was \"officially terminating\" Biden-era methane regulations, calling them expensive and unnecessary. He claimed the change would save consumers and producers $45bn and unlock 210 million barrels of oil, which is about 10 days of US petroleum use. The Environmental Protection Agency (EPA), the US government's environmental regulator, is proposing to revise the rules under the Clean Air Act.\n\nThe change mainly affects oil and gas operators, especially smaller ones, and the communities living near their sites. Groups like the American Lung Association warn that leaks also release harmful pollutants such as volatile organic compounds and cancer-causing chemicals like benzene. Records obtained by the watchdog Fieldnotes show industry groups met the EPA about methane rules at least 38 times in the administration's first year.\n\nSome background: methane is a powerful greenhouse gas responsible for at least a quarter of today's warming, and last year the US oil and gas sector emitted more of it than any other country's. The 2024 rule was the first nationwide limit on methane from existing oil and gas facilities, and included a super emitter program, where companies had to investigate big leaks spotted by third parties using approved remote sensing technology. It also targeted flaring, the burning off of excess gas.\n\nThis is still a proposal, not final. Groups like the Clean Air Task Force are demanding the EPA withdraw it and enforce the 2024 rule, so legal challenges look likely.",
+    "why_it_matters": "Methane drives a big share of global warming, so rolling back limits in the world's biggest oil and gas methane emitter affects the climate everyone, including Australians, lives with. It also adds to the gap between US policy and other countries trying to cut methane.",
+    "deep_analysis": "## Historical Context\nThe Obama administration finalised a 2016 rule covering new and modified oil and gas sources. The 2024 Biden-era rule went further, setting the first nationwide requirements for existing facilities, including leak fixes, limits on routine flaring and a super emitter program. In March 2025, EPA administrator Lee Zeldin announced the agency was reconsidering the rules. As general background, US environmental rules often swing back and forth between administrations, with courts frequently deciding the outcome.\n\n## Multiple Perspectives\nTrump and Zeldin frame the rollback as ending a \"war on oil and natural gas\", cutting costs and boosting production; the EPA estimates 210 million extra barrels of oil and 1.41 trillion cubic feet of gas. Continental Resources had lobbied against the flaring limits. Critics disagree sharply: the Clean Air Task Force calls the proposal unlawful under the Clean Air Act, the American Lung Association warns of health harm, and the Environmental Defense Fund says operators have wasted $7bn of gas since enforcement stopped. Fieldnotes argues industry publicly claimed to be a good-faith partner while working privately to weaken the rules, though some executives did publicly support the 2024 rule.\n\n## What to Watch\n- Whether the EPA finalises the proposal and what changes after public comment.\n- Court challenges from environmental and health groups.\n- Independent measurements of US methane emissions in coming years.\n- Whether the $45bn savings claim holds up to scrutiny.",
     "concepts": [
      {
       "term": "flaring",
-      "definition": "Burning off unwanted gas at an oil or gas site instead of capturing or selling it.",
-      "context": "The 2024 rule required operators to minimise flaring, which Continental Resources opposed."
+      "definition": "Burning off unwanted natural gas at an oil or gas site instead of capturing or selling it.",
+      "context": "The 2024 rule limited routine flaring, which Continental Resources pushed back against."
      },
      {
       "term": "super emitter program",
-      "definition": "A part of the rule requiring companies to investigate large leaks detected by outside groups using approved remote sensing technology.",
-      "context": "It let third parties flag major leaks that companies then had to check."
+      "definition": "A part of the 2024 rule requiring companies to investigate large methane leaks detected by outside groups using approved satellite or remote sensing tools.",
+      "context": "It let third parties flag big leaks that companies then had to check."
      },
      {
-      "term": "marginal wells",
-      "definition": "Small, low-producing oil or gas wells that are often only just profitable.",
-      "context": "The EPA says small businesses running these wells will save money."
+      "term": "volatile organic compounds",
+      "definition": "Chemicals that easily turn into gas and can worsen air quality and harm health.",
+      "context": "Health groups say oil and gas leaks release these alongside methane."
      }
     ],
     "quiz": {
-     "question": "Why is the 2024 methane rule described as a first?",
+     "question": "What made the 2024 methane rule different from the earlier 2016 Obama-era rule?",
      "options": [
-      "It was the first rule to cover new oil and gas facilities",
-      "It was the first US environmental law ever",
-      "It was the first nationwide limit on methane from existing oil and gas facilities",
-      "It was the first rule to ban oil drilling"
+      "It removed all limits on flaring",
+      "It only applied to coal mines",
+      "It banned all oil and gas drilling in Texas",
+      "It was the first to set nationwide limits on existing oil and gas facilities, not just new ones"
      ],
-     "answer_index": 2,
-     "explanation": "The 2016 Obama rule covered new and modified sources; the 2024 rule was the first to set nationwide limits for existing facilities."
+     "answer_index": 3,
+     "explanation": "The 2016 rule covered new and modified sources; the 2024 rule was the first nationwide requirement for existing facilities."
     },
-    "background_beginner": "Methane is the main ingredient in natural gas, and when it escapes into the air it traps heat far more strongly than carbon dioxide in the short term. Oil and gas sites leak it through faulty equipment, venting and flaring. In the US, the Environmental Protection Agency sets rules to limit this pollution. Democratic presidents Obama and Biden tightened methane rules, while Republican Donald Trump has rolled them back, arguing they hurt energy producers and raise prices. Because climate change and fuel costs are both big political issues, this tug-of-war keeps coming up with every change of government.",
-    "impact_score": 68,
+    "background_beginner": "Methane is a gas that leaks from oil and gas wells, pipelines and equipment. It traps heat far more strongly than carbon dioxide in the short term, so it's a big driver of global warming. In the US, the Environmental Protection Agency sets rules on pollution. Under Presidents Obama and Biden, it brought in rules forcing companies to find and fix leaks. President Trump and his allies say those rules are costly and hold back energy production, while environmental and health groups say they protect people and the climate. Because each new president can rewrite these rules, the fight keeps returning, often ending up in court.",
+    "impact_score": 62,
     "image_url": "https://i.guim.co.uk/img/media/e44d5b615ceabf3cdfe559f758df4401572c268f/0_0_7163_4775/master/7163.jpg?width=1920&quality=85&auto=format&fit=max&s=a39e825697117fa2952926ac26c0fe57",
     "region": "North & South America",
     "region_code": "AMERICAS",
-    "description": "Donald Trump has announced his administration is ending 2024 rules that forced oil and gas companies to find and fix big leaks of the planet-warming gas methane.",
+    "description": "At a Texas rally, Donald Trump said his administration is \"terminating\" 2024 rules that made oil and gas companies find and fix big methane leaks, a move health and environment groups say is unlawful and harmful.",
     "tier": "GLOBAL",
     "category": "ENVIRONMENT_CLIMATE",
     "sources": [
@@ -1095,9 +1044,9 @@
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-28T14:08:08.149471+00:00",
-    "published_date": "2026-10-29",
+    "reading_minutes": 4,
+    "created_at": "2026-10-29T23:24:57.266998+00:00",
+    "published_date": "2026-10-30",
     "has_fulltext": true
    },
    {
@@ -1229,6 +1178,77 @@
    }
   ],
   "GLOBAL_SYSTEMS": [
+   {
+    "id": "ee6af6c8-6a55-5c6a-b60b-fdd06b84370e",
+    "title": "Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street",
+    "simplified_title": "Alphabet loses $500bn in value as AI spending and search worries bite",
+    "quick_summary": "Google's parent company Alphabet lost roughly $500bn in stock market value after its profit fell 25% and it admitted AI-powered search earns less from ads, even as it keeps spending huge sums on artificial intelligence.",
+    "simplified_body": "Alphabet, the company that owns Google, reported results for July to September that spooked investors. Revenue rose 25% to $127.6bn, but net profit fell 25% to $26.2bn, partly due to an $8.7bn loss on its stake in SpaceX. Its shares dropped almost 13% on Thursday, and its market value fell from $3.97 trillion to $3.46 trillion.\n\nThe big worry is search, which is still Google's main moneymaker. Search revenue growth slowed to 12%, down from 17% the quarter before. Google's chief business officer, Philipp Schindler, admitted each AI Mode query earns less than a normal web search, because there are fewer ads and they cost less. Meanwhile Alphabet spent $51.4bn on capital expenditures (capex), mostly datacentres and AI chips, and had negative free cash flow of about $9bn, meaning it spent more cash than it brought in. It raised money by selling bonds and new shares to cover the gap.\n\nNot everything was bad. Google Cloud revenue jumped 103% to $30.7bn, helped by sales of its in-house AI chips called Tensor Processing Units (TPUs). Waymo, its robotaxi business, now provides over 500,000 paid rides a week. Amazon and Microsoft also reported this week, with Amazon showing negative cash flow of $42bn and its shares falling 6% after hours.\n\nAlphabet expects to spend between $195bn and $205bn on capex in 2026 and says it will increase that significantly in 2027. Investors will be watching whether AI search can be made as profitable as old-style search, and whether all this spending pays off.",
+    "why_it_matters": "Google search is how most people, including Australians, find things online, so a shift to AI answers with fewer ads could reshape how businesses advertise and how websites get traffic. It also shows even the richest tech giants face pressure to prove AI spending will pay off.",
+    "deep_analysis": "## Historical Context\nAs background, Google built its fortune over two decades by selling ads next to search results. The reports note ads alongside search results remain the vast majority of Alphabet's business. Since generative AI chatbots took off, Google has been racing rivals like OpenAI and Anthropic, and the Guardian notes a delayed flagship model in July raised questions about whether it was falling behind. It has since launched Gemini 4, and the Gemini app has reached 1bn users. The BBC says this is only the second time in Alphabet's history as a public company it has posted negative free cash flow.\n\n## Multiple Perspectives\nGoogle's leadership is upbeat: CEO Sundar Pichai called the spending \"a long-range planning process, not a short-term allocation exercise\", and Philipp Schindler said he felt \"very good about our trajectory\" with AI search. Forrester analyst Tracy Woo said the results highlight \"the challenge of funding massive AI investments while maintaining the strength of established businesses.\" Bulls can point to Google Cloud more than doubling and TPU chips challenging Nvidia, with OpenAI reportedly planning to buy some. There's a small discrepancy between sources: the Guardian says search revenue rose 12% to $63.4bn, while Ars Technica describes search revenue as flat and the 12% as search growth, so the exact framing differs. Amazon's Andy Jassy similarly defended heavy spending, saying it would \"forever change\" Amazon's size, while Microsoft trimmed AI investment by about $5bn.\n\n## What to Watch\n- Whether Google can make AI Mode queries earn closer to traditional searches, which Ars Technica says it plans to do with more ads.\n- Capex of $195bn to $205bn in 2026 and more in 2027, and whether borrowing continues.\n- Growth of TPU chip sales to outsiders like Anthropic, which committed to using up to one million Google AI chips.\n- Waymo's goal of 1m weekly rides by year's end.",
+    "concepts": [
+     {
+      "term": "free cash flow",
+      "definition": "The money a company has left after paying for its operations and investments.",
+      "context": "Alphabet's was negative by about $9bn, meaning it spent more than it brought in."
+     },
+     {
+      "term": "capital expenditures (capex)",
+      "definition": "Money spent on long-lasting physical things like buildings, datacentres and equipment.",
+      "context": "Alphabet spent $51.4bn on capex this quarter, more than double a year earlier, mostly for AI."
+     },
+     {
+      "term": "Tensor Processing Units (TPUs)",
+      "definition": "Google's own specialised computer chips designed to run AI.",
+      "context": "TPU sales helped Google Cloud revenue jump 103% and challenge chip leader Nvidia."
+     },
+     {
+      "term": "AI Mode",
+      "definition": "Google's AI-powered version of search that gives summarised answers instead of just a list of links.",
+      "context": "Google admitted AI Mode queries earn less ad revenue than normal searches."
+     }
+    ],
+    "quiz": {
+     "question": "Why were investors worried even though Alphabet's revenue rose 25%?",
+     "options": [
+      "Waymo stopped offering rides",
+      "Google was forced by a judge to sell its search business",
+      "Profit fell, search growth slowed and AI search earns less from ads, while spending kept soaring",
+      "Google Cloud revenue fell sharply"
+     ],
+     "answer_index": 2,
+     "explanation": "Revenue grew, but profit dropped 25%, search growth slowed, AI search queries make less money, and huge AI spending pushed cash flow negative."
+    },
+    "background_beginner": "Google is the world's most-used search engine, owned by a parent company called Alphabet. It makes most of its money by showing ads next to search results. In the past few years, AI chatbots like ChatGPT from OpenAI and Claude from Anthropic have changed how people look for information. Google has responded by adding AI answers to its search and spending enormous amounts on datacentres and chips. Big tech companies like Amazon and Microsoft are doing the same. This keeps coming up because investors want to know whether these massive AI bets will eventually make money, or whether they'll eat into the profitable businesses these companies already have.",
+    "impact_score": 72,
+    "image_url": "https://i.guim.co.uk/img/media/1fbb3bf8e595e794d2bb46b7c93c9e9f51b4634e/173_0_5155_4125/master/5155.jpg?width=1920&quality=85&auto=format&fit=max&s=bb7ed6a6fdea77dddd4cc36397514c9b",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "Google's parent company Alphabet lost roughly $500bn in stock market value after its profit fell 25% and it admitted AI-powered search earns less from ads, even as it keeps spending huge sums on artificial intelligence.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o"
+     },
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-29T23:24:59.483187+00:00",
+    "published_date": "2026-10-30",
+    "has_fulltext": true
+   },
    {
     "id": "9db7fcfe-8162-5bb0-b4e7-8978fdbb09c2",
     "title": "Europe’s central bank chief Christine Lagarde to step down nine months early",
