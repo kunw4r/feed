@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "generated_at": "2026-10-29T23:24:28.592391+00:00",
+ "generated_at": "2026-10-30T07:17:45.057653+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -316,6 +316,79 @@
   ],
   "ASIA": [
    {
+    "id": "958aa193-574a-5562-af13-2008d39704ed",
+    "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+    "simplified_title": "China's Communist Party expels record 33 members at key meeting",
+    "quick_summary": "China's Communist Party expelled a record 33 members, including top generals, at a political meeting with the most empty seats ever, as Xi Jinping tightens control ahead of next year's leadership vote.",
+    "simplified_body": "China's Communist Party has wrapped up its fifth plenum, a four-day closed-door meeting in Beijing, by expelling a record 33 members. Sixteen of them are from the military. Only 279 Central Committee members turned up, down from 315 at the fourth plenum in October 2025 and well below the 376 originally named in 2022. That's the most empty seats ever recorded, and the first time in Xi Jinping's 14 years in charge that attendance has dropped below 300.\n\nThe people expelled include former top generals Zhang Youxia and Liu Zhenli, and former Xinjiang party chief Ma Xingrui. The military has been hit hardest: the Central Military Commission, which runs China's armed forces and should have seven members, now has just two, Xi and Zhang Shengmin. Zhang, the military's anti-corruption chief, was promoted to the Politburo, the party's top decision-making body, which now has 22 members.\n\nXi has made fighting corruption a centrepiece of his rule since 2012, and more than two million people have been disciplined. Official charges are usually vague, like \"serious disciplinary and legal violations\". Critics argue the campaign is now more about loyalty and removing rivals than graft itself.\n\nNext up is the 21st Party Congress, expected in the second half of 2027, where Xi is widely expected to win a fourth term, something no leader apart from founder Mao Zedong has managed. Some analysts warn the purges have been so sweeping that there are few suitable candidates left to promote.",
+    "why_it_matters": "China is Australia's largest trading partner and a major military power in our region, so turmoil at the top of its armed forces and a further concentration of power in Xi's hands shape the security and economic outlook for Australia.",
+    "deep_analysis": "## Historical Context\nXi took power in 2012 and immediately launched an anti-corruption drive he calls the party's \"biggest threat\". Expulsions of Central Committee members have climbed from five and 35 across his first two terms (the BBC's figures) to a record 51 in his third. As general background, in 2018 China scrapped presidential term limits, clearing the way for Xi to stay on beyond the traditional ten years. CNA notes this plenum had the lowest turnout since Mao's death in 1976.\n\n## Multiple Perspectives\nThe party frames the purges as \"turning the knife inwards\" to fix leadership that had \"weakened or hollowed out\". Analyst Chong Ja Ian of Carnegie China says the campaign is now about consolidating authority, and will expand \"depending on how secure Xi feels rather than any real issue with corruption\". Asia Society researchers say the military purge raises \"serious questions\" about leadership and combat readiness. Chong also warns that concentrating power could create a dangerous vacuum when Xi ages. Notably, Xi was not given the \"People's Leader\" title some had speculated about.\n\n## What to Watch\nWatch who gets promoted before the 2027 Party Congress, especially young technocrats from provincial ranks with ties to Xi. Keep an eye on whether the Central Military Commission is restocked, and whether any successor emerges at all.",
+    "concepts": [
+     {
+      "term": "plenum",
+      "definition": "A full meeting of the Communist Party's Central Committee, held roughly once a year.",
+      "context": "This fifth plenum focused on party discipline and saw record expulsions."
+     },
+     {
+      "term": "Central Military Commission",
+      "definition": "The body that controls China's armed forces, normally with seven members.",
+      "context": "Purges have cut it to just two members: Xi and Zhang Shengmin."
+     },
+     {
+      "term": "Politburo",
+      "definition": "The Communist Party's top decision-making body, made up of about two dozen senior leaders.",
+      "context": "Zhang Shengmin was promoted to it, bringing it to 22 members."
+     },
+     {
+      "term": "Party Congress",
+      "definition": "A major party gathering held every five years where top leaders are chosen.",
+      "context": "The next one, expected in late 2027, will likely give Xi a fourth term."
+     }
+    ],
+    "quiz": {
+     "question": "Why do some analysts think the record number of empty seats matters beyond corruption?",
+     "options": [
+      "It proves the military now controls the party",
+      "It suggests the purges are also used to enforce loyalty and consolidate Xi's power",
+      "It shows the party is running out of money for meetings",
+      "It means Xi plans to retire in 2027"
+     ],
+     "answer_index": 1,
+     "explanation": "Analysts like Chong Ja Ian argue the campaign has become a way to consolidate authority and punish disloyalty, especially ahead of the 2027 leadership reshuffle."
+    },
+    "background_beginner": "China is run by one political party, the Chinese Communist Party, and its leader since 2012 has been Xi Jinping. Big decisions are made by a few hundred senior officials in the Central Committee and an even smaller group called the Politburo. When Xi took over, he launched a huge crackdown on corruption, and since then millions of officials have been punished, including generals and senior leaders. Supporters say it cleans up the party; critics say it also removes rivals and anyone seen as disloyal. It keeps making news because each big party meeting reveals more people gone, and because Xi is expected to extend his rule again in 2027.",
+    "impact_score": 68,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "China's Communist Party expelled a record 33 members, including top generals, at a political meeting with the most empty seats ever, as Xi Jinping tightens control ahead of next year's leadership vote.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum"
+     },
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/china-measures-tighten-discipline-communist-party-6503251"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "9df64f4e-153e-51b0-9259-84d108fe1ec0"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-10-30T07:18:16.300420+00:00",
+    "published_date": "2026-10-30",
+    "has_fulltext": true
+   },
+   {
     "id": "732edbca-e226-52b7-87ac-987c00cb62c2",
     "title": "Hong Kong leader apologises and housing minister resigns after fire investigation exposes failures",
     "simplified_title": "Hong Kong leader apologises as housing chief quits over deadly tower fire",
@@ -437,73 +510,6 @@
     "related_story_ids": [],
     "reading_minutes": 2,
     "created_at": "2026-10-29T07:15:50.854096+00:00",
-    "published_date": "2026-10-29",
-    "has_fulltext": true
-   },
-   {
-    "id": "9733c17f-4fea-53c9-afe6-87f984191722",
-    "title": "Indonesian students protest rising prices, government’s handling of forest fires",
-    "simplified_title": "Indonesian students protest prices, subsidy cuts and forest fire response",
-    "quick_summary": "Hundreds of Indonesian students marched in Jakarta on Wednesday (Oct 28) against rising prices, shrinking subsidies and the government's handling of wildfires, but were blocked by a heavy security presence.",
-    "simplified_body": "Hundreds of students from universities and not-for-profit groups took to the streets of Jakarta, Indonesia's capital, on Wednesday (Oct 28). They carried banners criticising President Prabowo Subianto's policies and used the hashtag #IndonesiaAware. Police and military, backed by armoured vehicles, blocked them from gathering at the Hotel Indonesia roundabout and marching about 3km to the Presidential Palace. There were a few minor scuffles.\n\nThe students want wildfires in Sumatra and Kalimantan (Indonesian Borneo) declared a national disaster. They also want the government to stop spending on populist programmes like Prabowo's free meals scheme, which they say drains money from disaster mitigation and infrastructure. They're angry about energy subsidies being cut from 376.8 trillion rupiah this year to 261 trillion rupiah next year, while petrol prices climb and subsidised fuel is scarce because of tensions in the Middle East.\n\nSome background: the free school meals budget this year is 229 trillion rupiah (US$12.6 billion), down from 268 trillion. Meanwhile the National Disaster Mitigation Agency (BNPB) was told in February it would get only 491 billion rupiah for 2026, a nearly 75 per cent drop. After several disasters, its regular funding this year was raised to 1.08 trillion rupiah, plus 4.62 trillion in emergency funds. The protest fell on Youth Pledge Day, which marks a 1928 declaration of unity by young Indonesians.\n\nPrabowo's approval ratings have fallen steadily since late last year, according to SMRC surveys. Protests have also happened in haze-hit areas of Borneo and Sumatra, and there was a major protest in August in which hundreds were detained. More demonstrations seem likely if prices keep rising and the fires continue.",
-    "why_it_matters": "Indonesia is Australia's huge next-door neighbour, so its political stability matters to the region, and smoke from its forest fires has a history of drifting across borders.",
-    "deep_analysis": "## Historical Context\nStudent movements have long shaped Indonesian politics. As general background, student-led protests helped bring down Suharto in 1998. The timing on Youth Pledge Day, which commemorates a 1928 unity declaration by young Indonesians, gives this protest symbolic weight. More recently, weeks-long nationwide protests in 2025 followed the police killing of a motorcycle taxi driver, and several more people died during that unrest. Another major protest in August saw hundreds detained.\n\n## Multiple Perspectives\nStudents argue that flagship programmes like free school meals and village cooperatives are wasteful and crowd out disaster mitigation, while energy subsidy cuts hit people already facing high petrol prices. As one student put it, the subsidy cut came while the government earmarked more money for such programmes. The government has trimmed the free meals budget from 268 trillion to 229 trillion rupiah, with officials saying more cuts were possible, and lifted BNPB's funding after several disasters, though it remains far below the meals budget. Authorities chose to block the march; protesters say this breached their freedom of expression.\n\n## What to Watch\n- Whether the government declares the Sumatra and Kalimantan fires a national disaster.\n- Further cuts to the free meals budget or changes to energy subsidies.\n- Prabowo's approval ratings in future SMRC surveys.\n- Whether protests spread or turn violent, as in 2025.",
-    "concepts": [
-     {
-      "term": "energy subsidies",
-      "definition": "Government money that keeps fuel and power prices lower for consumers.",
-      "context": "Indonesia plans to cut them from 376.8 trillion to 261 trillion rupiah, which could push up costs."
-     },
-     {
-      "term": "national disaster",
-      "definition": "An official declaration that unlocks a bigger, nationally coordinated emergency response.",
-      "context": "Students want the wildfires in Sumatra and Kalimantan declared one."
-     },
-     {
-      "term": "populist programmes",
-      "definition": "Policies designed to be widely popular with voters, often by giving direct benefits.",
-      "context": "Protesters single out Prabowo's free meals scheme as an example."
-     },
-     {
-      "term": "rupiah",
-      "definition": "Indonesia's currency.",
-      "context": "All the budget figures in the story are in rupiah, measured in trillions."
-     }
-    ],
-    "quiz": {
-     "question": "Why are students linking the free meals scheme to the forest fires?",
-     "options": [
-      "The fires destroyed the schools that serve the meals",
-      "The scheme was cancelled to pay for firefighting",
-      "They argue spending on the scheme takes money away from disaster mitigation",
-      "The free meals are cooked using wood from burnt forests"
-     ],
-     "answer_index": 2,
-     "explanation": "Protesters say populist spending like free meals has ballooned at the expense of critical areas like disaster mitigation, whose agency faced deep cuts."
-    },
-    "background_beginner": "Indonesia is a huge island nation just north of Australia, with more than 270 million people. Prabowo Subianto, a former army general, became president about two years ago and promised popular programmes like free school meals. Those cost a lot, and the government has been cutting elsewhere, including fuel subsidies and disaster funding. Each dry season, fires burn across forests and peatland in Sumatra and Borneo, causing thick smoke haze. Students in Indonesia have a long tradition of protesting when they think leaders are getting things wrong, so rising prices plus fires have brought them back onto the streets.",
-    "impact_score": 55,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--RITjVdBr--/c_crop,h_759,w_1350,x_0,y_164/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/res_2168.jpg?itok=wj9-W1c7",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "Hundreds of Indonesian students marched in Jakarta on Wednesday (Oct 28) against rising prices, shrinking subsidies and the government's handling of wildfires, but were blocked by a heavy security presence.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-jakarta-student-protest-prices-forest-fires-6499771"
-     },
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-beefs-up-security-presence-student-protests-6498756"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-28T23:21:04.938181+00:00",
     "published_date": "2026-10-29",
     "has_fulltext": true
    }
@@ -706,76 +712,72 @@
     "has_fulltext": true
    },
    {
-    "id": "e403d406-8752-5246-993d-ea7a343d0c76",
-    "title": "John Healey unveils £100 for energy bills and bank tax in first Budget",
-    "simplified_title": "UK Budget gives households £100 for energy bills, taxes banks more",
-    "quick_summary": "New UK Chancellor John Healey's first Budget offers a one-off £100 energy payment and other cost-of-living help, paid for partly by doubling an extra tax on bank profits, though critics say it does too little.",
-    "simplified_body": "Chancellor John Healey has delivered his first Budget, the first since Andy Burnham became Prime Minister. The headline is a one-off £100 payment, from January, for households in council tax bands A to D in England. It will be funded by raising a surcharge on big bank profits from 3% to 6% for about 15 months. He also extended a Value Added Tax (VAT) cut on electricity and a fuel duty cut to July, and promised to scrap gas standing charges.\n\nThe help targets families facing energy bills that some forecasts say could jump by around £400 in January. Not everyone wins: moving standing charges onto unit prices means heavy gas users pay more. Savers and landlords face higher tax, though reports differ on the size and timing. Minimum wages rise 3.9% in April, but frozen income tax thresholds mean pay rises can push people into higher tax brackets.\n\nThe UK's finances are tight, with £14bn more going on debt interest this year. The Office for Budget Responsibility (OBR), the official forecaster, cut next year's growth forecast to 1% and said households will be barely better off than before Covid a decade on. Healey blamed \"global economic storms\", including oil prices driven by Middle East conflict.\n\nBig decisions on welfare and how to reach 3% of national income on defence by 2030 are delayed until next year's spending review. Opposition leader Kemi Badenoch called the Budget \"not bold enough\", while unions and Greens said it did too little on living costs and climate.",
-    "why_it_matters": "It shows how a major economy is juggling sky-high energy and fuel costs with stretched budgets, the same squeeze behind energy bill relief debates in Australia. Watching what works (or doesn't) in the UK offers a handy comparison.",
-    "deep_analysis": "## Historical Context\nThe 5p fuel duty cut dates back to Rishi Sunak in 2022 and keeps being extended. Healey replaced Rachel Reeves as chancellor and has reversed her plan to cut the cash ISA allowance to £12,000. As background, UK households have faced repeated energy price shocks since the early 2020s, and governments have leaned on one-off payments and windfall-style taxes on profitable sectors to fund relief.\n\n## Multiple Perspectives\nHealey frames the Budget as \"breathing space now\" and \"hope for the future\", plus \"the most radical act of devolution in a generation\" by letting mayors keep business rates. Conservatives say it is \"not bold enough\" and attack the defence delay. The Institute for Fiscal Studies called it \"fiddly measures\" with little for growth. The Lib Dems want closer EU trade ties; Reform UK calls it \"little giveaways\"; Unite calls it \"baby steps\"; the Greens say climate was ignored. Note the sources differ on details: the savings tax rise is described as a 2-point rise, a 4-point rise to 24% from April, and a rise to 24% from April 2027; and some reports say Wales and Scotland will copy the £100 payment while another says devolved governments will simply get funding and decide.\n\n## What to Watch\nJanuary energy bill rises, the Milburn and Timms welfare reviews, next year's spending review on defence, OBR's warning that landlord taxes could push rents up, and whether 2027 growth lands near the 1% forecast.",
+    "id": "efbeb64f-0016-5c24-ade2-74f2ffd02bc5",
+    "title": "Healey provides some breathing space but things still set to get worse for most",
+    "simplified_title": "UK Budget offers small relief as living standards set to fall",
+    "quick_summary": "UK Chancellor John Healey's cautious Budget gives households a £100 energy payment and some \"breathing space\", but official forecasters and think tanks warn living standards will barely grow, or even fall, over the next few years.",
+    "simplified_body": "Britain's Chancellor John Healey has delivered a deliberately small, safe Budget. Its headline help is a £100 payment for around 20 million households to ease higher energy bills, which have been driven up by the US-Iran war. The government also announced £65bn of extra borrowing over five years. Financial markets stayed calm, which was a key goal.\n\nThe bad news is for household budgets. The Office for Budget Responsibility (OBR), the UK's official forecaster, called the outlook a \"pretty grim picture\". The Resolution Foundation think tank says typical working-age households will see disposable income fall by £1,050, or 3%, by 2029. The Institute for Fiscal Studies (IFS) says this decade looks set to be the worst on record for household income growth. Frozen tax thresholds, known as fiscal drag, are quietly taking more from pay packets, and the tax burden is heading to a record 38.6% of national income.\n\nSome background: the government is wary of repeating Liz Truss's 2022 mini-budget, when unfunded tax cuts spooked markets. Higher inflation and debt have already added £14bn to borrowing costs in a year, and debt interest is due to hit £160bn in 2032. That leaves little room to be generous, and Healey has used up some of his \"headroom\", the safety buffer in the public finances.\n\nBig decisions have been pushed back. Welfare reform waits on a review into workless young people, defence must reach 3% of national income by 2030, and the OBR expects 190,000 fewer homes to be built by 2032 than it forecast in March. Prime Minister Andy Burnham's 10-year plan, due next month, is expected to fill some gaps. A quick end to the war could improve things significantly.",
+    "why_it_matters": "It shows how a war far away can squeeze household budgets through energy prices and borrowing costs. Australians facing their own cost-of-living pressures will recognise the same tension between helping households and keeping lenders confident.",
+    "deep_analysis": "## Historical Context\nThe IFS says this decade is set to be the worst on record for household income growth. The BBC suggests this parliament could be the second-worst for living standards since the 1950s, behind only the previous one. The Budget was openly shaped as the \"anti-mini Budget\", a reference to Liz Truss's 2022 unfunded tax cuts that rattled bond and currency markets. Freezing tax thresholds (fiscal drag) is a policy inherited from previous chancellors. As background, chancellors have long used targeted payments during energy shocks, such as during the 2022 energy crisis. The Resolution Foundation says bills will stay higher than in 2022 even with the new help.\n\n## Multiple Perspectives\nHealey says the Budget gives \"breathing space\" and that using fiscal headroom is exactly what it is for in hard times. The Resolution Foundation's Ruth Curtice calls it \"scattergun\" and argues support should have been more targeted at the poorest households. The IFS's Helen Miller says spending plans look \"extremely tight\" and suspects Healey is hoping the economy improves. Conservative shadow chancellor Andrew Griffith says reduced headroom leaves the finances \"more fragile\". Lib Dem leader Ed Davey welcomes the £100 payment but criticises \"stealth tax rises\". Markets appear reassured. The BBC notes that revenue from closing tax loopholes is always highly uncertain.\n\n## What to Watch\n- PM Andy Burnham's 10-year plan next month, and whether it includes high-speed rail.\n- The Milburn Review, which may lead to a welfare-to-work scheme.\n- Energy prices and the course of the US-Iran war, which could wipe out spare cash or boost the finances.\n- Pressure on \"unprotected\" budgets such as justice and higher education as defence heads to 3% by 2030.\n- Whether inflation moves towards the 5% risk the BBC flagged.",
     "concepts": [
      {
-      "term": "standing charges",
-      "definition": "Fixed daily fees paid for an energy connection no matter how much you use.",
-      "context": "Scrapping them on gas shifts costs onto each unit used, helping light users and costing heavy users."
+      "term": "fiscal drag",
+      "definition": "When tax thresholds are frozen while wages rise, so more income gets taxed, or taxed at higher rates, without any official tax increase.",
+      "context": "It is a key reason the tax burden is heading to a record 38.6% and why critics talk about \"stealth tax rises\"."
      },
      {
-      "term": "council tax bands",
-      "definition": "Categories (A, B, C and so on) that rank English homes by value to set local property tax.",
-      "context": "Only homes in bands A to D, the cheaper ones, get the £100 payment."
+      "term": "headroom",
+      "definition": "The safety buffer between what the government plans to spend and borrow and the limits set by its own fiscal rules.",
+      "context": "Healey used some of it to fund help with bills, which the Opposition says leaves the finances more fragile."
      },
      {
-      "term": "Office for Budget Responsibility (OBR)",
-      "definition": "The UK's independent official watchdog that forecasts the economy and public finances.",
-      "context": "It downgraded growth and called living standards \"pretty grim\"."
-     },
-     {
-      "term": "income tax thresholds",
-      "definition": "The income levels where each tax rate starts to apply.",
-      "context": "Keeping them frozen while wages rise means more people pay higher rates over time."
+      "term": "disposable income",
+      "definition": "The money a household has left to spend or save after taxes, plus any benefits received.",
+      "context": "The Resolution Foundation forecasts it will fall by £1,050 for typical working-age households by 2029."
      }
     ],
     "quiz": {
-     "question": "Why will some households end up paying more after gas standing charges are scrapped?",
+     "question": "Why did Healey keep the Budget small instead of offering bigger help to households?",
      "options": [
-      "VAT on gas will double",
-      "The £100 payment must be repaid",
-      "Banks will pass on their new tax directly to gas bills",
-      "Fixed fees move onto the price per unit, so heavy gas users pay more"
+      "To reassure lenders and avoid rising borrowing costs, as happened after the 2022 mini-budget",
+      "Because an election is due next month",
+      "Because energy prices have already fallen",
+      "Because the economy is booming and help isn't needed"
      ],
-     "answer_index": 3,
-     "explanation": "The cost isn't removed, just shifted into unit prices. Light users save; big users, including large families, pay more."
+     "answer_index": 0,
+     "explanation": "Borrowing costs had already risen by £14bn in a year. Healey wanted to show markets he had a credible plan, unlike the unfunded 2022 mini-budget that spooked them."
     },
-    "background_beginner": "Each year the UK's chancellor (the treasurer, like Australia's Treasurer) presents a Budget setting out taxes and spending. This one comes from John Healey, working under new Prime Minister Andy Burnham of the Labour Party. Britain has been squeezed by rising energy and fuel prices, partly from conflict in the Middle East, while its government already owes a lot and pays heavy interest. That leaves little money for help. The opposition Conservatives, led by Kemi Badenoch, plus other parties argue over whether the government taxes too much, spends too much on welfare, or does too little on defence and climate, which is why these fights come up every Budget.",
+    "background_beginner": "Each year the UK's Chancellor, the treasurer, sets out a Budget explaining how the government will tax, spend and borrow. An independent forecaster, the Office for Budget Responsibility, checks the numbers. Here the main players are Chancellor John Healey, Prime Minister Andy Burnham and think tanks that analyse the plans. Since 2022, Britain has been sensitive to how lenders react, after a surprise package of tax cuts caused market chaos. Now a war involving the US and Iran has pushed up energy prices and borrowing costs. That leaves the government trying to help struggling households without spooking the markets that lend it money, a balancing act that keeps coming up.",
     "impact_score": 55,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/426f/live/d5d2d7e0-d21f-11f1-b8e4-17c9744a7f8e.jpg",
     "region": "Europe incl. UK, Russia-Ukraine",
     "region_code": "EUROPE",
-    "description": "New UK Chancellor John Healey's first Budget offers a one-off £100 energy payment and other cost-of-living help, paid for partly by doubling an extra tax on bank profits, though critics say it does too little.",
+    "description": "UK Chancellor John Healey's cautious Budget gives households a £100 energy payment and some \"breathing space\", but official forecasters and think tanks warn living standards will barely grow, or even fall, over the next few years.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go"
+      "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo"
      },
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno"
+      "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o"
      },
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo"
+      "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
     "related_story_ids": [
-     "426b53f6-e374-5577-840d-476533b92d16"
+     "426b53f6-e374-5577-840d-476533b92d16",
+     "e403d406-8752-5246-993d-ea7a343d0c76"
     ],
-    "reading_minutes": 5,
-    "created_at": "2026-10-28T23:21:08.184939+00:00",
-    "published_date": "2026-10-29",
+    "reading_minutes": 4,
+    "created_at": "2026-10-30T07:18:19.925699+00:00",
+    "published_date": "2026-10-30",
     "has_fulltext": true
    }
   ],
@@ -853,78 +855,78 @@
     "has_fulltext": true
    },
    {
-    "id": "05af4703-b453-55ec-9232-90bb1e092bd1",
-    "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-    "simplified_title": "Israel's election leaves Netanyahu short of a majority, Arab parties pivotal",
-    "quick_summary": "Israel's election has left neither Benjamin Netanyahu's bloc nor Gadi Eisenkot's opposition bloc with the 61 seats needed to govern, making record-strength Arab-led parties potential kingmakers.",
-    "simplified_body": "Israel held a general election on Tuesday, and with most votes counted, Prime Minister Benjamin Netanyahu's bloc (his Likud party plus far-right and ultra-Orthodox allies) is on track for 53 of the 120 seats in the Knesset, Israel's parliament. Former military chief Gadi Eisenkot's Jewish opposition \"Change Bloc\" is set for 48. Arab-led parties are heading for a record 19 seats. Some 430,000 to 480,000 absentee ballots, mostly from soldiers, are still being counted.\n\nNeither bloc can reach the 61 seats needed to govern alone. The opposition plus the Arab-led parties would add up to 67, but most Jewish opposition parties have pledged not to work with Arab parties. Only Yair Golan of the centre-left Democrats openly backs a partnership. Eisenkot has attached conditions that make it very hard. Likud has claimed, without evidence, that the election was \"stolen\"; the Central Elections Committee will review the complaint.\n\nThis was Israel's first election since the Hamas-led attacks of 7 October 2023, which killed about 1,200 people, and the wars that followed in Gaza, Lebanon and Iran. Turnout hit 77.7%, the highest in more than two decades, partly due to a surge in voting by Arab citizens, who make up about a fifth of the population. Netanyahu is Israel's longest-serving prime minister and faces a long-running corruption trial.\n\nOnce results are final, President Isaac Herzog will consult all parties and give one leader six weeks to form a coalition. If they fail, the rival gets a turn, and if both fail, Israel heads to another election. Netanyahu stays on as caretaker prime minister in the meantime. Herzog has urged everyone to keep an \"open mind\" to avoid another vote.",
-    "why_it_matters": "Who governs Israel shapes the wars in Gaza and Lebanon and relations with Iran, conflicts that affect global security and that Australians, including many in Jewish and Palestinian communities here, follow closely. It also tests whether Arab citizens' votes can translate into real political power.",
-    "deep_analysis": "## Historical Context\nIsrael's parliament has 120 seats and no party has ever won a majority alone, so governments are always coalitions. Deadlock is familiar: between 2019 and 2022 Israel held five elections. Netanyahu has governed for 19 of the past 30 years. After the 2021 election a short-lived coalition included the United Arab List (Ra'am) led by Mansour Abbas, the precedent now being debated. This election was the first since 7 October 2023 and the wars that followed, and before the poll the elections committee tried to ban Arab parties, a move overturned by the Supreme Court.\n\n## Multiple Perspectives\nNetanyahu says it is \"forbidden\" to form a government relying on \"anti-Zionist Arab parties\", and Likud has alleged fraud without providing evidence. Eisenkot claimed the public voted for change but wants a \"Zionist government\", setting conditions on Arab partnership; right-wing parties in his bloc reject it outright. Yair Golan argues the opposition has a majority if it stops \"being afraid\", noting Netanyahu's ultra-Orthodox allies are also non-Zionist. Arab leaders Yousef Jabareen and Ahmad Tibi say they are ready to help oust Netanyahu but want real negotiation. Voters are split too: some want accountability for 7 October, others fear the strengthening of Arab parties. Abroad, UN rights chief Volker Turk wants the next government to \"change course massively\" on international law, Donald Trump claims his endorsement helped Netanyahu, and Hezbollah says it doesn't care who wins. Sources differ slightly on the Arab parties' tally: one Guardian piece gave a range of 16-19 seats, while later counts put it at 19.\n\n## What to Watch\nWhether absentee ballots shift the numbers; the outcome of Likud's fraud complaint; Golan's coalition talks with Eisenkot and Yair Lapid; Herzog's choice of who gets the first six-week attempt; possible defections between camps; and whether talk of a unity government or a sixth election in a few years gains ground.",
+    "id": "5686cf98-4752-5462-b7ca-55f321702fa4",
+    "title": "Israeli election: Netanyahu, main rival fall short of majority after all votes counted",
+    "simplified_title": "Israel's election ends in deadlock as Netanyahu alleges foreign interference",
+    "quick_summary": "Final results show neither Prime Minister Benjamin Netanyahu's bloc (53 seats) nor Gadi Eisenkot's opposition bloc (48 seats) reached the 61 seats needed to govern, leaving Arab-led parties with a record 19 seats as possible kingmakers.",
+    "simplified_body": "Israel's election is over, but nobody has won outright. Prime Minister Benjamin Netanyahu's bloc of right-wing, far-right and religious parties got 53 of the 120 seats in the Knesset (Israel's parliament), with his Likud party the biggest single party on 27. The opposition bloc led by former military commander Gadi Eisenkot got 48. You need 61 to govern. Turnout was the highest in decades.\n\nThe big surprise: two Arab-led party lists, Ra'am and the Joint List, won a record 19 seats, beating their previous high of 15, after a surge in Arab voter turnout. That makes them potential kingmakers. Netanyahu's Likud has claimed the election was \"stolen\", alleging Qatar and Turkey funded vote-buying for Arab parties. Qatar and both Arab lists deny it, police say there's no evidence, and the Central Elections Committee says claims of systematic problems have \"no basis\". The Shin Bet security service is investigating suspected irregularities but stresses it isn't blaming Arab voters as a whole.\n\nArab Israelis make up about a fifth of the population, and many have boycotted elections in the past. Critics say Netanyahu's allegations are designed to make it politically impossible for Eisenkot to team up with Arab parties, which is his bloc's only real path to power.\n\nNext, President Isaac Herzog will receive official results and consult every party before choosing someone to try to form a government, who then gets 42 days. Options include a unity government of Netanyahu and Eisenkot, Netanyahu luring defectors, or an Eisenkot government backed by Arab parties. Herzog wants to avoid another election, but that remains possible.",
+    "why_it_matters": "Who governs Israel shapes the war-affected Middle East, and the UN human rights chief has openly urged the next government to \"change course massively\" on respecting international law. It's also a test of how democracies handle unproven fraud claims after a close result.",
+    "deep_analysis": "## Historical Context\nAs background, Israel uses nationwide proportional representation, so no single party has ever won a Knesset majority alone and coalition-building is the norm. Israel went through repeated elections in recent years when coalitions couldn't be formed. Arab-led parties have historically sat outside government, though Ra'am joined a coalition in 2021, a first. The sources note many Arab citizens long boycotted elections, and that Netanyahu for years tacitly supported Qatari funding of Hamas in Gaza, an approach that collapsed on 7 October 2023. Two of his aides were arrested last year over alleged payments from Qatar.\n\n## Multiple Perspectives\n- **Netanyahu and Likud** call it \"Raamgate\", a \"political earthquake\" and an attack on democracy, alleging bribery via foreign money. No evidence has been made public; police arrested three suspects in what the election committee called an isolated local case.\n- **Eisenkot** says it's too early to know if anything happened but accuses Likud of an organised campaign to delegitimise the result.\n- **Arab party leaders** are split in tone: Ra'am's Mansour Abbas welcomes an investigation; the Joint List's Sami Abu Shehadeh calls it a \"racist blood libel\". Joint List head Yousef Jabareen will help oust Netanyahu but won't join a government.\n- **Qatar** calls the claims \"ridiculous and dangerous\" disinformation.\n- **Opposition voters**, per a Hebrew University snap poll, most favour an Eisenkot minority government with Ra'am, backed from outside by the Joint List, though Eisenkot and all but one of his bloc have previously rejected governing with Arab parties.\n\n## What to Watch\n- Official results on 4 November and Herzog's choice of nominee.\n- Whether the Shin Bet probe produces any evidence.\n- Whether right-wing members of Eisenkot's bloc accept Arab party support, or defect to Netanyahu.\n- Talk of a unity government, and the risk of yet another election.",
     "concepts": [
      {
       "term": "Knesset",
-      "definition": "Israel's single-chamber parliament, with 120 seats; 61 are needed for a majority.",
-      "context": "Both blocs are short of 61 Knesset seats, so neither can govern alone."
+      "definition": "Israel's 120-seat parliament; a government needs the backing of at least 61 members.",
+      "context": "Neither bloc got to 61 Knesset seats, so coalition talks are needed."
      },
      {
       "term": "kingmakers",
-      "definition": "A group too small to win outright but whose support decides which side gets to govern.",
-      "context": "The Arab-led parties' 19 seats could decide whether the opposition can form a government."
+      "definition": "Smaller groups whose support decides which bigger side gets to form government.",
+      "context": "With 19 seats, the Arab-led parties could tip the balance."
      },
      {
-      "term": "caretaker prime minister",
-      "definition": "A leader who stays in office temporarily, with limited mandate, until a new government is formed.",
-      "context": "Netanyahu keeps running the country while coalition talks drag on, which could benefit him if there's another election."
+      "term": "Shin Bet",
+      "definition": "Israel's domestic security service, roughly comparable to Australia's ASIO.",
+      "context": "It is investigating suspected irregularities but says it isn't blaming Arab voters as a group."
      },
      {
-      "term": "absentee ballots",
-      "definition": "Votes cast away from a voter's normal polling place, such as at military bases, hospitals or embassies, counted last.",
-      "context": "Up to 480,000 such ballots, mostly soldiers', could still nudge the final seat count."
+      "term": "unity government",
+      "definition": "A government formed by major rival parties agreeing to share power.",
+      "context": "One option is Netanyahu and Eisenkot governing together, though moderate voters may dislike it."
      }
     ],
     "quiz": {
-     "question": "Why might Netanyahu stay in power even though his bloc is short of a majority?",
+     "question": "Why do critics say Netanyahu's foreign-interference allegations matter for forming a government?",
      "options": [
-      "Because absentee ballots are guaranteed to give him 61 seats",
-      "Because the Supreme Court banned the Arab parties",
-      "Because most Jewish opposition parties refuse to partner with Arab-led parties, so the opposition can't reach 61 seats on its own",
-      "Because the president automatically reappoints the sitting prime minister"
+      "They force President Herzog to choose Netanyahu",
+      "They could make it politically toxic for Eisenkot to rely on Arab parties, his bloc's only real route to power",
+      "They give Likud an outright majority",
+      "They could cancel the election result automatically"
      ],
-     "answer_index": 2,
-     "explanation": "The opposition plus Arab-led parties would have 67 seats, but most Jewish opposition parties won't work with Arab parties. Without them, the opposition has only 48, which could lead to deadlock, a unity government or new elections while Netanyahu stays as caretaker."
+     "answer_index": 1,
+     "explanation": "Eisenkot's bloc has 48 seats and needs Arab party support to reach 61; critics say delegitimising those parties blocks that path."
     },
-    "background_beginner": "Israel is a country in the Middle East whose parliament, the Knesset, has 120 seats. Because no single party ever wins half, parties must team up into coalitions to govern. Benjamin Netanyahu has led the country for most of the past 30 years with right-wing and religious partners. Since Hamas attacked Israel on 7 October 2023, Israel has fought wars in Gaza, Lebanon and Iran, and many Israelis blame the government for security failures. About one in five Israeli citizens is Arab, and their parties have usually been kept out of government. Israeli elections often end in stalemate, which is why the country has voted so many times in recent years.",
-    "impact_score": 78,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3381/live/719a4410-d2f2-11f1-8d86-83eebc838351.jpg",
+    "background_beginner": "Israel is governed by a parliament called the Knesset, and parties usually have to team up to form a government. Benjamin Netanyahu is the country's longest-serving prime minister and leads a right-wing camp. Against him is a mixed opposition, now led by former army chief Gadi Eisenkot, united mainly by wanting him gone. Arab citizens, about a fifth of Israelis, often stayed away from elections, feeling treated as second-class, but turned out strongly this time. Because results are often close and coalitions fragile, Israel has faced repeated elections and long negotiations, which is why stories about deadlock and deal-making keep coming up.",
+    "impact_score": 72,
+    "image_url": "https://static.dw.com/image/79799443_6.jpg",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Israel's election has left neither Benjamin Netanyahu's bloc nor Gadi Eisenkot's opposition bloc with the 61 seats needed to govern, making record-strength Arab-led parties potential kingmakers.",
+    "description": "Final results show neither Prime Minister Benjamin Netanyahu's bloc (53 seats) nor Gadi Eisenkot's opposition bloc (48 seats) reached the 61 seats needed to govern, leaving Arab-led parties with a record 19 seats as possible kingmakers.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
+      "name": "DW",
+      "url": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf"
+     },
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261030-netanyahu-bloc-in-lead-without-majority-in-israel-election-say-official-results"
+     },
+     {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb"
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
     "related_story_ids": [
-     "90d1e3d3-4112-5843-be35-34047512daa0",
+     "05af4703-b453-55ec-9232-90bb1e092bd1",
      "a928be3c-56a5-5dbb-b0f3-e01b7416e926",
      "c47d33e3-761d-5b7d-bb88-edcb7b5b305c"
     ],
-    "reading_minutes": 5,
-    "created_at": "2026-10-28T23:21:09.095805+00:00",
-    "published_date": "2026-10-29",
+    "reading_minutes": 10,
+    "created_at": "2026-10-30T07:18:21.532985+00:00",
+    "published_date": "2026-10-30",
     "has_fulltext": true
    },
    {
@@ -991,6 +993,80 @@
    }
   ],
   "AMERICAS": [
+   {
+    "id": "eee5fde1-4fd1-5a5c-9fac-1d8aa561a3a5",
+    "title": "Venezuela opposition leader María Machado calls for elections upon return",
+    "simplified_title": "Machado returns to Venezuela, calls for presidential elections in 2027",
+    "quick_summary": "Venezuelan opposition leader and Nobel Peace Prize winner María Corina Machado has returned from exile, thanked the Trump administration for capturing Nicolás Maduro, and called for elections in 2027.",
+    "simplified_body": "María Corina Machado, Venezuela's best-known opposition leader, gave her first news conference in the capital, Caracas, on Thursday after returning from about 10 months in exile. She said Venezuela's move to democracy was \"irreversible\" and called for presidential elections in 2027, though she gave no exact date. She thanked US President Donald Trump and Secretary of State Marco Rubio for opening the \"floodgate to freedom\" by capturing former president Nicolás Maduro in January.\n\nVenezuela is currently run by interim president Delcy Rodríguez, who was Maduro's vice-president and is backed by Washington. On the same day, Rodríguez promised elections \"with the world as witness\" but set no date, and said her government should oversee the transition. Machado called that illogical. She said she hadn't heard from Rodríguez, and she criticised a recent US oil deal, under which Venezuela is expected to hand over 20 per cent of its oil reserves, for lacking transparency.\n\nSome background: Machado was barred from running in the 2024 presidential election and backed Edmundo González instead. His supporters say he won by a wide margin, but electoral authorities declared Maduro the winner. Machado fled by boat in December to collect her Nobel Peace Prize in Norway. Maduro now faces US drug trafficking and torture charges, which he denies.\n\nNext, opposition representatives and the government will negotiate over elections. Machado won't take part personally, but she wants the electoral body reformed so all Venezuelans, including those abroad, can vote. She also wants political prisoners freed. Rodríguez struck a softer tone, saying no one should be detained without a judicial order. The US is in a tricky spot because it has praised both women.",
+    "why_it_matters": "Venezuela holds some of the world's largest oil reserves, so who controls it, and how fairly it's governed, affects global energy markets and the wider debate about outside powers stepping into another country's politics.",
+    "deep_analysis": "## Historical Context\nAs general background, Venezuela has been ruled by Hugo Chávez's movement and then by Nicolás Maduro for over two decades, a period marked by economic collapse and mass emigration. The sources report that Machado was barred from the 2024 election, the opposition says its candidate Edmundo González won, and the US seized Maduro on 3 January. Rodríguez, Maduro's former deputy, then became interim president with US backing and signed an oil deal on terms favourable to the US.\n\n## Multiple Perspectives\n**Machado** frames the US action as liberation, wants 2027 elections, electoral reform and the release of political prisoners, but says the oil deal lacks transparency. **Rodríguez** promises elections without a date, argues her government should manage the transition, has sounded conciliatory about detentions and exiles, but sniped at Machado's homecoming as a \"show\". **Washington** says Machado has every right to be home while also praising Rodríguez. DW notes Trump said in January that Machado lacked enough support to lead immediately, and this week floated Venezuela becoming the 51st US state, questions Machado sidestepped. Al Jazeera describes Maduro's capture as an \"abduction\", reflecting how contested the US move is.\n\n## What to Watch\n- Whether a firm election date is set, and by whom.\n- Progress in opposition–government negotiations and reform of the electoral body.\n- Releases of political prisoners and whether Rodríguez's no-detention-without-warrant pledge holds.\n- Whether Machado confirms a presidential run, and how the US balances its support between her and Rodríguez.\n- Scrutiny of the oil deal.",
+    "concepts": [
+     {
+      "term": "exile",
+      "definition": "Living outside your home country because it's unsafe or you're not allowed to return.",
+      "context": "Machado spent about 10 months abroad after fleeing to accept her Nobel Prize."
+     },
+     {
+      "term": "interim president",
+      "definition": "A temporary leader who runs the country until a permanent one is chosen, usually by election.",
+      "context": "Delcy Rodríguez took this role after Maduro was captured."
+     },
+     {
+      "term": "political prisoners",
+      "definition": "People jailed because of their political views or activism rather than ordinary crimes.",
+      "context": "Machado says freeing thousands of them is a priority."
+     },
+     {
+      "term": "electoral body",
+      "definition": "The official organisation that runs elections and counts votes.",
+      "context": "Machado wants it reformed so the 2024-style disputes don't repeat and Venezuelans abroad can vote."
+     }
+    ],
+    "quiz": {
+     "question": "Why does Machado object to Rodríguez overseeing the transition to elections?",
+     "options": [
+      "Rodríguez wants to cancel elections entirely",
+      "Rodríguez has refused to sign any deals with the US",
+      "Rodríguez was Maduro's vice-president, so Machado sees her leading the change as illogical",
+      "Rodríguez is a US citizen"
+     ],
+     "answer_index": 2,
+     "explanation": "Rodríguez served under Maduro, and Machado dismissed the idea of her government managing the shift to democracy as illogical. Rodríguez has actually promised elections and signed an oil deal with the US."
+    },
+    "background_beginner": "Venezuela is a South American country with huge oil reserves. For years it was run by Nicolás Maduro, whose government was accused of rigging elections and jailing critics, while the economy crashed and millions left. María Corina Machado became the main face of the opposition and won the Nobel Peace Prize. After a disputed 2024 election, the United States captured Maduro in January and backed his former deputy, Delcy Rodríguez, as temporary leader. Now Machado is back home pushing for elections. It keeps making news because it mixes oil, democracy, and a powerful foreign country directly reshaping another nation's politics.",
+    "impact_score": 68,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/50d1/live/da5dfe00-d3cf-11f1-9c32-1532a6164171.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Venezuelan opposition leader and Nobel Peace Prize winner María Corina Machado has returned from exile, thanked the Trump administration for capturing Nicolás Maduro, and called for elections in 2027.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/venezuela-opposition-leader-maria-corina-machado-says-us-backs-2027-election/a-79803426?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "37155347-d010-584c-aef6-e446e39c0bb8",
+     "8cae1516-167b-5d12-85cf-c8c05b54fa16"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-10-30T07:18:19.182520+00:00",
+    "published_date": "2026-10-30",
+    "has_fulltext": true
+   },
    {
     "id": "c9a82088-b5ae-5182-b8e8-927eaec5ab92",
     "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
@@ -1116,64 +1192,6 @@
     "reading_minutes": 5,
     "created_at": "2026-10-29T14:30:01.076788+00:00",
     "published_date": "2026-10-30",
-    "has_fulltext": true
-   },
-   {
-    "id": "b3e9f997-83b3-5dc3-a26e-5f324afcadc3",
-    "title": "Bank of Canada raises interest rates for the first time in three years",
-    "simplified_title": "Canada's central bank lifts interest rates for first time since 2023",
-    "quick_summary": "The Bank of Canada raised its key interest rate by a quarter of a percentage point to 2.5 percent, warning that high energy prices risk spreading into broader inflation.",
-    "simplified_body": "The Bank of Canada (BoC), the country's central bank, has raised its key interest rate by a quarter of a percentage point to 2.5 percent. It's the first hike since July 2023, and markets widely expected it. Governor Tiff Macklem said more increases might be needed, but the bank will \"proceed carefully\".\n\nThe main worry is energy. Annual inflation hit 3.2 percent in September, above the bank's 1 to 3 percent target range, driven almost entirely by energy and energy-related transport costs. Macklem fears businesses will pass these higher costs on, turning an energy problem into generalised inflation. Higher rates make borrowing pricier for Canadian households and businesses.\n\nNot everyone agrees. Some economists point out that core inflation, which strips out volatile items, is still around 2 percent, and argue a hike could hurt a modest recovery already strained by United States (US) trade tensions and a weak job market. Andrew Grantham of CIBC Capital Markets doesn't think rates will need to go above 2.75 percent. The bank now expects inflation of 3.5 percent by year's end, around 3 percent through most of 2027, and back near 2 percent by mid-2028. It also raised its gross domestic product (GDP) growth forecasts to 2 percent for 2027 and 2028.\n\nThe next rate decision is on December 9. Money markets see the benchmark rate reaching 3.25 percent by December next year, though the article's report of what markets expect in January is unclear, describing a 25 basis point \"cut\" despite the upward path.",
-    "why_it_matters": "It shows central banks reacting to an energy price shock tied to Middle East conflict, a pressure that also feeds into petrol and power prices in Australia and could shape how the Reserve Bank of Australia thinks about rates.",
-    "deep_analysis": "## Historical Context\nThe BoC last raised rates in July 2023, during the post-pandemic inflation fight. As background, central banks then cut rates as inflation cooled; this hike marks a reversal after more than three years without an increase.\n\n## Multiple Perspectives\n**The bank:** Macklem argues inflation's outlook is \"substantially higher\", the economy is resilient, and past experience shows businesses pass on rising costs, making inflation stickier.\n**Sceptical economists:** Core inflation sits near 2 percent, so the problem is mostly energy. They warn a hike could stall a fragile recovery amid US tariffs and weak jobs. CIBC's Andrew Grantham expects the rate to top out at 2.75 percent.\n**Markets:** Pricing points to 3.25 percent by December next year, though the source's mention of a January \"cut\" seems inconsistent with that.\n\n## What to Watch\n- The December 9 decision.\n- Whether global energy prices ease or the Middle East conflict resolves faster.\n- The impact of new US tariffs, which the BoC expects to slow fourth-quarter growth to 0.8 percent annualised.\n- Whether core inflation starts climbing.",
-    "concepts": [
-     {
-      "term": "core inflation",
-      "definition": "A measure of price rises that leaves out volatile items like energy and food.",
-      "context": "Critics say core inflation is still about 2 percent, so the hike may be unnecessary."
-     },
-     {
-      "term": "basis point",
-      "definition": "One-hundredth of a percentage point; 25 basis points equals 0.25 percent.",
-      "context": "Markets talk about rate moves in 25 basis point steps."
-     },
-     {
-      "term": "gross domestic product (GDP)",
-      "definition": "The total value of goods and services an economy produces, used to measure growth.",
-      "context": "The BoC lifted its GDP growth forecast for 2027 and 2028 to 2 percent."
-     }
-    ],
-    "quiz": {
-     "question": "Why did the Bank of Canada raise rates even though core inflation is around 2 percent?",
-     "options": [
-      "Because the economy shrank in the second quarter",
-      "Because unemployment was too low",
-      "Because the US asked it to",
-      "Because it fears high energy costs will be passed on and spread into broader inflation"
-     ],
-     "answer_index": 3,
-     "explanation": "Macklem said higher energy prices plus businesses passing on costs could make inflation persistent and generalised, so he acted pre-emptively."
-    },
-    "background_beginner": "Every country has a central bank that sets a key interest rate, which influences how expensive it is to borrow money. When prices rise too fast (inflation), central banks raise rates to cool spending; when the economy is weak, they cut them. Canada's central bank is the Bank of Canada, led by governor Tiff Macklem. After a big burst of inflation following the pandemic, it raised rates until mid-2023, then eased off. Now energy prices have jumped, pushing inflation above its target again, so the bank is raising rates once more. These decisions come up regularly because they affect mortgages, jobs and the cost of living.",
-    "impact_score": 55,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-06-05T161942Z_1200594537_RC2QNLA9IBV1_RTRMADP_3_CANADA-ECONOMY-1793202755.jpg?resize=1920%2C1440",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "The Bank of Canada raised its key interest rate by a quarter of a percentage point to 2.5 percent, warning that high energy prices risk spreading into broader inflation.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-28T23:21:03.573773+00:00",
-    "published_date": "2026-10-29",
     "has_fulltext": true
    }
   ],
@@ -1438,70 +1456,128 @@
   ],
   "ADF": [
    {
-    "id": "a44a61de-1a88-5d40-b5ac-55b6200ffaae",
-    "title": "Inquiry slams culture and command of Australia's SAS during Afghanistan war",
-    "simplified_title": "Secret report blames SAS culture and leaders for Afghanistan war crimes",
-    "quick_summary": "A long-hidden military report has been partly released, finding that a broken chain of command, an arrogant 'untouchable' culture and incurious senior leaders allowed alleged war crimes by Australian special forces in Afghanistan.",
-    "simplified_body": "The executive summary of a secret inquiry into the culture of Australia's Special Air Service Regiment (SASR, often just called the SAS) during the Afghanistan war has been posted online. It found an 'inversion of authority', where junior officers were 'effectively subservient' to the non-commissioned officers they were meant to command, and an 'abandonment of curiosity' among senior Australian Defence Force (ADF) leaders who ignored warning signs like rising enemy death counts with no wounded insurgents and no ADF casualties.\n\nThe report also found some officers knew about 'throwdowns', which means planting weapons on dead Afghan civilians to make them look like fighters, and did nothing. It describes a culture where some operators felt 'exceptional' and 'untouchable', drank alcohol against orders, chased bravery awards and wrote vague, misleading battle reports. The full report stays secret because it contains sensitive evidence.\n\nThis follows the 2020 Brereton Inquiry by the Inspector-General of the ADF (IGADF), which found credible information that special forces murdered 39 Afghan civilians and prisoners. Brereton was criticised for placing blame mostly on patrol commanders, usually corporals or sergeants, rather than officers. The sources differ on the timeline: the ABC says the new report went to former defence chief Mark Binskin in 2022, while The Guardian says it was a 2021 investigation commissioned by Angus Campbell. Defence had previously refused freedom of information requests to release it.\n\nThe Office of the Special Investigator continues to pursue alleged war crimes. Victoria Cross recipient Ben Roberts-Smith and former trooper Oliver Schulz both face war crimes charges, which they are contesting. The report praised cultural reform efforts already underway.",
-    "why_it_matters": "It shifts some responsibility for alleged Australian war crimes up the chain of command, raising questions about accountability for senior leaders, not just soldiers on the ground, while two high-profile criminal cases continue in Australian courts.",
-    "deep_analysis": "## Historical Context\nAs background, Australia deployed troops to Afghanistan from 2001 to 2021, with a small pool of special forces sent on repeated rotations. The 2020 Brereton Inquiry found credible information of 39 unlawful killings and concluded the crimes were 'conceived, committed, continued, and concealed at patrol commander level'. That framing drew criticism for largely sparing officers. This cultural inquiry was commissioned afterwards to examine whether wider culture and command failures enabled the misconduct.\n\n## Multiple Perspectives\nThe report says the culture 'was not the cause of misconduct but created an environment which enabled misconduct by a few'. It acknowledges an 'extreme limitation' in information flowing up to headquarters, yet calls it 'extraordinary' that rumours weren't investigated. Former SAS captain and Liberal MP Andrew Hastie welcomed the release, saying much of it 'rings very true' and that it 'spreads responsibility throughout the chain of command'. The report also blames government and Special Operations Command for treating the SAS as 'superior' rather than 'specialist' and over-deploying it. Defence's long refusal to release it, despite freedom of information requests and Senate pressure, raises transparency questions.\n\n## What to Watch\n- The criminal cases against Ben Roberts-Smith and Oliver Schulz.\n- Whether senior officers face any further accountability.\n- Progress on SAS cultural reform the report commended.\n- Pressure to release more of the full report.",
+    "id": "b054d035-2b76-55c1-a592-c09754c50a3b",
+    "title": "‘Uncontrolled warrior culture’: Australia’s special forces under fire in new inquiry",
+    "simplified_title": "New inquiry blames weak leadership for special forces' Afghanistan failures",
+    "quick_summary": "A new Defence inquiry says Australia's special forces in Afghanistan had an \"uncontrolled warrior culture\" and poor oversight, shifting scrutiny from individual soldiers to senior commanders.",
+    "simplified_body": "The inspector-general of the Australian Defence Force (ADF) has released the executive summary of an inquiry into the culture and command of Australian special forces in Afghanistan. It makes 42 findings and, instead of recommendations, flags nine big-picture issues for reform. It describes forces operating without proper oversight, with an \"uncontrolled warrior culture\", overused and cut off from the broader army.\n\nThis matters most for the people at the top. The earlier Brereton report suggested blame likely sat with patrol commanders, but this inquiry looks at more senior leaders. It found an \"inversion of authority\", where tight-knit groups of lower-ranking soldiers made decisions that senior officers should have made. Liberal MP Andrew Hastie, a former Special Air Service (SAS) captain, backed the findings, saying much of it \"rings very true\" to him.\n\nSome background: after the September 11, 2001 attacks, Australia sent its special forces to the war on terror, partly to support the United States. The 2020 Brereton report, covering 2005 to 2016, found credible information that Australian special forces murdered 39 Afghan civilians and prisoners. Under a war crimes law principle called command responsibility, commanders are legally responsible for their troops' conduct.\n\nNext, the report could lead to some commanders being investigated for war crimes. Defence also faces a tricky balancing act: reforming special forces culture while keeping the flexibility that lets them operate unconventionally. Individual soldiers' conduct will keep being examined in courtrooms and beyond.",
+    "why_it_matters": "This is about how Australia's own military behaved overseas and who is accountable for it. It also raises questions about whether Australia leans too heavily on its special forces to keep alliance partners like the US happy.",
+    "deep_analysis": "## Historical Context\nAfter September 11, 2001, Australia committed special forces to the war on terror, partly as a show of support for the United States. Small militaries often offer their elite units to coalitions, which meant Australian operators faced long, high-intensity conflicts and frequent rotations. The 2020 Brereton report, covering 2005 to 2016, found credible information of 39 unlawful killings and suggested responsibility likely sat with patrol commanders. This new inquiry picks up the unanswered question of senior leadership.\n\n## Multiple Perspectives\n- **The inspector-general** frames the problems mainly as failures of governance and culture: discipline, oversight, communication and a chain of command that didn't work properly.\n- **Andrew Hastie**, a former SAS captain and Liberal MP, says the report rings true and spreads responsibility throughout the chain of command rather than focusing only on individuals.\n- **Legal perspective:** the article's authors note that command responsibility could expose some commanders to war crimes investigations, even though the report itself is written in governance terms.\n- **Operational perspective:** special forces need autonomy to react quickly, but that autonomy weakens central control, which clashes with conventional military law and discipline.\n\n## What to Watch\n- Whether any senior commanders face formal investigation.\n- How Defence reforms special forces without losing their unconventional edge.\n- Ongoing court cases and scrutiny of individual soldiers.\n- Debate over whether future special forces deployments are appropriate at all.",
     "concepts": [
      {
-      "term": "throwdowns",
-      "definition": "Weapons or equipment planted on a dead person to make them look like an enemy fighter.",
-      "context": "The report found some SAS officers knew throwdowns were used to make false reports and failed to stop it."
+      "term": "command responsibility",
+      "definition": "A principle in war crimes law that makes commanders legally responsible for what their troops do, including failing to deal with suspected misconduct.",
+      "context": "It's why this report could lead to commanders, not just soldiers, being investigated."
      },
      {
-      "term": "non-commissioned officers",
-      "definition": "Experienced soldiers such as corporals and sergeants who lead small teams but rank below commissioned officers like lieutenants and captains.",
-      "context": "The report found these soldiers dominated the junior officers who were supposed to command them."
+      "term": "inversion of authority",
+      "definition": "When lower-ranking people end up making decisions that should be made by their superiors.",
+      "context": "The inquiry found small groups of soldiers were effectively calling the shots instead of senior officers."
      },
      {
-      "term": "chain of command",
-      "definition": "The line of authority in the military, where orders flow down and accountability flows up through ranks.",
-      "context": "The inquiry found the SAS chain of command was effectively turned upside down."
-     },
-     {
-      "term": "Brereton Inquiry",
-      "definition": "The 2020 report by the Inspector-General of the ADF that found credible information of 39 unlawful killings in Afghanistan.",
-      "context": "The new report was commissioned after it, partly because Brereton placed blame mostly at lower ranks."
+      "term": "Brereton report",
+      "definition": "A landmark 2020 report into Australian special forces conduct in Afghanistan from 2005 to 2016.",
+      "context": "It found credible information of 39 murders; this new inquiry follows up on questions it left open."
      }
     ],
     "quiz": {
-     "question": "How does the newly released report differ from the earlier Brereton Inquiry in where it places responsibility?",
+     "question": "How does this new inquiry differ from the earlier Brereton report?",
      "options": [
-      "It spreads responsibility up the chain of command, including officers and senior leaders",
+      "It focuses on the responsibility of more senior leaders rather than mainly patrol commanders",
+      "It recommends withdrawing all special forces from the army",
       "It clears all soldiers of wrongdoing",
-      "It blames only the Afghan government",
-      "It finds no unlawful conduct occurred"
+      "It only looks at events after 2016"
      ],
      "answer_index": 0,
-     "explanation": "Brereton largely blamed patrol commanders (corporals and sergeants), while the new report finds officers knew of misconduct like throwdowns and senior leaders ignored warning signs."
+     "explanation": "Brereton suggested blame likely sat with patrol commanders; the new inquiry scrutinises more senior leaders and the whole chain of command."
     },
-    "background_beginner": "Australia sent troops to fight in Afghanistan for about two decades after the 2001 terror attacks on the United States. Among them were elite special forces soldiers from the SAS, a highly respected and secretive unit. Over time, rumours and reports emerged that some of these soldiers had killed unarmed civilians and prisoners. A major investigation released in 2020 found credible evidence of dozens of unlawful killings. Since then there have been court cases, criminal charges and more inquiries. The topic keeps coming up because it raises hard questions about who should be held responsible, how elite units are managed, and how the military polices itself.",
+    "background_beginner": "Australia sent troops to Afghanistan after the September 11, 2001 terrorist attacks in the US, as part of a US-led coalition. Among them were elite special forces units like the SAS, who did dangerous, secretive missions. Over time, reports surfaced of serious misconduct, including unlawful killings of Afghan civilians and prisoners. A major investigation called the Brereton report, released in 2020, found credible evidence of this. Since then, the big question has been who is to blame: individual soldiers, or the leaders who were supposed to supervise them. It keeps coming up through new inquiries, court cases and debates about military accountability.",
     "impact_score": 62,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/9700201eaad5faa468a64e20eb3cf2c2?impolicy=wcms_watermark_news&cropH=1400&cropW=2486&xPos=14&yPos=185&width=862&height=485&imformat=generic",
+    "image_url": "https://images.theconversation.com/files/768977/original/file-20261029-53-hyhpiz.jpg?ixlib=rb-4.1.1&rect=0%2C298%2C4256%2C2128&q=45&auto=format&w=1356&h=668&fit=crop",
     "region": "Australian defence, ADF, AUKUS, regional security",
     "region_code": "ADF",
-    "description": "A long-hidden military report has been partly released, finding that a broken chain of command, an arrogant 'untouchable' culture and incurious senior leaders allowed alleged war crimes by Australian special forces in Afghanistan.",
+    "description": "A new Defence inquiry says Australia's special forces in Afghanistan had an \"uncontrolled warrior culture\" and poor oversight, shifting scrutiny from individual soldiers to senior commanders.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-29/secret-inquiry-into-afghanistan-special-forces-slams-sas/107321098"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb"
+      "name": "The Conversation",
+      "url": "https://theconversation.com/uncontrolled-warrior-culture-australias-special-forces-under-fire-in-new-inquiry-295438"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "a44a61de-1a88-5d40-b5ac-55b6200ffaae"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-10-30T07:18:17.231011+00:00",
+    "published_date": "2026-10-30",
+    "has_fulltext": true
+   },
+   {
+    "id": "d72deb27-4a67-51b5-99c6-8269abf64040",
+    "title": "Mines, drones, supplies: Australia lets adversaries know what Ghost Shark can do | The Strategist",
+    "simplified_title": "Australia reveals what its Ghost Shark robot submarine can do",
+    "quick_summary": "Defence Industry Minister Pat Conroy has revealed that Australia's Ghost Shark uncrewed submarine can lay sea mines, launch Altius drones and carry underwater supplies, a move aimed at deterring adversaries and showcasing Australian tech to allies.",
+    "simplified_body": "On 19 October, Defence Industry Minister Pat Conroy revealed three previously secret things the Ghost Shark uncrewed submarine can do: lay up to 12 sea mines, launch Altius aerial drones for scouting and strikes, and carry underwater equipment and supplies that can be stored and collected later. Anduril Australia's CEO David Goodrich added that its payload bays also support torpedoes, though whether that capability is actually operational hasn't been confirmed.\n\nThe message is aimed at two audiences. For potential adversaries, it's deterrence: by showing what Ghost Shark can do but not exactly where or how it would be used, Australia makes attacking its interests harder to plan. For allies in AUKUS (the security partnership between Australia, the United Kingdom and the United States), it shows Australia can build advanced military tech worth buying or partnering on.\n\nGhost Shark was developed by Anduril Australia, the Defence Science and Technology Group and the Royal Australian Navy. It's classed as an extra-large autonomous underwater vehicle, coming in an 11-metre version that fits in a shipping container and a 17-metre version with more payload room. Conroy said it could enable strikes on targets thousands of nautical miles from Australia, which ASPI calculates implies a round-trip range of at least 4,000 nautical miles (7,400 km), if that figure is measured from port.\n\nNext, the newly revealed payloads will be offered as options for AUKUS Pillar Two, the part of the deal focused on advanced technology. That could mean Australian systems fitted to allies' underwater craft, plus possible exports and industrial partnerships.",
+    "why_it_matters": "Ghost Shark is a homegrown Australian capability that ties into the 2026 National Defence Strategy's focus on denial, helping Australia defend vast sea distances without risking expensive crewed ships. It could also open export and partnership opportunities for Australian industry.",
+    "deep_analysis": "## Historical Context\nAs background, AUKUS was announced in 2021. Pillar One centres on Australia acquiring nuclear-powered submarines, while Pillar Two covers advanced technologies like autonomy and undersea systems. Ghost Shark sits within this broader push, and the source links it to the 2026 National Defence Strategy, which emphasises a strategy of denial and the Australian Defence Force's ability to operate in the Indo-Pacific.\n\n## Multiple Perspectives\n- **Deterrence view:** Conroy explicitly said the payloads were revealed to both the public and potential adversaries, arguing Ghost Shark's mobility, including deployment from wharves or small ships, creates uncertainty.\n- **Risk of over-disclosure:** ASPI notes disclosure is a balancing act. Secrecy preserves surprise but can't shape an adversary's thinking before a crisis; revealing too much could help opponents build countermeasures.\n- **Unconfirmed claims:** Anduril's torpedo comment isn't confirmed as operational, and the supply-cache mission was barely explained, so uses like clandestine resupply remain speculative.\n- **Range uncertainty:** The 4,000-nautical-mile estimate depends on whether Conroy meant radius from port or included transport by a mothership.\n\n## What to Watch\n- Whether torpedo capability is officially confirmed.\n- Uptake of Ghost Shark payloads by AUKUS partners under Pillar Two.\n- Export deals or industrial partnerships.\n- Any further detail on range and the underwater supply mission.",
+    "concepts": [
+     {
+      "term": "uncrewed submarine",
+      "definition": "A submarine that operates without anyone on board, steered remotely or by its own onboard computers.",
+      "context": "Ghost Shark can do risky jobs like laying mines without putting sailors or costly crewed vessels in danger."
+     },
+     {
+      "term": "deterrence",
+      "definition": "Discouraging an enemy from attacking by making them believe the cost would be too high or too uncertain.",
+      "context": "Revealing Ghost Shark's abilities, but not how they'd be used, is meant to make adversaries think twice."
+     },
+     {
+      "term": "AUKUS Pillar Two",
+      "definition": "The part of the Australia–UK–US partnership focused on sharing and developing advanced technologies.",
+      "context": "Conroy confirmed Ghost Shark's new payloads will be offered as options under this program."
+     },
+     {
+      "term": "autonomous underwater vehicle",
+      "definition": "A robotic underwater craft that can carry out missions largely on its own.",
+      "context": "Ghost Shark is classed as an extra-large one, in 11-metre and 17-metre versions."
+     }
+    ],
+    "quiz": {
+     "question": "Why did Australia reveal some Ghost Shark capabilities while keeping operational details secret?",
+     "options": [
+      "To give allies full blueprints of the design",
+      "To create uncertainty for adversaries while showing credible options",
+      "Because the law requires all military details to be public",
+      "Because the project has been cancelled"
+     ],
+     "answer_index": 1,
+     "explanation": "Showing what Ghost Shark can do, without saying where, when or how, makes it harder for adversaries to plan against Australia, which is the core of deterrence."
+    },
+    "background_beginner": "Ghost Shark is a large robot submarine built in Australia by the defence tech company Anduril Australia, working with the Royal Australian Navy and government scientists. It operates without a crew. It fits into AUKUS, a security partnership between Australia, the United Kingdom and the United States that covers both nuclear-powered submarines and newer technologies like underwater drones. Australia has a huge coastline and lots of ocean to watch, so robot vessels that can travel long distances cheaply and without risking lives are appealing. It keeps coming up because it's a major homegrown defence project, tied to tensions in the Indo-Pacific region and to Australia's push to sell its technology to allies.",
+    "impact_score": 55,
+    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/10/20261019ran8620187_0139-scaled-e1793232968925.jpg",
+    "region": "Australian defence, ADF, AUKUS, regional security",
+    "region_code": "ADF",
+    "description": "Defence Industry Minister Pat Conroy has revealed that Australia's Ghost Shark uncrewed submarine can lay sea mines, launch Altius drones and carry underwater supplies, a move aimed at deterring adversaries and showcasing Australian tech to allies.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "ASPI Strategist",
+      "url": "https://www.aspistrategist.org.au/mines-drones-supplies-australia-lets-adversaries-know-what-ghost-shark-can-do/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "e9d54141-3b8e-59ce-baf9-ab4c3655b377"
+    ],
     "reading_minutes": 4,
-    "created_at": "2026-10-28T23:21:07.329282+00:00",
-    "published_date": "2026-10-29",
+    "created_at": "2026-10-30T07:18:36.633984+00:00",
+    "published_date": "2026-10-30",
     "has_fulltext": true
    },
    {
@@ -1561,67 +1637,75 @@
     "created_at": "2026-10-29T07:15:30.974129+00:00",
     "published_date": "2026-10-29",
     "has_fulltext": true
-   },
-   {
-    "id": "20bcb1ca-40cf-5b0f-b088-da5390adabfd",
-    "title": "Hegseth proposes 'ambitious' US-ASEAN defence framework at Philippine summit",
-    "simplified_title": "US proposes new defence partnership with Southeast Asian nations",
-    "quick_summary": "US Defense Secretary Pete Hegseth has proposed an \"ambitious\" new defence cooperation framework between the US and the Association of Southeast Asian Nations at a meeting in Cebu, the Philippines.",
-    "simplified_body": "US Defense Secretary Pete Hegseth used a meeting in Cebu, in the Philippines, on Wednesday (Oct 28) to propose a new \"US-ASEAN Framework for Defence Cooperation\". ASEAN is the Association of Southeast Asian Nations. He called it a practical plan to guide cooperation over the \"critically important\" next several years, but he didn't give details. He also pushed for stronger \"maritime domain awareness\" and closer cooperation between navies.\n\nThis affects ASEAN's 11 member states, plus the wider ASEAN Defence Ministers' Meeting (ADMM)-Plus group, which includes the US, Japan, China, Australia and others. Hegseth said the US was ready to start the project as Singapore takes over as ADMM-Plus chair in the coming year. He acknowledged that countries won't agree on everything, and called for cooperation where interests overlap.\n\nThe backdrop is China's growing military reach. The US has been building regional partnerships to support what it calls a \"free and open Indo-Pacific\". The Philippines, a US ally, has clashed with China for years over disputed parts of the South China Sea, and Manila said this month that China's military and coast guard presence in contested areas nearly doubled in September. On the sidelines, Japan's defence chief Shinjiro Koizumi and Hegseth discussed an \"effective denial defence in the First Island Chain\" and agreed to keep coordinating on munitions production.\n\nNext, watch whether ASEAN members sign on and what the framework actually contains, since no details have been released yet.",
-    "why_it_matters": "Australia sits in the ADMM-Plus group, so any new US-ASEAN defence arrangement could shape the security setting in our own region and the South China Sea trade routes we rely on.",
-    "deep_analysis": "## Historical Context\nAs background: ASEAN was founded in 1967 and has long prided itself on neutrality and consensus decision-making. The ADMM-Plus brings outside powers like the US, China, Japan and Australia into regular defence talks. The South China Sea disputes involve overlapping claims by China and several ASEAN members, with the Philippines among the most vocal. In this article, Manila says Chinese military and coast guard presence in contested areas nearly doubled in September.\n\n## Multiple Perspectives\n- **United States:** Hegseth frames the framework as practical, concrete cooperation that builds confidence to \"prevent conflict\", tied to a \"free and open Indo-Pacific\".\n- **Japan:** Japan's defence chief backed an \"effective denial defence in the First Island Chain\" and munitions coordination, signalling tight alignment with the US.\n- **ASEAN members:** Hegseth himself acknowledged they won't agree on everything; as background, many members trade heavily with China and are wary of picking sides.\n- **China:** China is part of ADMM-Plus too, and (as general background) usually criticises US-led security groupings in the region. The article does not include China's response.\n\n## What to Watch\n- Whether details of the framework are released, and what it commits members to.\n- How Singapore handles it as incoming ADMM-Plus chair.\n- Any further South China Sea incidents involving the Philippines.\n- China's reaction.",
-    "concepts": [
-     {
-      "term": "maritime domain awareness",
-      "definition": "Knowing what's happening at sea, such as tracking ships, aircraft and activity, in a shared picture.",
-      "context": "Hegseth wants partners to improve this so they can monitor contested waters like the South China Sea."
-     },
-     {
-      "term": "ADMM-Plus",
-      "definition": "A regular meeting of ASEAN defence ministers plus outside partners such as the US, Japan, China and Australia.",
-      "context": "Singapore will chair it next year, which is when the US wants to start building the framework."
-     },
-     {
-      "term": "First Island Chain",
-      "definition": "A line of islands between China and the open Pacific Ocean, including Japan, Taiwan and the Philippines.",
-      "context": "Japan and the US discussed a defence aimed at denying access through this chain."
-     }
-    ],
-    "quiz": {
-     "question": "Why is the US pushing for a new defence framework with ASEAN?",
-     "options": [
-      "To settle a trade dispute with Singapore",
-      "To strengthen regional partnerships as China becomes more assertive in the region",
-      "Because ASEAN asked the US to lead its navies",
-      "To replace ASEAN with a US-led military alliance"
-     ],
-     "answer_index": 1,
-     "explanation": "The US says it wants to uphold a \"free and open Indo-Pacific\" as China increasingly flexes its muscles, including in the South China Sea."
-    },
-    "background_beginner": "Southeast Asia is home to ASEAN, a club of 11 countries including the Philippines, Singapore, Indonesia and Vietnam that work together on trade and security. Nearby, the South China Sea is a busy shipping route where China claims large areas that neighbours like the Philippines also claim. Over the past decade China has expanded its navy and coast guard there, leading to tense run-ins. The US, which has long-standing allies in the region including the Philippines, Japan and Australia, wants to keep the seas open and balance China's influence. That's why defence meetings like this one keep making news.",
-    "impact_score": 55,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--53J311l1--/c_crop,h_576,w_1024,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/000_d4mp9ew.jpg?itok=YTXsNVht",
-    "region": "Australian defence, ADF, AUKUS, regional security",
-    "region_code": "ADF",
-    "description": "US Defense Secretary Pete Hegseth has proposed an \"ambitious\" new defence cooperation framework between the US and the Association of Southeast Asian Nations at a meeting in Cebu, the Philippines.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/hegseth-proposes-us-asean-defence-framework-6498011"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-28T23:21:04.855242+00:00",
-    "published_date": "2026-10-29",
-    "has_fulltext": true
    }
   ],
   "AI_TECH": [
+   {
+    "id": "90a6d2c6-7d25-5c08-bbe3-f85c6ca1f127",
+    "title": "Crypto giant Binance hit by hack suspected to be largest in history",
+    "simplified_title": "Binance hit by record $6.3 billion crypto hack, North Korea suspected",
+    "quick_summary": "Binance, the world's biggest cryptocurrency exchange, says about US$6.3 billion in digital assets were hit in what looks like the largest crypto hack ever, with analysts pointing to a North Korean hacking unit.",
+    "simplified_body": "Binance, the world's largest crypto exchange, says about US$6.3 billion (roughly A$8.9 billion) in digital assets were affected by a hack. Early checks suggest an attacker got into an engineer's compromised laptop and made unauthorised withdrawals from \"hot wallets\". About half the money, roughly US$3 billion, has been frozen. The rest is still with the hackers. Binance has paused deposits and withdrawals and says it will cover all losses.\n\nThe hack affects Binance.com, which has more than 300 million registered users worldwide. Binance.US, a separate service for American residents, says it wasn't hit. Stablecoin issuers Tether and Circle say they've frozen about US$2.4 billion between them. The price of Bitcoin fell around 4 to 5 per cent after the news, and other major coins like Ethereum and Solana also dropped.\n\nTwo analytics firms, TRM Labs and Chainalysis, have linked the attack to TraderTraitor, a North Korean hacking unit tied to the Lazarus Group. The previous record was the US$1.5 billion Bybit hack in 2025, which was also blamed on North Korea. Western security agencies have said stolen crypto helps fund North Korea's nuclear weapons and missile programs. North Korea has denied involvement in past hacks.\n\nNext, investigators will keep tracing the stolen funds, and Binance has promised a detailed technical post-mortem once its investigation is finished. Experts are also asking whether artificial intelligence (AI) tools helped the hackers, and whether traders will move away from big centralised exchanges.",
+    "why_it_matters": "Plenty of Australians hold crypto on big exchanges like Binance, and Australian experts warn that assets on a centralised exchange are only as safe as the exchange itself. The money may also bankroll North Korea's weapons programs, which makes this a regional security issue as well as a theft.",
+    "deep_analysis": "## Historical Context\nCrypto exchanges have been hit by hacks for years. One Australian academic calls it \"one of the themes of the industry\". The previous record was the February 2025 theft of about US$1.5 billion from Bybit, which was blamed on North Korea's Lazarus Group. TRM's 2026 Crypto Crime Report counted US$2.87 billion stolen in nearly 150 hacks across 2025. That means this single incident is reportedly bigger than that whole year's total. Binance was founded in China in 2017 and has faced regulatory scrutiny around the world.\n\n## Multiple Perspectives\n- **Binance** says user funds are \"completely safe\", that it found no evidence of a private key leak, and that it will cover all losses.\n- **TRM Labs and Chainalysis** both attribute the hack to TraderTraitor with high confidence. TRM's Ari Redbord calls it a global security issue, not just a crypto theft. Binance hasn't directly commented on the North Korea link.\n- **North Korea** has denied involvement in hacks in the past.\n- **Australian experts** see it differently from each other:\n  - RMIT's Chris Berg notes that freezes and the difficulty of cashing out mean not everything targeted will actually be lost. He also asks whether AI advances made this attack possible.\n  - Macquarie University's Sean Foley warns that the hack could knock retail investors' confidence and push traders towards decentralised platforms.\n- **The numbers vary a little between sources.** Reports describe US$6.3 billion as either \"impacted\" or \"stolen\". The frozen amount is put at \"about half\" or \"more than US$3 billion\".\n\n## What to Watch\n- How much of the stolen money is recovered or frozen.\n- Binance's technical post-mortem.\n- Whether Binance can actually cover all the losses.\n- Any confirmation of the North Korea link from law enforcement.\n- How regulators react.\n- Whether AI-assisted hacking becomes a wider pattern.",
+    "concepts": [
+     {
+      "term": "hot wallets",
+      "definition": "Crypto wallets that stay connected to the internet so trades can happen quickly.",
+      "context": "The stolen funds appear to have been moved out of Binance's hot wallets, which are handy for everyday trading but more exposed to attack."
+     },
+     {
+      "term": "Lazarus Group",
+      "definition": "A state-backed North Korean hacking group blamed for many large crypto thefts.",
+      "context": "TraderTraitor, the unit blamed for this hack, has been linked by investigators to the Lazarus Group, which was also blamed for the 2025 Bybit hack."
+     },
+     {
+      "term": "Stablecoin",
+      "definition": "A cryptocurrency designed to keep a steady value, usually pegged to the US dollar.",
+      "context": "Tether and Circle issue the stablecoins USDT and USDC. Because they control those coins, they could freeze about US$2.4 billion linked to the hack."
+     }
+    ],
+    "quiz": {
+     "question": "Why was a large chunk of the stolen money able to be frozen?",
+     "options": [
+      "North Korea agreed to return the funds",
+      "Binance.US blocked all transfers",
+      "Bitcoin automatically reverses suspicious transactions",
+      "Stablecoin issuers like Tether and Circle can freeze the tokens they issue"
+     ],
+     "answer_index": 3,
+     "explanation": "Companies that issue stablecoins, such as Tether (USDT) and Circle (USDC), can freeze their tokens. Together they froze about US$2.4 billion linked to the hack."
+    },
+    "background_beginner": "Cryptocurrencies like Bitcoin are digital money that people buy and trade online, usually through big websites called exchanges. Binance is the largest of these. It started in China in 2017 and now has hundreds of millions of users. Because exchanges hold huge piles of digital money in one place, hackers love targeting them. In recent years, investigators have repeatedly blamed North Korean government-backed hackers for the biggest thefts, saying the money helps pay for weapons. North Korea denies this. The topic keeps coming up because each major hack shakes trust in crypto, moves prices, and raises questions about how safe these platforms really are.",
+    "impact_score": 78,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "Binance, the world's biggest cryptocurrency exchange, says about US$6.3 billion in digital assets were hit in what looks like the largest crypto hack ever, with analysts pointing to a North Korean hacking unit.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-30/largest-cryptocurrency-hack-billions-stolen-binance/107327732"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-30T07:18:18.817008+00:00",
+    "published_date": "2026-10-30",
+    "has_fulltext": true
+   },
    {
     "id": "8c2b781d-7d14-577b-bf17-cd85475f7b64",
     "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
@@ -1743,64 +1827,6 @@
     "related_story_ids": [],
     "reading_minutes": 4,
     "created_at": "2026-10-29T07:15:52.163704+00:00",
-    "published_date": "2026-10-29",
-    "has_fulltext": true
-   },
-   {
-    "id": "f46693e9-203c-5bee-89ed-5f3d11e48ef6",
-    "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-    "simplified_title": "Delaware plan to let AI agents run companies draws congressional probe",
-    "quick_summary": "A Delaware proposal to create AI-run companies has prompted US Rep. James Comer to demand documents, warning it could let owners dodge responsibility for harm caused by AI.",
-    "simplified_body": "Delaware is considering a new type of business called an Artificial Intelligence Company (AIC), where AI agents could be put in charge of managing and running the business. US Rep. James Comer, a Republican from Kentucky who chairs the House Committee on Oversight and Government Reform, has written to Delaware Governor Matt Meyer asking for documents about how the plan was developed and what AI safety risks were considered.\n\nComer's worry is accountability. He says the AIC proposal could shield powerful AI companies and their investors from responsibility for reckless, harmful actions taken by the AI. He also raised concerns about \"non-transparent forces\" pursuing anticompetitive regulatory capture behind state AI initiatives.\n\nSome background: Delaware is already a top place to register businesses of all sizes, and AI-run companies would bring the state more money through taxes and fees. Under a draft bill that may go to the Delaware State Legislature, an AIC could have any lawful purpose, profit-making or not, except banking. The idea would first be tested in a \"regulatory sandbox\" lasting 30 months.\n\nWhat's next? Comer says his committee's probe could inform federal laws, including proposals to limit how far states can go in regulating AI. Delaware's draft bill hasn't been formally introduced yet, so both the state proposal and any federal response are still taking shape.",
-    "why_it_matters": "It raises a big new question: who is legally to blame when software, not a person, runs a business? Many companies operating in Australia are Delaware-registered, so how this plays out could shape the global debate on AI accountability.",
-    "deep_analysis": "## Historical Context\nAs general background, Delaware has long been the favourite home for US incorporations thanks to its business-friendly laws and specialised courts, and corporate registration fees are a major revenue source for the state. The AIC proposal fits that pattern of competing for new kinds of business entities. Meanwhile, US states and the federal government have been tussling over who should regulate AI.\n\n## Multiple Perspectives\nComer argues the plan could let owners and investors evade responsibility for harmful AI actions and may serve hidden interests seeking regulatory capture. Supporters of the idea, implied by the draft bill's design, see a 30-month regulatory sandbox as a controlled way to test AI-run companies, while Delaware would gain tax and fee revenue. Excluding banking suggests drafters see some sectors as too risky.\n\n## What to Watch\n- Whether Governor Meyer's administration hands over the requested documents.\n- Whether the draft bill is actually submitted to the Delaware State Legislature.\n- Any federal bill from Comer to limit state AI regulation.\n- How liability for AI agents' actions would be defined if AICs proceed.",
-    "concepts": [
-     {
-      "term": "AI agents",
-      "definition": "AI software that can take actions and make decisions on its own to complete tasks, not just answer questions.",
-      "context": "Under the draft bill, AI agents could be designated to manage and conduct an AIC's business."
-     },
-     {
-      "term": "regulatory sandbox",
-      "definition": "A limited trial period where a new idea can be tested under relaxed or special rules before being fully approved.",
-      "context": "Delaware's draft bill proposes a 30-month sandbox to test AI-run companies."
-     },
-     {
-      "term": "regulatory capture",
-      "definition": "When the rules meant to control an industry end up shaped to benefit powerful players in that industry.",
-      "context": "Comer warned that hidden forces may be seeking anticompetitive regulatory capture through state AI initiatives."
-     }
-    ],
-    "quiz": {
-     "question": "What is Rep. Comer's main concern about Delaware's AIC proposal?",
-     "options": [
-      "It would cut Delaware's tax revenue",
-      "It would let AI companies run banks",
-      "It would ban AI from being used by businesses",
-      "It could help owners avoid legal responsibility for harm caused by AI"
-     ],
-     "answer_index": 3,
-     "explanation": "Comer says the plan could protect AI companies and investors from responsibility for reckless harmful actions. Banking is actually excluded, and the plan would raise Delaware's revenue."
-    },
-    "background_beginner": "Delaware is a small US state where a huge number of companies choose to officially register, because its business laws and courts are seen as friendly and predictable. Now Delaware is floating a new kind of company that could be run by AI software instead of human managers. That has alarmed James Comer, a senior Republican in the US Congress, who worries nobody would be held responsible if the AI causes harm. This fits a bigger, ongoing fight: AI is advancing fast, and US states and the national government keep clashing over who gets to set the rules and how strict those rules should be.",
-    "impact_score": 62,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "A Delaware proposal to create AI-run companies has prompted US Rep. James Comer to demand documents, warning it could let owners dodge responsibility for harm caused by AI.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-10-28T23:21:20.874865+00:00",
     "published_date": "2026-10-29",
     "has_fulltext": true
    }
