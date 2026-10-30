@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-30T14:19:57.876690+00:00",
+ "generated_at": "2026-10-30T23:03:07.706729+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -61,64 +61,6 @@
     "reading_minutes": 4,
     "created_at": "2026-10-30T14:20:33.069407+00:00",
     "published_date": "2026-10-31",
-    "has_fulltext": true
-   },
-   {
-    "id": "3cfe8f4e-45e0-5d5e-af76-e949c31f0edc",
-    "title": "‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws",
-    "simplified_title": "Australia moves to ban AI chatbots that fake emotional closeness with kids",
-    "quick_summary": "The federal government's digital duty of care bill, which now bans AI chatbots from fostering children's emotional dependence, has passed the lower house and heads to a divided Senate.",
-    "simplified_body": "The federal government's digital duty of care bill passed the House of Representatives on Wednesday. It would put an overarching obligation on social media, games, apps and chatbots to provide a safe online environment. Labor accepted amendments from crossbencher Kate Chaney that require platforms to ban material or conduct that simulates emotional intimacy and encourages a child's dependence on it in place of human relationships. Platforms would also have to offer an algorithm opt-out that is easy to find and use.\n\nThe laws would affect big tech companies and everyday Australians, especially kids. Prime Minister Anthony Albanese said stories of people calling a chatbot their best friend should be a wake-up call. Communications Minister Anika Wells has suggested content promoting misogyny, terrorism, suicide, self-harm and eating disorders would be covered. The Coalition and One Nation voted against the bill, calling it Orwellian censorship, which Wells strongly denied.\n\nA duty of care means a legal responsibility to take reasonable steps to keep people safe. This bill would replace a patchwork of existing online codes with that one broad obligation. Right now there's no independent watchdog for complaints about big tech, unlike for phone and internet providers.\n\nThe bill now goes to the Senate, where the Greens support it but want it strengthened, including the right to sue platforms and bigger penalties. A Greens-led inquiry reports in late November. The Greens will also push to let the telecommunications industry ombudsman handle complaints about social media and AI, an idea Independent MP Sophie Scamps proposed and Labor rejected in the lower house. The government hopes to pass the bill by the end of 2026.",
-    "why_it_matters": "Australia already leads the world on regulating kids' online safety, and this would be one of the first laws anywhere to target AI chatbots building emotional bonds with children. It could also change how easily Australians can complain when big tech lets them down.",
-    "deep_analysis": "## Historical Context\nAs background, Australia has been an early mover on online safety, creating an eSafety Commissioner and pursuing age limits for social media. The digital duty of care bill shifts the approach from many specific codes to one broad obligation on platforms, putting the onus on them to make things safe.\n\n## Multiple Perspectives\nThe government frames the bill as essential protection, with Albanese making an emotional plea to the Coalition. The Coalition and One Nation call it Orwellian censorship. The Greens back it but say it's too weak, wanting private legal action and higher penalties. Telecommunications industry ombudsman Cynthia Gebert praises the duty of care but warns that without an external complaints body, people are left with automated responses and escalations that go nowhere. She says such a scheme could be funded by big tech.\n\n## What to Watch\n- The Greens' Senate inquiry report in late November.\n- Whether Labor wins Coalition support through amendments or relies on the Greens and crossbench.\n- Whether an ombudsman role for big tech gets added in Senate negotiations.\n- How emotional intimacy by chatbots is defined and enforced in practice.",
-    "concepts": [
-     {
-      "term": "duty of care",
-      "definition": "A legal responsibility to take reasonable steps to keep people safe from harm.",
-      "context": "The bill places a broad duty of care on tech platforms instead of many separate rules."
-     },
-     {
-      "term": "telecommunications industry ombudsman",
-      "definition": "An independent body that resolves complaints people can't sort out with their phone or internet provider.",
-      "context": "Some want its powers expanded to cover social media and AI complaints."
-     },
-     {
-      "term": "algorithm opt-out",
-      "definition": "A setting that lets users turn off the automated system that picks suggested content for them.",
-      "context": "The bill requires platforms to make this opt-out prominent and easy to use."
-     }
-    ],
-    "quiz": {
-     "question": "What is the main gap the telecommunications industry ombudsman says the bill leaves?",
-     "options": [
-      "It bans all social media for children",
-      "It has no penalties for harmful content",
-      "There's no external place to take complaints platforms won't resolve",
-      "It doesn't cover chatbots at all"
-     ],
-     "answer_index": 2,
-     "explanation": "Cynthia Gebert supports the duty of care but says people need somewhere independent to go when platforms don't fix their complaints."
-    },
-    "background_beginner": "Governments around the world are wrestling with how to keep people, especially kids, safe online. In Australia, the main players are the Labor government, which wrote this bill; the Coalition opposition, which opposes it; the Greens and independent MPs, who hold sway in parliament; and big tech companies that run social media and AI chatbots. Worries have grown about harmful content, addictive feeds and, more recently, AI chatbots that act like friends. The topic keeps coming up because technology changes faster than laws, and people disagree about where safety ends and censorship begins.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/b3e44fb72cc705d89a54b8eb9719b50630ca675c/549_0_5485_4388/master/5485.jpg?width=1920&quality=85&auto=format&fit=max&s=856eab4ffcaa4d034d049d00d96737ff",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "The federal government's digital duty of care bill, which now bans AI chatbots from fostering children's emotional dependence, has passed the lower house and heads to a divided Senate.",
-    "tier": "LOCAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-10-29T14:29:58.563901+00:00",
-    "published_date": "2026-10-30",
     "has_fulltext": true
    },
    {
@@ -249,6 +191,64 @@
     "reading_minutes": 2,
     "created_at": "2026-10-29T23:24:55.626450+00:00",
     "published_date": "2026-10-30",
+    "has_fulltext": true
+   },
+   {
+    "id": "a62b09c6-1839-58d1-a33b-c74dbfc81049",
+    "title": "Morgue, mould and privacy breach push NT health crisis to new levels",
+    "simplified_title": "NT health system hit by morgue smell, mould, assaults and privacy breach",
+    "quick_summary": "A rough week for Northern Territory health saw an overflowing morgue, mould at two facilities, assaults on hospital staff and a botched privacy breach response, prompting the opposition to call for the Health Minister to resign.",
+    "simplified_body": "The Northern Territory's (NT) health system had a messy week. At Royal Darwin Hospital, staff in the pathology building say the smell from a nearby overflowing morgue is making them physically sick. The Health Services Union (HSU) says some can't come to work, and staff have been given air fresheners and masks. The HSU also raised long-term mould at the Casuarina Plaza health facility, which came back despite deep cleans, and at Alice Springs Hospital.\n\nOn top of that, six staff at Katherine Hospital's emergency department were allegedly punched, kicked and bitten on Sunday. Health Minister Steve Edgington said he only learned about it on Wednesday, and only learned about the Alice Springs mould on Tuesday.\n\nThe biggest stumble was a privacy breach affecting pregnant women at Royal Darwin Hospital. NT Health first said five women were affected, but the ABC had already identified 12, and NT Health later agreed the number was 12. Some women only found out because the ABC contacted them. Mr Edgington apologised and referred the matter to police and the NT information commissioner, but one affected woman said waiting two weeks wasn't being \"on the front foot\".\n\nOpposition Leader Selena Uibo has called on Mr Edgington to stand down, also citing the government's diphtheria outbreak response. He hit back, calling her a \"failed health minister\" from the previous Labor government. Labor looks set to make health its main issue before the 2028 NT election, including promising a new Darwin hospital, possibly at Berrimah Barracks.",
+    "why_it_matters": "Territorians rely heavily on a small number of public hospitals, so problems with staff safety, building conditions and patient privacy hit hard, and health is shaping up as the key battleground for the 2028 NT election.",
+    "deep_analysis": "## Historical Context\nThe Country Liberal Party (CLP) government has held power for about two years, replacing Territory Labor, in which Selena Uibo served as health minister. As general background, NT health services face long-standing pressures from remoteness, a small tax base and high demand. The NT also carries record debt, and the federal government has shown little enthusiasm for funding a new Darwin hospital.\n\n## Multiple Perspectives\n- **Health Services Union:** Says staff are being exposed to unacceptable conditions and warnings, such as mould at Alice Springs, were ignored.\n- **Minister Edgington:** Apologised over the privacy breach, says NT Health has been proactive, and has told the chief executive to act, including considering other premises. He blames Labor's years in power for the system's state.\n- **Opposition Labor:** Calls the minister's record \"mismanagement and incompetence\" and wants him to resign.\n- **Affected women:** Some say they felt furious, afraid and distressed, and reject the claim NT Health was on the front foot.\n\n## What to Watch\n- Outcomes of police and information commissioner inquiries into the privacy breach.\n- Whether staff are moved out of mould-affected buildings and morgue capacity is fixed.\n- Whether Labor formally commits to a new Darwin hospital and how it would be funded.",
+    "concepts": [
+     {
+      "term": "Health Services Union (HSU)",
+      "definition": "A trade union representing health workers.",
+      "context": "It raised the morgue smell and mould problems on behalf of staff."
+     },
+     {
+      "term": "privacy breach",
+      "definition": "When people's personal information is accessed or shared without proper authority.",
+      "context": "Records of 12 pregnant women at Royal Darwin Hospital were affected."
+     },
+     {
+      "term": "NT information commissioner",
+      "definition": "An independent official overseeing privacy and information access rules in the Northern Territory.",
+      "context": "The breach was referred to this office for investigation."
+     }
+    ],
+    "quiz": {
+     "question": "Why did many people criticise NT Health's handling of the privacy breach?",
+     "options": [
+      "It deleted all the affected files",
+      "It blamed the women for the breach",
+      "It undercounted those affected and some women learned of it from journalists first",
+      "It refused to apologise at all"
+     ],
+     "answer_index": 2,
+     "explanation": "NT Health first said five women were affected when it was 12, and some only found out after the ABC contacted them."
+    },
+    "background_beginner": "The Northern Territory is a large, sparsely populated part of Australia with its own government. It runs public hospitals like Royal Darwin, Alice Springs and Katherine through a department called NT Health. The Country Liberal Party currently governs, after taking over from Labor about two years ago. Health keeps making headlines because hospitals are stretched, buildings are ageing, and staff face difficult conditions. Unions speak up for workers, journalists dig into problems, and the opposition uses each slip-up to argue the government is failing. With an election due in 2028, both sides are fighting over who can fix the system.",
+    "impact_score": 42,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/ce2e47e087e1762e17e676c3ccde0356?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=284&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "A rough week for Northern Territory health saw an overflowing morgue, mould at two facilities, assaults on hospital staff and a botched privacy breach response, prompting the opposition to call for the Health Minister to resign.",
+    "tier": "LOCAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-31/analysis-nt-health-morgue-mould-rdh-privacy-breach-clp-labor/107328216"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-30T23:03:42.477308+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    },
    {
@@ -385,68 +385,6 @@
     "has_fulltext": true
    },
    {
-    "id": "732edbca-e226-52b7-87ac-987c00cb62c2",
-    "title": "Hong Kong leader apologises and housing minister resigns after fire investigation exposes failures",
-    "simplified_title": "Hong Kong leader apologises as housing chief quits over deadly tower fire",
-    "quick_summary": "Hong Kong's leader John Lee has apologised and his housing secretary has resigned after an independent report blamed cost-cutting contractors and weak government oversight for the Wang Fuk Court fire that killed 168 people.",
-    "simplified_body": "Hong Kong Chief Executive John Lee and several top officials bowed in apology on Thursday for the November 2025 fire at Wang Fuk Court in the Tai Po district, which killed 168 people. Housing Secretary Winnie Ho resigned to take political responsibility, although no personal wrongdoing by her was found. An independent committee's report found the fire was most likely started by a cigarette, probably dropped by construction workers.\n\nThe complex housed about 4,600 people, and nearly 40% were 65 or older. Most deaths came from smoke inhalation rather than burns. The report said the main contractor, Prestige Construction & Engineering, and consultant Will Power Architects cut corners. They used scaffolding nets that weren't fire retardant, covered windows with flammable foam boards, swapped staircase windows for panels that let smoke into escape routes, and had the fire alarm shut down. The report also found that some professionals simply lent their names to \"rubber-stamp\" safety paperwork for a fee.\n\nRegulators didn't escape blame. The Housing Bureau's independent checking unit and the Buildings Department failed to properly investigate complaints, and the checking unit even warned contractors before inspections. The report described \"decades of failure\" by government bodies and \"widespread, systematic and long-standing\" dodgy practices in construction, including bid-rigging, sometimes involving people linked to local mafias.\n\nNext, four government agencies face a three-month investigation into whether staff neglected their duties. The checking unit will be replaced, and Lee promised to make bid-rigging a crime with long jail terms and heavy fines. Separately, seven people and both companies have been charged with offences including manslaughter and conspiracy to defraud. Officials have also floated using AI and drones with infra-red cameras to spot smokers on building sites.",
-    "why_it_matters": "Many Hong Kongers live in similar ageing high-rises, so this report tests whether the government can fix systemic safety failures. For Australians, it echoes our own debates over flammable building materials and how much regulators should trust builders to self-certify.",
-    "deep_analysis": "## Historical Context\nThe fire was Hong Kong's deadliest in decades, engulfing seven buildings in a 1980s-era complex that was under a renovation contract worth more than 300 million Hong Kong dollars (over US$38 million). An earlier France 24 report cited a death toll of 151 when Lee first ordered the probe; the final figure is 168, including firefighter Ho Wai-ho. As background, major building fires elsewhere, such as London's Grenfell Tower in 2017, have also exposed flammable materials and weak oversight.\n\n## Multiple Perspectives\nThe committee put the heaviest blame on the private contractor and consultant, calling them the \"main culprits\". It also argued that the deception worked only because regulators relied on the good faith of the companies they were meant to police. The government has accepted political responsibility, but critics may ask whether one resignation without findings of personal wrongdoing is enough accountability. Residents have waited nearly a year for answers.\n\n## What to Watch\n- Outcomes of the three-month probe into the four agencies (Housing Bureau's checking unit, Buildings, Fire Services and Labour departments).\n- The criminal trials for manslaughter and fraud.\n- Legislation criminalising bid-rigging and its penalties.\n- Whether surveillance ideas like AI and drones actually get rolled out.",
-    "concepts": [
-     {
-      "term": "bid-rigging",
-      "definition": "When companies secretly coordinate their bids for a contract so a chosen firm wins, often at inflated prices.",
-      "context": "The report found bid-rigging in Hong Kong's construction sector, and the government plans to make it a crime."
-     },
-     {
-      "term": "fire retardant",
-      "definition": "Treated or made so it resists catching fire and slows flames from spreading.",
-      "context": "The scaffolding nets at Wang Fuk Court were not fire retardant, helping the fire spread."
-     },
-     {
-      "term": "rubber-stamp",
-      "definition": "To approve something automatically without actually checking it.",
-      "context": "Some professionals were paid to sign safety forms without doing any real work."
-     }
-    ],
-    "quiz": {
-     "question": "Why did the committee say government regulators shared blame, even though contractors deceived them?",
-     "options": [
-      "Regulators approved the cigarette smoking on site",
-      "Regulators relied on contractors' good faith and gave warnings before inspections, letting hazards go unchecked",
-      "Regulators started the fire themselves",
-      "Regulators chose the contractor for the project"
-     ],
-     "answer_index": 1,
-     "explanation": "The report said deception succeeded because regulators' own practices, like trusting the companies and pre-notifying inspections, enabled it."
-    },
-    "background_beginner": "Hong Kong is a crowded city where most people live in tall apartment towers, many of them decades old. These buildings need regular repairs, which owners pay contractors to carry out while government departments are meant to check the work is safe. In November 2025, a fire broke out at Wang Fuk Court, a complex being renovated, and spread across seven buildings, killing 168 people, many of them elderly. An independent inquiry has now found that contractors cut corners and that government checkers didn't do their jobs properly. The story keeps coming up because it raises questions about safety, corruption and accountability that affect millions of residents.",
-    "impact_score": 62,
-    "image_url": "https://s.france24.com/media/display/2b2175bc-d383-11f1-88d2-811458fcf026/w:1280/p:16x9/000-D4RL864.jpg",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "Hong Kong's leader John Lee has apologised and his housing secretary has resigned after an independent report blamed cost-cutting contractors and weak government oversight for the Wang Fuk Court fire that killed 168 people.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20261029-hong-kong-leader-apologises-and-housing-minister-resigns-after-fire-investigation-exposes-failures"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr5yn9770pgvo"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-10-29T14:30:16.512630+00:00",
-    "published_date": "2026-10-30",
-    "has_fulltext": true
-   },
-   {
     "id": "986042e0-9c9e-53df-bea5-20b82519d0e2",
     "title": "North Korea displays drones, missiles as Kim urges AI weapons push",
     "simplified_title": "North Korea shows off attack drones as Kim pushes AI weapons",
@@ -509,6 +447,69 @@
     ],
     "reading_minutes": 3,
     "created_at": "2026-10-30T14:20:36.254025+00:00",
+    "published_date": "2026-10-31",
+    "has_fulltext": true
+   },
+   {
+    "id": "b8da8f04-cafd-555e-ab19-4acaf514052e",
+    "title": "China conducts combat readiness patrols around disputed shoal in South China Sea",
+    "simplified_title": "China steps up military patrols around disputed Scarborough Shoal",
+    "quick_summary": "China's navy, air force and coast guard patrolled around Scarborough Shoal in the South China Sea, calling it a response to unspecified Philippine \"provocative acts\".",
+    "simplified_body": "On Friday 30 October, China's military said its naval and air forces carried out \"combat readiness patrols\" around Scarborough Shoal, a disputed patch of reefs in the South China Sea. The People's Liberation Army (PLA) Southern Theater Command said it had strengthened these patrols this month. The China Coast Guard also ran separate \"law-enforcement patrols\" there the same day.\n\nChina called the patrols a \"necessary countermeasure\" to the Philippines' \"rights-violation and provocative acts\", but didn't say which actions it meant. The Philippine embassy in Beijing and the Philippine military didn't immediately respond. The move came just after a two-day Association of Southeast Asian Nations (ASEAN) defence meeting, where Beijing accused an unnamed Philippine politician of blocking its participation. Manila said China had been given a chance to state its position.\n\nSome background: China claims almost the entire South China Sea using a \"nine-dash line\" on its maps. That line cuts into the exclusive economic zones of Malaysia, Vietnam, the Philippines, Brunei and Indonesia. In 2016, an international arbitral tribunal ruled China's sweeping claims have no basis under international law. Beijing rejects that ruling.\n\nWhat's next? China says the patrols aim to boost its \"control and management\" over the area's waters and airspace, so more patrols look likely. Watch for Manila's official response and whether tensions spill into future regional meetings.",
+    "why_it_matters": "The South China Sea carries a huge share of the shipping trade that Australia relies on, so rising tension between China and the Philippines affects regional stability right on our doorstep.",
+    "deep_analysis": "## Historical Context\nAs background: Scarborough Shoal has been a flashpoint since China took effective control of it after a 2012 standoff with the Philippines. The Philippines later brought a case that led to the 2016 arbitral tribunal ruling, which found China's nine-dash line claims had no basis under international law. China rejected the ruling and has continued to patrol the area.\n\n## Multiple Perspectives\n**China** frames the patrols as defensive \"countermeasures\" to Philippine \"rights-violation and provocative acts\", though it gave no specifics. **The Philippines** hadn't responded at the time of reporting, but at the ASEAN meeting Manila pushed back on Beijing's claim it was obstructed, saying China was given a chance to speak. **Other claimants** such as Malaysia, Vietnam, Brunei and Indonesia also have zones overlapped by the nine-dash line, so they're watching closely.\n\n## What to Watch\n- Whether Manila issues a formal protest or details what China is reacting to.\n- How often the \"strengthened\" patrols continue, and any close encounters at sea.\n- Whether the spat affects ASEAN diplomacy going forward.\n- Responses from partners like the US and Australia, who generally back freedom of navigation (background).",
+    "concepts": [
+     {
+      "term": "nine-dash line",
+      "definition": "A line on Chinese maps used to claim almost all of the South China Sea.",
+      "context": "It overlaps the sea zones of five Southeast Asian countries and was rejected by the 2016 tribunal."
+     },
+     {
+      "term": "exclusive economic zones",
+      "definition": "Sea areas, generally up to 200 nautical miles from a country's coast, where it has special rights to fish and resources.",
+      "context": "China's claim cuts into the zones of the Philippines and others."
+     },
+     {
+      "term": "arbitral tribunal",
+      "definition": "An independent panel that settles disputes between parties under agreed rules, like international law.",
+      "context": "It ruled in 2016 that China's claims had no legal basis; China rejects this."
+     },
+     {
+      "term": "combat readiness patrols",
+      "definition": "Military patrols designed to show forces are prepared to fight if needed.",
+      "context": "China's navy and air force ran these around Scarborough Shoal."
+     }
+    ],
+    "quiz": {
+     "question": "Why is China's claim over Scarborough Shoal and the wider South China Sea contested?",
+     "options": [
+      "Because China agreed to share the shoal at the ASEAN meeting",
+      "Because a 2016 international tribunal found China's sweeping claims had no basis under international law",
+      "Because the Philippines' coast guard patrols were approved by China",
+      "Because ASEAN officially voted to give the shoal to the Philippines"
+     ],
+     "answer_index": 1,
+     "explanation": "The 2016 arbitral tribunal ruled China's nine-dash line claims lacked legal basis, a ruling Beijing rejects. The other options aren't in the source."
+    },
+    "background_beginner": "The South China Sea is a busy stretch of ocean between China and Southeast Asia, rich in fish and possibly oil and gas, and crossed by major shipping routes. China claims nearly all of it, but the Philippines, Vietnam, Malaysia, Brunei and Indonesia say parts of it belong to them. Scarborough Shoal, a cluster of reefs close to the Philippines, is one of the hottest spots. In 2016 an international court-like panel sided against China's broad claims, but China ignored the decision. Since then, ships and planes from both sides keep running into each other, so the issue regularly flares up in the news.",
+    "impact_score": 45,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--MRHD-wcR--/c_crop,h_450,w_800,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-30T083315Z_1_LYNXNPEM9T0N5_RTROPTP_3_CHINA-SOUTHCHINASEA.JPG?itok=r1td383_",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "China's navy, air force and coast guard patrolled around Scarborough Shoal in the South China Sea, calling it a response to unspecified Philippine \"provocative acts\".",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/china-combat-readiness-patrols-scarborough-shoal-6506366"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-10-30T23:03:43.806711+00:00",
     "published_date": "2026-10-31",
     "has_fulltext": true
    }
@@ -579,72 +580,69 @@
     "has_fulltext": true
    },
    {
-    "id": "fb9180f1-fa27-5646-8dfe-683b66906451",
-    "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-    "simplified_title": "Russian drone kills at least 14 at crowded Dnipro train station",
-    "quick_summary": "A Russian jet-powered drone hit a busy railway platform in the Ukrainian city of Dnipro, killing at least 14 people and wounding 14 more, as a fragile local ceasefire held elsewhere in Oleshky.",
-    "simplified_body": "A Russian jet-powered drone slammed into a crowded platform at Dnipro's main railway station on Thursday, killing at least 14 people and wounding at least 14 others, including an 11-year-old boy. A passenger train bound for Zaporizhzhia was at the platform. Ukraine's air force says it shot down three drones, but a fourth got through. A threat warning had been issued beforehand, but many people were still on the platform.\n\nThe attack hits ordinary Ukrainians hard because, with commercial flights shut down by the war, trains are the country's lifeline for moving people and goods. Ukrzaliznytsia, the state railway operator, says attacks on railway facilities have jumped from 1,206 in 2025 to 1,700 so far this year. Russia says it targets railway infrastructure used for military transport and denies deliberately targeting civilians. Other Russian strikes killed two 15-year-old girls in Chernihiv and people in Kremenchuk, although sources differ on whether two or three died there.\n\nSome background: Russia launched its full-scale invasion of Ukraine in February 2022. Earlier this month, United States (US) President Donald Trump and Russian President Vladimir Putin struck a deal easing some sanctions on Russia, letting Russian diesel reach global markets. Ukrainian President Volodymyr Zelensky criticised that deal again and called for more sanctions from the US, Europe and the Group of Seven (G7) major economies.\n\nMeanwhile, a fragile local ceasefire in the Russian-occupied city of Oleshky, where residents lack food, water and medicine, was holding into a third day. Russia and Ukraine are due to meet with US envoys next month to restart peace talks, though no dates are set and earlier rounds have failed.",
-    "why_it_matters": "Attacks on civilian rail show the war is escalating even as peace talks are planned, and the debate over easing sanctions affects how countries like Australia, which has its own sanctions on Russia, weigh pressure against diplomacy.",
-    "deep_analysis": "## Historical Context\nRussia has struck Ukrainian trains and stations since the first days of its February 2022 full-scale invasion, destroying hundreds of locomotives. Ukrzaliznytsia figures supplied to AFP show 521 locomotives hit since the invasion began, almost 60% of them this year. In September alone, more than 5,800 trains were evacuated because of strike threats. As background, the conflict's roots go back to Russia's 2014 annexation of Crimea and fighting in eastern Ukraine.\n\n## Multiple Perspectives\nUkraine calls the strike deliberate terror against civilians; Prime Minister Sergiy Koretskyi said Russia is \"deliberately hunting civilians\". Zelensky argues sanctions must not be eased while the war continues, directly challenging the Trump-Putin diesel deal. French President Emmanuel Macron called Russia's rejection of broader ceasefire proposals \"intolerable\" and urged \"far more than a localised ceasefire\". Russia's military did not comment publicly but maintains it hits rail infrastructure to disrupt military transport, not civilians. Meanwhile, the Kremlin condemned Ukrainian drone attacks on Moscow during the Russia-Africa Summit; Moscow's mayor said 613 drones were launched overnight, most shot down.\n\n## What to Watch\n- Whether the Oleshky ceasefire holds and aid reaches residents.\n- US-mediated talks next month, where Russia demands more eastern territory and Ukraine says ceding ground equals capitulation.\n- Whether the US, Europe or G7 respond with new sanctions or keep the eased measures.\n- Continued Russian strikes on energy and transport ahead of winter.",
+    "id": "97bf2976-fc43-5927-a382-43995d99ebeb",
+    "title": "Russian society being ‘systematically crushed’ says Novaya Gazeta as newspaper announces closure",
+    "simplified_title": "Russia's famous independent newspaper Novaya Gazeta is shutting down for good",
+    "quick_summary": "Novaya Gazeta, one of the last critical news outlets still working inside Russia, says state pressure has left it no choice but to close, with its Moscow newsroom going dark on 9 November.",
+    "simplified_body": "Novaya Gazeta, a Russian newspaper famous for investigating corruption and human rights abuses, has announced it will permanently close. Its editor-in-chief, Sergei Sokolov, says the Russian authorities and security services forced it out. The paper is being evicted from its Moscow office of three decades by 9 November, its donation platforms have been shut down, and it lost its legal licence to publish back in 2022.\n\nThis matters for Russian readers who relied on it as one of the last critical voices reporting from inside the country, and for its staff. Journalist Oleg Roldugin was arrested earlier this year and charged with \"unlawful access to computerised information\", which carries up to 10 years in prison; he has pleaded not guilty. Sokolov was questioned by police and his home was searched.\n\nSome background: the paper was founded in 1993 after the Soviet Union collapsed, and was partly funded for years by former Soviet leader Mikhail Gorbachev. Six of its journalists have been killed, including Anna Politkovskaya in 2006. Former editor Dmitry Muratov won the 2021 Nobel Peace Prize, but was still labelled a \"foreign agent\" in 2023. After Russia's full-scale invasion of Ukraine in February 2022, new censorship laws required media to call the war a \"special military operation\". Novaya refused, stopped printing, and later kept going with small magazines of 999 copies, which didn't need a licence, while readers used virtual private networks (VPNs) to reach its blocked website.\n\nWhat's next is unclear. Muratov says he doesn't know what will happen, and press head Nadezhda Prusenkova says the journalists will probably try to keep working somehow. A separate, legally distinct outlet, Novaya Gazeta Europe, is run by former staff in exile.",
+    "why_it_matters": "The closure shows how thoroughly independent journalism inside Russia has been squeezed out since the Ukraine invasion, which shapes what Russians, and the rest of the world, can learn about the war and the Kremlin.",
+    "deep_analysis": "## Historical Context\nNovaya Gazeta was founded in 1993 in the post-Soviet opening, with backing from Mikhail Gorbachev. It built its reputation on long-form investigations into corruption, rights abuses and the wars in Chechnya. Six of its journalists were killed, most famously Anna Politkovskaya, shot in her apartment stairwell in October 2006, on Vladimir Putin's birthday. As general background, press freedom in Russia narrowed steadily through the 2000s and 2010s, but the February 2022 invasion of Ukraine brought what DW describes as near-Soviet levels of censorship. Novaya lost its licence in September 2022, had its website blocked, and Muratov was doused with red paint in an attack US officials attribute to Russian intelligence.\n\n## Multiple Perspectives\nThe paper's staff frame the closure as a deliberate, coordinated strangling by the state. Muratov told the BBC, \"They chose to strangle us,\" and the editorial argues Russian society itself is being \"systematically crushed\". Reporters Without Borders has urged the Kremlin to end the \"judicial harassment\" of its journalists. The Russian state's position, as reflected in the case against Oleg Roldugin, is that this is a criminal matter of unlawful computer access; Roldugin denies the charge. The articles do not include a direct Kremlin response. Former journalist Elena Kostyuchenko called the paper's survival since 2022 both a miracle and a daily act of courage.\n\n## What to Watch\n- Roldugin's trial and whether Sokolov or other staff face charges.\n- Whether former staff find new ways to publish, as Prusenkova suggests they will.\n- The role of exiled outlets such as Novaya Gazeta Europe in reaching Russian audiences.\n- What happens to the Politkovskaya memorial exhibits now in storage.",
     "concepts": [
      {
-      "term": "sanctions",
-      "definition": "Penalties, often trade or financial restrictions, that countries impose to pressure another government.",
-      "context": "Zelensky wants more sanctions on Russia and opposes the recent easing that let Russian diesel be sold."
+      "term": "foreign agent",
+      "definition": "A label the Russian government puts on people and organisations, bringing heavy restrictions, including on earning certain income.",
+      "context": "Muratov was given this label in 2023 despite his Nobel prize; it's often used to punish government critics."
      },
      {
-      "term": "jet-powered drone",
-      "definition": "An uncrewed aircraft driven by a jet engine, making it faster and harder to intercept than propeller drones.",
-      "context": "One of four such drones evaded Ukraine's air defences and hit the Dnipro platform."
+      "term": "special military operation",
+      "definition": "The official Kremlin phrase for the war in Ukraine, which Russian journalists are legally required to use.",
+      "context": "Novaya wrote the word \"war\" as stars to avoid breaking this law."
      },
      {
-      "term": "local ceasefire",
-      "definition": "A temporary pause in fighting limited to one area, rather than the whole war.",
-      "context": "The truce in Oleshky lets humanitarian help in, but fighting continues elsewhere."
+      "term": "virtual private networks (VPNs)",
+      "definition": "Tools that hide where your internet connection comes from, letting you get around website blocks.",
+      "context": "Readers used them to keep reading Novaya's website after Russia blocked it."
      }
     ],
     "quiz": {
-     "question": "Why are attacks on Ukraine's railways especially damaging to everyday life?",
+     "question": "Why did Novaya Gazeta say it finally had no choice but to close?",
      "options": [
-      "Ukraine has no roads",
-      "With commercial flights shut down, trains are essential for moving people and goods and travelling in and out of Ukraine",
-      "Trains carry all of Ukraine's electricity",
-      "Railways are only used by the military"
+      "Dmitry Muratov retired after winning the Nobel Peace Prize",
+      "It merged with Novaya Gazeta Europe",
+      "Its readers stopped being interested in independent news",
+      "A combination of eviction, blocked donations and criminal cases against staff left it unable to operate"
      ],
-     "answer_index": 1,
-     "explanation": "Commercial air travel in Ukraine is shut down, so the rail network has become vital for passengers, goods and entering or leaving the country."
+     "answer_index": 3,
+     "explanation": "Staff said the court case, the eviction from their Moscow office and the shutdown of all donation platforms together left them without funding or a home, forcing the closure."
     },
-    "background_beginner": "Russia and Ukraine are neighbours that were both once part of the Soviet Union. In 2014 Russia took Crimea from Ukraine, and in February 2022 it launched a full-scale invasion. Since then, fighting has killed many people and destroyed cities, power stations and transport. Ukraine is led by President Volodymyr Zelensky and is backed by Western countries with weapons and money; Russia is led by Vladimir Putin. Countries like the US, European nations and Australia have used sanctions to pressure Russia. The war keeps making news because attacks on civilians continue, peace talks keep stalling, and big powers disagree over how hard to push Russia.",
+    "background_beginner": "Novaya Gazeta is a Russian newspaper started in 1993, just after the Soviet Union fell apart, when Russia briefly had more freedom of the press. It became known for brave reporting on corruption and abuses by powerful people, which made it a target: several of its reporters were murdered. Its long-time editor Dmitry Muratov won the Nobel Peace Prize in 2021. Under President Vladimir Putin, the government has gradually tightened control over the media, and after Russia invaded Ukraine in 2022, criticising the war became effectively illegal. The paper keeps coming up because it was a symbol of independent journalism surviving in Russia, and its fate shows how far that freedom has shrunk.",
     "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c3f6/live/c8559bf0-d389-11f1-b5f4-fd541fd21001.jpg",
+    "image_url": "https://i.guim.co.uk/img/media/a6b3ac40349761781230e42b4b12f1be82db7244/634_0_4560_3648/master/4560.jpg?width=1920&quality=85&auto=format&fit=max&s=6c08da01eecc023217952dc7818fddf3",
     "region": "Europe incl. UK, Russia-Ukraine",
     "region_code": "EUROPE",
-    "description": "A Russian jet-powered drone hit a busy railway platform in the Ukrainian city of Dnipro, killing at least 14 people and wounding 14 more, as a fragile local ceasefire held elsewhere in Oleshky.",
+    "description": "Novaya Gazeta, one of the last critical news outlets still working inside Russia, says state pressure has left it no choice but to close, with its Moscow newsroom going dark on 9 November.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close"
      },
      {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do"
      },
      {
       "name": "DW",
-      "url": "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf"
+      "url": "https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "d30189ff-6a38-5bdf-9167-96edac892f4b",
-     "d31c63c1-f0b3-5273-9605-793d7030e47e"
-    ],
-    "reading_minutes": 2,
-    "created_at": "2026-10-29T14:30:00.685876+00:00",
-    "published_date": "2026-10-30",
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-30T23:03:45.627799+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    },
    {
@@ -866,65 +864,66 @@
     "has_fulltext": true
    },
    {
-    "id": "315ff6a2-e859-54be-9370-470d95fabca2",
-    "title": "Ship reported on fire off Oman as Iran escalation fears mount",
-    "simplified_title": "Ship on fire in Strait of Hormuz as US-Iran tensions rise",
-    "quick_summary": "A burning ship has been reported off Oman in the Strait of Hormuz, as Iran steps up attacks on shipping and fears grow of fresh US strikes.",
-    "simplified_body": "A ship has been reported on fire in the Strait of Hormuz, about 9 nautical miles (17 kilometres) north of Khasab in Oman. The UK Maritime Trade Operations agency (UKMTO), run by Britain's Royal Navy, didn't give a cause or say whether anyone was hurt. Separately, Iran's Islamic Revolutionary Guard Corps (IRGC) said three tankers hit sea mines and caught fire in the past 24 hours while using an \"unauthorized\" route. It's not known if the burning ship is one of them.\n\nThis matters for anyone who relies on oil and gas, which is basically everyone. The strait is a key route for global energy supplies, and oil exports through it fell again last week, according to shipping data firm Kpler. The Washington Institute for Near East Policy says attacks on ships there are at their highest level since the war began.\n\nSome background: a Middle East war kicked off in February when the US and Israel attacked Iran. Since then, Tehran has tried to control the strait and attack ships it sees as unauthorised, while the US Navy runs its own blockade of Iranian vessels and has escorted tankers through the area. Iran also says it shot down another US drone; that claim hasn't been independently verified.\n\nWhat's next? President Donald Trump is widely seen as weighing fresh strikes on Iran after the US midterm elections on November 3, recently saying \"we may do another little Epic Fury\". A third US aircraft carrier and thousands more troops are heading to the region. Meanwhile, Defense Secretary Pete Hegseth has reportedly fired the Pentagon's top military planner, Lieutenant General Brett Sylvia, with no reason given.",
-    "why_it_matters": "Disruption in the Strait of Hormuz pushes up global oil and gas prices, which can flow through to what Australians pay at the bowser. A wider US-Iran escalation could also shake shipping and markets worldwide.",
-    "deep_analysis": "## Historical Context\nAs general background, the Strait of Hormuz is a narrow chokepoint between Iran and Oman that has long been a flashpoint, including during the 1980s 'Tanker War'. In this conflict, the source says the war began in February with US and Israeli attacks on Iran (dubbed 'Epic Fury'), after which Iran sought to control the strait and the US imposed its own blockade on Iranian vessels.\n\n## Multiple Perspectives\nIran frames its actions as policing 'unauthorized' use of the waterway, and the IRGC claims to have destroyed more than 50 MQ-9 Reaper drones plus 14 of another type. Those claims are unverified, though the US Congressional Research Service says dozens of US aircraft and drones have been reported lost or damaged. The UKMTO is more cautious, giving no cause for the latest fire. In Washington, Trump hints at more strikes, while the reported firing of Lt Gen Brett Sylvia, following the forced retirement of his predecessor Lt Gen Joseph McGee, raises questions about stability in military planning.\n\n## What to Watch\n- Whether the burning ship is confirmed as one of the mined tankers, and the crew's fate.\n- US moves after the November 3 midterms, as a third carrier arrives.\n- Kpler data on oil flows and any knock-on effect on fuel prices.\n- Official confirmation of Sylvia's departure and who replaces him.",
+    "id": "81a14a1d-600e-5120-9f0a-ff82714d6222",
+    "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
+    "simplified_title": "Yemen's Taiz running out of water and food under Houthi siege",
+    "quick_summary": "The governor of Taiz, Yemen's third-largest city, says a month-long tightening of the Houthi siege is cutting off water, food, medicine and fuel, though the Houthi leader denies any siege exists.",
+    "simplified_body": "Nabil Shamsan, governor of Taiz, Yemen's third city, has urged the world to help lift what he describes as a month-long siege by the Houthis. He says the city needs about 35,000 cubic metres of water a day but only around 1,000 is getting through, with shipments stopped at Houthi roadblocks. Food stocks are depleted, wheat prices are soaring, restaurants have shut for lack of fuel and rubbish is piling up in the streets.\n\nMore than 800,000 people live in the city. Shamsan says up to 1,800 people needing dialysis can't get supplies, 120 health centres have been suspended and schools have closed. He reports 64 people killed and 173 injured from August to 20 October 2026, and more than 6,400 newly displaced families arriving. Houthi leader Abdul-Malik Badr al-Din al-Houthi disputes all this, saying the way is open for food, medicine and aid.\n\nThe Houthis are an armed movement that controls much of Yemen. Shamsan accuses them of fighting a war over identity, saying people in areas they capture must show loyalty to the Zaydi religion, school curricula are being changed and children are being forced to the frontlines. Human Rights Watch, an independent rights group, says Taiz has effectively been under siege for 12 years and that the Houthis are again cutting off food, water and medicine.\n\nShamsan says shelling is increasing and mobile networks are disrupted. He wants aid agencies, including the United Nations (UN), given access to deliver supplies, saying statements of solidarity are not enough.",
+    "why_it_matters": "Hundreds of thousands of civilians risk running out of water, food and medical care, and how the world responds will test whether aid can reach people trapped in one of Yemen's longest-running sieges.",
+    "deep_analysis": "## Historical Context\nAs background, Yemen's civil war escalated after the Houthis took the capital Sanaa in 2014, prompting a Saudi-led military intervention in 2015 in support of the internationally recognised government. Human Rights Watch describes the siege of Taiz as 12 years long. The current crisis is a renewed tightening that the governor dates to roughly a month ago.\n\n## Multiple Perspectives\nGovernor Nabil Shamsan describes massacres, near-total Houthi control of roads and a choice to residents \"either to leave or to die\". The Houthi leader directly contradicts this, saying there is no siege and inviting anyone to come and check. Human Rights Watch's Niku Jafarnia sides with the account of a deteriorating situation, accusing the Houthis of disregarding civilian lives. The casualty and supply figures come from the governor and have not been independently confirmed in the source.\n\n## What to Watch\n- Whether UN and other aid agencies gain access to Taiz.\n- Water and medical supply levels, especially for dialysis patients.\n- Increases in shelling or any ground push into the city.\n- Further reports on forced recruitment of children and changes to religious education.",
     "concepts": [
      {
-      "term": "Strait of Hormuz",
-      "definition": "A narrow sea passage between Iran and Oman linking the Persian Gulf to the open ocean.",
-      "context": "A large share of the world's oil and gas shipping passes through it, so trouble there affects global energy prices."
+      "term": "Houthis",
+      "definition": "An armed political and religious movement from northern Yemen that controls large parts of the country.",
+      "context": "The governor says Houthi forces surround Taiz and control the roads in."
      },
      {
-      "term": "sea mines",
-      "definition": "Explosive devices placed in water that blow up when ships hit or pass near them.",
-      "context": "Iran's IRGC says three tankers hit sea mines while using an 'unauthorized' route."
+      "term": "Zaydi",
+      "definition": "A branch of Shia Islam with deep roots in northern Yemen, followed by the Houthi movement.",
+      "context": "Shamsan says people in captured areas must show loyalty to the Zaydi religion."
      },
      {
-      "term": "blockade",
-      "definition": "Using military force to stop ships from entering or leaving certain ports or areas.",
-      "context": "The US Navy is enforcing a blockade of Iranian vessels while escorting other tankers through the strait."
+      "term": "dialysis",
+      "definition": "A medical treatment that filters the blood when a person's kidneys no longer work properly.",
+      "context": "Up to 1,800 people in Taiz need dialysis but can't get supplies."
+     },
+     {
+      "term": "Human Rights Watch",
+      "definition": "An international non-government organisation that investigates and reports on human rights abuses.",
+      "context": "Its Yemen researcher says the Houthis are cutting off food, water and medicine to Taiz."
      }
     ],
     "quiz": {
-     "question": "Why do incidents in the Strait of Hormuz worry countries far from the Middle East?",
+     "question": "Why is it hard to be certain about conditions inside Taiz?",
      "options": [
-      "Because it is a key transit route for global oil and gas supplies",
-      "Because the UK Royal Navy owns the strait",
-      "Because Oman controls world drone production",
-      "Because it is the only route for US aircraft carriers"
+      "The UN has confirmed there is no shortage",
+      "Taiz has no government",
+      "The governor and the Houthi leader give directly opposing accounts of whether a siege exists",
+      "No group has commented on the situation"
      ],
-     "answer_index": 0,
-     "explanation": "The strait is a major chokepoint for energy shipments, so attacks there cut oil exports and can push up prices worldwide."
+     "answer_index": 2,
+     "explanation": "The governor describes a siege and severe shortages, while the Houthi leader says the way is open for aid. Human Rights Watch supports the picture of deterioration, but the specific figures come from the governor."
     },
-    "background_beginner": "The Strait of Hormuz is a narrow stretch of sea between Iran and Oman that a huge amount of the world's oil and gas travels through. The US and Iran have been at odds for decades, and this year it became an open war after the US and Israel attacked Iran in February. Since then Iran has tried to control who sails through the strait, attacking ships it says are unauthorised, while the US blocks Iranian ships and escorts others. Because so much energy passes through, every flare-up there ripples into fuel prices and global politics, which is why it keeps making headlines.",
-    "impact_score": 72,
-    "image_url": "https://static.dw.com/image/79686475_6.jpg",
+    "background_beginner": "Yemen is a poor country at the southern tip of the Arabian Peninsula. For more than a decade it has been torn apart by civil war. On one side are the Houthis, an armed group from the north who took over the capital and much of the country. On the other is the internationally recognised government, backed by Saudi Arabia. Taiz, Yemen's third-biggest city, sits on the frontline and has been surrounded by Houthi forces for years, making it hard to get food, water and medicine in. It keeps making news because each new squeeze on the city puts hundreds of thousands of ordinary people at risk.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/cc1ad0844969a931ba1ce1ff5e13a75aeccd862f/409_0_3155_2524/master/3155.jpg?width=1920&quality=85&auto=format&fit=max&s=c6ee59ec373426af5db5db7b7babe437",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "A burning ship has been reported off Oman in the Strait of Hormuz, as Iran steps up attacks on shipping and fears grow of fresh US strikes.",
+    "description": "The governor of Taiz, Yemen's third-largest city, says a month-long tightening of the Houthi siege is cutting off water, food, medicine and fuel, though the Houthi leader denies any siege exists.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-all-1573-rdf"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
-    "related_story_ids": [
-     "a1953172-37fc-55b9-a715-9bbde7c2c360",
-     "adabd6c4-a1b8-5204-9a50-3b162f5bf191",
-     "d83687dc-daf6-5e1c-87b9-7f98e012cce1"
-    ],
-    "reading_minutes": 2,
-    "created_at": "2026-10-29T14:29:58.675464+00:00",
-    "published_date": "2026-10-30",
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-30T23:03:42.782354+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    }
   ],
@@ -1004,6 +1003,69 @@
     "has_fulltext": true
    },
    {
+    "id": "786ec0c4-fbca-543f-b99c-2120b056d0d5",
+    "title": "More than 43 million ballots cast so far in midterms early voting surge",
+    "simplified_title": "Over 43 million Americans vote early ahead of US midterm elections",
+    "quick_summary": "More than 43 million Americans have already voted early in the US midterms, with Texas, Hispanic communities and Democratic-registered voters showing especially strong turnout.",
+    "simplified_body": "With less than a week until the US midterm elections on Tuesday 3 November, more than 43 million Americans have already cast their ballots. Data from the University of Florida Election Lab shows four to five million early votes are coming in each day, a much faster pace than in most past elections. Overall turnout looks on track to beat 2020 and possibly even 2018, which set a midterm record dating back to 1914.\n\nTexas stands out. It has already passed its 2022 numbers by around 1.75 million voters, with more than 5.8 million ballots cast, and it could decide which party controls the Senate for the rest of Donald Trump's presidency. Hispanic communities, including border counties that are more than 90% Hispanic, are voting at much higher rates than usual. In the roughly half of states that record party affiliation, 44% of early ballots came from registered Democrats, 31.2% from Republicans and 24.7% from unaffiliated voters. Those figures don't reveal who people actually voted for.\n\nMidterms happen halfway through a president's term and decide who controls Congress, the US parliament, for the next two years. Early voting, both in person and by mail, boomed during the Covid pandemic. In 2020, more than two-thirds of all ballots were cast early. Professor Mike McDonald, who runs the database, says voters now increasingly prefer voting early in person, possibly over worries about postal votes, though he notes there's no data confirming why.\n\nEarly voting will taper off as states close it in the days before election day. The real test is whether this surge translates into a shift in control of Congress.",
+    "why_it_matters": "Which party controls the US Congress shapes American policy on trade, defence and climate, all of which ripple through to Australia as a close US ally. It's also an interesting contrast with Australia, where voting is compulsory and turnout surges like this aren't really a thing.",
+    "deep_analysis": "## Historical Context\nThe article notes that 2018 broke a midterm turnout record set in 1914, and that early voting expanded sharply during the Covid pandemic, when more than two-thirds of 2020 ballots were cast early. As general background, US midterms traditionally attract far fewer voters than presidential elections, and they often go against the sitting president's party.\n\n## Multiple Perspectives\nThe data shows more early ballots from registered Democrats and from Hispanic and Black voters, while Republican and white early voting is roughly level with 2022. McDonald links this to which communities tend to back each party's coalition. However, the party data covers only about half of states, unaffiliated voters' choices are unknown, and as general background, Republican voters have in recent years tended to vote more on election day itself, so early figures can overstate Democratic strength.\n\n## What to Watch\n- Whether Texas's surge, especially in Hispanic border counties, shifts control of the Senate.\n- Whether final turnout beats the 2018 record.\n- How many postal ballots are rejected because of errors.\n- Whether the trend towards early in-person voting continues.",
+    "concepts": [
+     {
+      "term": "midterm elections",
+      "definition": "US national elections held halfway through a president's four-year term, deciding who controls Congress.",
+      "context": "These midterms will decide which party runs Congress for the rest of Trump's presidency."
+     },
+     {
+      "term": "Congress",
+      "definition": "The US national law-making body, made up of the House of Representatives and the Senate.",
+      "context": "Control of Congress determines whether the president can pass laws easily."
+     },
+     {
+      "term": "party affiliation",
+      "definition": "A voter officially registering as a supporter of a particular party, used in some states for primary elections.",
+      "context": "This data showed 44% of early ballots came from registered Democrats in states that record it."
+     },
+     {
+      "term": "Early voting",
+      "definition": "Casting a ballot before election day, either in person or by mail.",
+      "context": "More than 43 million people have voted early this time."
+     }
+    ],
+    "quiz": {
+     "question": "Why can't we conclude from the early voting data that Democrats will win?",
+     "options": [
+      "Because party data covers only about half of states and doesn't show who people actually voted for",
+      "Because Republicans cast more early votes",
+      "Because Texas doesn't hold midterms",
+      "Because early votes aren't counted"
+     ],
+     "answer_index": 0,
+     "explanation": "Affiliation data only exists in roughly half of states, unaffiliated voters' choices are unknown, and registration doesn't reveal the actual vote cast."
+    },
+    "background_beginner": "The United States holds national elections every two years. Every four years Americans choose a president; in between come the 'midterms', which decide who controls Congress, the body that makes laws. The two main parties are the Democrats and the Republicans. If the president's party loses Congress, it becomes much harder for them to get things done. Voting isn't compulsory in the US, so turnout varies a lot and both parties work hard to get their supporters out. Early voting, in person or by mail, grew massively during the Covid pandemic, and how many people vote early, and who they are, is now watched closely as a hint of the result.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/2dc0/live/b4358cf0-d3d1-11f1-a701-fddedf244c16.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "More than 43 million Americans have already voted early in the US midterms, with Texas, Hispanic communities and Democratic-registered voters showing especially strong turnout.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-30T23:04:00.025650+00:00",
+    "published_date": "2026-10-31",
+    "has_fulltext": true
+   },
+   {
     "id": "c9a82088-b5ae-5182-b8e8-927eaec5ab92",
     "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
     "simplified_title": "Trump moves to scrap Biden-era rules on oil and gas methane leaks",
@@ -1058,75 +1120,6 @@
     "related_story_ids": [],
     "reading_minutes": 4,
     "created_at": "2026-10-29T23:24:57.266998+00:00",
-    "published_date": "2026-10-30",
-    "has_fulltext": true
-   },
-   {
-    "id": "d1a17887-5f80-5273-8f8d-fb0e30fdb308",
-    "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
-    "simplified_title": "Flávio Bolsonaro loses Brazil election, flees to Miami, claims leadership",
-    "quick_summary": "After losing Brazil's presidential runoff to Lula, far-right senator Flávio Bolsonaro slipped out through Argentina and Ecuador to Miami, then called himself Brazil's 'true president' before toning it down to 'leader of Brazil'.",
-    "simplified_body": "Flávio Bolsonaro, a far-right senator and son of jailed former president Jair Bolsonaro, lost Sunday's presidential runoff to Luiz Inácio Lula da Silva. He vanished for more than 24 hours, crossed by land into Argentina on Tuesday night, then flew by private jet via Guayaquil in Ecuador to Miami, landing on Wednesday morning wearing a bulletproof vest. In a letter he called himself the \"true president\", later deleted it and swapped in \"the leader of Brazil\". He repeated claims of \"electoral fraud\" without evidence and says he \"did not flee Brazil\" but left \"for the sake of Brazil\".\n\nHis own party, Brazil's electoral and supreme courts, and international observers all accept Lula's win, which was by more than four million votes. Brazil's three biggest newspapers called his declaration \"coup-mongering\". Lula called the escape \"shameful\". Brazil's federal police are being criticised for letting him get away.\n\nFlávio faces at least two criminal investigations, including alleged money laundering, which he denies. The Guardian puts that case at about $905m involving betting companies, while the BBC also mentions a probe into nearly $70m sent from Banco Master to a biopic about his father. Authorities cancelled his passports after he missed a deadline to hand them in. The United States (US) gave him and his family visas, and President Donald Trump said \"we gave him a pass\" but won't \"get involved\". Fleeing abroad is a familiar move in his circle: his father spent three months in Florida after losing in 2022, and his brother Eduardo lives in the US.\n\nNext, watch his parliamentary immunity, which ends on 31 January when his Senate term finishes, and whether Brazil tries to bring him back.",
-    "why_it_matters": "It's a live test of whether a defeated politician can reject an election result from abroad with the backing of a friendly foreign government. For Australians, it shows how fragile the peaceful handover of power, something we tend to take for granted, can be elsewhere.",
-    "deep_analysis": "## Historical Context\nAs general background, Brazil was under a military dictatorship from 1964 to 1985, so attacks on election results hit a raw nerve there. More recently, Jair Bolsonaro left for Florida in December 2022 before Lula's inauguration. While he was away, his supporters stormed government buildings and the Supreme Court on 8 January. He was later convicted over an attempted coup and sentenced to 27 years. Eduardo Bolsonaro lobbied US officials over his father's trial, which led to US tariffs on Brazil and sanctions on Brazilian officials, and he has since been convicted in absentia.\n\n## Multiple Perspectives\nFlávio says he is a victim of a coup d'état and political persecution, and that he left to protect his family. Lula and Brazil's institutions say the election was legitimate, and Lula notes \"those who have nothing to hide have nothing to fear\". Trump has been ambivalent. He said he didn't take sides and won't get involved, but he also called it \"a very strange election\" and said the family was treated unfairly. The sources differ slightly on the timeline. The BBC reports early, wrong claims that he had already reached the US, while the Guardian says government figures suspected allies spread those claims on purpose as a distraction.\n\n## What to Watch\n- The loss of his immunity on 31 January.\n- Any request by Brazil to have him sent back.\n- How long his US humanitarian visa status lasts.\n- Any fallout in Argentina over the jet, which reportedly belongs to a businessman linked to a scandal in Milei's government.\n- Whether US–Brazil relations sour further.",
-    "concepts": [
-     {
-      "term": "runoff",
-      "definition": "A second-round vote between the top two candidates when no one wins outright in the first round.",
-      "context": "Flávio won the first round, but Lula won the runoff by more than four million votes."
-     },
-     {
-      "term": "parliamentary immunity",
-      "definition": "Legal protection that shields sitting lawmakers from some prosecutions while they are in office.",
-      "context": "Flávio's immunity ends on 31 January when his Senate term finishes, which could expose him to prosecution."
-     },
-     {
-      "term": "money laundering",
-      "definition": "Disguising money that came from crime so it looks like it came from a legitimate source.",
-      "context": "One of the investigations into Flávio involves an alleged money-laundering scheme linked to betting companies."
-     }
-    ],
-    "quiz": {
-     "question": "Why is Flávio Bolsonaro's claim to be Brazil's leader widely seen as illegitimate?",
-     "options": [
-      "Brazil's courts, his own party and international observers all recognised Lula's win",
-      "Argentina refused to recognise him",
-      "The US government declared Lula the winner",
-      "He never actually ran in the election"
-     ],
-     "answer_index": 0,
-     "explanation": "Lula's victory was confirmed by Brazil's electoral court and supreme court, accepted by Flávio's own party, and endorsed by international observers, so his fraud claims have no official backing."
-    },
-    "background_beginner": "Brazil is South America's biggest country, and its politics have been split between left-wing Lula and the far-right Bolsonaro family. Jair Bolsonaro was president until he lost to Lula in 2022. His supporters then stormed government buildings, and he was later jailed for 27 years over a coup attempt. His son Flávio, a senator, ran for president this time and lost to Lula in a second-round vote. The story keeps coming up because the family keeps disputing election results and leaning on allies like US President Donald Trump, which tests Brazil's democracy and its relationship with the US.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/42124afb15a49939e6544c20b2c8ea9523ee7816/0_0_3000_2000/master/3000.jpg?width=1920&quality=85&auto=format&fit=max&s=156fcbd5b0b352c9d1f968378c775c23",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "After losing Brazil's presidential runoff to Lula, far-right senator Flávio Bolsonaro slipped out through Argentina and Ecuador to Miami, then called himself Brazil's 'true president' before toning it down to 'leader of Brazil'.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "38cf0b08-014e-59b6-ab12-5d5f79a10b6b",
-     "534ff637-863c-582e-9044-8544adff934b",
-     "6c2d6990-cf50-58f6-8593-8d1d6a4899ef",
-     "b140347d-8ea0-51cd-9a95-969a2c0577b7",
-     "bcfade68-2ccd-5755-813b-a1be3244d895",
-     "c2ac342f-c1d8-57b2-a7fb-32a818ac16b5"
-    ],
-    "reading_minutes": 5,
-    "created_at": "2026-10-29T14:30:01.076788+00:00",
     "published_date": "2026-10-30",
     "has_fulltext": true
    }
@@ -1204,123 +1197,123 @@
     "has_fulltext": true
    },
    {
-    "id": "9db7fcfe-8162-5bb0-b4e7-8978fdbb09c2",
-    "title": "Europe’s central bank chief Christine Lagarde to step down nine months early",
-    "simplified_title": "Christine Lagarde to quit European Central Bank job nine months early",
-    "quick_summary": "European Central Bank president Christine Lagarde will step down on 7 February 2027, about nine months before her term ends, kicking off a race to replace her before France's 2027 presidential election.",
-    "simplified_body": "Christine Lagarde, president of the European Central Bank (ECB), will leave the job on 7 February 2027. Her term was meant to run until the end of October 2027. The ECB's governing council gave her a long standing ovation, and in a video message she said she leaves \"an ECB that is fit for the future\". No official reason has been given.\n\nThe ECB sets monetary policy, including interest rates, for the eurozone, so her successor will shape borrowing costs across those countries. The head is chosen by eurozone leaders through the European Council. Its president, Antonio Costa, says the search starts immediately. Names floated include Klaas Knot, Pablo Hernández de Cos, Joachim Nagel and Nadia Calviño.\n\nTiming is the big talking point. France votes for a new president in April/May 2027, and far-right candidate Marine Le Pen could win. Economists like Berenberg's Holger Schmieding say leaving early lets leaders pick a replacement while pro-European Emmanuel Macron is still in office. Lagarde has also been linked to running the World Economic Forum (WEF), the group behind the yearly Davos meeting.\n\nThe ECB kept rates on hold this week, but faces weak growth, above-target inflation and rising energy costs. DW reports it has raised rates twice since June and has a 2.5% deposit rate. France's budget deadlock has pushed its borrowing costs to 25-year highs, sparking talk of the Transmission Protection Instrument (TPI), though most observers think France doesn't yet qualify. Expect a quick, politically charged selection process.",
-    "why_it_matters": "Whoever runs the ECB steers interest rates for one of the world's biggest economies, which ripples into global markets, currencies and trade, including the Australian dollar against the euro.",
-    "deep_analysis": "## Historical Context\nLagarde took over on 1 November 2019, just before Covid. Her tenure covered the pandemic, the Russia-Ukraine war, energy and inflation shocks, Middle East conflict and Donald Trump's trade war. A former French finance minister, she ran the International Monetary Fund from 2011 to 2019. As background, ECB presidents usually serve a single eight-year term, so an early exit is notable.\n\n## Multiple Perspectives\nLagarde and Costa frame her record as steady stewardship. Macron wants an \"orderly and balanced\" succession. Analysts such as Holger Schmieding see the timing as a hedge against a possible Le Pen win; neither Lagarde nor the ECB has confirmed that motive. Some link her to a possible WEF role after founder Klaus Schwab stepped down amid misconduct accusations, which he denies.\n\n## What to Watch\n- Who eurozone leaders pick, and how fast.\n- Whether rates rise again before year's end, as DW reports is signalled.\n- France's budget crisis and whether the TPI is ever used.\n- The French election in April/May 2027.",
+    "id": "0148ac4e-4d55-5c4a-bfa9-7205e6748ecc",
+    "title": "Wall Street drops to worst day since June after tech stocks sell-off deepens",
+    "simplified_title": "Tech stocks tumble as investors question huge AI spending",
+    "quick_summary": "US share markets had their worst day since June as Intel, Alphabet and other tech giants fell sharply amid growing doubts that massive artificial intelligence spending will pay off.",
+    "simplified_body": "Wall Street had a rough Friday. The S&P 500, a broad index of big US companies, fell 1.8 per cent, its worst day since June and its third straight losing week. The tech-heavy Nasdaq dropped around 2.9 per cent (the BBC reports 2.8 per cent). Chipmaker Intel crashed about 28 per cent, its worst drop since 1974, after giving a weak profit forecast and warning the personal computer slowdown would continue. A day earlier, Google owner Alphabet plunged more than 12 per cent, its worst day on record.\n\nThe big worry is artificial intelligence (AI) spending. Meta, Alphabet, Oracle, Amazon and Microsoft have committed to spending $US800 billion between them in 2026. Amazon revealed it burned through $US42.4 billion over 12 months, measured by free cash flow, largely because of AI investment. Investors are asking whether all that money will ever earn enough profit, and some fear an AI bubble. Reddit fell 29 per cent after saying Google's AI search was hurting its traffic.\n\nCrypto took a hit too. Bitcoin fell below $US77,000 after a hack at Binance, the world's biggest crypto exchange, affecting more than $US6 billion of crypto. A US blockchain intelligence firm said a North Korean unit was likely behind it. In Asia, South Korea's Kospi dropped 3.5 per cent and Japan's Nikkei fell 2.1 per cent.\n\nUS stocks are still only 3.1 per cent below their all-time high, and the Nasdaq is up 7.8 per cent over the year. Analysts say investors have moved into a \"show me\" phase, wanting real returns. Next week's US midterm elections and whether tech stocks keep sliding in November will be key.",
+    "why_it_matters": "Many Australians' superannuation funds hold big US tech stocks, so a sustained AI sell-off could dent retirement savings. It also shows how quickly enthusiasm for AI can turn into doubt.",
+    "deep_analysis": "## Historical Context\nAs background, markets have seen technology booms deflate before, most famously the dot-com bubble around 2000, when internet companies' valuations collapsed. Intel's fall being its worst since 1974 and Alphabet's being its worst ever shows how unusual these moves are. The Nasdaq also had its worst month since March 2025.\n\n## Multiple Perspectives\nBears worry that the cost of AI data centres and software will outweigh the money it makes, leaving valuations unjustified. Chris Low of FHN Financial said the big players are showing \"significant growing pains\" that suggest a sector-wide slowdown. Joe Tigay of Equity Armor Investments called it a shift to the \"show me\" phase. On the other side, prices remain well above year-ago levels for many firms, the US market is just 3.1 per cent off its peak, and Kathleen Brookes of XTB noted November is typically strong for stocks. Notably, Intel, Coinbase and Strategy all beat profit expectations yet still fell, showing how ruthless investors have become.\n\n## What to Watch\n- Whether AI stocks keep falling, which Brookes says could signal the AI trade has peaked.\n- Tuesday's US midterm elections, given voter worries about AI and President Trump's focus on stock performance.\n- Interest rates, which could slow data centre building.\n- Fallout from the Binance hack on crypto prices.",
     "concepts": [
      {
-      "term": "monetary policy",
-      "definition": "How a central bank manages money and borrowing costs, mainly through interest rates, to control inflation and support growth.",
-      "context": "The ECB sets this for every eurozone country at once."
+      "term": "free cash flow",
+      "definition": "The cash a company has left after paying for running costs and investments like buildings and equipment. Negative means it spent more than it brought in.",
+      "context": "Amazon's free cash flow showed it burned through $US42.4 billion over 12 months, mostly due to AI spending."
      },
      {
-      "term": "eurozone",
-      "definition": "The group of EU countries that use the euro as their currency.",
-      "context": "Their leaders jointly choose the ECB president."
+      "term": "AI bubble",
+      "definition": "A situation where share prices of AI-related companies rise far above what their actual future profits can justify, risking a sharp fall.",
+      "context": "Investors fear tech firms' huge AI spending won't earn enough to justify their high valuations."
      },
      {
-      "term": "Transmission Protection Instrument",
-      "definition": "An ECB emergency tool that lets it buy a member country's government bonds if borrowing costs spike out of control.",
-      "context": "It's been discussed because of France's soaring bond yields, though it has never been used."
+      "term": "S&P 500",
+      "definition": "A share market index tracking around 500 of the largest US companies, widely used as a gauge of the US market.",
+      "context": "It fell 1.8 per cent, its worst day since June."
      }
     ],
     "quiz": {
-     "question": "Why do many analysts think the timing of Lagarde's early exit matters?",
+     "question": "Why did Intel's shares fall sharply even though its latest quarterly profit beat expectations?",
      "options": [
-      "It lets her successor be chosen while Macron is still French president, before the 2027 election",
-      "It means France will leave the eurozone",
-      "It automatically makes Klaas Knot the new president",
-      "It forces the ECB to cut interest rates immediately"
+      "Its forecast for the next quarter disappointed and it warned the PC slowdown would continue while AI spending rose",
+      "It announced it was leaving the AI industry",
+      "The Bank of Japan raised interest rates",
+      "It was hacked by North Korea"
      ],
      "answer_index": 0,
-     "explanation": "Analysts say leaving early allows eurozone leaders to appoint a replacement before a possible Marine Le Pen win in France's April/May 2027 election."
+     "explanation": "Investors focus on the future: Intel's weak fourth-quarter forecast, ongoing PC weakness and heavier spending without more cash coming in spooked them."
     },
-    "background_beginner": "The European Central Bank is like the Reserve Bank of Australia, but for the 20-odd European countries sharing the euro. It decides interest rates, which affect mortgages, business loans and prices. Its boss, Frenchwoman Christine Lagarde, has led it since 2019 through Covid, war in Ukraine and an inflation spike. Choosing the ECB president is political, because national leaders must agree. It's in the news now because she's leaving early, and many think that's so a successor can be chosen before France's next election, where a far-right, EU-sceptical candidate might win.",
+    "background_beginner": "Over the past few years, giant tech companies like Alphabet (Google's owner), Amazon, Microsoft, Meta and chipmakers like Nvidia have raced to build artificial intelligence, the tech behind chatbots and smart search. Doing that needs enormous data centres full of expensive computer chips, costing hundreds of billions of dollars. Investors loved the idea and pushed these companies' share prices to record highs. But the bills keep growing, and profits haven't always kept pace. So every time these companies report their results, people check whether the spending is paying off. When it doesn't look like it, shares fall, and talk of an 'AI bubble' returns.",
     "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/f13bea6725d5657471b22b4820dbfdc9fbc83e68/0_0_4583_3667/master/4583.jpg?width=1920&quality=85&auto=format&fit=max&s=3bf19b291d33856840d08c01f70c9643",
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/fddd4877adc48d8a8b3322ceffc97cfe?impolicy=wcms_watermark_news&cropH=573&cropW=1019&xPos=5&yPos=0&width=862&height=485&imformat=generic",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "European Central Bank president Christine Lagarde will step down on 7 February 2027, about nine months before her term ends, kicking off a race to replace her before France's 2027 presidential election.",
+    "description": "US share markets had their worst day since June as Intel, Alphabet and other tech giants fell sharply amid growing doubts that massive artificial intelligence spending will pay off.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-31/wall-street-drops-to-its-worst-day-since-june/107331332"
      },
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-rdf"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
     "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-29T14:29:58.063649+00:00",
-    "published_date": "2026-10-30",
+    "reading_minutes": 3,
+    "created_at": "2026-10-30T23:03:44.976013+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    },
    {
-    "id": "19438491-f886-55db-80f1-841319eab09c",
-    "title": "What is happening with US interest rates?",
-    "simplified_title": "US Federal Reserve keeps interest rates on hold after September rise",
-    "quick_summary": "The US Federal Reserve held its key interest rate at 3.75%–4%, saying it wants more data after raising rates in September for the first time in three years.",
-    "simplified_body": "The US Federal Reserve (the Fed), America's central bank, has kept its main interest rate steady at 3.75%–4%. The call came within a week of the US midterm elections and follows a September rate rise, the first increase in three years. Fed Chair Kevin Warsh said the 'monetary medicine' from that rise is 'starting to work some'.\n\nThe decision wasn't unanimous. Ten of the 12 committee members voted to hold, while Governor Lisa Cook and Cleveland Fed President Beth Hammack wanted a rise to 4%–4.25%. Holding steady means rates on new mortgages, car loans and business loans are less likely to change, and savings rates are unlikely to climb.\n\nSome background: the Fed sets a target range for the federal funds rate, which is what commercial banks charge each other for overnight borrowing. That flows through to the rates everyday people pay and earn. The Fed aims to keep inflation (how fast prices rise) at 2% a year and keep jobs stable. When inflation runs hot, it raises rates to cool spending; when the economy needs a boost, it cuts them. Rates hit 0%–0.25% during the pandemic, climbed to a peak from mid-2023 to August 2024, then fell steadily until September's rise.\n\nThe Fed says inflation is still too high but the economy is resilient, and tightening credit conditions suggest things are heading the right way. Last month the committee signalled one more rise could come this year, but Warsh wouldn't say what happens at the next meeting on 8–9 December, saying 'a lot of things can happen'.",
-    "why_it_matters": "Fed decisions ripple through global markets, shaping the US dollar and borrowing costs worldwide, which can influence the Australian dollar and the backdrop the Reserve Bank of Australia works against.",
-    "deep_analysis": "## Historical Context\nThe BBC notes rates were last this high around the start of the 2008 global financial crisis, after which the Fed slashed them to historic lows for years. They rose before the pandemic, dropped to 0%–0.25% during it, then climbed as inflation jumped, peaking from mid-2023 to August 2024 (the article lists that peak as '5.25%-5%', likely meaning 5.25%–5.5%). A steady easing followed until September's surprise rise. As general background, central banks typically pause after a move to see how it filters through the economy, since rate changes take months to bite.\n\n## Multiple Perspectives\nThe majority, led by Warsh, believes September's rise is working and wants more data before acting again. Two dissenters, Lisa Cook and Beth Hammack, felt inflation is high enough to justify another increase now. The Fed also stresses the economy remains resilient despite uncertainty. Borrowers benefit from a pause, while savers miss out on higher returns.\n\n## What to Watch\n- The 8–9 December meeting, and whether the hinted extra rise this year eventuates.\n- Upcoming inflation and jobs data, which Warsh says will shape the decision.\n- Whether more committee members join the dissenters.\n- Any political pressure following the midterm elections.",
+    "id": "04e68fd0-2f6e-501e-8874-9a3bd825bfb3",
+    "title": "UN nature summit approves two key agreements after marathon negotiations",
+    "simplified_title": "Nearly 200 countries agree new deals to stop nature loss by 2030",
+    "quick_summary": "After almost two weeks of tense, overtime talks in Armenia, nearly 200 nations adopted two agreements at the COP17 United Nations (UN) biodiversity summit aimed at getting the world back on track to halt nature's destruction by 2030.",
+    "simplified_body": "Nearly 200 countries approved two key agreements on Friday at COP17, the United Nations (UN) biodiversity summit in Yerevan, Armenia's capital. Delegates cheered as the texts passed in overtime after two weeks of tough negotiations. The final versions weren't released to the public straight away, so it's not yet clear exactly what made the cut.\n\nThe deals matter for everyone who relies on healthy forests, oceans and wildlife, which is all of us. The big fights were over money and responsibility: countries argued about reforming subsidies that encourage nature-harming activities like fossil fuels, intensive agriculture and overfishing, and about who pays for conservation. The European Union pushed for wealthy emerging economies such as China to chip in. A draft text invited countries outside the traditional donor list to join voluntarily.\n\nSome background: in 2022 the world adopted a historic pact with targets to halt biodiversity loss by 2030, including protecting 30 percent of Earth's land and oceans. But the UN warned before this summit that most targets are falling short. The world needs an estimated $700 billion more each year for conservation than it currently spends. The Cali Fund, meant to share profits from companies using genetic data from plants and other organisms, aimed to raise $1 billion a year but has attracted only around $10,000.\n\nNext, countries will need to turn the agreements into action before 2030. Disputes over science also simmered, with a handful of countries accused of stonewalling findings from a UN-backed biodiversity body. The summit was also expected to choose Panama or Ecuador to host the next one in 2028.",
+    "why_it_matters": "These deals shape whether the world can still hit its 2030 nature targets, and as one of the world's most biodiverse countries, Australia has a big stake in global efforts to protect species and ecosystems.",
+    "deep_analysis": "## Historical Context\nIn 2022 nations adopted a landmark pact setting ambitious goals to halt biodiversity loss by 2030, including the '30 by 30' target to protect 30 percent of land and oceans. The last summit, in Cali, Colombia in 2024, ran overtime and ended without a deal on finance; talks resumed in Rome in 2025, where agreement was reached. As background, these meetings are 'Conferences of the Parties' (COPs) under the UN Convention on Biological Diversity, separate from the climate COPs.\n\n## Multiple Perspectives\nThe European Union argued that wealthy emerging economies like China should share the cost of global conservation, a contentious push. Developing countries have long sought more finance from rich nations. A small number of countries were accused of undermining the science; French Ecological Transition Minister Monique Barbut said 'the attacks on science have bothered me a lot.' Indigenous leaders and civil society groups urged faster action, while strained public budgets, amid an energy crisis and conflicts in Ukraine and the Middle East, made new funding harder to find.\n\n## What to Watch\n- Publication of the final texts, and which options for reaching the 2030 goals survived.\n- Whether any non-traditional donors voluntarily join the funding group.\n- Whether the Cali Fund gets reformed and starts attracting real money.\n- Progress on reforming harmful subsidies.\n- The choice between Panama and Ecuador to host the 2028 summit.",
     "concepts": [
      {
-      "term": "federal funds rate",
-      "definition": "The interest rate US commercial banks charge each other for overnight loans, which the Fed targets.",
-      "context": "It's the Fed's main lever; changes flow through to mortgages, credit cards and savings."
+      "term": "biodiversity",
+      "definition": "The variety of all living things, from genes and species to whole ecosystems.",
+      "context": "The summit aims to halt biodiversity loss by 2030."
      },
      {
-      "term": "inflation",
-      "definition": "The rate at which prices rise over time.",
-      "context": "The Fed aims for 2% a year and raises rates when inflation is too high."
+      "term": "subsidies",
+      "definition": "Government payments or financial support that make certain activities cheaper or more profitable.",
+      "context": "Countries argued over reforming subsidies that encourage nature-harming activities like fossil fuels and overfishing."
      },
      {
-      "term": "monetary medicine",
-      "definition": "Warsh's phrase for using interest rate changes to treat economic problems like high inflation.",
-      "context": "He used it to say the September rise is starting to work."
+      "term": "Cali Fund",
+      "definition": "A UN mechanism meant to collect a share of profits from companies that use genetic data from plants and other organisms, to fund conservation in developing countries.",
+      "context": "It aimed for $1 billion a year but has raised only around $10,000."
      }
     ],
     "quiz": {
-     "question": "Why does the Fed raise interest rates when inflation is high?",
+     "question": "Why was the European Union's push about who pays for conservation so contentious at COP17?",
      "options": [
-      "To help the government win elections",
-      "To make borrowing pricier so spending and demand slow, easing price rises",
-      "To lower savings rates",
-      "To encourage people to spend more"
+      "It proposed moving the summit to Europe",
+      "It wanted wealthy emerging economies like China, not just traditional rich donors, to contribute",
+      "It wanted to scrap all conservation funding",
+      "It refused to accept the 30 percent protection target"
      ],
      "answer_index": 1,
-     "explanation": "Higher rates make borrowing costlier and saving more attractive, reducing demand, which tends to slow inflation."
+     "explanation": "The EU led a charge for wealthy emerging economies such as China to help pay. A compromise draft invited countries outside the developed donor list to join voluntarily."
     },
-    "background_beginner": "The US Federal Reserve is America's central bank. A committee of officials meets regularly to set a key interest rate, which shapes what banks charge for loans and pay on savings. Its job is to keep prices rising slowly (about 2% a year) and keep jobs steady. When prices rise too fast, it lifts rates to cool spending; when the economy struggles, it cuts them. Because the US economy is so big, its decisions affect markets, currencies and borrowing costs around the world, including Australia. That's why every meeting makes headlines, especially when inflation is stubborn and officials disagree.",
-    "impact_score": 55,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/47d7/live/753fb120-d30d-11f1-ad4f-5d2bbacf0caf.jpg",
+    "background_beginner": "Every couple of years, almost every country on Earth meets at a UN summit to work out how to protect nature: plants, animals, forests, oceans and the ecosystems we depend on for food, clean water and a stable climate. In 2022 they signed a big pact promising to stop nature's decline by 2030, including protecting 30 percent of land and sea. The trouble is that most countries are falling behind, and there's constant arguing over money: rich nations, poorer nations and fast-growing economies disagree on who should pay. That's why these summits keep making headlines, often running late into the night.",
+    "impact_score": 62,
+    "image_url": "https://s.france24.com/media/display/f0b7382a-d4a0-11f1-a95a-a575454bc579/w:1280/p:16x9/000-D4J497F.jpg",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "The US Federal Reserve held its key interest rate at 3.75%–4%, saying it wants more data after raising rates in September for the first time in three years.",
+    "description": "After almost two weeks of tense, overtime talks in Armenia, nearly 200 nations adopted two agreements at the COP17 United Nations (UN) biodiversity summit aimed at getting the world back on track to halt nature's destruction by 2030.",
     "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
+    "category": "ENVIRONMENT_CLIMATE",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o"
+      "name": "France 24",
+      "url": "https://www.france24.com/en/environment/20261030-un-nature-summit-approves-two-key-agreements-after-marathon-negotiations"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
     "reading_minutes": 3,
-    "created_at": "2026-10-29T14:29:58.419344+00:00",
-    "published_date": "2026-10-30",
+    "created_at": "2026-10-30T23:03:44.165247+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    }
   ],
