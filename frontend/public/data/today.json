@@ -1,75 +1,66 @@
 {
- "date": "2026-10-30",
- "generated_at": "2026-10-30T07:17:45.057653+00:00",
+ "date": "2026-10-31",
+ "generated_at": "2026-10-30T14:19:57.876690+00:00",
  "regions": {
   "OCEANIA": [
    {
-    "id": "b28a0b44-f5e9-5fa4-84c8-4e80b1944cd0",
-    "title": "Inflation jumps to 4.3%, adding to pressure for RBA rate rise next week",
-    "simplified_title": "Inflation jumps to 4.3%, making another interest rate rise likely",
-    "quick_summary": "Australia's annual inflation rose to 4.3% in September, driven by petrol and holiday costs, pushing markets to expect a fifth Reserve Bank rate rise this year on November 3.",
-    "simplified_body": "Australia's annual inflation rate rose to 4.3% in September, up from 4.0% in August. The headline consumer price index (CPI) rose 0.6% for the month, mostly because petrol jumped 9.4% as world oil prices climbed. Domestic holiday travel and accommodation also rose 8.0%, thanks to school holidays and big sporting events. The Reserve Bank of Australia's (RBA's) favourite gauge, the trimmed mean, rose 1.0% for the quarter, which matched economists' expectations.\n\nThis matters for anyone with a mortgage or loan. Markets now see about an 80% chance the RBA lifts rates on Tuesday, which would be the fifth rise this year. That would take the cash rate from 4.60% to 4.85%, its highest in 18 years. Treasurer Jim Chalmers is also under pressure, with critics blaming government spending, while he points to global events and an investment boom in data centres.\n\nSome background: inflation happens when demand outstrips what the economy can supply. Rate rises cool demand by making borrowing pricier. Back in 2022, the RBA and government hoped for a \"soft landing\", taming inflation without big job losses. ABC analysis argues that plan has now failed, partly due to a war hitting energy supplies and the AI investment boom. Not everything is overheating, though: housing inflation eased to 5.2% and unemployment is rising.\n\nNext up is the RBA's November 3 decision and its updated forecasts. A pause would let earlier hikes work but wouldn't necessarily end the rate-rise cycle. Economists will also watch October's figures for the first effects of the card surcharge ban, which the RBA estimated could lift CPI by around 0.1% if businesses fold costs into prices.",
-    "why_it_matters": "Another rate rise would mean higher repayments for Australian borrowers already stretched by years of high prices, and the ABC warns tight conditions could last into 2027.",
-    "deep_analysis": "## Historical Context\nThis inflation episode began in 2022. The RBA and the government pursued what they called \"the narrow path to a soft landing\": raising rates less sharply than other countries to protect jobs. Historically, inflation has rarely been beaten without a recession, such as the one Paul Keating said Australia \"had to have\" in 1990. The cash rate now sits at 4.60% after four rises this year.\n\n## Multiple Perspectives\n- **The RBA:** Deputy Governor Andrew Hauser says the outlook has deteriorated substantially since August, citing energy prices and supply constraints, though he acknowledged weaker consumption and rising unemployment. Assistant Governor Sarah Hunter says demand is too strong relative to supply.\n- **The Conversation:** Stresses nuance. Headline inflation was fuel-driven, underlying inflation matched forecasts, and a hold could give past hikes time to work.\n- **ABC analysis:** More pessimistic, arguing the soft landing is likely out of reach and that demand will need suppressing well into 2027.\n- **Government vs opposition:** Chalmers says global events and private investment are real causes and promises more savings. The opposition says the government could have been braver, pointing to EV and home battery discounts that benefited high-income earners.\n\n## What to Watch\n- The November 3 RBA decision and its updated forecasts.\n- October inflation data, the first full month after the card surcharge ban.\n- Unemployment trends and whether the government delivers promised savings.",
+    "id": "01fd7cdf-d975-5209-93bf-b4abcfeee6a6",
+    "title": "El Niño-driven drought in Papua New Guinea a ‘national crisis’ as rivers dry up and local farms fail",
+    "simplified_title": "Record El Niño drought hits up to 8 million people in PNG",
+    "quick_summary": "A severe El Niño-driven drought in Papua New Guinea is drying up rivers and gardens, cutting power and closing schools and clinics, with a coalition calling it a \"national crisis\".",
+    "simplified_body": "Papua New Guinea (PNG) is in the grip of an extreme drought driven by a historic El Niño. As many as 8 million people are affected. Rivers and creeks have dried up, family food gardens have shrivelled, and some schools and health clinics are only open half a day because they don't have enough water.\n\nMost people in PNG are subsistence farmers who rely on rain to grow their food, so a drought hits them hard. In rural highland areas, some families are down to one meal a day. CARE International says women and girls are walking three to four hours for water and food, face a higher risk of harassment, and there are reports of people trading sex for money or food. In the capital, Port Moresby, PNG Power has started planned blackouts because low dam levels have cut hydropower, possibly for up to 10 months.\n\nEl Niño is a climate pattern where warm tropical Pacific waters shift east. PNG is normally one of the wettest places on Earth, but with those waters gone, it's \"starved of rain\", says Kasis Inape from the PNG National Weather Service. Forecasts suggest this El Niño could be the strongest ever recorded, made worse by global heating. Some areas have had under a quarter of their usual rain since August.\n\nThe wet season runs November to April, but there are fears El Niño will shorten it. The Community Coalition Against Corruption says there's no coordinated plan to protect vulnerable communities. Prime Minister James Marape has told provinces to prepare for a long dry season, and Cabinet is looking at changing financial rules so local authorities can respond to disasters faster.",
+    "why_it_matters": "PNG is Australia's closest neighbour, and a crisis affecting millions of people there, with food, water and power shortages, is a major regional humanitarian concern.",
+    "deep_analysis": "## Historical Context\nAs background, El Niño events recur every few years and have previously brought drought and food shortages to PNG's highlands. This one is forecast to possibly be the strongest on record, with impacts worsened by global heating. The PNG National Weather Service declared El Niño's onset in June, by which time much of the country was already in drought.\n\n## Multiple Perspectives\nA coalition of churches, unions and business groups calls it a \"national crisis\" and says there's no coordinated plan; co-chair Peter Aitsi wants proper assessments, especially of rural areas. Aid group CARE highlights the heavier burden on women and girls. The government, through PM James Marape, says it's directing provinces to prepare and adjusting financial rules for disaster response. Aitsi notes cities have mostly been shielded so far, though blackouts and fresh-food shortages may change that.\n\n## What to Watch\n- Whether the November–April wet season brings enough rain or is cut short.\n- How long Port Moresby's blackouts last (possibly up to 10 months).\n- Whether the government produces a coordinated national response plan.\n- Smoke haze and fires in PNG and Indonesia linked to El Niño.",
     "concepts": [
      {
-      "term": "trimmed mean",
-      "definition": "A measure of underlying inflation that strips out the most extreme price rises and falls to show the broader trend.",
-      "context": "It's the RBA's preferred gauge and rose 1.0% in the September quarter."
+      "term": "El Niño",
+      "definition": "A natural climate pattern where warm water in the tropical Pacific shifts east, changing rainfall patterns across the region.",
+      "context": "It has pulled rain away from PNG, causing drought."
      },
      {
-      "term": "cash rate",
-      "definition": "The RBA's benchmark interest rate, which influences what banks charge on mortgages and loans.",
-      "context": "It's at 4.60% and could rise to 4.85%."
+      "term": "subsistence farmers",
+      "definition": "People who grow food mainly to feed their own families rather than to sell.",
+      "context": "Many PNG families depend on rain-fed gardens to eat, so drought hits them directly."
      },
      {
-      "term": "soft landing",
-      "definition": "Bringing inflation down without causing a recession or large job losses.",
-      "context": "The RBA and government aimed for this since 2022, but the ABC argues it's now unlikely."
-     },
-     {
-      "term": "consumer price index",
-      "definition": "A measure tracking the average change in prices of a basket of everyday goods and services.",
-      "context": "The headline CPI rose 0.6% in September."
+      "term": "hydropower",
+      "definition": "Electricity generated by water flowing through dams.",
+      "context": "Low dam levels have forced blackouts in Port Moresby."
      }
     ],
     "quiz": {
-     "question": "Why does the RBA focus on the trimmed mean rather than just headline inflation?",
+     "question": "Why is drought especially damaging for many people in PNG?",
      "options": [
-      "It only measures petrol prices",
-      "It removes unusually large price swings to show the underlying trend",
-      "It includes card surcharges",
-      "It is always lower than headline inflation"
+      "Most people rely on rain-fed gardens to grow their own food",
+      "PNG imports all its water from Australia",
+      "The wet season normally lasts all year",
+      "PNG has no rivers"
      ],
-     "answer_index": 1,
-     "explanation": "The trimmed mean cuts out extreme rises and falls, like September's petrol spike, giving a clearer picture of broad inflation."
+     "answer_index": 0,
+     "explanation": "Many Papua New Guineans are subsistence farmers relying on rainfall, so when rain fails, their food and income fail too."
     },
-    "background_beginner": "Inflation is how fast prices rise over time. In Australia, the Reserve Bank (RBA) tries to keep it between 2% and 3% a year. Its main tool is the cash rate: raising it makes loans more expensive, so people and businesses spend less, which eases pressure on prices. Since 2022, prices have been rising too fast, driven by global events, energy costs and strong demand. The RBA has raised rates several times, and the federal government, led on economics by Treasurer Jim Chalmers, faces criticism over its spending. The topic keeps coming up because every new inflation figure hints at whether mortgage repayments will climb again.",
-    "impact_score": 72,
-    "image_url": "https://images.theconversation.com/files/768672/original/file-20261028-52-pqds4.jpg?ixlib=rb-4.1.1&rect=0%2C273%2C6119%2C3059&q=45&auto=format&w=1356&h=668&fit=crop",
+    "background_beginner": "Papua New Guinea is a Pacific nation just north of Australia, home to millions of people, many of whom live in rural villages and grow their own food. Normally it's one of the wettest places in the world. Every few years a climate pattern called El Niño shifts warm ocean water across the Pacific, moving the rain elsewhere and bringing drought to places like PNG. Climate change is thought to be making these events more intense. The main players are PNG's government, its weather service, local communities, and aid groups. It keeps coming up because each strong El Niño threatens food, water and power for huge numbers of people.",
+    "impact_score": 68,
+    "image_url": "https://i.guim.co.uk/img/media/cc479bce593c1d686d94f80fcfd1feeee302eb1e/0_0_6000_4000/master/6000.jpg?width=1920&quality=85&auto=format&fit=max&s=63f8cc4826c1a80c1bcdd8d5b5dbb2a2",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "Australia's annual inflation rose to 4.3% in September, driven by petrol and holiday costs, pushing markets to expect a fifth Reserve Bank rate rise this year on November 3.",
+    "description": "A severe El Niño-driven drought in Papua New Guinea is drying up rivers and gardens, cutting power and closing schools and clinics, with a coalition calling it a \"national crisis\".",
     "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
+    "category": "ENVIRONMENT_CLIMATE",
     "sources": [
      {
-      "name": "The Conversation",
-      "url": "https://theconversation.com/inflation-jumps-to-4-3-adding-to-pressure-for-rba-rate-rise-next-week-295162"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-29/bad-inflation-result-political-pressure/107318484"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
+    "source_count": 1,
+    "confidence": 0.55,
     "related_story_ids": [
-     "098bd952-2d6d-534e-a728-734570d8620e"
+     "ac553a49-4428-5bd0-9335-d974cd6cfacd"
     ],
     "reading_minutes": 4,
-    "created_at": "2026-10-29T07:15:34.248517+00:00",
-    "published_date": "2026-10-29",
+    "created_at": "2026-10-30T14:20:33.069407+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    },
    {
@@ -131,61 +122,66 @@
     "has_fulltext": true
    },
    {
-    "id": "c502cd44-12d4-5da9-924a-58c811468346",
-    "title": "Australia records highest rates of anorexia and bulimia globally",
-    "simplified_title": "Australia has the world's highest rates of anorexia and bulimia",
-    "quick_summary": "A major global study published in JAMA Psychiatry found Australia has the highest rate of anorexia and bulimia in the world, while global cases have risen 71 per cent since 1990.",
-    "simplified_body": "A new study published in the journal JAMA Psychiatry found Australia has the highest rate of anorexia and bulimia nervosa in the world, with an estimated 1,026.5 people per 100,000 living with one of the two eating disorders. Globally, cases have jumped 71 per cent since 1990, to about 18.1 million people as of 2023.\n\nThe disorders hit some groups harder. Females made up nearly 70 per cent of global cases, and about 41 per cent were young people aged 10 to 24. Lead researcher Damian Santomauro from the University of Queensland called Australia's ranking \"surprising and concerning\". He thinks social media and body image pressures may be one reason cases are rising. People from migrant backgrounds may also find it harder to get help.\n\nThe findings come from the Global Burden of Disease study, the world's largest health project. It measures how common illnesses are using surveys rather than treatment records, so it catches people who never get treated. Dr Santomauro said Australia's high number may be partly due to its surveys using a different method from other countries, though he doesn't think that explains it all. Butterfly Helpline psychologist Sarah Cox suggested Australia might simply be \"seeing the problem more clearly\". The study also only counted two disorders, so the true burden is bigger.\n\nResearchers forecast cases will keep growing through to 2050. Experts are calling for more funding for early treatment and prevention, pointing to barriers such as cost, living in regional areas and stigma.",
-    "why_it_matters": "Australia tops the world for these two serious mental illnesses, and with cases forecast to keep rising, the pressure is on governments to fund earlier, more accessible treatment, especially for young people and those in regional areas.",
-    "deep_analysis": "## Historical Context\nThe Global Burden of Disease study began collecting data in 1990, and was among the first to show that mental disorders can be as burdensome as, or more burdensome than, some physical illnesses. Over that period, global anorexia and bulimia cases rose 71 per cent. As general background, eating disorders have long been seen as more common in wealthy Western countries, and Dr Santomauro noted that higher prevalence in high-income settings is usual.\n\n## Multiple Perspectives\n- **Researchers:** Dr Santomauro says Australia's lead may partly reflect different survey methods, but not entirely.\n- **Clinicians:** Sarah Cox says the study confirms what families and health workers have reported for years, and Australia may simply detect the problem better.\n- **Lived experience:** Jeanette Chan says eating disorders are often framed in Western terms, making it harder for migrants to recognise and seek help, and that investment hasn't been enough.\n- **Limitations:** the study has gaps in bulimia mortality data and less information from low-income countries, and excludes binge eating disorder and other common conditions.\n\n## What to Watch\n- Whether governments boost funding for prevention and early treatment.\n- The fast relative growth in East Asia, South Asia and South-East Asia.\n- Research into social media's role and into eating disorders beyond anorexia and bulimia.",
+    "id": "663b8508-e130-58ee-9564-e598916ef85b",
+    "title": "Queensland Land Court approves proposed $1b coal mine",
+    "simplified_title": "Queensland court backs Whitehaven's $1 billion Winchester South coal mine",
+    "quick_summary": "The Land Court of Queensland has rejected conservation groups' objections to Whitehaven Coal's proposed $1 billion Winchester South mine, though state and federal governments still get the final say.",
+    "simplified_body": "The Land Court of Queensland has ruled in favour of Whitehaven Coal's proposed $1 billion Winchester South coal mine in the Bowen Basin. It's one of Australia's largest proposed greenfield coal projects and is expected to produce 17 million tonnes of coal a year, mostly metallurgical coal for steelmaking plus some thermal coal. The decision came on Friday after a seven-week hearing.\n\nThe Australian Conservation Foundation (ACF) and Mackay Conservation Group (MCG) had objected on three main grounds: environmental impacts, climate change and future demand for coal. The court heard the mine's lifetime emissions would be 557,246,614 tonnes of carbon dioxide (CO2) equivalent, adding 0.0003 degrees Celsius of warming. Judge Nicholas Loos called that \"an extraordinary amount\" but said climate change is a \"wicked problem\" that can only be met by cumulative action, and that the consequences would happen with or without this mine. He also pointed to jobs for the Isaac region and $696 million in royalties, as calculated by Deloitte.\n\nThe project had already been recommended by the state's coordinator-general in 2023, and its Environmental Authority (EA) application was approved in 2024. Whitehaven says it would create 500 jobs, and the mine would run for 35 years, including 28 years of coal extraction and export.\n\nNext, the Queensland government must issue an EA and mining lease, then the federal government makes the final decision. MCG says the groups are considering \"their next move\".",
+    "why_it_matters": "This case tests how Australian courts weigh climate harm against jobs and royalties when approving new coal mines, and Queensland's Bowen Basin is central to Australia's coal export industry.",
+    "deep_analysis": "## Historical Context\nThe Land Court of Queensland hears objections to mining projects and makes recommendations before governments decide. As general background, conservation groups have increasingly used these hearings to argue climate impacts of new fossil fuel projects. In this case, the project had already passed the coordinator-general's review (2023) and an Environmental Authority approval (2024) before the court hearing.\n\n## Multiple Perspectives\n- **Whitehaven Coal** argued the mine's emissions would be \"only a tiny amount\" of global emissions and that it should be entitled to carry the risk of future viability.\n- **ACF and MCG** argued the mine would contribute to climate change and harm the environment, and questioned future coal demand. MCG's Imogen Lindenberg said the case still put climate impacts \"under intense legal scrutiny\".\n- **Judge Loos** accepted the climate arguments were \"eloquent and powerful\" and that local environmental impacts would be serious, but found Whitehaven's management plan acceptable and weighed jobs and royalties as benefits.\n\n## What to Watch\n- Whether the Queensland government issues the EA and mining lease.\n- The federal government's final decision.\n- Whether ACF and MCG pursue further legal action.\n- How the \"cumulative action\" reasoning shapes future climate challenges to mines.",
     "concepts": [
      {
-      "term": "Global Burden of Disease study",
-      "definition": "The world's largest health research project, tracking how common illnesses are and how much harm they cause worldwide since 1990.",
-      "context": "This new eating disorder data comes from it."
+      "term": "greenfield",
+      "definition": "A brand-new project built on undeveloped land, rather than an expansion of an existing site.",
+      "context": "Winchester South is one of Australia's largest proposed greenfield coal projects."
      },
      {
-      "term": "anorexia and bulimia nervosa",
-      "definition": "Serious eating disorders: anorexia involves severely restricting food, while bulimia involves cycles of binge eating and trying to get rid of the food.",
-      "context": "These were the only two eating disorders the study measured."
+      "term": "metallurgical coal",
+      "definition": "Coal used to make steel, as opposed to thermal coal, which is burned for electricity.",
+      "context": "The mine would extract mostly metallurgical coal."
      },
      {
-      "term": "stigma",
-      "definition": "Shame or negative judgement attached to a condition, which can stop people seeking help.",
-      "context": "Experts named it as a barrier to treatment alongside cost and distance."
+      "term": "wicked problem",
+      "definition": "A problem so complex and widespread that no single action can solve it.",
+      "context": "The judge described climate change this way, saying only cumulative action can address it."
+     },
+     {
+      "term": "royalties",
+      "definition": "Payments mining companies make to government for the right to extract resources.",
+      "context": "The mine's $696 million in royalties was seen as a benefit."
      }
     ],
     "quiz": {
-     "question": "Why did researchers use surveys instead of treatment records to count eating disorder cases?",
+     "question": "Why did Judge Loos decline to refuse the mine on climate grounds, despite calling its emissions extraordinary?",
      "options": [
-      "Treatment records are illegal to share",
-      "To capture people who might not have access to treatment",
-      "Surveys only count young people",
-      "Surveys are cheaper to run"
+      "He said climate harm would occur with or without this mine and needs cumulative global action",
+      "He ruled climate change was outside the court's interest",
+      "He found the mine would produce no emissions",
+      "He said the federal government had already approved it"
      ],
-     "answer_index": 1,
-     "explanation": "Many people with eating disorders never get treatment, so relying on treatment data would miss them. Surveys give a fuller picture."
+     "answer_index": 0,
+     "explanation": "The judge accepted the mine would contribute to warming but said this one project's 0.0003°C share couldn't decide the issue alone; climate change is a 'wicked problem' needing cumulative action."
     },
-    "background_beginner": "Eating disorders are mental illnesses where someone develops an unhealthy relationship with food, eating or their body. The two best-known are anorexia (eating far too little) and bulimia (bingeing then trying to undo it). They mostly affect young people and females, and can be life-threatening. Researchers, doctors, support services like the Butterfly Foundation, and governments are the main players. The topic keeps coming up because cases have been rising for decades, possibly linked to body image pressures from social media, and because many people struggle to get affordable, timely care, especially outside big cities.",
-    "impact_score": 62,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/6eceb8f22c4c5c0d72b5d49da09ec9ab?impolicy=wcms_watermark_news&cropH=1193&cropW=2121&xPos=0&yPos=13&width=862&height=485&imformat=generic",
+    "background_beginner": "Australia is one of the world's biggest coal exporters, and much of it comes from Queensland's Bowen Basin. Mining companies like Whitehaven Coal want to open new mines, saying they bring jobs and government income. Conservation groups such as the Australian Conservation Foundation argue new mines worsen climate change and damage local environments. Before a mine can go ahead, it must pass several approval steps, and groups can object in Queensland's Land Court. These fights keep happening because each new mine forces a choice between economic benefits now and the climate costs of burning more coal for decades.",
+    "impact_score": 58,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/ecf54a3c867d50ac47b0ad3443e39e87?impolicy=wcms_watermark_news&cropH=815&cropW=1449&xPos=0&yPos=40&width=862&height=485&imformat=generic",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "A major global study published in JAMA Psychiatry found Australia has the highest rate of anorexia and bulimia in the world, while global cases have risen 71 per cent since 1990.",
+    "description": "The Land Court of Queensland has rejected conservation groups' objections to Whitehaven Coal's proposed $1 billion Winchester South mine, though state and federal governments still get the final say.",
     "tier": "LOCAL",
-    "category": "HEALTH",
+    "category": "ENVIRONMENT_CLIMATE",
     "sources": [
      {
       "name": "ABC News",
-      "url": "https://www.abc.net.au/news/health/2026-10-29/anorexia-bulimia-cases-rising-90s-australia/107315546"
+      "url": "https://www.abc.net.au/news/2026-10-30/whitehaven-coalmine-expansion-approval-qld-land-court/107328464"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-10-29T07:15:32.843049+00:00",
-    "published_date": "2026-10-29",
+    "reading_minutes": 3,
+    "created_at": "2026-10-30T14:20:33.369165+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    },
    {
@@ -256,61 +252,61 @@
     "has_fulltext": true
    },
    {
-    "id": "aefa016e-a236-581d-89f2-d4f43ddfa309",
-    "title": "Actor's death may be first confirmed fatality linked to unapproved peptides",
-    "simplified_title": "Coroner links actor Richard Norton's death to unapproved peptide injections",
-    "quick_summary": "A Victorian coroner found Australian actor and martial artist Richard Norton's 2025 death was triggered by injecting unapproved peptides, and urged the medicines regulator to consider tougher rules.",
-    "simplified_body": "A coroner has found that Australian actor, stuntman and martial artist Richard Norton, 75, died in March 2025 after a cardiac arrest triggered by injecting two unapproved peptides, CJC1295 and Ipamorelin. Coroner David Ryan found Norton had been taking more than his prescribed dose; he'd told a clinic nurse he was using double. Hours after that conversation he collapsed, and he died at Melbourne's Alfred Hospital on March 30, 2025. It's believed to be the first confirmed death in Australia from unapproved peptide use.\n\nThe peptides were prescribed by Dr Jerzy Muchnicki and made up by a licensed compounding pharmacy in Queensland. Norton signed a consent form and was told the treatment was experimental. The Medical Board of Australia (MBA) found Dr Muchnicki's clinical care met a reasonable standard but his notes were inadequate. He received a caution and conditions on his practice, and he apologised.\n\nPeptides are short chains of amino acids, and some are marketed for things like muscle recovery and fatigue. Unapproved ones haven't been assessed by the Therapeutic Goods Administration (TGA), Australia's medicines regulator, for safety, quality or effectiveness. An expert who reviewed the case for the MBA said there's insufficient evidence CJC1295/Ipamorelin is safe or effective for humans. Even so, there are legal pathways that let doctors access them.\n\nThe coroner recommended the TGA review the benefits and risks of these peptides and consider further restrictions. The TGA says it keeps warning consumers and is considering whether more regulatory measures are needed.",
-    "why_it_matters": "Peptide therapy is popular in Australia's wellness and fitness scene, and this case shows doctors can legally prescribe products with no proven safety record, which could now prompt tighter national rules.",
-    "deep_analysis": "## Historical Context\nAs background, peptides have become a fixture in anti-ageing, bodybuilding and wellness circles, often promoted online. In Australia, the TGA approves medicines, but there are pathways that allow practitioners to access unapproved products, and compounding pharmacies can make up individual preparations. Norton's case is believed to be the first confirmed Australian death from unapproved peptide use.\n\n## Multiple Perspectives\nThe coroner found the death was triggered by the peptides and that Norton exceeded his prescribed dose. The MBA's expert, Professor Alistair Vickery, said the clinical care was at a reasonably expected standard given the consent and Norton's prior peptide use, but the record keeping was below standard. Dr Muchnicki accepted accountability and apologised. The TGA says it has warned consumers and practitioners and is weighing further action. Some might argue adults should be free to try experimental treatments with informed consent; others will point to the lack of evidence on safety.\n\n## What to Watch\nWhether the TGA tightens access to peptides like CJC1295 and Ipamorelin, any changes to how compounding pharmacies supply them, and whether medical regulators issue new guidance to doctors offering peptide therapy.",
+    "id": "2bef2734-d5c3-5322-a2fe-5fdc72151c93",
+    "title": "Alleged terrorist plot mastermind researched explosives, Perth police say",
+    "simplified_title": "Perth man, 22, faces court over alleged terror attack preparations",
+    "quick_summary": "Lucas Shawn Cameron, 22, appeared in Perth Magistrates Court charged with preparing for a terrorist act, after police alleged he researched explosives and got hold of a machete.",
+    "simplified_body": "A 22-year-old Perth man, Lucas Shawn Cameron, has appeared in Perth Magistrates Court by video link from custody. Police allege that in November and December last year he did online research, talked with others about attack methods and obtained a machete. The headline says police allege he researched explosives, while the article itself says he allegedly obtained explosives. When the magistrate asked whether he understood the charge, he said he did.\n\nHe is now charged with doing an act in preparation for a terrorist act, possessing violent extremist material and accessing violent extremist material. He was already facing several terrorism-related charges, but three of those have been dropped. Police allege he used a messaging platform to ask for help with things like \"explosive devices, military and tactical training\", weapons manufacturing and fake documents. These are allegations only. Nothing has been proven in court.\n\nHe was first arrested after federal police raided his home in Westminster, a suburb in Perth's north, and seized two computers and a mobile phone. Details of the alleged plot, such as any target, haven't been made public yet.\n\nMr Cameron is due back in court, this time at Stirling Gardens Magistrates Court, on November 11. More details may come out as the case moves forward.",
+    "why_it_matters": "This case shows how Australian police are using preparation offences to step in before an alleged attack happens. Much of the alleged planning reportedly took place online, which is why these laws matter here.",
+    "deep_analysis": "## Historical Context\nAs background, Australia brought in a set of federal counter-terrorism laws in the early 2000s. These include offences for preparing or planning a terrorist act, so police can act before any violence happens. In recent years, authorities have also raised concerns about young people being radicalised online. This case fits that broader pattern, though the details of this particular plot are still unknown.\n\n## Multiple Perspectives\nPolice allege serious planning, including online research, conversations about attack methods and getting hold of a machete. The article's headline says police allege he researched explosives, while the body says he allegedly obtained them. That difference hasn't been cleared up yet. Three earlier charges were dropped, which suggests the prosecution has narrowed its case. Mr Cameron hasn't entered a public response in this report, and he is presumed innocent.\n\n## What to Watch\n- His next court appearance on November 11 at Stirling Gardens Magistrates Court.\n- Whether details of the alleged plot or any target are released.\n- How the charges change as the case moves through the courts.",
     "concepts": [
      {
-      "term": "peptides",
-      "definition": "Short chains of amino acids, the building blocks of proteins; some are sold or prescribed as therapies.",
-      "context": "Norton injected unapproved peptides for fatigue, recovery and muscle loss."
+      "term": "act in preparation for a terrorist act",
+      "definition": "A crime that covers getting ready for a terror attack, even if no attack happens.",
+      "context": "This is the main charge Mr Cameron now faces."
      },
      {
-      "term": "compounding pharmacy",
-      "definition": "A pharmacy that custom-makes medicines for an individual patient rather than supplying mass-produced products.",
-      "context": "A Queensland compounding pharmacy made Norton's peptide injections."
+      "term": "violent extremist material",
+      "definition": "Content that promotes or instructs on political or ideological violence.",
+      "context": "He is charged with both possessing and accessing this kind of material."
      },
      {
-      "term": "cardiac arrest",
-      "definition": "When the heart suddenly stops pumping blood effectively.",
-      "context": "Norton suffered a cardiac arrest after injecting the peptides."
+      "term": "custody",
+      "definition": "Being held by police or in jail while a case continues.",
+      "context": "He appeared in court by video link from custody."
      }
     ],
     "quiz": {
-     "question": "Why did the coroner recommend the TGA consider tougher restrictions?",
+     "question": "Why can someone be charged with a terrorism offence even if no attack took place?",
      "options": [
-      "Because the doctor failed to get any consent from Norton",
-      "Because the peptides were illegal imports bought online",
-      "Because the pharmacy was unlicensed",
-      "Because the peptides haven't been shown to be safe or effective, yet doctors can still access them"
+      "Australian law lets police charge people for preparing for a terrorist act",
+      "Only people who have completed an attack can be charged",
+      "The charge only applies if fake documents were made",
+      "Magistrates can charge anyone who owns a computer"
      ],
-     "answer_index": 3,
-     "explanation": "The peptides were legally prescribed and made by a licensed pharmacy with signed consent, but they're unapproved and lack evidence of safety, so the coroner asked the TGA to review them."
+     "answer_index": 0,
+     "explanation": "Preparation offences let authorities step in before an attack. Mr Cameron faces exactly this kind of charge."
     },
-    "background_beginner": "Peptides are small protein-like molecules. Some are sold as treatments promising better recovery, more muscle or less tiredness, especially in gyms and wellness clinics. In Australia, the Therapeutic Goods Administration decides which medicines are proven safe enough to approve, but doctors can still prescribe some unapproved products through special pathways. Richard Norton was a well-known Australian martial artist and screen stuntman who used these peptides. His death has become a test case, raising the question of whether popular but unproven treatments are too easy to get, and whether regulators need to step in more firmly.",
-    "impact_score": 55,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/6bcfaec48064fa10f626b38a89296ed6?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=11&width=862&height=485&imformat=generic",
+    "background_beginner": "Australia has laws that make it a crime not just to carry out a terror attack, but also to plan or prepare for one. Federal police, who handle national security cases, can raid homes and arrest people they suspect are getting ready for an attack. In recent years, authorities have worried about young people being drawn into violent ideas online, often through messaging apps. Cases like this one keep coming up because police are trying to stop attacks early. That means courts often hear about alleged plans rather than actual attacks. Anyone charged is presumed innocent until proven guilty.",
+    "impact_score": 38,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/20fabf51f0e18add6094e839f45bc4c7?impolicy=wcms_watermark_news&cropH=570&cropW=1013&xPos=8&yPos=0&width=862&height=485&imformat=generic",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "A Victorian coroner found Australian actor and martial artist Richard Norton's 2025 death was triggered by injecting unapproved peptides, and urged the medicines regulator to consider tougher rules.",
+    "description": "Lucas Shawn Cameron, 22, appeared in Perth Magistrates Court charged with preparing for a terrorist act, after police alleged he researched explosives and got hold of a machete.",
     "tier": "LOCAL",
-    "category": "HEALTH",
+    "category": "CRIME_SAFETY",
     "sources": [
      {
       "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-29/victoria-peptide-death-coroners-report-richard-norton/107320590"
+      "url": "https://www.abc.net.au/news/2026-10-30/perth-man-charged-with-allegedly-planning-terrorist-attack/107327348"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-10-29T07:15:48.862925+00:00",
-    "published_date": "2026-10-29",
+    "reading_minutes": 1,
+    "created_at": "2026-10-30T14:20:47.532008+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    }
   ],
@@ -451,66 +447,69 @@
     "has_fulltext": true
    },
    {
-    "id": "d42ceb56-8b03-5d33-a9af-48b15e95e1b3",
-    "title": "North Korea fires several missiles amid growing tensions with South Korea",
-    "simplified_title": "North Korea fires about 10 missiles as border tensions with South rise",
-    "quick_summary": "North Korea launched around 10 short-range ballistic missiles into the sea off its east coast on Thursday, adding to a tense stand-off with South Korea over landmines and the border.",
-    "simplified_body": "North Korea fired around 10 short-range ballistic missiles into the sea off its east coast on Thursday, South Korea's military said. They were launched at about 12:30 pm local time from near Wonsan. Japan's Defense Ministry said the missiles landed outside Japan's Exclusive Economic Zone (EEZ), the stretch of sea where a country controls fishing and resources.\n\nThe launch comes as relations between the two Koreas sour. On September 21, three South Korean soldiers were hurt by landmines in the Demilitarized Zone (DMZ), the buffer strip dividing the countries. A joint South Korea–United Nations investigation found North Korea planted the mines south of the military demarcation line more than a year ago. Pyongyang (North Korea's government) denies it and has warned of retaliation. Kim Yo Jong, sister of leader Kim Jong Un, called Seoul's demand for an apology \"despicable\" and rejected its offer of medical equipment.\n\nNorth Korea has tested missiles on more than 10 occasions this year, most recently on October 12, the day after United States (US) President Donald Trump suggested he might meet Kim Jong Un. Trump's outreach has raised worries that South Korea, a key US ally, could be sidelined in any nuclear talks.\n\nSouth Korea says it's boosting surveillance and sharing information with the US and Japan. North Korea has announced plans to restart propaganda broadcasts and deploy new weapons near the border, while Seoul has proposed talks to clarify the border and avoid accidental clashes. Pyongyang hasn't responded yet.",
-    "why_it_matters": "Every launch and border scare raises the risk of a miscalculation in a region that's vital to global trade, including for Australia, whose major trading partners Japan and South Korea sit right next door.",
-    "deep_analysis": "## Historical Context\nAs background: the Korean War (1950–53) ended in an armistice rather than a peace treaty, leaving the peninsula split along the DMZ. North Korea has built up nuclear and missile programs over decades, and Trump met Kim Jong Un in his first term without reaching a lasting deal. This article reports more than 10 rounds of tests this year.\n\n## Multiple Perspectives\nSouth Korea and the UN say North Korea planted the landmines that wounded three soldiers; Pyongyang denies it and threatens retaliation. Seoul wants an apology and border talks, while Kim Yo Jong has dismissed its demands. Meanwhile, Trump's overtures to Kim are seen by some as a chance for diplomacy, but they've also raised concerns that Seoul could be left out of any negotiations.\n\n## What to Watch\n- Whether North Korea answers Seoul's offer of border talks.\n- The resumption of propaganda broadcasts and new weapons deployments near the border.\n- Any concrete moves towards a Trump–Kim meeting, and whether South Korea gets a seat at the table.\n- Further missile launches timed around diplomatic signals.",
+    "id": "986042e0-9c9e-53df-bea5-20b82519d0e2",
+    "title": "North Korea displays drones, missiles as Kim urges AI weapons push",
+    "simplified_title": "North Korea shows off attack drones as Kim pushes AI weapons",
+    "quick_summary": "North Korea staged a weapons demonstration featuring suicide drones, cruise missiles and rocket launchers, a day after firing around a dozen short-range ballistic missiles, as leader Kim Jong Un called for faster military drone and artificial intelligence development.",
+    "simplified_body": "North Korea has test-fired attack drones, missiles and a multiple rocket launcher at a weapons demonstration, state media reported on Friday 30 October. Leader Kim Jong Un called for faster development of drone and artificial intelligence (AI) technology for military use, saying \"peace is guaranteed only by strength.\" The display included suicide attack drones, drones firing air-to-surface missiles, cruise missiles and 600mm multiple rocket launchers. The Korean Central News Agency (KCNA), the North's state media, claimed the weapons hit an island target with 100 per cent accuracy.\n\nA day earlier, South Korea's Joint Chiefs of Staff said around a dozen short-range ballistic missiles were fired from the Wonsan area towards the East Sea (Sea of Japan), flying about 250km. It's not yet clear whether those launches were part of the demonstration. Seoul's National Security Office said they violated United Nations (UN) Security Council resolutions.\n\nTensions were already high. A landmine blast on the border wounded three South Korean soldiers, and a joint Seoul-UN investigation found North Korea planted the mines over a year ago. Seoul called it a violation of the Armistice Agreement and demanded an apology, which the North mocked. The two Koreas are technically still at war, because the 1953 Korean War ended in a truce, not a peace treaty. The border zone, the Demilitarized Zone (DMZ), is one of the world's most heavily fortified frontiers.\n\nWhat's next? Kim's sister, Kim Yo Jong, says loudspeakers for propaganda will be readied on the border. South Korea has proposed military talks to confirm the border's exact location, but the North hasn't replied. Meanwhile, US President Donald Trump's overtures to Kim have raised worries that Seoul could be sidelined in any nuclear talks.",
+    "why_it_matters": "North Korea is racing to add drones and AI to its arsenal while border tensions with the South grow, which raises the risk of miscalculation in a region vital to Australia's trade and security partnerships with South Korea, Japan and the US.",
+    "deep_analysis": "## Historical Context\nThe Korean War (1950–53) ended with an armistice, not a peace treaty, leaving the two Koreas technically at war and divided by the DMZ. As general background, North Korea has been under UN Security Council sanctions for years over its nuclear and ballistic missile programmes, which is why Seoul says these launches breach UN resolutions. Loudspeaker propaganda and landmine incidents have flared up tensions before.\n\n## Multiple Perspectives\n- **North Korea**: Kim frames drone and AI superiority as essential to modern warfare and argues strength guarantees peace. Its claims of 100 per cent accuracy come from state media and haven't been independently verified.\n- **South Korea**: Seoul calls the launches serious violations that don't help manage the situation, but has also offered military talks and restored communication channels, mixing pressure with diplomacy.\n- **United States**: Washington is analysing the missiles with Seoul. Trump calls his relationship with Kim \"very good\" yet has seemingly downplayed a summit, leaving some in Seoul uneasy about being sidelined.\n\n## What to Watch\n- Whether North Korea answers Seoul's offer of border talks.\n- Whether loudspeaker broadcasts resume along the DMZ.\n- Further tests of AI-linked weapons, following the recent torpedo and hypersonic missile tests.\n- Any shift in US–North Korea diplomacy and how it involves South Korea.",
     "concepts": [
      {
       "term": "short-range ballistic missiles",
-      "definition": "Rockets that fly in an arc over relatively short distances, usually a few hundred kilometres, and can carry warheads.",
-      "context": "North Korea fired around 10 of these into the sea on Thursday."
+      "definition": "Rockets that fly in a high arc and hit targets relatively close by, typically within a few hundred kilometres.",
+      "context": "North Korea fired around a dozen of these, which flew about 250km."
      },
      {
-      "term": "Demilitarized Zone (DMZ)",
-      "definition": "A heavily guarded buffer strip of land separating North and South Korea.",
-      "context": "Landmines in the DMZ wounded three South Korean soldiers in September."
+      "term": "suicide attack drones",
+      "definition": "Uncrewed aircraft designed to crash into a target and explode, rather than return home.",
+      "context": "They were a highlight of North Korea's weapons demonstration."
      },
      {
-      "term": "Exclusive Economic Zone (EEZ)",
-      "definition": "The sea area extending from a country's coast where it has rights over fishing and resources.",
-      "context": "Japan said the missiles fell outside its EEZ."
+      "term": "Armistice Agreement",
+      "definition": "The 1953 deal that stopped the fighting in the Korean War without formally ending the war.",
+      "context": "Seoul says North Korea's landmines breached it."
      },
      {
-      "term": "military demarcation line",
-      "definition": "The actual border line running through the middle of the DMZ.",
-      "context": "Investigators found the mines were planted on the South's side of this line."
+      "term": "Demilitarized Zone",
+      "definition": "The heavily guarded strip of land separating North and South Korea.",
+      "context": "The landmine blast that wounded three South Korean soldiers happened along this border."
      }
     ],
     "quiz": {
-     "question": "Why are some people worried that South Korea could be sidelined?",
+     "question": "Why are North and South Korea described as still technically at war?",
      "options": [
-      "Because Trump's outreach to Kim Jong Un could lead to US–North Korea talks without Seoul playing a central role",
-      "Because South Korea refused to share information with the US",
-      "Because Japan has taken over South Korea's border defence",
-      "Because the UN has cut ties with Seoul"
+      "Because the Korean War ended with a truce rather than a peace treaty",
+      "Because fighting never stopped after 1953",
+      "Because the UN declared war on North Korea in 2020",
+      "Because South Korea refuses to recognise the DMZ"
      ],
      "answer_index": 0,
-     "explanation": "The article says Trump's recent overtures to Pyongyang have raised concerns that South Korea, a key US ally, could be left out of potential nuclear negotiations."
+     "explanation": "The 1953 Armistice Agreement halted fighting but no peace treaty was ever signed, so the war never formally ended."
     },
-    "background_beginner": "Korea was split into North and South after World War II, and the two sides fought a war in the 1950s that ended in a ceasefire, not a peace deal. They've been technically at war ever since. North Korea is a secretive state led by Kim Jong Un, and it keeps testing missiles to show off its military strength and pressure its neighbours and the United States. South Korea is a close US ally, with Japan nearby also on alert. Tests, border incidents and on-off talks with US leaders like Donald Trump keep this rivalry in the news.",
-    "impact_score": 55,
-    "image_url": "https://static.dw.com/image/79636092_6.jpg",
+    "background_beginner": "Korea was split into North and South after World War II. In 1950 the North invaded the South, sparking the Korean War, which stopped in 1953 with a ceasefire but never a peace deal. Since then the North, run by the Kim family, has built nuclear weapons and missiles despite UN bans, while the South is a democracy closely allied with the United States. The two sides are separated by a heavily guarded border. The issue keeps coming up because North Korea regularly tests new weapons, border incidents flare, and every US president has tried, with limited success, to talk the North into giving up its nukes.",
+    "impact_score": 58,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--rL3EAJZq--/c_crop,h_576,w_1024,x_0,y_53/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/29/000_d2xk9dy.jpg?itok=cXoHjjSc",
     "region": "Asia",
     "region_code": "ASIA",
-    "description": "North Korea launched around 10 short-range ballistic missiles into the sea off its east coast on Thursday, adding to a tense stand-off with South Korea over landmines and the border.",
+    "description": "North Korea staged a weapons demonstration featuring suicide drones, cruise missiles and rocket launchers, a day after firing around a dozen short-range ballistic missiles, as leader Kim Jong Un called for faster military drone and artificial intelligence development.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf"
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-drones-missiles-kim-jong-un-6505466"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-29T07:15:50.854096+00:00",
-    "published_date": "2026-10-29",
+    "related_story_ids": [
+     "b97ede95-3b78-5d59-8563-c3b68feb6f72",
+     "d42ceb56-8b03-5d33-a9af-48b15e95e1b3"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-10-30T14:20:36.254025+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    }
   ],
@@ -649,69 +648,6 @@
     "has_fulltext": true
    },
    {
-    "id": "b05291b5-1fd3-51aa-bf2e-f3c6e2cc9395",
-    "title": "What European students can learn from their Serbian peers",
-    "simplified_title": "Serbia's student movement deals Vucic's government a historic election blow",
-    "quick_summary": "A leaderless Serbian student movement, sparked by a deadly 2024 train station collapse, has delivered an unprecedented electoral blow to President Aleksandar Vucic's government and is now negotiating to form government, an opinion piece argues.",
-    "simplified_body": "Serbia's student movement, which spent almost two years protesting against President Aleksandar Vucic's government, has dealt it an unprecedented blow at Sunday's election. Opposition parties had failed to do that for more than a decade. The students' Student List has already started negotiations to form a government.\n\nThe protests began after 16 people died when a canopy collapsed at a newly renovated train station in Novi Sad in 2024. But the anger ran deeper: corruption, mismanagement and poor job prospects had squeezed students and their families. The movement stayed independent of every political party and of Russia, China, the European Union and the United States. Students occupied universities, ran them through mass meetings called student plenaries, and later urged ordinary people to form citizens' assemblies.\n\nWhen it came to the election, the students chose candidates collectively, through interviews with hundreds of students. They refused to nominate established politicians and kept an equal gender balance. The author, writing an opinion piece for Al Jazeera, calls this leaderless model a new kind of politics.\n\nThe road ahead is tough. The Student List's program condemns the genocide in Gaza, which could mean halting arms exports to Israel. Those exports jumped from $3.3m in 2023 to $126m in 2025. That could stir resistance from local vested interests and foreign partners. United States conservative influencers backed Vucic late in the campaign, and the Conservative Political Action Conference (CPAC) plans a Serbian chapter in November.",
-    "why_it_matters": "It shows a grassroots, leaderless youth movement beating an entrenched government at the ballot box. That's a model being watched as student movements stir across Europe, from Belgium and France to Italy and Spain.",
-    "deep_analysis": "## Historical Context\nVucic's camp has governed Serbia for about 14 years, according to the article. Previous protests against him fizzled out. As background, Serbia is an EU membership candidate that has also kept close ties with Russia and China. The 2024 Novi Sad canopy collapse became a symbol of alleged corruption in public works.\n\n## Multiple Perspectives\nThis is an opinion piece by an author sympathetic to the students, who personally visited the occupied faculties. The author argues the students were long dismissed as naive and that their independence was key to their success. The article doesn't give Vucic's side of the story or any detailed election figures. Supporters of Vucic, including US conservative influencers, framed backing him as defending Serbia's Christian identity. The author also concedes that leaderless politics worked \"in that particular moment\", which hints it may struggle in government.\n\n## What to Watch\n- Whether the Student List can actually form a government.\n- Whether it halts arms exports to Israel and how foreign partners react.\n- The launch of CPAC's Serbian chapter in November.\n- Whether the movement's model inspires student movements elsewhere in Europe.",
-    "concepts": [
-     {
-      "term": "student plenaries",
-      "definition": "Large open meetings where students debate and make decisions together, without formal leaders.",
-      "context": "They were the core decision-making tool inside the occupied universities."
-     },
-     {
-      "term": "citizens' assemblies",
-      "definition": "Local gatherings of ordinary people who meet to discuss issues and decide on action together.",
-      "context": "Students called for these in March 2025 to widen support beyond campuses."
-     },
-     {
-      "term": "vested interests",
-      "definition": "Groups that benefit from the current system and so resist change to it.",
-      "context": "Arms industry players could push back if exports to Israel stop."
-     }
-    ],
-    "quiz": {
-     "question": "Why does the author think the Serbian students kept up pressure where earlier protests failed?",
-     "options": [
-      "They chose a single charismatic leader",
-      "They stayed independent of parties and foreign powers",
-      "They got funding from the European Union",
-      "They allied with the biggest opposition party"
-     ],
-     "answer_index": 1,
-     "explanation": "The article credits the movement's independence from domestic parties and all four superpowers, plus its own democratic structures."
-    },
-    "background_beginner": "Serbia is a country in south-east Europe. For roughly 14 years it has been led by a government now headed by President Aleksandar Vucic. Critics have long accused that government of corruption. In 2024, a newly renovated train station canopy in the city of Novi Sad collapsed and killed 16 people. Students blamed the disaster on corruption and started protesting. They occupied universities and organised themselves through big group meetings rather than leaders. Ordinary people soon joined them. The students then pushed for early elections and ran their own candidates. The story keeps coming up because they finally dealt Vucic's side a major election blow.",
-    "impact_score": 62,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26295569663365-1792897665.jpg?resize=1920%2C1440",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "A leaderless Serbian student movement, sparked by a deadly 2024 train station collapse, has delivered an unprecedented electoral blow to President Aleksandar Vucic's government and is now negotiating to form government, an opinion piece argues.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/10/29/what-european-students-can-learn-from-their-serbian-peers?traffic_source=rss"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "180073e5-d43b-5170-bd00-b4079af814ea",
-     "264cc4da-ef08-5587-bbcc-1be0f65b18e1",
-     "3d095c16-f1c1-5b99-96e1-a613ef890af1",
-     "93ed7b29-3db1-5434-b0ca-e00bab5bcd20"
-    ],
-    "reading_minutes": 5,
-    "created_at": "2026-10-29T07:15:33.961901+00:00",
-    "published_date": "2026-10-29",
-    "has_fulltext": true
-   },
-   {
     "id": "efbeb64f-0016-5c24-ade2-74f2ffd02bc5",
     "title": "Healey provides some breathing space but things still set to get worse for most",
     "simplified_title": "UK Budget offers small relief as living standards set to fall",
@@ -783,75 +719,75 @@
   ],
   "MIDDLE_EAST_AFRICA": [
    {
-    "id": "b919f1d2-2f4a-50c5-86c0-99ec7cb994b3",
-    "title": "Ebola outbreak passes 10,000 cases in DRC after nurse killed, another injured",
-    "simplified_title": "Congo's Ebola outbreak passes 10,000 cases and spreads beyond Africa's borders",
-    "quick_summary": "A rare strain of Ebola with no approved vaccine has now infected more than 10,000 people in the Democratic Republic of Congo, killing almost 5,000, and has spread to Kenya, Uganda and Nigeria.",
-    "simplified_body": "The Ebola outbreak in the Democratic Republic of Congo (DRC) has passed 10,000 cases, with 4,887 deaths across eight provinces. It's the DRC's largest outbreak on record and the second largest globally. The milestone came just after a nurse was killed and another health worker badly injured while responding to an Ebola alert in Tshopo province.\n\nChildren are hit hard: Save the Children says more than 2,700 of those infected are kids. The outbreak has also crossed borders. Kenya has confirmed nine cases and two deaths, Uganda recorded two deaths, and Nigeria confirmed a case in a woman who'd travelled from Uganda. She has since been flown to Switzerland for treatment. France confirmed a case in June in a doctor returning from the DRC.\n\nWhat makes this outbreak tricky is that it's caused by the rarer Bundibugyo virus. It didn't show up on available test kits for weeks, and there's no approved vaccine or treatment, though trials are under way. The eastern DRC, the epicentre, is one of the most unstable places in the world, and responders face violence, misinformation, unpaid wages and shortages of protective gear.\n\nThe Africa Centres for Disease Control and Prevention (Africa CDC) has called a meeting of African health ministers to push for border screening and cooperation. Its chief, Jean Kaseya, warns no country is safe and says more than $2 billion in pledged funding is still outstanding. Vaccine trial results are expected in three to six months. Kenya hopes to declare its outbreak over within two months if no new cases appear.",
-    "why_it_matters": "Africa CDC's chief explicitly compares this outbreak's unprecedented spread to the early days of COVID, warning that countries far from Africa, including wealthy ones, shouldn't assume they're safe. With no approved vaccine, funding gaps and attacks on health workers, containment is much harder than in recent outbreaks.",
-    "deep_analysis": "## Historical Context\nThis is the DRC's 17th Ebola outbreak since the virus was identified (as background, that was in 1976). It was declared on 15 May in Ituri province, though genetic sequencing shows it began in February. It's now the second largest Ebola outbreak globally; as background, the largest was the 2014–16 West African epidemic, which killed more than 11,000 people. Most recent DRC outbreaks involved the Zaire strain, for which vaccines exist. This one is Bundibugyo, which has no approved vaccine and initially evaded test kits.\n\n## Multiple Perspectives\nAfrica CDC's Jean Kaseya calls the geographic spread unprecedented, noting it's the first time three African regions have been affected, and warns countries such as the UK could become hotspots. Kenya's government is more upbeat, calling the release of early contacts a \"milestone worth celebrating\" and saying all cases are linked with no community spread. Kenya's doctors' union disagrees that enough is being done, pointing to understaffed borders and the infection of three health workers and a cleaner. Save the Children stresses the toll on children in communities already facing conflict and hunger. Note the sources differ slightly: ABC and BBC describe this as the second largest or second deadliest globally, while The Guardian calls it the largest and deadliest in the DRC's history (both can be true).\n\n## What to Watch\n- Vaccine trial results, expected in three to six months.\n- Whether the outstanding $2 billion-plus in pledged funding arrives.\n- Kaseya's push for a \"corridor of peace\" in conflict zones at a November heads-of-state meeting.\n- Whether Kenya's 98 remaining quarantined contacts stay healthy, allowing the 42-day countdown to end its outbreak.\n- Any new cases outside Africa.",
+    "id": "e5a91d18-7570-53b7-8a3e-97e5a67f9670",
+    "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
+    "simplified_title": "Vance letter to Iran could be last shot at avoiding renewed war",
+    "quick_summary": "US Vice-President JD Vance has written to a senior Iranian official offering direct talks, even as the US and Israel reportedly prepare fresh strikes on Iran after the 3 November US midterm elections.",
+    "simplified_body": "US Vice-President JD Vance sent a personal letter on Sunday, delivered through Qatari mediators, to Mohsen Rezaei, secretary of Iran's Supreme National Security Council. It offers direct talks led by Vance. Iran would have to make nuclear commitments at the start, in return for US sanctions relief and a process to reopen the Strait of Hormuz within seven days. Meanwhile, the US has reportedly drawn up joint plans with Israel to attack Iran after the midterms, and has moved munitions and cargo planes into the region.\n\nThe sticking point is sequencing. The US wants Iran to commit early to removing its stockpile of highly enriched uranium. Iran doesn't want to give up something irreversible while US steps, like lifting oil sanctions, could be undone. Iran's chief negotiator, Mohammad Ghalibaf, says progress depends on Iran's seven conditions, including lifting sanctions, unfreezing assets, ending the US naval blockade and ending the war on all fronts. The Gulf states matter a lot here, because Iran has plans to hit their desalination plants, internet cables and power grids if attacked.\n\nThe US and Iran have been at war for eight months. Iran's supreme leader Ali Khamenei was killed in US-Israeli strikes in February, and his son Mojtaba replaced him. Iran was also attacked during talks in 2025 and 2026, so it deeply distrusts US diplomacy. Analysts disagree on who really decides in Tehran. Some say the Islamic Revolutionary Guard Corps (IRGC) calls the shots; others say decisions are collective.\n\nA reply from Iran is imminent. Several analysts expect nothing before 3 November, but warn that the risk of major strikes could rise sharply from mid-to-late November. A third-party guarantee, possibly from China, has been floated to break the trust deadlock.",
+    "why_it_matters": "A renewed war could hit Gulf infrastructure and shipping through the Strait of Hormuz, a key route for the world's oil. That could push up global fuel prices, including at Australian petrol pumps.",
+    "deep_analysis": "## Historical Context\nOn 13 June 2025, Israel struck Iranian nuclear and military sites two days before a planned sixth round of US-Iran talks in Oman. The US joined on 22 June, bombing Natanz, Fordow and Isfahan. On 28 February this year, the US and Israel attacked again, two days after Geneva talks that mediator Oman said had made \"significant progress\". That attack killed Supreme Leader Ali Khamenei. Vance later negotiated a 14-point memorandum of understanding, but it fell apart when other US officials took over implementing it. As background, the Strait of Hormuz has long been one of the world's most important oil chokepoints.\n\n## Multiple Perspectives\nSenator Chris Murphy, who was briefed on the US war plan, calls it \"insane\" and warns of devastating escalation. Analyst Rouzbeh Parsi sees Vance as the administration's \"voice of reason\", but says he has never been able to sway Trump. Andreas Krieg reads the outreach as a sign of US second thoughts. Paul Musgrave thinks the simplest reading is that big attacks are coming soon. On who holds power in Iran, Wolfgang Pusztai says the IRGC calls the shots, while Nader Hashemi says Rezaei is \"one voice among many\". Iran says the \"carrot-and-stick approach has no effect\".\n\n## What to Watch\n- Iran's reply to the Vance letter.\n- Whether a guarantor such as China steps in.\n- The midterm results and any strikes from mid-November.\n- How the Gulf states respond.\n- Whether Iran will accept blending down its uranium or allow United Nations (UN) inspectors back in.",
     "concepts": [
      {
-      "term": "Bundibugyo virus",
-      "definition": "A rare species of Ebola virus, named after a district in Uganda.",
-      "context": "It's driving this outbreak, has no approved vaccine or treatment, and wasn't picked up by available test kits for weeks."
+      "term": "highly enriched uranium",
+      "definition": "Uranium processed to a high concentration of the isotope that can fuel a nuclear weapon.",
+      "context": "The US wants Iran's stockpile removed. Iran has instead offered to blend it down so it can't be used for a bomb."
      },
      {
-      "term": "Africa Centres for Disease Control and Prevention",
-      "definition": "The African Union's public health agency, which coordinates disease responses across the continent.",
-      "context": "It's leading calls for border screening, cross-border cooperation and more funding."
+      "term": "sanctions relief",
+      "definition": "Lifting economic penalties, such as bans on buying a country's oil.",
+      "context": "It's the main reward the US is offering Iran in exchange for nuclear commitments."
      },
      {
-      "term": "epicentre",
-      "definition": "The central point where something is worst or started.",
-      "context": "The eastern DRC is the epicentre, with 28 of 36 health zones recording cases amid serious instability."
+      "term": "Islamic Revolutionary Guard Corps (IRGC)",
+      "definition": "A powerful Iranian military force with major political and economic influence.",
+      "context": "The US sent the letter to Rezaei because he is seen as close to the IRGC."
+     },
+     {
+      "term": "sequencing",
+      "definition": "The order in which each side carries out its promises in a deal.",
+      "context": "Iran won't make irreversible nuclear moves first while US concessions could be reversed."
      }
     ],
     "quiz": {
-     "question": "Why is this Ebola outbreak harder to control than many previous ones?",
+     "question": "Why is Iran reluctant to accept the US proposal's order of steps?",
      "options": [
-      "It only affects children",
-      "It has already been declared over in the DRC",
-      "It's caused by a rare strain with no approved vaccine, in a region hit by conflict",
-      "It spreads through the air like the flu"
+      "It has already exported its uranium",
+      "It fears giving up irreversible nuclear concessions while US sanctions relief could be reversed",
+      "It refuses to talk to anyone through Qatar",
+      "It wants China to run its nuclear programme"
      ],
-     "answer_index": 2,
-     "explanation": "The Bundibugyo strain has no approved vaccine or treatment and initially escaped test kits, while violence and instability in eastern DRC hamper responders. Ebola spreads through contact with bodily fluids, not the air."
+     "answer_index": 1,
+     "explanation": "The key dispute is sequencing and trust. Iran fears handing over its leverage first while the US could undo its own steps."
     },
-    "background_beginner": "Ebola is a severe, often deadly disease spread through contact with the blood, vomit or other body fluids of sick people, or of people who've died from it. It was first identified in the 1970s in what's now the Democratic Republic of Congo, a large country in central Africa. The DRC has had many outbreaks since, partly because the virus lives in wildlife there and partly because ongoing conflict in the east makes health care hard to deliver. Key players include the DRC government, the World Health Organization, Africa's own disease agency (Africa CDC) and aid groups. Ebola keeps coming up because outbreaks can spread quickly across borders, and each new one tests how well the world responds.",
-    "impact_score": 78,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/528ae496f52350dca5685d34255918c0?impolicy=wcms_watermark_news&cropH=2396&cropW=4260&xPos=389&yPos=645&width=862&height=485&imformat=generic",
+    "background_beginner": "The United States and Iran have been enemies since Iran's 1979 revolution. A big part of the fight is Iran's nuclear programme, which the US and Israel fear could produce a bomb. In 2025 and again in February this year, Israel and the US bombed Iran, sometimes in the middle of peace talks. That has left Iran deeply distrustful of US diplomacy. The two countries have now been at war for eight months. Iran has partly closed the Strait of Hormuz, a narrow sea lane that much of the world's oil passes through. Countries like Qatar keep trying to broker a deal, but each side wants the other to move first.",
+    "impact_score": 80,
+    "image_url": "https://i.guim.co.uk/img/media/f8cc60575da517f1b807ca56c7a46e06e0e98032/224_0_2998_2398/master/2998.jpg?width=1920&quality=85&auto=format&fit=max&s=bb9e840a350f85a1a049d00ca325c8b3",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "A rare strain of Ebola with no approved vaccine has now infected more than 10,000 people in the Democratic Republic of Congo, killing almost 5,000, and has spread to Kenya, Uganda and Nigeria.",
+    "description": "US Vice-President JD Vance has written to a senior Iranian official offering direct talks, even as the US and Israel reportedly prepare fresh strikes on Iran after the 3 November US midterm elections.",
     "tier": "GLOBAL",
-    "category": "HEALTH",
+    "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-28/ebola-latest-10000-cases/107318116"
-     },
-     {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official"
+      "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran"
      },
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
     "related_story_ids": [
-     "357ebcac-4d16-58b5-9d08-dd0ce6d96cb1",
-     "920de58d-374c-5da9-baa1-d152afa9a420",
-     "e61a7066-899c-5fb7-a4bc-d09fc0db5d44",
-     "e7784c73-91ca-5926-a3c8-70bbbc84035f",
-     "fb15646b-0dc3-51ce-a492-c32758b51f8f"
+     "315ff6a2-e859-54be-9370-470d95fabca2",
+     "a1953172-37fc-55b9-a715-9bbde7c2c360",
+     "adabd6c4-a1b8-5204-9a50-3b162f5bf191",
+     "d83687dc-daf6-5e1c-87b9-7f98e012cce1"
     ],
-    "reading_minutes": 2,
-    "created_at": "2026-10-29T07:15:36.899904+00:00",
-    "published_date": "2026-10-29",
+    "reading_minutes": 3,
+    "created_at": "2026-10-30T14:20:35.913331+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    },
    {
@@ -1386,72 +1322,6 @@
     "created_at": "2026-10-29T14:29:58.419344+00:00",
     "published_date": "2026-10-30",
     "has_fulltext": true
-   },
-   {
-    "id": "90f1142c-1e85-5642-ad5f-75169a18e8ce",
-    "title": "Canada and EU drop associate membership plan in bid to deepen ties",
-    "simplified_title": "EU drops 'associate membership' idea for Canada but promises closer ties",
-    "quick_summary": "Ahead of a summit in Montreal, the European Union (EU) and Canada agreed to an \"ever closer association\" after Germany and other EU countries blocked a plan to make Canada an \"associate member\".",
-    "simplified_body": "Canada and the European Union (EU) have agreed to build an \"ever closer association\", but they've dropped the headline idea of making Canada an \"associate member\" of the EU. The change came in a joint declaration agreed before a two-day summit in Montreal hosted by Canadian Prime Minister Mark Carney. Instead, both sides will work to define the relationship by the 2027 EU-Canada summit, \"short of full membership itself\".\n\nThe idea came from European Commission President Ursula von der Leyen, who floated it in a September speech. It caught EU governments by surprise. Germany, backed by France and Italy among others, objected because associate membership has no legal definition in EU treaties and member states felt they hadn't been consulted. Germany also wants the term kept for countries on a path to joining, like Ukraine. Carney shrugged it off, saying names matter less than the difference for Canadians.\n\nThe backdrop is Canada's trade fight with the United States. Since US President Donald Trump imposed tariffs on Canadian goods, Carney has tried to reduce Canada's reliance on America, which takes nearly 70% of Canada's exports. The EU accounts for about 9% of Canada's total trade. Trump has called the associate membership idea \"laughable\" and warned the US might stop trading with Europe \"on many things\" if he saw it as a \"hostile act\".\n\nThe declaration still promises plenty: an \"Alliance for the Future\" to cut trade barriers, a study into Canadian liquefied natural gas (LNG) exports to Europe, new subsea cables linking Europe, Canada and Asia, and work rights for young people across the Atlantic. Some economic promises were watered down, though. Critics say the push could still provoke Washington while Canada-US trade talks continue.",
-    "why_it_matters": "It shows how US allies are hedging against Washington by teaming up with other \"middle powers\", a strategy Australia, also a mid-sized US ally reliant on big trading partners, watches closely.",
-    "deep_analysis": "## Historical Context\nThe EU hasn't admitted a new member since Croatia joined in 2013. Associate membership has been floated before, including for Ukraine, and rejected. German Chancellor Friedrich Merz had suggested it for Ukraine as a step towards full membership, with Kyiv attending EU meetings without voting rights. As background, Canada and the EU already have a trade agreement (CETA), so this push builds on existing ties. Carney called at Davos in January for \"middle powers\" to work together.\n\n## Multiple Perspectives\n- **EU officials** called the summit a \"historic milestone\" and said all member states back the closest possible relationship with Canada.\n- **Germany and others** argued a status with no legal basis and no consultation couldn't be signed. One diplomat called it \"fixing the plane while it is flying\".\n- **Carney** said nomenclature doesn't matter; outcomes for Canadians do. He has said Canada has no interest in formally joining the EU.\n- **Sceptics**: ex-Finance Ministry adviser Julian Karaguesian called it \"a bit of a show\" and \"ill-defined\". Trade lawyer Barry Appleton called the statement \"highly provocative\" towards the US, pointing to its criticism of US sanctions on the International Criminal Court and alignment on AI and digital rules.\n- **TD Economics** says tens of billions in extra trade is possible if barriers fall.\n\n## What to Watch\n- How the relationship gets defined before the 2027 summit.\n- Whether Trump retaliates against Canada or Europe.\n- Progress on the LNG study, subsea cables and the new economic council.\n- Ongoing Canada-US trade talks.",
-    "concepts": [
-     {
-      "term": "associate member",
-      "definition": "A proposed in-between status giving a country close ties to the EU without full membership. It has no legal definition in EU treaties.",
-      "context": "Von der Leyen proposed it for Canada, but EU countries removed it from the summit declaration."
-     },
-     {
-      "term": "tariffs",
-      "definition": "Taxes a country places on imported goods, making them more expensive.",
-      "context": "Trump's tariffs on Canadian goods pushed Carney to look for other trading partners like the EU."
-     },
-     {
-      "term": "liquefied natural gas (LNG)",
-      "definition": "Natural gas cooled into a liquid so it can be shipped long distances by sea.",
-      "context": "Canada and the EU will study whether Canada can export more of it to Europe."
-     }
-    ],
-    "quiz": {
-     "question": "Why did Germany and other EU countries block the 'associate membership' label for Canada?",
-     "options": [
-      "They oppose closer ties with Canada",
-      "The status has no legal basis in EU treaties and wasn't properly consulted on",
-      "Canada asked to become a full EU member instead",
-      "Trump ordered the EU to drop it"
-     ],
-     "answer_index": 1,
-     "explanation": "Those countries support closer cooperation with Canada, but objected that associate membership is undefined in EU treaties, they weren't consulted, and the term was tied up with discussions about Ukraine."
-    },
-    "background_beginner": "The European Union is a group of 27 European countries that share a single market and make many rules together. Canada sells most of its goods to its neighbour, the United States. When US President Donald Trump put tariffs on Canadian products, Canada's Prime Minister Mark Carney started looking for other friends, especially Europe. The head of the EU's executive arm, Ursula von der Leyen, then offered Canada a special 'associate member' status, but several EU countries said it wasn't properly thought through. The story keeps coming up because it's part of a bigger shift: US allies trying to rely less on Washington.",
-    "impact_score": 52,
-    "image_url": "https://s.france24.com/media/display/de478f98-d32c-11f1-b496-47de50b3c1e4/w:1280/p:16x9/AP26264053021764.jpg",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "Ahead of a summit in Montreal, the European Union (EU) and Canada agreed to an \"ever closer association\" after Germany and other EU countries blocked a plan to make Canada an \"associate member\".",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-29T07:15:52.786974+00:00",
-    "published_date": "2026-10-29",
-    "has_fulltext": true
    }
   ],
   "ADF": [
@@ -1513,6 +1383,64 @@
     "reading_minutes": 3,
     "created_at": "2026-10-30T07:18:17.231011+00:00",
     "published_date": "2026-10-30",
+    "has_fulltext": true
+   },
+   {
+    "id": "83ab119f-7cff-579d-b016-55bf24117046",
+    "title": "Bluebottle drones that never sleep level playing field in Pacific drug war",
+    "simplified_title": "Australian-made sea drones to help Fiji spot Pacific drug smugglers",
+    "quick_summary": "Australia is giving Fiji solar-powered Bluebottle sea drones that can patrol for up to six months to help detect drug traffickers moving through the Pacific towards Australia and New Zealand.",
+    "simplified_body": "Fiji will start receiving Australian-made Bluebottle drones next year to help watch its huge ocean territory for drug smugglers. The 7.4-metre uncrewed boats run on sun and wave power, can stay at sea for up to six months, and use artificial intelligence (AI) to flag suspicious vessels. Fiji hasn't said how many it's getting, because it wants to \"keep drug dealers guessing\".\n\nSmugglers from the Americas use Fiji as a transit point to reach lucrative drug markets in Australia and New Zealand. Fiji's navy has just two large patrol boats, so its Defence Minister Pio Tikoduadua says the waters are simply too big to watch. Fijian personnel will run the drones, sending data to an Australian-funded security hub near Suva, and share it with partners including Australia.\n\nThe drones are part of a $600 million Australian package for Waqa Moana, a Pacific-wide maritime security initiative against drug trafficking. Sydney company Ocius Technology designed them, and the Australian Navy already has 15, with 40 more ordered under a $176 million contract. In a recent four-week New Zealand trial in Fiji, officials reported two Bluebottles detected more than 100 illegal fishing vessels, many with their transponders switched off.\n\nExperts think the drones could push smugglers onto riskier routes. But Steve Symon, a New Zealand organised crime adviser, warns they'd need to be used in large numbers, and syndicates may shift to cargo ships, port corruption, or even their own drones.",
+    "why_it_matters": "Much of the drug supply heading through the Pacific is aimed at Australia, so helping Fiji watch its waters is partly about protecting Australian communities, while also deepening Australia's security ties in the region.",
+    "deep_analysis": "## Historical Context\nFiji sits across shipping lanes between the Americas and Australia/New Zealand, making it a transit point for traffickers. Its navy relies on Australian-donated Guardian-class patrol boats, and one replacement, RFNS Puamau, ran aground on its maiden voyage in 2024. As background, Australia has long funded Pacific maritime security, partly to remain the region's preferred security partner.\n\n## Multiple Perspectives\nFiji's Defence Minister sees the drones as a way to stretch limited resources. Academic Jose Sousa-Santos says they performed as intended in the NZ trial and could force smugglers onto less profitable routes. Steve Symon is more cautious: the region is vast, so numbers matter, and criminals will adapt, possibly with their own drones. Australian officials didn't say whether the drones might monitor foreign military vessels, though Jennifer Parker of the University of Western Australia doubts they change much strategically given existing intelligence sharing.\n\n## What to Watch\n- Arrival of Fiji's first drones next year and how many are deployed.\n- Whether traffickers shift to cargo ships or port corruption.\n- Any use beyond drugs and illegal fishing.\n- Rollout of the wider Waqa Moana program, including Australian Federal Police work.",
+    "concepts": [
+     {
+      "term": "uncrewed",
+      "definition": "Operating without anyone on board; controlled remotely or by software.",
+      "context": "Bluebottles patrol for months without sailors, with humans monitoring via satellite."
+     },
+     {
+      "term": "transponders",
+      "definition": "Devices on ships that broadcast their identity and location.",
+      "context": "Many fishing boats spotted in the trial had switched theirs off to avoid detection."
+     },
+     {
+      "term": "Waqa Moana",
+      "definition": "A Pacific-wide maritime security initiative to counter illicit drug trafficking, backed by a $600 million Australian package.",
+      "context": "The drones and training for Fiji are funded through it."
+     }
+    ],
+    "quiz": {
+     "question": "Why does Steve Symon think Bluebottles alone may not stop trafficking?",
+     "options": [
+      "They can only detect submarines",
+      "They can't operate in bad weather",
+      "Fiji's navy refuses to use them",
+      "The region is huge and criminals are likely to adapt"
+     ],
+     "answer_index": 3,
+     "explanation": "He says they'd need large numbers to cover the vast region, and syndicates could switch to cargo ships, port corruption or their own drones."
+    },
+    "background_beginner": "Illegal drugs like cocaine are often made in the Americas and sold in Australia and New Zealand, where they fetch high prices. To get there, smugglers cross the Pacific Ocean, often passing through island nations like Fiji. Fiji has hundreds of islands and enormous stretches of ocean, but only a small navy, so it's hard to see who's coming and going. Australia, as a big neighbour and close partner, regularly helps Pacific countries with boats, money and training. The topic keeps coming up because demand for drugs stays high, smugglers keep finding new routes, and Pacific security is also tied to wider competition for influence in the region.",
+    "impact_score": 55,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/1e88796a094f4267995d0f70b34fea05?impolicy=wcms_watermark_news&cropH=2559&cropW=4550&xPos=450&yPos=776&width=862&height=485&imformat=generic",
+    "region": "Australian defence, ADF, AUKUS, regional security",
+    "region_code": "ADF",
+    "description": "Australia is giving Fiji solar-powered Bluebottle sea drones that can patrol for up to six months to help detect drug traffickers moving through the Pacific towards Australia and New Zealand.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-30/how-sea-drones-could-even-playing-field-in-drug-crisis/107297868"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-10-30T14:20:32.997413+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    },
    {
@@ -1578,64 +1506,6 @@
     "reading_minutes": 4,
     "created_at": "2026-10-30T07:18:36.633984+00:00",
     "published_date": "2026-10-30",
-    "has_fulltext": true
-   },
-   {
-    "id": "a11ca693-2872-5917-adb6-bfdab3a9f7e7",
-    "title": "Australian defence chief says China military buildup creating 'pressure' in Southeast Asia",
-    "simplified_title": "Marles says China's military buildup is pressuring Southeast Asia",
-    "quick_summary": "Australian Defence Minister Richard Marles says China's huge military buildup is creating 'pressure' in Southeast Asia and has urged allies to work more closely together.",
-    "simplified_body": "Speaking in Cebu in the Philippines on Thursday, 29 October, Australian Defence Minister Richard Marles said China is carrying out \"the biggest conventional military build-up\" since the end of the Second World War. He added that China hasn't explained why, and that this is creating a \"condition of pressure\" in the region. He was attending a meeting of Southeast Asian defence ministers.\n\nThis matters for countries around the South China Sea, especially the Philippines, which has had years of confrontations with China there. Manila said earlier this month that China's military and coast guard presence in contested areas nearly doubled in September. Marles said that for a middle power like Australia, the rules-based order is what gives it \"agency\", meaning the ability to influence what happens.\n\nSome background: China claims almost the entire South China Sea, even though an international ruling found its position has no legal basis. Beijing sends hundreds of coast guard, navy and other vessels to patrol disputed areas and has militarised artificial islands. In July, Australia also protested a Chinese test of a nuclear-capable missile in the South Pacific, calling it \"destabilising\".\n\nMarles met with the \"Squad\", an informal security group of Australia, Japan, the United States and the Philippines, and they agreed to coordinate defence policy more closely. He said now is the time to \"double down on friends and to double down on neighbours\", so expect deeper defence ties between Australia and Southeast Asian partners.",
-    "why_it_matters": "Australia depends on the rules-based order and on open sea lanes through the South China Sea, so rising tension there directly affects its security and trade.",
-    "deep_analysis": "## Historical Context\nBackground: China's claims in the South China Sea are based on a broad line on its maps. In 2016 an international tribunal, in a case brought by the Philippines, ruled those claims had no legal basis, which the article refers to as an international ruling. China rejected it and has kept building and militarising artificial islands.\n\n## Multiple Perspectives\nMarles frames China's buildup as unexplained and destabilising, and says rules protect middle powers. The Philippines reports a near doubling of Chinese presence in September. The article doesn't include China's response; Beijing generally says its activities are lawful and defensive, though that view isn't in the source.\n\n## What to Watch\nWatch for concrete Squad commitments, more joint patrols or exercises, further Philippine reports of Chinese vessel numbers, and any Chinese reaction to Marles's comments.",
-    "concepts": [
-     {
-      "term": "rules-based order",
-      "definition": "The system of international laws and agreed norms that countries are expected to follow.",
-      "context": "Marles says Australia relies on this order because the rules give middle powers influence."
-     },
-     {
-      "term": "middle power",
-      "definition": "A country with real but limited global influence, not a superpower.",
-      "context": "Marles describes Australia this way to explain why international rules matter to it."
-     },
-     {
-      "term": "Squad",
-      "definition": "An informal defence and security group of Australia, Japan, the United States and the Philippines.",
-      "context": "Its members agreed in Cebu to coordinate defence policy more closely."
-     }
-    ],
-    "quiz": {
-     "question": "Why does Marles say the rules-based order is especially important for Australia?",
-     "options": [
-      "Because the rules let Australia claim the South China Sea",
-      "Because Australia wrote most of the international rules",
-      "Because China has promised to follow them",
-      "Because as a middle power, rules give Australia agency"
-     ],
-     "answer_index": 3,
-     "explanation": "Marles said that for a middle power like Australia, it is the rules which give it agency, the ability to influence events without superpower strength."
-    },
-    "background_beginner": "The South China Sea is a busy body of water bordered by China, the Philippines, Vietnam, Malaysia and others. Huge amounts of trade pass through it. China claims nearly all of it, which clashes with neighbours' claims, and an international ruling said China's position has no legal basis. China has built artificial islands and sends many ships to patrol. Countries like Australia, the US and Japan worry this threatens free movement and regional stability, so they team up with Southeast Asian partners. The issue keeps coming up because ships regularly confront each other and China's military keeps growing.",
-    "impact_score": 55,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--d2R39GGn--/c_crop,h_1125,w_1999,x_1,y_209/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/29/2026-10-29t013138z_1492466393_rc2ocoavq4kl_rtrmadp_3_asean-philippines-defence.jpg?itok=L77bsBO9",
-    "region": "Australian defence, ADF, AUKUS, regional security",
-    "region_code": "ADF",
-    "description": "Australian Defence Minister Richard Marles says China's huge military buildup is creating 'pressure' in Southeast Asia and has urged allies to work more closely together.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/china-military-buildup-creates-pressure-southeast-asia-australia-6502011"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-29T07:15:30.974129+00:00",
-    "published_date": "2026-10-29",
     "has_fulltext": true
    }
   ],
@@ -1707,130 +1577,130 @@
     "has_fulltext": true
    },
    {
-    "id": "8c2b781d-7d14-577b-bf17-cd85475f7b64",
-    "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-    "simplified_title": "Anthropic's share market filing lists AI risks, including humanity-level dangers",
-    "quick_summary": "Anthropic's newly published paperwork for listing on the share market spends 93 pages warning investors about risks, from ordinary business worries to AI that could pose catastrophic or existential risks to humanity.",
-    "simplified_body": "The US Securities and Exchange Commission (SEC) published Anthropic's S-1 form on Monday. That's the document a company files before an initial public offering (IPO), when it first sells shares to the public. Much of the chatter has been about whether Anthropic's fast-growing revenue can catch up with its even bigger costs.\n\nThe filing's \"Risk Factors\" section runs 93 pages and over 70,000 words, covering hundreds of possible problems. Most are standard business worries like competition, costs, winning customers and regulation. But some are unusual. Anthropic warns that AI could pose \"catastrophic or existential risks to humanity\", and notes these concerns have been raised inside the company as well as by researchers, regulators and policymakers. Ars Technica's headline also flags warnings about AI blackmailing people and becoming sentient.\n\nAnthropic is the company behind the Claude AI models. It says the main worry isn't any current model, but near-future systems that could \"substantially automate AI research and development\" themselves. If such systems were given a high degree of autonomy, they might speed up AI progress beyond the company's ability to test and safeguard new models.\n\nThe filing also talks up AI's potential to transform the economy more than electricity or the internet did. Investors will now weigh that optimism against both the financial and safety risks before the heavily anticipated listing goes ahead.",
-    "why_it_matters": "It's rare for a company to tell would-be investors its own product could threaten humanity, and it shows how seriously AI risks are taken even by the people building it. Australians use Claude and similar tools, so how these risks are managed matters here too.",
-    "deep_analysis": "## Historical Context\nAs background, Anthropic was founded by former OpenAI staff with a strong focus on AI safety. US companies going public must disclose material risks in an S-1, and lawyers often list risks broadly to protect against later lawsuits. Anthropic's 70,000-word section is unusually long, even by those standards.\n\n## Multiple Perspectives\nAnthropic itself frames AI as potentially bigger than industrialisation, electricity, semiconductors and the internet, yet warns of catastrophic risks from future self-improving systems. Ars Technica describes the sector as a \"hype-filled AI bubble\" and notes debate over whether revenues can outrun costs. Sceptics might see the existential warnings as legal box-ticking or even hype. Safety advocates might see them as an honest admission.\n\n## What to Watch\n- Whether the IPO goes ahead as anticipated and how investors value the company\n- Whether Anthropic's revenue growth closes the gap with its costs\n- How regulators respond to warnings about highly autonomous AI that does its own research and development\n- Whether other AI companies make similar disclosures",
+    "id": "72597008-acc3-5015-8369-4d885c3f3663",
+    "title": "Nvidia CEO reportedly targeted by an alleged Chinese spy",
+    "simplified_title": "US reportedly believes alleged Chinese spy got close to Nvidia boss",
+    "quick_summary": "US intelligence reportedly believes a Singapore-linked businesswoman acting for China built a close relationship with Nvidia chief Jensen Huang, a claim China calls \"groundless speculation\" and Nvidia says involved only normal business.",
+    "simplified_body": "The New York Times, citing unnamed sources, reports that US intelligence agencies believe Alice Huang (also known as Huang Le), linked to Singapore-based data centre company Megaspeed, was acting as a Chinese intelligence asset passing commercial information to Beijing. She's no relation to Nvidia's chief executive, Jensen Huang, but officials reportedly found she'd developed a close relationship with him.\n\nThis matters because Nvidia makes the chips powering the artificial intelligence (AI) boom, and Jensen Huang has a close partnership with US President Donald Trump. White House officials are reportedly alarmed by her access for that reason. Nvidia says the contact was routine: customers like Megaspeed get \"ordinary business information\" and \"zero information relevant to national security\". Jensen Huang called the dealings \"normal and not unusual\" and said she's no longer with Megaspeed. China's foreign ministry called the report \"an attempt to smear China\".\n\nSome background: since 2022 the US has imposed export restrictions on its most advanced Nvidia chips to China, citing national security, though some have loosened under Trump. Alice Huang was first watched over suspected chip smuggling. US surveillance picked up her communications with an American, later identified as Jensen Huang through \"unmasking\". Nvidia says the smuggling claims were investigated and debunked last year, and Jensen Huang says Nvidia \"counted every one\" of Megaspeed's GPUs (graphics processing units).\n\nWhat's next? It's still unclear what information was allegedly passed on or how valuable it was. Megaspeed has hired external lawyers for an internal investigation and says it'll cooperate with the US. Singapore police say their own probe into Megaspeed is ongoing.",
+    "why_it_matters": "It shows how the US–China fight over AI chips now runs through third countries in our region like Singapore, and Australia, as a close US ally with its own AI ambitions, has a stake in how tightly that technology is controlled.",
+    "deep_analysis": "## Historical Context\nThe US has restricted exports of its most advanced Nvidia chips to China since 2022, arguing they could strengthen China's military. As background, these chips have become central to building AI systems, making them a strategic asset. US officials say they've caught firms trafficking chips across the Chinese border and have probed whether companies in third countries help Chinese businesses get around the rules. Singapore has charged four individuals and four companies over fraud on server suppliers.\n\n## Multiple Perspectives\n- **US intelligence (via the New York Times):** reportedly concluded Alice Huang acted for Beijing and got close to Jensen Huang; White House officials are reportedly alarmed.\n- **Nvidia:** says the meetings were routine, no trade secrets were shared, smuggling claims were debunked, and smuggling isn't a significant issue overall.\n- **China:** calls the report \"groundless speculation\" and a smear.\n- **Megaspeed:** takes the claims seriously, has appointed external legal advisers, and offered to cooperate.\n- **Singapore police:** don't enforce other countries' unilateral export controls but won't condone businesses using Singapore to dodge them; their investigation continues.\n\n## What to Watch\n- Whether details emerge on what information was allegedly passed and when.\n- Outcomes of Megaspeed's internal review and Singapore's investigation.\n- Whether the story affects Jensen Huang's push to sell more chips to China and the Trump administration's export policy.",
     "concepts": [
      {
-      "term": "initial public offering",
-      "definition": "The first time a company sells its shares to the general public on a stock exchange.",
-      "context": "Anthropic filed its S-1 ahead of its planned initial public offering."
+      "term": "export restrictions",
+      "definition": "Government rules limiting which products can be sold to certain countries.",
+      "context": "The US limits sales of top Nvidia chips to China on national security grounds."
      },
      {
-      "term": "S-1 form",
-      "definition": "The registration document a US company must file with the SEC before going public, including its finances and risks.",
-      "context": "Anthropic's S-1 form contains a 93-page risk section."
+      "term": "unmasking",
+      "definition": "Revealing the identity of an American whose name was hidden in intelligence reports.",
+      "context": "It's how officials reportedly identified Jensen Huang as the person talking to Alice Huang."
      },
      {
-      "term": "existential risks",
-      "definition": "Dangers that could wipe out humanity or permanently wreck its future.",
-      "context": "Anthropic says advanced AI could pose catastrophic or existential risks to humanity."
-     },
-     {
-      "term": "autonomy",
-      "definition": "The ability of a system to act and make decisions on its own without human control.",
-      "context": "Anthropic worries about future AI operating with a high degree of autonomy."
+      "term": "intelligence asset",
+      "definition": "A person who gathers or passes information to a government's spy agencies.",
+      "context": "US officials reportedly concluded Alice Huang was one for Beijing."
      }
     ],
     "quiz": {
-     "question": "What does Anthropic say is the main source of its catastrophic AI risk concern?",
+     "question": "Why are White House officials reportedly especially worried about Alice Huang's access to Jensen Huang?",
      "options": [
-      "Government bans on AI",
-      "Competitors stealing its technology",
-      "Future models that could automate AI research and outpace safety checks",
-      "Its current Claude models are already dangerous"
+      "Because he has a close relationship with President Trump",
+      "Because she is his relative",
+      "Because she admitted to spying",
+      "Because Nvidia is based in Singapore"
      ],
-     "answer_index": 2,
-     "explanation": "Anthropic says the worry isn't any current model. It's near-future systems that could automate AI research and development and speed up progress beyond its ability to evaluate and safeguard them."
+     "answer_index": 0,
+     "explanation": "Reports say the concern stems from Jensen Huang's close partnership with Trump. She's no relation, Nvidia is American, and she didn't comment."
     },
-    "background_beginner": "Anthropic is an American artificial intelligence company that makes Claude, a chatbot similar to ChatGPT. It was started by people who left OpenAI and wanted to focus heavily on making AI safe. AI companies spend huge amounts on computing power, so many are looking for more money from investors. One way to raise it is to 'go public', selling shares on the stock market. Before doing that in the US, a company must publish a detailed document explaining its business and everything that could go wrong. AI safety keeps coming up because the technology is improving fast, and even its builders openly worry about what it could do.",
-    "impact_score": 72,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
+    "background_beginner": "Nvidia is an American company whose chips power most of today's artificial intelligence. Its boss, Jensen Huang, is one of the most influential figures in tech. The US and China are rivals in AI, and since 2022 the US has blocked sales of Nvidia's best chips to China, worried they could help China's military. That's led to suspicions that some chips get smuggled through other countries, such as Singapore. Stories about spying, smuggling and trade rules keep popping up because whoever leads in AI could gain big economic and military advantages, so both countries watch each other closely.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/cb6b801a0c5ebf6942051bb480e34a89937dea28/0_0_8192_5464/master/8192.jpg?width=1920&quality=85&auto=format&fit=max&s=e53421395dcbbf019f1526738d81af68",
     "region": "AI and technology",
     "region_code": "AI_TECH",
-    "description": "Anthropic's newly published paperwork for listing on the share market spends 93 pages warning investors about risks, from ordinary business worries to AI that could pose catastrophic or existential risks to humanity.",
+    "description": "US intelligence reportedly believes a Singapore-linked businesswoman acting for China built a close relationship with Nvidia chief Jensen Huang, a claim China calls \"groundless speculation\" and Nvidia says involved only normal business.",
     "tier": "GLOBAL",
     "category": "SCIENCE_TECH",
     "sources": [
      {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo"
+     },
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/nvidia-jensen-huang-megaspeed-international-6505791"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "073a5764-7eae-5d10-902a-5a2ab4c0a032",
-     "0da59b02-7964-59c9-bd4b-6036514dec0b"
-    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
     "reading_minutes": 1,
-    "created_at": "2026-10-29T07:15:33.656120+00:00",
-    "published_date": "2026-10-29",
+    "created_at": "2026-10-30T14:20:33.838355+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    },
    {
-    "id": "2f9d9b1d-297c-5c42-8e0e-1d25e307d0a4",
-    "title": "Scrapped Firmus float casts doubt on billions in AI data centre builds",
-    "simplified_title": "Firmus's cancelled share float leaves billions in AI chip deals uncertain",
-    "quick_summary": "Australian AI data centre builder Firmus scrapped its stock market listing, and newly filed accounts show its $US8.3 billion chip purchase plan relied on that money, with $US550 million due by December.",
-    "simplified_body": "Firmus, an Australian company that builds data centres and rents out their computing power, abandoned its planned initial public offering (IPO) on the Australian stock market earlier this month after investor interest cooled. Its annual report, filed with the Australian Securities and Investments Commission (ASIC), shows its forecasts assumed the float would help pay for $US8.3 billion of chips for a data centre in Batam, Indonesia. About $US550 million in pre-payments is due by December.\n\nThe pressure doesn't stop there. Some investors are entitled to bonus shares if Firmus doesn't complete a qualifying float by November 30. It also owes about $US311 million for Australian sites, called Project Southgate, by June next year, though it says its Melbourne, Launceston and Wesley Vale builds are funded. Firmus says it will now chase private funding instead.\n\nFounded in 2019 and backed by Nvidia and Blackstone, Firmus was valued at $15 billion in August and hoped to list at $44 billion. That would have been the biggest float on the Australian market since Telstra. But it earned only $US50.8 million in revenue last year, almost all from Asia, with just $US1,327 from Australia. Only 5 per cent of its contracted data centre capacity was online when it tried to float. The accounts also reveal earlier loans from co-founder Oliver Curtis and former director Michael Rosenfield, at interest rates that rose to 20 per cent, which were repaid in July 2025.\n\nThe failed float helped trigger a sell-off in data centre shares, including NextDC and US firm CoreWeave. Watch whether Firmus can raise private money before its deadlines, and how Anthropic's planned US float next month fares.",
-    "why_it_matters": "Firmus was pitched as Australia's flagship AI infrastructure company, and researchers worry states like Tasmania could end up paying for unused infrastructure built in anticipation of its projects.",
-    "deep_analysis": "## Historical Context\nAs background, huge infrastructure booms (railways in the 1800s, telecoms fibre around 2000) have often seen companies borrow and build ahead of demand, with some collapsing when funding dried up. Firmus, started in 2019, rode the current AI boom, raising money at a $15 billion valuation in August and aiming for a $44 billion listing, which would have been the largest Australian float since Telstra.\n\n## Multiple Perspectives\nFirmus's directors say it has $US19.4 billion in future contracts with big tech firms and that the Batam project could generate $US25 billion to $US30 billion over six years. The company says its key Australian builds are funded and revenue will cover loan repayments. Sceptics point to its $US50.8 million revenue, just 5 per cent of contracted capacity online, insider loans at up to 20 per cent interest, and heavy upcoming obligations including $US625 million for submarine cables. Investors' cooling interest suggests the market sided with caution, and the sell-off in NextDC and CoreWeave shows wider doubts about the sector. Note the accounts don't show how much of the Batam deposits are already paid or whether timelines have changed.\n\n## What to Watch\n- Whether Firmus secures private funding before the $US550 million December payments.\n- The November 30 deadline triggering bonus shares for some investors.\n- Whether Tasmanian sites start earning revenue from March 2027 as expected.\n- How Anthropic's US float, estimated at upwards of $US1.5 trillion, is received as a test of AI investor appetite.",
+    "id": "97cf11c5-cbc9-552c-9d97-0db0ae3dab3c",
+    "title": "Trump declares robot imports a national security threat",
+    "simplified_title": "Trump labels imported factory robots a US national security threat",
+    "quick_summary": "US President Donald Trump has declared imports of foreign-made industrial robots a national security threat, giving trading partners 180 days to strike deals before possible tariffs.",
+    "simplified_body": "On October 28, President Donald Trump issued a presidential proclamation declaring that imports of foreign-made industrial robots and machinery are a national security threat. He's ordered new negotiations with trading partners and warned that if no agreements are reached within 180 days, the US may impose \"tariffs, duties, quotas, and fees\" on those imports.\n\nThis could complicate things for big US companies that rely on factory robots, including General Motors, Ford, Tesla, Boeing and Lockheed Martin. The proclamation says industrial robots are crucial for making US military weapon systems and are a \"driving force\" behind critical infrastructure. It cites a Department of Commerce investigation, run under Commerce Secretary Howard Lutnick, which says these imports threaten the US industrial base and could introduce \"significant cybersecurity vulnerabilities\".\n\nSome background: this isn't the first move against foreign robots. In July 2026, the Federal Communications Commission (FCC), the US regulator for communications devices, banned new models of foreign-made consumer robots like robot vacuums, robot dogs and humanoid robots. That ban specifically exempted industrial robot arms and other fixed robots used in car factories and warehouses. This new proclamation targets exactly that category.\n\nWhat happens next depends on the talks. Trading partners now have a 180-day window to negotiate. If that fails, the president could add new costs or limits on imported robots, which manufacturers would likely feel in their operations.",
+    "why_it_matters": "Factory robots are the backbone of modern car and aerospace manufacturing, so restrictions could ripple through supply chains. For Australia, it's another sign that US trade policy is increasingly using national security to justify tariffs, which affects any country trading with America.",
+    "deep_analysis": "## Historical Context\nThe proclamation follows a pattern in Trump's trade policy of using national security investigations by the Department of Commerce to justify potential tariffs. As general background, similar security-based reasoning has been used for tariffs on goods like steel and aluminium. It also builds directly on the FCC's July 2026 ban on new foreign-made consumer robots, which had left industrial robots untouched.\n\n## Multiple Perspectives\nThe administration argues industrial robots are vital to weapons production and critical infrastructure, and that foreign-made ones carry cybersecurity and safety risks. Ars Technica notes the Commerce investigation \"supposedly\" found these risks, signalling some scepticism, as the findings haven't been detailed publicly in the article. Manufacturers such as GM, Ford, Tesla, Boeing and Lockheed Martin rely on these robots, so new costs could complicate their operations, putting national security goals in tension with industrial competitiveness.\n\n## What to Watch\n- Whether trading partners reach agreements within the 180-day window.\n- Whether tariffs, quotas or fees are actually imposed if talks fail.\n- How major US manufacturers respond, and whether exemptions are sought.\n- Whether more detail about the claimed cybersecurity risks is released.",
     "concepts": [
      {
-      "term": "initial public offering (IPO)",
-      "definition": "When a private company first sells shares to the public on a stock exchange to raise money.",
-      "context": "Firmus abandoned its planned IPO, cutting off money it had counted on to buy chips."
+      "term": "presidential proclamation",
+      "definition": "A formal official statement by the US president that can set policy or trigger government actions.",
+      "context": "Trump used one to declare robot imports a national security threat."
      },
      {
-      "term": "pre-payments",
-      "definition": "Money paid upfront before goods are delivered, often to lock in an order.",
-      "context": "Firmus owes about $US550 million in chip pre-payments by December."
+      "term": "tariffs",
+      "definition": "Taxes placed on imported goods, making them more expensive to bring into a country.",
+      "context": "The US may put tariffs on foreign robots if no deals are struck in 180 days."
      },
      {
-      "term": "valuation",
-      "definition": "An estimate of what a whole company is worth, often set by what investors pay for shares.",
-      "context": "Firmus jumped from a $15 billion valuation to hoping for $44 billion at listing."
+      "term": "industrial robots",
+      "definition": "Machines, often robot arms, used in factories to do tasks like welding, assembly and moving parts.",
+      "context": "These are the focus of the new proclamation, unlike the earlier FCC ban on consumer robots."
      }
     ],
     "quiz": {
-     "question": "Why does scrapping the float put pressure on Firmus's chip deal?",
+     "question": "How does Trump's new proclamation differ from the FCC's July 2026 robot ban?",
      "options": [
-      "Its forecasts assumed float money, plus loans, would help pay for the chips",
-      "Nvidia refuses to sell chips to unlisted companies",
-      "The chips were only for its Australian revenue, which is large",
-      "ASIC banned the company from buying chips"
+      "It only applies to robots made in the US",
+      "It immediately imposes tariffs on all robots",
+      "It targets industrial robots that the FCC ban had exempted",
+      "It bans robot vacuums and robot dogs"
      ],
-     "answer_index": 0,
-     "explanation": "Firmus's audited forecasts relied on the float and new loans to fund the $US8.3 billion Batam chip commitment, so losing the float leaves a funding gap."
+     "answer_index": 2,
+     "explanation": "The FCC ban covered consumer robots like vacuums and humanoids but exempted fixed industrial robots; the new proclamation targets those industrial robots and machinery."
     },
-    "background_beginner": "AI tools like chatbots need enormous warehouses full of powerful computer chips, called data centres. Companies like Firmus build these and rent the computing power to big tech firms. Building them costs billions, so these companies borrow heavily and sell shares to investors. Firmus, an Australian startup from 2019, became one of the country's most hyped AI businesses, backed by chipmaker Nvidia and investment giant Blackstone. The topic keeps coming up because people are debating whether the AI boom is a lasting shift or a bubble, and whether companies are spending far more than they earn on the hope that demand will keep growing.",
+    "background_beginner": "Many factories today use robots, mostly big mechanical arms, to build things like cars and planes. A lot of these robots are made overseas. The US government, led by President Donald Trump, has been worried that relying on foreign-made technology could be risky, both for the economy and for security, for example if devices could be hacked. Trump has often used tariffs, which are taxes on imports, to push other countries into trade deals. Earlier, US regulators banned some foreign consumer robots. Now the focus has shifted to factory robots, which is why the topic keeps returning to the news.\n",
     "impact_score": 62,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/d6f04b1f0c5781db0e21035b40a20388?impolicy=wcms_watermark_news&cropH=847&cropW=1505&xPos=183&yPos=166&width=862&height=485&imformat=generic",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
     "region": "AI and technology",
     "region_code": "AI_TECH",
-    "description": "Australian AI data centre builder Firmus scrapped its stock market listing, and newly filed accounts show its $US8.3 billion chip purchase plan relied on that money, with $US550 million due by December.",
+    "description": "US President Donald Trump has declared imports of foreign-made industrial robots a national security threat, giving trading partners 180 days to strike deals before possible tariffs.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-29/firmus-funding-ai-computer-chips-stock-market/107322200"
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-10-29T07:15:52.163704+00:00",
-    "published_date": "2026-10-29",
+    "reading_minutes": 1,
+    "created_at": "2026-10-30T14:20:49.914602+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    }
   ]
  },
- "total_stories": 28
+ "total_stories": 26
 }
