@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "generated_at": "2026-10-30T23:03:07.706729+00:00",
+ "generated_at": "2026-10-31T07:06:08.701297+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -124,73 +124,6 @@
     "reading_minutes": 3,
     "created_at": "2026-10-30T14:20:33.369165+00:00",
     "published_date": "2026-10-31",
-    "has_fulltext": true
-   },
-   {
-    "id": "8a0e4347-29f4-5cc1-8f93-29a8a24b355e",
-    "title": "Patterson's failed appeal leaves few legal avenues for the mushroom killer",
-    "simplified_title": "Erin Patterson loses appeal, now faces life without parole",
-    "quick_summary": "Victoria's Court of Appeal has rejected Erin Patterson's appeal against her mushroom murder convictions and, on the prosecution's appeal, removed her chance of parole, so she will spend the rest of her life in prison.",
-    "simplified_body": "Victoria's Court of Appeal has dismissed Erin Patterson's appeal against her convictions for murdering three relatives and trying to kill a fourth with a beef Wellington laced with death cap mushrooms in 2023. The three judges also upheld the prosecution's appeal, scrapping her 33-year non-parole period and resentencing her to life in prison without parole.\n\nThe victims were her in-laws Don and Gail Patterson and Gail's sister Heather Wilkinson. Heather's husband Ian survived after weeks in hospital. Patterson, 52, has always said she didn't know the mushrooms were poisonous. Her main argument was that the jury was compromised because jurors stayed in the same accommodation as the lead homicide detective and some prosecutors, though her barrister conceded there was no evidence of direct contact. The court rejected this and her other grounds.\n\nOriginally, Justice Christopher Beale gave her the chance of parole because of her harsh prison conditions, including near-solitary confinement. The Director of Public Prosecutions (DPP) argued that sentence was \"manifestly inadequate\". Justice Stephen McLeish said her conduct involved \"an elaborate series of deceptions\" and deserved to be \"denounced in the strongest terms\".\n\nWhat's next? Her options are slim. A second appeal in Victoria is only possible with \"fresh and compelling\" evidence, which legal researcher Christopher Corns says is most unlikely. Her other route is the High Court of Australia, but it applies very strict criteria, and barrister Nick Papas KC says there must be a clear-cut error, not just a possible mistake.",
-    "why_it_matters": "This case gripped Australia for years, and the ruling shows Victorian courts are willing to impose the harshest penalty available, life with no parole, for the worst category of offending.",
-    "deep_analysis": "## Historical Context\nPatterson was convicted by a Victorian Supreme Court jury and sentenced in September last year to three life terms plus 25 years for attempted murder, with a 33-year non-parole period. Victoria generally allows one appeal against conviction, but 2019 reforms permit a second appeal with fresh and compelling evidence, used, for example, by some former clients of Nicola Gobbo. The High Court famously quashed Cardinal George Pell's convictions in 2020 after the Victorian Court of Appeal had rejected his appeal.\n\n## Multiple Perspectives\nThe defence argued the jury accommodation arrangement was \"catastrophic\" and that justice must be seen to be done; it also said her isolation in prison, 22 to 24 hours alone a day, made her sentence harsher. Prosecutors said her conditions were reviewed monthly, her notoriety would fade, she remained remorseless, and her crimes fell into the \"worst category\". The Court of Appeal sided with the prosecution on both appeals.\n\n## What to Watch\nWhether Patterson seeks special leave from the High Court of Australia, and whether it agrees to hear her case. Experts say the bar is extremely high, requiring a fundamental failure in how the law was applied.",
-    "concepts": [
-     {
-      "term": "non-parole period",
-      "definition": "The minimum time a prisoner must serve before they can even be considered for release on parole.",
-      "context": "Patterson's original 33-year non-parole period was scrapped, so she can never apply for parole."
-     },
-     {
-      "term": "Director of Public Prosecutions",
-      "definition": "The independent official who runs criminal prosecutions for the state.",
-      "context": "Victoria's DPP appealed, arguing her sentence was too lenient."
-     },
-     {
-      "term": "fresh and compelling",
-      "definition": "The legal test for new evidence strong enough to allow a rare second appeal in Victoria.",
-      "context": "Experts say Patterson is unlikely to meet this test."
-     },
-     {
-      "term": "High Court of Australia",
-      "definition": "The country's top court, which can overrule state appeal courts but only hears a small number of carefully selected cases.",
-      "context": "It is described as Patterson's only realistic remaining hope."
-     }
-    ],
-    "quiz": {
-     "question": "Why did Patterson's sentence get harsher after the appeal hearing?",
-     "options": [
-      "The jury found new evidence against her",
-      "The prosecution successfully argued the original sentence was manifestly inadequate",
-      "The High Court overturned her original sentence",
-      "She was convicted of an additional murder"
-     ],
-     "answer_index": 1,
-     "explanation": "The DPP appealed the sentence as too lenient, and the Court of Appeal agreed, removing the 33-year non-parole period."
-    },
-    "background_beginner": "In 2023, Erin Patterson, a mother from Leongatha in regional Victoria, served a beef Wellington lunch to relatives. It contained deadly death cap mushrooms. Three people died: her former in-laws Don and Gail Patterson and Gail's sister Heather Wilkinson. Heather's husband Ian survived. Patterson said it was an accident, but a jury found her guilty of murder and attempted murder. The case drew huge national and international attention because of its unusual, almost unbelievable details. It keeps coming up as it moves through the courts: first the trial, then sentencing, and now appeals by both Patterson and prosecutors, which have ended with her receiving life without parole.",
-    "impact_score": 55,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/83a06266acadc22a8d71ff287b850726?impolicy=wcms_watermark_news&cropH=1013&cropW=1800&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Victoria's Court of Appeal has rejected Erin Patterson's appeal against her mushroom murder convictions and, on the prosecution's appeal, removed her chance of parole, so she will spend the rest of her life in prison.",
-    "tier": "LOCAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-mushroom-murder-appeal-what-next/107315286"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-30/erin-patterson-appeal-decision-live-updates/107322086"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-10-29T23:24:55.626450+00:00",
-    "published_date": "2026-10-30",
     "has_fulltext": true
    },
    {
@@ -516,67 +449,72 @@
   ],
   "EUROPE": [
    {
-    "id": "1924b7a1-e582-5107-83d1-69615bbb36aa",
-    "title": "Spain begins mourning period as search continues for train crash victims",
-    "simplified_title": "Spain mourns 69 dead after high-speed trains collide near Urda",
-    "quick_summary": "Spain has begun three days of national mourning after a Renfe high-speed train slammed into the back of a stalled Iryo train near Urda, killing at least 69 people, with leaked audio suggesting the moving train was wrongly cleared to go at normal speed.",
-    "simplified_body": "On Wednesday just before 9am, two high-speed trains heading from Madrid towards the southern region of Andalucía collided near Urda, about 130km south of Madrid. A train run by private company Iryo had stopped on the track, and a train from state-owned operator Renfe crashed into its rear, knocking several carriages off the line. At least 69 people died and dozens were hurt. The Renfe train had 397 passengers and the Iryo train 147.\n\nA computer failure in the automatic signalling system had halted trains on that stretch. Leaked audio published by Spanish media appears to show a control centre operator telling the Renfe driver to continue at \"normal speed\" under the Lateral Signalling Block, a back-up system, even though the Iryo train was still stuck about 25km ahead. Transport minister Óscar Puente called the decision \"inexplicable\" and said the train was ordered on in \"error\". Some left-wing politicians say blame shouldn't fall on one worker and point to years of warnings about the liberalisation of rail.\n\nThis is the second deadly Renfe–Iryo collision on the same line in 10 months; 46 people died near Adamuz in Andalucía earlier. It's Europe's deadliest train accident since a 2013 derailment in Santiago de Compostela killed 80 people. Train drivers from the union Semaf went ahead with a planned strike demanding more safety investment.\n\nInvestigators are now working out exactly what went wrong, while police collect DNA samples to identify victims; 64 people had been reported missing by relatives. Opposition leader Alberto Núñez Feijóo wants an independent review of the whole network, protesters have called for Puente and Prime Minister Pedro Sánchez to resign, and the crash lands weeks before a snap election on 29 November.",
-    "why_it_matters": "Spain's high-speed network has been seen as a world model, so two deadly crashes on one line in 10 months raise hard questions about signalling back-ups and human oversight. That's relevant for Australia too, as debate about building high-speed rail here keeps resurfacing.",
-    "deep_analysis": "## Historical Context\nAs background, Spain built one of the world's largest high-speed rail networks over recent decades. The sources note the 2013 Santiago de Compostela derailment killed 80 people, and a Renfe–Iryo collision near Adamuz killed 46 just 10 months before this crash, on the same line. Spain's rail market was opened to private competitors like Iryo, which is part of what critics mean by 'liberalisation'.\n\n## Multiple Perspectives\n- **Government:** Transport minister Óscar Puente says rear-end crashes are \"highly unlikely\" and suggests human error under \"inexplicable\" circumstances. PM Pedro Sánchez promises to uncover \"every last detail\".\n- **Left-wing critics:** Podemos' Irene Montero says blame shouldn't be pinned on one worker and that experts warned for years against liberalisation. Sumar's Alberto Ibáñez called the audio leak \"despicable\".\n- **Opposition right:** People's Party leader Alberto Núñez Feijóo demands an independent review of the whole network. Vox refused to pause campaigning, saying mourning shouldn't \"silence criticism\".\n- **Workers:** The drivers' union Semaf struck to demand more safety investment.\n- **Public:** About 1,500 protesters outside the transport ministry called for resignations; police used tear gas.\n\n## What to Watch\n- Official findings on why the Renfe train was cleared at normal speed despite the stalled Iryo train.\n- Whether the signalling failure and back-up procedures face reform.\n- Political fallout ahead of the 29 November snap election, including pressure on Puente and Sánchez.\n- Progress identifying victims through DNA.",
+    "id": "ea51a913-4dc9-5624-97d2-737d9ff9adb2",
+    "title": "Spain train crash: Transport minister says he won't resign over disaster",
+    "simplified_title": "Spain's deadly high-speed train crash shakes trust and the government",
+    "quick_summary": "A high-speed train ploughed into a stalled train near Urda in central Spain, killing at least 69 people, and the transport minister is refusing calls to resign as an election looms.",
+    "simplified_body": "On Wednesday morning a state-run Renfe high-speed train slammed into the back of a stationary train run by the company Iryo near the town of Urda, in Spain's Toledo province. At least 69 people died and more than 100 were injured. Investigators found the Renfe train was doing between 160km/h and 200km/h when it hit. Victims include 24-year-old long jumper Julieta Gallego and former employment minister Fátima Báñez.\n\nTransport Minister Óscar Puente says a computer failure halted six trains, and control then shifted to manual. Leaked audio appears to show a controller clearing one train to move even though another was stuck about 25km ahead, and Puente called the decision \"inexplicable\". He has pointed to human error, but the opposition People's Party (PP), the union CSIF and protesters want him gone. He says he won't quit.\n\nThis is Spain's second major rail disaster this year: in January a crash at Adamuz, on the same Madrid-Seville route, killed 46 people. That one is still under investigation, with early reports pointing to a cracked rail. Puente insists Spain's signalling safety system, called LZB, isn't outdated, saying it has failed 170 times this year, which he calls normal. Left-wing party Podemos argues blame shouldn't land on one worker and points to warnings about the liberalisation of the railway sector.\n\nThe crash comes weeks before a snap general election called by Prime Minister Pedro Sánchez. Polls already favoured the centre-right PP teaming up with far-right Vox, and analysts say Sánchez's chances have now dropped further. The formal investigation has only just begun.",
+    "why_it_matters": "It shows how one disaster can reshape trust in public services and swing an election, which is a useful lens for Australians watching debates over fast rail and infrastructure safety here.",
+    "deep_analysis": "## Historical Context\nThis is Spain's worst rail crash since 2013 and one of Europe's worst in modern times. As background, Spain has one of the world's largest high-speed networks, long a point of national pride. Two deadly crashes on the Madrid-Seville route within a year, killing 46 and then at least 69, have badly dented that image.\n\n## Multiple Perspectives\nThe government, through Puente, frames this as human error after a routine system failure, saying screens in the control centre showed the danger yet the advancing train was never told to stop. The PP calls resignation the \"moral\" and \"ethical\" move. Podemos's Irene Montero warns against blaming one worker and links the crash to rail liberalisation. Some politicians, like Sumar's Alberto Ibáñez, condemned the leak of audio recordings. Grieving families, such as Esther San Emeterio, say authorities are leaving them in \"uncertainty\". Pollster Paco Camas says such events erode trust in institutions generally.\n\n## What to Watch\n- Findings of the formal investigation and whether individuals are held responsible.\n- Whether Puente survives politically.\n- The snap election result, where polls favour a PP-Vox coalition.\n- Possible protests, with police on standby.\n- Whether the death toll rises as missing people are identified.",
     "concepts": [
      {
-      "term": "Lateral Signalling Block",
-      "definition": "A back-up train control system used when the automatic signalling or data transmission system fails.",
-      "context": "The Renfe driver was told to proceed under this system at normal speed, despite a stalled train ahead."
+      "term": "LZB",
+      "definition": "A signalling safety system that automatically monitors and controls high-speed trains; Germany and Austria use it too.",
+      "context": "When it failed, control shifted to manual, which is where the fatal errors occurred."
      },
      {
-      "term": "automatic signalling system",
-      "definition": "Computerised signals that tell trains when it's safe to move and keep them spaced apart.",
-      "context": "A computer failure in this system halted trains on the stretch before the crash."
+      "term": "liberalisation of the railway sector",
+      "definition": "Opening the rail market to private competitors alongside the state operator.",
+      "context": "Podemos says workers warned for years this was risky; Iryo is a private operator sharing tracks with state-run Renfe."
      },
      {
-      "term": "liberalisation",
-      "definition": "Opening a market once run by the state to private competitors.",
-      "context": "Critics say opening Spain's railways to private firms like Iryo has been warned against for years."
+      "term": "snap general election",
+      "definition": "An election called earlier than scheduled.",
+      "context": "Sánchez called one after a string of crises, and the crash lands just weeks before voting."
      }
     ],
     "quiz": {
-     "question": "What does the leaked audio appear to show about the cause of the crash?",
+     "question": "What does the minister say turned a routine system fault into a disaster?",
      "options": [
-      "A fire on the Iryo train caused it to stop suddenly",
-      "The Iryo train was speeding and hit a Renfe train",
-      "Both trains derailed because of damaged tracks",
-      "The Renfe train was cleared to travel at normal speed while the Iryo train was still stalled ahead"
+      "Human decisions after control shifted to manual",
+      "Extreme weather",
+      "A brand-new, untested signalling system",
+      "A cracked rail on the track"
      ],
-     "answer_index": 3,
-     "explanation": "The recordings suggest the controller told the Renfe driver to continue at normal speed under the back-up system, even though the Iryo driver had reported being stuck at the Urda entry signal."
+     "answer_index": 0,
+     "explanation": "Puente says LZB failures are normal, but after the system failed a controller cleared a train to advance while another was stuck ahead. The cracked rail relates to January's Adamuz crash."
     },
-    "background_beginner": "Spain has one of the biggest high-speed rail networks in the world, with fast trains linking Madrid to cities across the country. The state-owned company Renfe used to run nearly everything, but private companies like Iryo now compete on the same tracks. Trains rely on computer signalling to keep them safely apart. Spain has had serious rail disasters before, including a 2013 derailment that killed 80 people, and another Renfe–Iryo crash on the same line 10 months before this one. Each accident revives arguments about safety investment, private competition and who's accountable, which is why rail safety keeps making headlines in Spain.",
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/d6a4b0e19d51f8ef690ba410c46d455a05f34ffd/0_0_6000_4000/master/6000.jpg?width=1920&quality=85&auto=format&fit=max&s=496680529834bbbbf388072c4cb482d0",
+    "background_beginner": "Spain runs a big network of high-speed trains linking Madrid with cities like Seville. The state company Renfe runs many services, while private firms like Iryo now compete on the same tracks. In January a crash near Adamuz killed 46 people, and now a second crash near Urda has killed at least 69. The government of Socialist Prime Minister Pedro Sánchez is under fire, with opponents demanding the transport minister resign. It keeps coming up because people are asking whether the system is safe, who is to blame, and how it will affect an upcoming election.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg",
     "region": "Europe incl. UK, Russia-Ukraine",
     "region_code": "EUROPE",
-    "description": "Spain has begun three days of national mourning after a Renfe high-speed train slammed into the back of a stalled Iryo train near Urda, killing at least 69 people, with leaked audio suggesting the moving train was wrongly cleared to go at normal speed.",
+    "description": "A high-speed train ploughed into a stalled train near Urda in central Spain, killing at least 69 people, and the transport minister is refusing calls to resign as an election looms.",
     "tier": "GLOBAL",
     "category": "CRIME_SAFETY",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo"
      },
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o"
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
     "related_story_ids": [
+     "1924b7a1-e582-5107-83d1-69615bbb36aa",
      "9f71e1f0-4d22-51b2-95b1-02f2095204cd"
     ],
-    "reading_minutes": 4,
-    "created_at": "2026-10-29T23:24:59.925951+00:00",
-    "published_date": "2026-10-30",
+    "reading_minutes": 3,
+    "created_at": "2026-10-31T07:06:40.876552+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
    },
    {
@@ -785,6 +723,71 @@
     ],
     "reading_minutes": 3,
     "created_at": "2026-10-30T14:20:35.913331+00:00",
+    "published_date": "2026-10-31",
+    "has_fulltext": true
+   },
+   {
+    "id": "643fd0d4-9200-5e54-a612-85f2fed71370",
+    "title": "Ebola death toll in DR Congo passes 5,000",
+    "simplified_title": "Ebola deaths in DR Congo pass 5,000 as outbreak spreads",
+    "quick_summary": "More than 5,000 people have died from Ebola in the Democratic Republic of the Congo, in the country's deadliest outbreak on record, which has now spread to neighbouring countries and as far as Nigeria.",
+    "simplified_body": "Government data released on Friday show more than 5,000 people have died from Ebola in the Democratic Republic of the Congo (DRC). More than 10,000 people have been infected since the outbreak was declared in May, making it the country's deadliest Ebola outbreak on record.\n\nThe virus has reached eight of the DRC's 26 provinces and crossed borders too. Kenya and Uganda have reported cases, and last week Nigeria became the fourth African country to report one, pushing the outbreak into West Africa. Delayed detection, conflict and stretched health services have helped it spread faster than in past outbreaks. Some governments are restricting travel or quarantining recent visitors. Saudi Arabia has now suspended travel to and entry from Kenya, after doing the same for the DRC, Uganda and South Sudan in June.\n\nWhat makes this outbreak especially tough is that it's caused by the rare Bundibugyo strain of Ebola, for which there are no approved treatments or vaccines. It's now the second-largest Ebola outbreak ever, behind only the 2014-2016 epidemic in Guinea, Liberia and Sierra Leone, which infected more than 28,600 people and killed more than 11,000.\n\nAuthorities still haven't found a way to bring it under control. Watch for more countries reporting cases and more travel restrictions, including rules that bar people who've been in affected countries within the past 21 days.",
+    "why_it_matters": "This is the second-largest Ebola outbreak in history, caused by a strain with no approved vaccine or treatment, and it's now crossing borders and affecting international travel.",
+    "deep_analysis": "## Historical Context\nThe current outbreak is the second-largest ever recorded, behind the 2014-2016 West African epidemic that infected more than 28,600 people and killed more than 11,000 across Guinea, Liberia and Sierra Leone. As general background, Ebola was first identified in the 1970s near the Ebola River in what is now the DRC, and the country has seen many outbreaks since. Vaccines and treatments developed in recent years target the Zaire strain, not the rarer Bundibugyo strain driving this outbreak.\n\n## Multiple Perspectives\nPublic health responders face a virus spreading through areas hit by conflict and weak health services, where cases are detected late. Some governments, like Saudi Arabia, have chosen travel bans and entry restrictions based on the 21-day window. As background, global health bodies have often argued that broad travel bans can hurt affected economies and discourage countries from reporting cases openly, while supporters of bans see them as a way to protect their own populations.\n\n## What to Watch\n- Whether more countries report cases, especially beyond Kenya, Uganda and Nigeria.\n- Further travel bans or quarantine rules from other governments.\n- Progress on experimental treatments or vaccines for the Bundibugyo strain.\n- Whether the death toll keeps climbing toward that of the 2014-2016 epidemic.",
+    "concepts": [
+     {
+      "term": "Bundibugyo strain",
+      "definition": "A rare type of Ebola virus, one of several species that cause the disease in humans.",
+      "context": "It's behind this outbreak, and unlike other strains it has no approved vaccine or treatment."
+     },
+     {
+      "term": "outbreak",
+      "definition": "A sudden rise in cases of a disease in a particular area or group of people.",
+      "context": "The DRC declared this Ebola outbreak in May, and it has since become its deadliest on record."
+     },
+     {
+      "term": "21 days",
+      "definition": "The maximum time it can take for Ebola symptoms to appear after someone is infected.",
+      "context": "Saudi Arabia bars entry to anyone who has been in Kenya or other affected countries within the previous 21 days."
+     }
+    ],
+    "quiz": {
+     "question": "Why is this Ebola outbreak particularly hard to control?",
+     "options": [
+      "It only affects people who have travelled to Saudi Arabia",
+      "It is caused by a strain with no approved vaccines or treatments, and is spreading amid conflict and strained health services",
+      "It is the largest Ebola outbreak in history",
+      "The virus has been confined to a single province"
+     ],
+     "answer_index": 1,
+     "explanation": "The Bundibugyo strain has no approved vaccines or treatments, and delayed detection, conflict and weak health services have helped it spread. It's the second-largest outbreak, not the largest."
+    },
+    "background_beginner": "Ebola is a serious, often deadly virus that spreads through contact with the body fluids of infected people. It was first identified in the 1970s in what's now the Democratic Republic of the Congo, a large country in central Africa, which has had many outbreaks since. The worst so far was in West Africa from 2014 to 2016, killing more than 11,000 people. Health workers, governments and international aid groups are the main players trying to contain it. Ebola keeps coming back because the virus lives in animals, and outbreaks spread fastest where conflict, poverty and weak health systems make it hard to find and isolate sick people quickly.",
+    "impact_score": 78,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-27T090659Z_740443050_RC20XNA2U8PN_RTRMADP_3_HEALTH-EBOLA-CONGO-1793411509.jpg?resize=1920%2C1440",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "More than 5,000 people have died from Ebola in the Democratic Republic of the Congo, in the country's deadliest outbreak on record, which has now spread to neighbouring countries and as far as Nigeria.",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "357ebcac-4d16-58b5-9d08-dd0ce6d96cb1",
+     "920de58d-374c-5da9-baa1-d152afa9a420",
+     "b919f1d2-2f4a-50c5-86c0-99ec7cb994b3",
+     "e61a7066-899c-5fb7-a4bc-d09fc0db5d44",
+     "e7784c73-91ca-5926-a3c8-70bbbc84035f",
+     "fb15646b-0dc3-51ce-a492-c32758b51f8f"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-10-31T07:06:39.393968+00:00",
     "published_date": "2026-10-31",
     "has_fulltext": true
    },
@@ -1066,136 +1069,81 @@
     "has_fulltext": true
    },
    {
-    "id": "c9a82088-b5ae-5182-b8e8-927eaec5ab92",
-    "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
-    "simplified_title": "Trump moves to scrap Biden-era rules on oil and gas methane leaks",
-    "quick_summary": "At a Texas rally, Donald Trump said his administration is \"terminating\" 2024 rules that made oil and gas companies find and fix big methane leaks, a move health and environment groups say is unlawful and harmful.",
-    "simplified_body": "Speaking at a rally in Lubbock, Texas, Donald Trump said he was \"officially terminating\" Biden-era methane regulations, calling them expensive and unnecessary. He claimed the change would save consumers and producers $45bn and unlock 210 million barrels of oil, which is about 10 days of US petroleum use. The Environmental Protection Agency (EPA), the US government's environmental regulator, is proposing to revise the rules under the Clean Air Act.\n\nThe change mainly affects oil and gas operators, especially smaller ones, and the communities living near their sites. Groups like the American Lung Association warn that leaks also release harmful pollutants such as volatile organic compounds and cancer-causing chemicals like benzene. Records obtained by the watchdog Fieldnotes show industry groups met the EPA about methane rules at least 38 times in the administration's first year.\n\nSome background: methane is a powerful greenhouse gas responsible for at least a quarter of today's warming, and last year the US oil and gas sector emitted more of it than any other country's. The 2024 rule was the first nationwide limit on methane from existing oil and gas facilities, and included a super emitter program, where companies had to investigate big leaks spotted by third parties using approved remote sensing technology. It also targeted flaring, the burning off of excess gas.\n\nThis is still a proposal, not final. Groups like the Clean Air Task Force are demanding the EPA withdraw it and enforce the 2024 rule, so legal challenges look likely.",
-    "why_it_matters": "Methane drives a big share of global warming, so rolling back limits in the world's biggest oil and gas methane emitter affects the climate everyone, including Australians, lives with. It also adds to the gap between US policy and other countries trying to cut methane.",
-    "deep_analysis": "## Historical Context\nThe Obama administration finalised a 2016 rule covering new and modified oil and gas sources. The 2024 Biden-era rule went further, setting the first nationwide requirements for existing facilities, including leak fixes, limits on routine flaring and a super emitter program. In March 2025, EPA administrator Lee Zeldin announced the agency was reconsidering the rules. As general background, US environmental rules often swing back and forth between administrations, with courts frequently deciding the outcome.\n\n## Multiple Perspectives\nTrump and Zeldin frame the rollback as ending a \"war on oil and natural gas\", cutting costs and boosting production; the EPA estimates 210 million extra barrels of oil and 1.41 trillion cubic feet of gas. Continental Resources had lobbied against the flaring limits. Critics disagree sharply: the Clean Air Task Force calls the proposal unlawful under the Clean Air Act, the American Lung Association warns of health harm, and the Environmental Defense Fund says operators have wasted $7bn of gas since enforcement stopped. Fieldnotes argues industry publicly claimed to be a good-faith partner while working privately to weaken the rules, though some executives did publicly support the 2024 rule.\n\n## What to Watch\n- Whether the EPA finalises the proposal and what changes after public comment.\n- Court challenges from environmental and health groups.\n- Independent measurements of US methane emissions in coming years.\n- Whether the $45bn savings claim holds up to scrutiny.",
+    "id": "ede0616b-c00d-5fd8-99c6-f40be2b19e25",
+    "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+    "simplified_title": "Defeated Brazilian candidate flees to US, briefly claims he's president-elect",
+    "quick_summary": "Flávio Bolsonaro lost Brazil's presidential runoff to Lula, fled to Florida after his passports were cancelled, and was widely mocked after declaring himself 'true president-elect' for 58 minutes.",
+    "simplified_body": "Flávio Bolsonaro, a far-right senator and son of former president Jair Bolsonaro, lost Sunday's election runoff to President Luiz Inácio Lula da Silva. The margin was 4.4 million votes, or 3.5 percentage points. On Tuesday he secretly left Brazil, flying by private jet through Argentina and Ecuador to Florida. He then posted a letter calling himself Brazil's \"true president-elect\" and made claims of election fraud without evidence. Just under an hour later, a corrected version changed his title to \"leader of Brazil\", reportedly after Trump administration officials pushed back.\n\nIn an Instagram livestream he said he fled because of \"persecution\". Police had told him his passports were being cancelled as part of a money-laundering investigation. Brazilian newspapers across the political spectrum, including conservative ones, ridiculed him. Even a televangelist close to his father called the Bolsonaro sons \"amateur morons\".\n\nSome background: Jair Bolsonaro was president from 2019 to 2023. He refused to accept his 2022 loss to Lula and is serving a 27-year sentence for attempting a coup. He is currently under house arrest. Lula's win has been recognised by many right-wing leaders worldwide. Donald Trump has called the result an embarrassment and said it looked \"rigged\", but also said \"I won't get involved\". Argentina's President Javier Milei backed Flávio and hasn't acknowledged Lula's victory.\n\nWhat's next? Brazil summoned Argentina's chargé d'affaires (a stand-in diplomat) to explain its role in the escape. Flávio says he'll run for president again before the next scheduled election in 2030. Commentators disagree on his movement. Some say Bolsonarismo is finished, while others say it will stay powerful even without the family in charge.",
+    "why_it_matters": "How one of the world's biggest democracies handles a losing candidate who rejects the result is a test of democratic resilience. It's also a reminder of how foreign governments like the US and Argentina can get tangled up in another country's election fallout.",
+    "deep_analysis": "## Historical Context\nBrazil returned to democracy in the 1980s after a military dictatorship (general background). Lula himself spent 17 months in jail in 2018–19 on corruption charges that were later annulled. Jair Bolsonaro lost to Lula in 2022, refused to accept it and was jailed for a self-coup attempt. Flávio's flight echoes that refusal. His letter even used an outdated coat of arms reading \"United States of Brazil\", a name dropped in 1967.\n\n## Multiple Perspectives\nFlávio says he is a victim of persecution by Supreme Court Justice Alexandre de Moraes. He compares himself to exiled figures like Charles de Gaulle and José Martí. Argentina's government says it rescued him \"from the claws of communism\". Brazilian media, including conservative outlets like Estado de São Paulo, call him a con artist and urge the right to back São Paulo governor Tarcísio de Freitas instead. Lula's adviser Celso Amorim says Bolsonarismo is defeated for good, though others disagree. The US position is mixed. Trump has called the election rigged and hasn't recognised the result, yet a US cable called Lula's win \"surprising but definitive\".\n\n## What to Watch\n- Whether the US or Argentina faces consequences for helping the escape.\n- Brazil–Argentina ties, already at chargé d'affaires level since July.\n- Whether Brazil seats the incoming US ambassador it has refused.\n- The money-laundering investigation against Flávio.\n- Whether the Brazilian right rallies around Tarcísio de Freitas.",
     "concepts": [
      {
-      "term": "flaring",
-      "definition": "Burning off unwanted natural gas at an oil or gas site instead of capturing or selling it.",
-      "context": "The 2024 rule limited routine flaring, which Continental Resources pushed back against."
+      "term": "runoff",
+      "definition": "A second-round election between the top two candidates when no one wins outright in the first round.",
+      "context": "Flávio lost Sunday's runoff to Lula."
      },
      {
-      "term": "super emitter program",
-      "definition": "A part of the 2024 rule requiring companies to investigate large methane leaks detected by outside groups using approved satellite or remote sensing tools.",
-      "context": "It let third parties flag big leaks that companies then had to check."
+      "term": "chargé d'affaires",
+      "definition": "A diplomat who runs an embassy when there is no ambassador in place.",
+      "context": "Both countries recalled their ambassadors, so Brazil summoned Argentina's chargé d'affaires."
      },
      {
-      "term": "volatile organic compounds",
-      "definition": "Chemicals that easily turn into gas and can worsen air quality and harm health.",
-      "context": "Health groups say oil and gas leaks release these alongside methane."
+      "term": "Bolsonarismo",
+      "definition": "The far-right political movement built around Jair Bolsonaro and his family.",
+      "context": "Observers disagree on whether it is finished."
      }
     ],
     "quiz": {
-     "question": "What made the 2024 methane rule different from the earlier 2016 Obama-era rule?",
+     "question": "Why did Flávio Bolsonaro change his letter from 'president-elect' to 'leader of Brazil'?",
      "options": [
-      "It removed all limits on flaring",
-      "It only applied to coal mines",
-      "It banned all oil and gas drilling in Texas",
-      "It was the first to set nationwide limits on existing oil and gas facilities, not just new ones"
-     ],
-     "answer_index": 3,
-     "explanation": "The 2016 rule covered new and modified sources; the 2024 rule was the first nationwide requirement for existing facilities."
-    },
-    "background_beginner": "Methane is a gas that leaks from oil and gas wells, pipelines and equipment. It traps heat far more strongly than carbon dioxide in the short term, so it's a big driver of global warming. In the US, the Environmental Protection Agency sets rules on pollution. Under Presidents Obama and Biden, it brought in rules forcing companies to find and fix leaks. President Trump and his allies say those rules are costly and hold back energy production, while environmental and health groups say they protect people and the climate. Because each new president can rewrite these rules, the fight keeps returning, often ending up in court.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/e44d5b615ceabf3cdfe559f758df4401572c268f/0_0_7163_4775/master/7163.jpg?width=1920&quality=85&auto=format&fit=max&s=a39e825697117fa2952926ac26c0fe57",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "At a Texas rally, Donald Trump said his administration is \"terminating\" 2024 rules that made oil and gas companies find and fix big methane leaks, a move health and environment groups say is unlawful and harmful.",
-    "tier": "GLOBAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-10-29T23:24:57.266998+00:00",
-    "published_date": "2026-10-30",
-    "has_fulltext": true
-   }
-  ],
-  "GLOBAL_SYSTEMS": [
-   {
-    "id": "ee6af6c8-6a55-5c6a-b60b-fdd06b84370e",
-    "title": "Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street",
-    "simplified_title": "Alphabet loses $500bn in value as AI spending and search worries bite",
-    "quick_summary": "Google's parent company Alphabet lost roughly $500bn in stock market value after its profit fell 25% and it admitted AI-powered search earns less from ads, even as it keeps spending huge sums on artificial intelligence.",
-    "simplified_body": "Alphabet, the company that owns Google, reported results for July to September that spooked investors. Revenue rose 25% to $127.6bn, but net profit fell 25% to $26.2bn, partly due to an $8.7bn loss on its stake in SpaceX. Its shares dropped almost 13% on Thursday, and its market value fell from $3.97 trillion to $3.46 trillion.\n\nThe big worry is search, which is still Google's main moneymaker. Search revenue growth slowed to 12%, down from 17% the quarter before. Google's chief business officer, Philipp Schindler, admitted each AI Mode query earns less than a normal web search, because there are fewer ads and they cost less. Meanwhile Alphabet spent $51.4bn on capital expenditures (capex), mostly datacentres and AI chips, and had negative free cash flow of about $9bn, meaning it spent more cash than it brought in. It raised money by selling bonds and new shares to cover the gap.\n\nNot everything was bad. Google Cloud revenue jumped 103% to $30.7bn, helped by sales of its in-house AI chips called Tensor Processing Units (TPUs). Waymo, its robotaxi business, now provides over 500,000 paid rides a week. Amazon and Microsoft also reported this week, with Amazon showing negative cash flow of $42bn and its shares falling 6% after hours.\n\nAlphabet expects to spend between $195bn and $205bn on capex in 2026 and says it will increase that significantly in 2027. Investors will be watching whether AI search can be made as profitable as old-style search, and whether all this spending pays off.",
-    "why_it_matters": "Google search is how most people, including Australians, find things online, so a shift to AI answers with fewer ads could reshape how businesses advertise and how websites get traffic. It also shows even the richest tech giants face pressure to prove AI spending will pay off.",
-    "deep_analysis": "## Historical Context\nAs background, Google built its fortune over two decades by selling ads next to search results. The reports note ads alongside search results remain the vast majority of Alphabet's business. Since generative AI chatbots took off, Google has been racing rivals like OpenAI and Anthropic, and the Guardian notes a delayed flagship model in July raised questions about whether it was falling behind. It has since launched Gemini 4, and the Gemini app has reached 1bn users. The BBC says this is only the second time in Alphabet's history as a public company it has posted negative free cash flow.\n\n## Multiple Perspectives\nGoogle's leadership is upbeat: CEO Sundar Pichai called the spending \"a long-range planning process, not a short-term allocation exercise\", and Philipp Schindler said he felt \"very good about our trajectory\" with AI search. Forrester analyst Tracy Woo said the results highlight \"the challenge of funding massive AI investments while maintaining the strength of established businesses.\" Bulls can point to Google Cloud more than doubling and TPU chips challenging Nvidia, with OpenAI reportedly planning to buy some. There's a small discrepancy between sources: the Guardian says search revenue rose 12% to $63.4bn, while Ars Technica describes search revenue as flat and the 12% as search growth, so the exact framing differs. Amazon's Andy Jassy similarly defended heavy spending, saying it would \"forever change\" Amazon's size, while Microsoft trimmed AI investment by about $5bn.\n\n## What to Watch\n- Whether Google can make AI Mode queries earn closer to traditional searches, which Ars Technica says it plans to do with more ads.\n- Capex of $195bn to $205bn in 2026 and more in 2027, and whether borrowing continues.\n- Growth of TPU chip sales to outsiders like Anthropic, which committed to using up to one million Google AI chips.\n- Waymo's goal of 1m weekly rides by year's end.",
-    "concepts": [
-     {
-      "term": "free cash flow",
-      "definition": "The money a company has left after paying for its operations and investments.",
-      "context": "Alphabet's was negative by about $9bn, meaning it spent more than it brought in."
-     },
-     {
-      "term": "capital expenditures (capex)",
-      "definition": "Money spent on long-lasting physical things like buildings, datacentres and equipment.",
-      "context": "Alphabet spent $51.4bn on capex this quarter, more than double a year earlier, mostly for AI."
-     },
-     {
-      "term": "Tensor Processing Units (TPUs)",
-      "definition": "Google's own specialised computer chips designed to run AI.",
-      "context": "TPU sales helped Google Cloud revenue jump 103% and challenge chip leader Nvidia."
-     },
-     {
-      "term": "AI Mode",
-      "definition": "Google's AI-powered version of search that gives summarised answers instead of just a list of links.",
-      "context": "Google admitted AI Mode queries earn less ad revenue than normal searches."
-     }
-    ],
-    "quiz": {
-     "question": "Why were investors worried even though Alphabet's revenue rose 25%?",
-     "options": [
-      "Waymo stopped offering rides",
-      "Google was forced by a judge to sell its search business",
-      "Profit fell, search growth slowed and AI search earns less from ads, while spending kept soaring",
-      "Google Cloud revenue fell sharply"
+      "Brazil's courts ordered it",
+      "Argentina demanded it",
+      "He reportedly faced pushback from Trump administration officials wanting to avoid a diplomatic split",
+      "He won a recount"
      ],
      "answer_index": 2,
-     "explanation": "Revenue grew, but profit dropped 25%, search growth slowed, AI search queries make less money, and huge AI spending pushed cash flow negative."
+     "explanation": "Reports say US officials, keen not to clash with Brazil's actual government, upbraided him, and he changed the wording within about an hour."
     },
-    "background_beginner": "Google is the world's most-used search engine, owned by a parent company called Alphabet. It makes most of its money by showing ads next to search results. In the past few years, AI chatbots like ChatGPT from OpenAI and Claude from Anthropic have changed how people look for information. Google has responded by adding AI answers to its search and spending enormous amounts on datacentres and chips. Big tech companies like Amazon and Microsoft are doing the same. This keeps coming up because investors want to know whether these massive AI bets will eventually make money, or whether they'll eat into the profitable businesses these companies already have.",
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/1fbb3bf8e595e794d2bb46b7c93c9e9f51b4634e/173_0_5155_4125/master/5155.jpg?width=1920&quality=85&auto=format&fit=max&s=bb7ed6a6fdea77dddd4cc36397514c9b",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "Google's parent company Alphabet lost roughly $500bn in stock market value after its profit fell 25% and it admitted AI-powered search earns less from ads, even as it keeps spending huge sums on artificial intelligence.",
+    "background_beginner": "Brazil is South America's biggest country and one of the world's largest democracies. For years its politics have swung between two camps. On the left is Luiz Inácio Lula da Silva, known as Lula. On the right is the Bolsonaro family. Jair Bolsonaro was president from 2019 to 2023. He lost to Lula, refused to accept the result and was jailed for trying to overturn it. His son Flávio ran this time and also lost to Lula. Instead of conceding, he left for the US. The story keeps coming up because it touches on election denial, court cases and the involvement of foreign leaders like Donald Trump.",
+    "impact_score": 55,
+    "image_url": "https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1920&quality=85&auto=format&fit=max&s=70a557ba36149fc4bde1ac2f938ec6f8",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Flávio Bolsonaro lost Brazil's presidential runoff to Lula, fled to Florida after his passports were cancelled, and was widely mocked after declaring himself 'true president-elect' for 58 minutes.",
     "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
+    "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report"
+      "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil"
      },
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-31/flavio-bolsonaro-says-he-left-brazil-because-of-persecution/107331760"
      },
      {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
+      "name": "France 24",
+      "url": "https://www.france24.com/en/americas/20261031-flavio-bolsonaro-posts-video-says-he-fled-brazil-due-to-persecution"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-29T23:24:59.483187+00:00",
-    "published_date": "2026-10-30",
+    "related_story_ids": [
+     "38cf0b08-014e-59b6-ab12-5d5f79a10b6b",
+     "534ff637-863c-582e-9044-8544adff934b",
+     "6c2d6990-cf50-58f6-8593-8d1d6a4899ef",
+     "b140347d-8ea0-51cd-9a95-969a2c0577b7",
+     "bcfade68-2ccd-5755-813b-a1be3244d895",
+     "c2ac342f-c1d8-57b2-a7fb-32a818ac16b5",
+     "d1a17887-5f80-5273-8f8d-fb0e30fdb308"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-10-31T07:06:42.386464+00:00",
+    "published_date": "2026-10-31",
     "has_fulltext": true
-   },
+   }
+  ],
+  "GLOBAL_SYSTEMS": [
    {
     "id": "0148ac4e-4d55-5c4a-bfa9-7205e6748ecc",
     "title": "Wall Street drops to worst day since June after tech stocks sell-off deepens",
@@ -1313,6 +1261,77 @@
     "related_story_ids": [],
     "reading_minutes": 3,
     "created_at": "2026-10-30T23:03:44.165247+00:00",
+    "published_date": "2026-10-31",
+    "has_fulltext": true
+   },
+   {
+    "id": "7102398f-9fbd-51f5-bd0e-811f036b29f5",
+    "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+    "simplified_title": "G20 group photo scrapped as Australia and others snub Russia's Lavrov",
+    "quick_summary": "The US cancelled the traditional 'family photo' at a G20 foreign ministers' meeting in Atlanta after about a third of countries, including Australia and the UK, refused to stand next to Russia's foreign minister, Sergei Lavrov.",
+    "simplified_body": "The United States was hosting a meeting of Group of 20 (G20) foreign ministers in Atlanta when it cancelled the usual 'family photo'. Several European countries, the UK and Australia had made it clear they would boycott or walk out rather than pose beside Russia's foreign minister, Sergei Lavrov. US Secretary of State Marco Rubio scrapped the snapshot to stop it becoming a 'diplomatic distraction'.\n\nThe snub is about Russia's war in Ukraine. Australia's Foreign Minister Penny Wong called the invasion brutal and unjustified to Lavrov's face, saying it had hurt international markets and worsened global food security. Germany's Johann Wadephul said there is 'no normality with Russia'. The UK's Ed Miliband told Lavrov: 'We all know who the aggressor in this war is.' The European Union's top diplomat, Kaja Kallas, said Lavrov put forward 'a lot of lies' that ministers rebutted.\n\nSome background: Russia launched its full-scale invasion of Ukraine in 2022 and controls about a fifth of Ukrainian territory. Meanwhile, the Trump administration has been warming to Moscow, waiving some sanctions and agreeing a deal to import Russian diesel to lower US fuel prices before the midterm elections. Ukraine wasn't invited this year, and neither was South Africa, a founding G20 member, which is locked in disputes with the Trump administration.\n\nWith so many disagreements, ministers probably won't agree a joint communique. Instead, the meeting is expected to end with a summary drafted by the US. Next up is the G20 leaders' summit hosted by Donald Trump in Florida. The Guardian says that's next month, while DW says December at his golf club in Miami. Putin has been invited, but it's unclear if he'll come.",
+    "why_it_matters": "Australia publicly sided with Europe and the UK in refusing to 'normalise' Russia's invasion, even while the US host is trying to bring Moscow back in from the cold. It shows how stretched the usual Western alliance has become.",
+    "deep_analysis": "## Historical Context\nThe G20 brings together major economies, including the EU, Russia, China, India and Brazil. As background, it began as a forum for finance ministers after the late-1990s Asian financial crisis and grew into a leaders' summit after the 2008 global financial crisis. Since Russia's full-scale invasion of Ukraine in 2022, Western members have increasingly shunned Russian officials. The UK has had a policy of no direct bilateral engagement with Russian ministers since the invasion. Putin hasn't attended a G20 leaders' meeting in person since 2019, joining only virtually in 2023.\n\n## Multiple Perspectives\n- **Europe, UK and Australia:** Refusing the photo signals they won't treat Russia as normal while the war continues. Wong's office said Australia supported the US decision to cancel.\n- **The US:** Officials framed the cancellation as keeping focus on 'substantive discussions'. Rubio stressed unity amid 'interconnected economic and geopolitical crises'. The administration has eased some sanctions and struck a diesel deal with Russia, though it also approved more than $2bn in Patriot missiles for Ukraine.\n- **Russia:** Lavrov said there has been 'no real progress' in relations with the US. He said Putin would meet Zelensky only if Zelensky comes to Moscow.\n- **Ukraine:** Zelensky called the diesel deal 'a gift' to Putin.\n- **South Africa:** It says its exclusion 'is not voluntary'.\n- **Poland:** As a guest seeking membership with US support, Poland said agreement is hard when participants in wars sit at the same table.\n\n## What to Watch\n- Whether the meeting ends with only a US chair summary instead of a joint statement.\n- Whether Putin accepts the invitation to the Trump-hosted leaders' summit. Sources differ on the timing: 'next month' in Florida versus December in Miami.\n- Any Putin–Zelensky meeting.\n- Whether South Africa's exclusion and Poland's push for membership reshape the G20.",
+    "concepts": [
+     {
+      "term": "family photo",
+      "definition": "The traditional group picture of all attending representatives taken at the start of international meetings.",
+      "context": "Standing in the photo can signal acceptance, which is why countries refused to pose with Lavrov."
+     },
+     {
+      "term": "joint communique",
+      "definition": "An official statement that all participating countries agree on and release together at the end of a meeting.",
+      "context": "Disagreements over Ukraine, Poland and South Africa will probably stop one being produced."
+     },
+     {
+      "term": "sanctions",
+      "definition": "Penalties, usually economic, that countries impose to pressure another government.",
+      "context": "Trump waived some Russian sanctions, which Europe and Ukraine criticised."
+     },
+     {
+      "term": "midterm elections",
+      "definition": "US national elections held halfway through a president's four-year term.",
+      "context": "Trump's Russian diesel deal aims to cut fuel prices before these elections."
+     }
+    ],
+    "quiz": {
+     "question": "Why did the US cancel the G20 family photo?",
+     "options": [
+      "South Africa demanded it be cancelled",
+      "Several countries, including Australia, wouldn't pose alongside Russia's foreign minister",
+      "Russia refused to attend the meeting",
+      "Bad weather in Atlanta"
+     ],
+     "answer_index": 1,
+     "explanation": "About a third of the countries signalled they would boycott a photo with Lavrov over Russia's invasion of Ukraine. Rubio scrapped it to avoid a diplomatic distraction."
+    },
+    "background_beginner": "The G20 is a club of the world's biggest economies, including Australia, the US, China, Russia and the European Union. Their leaders and ministers meet regularly to talk about the global economy. In 2022, Russia launched a full-scale invasion of its neighbour Ukraine. Many Western countries, Australia among them, responded with penalties against Russia and now refuse to treat its officials as normal partners. The issue keeps coming up because Russia is still a G20 member, so every meeting forces awkward questions about whether to sit, talk or pose with Russian representatives. US President Donald Trump has recently been friendlier towards Moscow, which has made the split even sharper.",
+    "impact_score": 55,
+    "image_url": "https://i.guim.co.uk/img/media/94e76fb3f040c70be5f1c43fa81c443afb9943dd/0_0_6500_4333/master/6500.jpg?width=1920&quality=85&auto=format&fit=max&s=62be33c6b298191d401471a8d24ada98",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "The US cancelled the traditional 'family photo' at a G20 foreign ministers' meeting in Atlanta after about a third of countries, including Australia and the UK, refused to stand next to Russia's foreign minister, Sergei Lavrov.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-10-31T07:06:45.260816+00:00",
     "published_date": "2026-10-31",
     "has_fulltext": true
    }
