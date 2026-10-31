@@ -1,129 +1,190 @@
 {
- "date": "2026-10-31",
- "generated_at": "2026-10-31T13:43:46.783305+00:00",
+ "date": "2026-11-01",
+ "generated_at": "2026-10-31T22:36:42.022621+00:00",
  "regions": {
   "OCEANIA": [
    {
-    "id": "01fd7cdf-d975-5209-93bf-b4abcfeee6a6",
-    "title": "El Niño-driven drought in Papua New Guinea a ‘national crisis’ as rivers dry up and local farms fail",
-    "simplified_title": "Record El Niño drought hits up to 8 million people in PNG",
-    "quick_summary": "A severe El Niño-driven drought in Papua New Guinea is drying up rivers and gardens, cutting power and closing schools and clinics, with a coalition calling it a \"national crisis\".",
-    "simplified_body": "Papua New Guinea (PNG) is in the grip of an extreme drought driven by a historic El Niño. As many as 8 million people are affected. Rivers and creeks have dried up, family food gardens have shrivelled, and some schools and health clinics are only open half a day because they don't have enough water.\n\nMost people in PNG are subsistence farmers who rely on rain to grow their food, so a drought hits them hard. In rural highland areas, some families are down to one meal a day. CARE International says women and girls are walking three to four hours for water and food, face a higher risk of harassment, and there are reports of people trading sex for money or food. In the capital, Port Moresby, PNG Power has started planned blackouts because low dam levels have cut hydropower, possibly for up to 10 months.\n\nEl Niño is a climate pattern where warm tropical Pacific waters shift east. PNG is normally one of the wettest places on Earth, but with those waters gone, it's \"starved of rain\", says Kasis Inape from the PNG National Weather Service. Forecasts suggest this El Niño could be the strongest ever recorded, made worse by global heating. Some areas have had under a quarter of their usual rain since August.\n\nThe wet season runs November to April, but there are fears El Niño will shorten it. The Community Coalition Against Corruption says there's no coordinated plan to protect vulnerable communities. Prime Minister James Marape has told provinces to prepare for a long dry season, and Cabinet is looking at changing financial rules so local authorities can respond to disasters faster.",
-    "why_it_matters": "PNG is Australia's closest neighbour, and a crisis affecting millions of people there, with food, water and power shortages, is a major regional humanitarian concern.",
-    "deep_analysis": "## Historical Context\nAs background, El Niño events recur every few years and have previously brought drought and food shortages to PNG's highlands. This one is forecast to possibly be the strongest on record, with impacts worsened by global heating. The PNG National Weather Service declared El Niño's onset in June, by which time much of the country was already in drought.\n\n## Multiple Perspectives\nA coalition of churches, unions and business groups calls it a \"national crisis\" and says there's no coordinated plan; co-chair Peter Aitsi wants proper assessments, especially of rural areas. Aid group CARE highlights the heavier burden on women and girls. The government, through PM James Marape, says it's directing provinces to prepare and adjusting financial rules for disaster response. Aitsi notes cities have mostly been shielded so far, though blackouts and fresh-food shortages may change that.\n\n## What to Watch\n- Whether the November–April wet season brings enough rain or is cut short.\n- How long Port Moresby's blackouts last (possibly up to 10 months).\n- Whether the government produces a coordinated national response plan.\n- Smoke haze and fires in PNG and Indonesia linked to El Niño.",
+    "id": "0f8dc1f9-b44a-5864-8068-8a202194ded5",
+    "title": "Banks sitting on billions in savers' money as interest rates rise",
+    "simplified_title": "Big banks hold billions in savers' cash earning little or no interest",
+    "quick_summary": "As interest rates rise, many Australian savers are missing out because of strict bonus-rate conditions or because their money sits in accounts paying no interest at all.",
+    "simplified_body": "Australia's big four banks (Commonwealth Bank, NAB, ANZ and Westpac) lifted their maximum savings rates by 0.20 or 0.25 per cent after the last Reserve Bank of Australia (RBA) rate hike. But comparison site Canstar found those increases applied to only a few products, and only if customers met strict conditions. Miss a monthly deposit target and you drop back to a base rate the banks have kept flat at 0.10 per cent.\n\nThis affects lots of people. The Australian Competition and Consumer Commission (ACCC) found in a 2023 inquiry that more than 70 per cent of customers never met the monthly conditions. On top of that, the banks' annual reports show huge sums in accounts earning no interest: nearly $122 billion at Commonwealth Bank, nearly $82 billion at Westpac, about $67 billion at NAB and about $61 billion at ANZ.\n\nThe banks were quick to raise mortgage rates after the September hike, but savers haven't seen gains that are anywhere near as generous. Canstar's Sally Tindall says banks should send proactive alerts before customers miss their conditions. The Australian Banking Association's Simon Birmingham says banks already use app alerts, the market is highly competitive, and banks paid depositors more than $120 billion in interest last financial year. Few people switch, though: only 16 per cent changed savings accounts in three years.\n\nThe RBA meets next week, and markets put the chance of a fifth hike this year at 98 per cent. Experts suggest checking your accounts regularly, reading the fine print, considering an offset account if you have a mortgage, and shopping around.",
+    "why_it_matters": "With another RBA hike likely, Australians with money in zero-interest or conditional accounts could keep falling behind inflation while their mortgage costs climb.",
+    "deep_analysis": "## Historical Context\nThe RBA raises its cash rate to curb inflation, and this year it may hike for a fifth time after deputy governor Andrew Hauser said the inflation outlook was \"materially worse\" than forecast. As background, banks have long been criticised for passing rate rises on to borrowers faster and more fully than to savers. The ACCC's 2023 retail deposits inquiry gave hard data, finding more than 70 per cent of customers never met bonus conditions.\n\n## Multiple Perspectives\nConsumer advocates and Canstar argue conditions are onerous and banks should warn customers before they slip up. The banking industry says the market is highly competitive, offers hundreds of products and paid out more than $120 billion in interest. Some savers, like Melbourne's Corey Washbourne, find conditions easy, adding about $50 a month. Academic Michelle Cull stresses personal responsibility: regular checks and reading the fine print, including watching out for introductory rates that expire.\n\n## What to Watch\n- The RBA decision next week, with markets pricing in a 98 per cent chance of a hike.\n- Whether banks pass on any rise to savers and how many products it covers.\n- Any pressure for banks to adopt proactive alerts or simplify conditions.\n- Whether low switching rates change as the gap between savings and mortgage rates becomes more visible.",
     "concepts": [
      {
-      "term": "El Niño",
-      "definition": "A natural climate pattern where warm water in the tropical Pacific shifts east, changing rainfall patterns across the region.",
-      "context": "It has pulled rain away from PNG, causing drought."
+      "term": "base rate",
+      "definition": "The low default interest rate a savings account pays when you don't meet the bonus conditions.",
+      "context": "The big banks have kept their base rate flat at 0.10 per cent."
      },
      {
-      "term": "subsistence farmers",
-      "definition": "People who grow food mainly to feed their own families rather than to sell.",
-      "context": "Many PNG families depend on rain-fed gardens to eat, so drought hits them directly."
+      "term": "offset account",
+      "definition": "A transaction account linked to a home loan, where the balance reduces the amount of the loan you are charged interest on.",
+      "context": "Dr Cull says it saves you the mortgage interest rate and isn't taxed like savings interest."
      },
      {
-      "term": "hydropower",
-      "definition": "Electricity generated by water flowing through dams.",
-      "context": "Low dam levels have forced blackouts in Port Moresby."
+      "term": "Reserve Bank of Australia (RBA)",
+      "definition": "Australia's central bank, which sets the official cash rate to manage inflation.",
+      "context": "Its rate hikes flow through to mortgage and savings rates."
+     },
+     {
+      "term": "conditions",
+      "definition": "Rules like minimum monthly deposits or limits on withdrawals that you must follow to earn a bonus savings rate.",
+      "context": "The ACCC found more than 70 per cent of customers never met them."
      }
     ],
     "quiz": {
-     "question": "Why is drought especially damaging for many people in PNG?",
+     "question": "A saver has a high-interest account but forgets to make the minimum monthly deposit. What happens?",
      "options": [
-      "Most people rely on rain-fed gardens to grow their own food",
-      "PNG imports all its water from Australia",
-      "The wet season normally lasts all year",
-      "PNG has no rivers"
+      "They drop to a base rate of about 0.10 per cent",
+      "They pay a penalty equal to the RBA rate",
+      "Their account is closed",
+      "They still get the full bonus rate"
      ],
      "answer_index": 0,
-     "explanation": "Many Papua New Guineans are subsistence farmers relying on rainfall, so when rain fails, their food and income fail too."
+     "explanation": "Missing a condition means reverting to the base rate, which the big banks have kept at 0.10 per cent, so the saver earns virtually nothing that month."
     },
-    "background_beginner": "Papua New Guinea is a Pacific nation just north of Australia, home to millions of people, many of whom live in rural villages and grow their own food. Normally it's one of the wettest places in the world. Every few years a climate pattern called El Niño shifts warm ocean water across the Pacific, moving the rain elsewhere and bringing drought to places like PNG. Climate change is thought to be making these events more intense. The main players are PNG's government, its weather service, local communities, and aid groups. It keeps coming up because each strong El Niño threatens food, water and power for huge numbers of people.",
-    "impact_score": 68,
-    "image_url": "https://i.guim.co.uk/img/media/cc479bce593c1d686d94f80fcfd1feeee302eb1e/0_0_6000_4000/master/6000.jpg?width=1920&quality=85&auto=format&fit=max&s=63f8cc4826c1a80c1bcdd8d5b5dbb2a2",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "A severe El Niño-driven drought in Papua New Guinea is drying up rivers and gardens, cutting power and closing schools and clinics, with a coalition calling it a \"national crisis\".",
-    "tier": "LOCAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "ac553a49-4428-5bd0-9335-d974cd6cfacd"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-10-30T14:20:33.069407+00:00",
-    "published_date": "2026-10-31",
-    "has_fulltext": true
-   },
-   {
-    "id": "663b8508-e130-58ee-9564-e598916ef85b",
-    "title": "Queensland Land Court approves proposed $1b coal mine",
-    "simplified_title": "Queensland court backs Whitehaven's $1 billion Winchester South coal mine",
-    "quick_summary": "The Land Court of Queensland has rejected conservation groups' objections to Whitehaven Coal's proposed $1 billion Winchester South mine, though state and federal governments still get the final say.",
-    "simplified_body": "The Land Court of Queensland has ruled in favour of Whitehaven Coal's proposed $1 billion Winchester South coal mine in the Bowen Basin. It's one of Australia's largest proposed greenfield coal projects and is expected to produce 17 million tonnes of coal a year, mostly metallurgical coal for steelmaking plus some thermal coal. The decision came on Friday after a seven-week hearing.\n\nThe Australian Conservation Foundation (ACF) and Mackay Conservation Group (MCG) had objected on three main grounds: environmental impacts, climate change and future demand for coal. The court heard the mine's lifetime emissions would be 557,246,614 tonnes of carbon dioxide (CO2) equivalent, adding 0.0003 degrees Celsius of warming. Judge Nicholas Loos called that \"an extraordinary amount\" but said climate change is a \"wicked problem\" that can only be met by cumulative action, and that the consequences would happen with or without this mine. He also pointed to jobs for the Isaac region and $696 million in royalties, as calculated by Deloitte.\n\nThe project had already been recommended by the state's coordinator-general in 2023, and its Environmental Authority (EA) application was approved in 2024. Whitehaven says it would create 500 jobs, and the mine would run for 35 years, including 28 years of coal extraction and export.\n\nNext, the Queensland government must issue an EA and mining lease, then the federal government makes the final decision. MCG says the groups are considering \"their next move\".",
-    "why_it_matters": "This case tests how Australian courts weigh climate harm against jobs and royalties when approving new coal mines, and Queensland's Bowen Basin is central to Australia's coal export industry.",
-    "deep_analysis": "## Historical Context\nThe Land Court of Queensland hears objections to mining projects and makes recommendations before governments decide. As general background, conservation groups have increasingly used these hearings to argue climate impacts of new fossil fuel projects. In this case, the project had already passed the coordinator-general's review (2023) and an Environmental Authority approval (2024) before the court hearing.\n\n## Multiple Perspectives\n- **Whitehaven Coal** argued the mine's emissions would be \"only a tiny amount\" of global emissions and that it should be entitled to carry the risk of future viability.\n- **ACF and MCG** argued the mine would contribute to climate change and harm the environment, and questioned future coal demand. MCG's Imogen Lindenberg said the case still put climate impacts \"under intense legal scrutiny\".\n- **Judge Loos** accepted the climate arguments were \"eloquent and powerful\" and that local environmental impacts would be serious, but found Whitehaven's management plan acceptable and weighed jobs and royalties as benefits.\n\n## What to Watch\n- Whether the Queensland government issues the EA and mining lease.\n- The federal government's final decision.\n- Whether ACF and MCG pursue further legal action.\n- How the \"cumulative action\" reasoning shapes future climate challenges to mines.",
-    "concepts": [
-     {
-      "term": "greenfield",
-      "definition": "A brand-new project built on undeveloped land, rather than an expansion of an existing site.",
-      "context": "Winchester South is one of Australia's largest proposed greenfield coal projects."
-     },
-     {
-      "term": "metallurgical coal",
-      "definition": "Coal used to make steel, as opposed to thermal coal, which is burned for electricity.",
-      "context": "The mine would extract mostly metallurgical coal."
-     },
-     {
-      "term": "wicked problem",
-      "definition": "A problem so complex and widespread that no single action can solve it.",
-      "context": "The judge described climate change this way, saying only cumulative action can address it."
-     },
-     {
-      "term": "royalties",
-      "definition": "Payments mining companies make to government for the right to extract resources.",
-      "context": "The mine's $696 million in royalties was seen as a benefit."
-     }
-    ],
-    "quiz": {
-     "question": "Why did Judge Loos decline to refuse the mine on climate grounds, despite calling its emissions extraordinary?",
-     "options": [
-      "He said climate harm would occur with or without this mine and needs cumulative global action",
-      "He ruled climate change was outside the court's interest",
-      "He found the mine would produce no emissions",
-      "He said the federal government had already approved it"
-     ],
-     "answer_index": 0,
-     "explanation": "The judge accepted the mine would contribute to warming but said this one project's 0.0003°C share couldn't decide the issue alone; climate change is a 'wicked problem' needing cumulative action."
-    },
-    "background_beginner": "Australia is one of the world's biggest coal exporters, and much of it comes from Queensland's Bowen Basin. Mining companies like Whitehaven Coal want to open new mines, saying they bring jobs and government income. Conservation groups such as the Australian Conservation Foundation argue new mines worsen climate change and damage local environments. Before a mine can go ahead, it must pass several approval steps, and groups can object in Queensland's Land Court. These fights keep happening because each new mine forces a choice between economic benefits now and the climate costs of burning more coal for decades.",
+    "background_beginner": "When prices rise too quickly, the Reserve Bank of Australia lifts interest rates to cool spending. That makes home loans dearer, but should also mean savers earn more. The big four banks — Commonwealth Bank, NAB, ANZ and Westpac — hold most Australians' money. Many 'high-interest' savings accounts only pay the good rate if you follow monthly rules, like depositing a set amount. Lots of people miss those rules or keep cash in accounts paying nothing. The topic keeps returning because every rate rise reopens the question of whether banks treat savers as fairly as they charge borrowers.",
     "impact_score": 58,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/ecf54a3c867d50ac47b0ad3443e39e87?impolicy=wcms_watermark_news&cropH=815&cropW=1449&xPos=0&yPos=40&width=862&height=485&imformat=generic",
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/f04bd28c255f00834c9f0f43d9cd3bc1?impolicy=wcms_watermark_news&cropH=611&cropW=1086&xPos=0&yPos=79&width=862&height=485&imformat=generic",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "The Land Court of Queensland has rejected conservation groups' objections to Whitehaven Coal's proposed $1 billion Winchester South mine, though state and federal governments still get the final say.",
+    "description": "As interest rates rise, many Australian savers are missing out because of strict bonus-rate conditions or because their money sits in accounts paying no interest at all.",
     "tier": "LOCAL",
-    "category": "ENVIRONMENT_CLIMATE",
+    "category": "ECONOMY_MARKETS",
     "sources": [
      {
       "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-30/whitehaven-coalmine-expansion-approval-qld-land-court/107328464"
+      "url": "https://www.abc.net.au/news/2026-11-01/rba-interest-hike-impact-on-high-interest-savings-accounts/107197290"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-30T14:20:33.369165+00:00",
-    "published_date": "2026-10-31",
+    "reading_minutes": 4,
+    "created_at": "2026-10-31T22:37:17.795946+00:00",
+    "published_date": "2026-11-01",
+    "has_fulltext": true
+   },
+   {
+    "id": "dbf4d9f6-8432-5951-a40f-a1ccb96f1ef7",
+    "title": "What to know about the new health check for 3yo kids",
+    "simplified_title": "New Medicare health check for three-year-olds starts today",
+    "quick_summary": "Australian families can now take their three-year-old to a GP for a Medicare-subsidised developmental check designed to catch problems early, though experts worry about what happens after a concern is found.",
+    "simplified_body": "From today, hundreds of thousands of three-year-olds can get the Medicare Healthy Kids Check. A general practitioner (GP) looks at the child's medical history, behaviour, relationships, toileting, lifestyle and sleep, and compares them against typical developmental milestones. It's available once per child per lifetime.\n\nThe check is part of Thriving Kids, a program meant to support some children being diverted from the National Disability Insurance Scheme (NDIS). The idea is to give families cheaper access to a doctor and catch kids who are \"developmentally vulnerable\" before school. By age three, more than one in five children have at least one developmental vulnerability, according to the Royal Australian College of General Practitioners (RACGP). If a GP spots a concern, they can make referrals to anything from speech therapists to playgroups.\n\nThis isn't a brand-new idea: a Medicare check for four-year-olds was axed in 2015. The RACGP is excited about the return. But independent MP and paediatrician Monique Ryan says experts wanted nurses and allied health workers to be able to do the check too, and that GP shortages and uncertain bulk billing could get in the way. The government will support bulk billing through existing incentives, but it isn't guaranteed.\n\nThe big question is follow-up. Many state and territory supports under Thriving Kids aren't expected to start until January 2028. Paediatrician Niroshini Kennedy warns there's a risk of identifying children without matching them with timely intervention.",
+    "why_it_matters": "Thriving Kids is a key part of how Australia plans to support kids outside the NDIS, so whether this check actually leads to help will shape the early years of a lot of Aussie children.",
+    "deep_analysis": "## Historical Context\nA Medicare check for four-year-olds was scrapped in 2015, so this new check for three-year-olds arrives more than a decade later. It's tied to Thriving Kids, a program aimed at children being diverted from the NDIS. As background, the NDIS has faced long-running pressure over rising costs and debate about whether children with milder needs should be supported through other systems.\n\n## Multiple Perspectives\nThe RACGP's Tim Jones, who helped design the check, says it can pick up kids without obvious disability who still need extra help, noting that in some communities close to two in five children need some extra support. Monique Ryan supports early intervention but questions the GP-only restriction, GP shortages, some GPs' comfort with assessing development, and the lack of guaranteed bulk billing. Niroshini Kennedy of the Royal Australasian College of Physicians (RACP) says screening should be a gateway to support, not the start of a long wait.\n\n## What to Watch\n- Whether checks are actually bulk billed in practice.\n- Uptake in areas with GP shortages.\n- Wait times for referrals before state and territory supports arrive, many expected by January 2028.\n- Whether eligibility is later widened to nurses or allied health professionals.",
+    "concepts": [
+     {
+      "term": "developmentally vulnerable",
+      "definition": "A child who is behind in one or more areas of development and may struggle without extra support.",
+      "context": "Dr Jones says spotting these kids early can make the transition to school easier."
+     },
+     {
+      "term": "bulk billing",
+      "definition": "When a doctor charges Medicare directly so the patient pays nothing out of pocket.",
+      "context": "The government will encourage bulk billing for the check, but it isn't guaranteed."
+     },
+     {
+      "term": "Thriving Kids",
+      "definition": "A government program to support children with developmental needs outside the NDIS.",
+      "context": "The new check is part of this program."
+     },
+     {
+      "term": "allied health",
+      "definition": "Health professionals other than doctors and nurses, such as speech therapists and occupational therapists.",
+      "context": "Experts recommended they be allowed to deliver the check too."
+     }
+    ],
+    "quiz": {
+     "question": "What is the main concern experts like Dr Kennedy raise about the new check?",
+     "options": [
+      "It replaces Aboriginal and Torres Strait Islander health checks",
+      "Children may be identified but not get timely support afterwards",
+      "The check costs too much for the government",
+      "Three-year-olds are too young to assess"
+     ],
+     "answer_index": 1,
+     "explanation": "Dr Kennedy warns screening should be a gateway to support, not the start of a long wait, especially as many state supports won't start until January 2028."
+    },
+    "background_beginner": "In Australia, Medicare is the public system that helps pay for doctor visits. The NDIS (National Disability Insurance Scheme) funds support for people with disability, including many kids. The government wants children with milder developmental needs to get help through a different program called Thriving Kids instead. Health checks for young children aren't new: a Medicare check for four-year-olds existed until it was cut in 2015. The topic keeps coming up because lots of kids start school behind, early help is known to make a difference, and there's ongoing debate about who should pay for that help and how quickly families can actually get it.",
+    "impact_score": 55,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/04fd0e99f3051a1bfda98646c5adba0f?impolicy=wcms_watermark_news&cropH=911&cropW=1620&xPos=0&yPos=84&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Australian families can now take their three-year-old to a GP for a Medicare-subsidised developmental check designed to catch problems early, though experts worry about what happens after a concern is found.",
+    "tier": "LOCAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-01/three-year-old-medicare-developmental-check-thriving-kids/107274292"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-10-31T22:37:16.314479+00:00",
+    "published_date": "2026-11-01",
+    "has_fulltext": true
+   },
+   {
+    "id": "6287ef59-1dc5-55b6-9a42-ec8e09cb880f",
+    "title": "Storm warnings for Melbourne, Canberra, Sydney and Brisbane as cold front ‘packs a punch’",
+    "simplified_title": "Wild storms set to hit Melbourne, Canberra, Sydney and Brisbane this weekend",
+    "quick_summary": "A strong cold front is bringing storms, heavy rain, hail and possibly destructive winds of over 125km/h across Australia's east and south-east over Saturday and Sunday.",
+    "simplified_body": "Storm warnings are out for several capital cities as a severe weather front sweeps across the country. Melbourne and eastern Victoria are in line for heavy rain, wind and thunderstorms on Saturday afternoon, when a cold front runs into warm, humid air. The front then pushes east through Canberra and inland New South Wales (NSW), reaching the east coast and southern Queensland on Sunday.\n\nThe Bureau of Meteorology (BoM) has warned of possible flash flooding and potentially destructive winds of over 125km/h that could bring down large trees or damage property. Damaging winds are the biggest risk in Victoria. On Saturday evening the danger zone stretches through inland NSW, the Illawarra and Wollongong, with large hailstones also possible. Places that copped heavy rain in the past fortnight are especially at risk of flash flooding.\n\nSome background: a cold front is the leading edge of a cooler air mass. When it shoves into warm, humid air, that air gets forced upward quickly, which can build big thunderstorms. Melbourne had a first round of moderate rain and lightning on Saturday morning, but BoM meteorologist Angus Hines said it's the \"follow-up band of storms which could pack a punch\".\n\nOn Sunday the focus moves north, with storms around Brisbane in the afternoon and early evening. Severe thunderstorms are most likely on the NSW mid-north coast, the northern rivers, the tablelands and the Hunter, with a wider area of concern from Newcastle to Gympie. A severe wind warning also covers the mountains of northern Victoria and southern NSW, where gusts topped 100km/h on Saturday morning. Hines urged locals to keep an eye on the radar.",
+    "why_it_matters": "Millions of people across Victoria, the ACT, NSW and southern Queensland could face fallen trees, property damage and flash flooding, so checking BoM warnings and the radar this weekend really matters.",
+    "deep_analysis": "## Historical Context\nAs general background, spring and early summer cold fronts colliding with warm, humid air are a classic recipe for severe thunderstorms in south-eastern Australia. The source notes some areas have already had heightened rainfall over the past fortnight, which leaves soil saturated and raises the flash flood risk.\n\n## Multiple Perspectives\nThe BoM's message is cautionary: damaging winds are the main risk in Victoria, while Sunday's storms further north bring hail, heavy rain and flash flooding too. For residents, the advice is practical vigilance rather than panic. Storms are hard to pin to exact suburbs, which is why forecasters talk about broad risk areas such as Newcastle to Gympie.\n\n## What to Watch\n- Whether Saturday's afternoon band in Melbourne turns as intense as forecast.\n- Evening storms through inland NSW, Wollongong and the Illawarra.\n- Sunday afternoon storms around Brisbane and the NSW mid-north coast, northern rivers and Hunter.\n- Flash flooding in areas that were already wet.",
+    "concepts": [
+     {
+      "term": "cold front",
+      "definition": "The leading edge of a mass of cooler air pushing into warmer air.",
+      "context": "This front meeting warm, humid air is what's triggering the storms."
+     },
+     {
+      "term": "flash flooding",
+      "definition": "Fast, sudden flooding caused by intense rain over a short time, often before drains or ground can cope.",
+      "context": "BoM warned of it, especially where recent rain has already soaked the ground."
+     },
+     {
+      "term": "Bureau of Meteorology (BoM)",
+      "definition": "Australia's national weather, climate and water agency that issues forecasts and warnings.",
+      "context": "BoM issued the storm and wind warnings."
+     }
+    ],
+    "quiz": {
+     "question": "Why are areas that had heavy rain in the past fortnight at extra risk this weekend?",
+     "options": [
+      "Rain earlier attracts more lightning",
+      "Wet ground can't soak up much more water, so flash flooding is more likely",
+      "Previous rain makes cold fronts move faster",
+      "They are closer to the coast"
+     ],
+     "answer_index": 1,
+     "explanation": "Hines said areas with heightened recent rainfall face flash flood risk; already-soaked ground means new rain runs off quickly."
+    },
+    "background_beginner": "Australia's east and south-east often get wild storms in the warmer months. It happens when a cold front, a wall of cooler air moving across the country, runs into warm, sticky air. The warm air gets pushed up fast, building towering thunderclouds that can bring hail, heavy rain and strong winds. The Bureau of Meteorology is the government agency that tracks this weather and issues warnings so people can prepare. These events keep making news because they can knock down trees, damage homes, cut power and cause sudden flooding, affecting big cities like Melbourne, Sydney, Canberra and Brisbane.",
+    "impact_score": 55,
+    "image_url": "https://i.guim.co.uk/img/media/deb23aebbe0b6f74547fd907a3cd8662f017bd91/551_0_5523_4417/master/5523.jpg?width=1920&quality=85&auto=format&fit=max&s=975112e434ae26ddbe3ba8485b322b29",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "A strong cold front is bringing storms, heavy rain, hail and possibly destructive winds of over 125km/h across Australia's east and south-east over Saturday and Sunday.",
+    "tier": "LOCAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/31/weather-bom-storm-warnings-melbourne-canberra-sydney-brisbane"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-10-31T22:37:34.361549+00:00",
+    "published_date": "2026-11-01",
     "has_fulltext": true
    },
    {
@@ -183,67 +244,67 @@
     "created_at": "2026-10-30T23:03:42.477308+00:00",
     "published_date": "2026-10-31",
     "has_fulltext": true
-   },
+   }
+  ],
+  "ASIA": [
    {
-    "id": "2bef2734-d5c3-5322-a2fe-5fdc72151c93",
-    "title": "Alleged terrorist plot mastermind researched explosives, Perth police say",
-    "simplified_title": "Perth man, 22, faces court over alleged terror attack preparations",
-    "quick_summary": "Lucas Shawn Cameron, 22, appeared in Perth Magistrates Court charged with preparing for a terrorist act, after police alleged he researched explosives and got hold of a machete.",
-    "simplified_body": "A 22-year-old Perth man, Lucas Shawn Cameron, has appeared in Perth Magistrates Court by video link from custody. Police allege that in November and December last year he did online research, talked with others about attack methods and obtained a machete. The headline says police allege he researched explosives, while the article itself says he allegedly obtained explosives. When the magistrate asked whether he understood the charge, he said he did.\n\nHe is now charged with doing an act in preparation for a terrorist act, possessing violent extremist material and accessing violent extremist material. He was already facing several terrorism-related charges, but three of those have been dropped. Police allege he used a messaging platform to ask for help with things like \"explosive devices, military and tactical training\", weapons manufacturing and fake documents. These are allegations only. Nothing has been proven in court.\n\nHe was first arrested after federal police raided his home in Westminster, a suburb in Perth's north, and seized two computers and a mobile phone. Details of the alleged plot, such as any target, haven't been made public yet.\n\nMr Cameron is due back in court, this time at Stirling Gardens Magistrates Court, on November 11. More details may come out as the case moves forward.",
-    "why_it_matters": "This case shows how Australian police are using preparation offences to step in before an alleged attack happens. Much of the alleged planning reportedly took place online, which is why these laws matter here.",
-    "deep_analysis": "## Historical Context\nAs background, Australia brought in a set of federal counter-terrorism laws in the early 2000s. These include offences for preparing or planning a terrorist act, so police can act before any violence happens. In recent years, authorities have also raised concerns about young people being radicalised online. This case fits that broader pattern, though the details of this particular plot are still unknown.\n\n## Multiple Perspectives\nPolice allege serious planning, including online research, conversations about attack methods and getting hold of a machete. The article's headline says police allege he researched explosives, while the body says he allegedly obtained them. That difference hasn't been cleared up yet. Three earlier charges were dropped, which suggests the prosecution has narrowed its case. Mr Cameron hasn't entered a public response in this report, and he is presumed innocent.\n\n## What to Watch\n- His next court appearance on November 11 at Stirling Gardens Magistrates Court.\n- Whether details of the alleged plot or any target are released.\n- How the charges change as the case moves through the courts.",
+    "id": "797eed9d-1aa8-5260-bc6d-51d87214f4a5",
+    "title": "Seoul fears being sidelined as US reaches out to North Korea",
+    "simplified_title": "South Korea worries the US might cut a deal with North Korea",
+    "quick_summary": "As tensions with North Korea rise and Donald Trump hints at fresh talks with Kim Jong Un, South Korea fears being left out of decisions about its own security.",
+    "simplified_body": "Things between North and South Korea have turned especially hostile. Seoul says the North planted a mine on the southern side of the border that injured three South Korean soldiers. Pyongyang denies it and calls it a false-flag incident. The North has since run weapons tests, moved artillery to the border, and fired around 10 short-range ballistic missiles towards the Sea of Japan.\n\nAt the same time, United States (US) President Donald Trump has hinted he wants to resume talks with North Korean leader Kim Jong Un. A meeting has been floated for November 18 in Shenzhen, China, during the Asia-Pacific Economic Cooperation (APEC) summit. South Korean experts worry the US could strike a deal without them, much as it proposed talks on Ukraine without Kyiv at the table.\n\nSome background: South Korea has long relied on US extended deterrence, the promise that America's nuclear umbrella protects it. But trust has been shaken by tariffs and US demands that Seoul pay more for American troops. One fear is a deal where North Korea gives up long-range missiles that can reach the US but keeps short-range ones that can still hit South Korea and Japan.\n\nIf that happens, more South Koreans may argue for building their own nuclear deterrent. Meanwhile, visiting German Chancellor Friedrich Merz is urging an alliance of middle powers to protect free trade. Whether Seoul leans closer to Europe remains unclear.",
+    "why_it_matters": "If the US security promise to allies looks shaky, it could push countries towards their own nuclear weapons, and that question matters to Australia, which also relies on the US alliance and has a big stake in a stable region.",
+    "deep_analysis": "## Historical Context\nThe Korean War was paused by a 1953 armistice but never formally ended. As background, North Korea has developed nuclear weapons over the decades, and South Korea has relied on US protection, including troops stationed in the country. During his first term, Trump met Kim and claimed they \"fell in love\", but no lasting deal emerged.\n\n## Multiple Perspectives\nKim Sang-woo of the Kim Dae-jung Peace Foundation says there is a trust problem between Washington and Seoul, that the Trump administration isn't thinking long-term, and suggests Trump wants a Nobel Peace Prize. Professor Lim Eun-jung warns US recognition of North Korea as a nuclear power would undermine non-proliferation, and says more people are asking whether South Korea should \"go it alone\". Pyongyang denies planting the mine, calling it a false flag. European allies are irritated by President Lee's outreach to the North, given North Korean troops and weapons are helping Russia in Ukraine. Merz argues Korean and European security are linked.\n\n## What to Watch\n- Whether a Trump–Kim meeting happens around the APEC summit on November 18.\n- Any deal that covers only long-range missiles.\n- Growing debate in Seoul over its own nuclear weapons.\n- Whether South Korea moves closer to Europe and other middle powers.",
     "concepts": [
      {
-      "term": "act in preparation for a terrorist act",
-      "definition": "A crime that covers getting ready for a terror attack, even if no attack happens.",
-      "context": "This is the main charge Mr Cameron now faces."
+      "term": "false-flag incident",
+      "definition": "An attack staged to look like it was carried out by someone else, to blame them.",
+      "context": "North Korea claims the mine blast was staged to make it look bad."
      },
      {
-      "term": "violent extremist material",
-      "definition": "Content that promotes or instructs on political or ideological violence.",
-      "context": "He is charged with both possessing and accessing this kind of material."
+      "term": "extended deterrence",
+      "definition": "A promise by a powerful country to use its military, including nuclear weapons, to defend an ally.",
+      "context": "South Korea has relied on this US promise instead of building its own nukes."
      },
      {
-      "term": "custody",
-      "definition": "Being held by police or in jail while a case continues.",
-      "context": "He appeared in court by video link from custody."
+      "term": "nuclear deterrent",
+      "definition": "Nuclear weapons kept mainly to discourage others from attacking.",
+      "context": "Some in Seoul argue South Korea should build its own if US support seems unreliable."
      }
     ],
     "quiz": {
-     "question": "Why can someone be charged with a terrorism offence even if no attack took place?",
+     "question": "Why would a US–North Korea deal limiting only long-range missiles worry South Korea?",
      "options": [
-      "Australian law lets police charge people for preparing for a terrorist act",
-      "Only people who have completed an attack can be charged",
-      "The charge only applies if fake documents were made",
-      "Magistrates can charge anyone who owns a computer"
+      "It would force South Korea to give up its own nuclear weapons",
+      "Short-range missiles could still easily reach South Korea and Japan",
+      "It would ban South Korea from trading with Europe",
+      "It would end the US troop presence immediately"
      ],
-     "answer_index": 0,
-     "explanation": "Preparation offences let authorities step in before an attack. Mr Cameron faces exactly this kind of charge."
+     "answer_index": 1,
+     "explanation": "Such a deal would protect the US but leave short-range weapons that can still hit South Korea and Japan, raising doubts about US commitment."
     },
-    "background_beginner": "Australia has laws that make it a crime not just to carry out a terror attack, but also to plan or prepare for one. Federal police, who handle national security cases, can raid homes and arrest people they suspect are getting ready for an attack. In recent years, authorities have worried about young people being drawn into violent ideas online, often through messaging apps. Cases like this one keep coming up because police are trying to stop attacks early. That means courts often hear about alleged plans rather than actual attacks. Anyone charged is presumed innocent until proven guilty.",
-    "impact_score": 38,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/20fabf51f0e18add6094e839f45bc4c7?impolicy=wcms_watermark_news&cropH=570&cropW=1013&xPos=8&yPos=0&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Lucas Shawn Cameron, 22, appeared in Perth Magistrates Court charged with preparing for a terrorist act, after police alleged he researched explosives and got hold of a machete.",
-    "tier": "LOCAL",
-    "category": "CRIME_SAFETY",
+    "background_beginner": "Korea was split into North and South after World War II. They fought the Korean War in the early 1950s, which stopped with a 1953 ceasefire but never officially ended. North Korea, led by Kim Jong Un, is a closed country with nuclear weapons. South Korea is a democracy closely allied with the United States, which keeps troops there and promises to protect it. The issue keeps coming up because North Korea regularly tests missiles, border clashes flare, and US presidents, especially Donald Trump, sometimes try direct talks with Kim, leaving South Korea worried it could be sidelined.",
+    "impact_score": 68,
+    "image_url": "https://static.dw.com/image/71429666_6.jpg",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "As tensions with North Korea rise and Donald Trump hints at fresh talks with Kim Jong Un, South Korea fears being left out of decisions about its own security.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-30/perth-man-charged-with-allegedly-planning-terrorist-attack/107327348"
+      "name": "DW",
+      "url": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-10-30T14:20:47.532008+00:00",
-    "published_date": "2026-10-31",
+    "reading_minutes": 5,
+    "created_at": "2026-10-31T22:37:32.751943+00:00",
+    "published_date": "2026-11-01",
     "has_fulltext": true
-   }
-  ],
-  "ASIA": [
+   },
    {
     "id": "4493d3d8-f338-56a2-ab7f-8fb599937a4c",
     "title": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
@@ -311,72 +372,6 @@
     ],
     "reading_minutes": 2,
     "created_at": "2026-10-31T13:44:21.758143+00:00",
-    "published_date": "2026-10-31",
-    "has_fulltext": true
-   },
-   {
-    "id": "986042e0-9c9e-53df-bea5-20b82519d0e2",
-    "title": "North Korea displays drones, missiles as Kim urges AI weapons push",
-    "simplified_title": "North Korea shows off attack drones as Kim pushes AI weapons",
-    "quick_summary": "North Korea staged a weapons demonstration featuring suicide drones, cruise missiles and rocket launchers, a day after firing around a dozen short-range ballistic missiles, as leader Kim Jong Un called for faster military drone and artificial intelligence development.",
-    "simplified_body": "North Korea has test-fired attack drones, missiles and a multiple rocket launcher at a weapons demonstration, state media reported on Friday 30 October. Leader Kim Jong Un called for faster development of drone and artificial intelligence (AI) technology for military use, saying \"peace is guaranteed only by strength.\" The display included suicide attack drones, drones firing air-to-surface missiles, cruise missiles and 600mm multiple rocket launchers. The Korean Central News Agency (KCNA), the North's state media, claimed the weapons hit an island target with 100 per cent accuracy.\n\nA day earlier, South Korea's Joint Chiefs of Staff said around a dozen short-range ballistic missiles were fired from the Wonsan area towards the East Sea (Sea of Japan), flying about 250km. It's not yet clear whether those launches were part of the demonstration. Seoul's National Security Office said they violated United Nations (UN) Security Council resolutions.\n\nTensions were already high. A landmine blast on the border wounded three South Korean soldiers, and a joint Seoul-UN investigation found North Korea planted the mines over a year ago. Seoul called it a violation of the Armistice Agreement and demanded an apology, which the North mocked. The two Koreas are technically still at war, because the 1953 Korean War ended in a truce, not a peace treaty. The border zone, the Demilitarized Zone (DMZ), is one of the world's most heavily fortified frontiers.\n\nWhat's next? Kim's sister, Kim Yo Jong, says loudspeakers for propaganda will be readied on the border. South Korea has proposed military talks to confirm the border's exact location, but the North hasn't replied. Meanwhile, US President Donald Trump's overtures to Kim have raised worries that Seoul could be sidelined in any nuclear talks.",
-    "why_it_matters": "North Korea is racing to add drones and AI to its arsenal while border tensions with the South grow, which raises the risk of miscalculation in a region vital to Australia's trade and security partnerships with South Korea, Japan and the US.",
-    "deep_analysis": "## Historical Context\nThe Korean War (1950–53) ended with an armistice, not a peace treaty, leaving the two Koreas technically at war and divided by the DMZ. As general background, North Korea has been under UN Security Council sanctions for years over its nuclear and ballistic missile programmes, which is why Seoul says these launches breach UN resolutions. Loudspeaker propaganda and landmine incidents have flared up tensions before.\n\n## Multiple Perspectives\n- **North Korea**: Kim frames drone and AI superiority as essential to modern warfare and argues strength guarantees peace. Its claims of 100 per cent accuracy come from state media and haven't been independently verified.\n- **South Korea**: Seoul calls the launches serious violations that don't help manage the situation, but has also offered military talks and restored communication channels, mixing pressure with diplomacy.\n- **United States**: Washington is analysing the missiles with Seoul. Trump calls his relationship with Kim \"very good\" yet has seemingly downplayed a summit, leaving some in Seoul uneasy about being sidelined.\n\n## What to Watch\n- Whether North Korea answers Seoul's offer of border talks.\n- Whether loudspeaker broadcasts resume along the DMZ.\n- Further tests of AI-linked weapons, following the recent torpedo and hypersonic missile tests.\n- Any shift in US–North Korea diplomacy and how it involves South Korea.",
-    "concepts": [
-     {
-      "term": "short-range ballistic missiles",
-      "definition": "Rockets that fly in a high arc and hit targets relatively close by, typically within a few hundred kilometres.",
-      "context": "North Korea fired around a dozen of these, which flew about 250km."
-     },
-     {
-      "term": "suicide attack drones",
-      "definition": "Uncrewed aircraft designed to crash into a target and explode, rather than return home.",
-      "context": "They were a highlight of North Korea's weapons demonstration."
-     },
-     {
-      "term": "Armistice Agreement",
-      "definition": "The 1953 deal that stopped the fighting in the Korean War without formally ending the war.",
-      "context": "Seoul says North Korea's landmines breached it."
-     },
-     {
-      "term": "Demilitarized Zone",
-      "definition": "The heavily guarded strip of land separating North and South Korea.",
-      "context": "The landmine blast that wounded three South Korean soldiers happened along this border."
-     }
-    ],
-    "quiz": {
-     "question": "Why are North and South Korea described as still technically at war?",
-     "options": [
-      "Because the Korean War ended with a truce rather than a peace treaty",
-      "Because fighting never stopped after 1953",
-      "Because the UN declared war on North Korea in 2020",
-      "Because South Korea refuses to recognise the DMZ"
-     ],
-     "answer_index": 0,
-     "explanation": "The 1953 Armistice Agreement halted fighting but no peace treaty was ever signed, so the war never formally ended."
-    },
-    "background_beginner": "Korea was split into North and South after World War II. In 1950 the North invaded the South, sparking the Korean War, which stopped in 1953 with a ceasefire but never a peace deal. Since then the North, run by the Kim family, has built nuclear weapons and missiles despite UN bans, while the South is a democracy closely allied with the United States. The two sides are separated by a heavily guarded border. The issue keeps coming up because North Korea regularly tests new weapons, border incidents flare, and every US president has tried, with limited success, to talk the North into giving up its nukes.",
-    "impact_score": 58,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--rL3EAJZq--/c_crop,h_576,w_1024,x_0,y_53/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/29/000_d2xk9dy.jpg?itok=cXoHjjSc",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "North Korea staged a weapons demonstration featuring suicide drones, cruise missiles and rocket launchers, a day after firing around a dozen short-range ballistic missiles, as leader Kim Jong Un called for faster military drone and artificial intelligence development.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-drones-missiles-kim-jong-un-6505466"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "b97ede95-3b78-5d59-8563-c3b68feb6f72",
-     "d42ceb56-8b03-5d33-a9af-48b15e95e1b3"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-10-30T14:20:36.254025+00:00",
     "published_date": "2026-10-31",
     "has_fulltext": true
    },
@@ -721,79 +716,144 @@
     "created_at": "2026-10-30T23:03:45.627799+00:00",
     "published_date": "2026-10-31",
     "has_fulltext": true
-   }
-  ],
-  "MIDDLE_EAST_AFRICA": [
+   },
    {
-    "id": "e5a91d18-7570-53b7-8a3e-97e5a67f9670",
-    "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
-    "simplified_title": "Vance letter to Iran could be last shot at avoiding renewed war",
-    "quick_summary": "US Vice-President JD Vance has written to a senior Iranian official offering direct talks, even as the US and Israel reportedly prepare fresh strikes on Iran after the 3 November US midterm elections.",
-    "simplified_body": "US Vice-President JD Vance sent a personal letter on Sunday, delivered through Qatari mediators, to Mohsen Rezaei, secretary of Iran's Supreme National Security Council. It offers direct talks led by Vance. Iran would have to make nuclear commitments at the start, in return for US sanctions relief and a process to reopen the Strait of Hormuz within seven days. Meanwhile, the US has reportedly drawn up joint plans with Israel to attack Iran after the midterms, and has moved munitions and cargo planes into the region.\n\nThe sticking point is sequencing. The US wants Iran to commit early to removing its stockpile of highly enriched uranium. Iran doesn't want to give up something irreversible while US steps, like lifting oil sanctions, could be undone. Iran's chief negotiator, Mohammad Ghalibaf, says progress depends on Iran's seven conditions, including lifting sanctions, unfreezing assets, ending the US naval blockade and ending the war on all fronts. The Gulf states matter a lot here, because Iran has plans to hit their desalination plants, internet cables and power grids if attacked.\n\nThe US and Iran have been at war for eight months. Iran's supreme leader Ali Khamenei was killed in US-Israeli strikes in February, and his son Mojtaba replaced him. Iran was also attacked during talks in 2025 and 2026, so it deeply distrusts US diplomacy. Analysts disagree on who really decides in Tehran. Some say the Islamic Revolutionary Guard Corps (IRGC) calls the shots; others say decisions are collective.\n\nA reply from Iran is imminent. Several analysts expect nothing before 3 November, but warn that the risk of major strikes could rise sharply from mid-to-late November. A third-party guarantee, possibly from China, has been floated to break the trust deadlock.",
-    "why_it_matters": "A renewed war could hit Gulf infrastructure and shipping through the Strait of Hormuz, a key route for the world's oil. That could push up global fuel prices, including at Australian petrol pumps.",
-    "deep_analysis": "## Historical Context\nOn 13 June 2025, Israel struck Iranian nuclear and military sites two days before a planned sixth round of US-Iran talks in Oman. The US joined on 22 June, bombing Natanz, Fordow and Isfahan. On 28 February this year, the US and Israel attacked again, two days after Geneva talks that mediator Oman said had made \"significant progress\". That attack killed Supreme Leader Ali Khamenei. Vance later negotiated a 14-point memorandum of understanding, but it fell apart when other US officials took over implementing it. As background, the Strait of Hormuz has long been one of the world's most important oil chokepoints.\n\n## Multiple Perspectives\nSenator Chris Murphy, who was briefed on the US war plan, calls it \"insane\" and warns of devastating escalation. Analyst Rouzbeh Parsi sees Vance as the administration's \"voice of reason\", but says he has never been able to sway Trump. Andreas Krieg reads the outreach as a sign of US second thoughts. Paul Musgrave thinks the simplest reading is that big attacks are coming soon. On who holds power in Iran, Wolfgang Pusztai says the IRGC calls the shots, while Nader Hashemi says Rezaei is \"one voice among many\". Iran says the \"carrot-and-stick approach has no effect\".\n\n## What to Watch\n- Iran's reply to the Vance letter.\n- Whether a guarantor such as China steps in.\n- The midterm results and any strikes from mid-November.\n- How the Gulf states respond.\n- Whether Iran will accept blending down its uranium or allow United Nations (UN) inspectors back in.",
+    "id": "40889fac-dd61-5de5-988e-f67b65392c2d",
+    "title": "Police clash with masked rioters after largely peaceful protests across France",
+    "simplified_title": "France sees third weekend of cost-of-living protests, with clashes after dark",
+    "quick_summary": "Hundreds of thousands of mostly young people marched across France for a third straight weekend over living costs and run-down schools, and masked rioters clashed with police as the largely peaceful rallies wound up.",
+    "simplified_body": "On Saturday, Halloween, France had its third weekend in a row of mass protests over the cost of living and crumbling public services. The marches were mostly peaceful. As they ended, groups of masked rioters in Paris, Lyon, Marseille and other cities threw paving stones and at least one incendiary device at police. Police answered with teargas, stun grenades, baton charges and, in Toulouse, water cannon. Interior Minister Laurent Nuñez said a riot officer in Paris was hit by a molotov cocktail, which he called \"attempted murder\".\n\nCrowd numbers depend on who you ask. The interior ministry counted about 320,000 people nationwide, including 70,000 in Paris. A coalition of student groups and unions said nearly half a million, including 200,000 in Paris. Arrest figures also differ between reports. Al Jazeera cited at least 290 arrests \"so far\", while The Guardian reported 511.\n\nThe movement started last month with high school students angry about neglected buildings, teacher shortages and a university admissions system they see as unfair to disadvantaged students. Trade unions and gilets jaunes (yellow vests) protesters have since joined in. The first wave, on 17 October, became some of France's worst rioting in years. Similar youth-led protests have also broken out in Germany, and police are on alert in Spain and Italy.\n\nStudents plan more school and university blockades this week, then a 5 November demonstration called by workers and unions. Prime Minister Sebastien Lecornu has met student unions and is looking at measures to ease living costs.",
+    "why_it_matters": "Young people across Europe are taking to the streets over living costs and education, and the trend could spread further. Housing and cost-of-living pressures on young Aussies are a reminder that these frustrations aren't confined to France.",
+    "deep_analysis": "## Historical Context\nAs general background, France has a long tradition of street protest. A well-known recent example is the gilets jaunes movement that began in 2018 over fuel taxes and living costs. This latest movement started with school students last month. Its first big day, 17 October, drew more than 500,000 people and became some of the worst unrest in years, with shops in Paris looted.\n\n## Multiple Perspectives\nThe government says it has heard the protesters. Lecornu has met student unions, and Nuñez stresses that police face an \"extraordinary\" level of violence from a hardcore minority. Protesters argue they've been ignored, and one Paris marcher called the government \"incompetents\". Al Jazeera's reporter said most protesters condemn the violence but that \"trust has gone\". Turnout figures differ sharply: authorities say 320,000, while organisers say nearly 500,000. The two outlets also report different arrest totals.\n\n## What to Watch\n- Student blockades planned for Tuesday and Thursday.\n- The 5 November union demonstration.\n- Any cost-of-living measures Lecornu announces.\n- Whether youth protests grow in Germany, Spain and Italy.",
     "concepts": [
      {
-      "term": "highly enriched uranium",
-      "definition": "Uranium processed to a high concentration of the isotope that can fuel a nuclear weapon.",
-      "context": "The US wants Iran's stockpile removed. Iran has instead offered to blend it down so it can't be used for a bomb."
+      "term": "gilets jaunes (yellow vests)",
+      "definition": "A French protest movement named after the high-visibility vests drivers must carry, known for anger over living costs and inequality.",
+      "context": "Yellow vests protesters joined students and unions in these marches."
      },
      {
-      "term": "sanctions relief",
-      "definition": "Lifting economic penalties, such as bans on buying a country's oil.",
-      "context": "It's the main reward the US is offering Iran in exchange for nuclear commitments."
+      "term": "blockades",
+      "definition": "Protests where students physically block entry to schools or universities to disrupt classes.",
+      "context": "Students plan new blockades before the 5 November union march."
      },
      {
-      "term": "Islamic Revolutionary Guard Corps (IRGC)",
-      "definition": "A powerful Iranian military force with major political and economic influence.",
-      "context": "The US sent the letter to Rezaei because he is seen as close to the IRGC."
-     },
-     {
-      "term": "sequencing",
-      "definition": "The order in which each side carries out its promises in a deal.",
-      "context": "Iran won't make irreversible nuclear moves first while US concessions could be reversed."
+      "term": "incendiary device",
+      "definition": "An object designed to start a fire when thrown, such as a molotov cocktail (a bottle filled with flammable liquid).",
+      "context": "At least one was thrown at police in Paris."
      }
     ],
     "quiz": {
-     "question": "Why is Iran reluctant to accept the US proposal's order of steps?",
+     "question": "Why do the turnout figures for Saturday's protests differ?",
      "options": [
-      "It has already exported its uranium",
-      "It fears giving up irreversible nuclear concessions while US sanctions relief could be reversed",
-      "It refuses to talk to anyone through Qatar",
-      "It wants China to run its nuclear programme"
+      "Only arrests were counted, not marchers",
+      "Different groups counted them: authorities said about 320,000, while organisers said nearly half a million",
+      "The protests were cancelled partway through",
+      "Paris was not included in any of the counts"
      ],
      "answer_index": 1,
-     "explanation": "The key dispute is sequencing and trust. Iran fears handing over its leverage first while the US could undo its own steps."
+     "explanation": "The interior ministry and the student and union coalition gave separate estimates, which is common with protest crowds."
     },
-    "background_beginner": "The United States and Iran have been enemies since Iran's 1979 revolution. A big part of the fight is Iran's nuclear programme, which the US and Israel fear could produce a bomb. In 2025 and again in February this year, Israel and the US bombed Iran, sometimes in the middle of peace talks. That has left Iran deeply distrustful of US diplomacy. The two countries have now been at war for eight months. Iran has partly closed the Strait of Hormuz, a narrow sea lane that much of the world's oil passes through. Countries like Qatar keep trying to broker a deal, but each side wants the other to move first.",
-    "impact_score": 80,
-    "image_url": "https://i.guim.co.uk/img/media/f8cc60575da517f1b807ca56c7a46e06e0e98032/224_0_2998_2398/master/2998.jpg?width=1920&quality=85&auto=format&fit=max&s=bb9e840a350f85a1a049d00ca325c8b3",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "US Vice-President JD Vance has written to a senior Iranian official offering direct talks, even as the US and Israel reportedly prepare fresh strikes on Iran after the 3 November US midterm elections.",
+    "background_beginner": "France is having a wave of protests led mostly by young people. It began last month when high school students complained about run-down schools, too few teachers and an unfair university entry system. Trade unions and the 'yellow vests', a protest movement known for its anger over living costs, then joined in. They're unhappy with rising prices and President Emmanuel Macron's government. Most marches are peaceful, but small groups of masked rioters often clash with police afterwards, and that keeps the story in the news. Similar youth protests are now popping up in Germany, Spain and Italy.",
+    "impact_score": 58,
+    "image_url": "https://i.guim.co.uk/img/media/ec1c1c4b59453b025c2e14f859b3f5c9c6633eb2/0_0_6000_4000/master/6000.jpg?width=1920&quality=85&auto=format&fit=max&s=c012b9e1a710ab60db3e585e06c1b6a2",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "Hundreds of thousands of mostly young people marched across France for a third straight weekend over living costs and run-down schools, and masked rioters clashed with police as the largely peaceful rallies wound up.",
     "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
+    "category": "SOCIETY_CULTURE",
     "sources": [
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran"
+      "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
      },
      {
       "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
     "related_story_ids": [
-     "315ff6a2-e859-54be-9370-470d95fabca2",
-     "a1953172-37fc-55b9-a715-9bbde7c2c360",
-     "adabd6c4-a1b8-5204-9a50-3b162f5bf191",
-     "d83687dc-daf6-5e1c-87b9-7f98e012cce1"
+     "64681fd5-c970-5213-a539-22ebbd387f36",
+     "a57bbdc4-9f13-5c6e-b135-ee085a776457",
+     "d92321ee-32e9-5d8e-9ae9-4845ceea9903"
     ],
     "reading_minutes": 3,
-    "created_at": "2026-10-30T14:20:35.913331+00:00",
-    "published_date": "2026-10-31",
+    "created_at": "2026-10-31T22:37:16.378359+00:00",
+    "published_date": "2026-11-01",
+    "has_fulltext": true
+   }
+  ],
+  "MIDDLE_EAST_AFRICA": [
+   {
+    "id": "094a178b-c494-5f1a-9228-c760b8556e68",
+    "title": "Iran's Khamenei warns US and Israel against new attacks",
+    "simplified_title": "Iran's new Supreme Leader warns US and Israel against fresh strikes",
+    "quick_summary": "Iran's Supreme Leader Mojtaba Khamenei has ordered his military to hit back immediately and without geographic limits if the US or Israel attacks again, as reports suggest new strikes could come right after the US midterm elections.",
+    "simplified_body": "Iran's Supreme Leader, Mojtaba Khamenei, told his top military commanders that any attack on Iran must be met with an \"immediate, impactful and geographically unrestricted response\". He also ordered them to update Iran's target list to include \"all types of tangible and intangible assets\" belonging to the US and Israel. It was his first reported meeting with military chiefs, and he hasn't been seen in public since taking over in March.\n\nThe warning lands as US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have threatened more military action. US Secretary of State Marco Rubio said Trump \"hasn't made a decision\" yet, but newspaper reports say the US and Israel have drawn up joint plans to strike after the US midterm elections. The sources differ slightly on the election day: France 24 says Tuesday, while ABC says Monday, November 3. Gulf countries, Saudi Arabia and Türkiye have urged Washington to give diplomacy more time.\n\nSome background: the war began on February 28 with US-Israeli strikes on Iran, which killed Mojtaba's father, Ayatollah Ali Khamenei. Iran hit back at American assets around the region and has restricted shipping through the Strait of Hormuz, a waterway that normally carries around one-fifth of global oil consumption. That has pushed up energy prices worldwide. On Friday, Iran's Islamic Revolutionary Guard Corps (IRGC) said four oil tankers hit mines and caught fire there.\n\nWhat's next? Qatar and Pakistan are mediating, and US Vice President JD Vance sent a letter to Iran's security chief Mohsen Rezaei. Iran's Foreign Minister Abbas Araghchi called it \"a positive step\" but said there are no plans to meet US officials. Iran's conditions include lifting sanctions, reducing US forces in the region and releasing frozen funds.",
+    "why_it_matters": "With the Strait of Hormuz partly blocked, global oil prices have already spiked, which flows through to what Australians pay at the bowser. A wider war could push prices even higher and disrupt shipping that Australia's economy depends on.",
+    "deep_analysis": "## Historical Context\nAs background, tensions between Iran and the US date back to Iran's 1979 revolution, which is why a Tehran salesman told AFP, \"We have been at war for 48 years now.\" The current open war began on February 28 with US-Israeli strikes that killed Supreme Leader Ali Khamenei; his son Mojtaba took over in March. Since then Iran has used its control of the Strait of Hormuz as leverage, restricting shipping and warning unauthorised vessels of \"destruction\".\n\n## Multiple Perspectives\n- **Iran:** Mojtaba Khamenei and Araghchi say any new attack would bring a much wider war with no \"red lines\", yet Araghchi also welcomed Vance's letter and said a Qatari-brokered plan to reopen Hormuz has been shortened to two days.\n- **United States:** Rubio says Trump prefers a diplomatic solution but hasn't ruled out strikes, and accuses Iran of \"actively and openly\" targeting commercial ships. Trump has said he's weighing whether to \"finish them off\".\n- **Israel:** Netanyahu talks of a \"historic, one-time opportunity\" to topple Iran's government and is reportedly lobbying for a joint operation after the midterms, though Israel's recent election left his camp short of a majority.\n- **Regional players:** Gulf states, Saudi Arabia and Türkiye are urging more time for diplomacy, fearing they'd be hit again.\n- **Ordinary Iranians:** some describe living \"in a state of limbo\", others shrug off fear of renewed war.\n\n## What to Watch\n- The US midterm results: the war is unpopular due to petrol prices, and Democratic gains could constrain Trump.\n- Whether Israel forms a new government and who leads it.\n- Progress of Qatari and Pakistani mediation, and whether Vance meets Rezaei in person as reported.\n- Further incidents in the Strait of Hormuz, including Iran's earlier threat to cut undersea cables.",
+    "concepts": [
+     {
+      "term": "Supreme Leader",
+      "definition": "Iran's most powerful official, who sits above the elected president and controls the armed forces.",
+      "context": "Mojtaba Khamenei became Supreme Leader in March after his father was killed in US-Israeli strikes."
+     },
+     {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage between Iran and Oman connecting the Persian Gulf to the open ocean.",
+      "context": "It normally carries around one-fifth of global oil consumption, so Iran restricting it has spiked energy prices."
+     },
+     {
+      "term": "midterm elections",
+      "definition": "US national elections held halfway through a president's four-year term, deciding seats in Congress.",
+      "context": "Reports suggest new strikes on Iran could follow the midterms, and opposition gains could limit Trump's power."
+     },
+     {
+      "term": "Islamic Revolutionary Guard Corps (IRGC)",
+      "definition": "A powerful branch of Iran's military that reports to the Supreme Leader, separate from the regular army.",
+      "context": "The IRGC said four oil tankers hit mines in the Strait of Hormuz after using unauthorised routes."
+     }
+    ],
+    "quiz": {
+     "question": "Why has the Iran war become unpopular with many Americans ahead of the midterm elections?",
+     "options": [
+      "The US has introduced military conscription",
+      "Iran's restriction of the Strait of Hormuz has pushed up global energy prices",
+      "Qatar has stopped selling gas to the US",
+      "Iran has attacked cities on the US mainland"
+     ],
+     "answer_index": 1,
+     "explanation": "Iran's blockade of the Strait of Hormuz, which normally carries about a fifth of global oil consumption, caused energy prices to spike, making the war unpopular with US voters."
+    },
+    "background_beginner": "Iran and the United States have been rivals since Iran's 1979 revolution, with Israel, a close US ally, seeing Iran as its biggest threat. This year it turned into open war: on February 28 the US and Israel struck Iran, killing its Supreme Leader, Ali Khamenei. His son Mojtaba replaced him. Iran fired back at US bases in the region and choked off shipping through the Strait of Hormuz, a key oil route, sending fuel prices up worldwide. Fighting has paused while Qatar and Pakistan try to broker a deal, but threats from all sides keep raising fears it could flare up again.",
+    "impact_score": 80,
+    "image_url": "https://s.france24.com/media/display/77114946-d54c-11f1-8f61-a575454bc579/w:1280/p:16x9/AP26285515397254.jpg",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Iran's Supreme Leader Mojtaba Khamenei has ordered his military to hit back immediately and without geographic limits if the US or Israel attacks again, as reports suggest new strikes could come right after the US midterm elections.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-10-31/attacks-on-iran-should-be-met-without-restraint-khamenei-orders/107332392"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "4baeb561-9dde-5523-9cc1-d2b0ea035a8e",
+     "d83687dc-daf6-5e1c-87b9-7f98e012cce1",
+     "e5a91d18-7570-53b7-8a3e-97e5a67f9670"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-10-31T22:37:22.178603+00:00",
+    "published_date": "2026-11-01",
     "has_fulltext": true
    },
    {
@@ -1454,61 +1514,61 @@
     "has_fulltext": true
    },
    {
-    "id": "83ab119f-7cff-579d-b016-55bf24117046",
-    "title": "Bluebottle drones that never sleep level playing field in Pacific drug war",
-    "simplified_title": "Australian-made sea drones to help Fiji spot Pacific drug smugglers",
-    "quick_summary": "Australia is giving Fiji solar-powered Bluebottle sea drones that can patrol for up to six months to help detect drug traffickers moving through the Pacific towards Australia and New Zealand.",
-    "simplified_body": "Fiji will start receiving Australian-made Bluebottle drones next year to help watch its huge ocean territory for drug smugglers. The 7.4-metre uncrewed boats run on sun and wave power, can stay at sea for up to six months, and use artificial intelligence (AI) to flag suspicious vessels. Fiji hasn't said how many it's getting, because it wants to \"keep drug dealers guessing\".\n\nSmugglers from the Americas use Fiji as a transit point to reach lucrative drug markets in Australia and New Zealand. Fiji's navy has just two large patrol boats, so its Defence Minister Pio Tikoduadua says the waters are simply too big to watch. Fijian personnel will run the drones, sending data to an Australian-funded security hub near Suva, and share it with partners including Australia.\n\nThe drones are part of a $600 million Australian package for Waqa Moana, a Pacific-wide maritime security initiative against drug trafficking. Sydney company Ocius Technology designed them, and the Australian Navy already has 15, with 40 more ordered under a $176 million contract. In a recent four-week New Zealand trial in Fiji, officials reported two Bluebottles detected more than 100 illegal fishing vessels, many with their transponders switched off.\n\nExperts think the drones could push smugglers onto riskier routes. But Steve Symon, a New Zealand organised crime adviser, warns they'd need to be used in large numbers, and syndicates may shift to cargo ships, port corruption, or even their own drones.",
-    "why_it_matters": "Much of the drug supply heading through the Pacific is aimed at Australia, so helping Fiji watch its waters is partly about protecting Australian communities, while also deepening Australia's security ties in the region.",
-    "deep_analysis": "## Historical Context\nFiji sits across shipping lanes between the Americas and Australia/New Zealand, making it a transit point for traffickers. Its navy relies on Australian-donated Guardian-class patrol boats, and one replacement, RFNS Puamau, ran aground on its maiden voyage in 2024. As background, Australia has long funded Pacific maritime security, partly to remain the region's preferred security partner.\n\n## Multiple Perspectives\nFiji's Defence Minister sees the drones as a way to stretch limited resources. Academic Jose Sousa-Santos says they performed as intended in the NZ trial and could force smugglers onto less profitable routes. Steve Symon is more cautious: the region is vast, so numbers matter, and criminals will adapt, possibly with their own drones. Australian officials didn't say whether the drones might monitor foreign military vessels, though Jennifer Parker of the University of Western Australia doubts they change much strategically given existing intelligence sharing.\n\n## What to Watch\n- Arrival of Fiji's first drones next year and how many are deployed.\n- Whether traffickers shift to cargo ships or port corruption.\n- Any use beyond drugs and illegal fishing.\n- Rollout of the wider Waqa Moana program, including Australian Federal Police work.",
+    "id": "003fc913-02b9-5d18-878f-a1c4dd724cd8",
+    "title": "Sale of Victoria Barracks Sydney 'mind-boggling', says retired colonel",
+    "simplified_title": "Government plans to sell Sydney's historic Victoria Barracks, sparking backlash",
+    "quick_summary": "The federal government wants to sell Victoria Barracks in Sydney's Paddington, a working Army base since the 1800s, and critics from across politics say that's a mistake.",
+    "simplified_body": "The federal government plans to sell Victoria Barracks in Sydney's east, which has been an active Australian Army base for over a century. It's one of 67 underused or vacant Defence properties set for sale after an independent audit found Defence's estate was too hard to maintain. Defence Minister Richard Marles says keeping the barracks would cost $200 million over the next decade.\n\nAbout 500 people work at the site, and Defence sources say people are already packing, with the aim of everyone moving out by Christmas. Most will go to Randwick Barracks, while others will temporarily move to Defence Plaza Sydney, a rented, foreign-owned CBD office tower reportedly sitting 60 per cent empty. The Army Museum of NSW, which holds three Victoria Crosses, now faces an uncertain future. Retired colonel Graham Fleeton called the sale \"mind-boggling\", and former prime ministers Paul Keating and John Howard, NSW Premier Chris Minns and Greens senator David Shoebridge have also criticised it.\n\nThe barracks was established in 1840 and largely built from sandstone quarried by convicts. British regiments used it until 1870, then the NSW colonial government, then the Australian Army after federation in 1901. Soldiers left from here for the Sudan War, Boer War and World War I.\n\nAny buyer will have to respect the site's 12 Commonwealth Heritage Listings, which protect heritage elements. A City of Sydney survey found locals mainly want the heritage kept, with strong support for affordable housing and cultural spaces. The whole property sell-off is expected to raise up to $3 billion.",
+    "why_it_matters": "It's a test of how Australia balances saving money on defence against protecting one of its most significant colonial and military heritage sites, right in the middle of Sydney.",
+    "deep_analysis": "## Historical Context\nVictoria Barracks dates to 1840, with the main complex finished by 1848. It housed British regiments, then NSW colonial forces, then the Australian Army from 1901, and is described as one of Australia's best-known examples of military architecture. As background, governments in Australia have periodically sold off surplus Defence land, often turning it into housing or parks.\n\n## Multiple Perspectives\nThe government argues it can't afford to waste money given the strategic landscape, citing $200 million in upkeep and up to $3 billion from selling 67 properties. Prime Minister Anthony Albanese says few people currently get to access the large site. Critics including Keating, Howard, Minns, Shoebridge and Colonel Fleeton say it's the Army's \"ancestral home\" and shouldn't be sold. Some question moving staff into a rented, foreign-owned office tower. Locals surveyed prioritise heritage, with support for affordable housing and cultural uses.\n\n## What to Watch\nWhether the government holds firm amid cross-party pressure; where the Army Museum of NSW and its collection end up; who buys the site and how heritage listings shape its reuse; and whether housing or cultural spaces feature in its future.",
     "concepts": [
      {
-      "term": "uncrewed",
-      "definition": "Operating without anyone on board; controlled remotely or by software.",
-      "context": "Bluebottles patrol for months without sailors, with humans monitoring via satellite."
+      "term": "Commonwealth Heritage Listings",
+      "definition": "Federal heritage protections for important sites, requiring options like keeping heritage features and reusing buildings to be considered.",
+      "context": "The barracks has 12 of them, which any buyer must take into account."
      },
      {
-      "term": "transponders",
-      "definition": "Devices on ships that broadcast their identity and location.",
-      "context": "Many fishing boats spotted in the trial had switched theirs off to avoid detection."
+      "term": "independent audit",
+      "definition": "A review by an outside body checking how well something is being run or managed.",
+      "context": "An audit found Defence's property portfolio was too hard to maintain, triggering the sale plan."
      },
      {
-      "term": "Waqa Moana",
-      "definition": "A Pacific-wide maritime security initiative to counter illicit drug trafficking, backed by a $600 million Australian package.",
-      "context": "The drones and training for Fiji are funded through it."
+      "term": "federation",
+      "definition": "The 1901 joining of the Australian colonies into one nation.",
+      "context": "The Australian Army took over the barracks after federation."
      }
     ],
     "quiz": {
-     "question": "Why does Steve Symon think Bluebottles alone may not stop trafficking?",
+     "question": "What is the government's main reason for selling Victoria Barracks?",
      "options": [
-      "They can only detect submarines",
-      "They can't operate in bad weather",
-      "Fiji's navy refuses to use them",
-      "The region is huge and criminals are likely to adapt"
+      "Maintaining underused Defence sites is costly, and the money is better spent elsewhere",
+      "The Army no longer exists in Sydney",
+      "The buildings are unsafe and must be demolished",
+      "The NSW government asked to take it over"
      ],
-     "answer_index": 3,
-     "explanation": "He says they'd need large numbers to cover the vast region, and syndicates could switch to cargo ships, port corruption or their own drones."
+     "answer_index": 0,
+     "explanation": "The government cites $200 million in upkeep over a decade and an audit showing ageing, underused sites burden Defence resources."
     },
-    "background_beginner": "Illegal drugs like cocaine are often made in the Americas and sold in Australia and New Zealand, where they fetch high prices. To get there, smugglers cross the Pacific Ocean, often passing through island nations like Fiji. Fiji has hundreds of islands and enormous stretches of ocean, but only a small navy, so it's hard to see who's coming and going. Australia, as a big neighbour and close partner, regularly helps Pacific countries with boats, money and training. The topic keeps coming up because demand for drugs stays high, smugglers keep finding new routes, and Pacific security is also tied to wider competition for influence in the region.",
-    "impact_score": 55,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/1e88796a094f4267995d0f70b34fea05?impolicy=wcms_watermark_news&cropH=2559&cropW=4550&xPos=450&yPos=776&width=862&height=485&imformat=generic",
+    "background_beginner": "Victoria Barracks is a large sandstone Army base in Paddington, Sydney, built by convict labour in the 1840s. It's been used by soldiers ever since, first British, then Australian, and it houses an Army museum. The federal government, which owns it through the Department of Defence, now wants to sell it along with dozens of other underused properties to save money and raise funds. Many people, including former prime ministers from both major parties, think the site is too historically important to sell. The debate keeps coming up because it pits budget pressures against heritage and community values.",
+    "impact_score": 45,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/decb13d788b99302e3ed9fe0a69b2821?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=0&width=862&height=485&imformat=generic",
     "region": "Australian defence, ADF, AUKUS, regional security",
     "region_code": "ADF",
-    "description": "Australia is giving Fiji solar-powered Bluebottle sea drones that can patrol for up to six months to help detect drug traffickers moving through the Pacific towards Australia and New Zealand.",
+    "description": "The federal government wants to sell Victoria Barracks in Sydney's Paddington, a working Army base since the 1800s, and critics from across politics say that's a mistake.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-30/how-sea-drones-could-even-playing-field-in-drug-crisis/107297868"
+      "url": "https://www.abc.net.au/news/2026-11-01/victoria-barracks-sydney-history-future-museum-speaks-out/107318758"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
     "reading_minutes": 4,
-    "created_at": "2026-10-30T14:20:32.997413+00:00",
-    "published_date": "2026-10-31",
+    "created_at": "2026-10-31T22:37:34.825730+00:00",
+    "published_date": "2026-11-01",
     "has_fulltext": true
    },
    {
@@ -1640,130 +1700,128 @@
     "has_fulltext": true
    },
    {
-    "id": "72597008-acc3-5015-8369-4d885c3f3663",
-    "title": "Nvidia CEO reportedly targeted by an alleged Chinese spy",
-    "simplified_title": "US reportedly believes alleged Chinese spy got close to Nvidia boss",
-    "quick_summary": "US intelligence reportedly believes a Singapore-linked businesswoman acting for China built a close relationship with Nvidia chief Jensen Huang, a claim China calls \"groundless speculation\" and Nvidia says involved only normal business.",
-    "simplified_body": "The New York Times, citing unnamed sources, reports that US intelligence agencies believe Alice Huang (also known as Huang Le), linked to Singapore-based data centre company Megaspeed, was acting as a Chinese intelligence asset passing commercial information to Beijing. She's no relation to Nvidia's chief executive, Jensen Huang, but officials reportedly found she'd developed a close relationship with him.\n\nThis matters because Nvidia makes the chips powering the artificial intelligence (AI) boom, and Jensen Huang has a close partnership with US President Donald Trump. White House officials are reportedly alarmed by her access for that reason. Nvidia says the contact was routine: customers like Megaspeed get \"ordinary business information\" and \"zero information relevant to national security\". Jensen Huang called the dealings \"normal and not unusual\" and said she's no longer with Megaspeed. China's foreign ministry called the report \"an attempt to smear China\".\n\nSome background: since 2022 the US has imposed export restrictions on its most advanced Nvidia chips to China, citing national security, though some have loosened under Trump. Alice Huang was first watched over suspected chip smuggling. US surveillance picked up her communications with an American, later identified as Jensen Huang through \"unmasking\". Nvidia says the smuggling claims were investigated and debunked last year, and Jensen Huang says Nvidia \"counted every one\" of Megaspeed's GPUs (graphics processing units).\n\nWhat's next? It's still unclear what information was allegedly passed on or how valuable it was. Megaspeed has hired external lawyers for an internal investigation and says it'll cooperate with the US. Singapore police say their own probe into Megaspeed is ongoing.",
-    "why_it_matters": "It shows how the US–China fight over AI chips now runs through third countries in our region like Singapore, and Australia, as a close US ally with its own AI ambitions, has a stake in how tightly that technology is controlled.",
-    "deep_analysis": "## Historical Context\nThe US has restricted exports of its most advanced Nvidia chips to China since 2022, arguing they could strengthen China's military. As background, these chips have become central to building AI systems, making them a strategic asset. US officials say they've caught firms trafficking chips across the Chinese border and have probed whether companies in third countries help Chinese businesses get around the rules. Singapore has charged four individuals and four companies over fraud on server suppliers.\n\n## Multiple Perspectives\n- **US intelligence (via the New York Times):** reportedly concluded Alice Huang acted for Beijing and got close to Jensen Huang; White House officials are reportedly alarmed.\n- **Nvidia:** says the meetings were routine, no trade secrets were shared, smuggling claims were debunked, and smuggling isn't a significant issue overall.\n- **China:** calls the report \"groundless speculation\" and a smear.\n- **Megaspeed:** takes the claims seriously, has appointed external legal advisers, and offered to cooperate.\n- **Singapore police:** don't enforce other countries' unilateral export controls but won't condone businesses using Singapore to dodge them; their investigation continues.\n\n## What to Watch\n- Whether details emerge on what information was allegedly passed and when.\n- Outcomes of Megaspeed's internal review and Singapore's investigation.\n- Whether the story affects Jensen Huang's push to sell more chips to China and the Trump administration's export policy.",
+    "id": "faa22b81-63f7-55bb-8d82-21c9258d65a7",
+    "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+    "simplified_title": "Google loses $500bn in value as its AI answers eat ad money",
+    "quick_summary": "Alphabet, Google's owner, lost just over US$500bn in stock market value in one day after revealing its own AI search answers are cutting into its search advertising revenue.",
+    "simplified_body": "Google's parent company Alphabet lost just over $500bn in value on Thursday. Its shares fell more than 12% to a six-month low after it admitted that its artificial intelligence (AI) features, like 'AI mode', which answers questions conversationally, are eating into the money it makes from ads shown next to normal search results. Total revenue still grew 25% to $127.6bn in the three months to the end of September, but that fell short of what analysts expected, especially in advertising.\n\nThis matters for investors and for anyone who relies on Google. Search ads are Google's money-maker, so if people read an AI summary instead of clicking around, fewer ads get seen. Former Google ad boss Kim Scott said the company would 'rather eat its own lunch' than let rivals like ChatGPT and Claude do it, calling it a long-term bet on AI.\n\nGoogle isn't alone. Amazon's shares fell 6% in after-hours trading after it reported negative cash flow of $42bn, meaning it's spending more than it earns as it pours money into AI. Boss Andy Jassy argued its cloud and retail arms could each become $1 trillion businesses. Microsoft fared better, with shares slipping less than 1%. It spent around $5bn less on AI investment, plans to cut thousands of jobs, and grew revenue 19% to $92.3bn.\n\nWhat's next? Analyst Tracy Woo from Forrester says the big question is where the real money from AI will end up. Expect investors to keep watching whether these giants' huge AI spending pays off without damaging their older, reliable businesses.",
+    "why_it_matters": "Australians use Google search every day, so a shift from clickable results to AI answers could change how local businesses and publishers get found online. And many Australians' superannuation funds hold big US tech stocks, so swings like this one can affect retirement savings.",
+    "deep_analysis": "## Historical Context\nAs general background, Google built its fortune over two decades by selling ads alongside search results. The arrival of chatbots like ChatGPT gave people a new way to get answers without clicking through to websites. That threatened Google's core model. The company's response has been to add its own AI summaries. The catch is that this approach now appears to be cannibalising its own ad income.\n\n## Multiple Perspectives\nGoogle's Philipp Schindler says he feels 'very good about our trajectory'. Kim Scott frames the hit as a deliberate long-term bet, in keeping with Google's history of accepting short-term pain. Investors were less patient and wiped about $500bn off its value. Tracy Woo from Forrester sees a wider challenge: funding huge AI investments while keeping established businesses strong. At Amazon, Andy Jassy defended spending that has pushed cash flow to negative $42bn, saying 'there is not one tool to rule the world'. Microsoft's mix of lower AI spending, job cuts and strong cloud growth drew only a muted reaction.\n\n## What to Watch\n- Whether Google can make money from AI mode, for example through ads inside AI answers.\n- Whether Amazon's spending turns into the trillion-dollar businesses Jassy predicts.\n- How Microsoft's Copilot growth translates into revenue.\n- Woo's key question: where AI value will ultimately be captured.",
     "concepts": [
      {
-      "term": "export restrictions",
-      "definition": "Government rules limiting which products can be sold to certain countries.",
-      "context": "The US limits sales of top Nvidia chips to China on national security grounds."
+      "term": "AI mode",
+      "definition": "A Google search feature that answers your question conversationally, like a chatbot, instead of just listing links.",
+      "context": "Google says it is reducing how often people see and click the traditional search ads."
      },
      {
-      "term": "unmasking",
-      "definition": "Revealing the identity of an American whose name was hidden in intelligence reports.",
-      "context": "It's how officials reportedly identified Jensen Huang as the person talking to Alice Huang."
+      "term": "negative cash flow",
+      "definition": "When more money is going out of a business than coming in over a period.",
+      "context": "Amazon's negative cash flow of $42bn shows how heavily it is spending on AI."
      },
      {
-      "term": "intelligence asset",
-      "definition": "A person who gathers or passes information to a government's spy agencies.",
-      "context": "US officials reportedly concluded Alice Huang was one for Beijing."
+      "term": "cloud",
+      "definition": "Computing power and storage that companies rent over the internet instead of owning their own servers.",
+      "context": "Cloud businesses at Amazon and Microsoft are central to their AI plans, and Microsoft's grew 30%."
      }
     ],
     "quiz": {
-     "question": "Why are White House officials reportedly especially worried about Alice Huang's access to Jensen Huang?",
+     "question": "Why did Alphabet's share price fall even though its revenue grew 25%?",
      "options": [
-      "Because he has a close relationship with President Trump",
-      "Because she is his relative",
-      "Because she admitted to spying",
-      "Because Nvidia is based in Singapore"
+      "Its own AI answers are cutting into search ad revenue, and results missed analyst expectations",
+      "Google shut down its search engine",
+      "Google stopped investing in AI",
+      "Microsoft bought a stake in Google"
      ],
      "answer_index": 0,
-     "explanation": "Reports say the concern stems from Jensen Huang's close partnership with Trump. She's no relation, Nvidia is American, and she didn't comment."
+     "explanation": "Revenue grew, but less than analysts expected, especially in advertising. Google also admitted its AI mode is eating into the money from traditional search ads, which spooked investors."
     },
-    "background_beginner": "Nvidia is an American company whose chips power most of today's artificial intelligence. Its boss, Jensen Huang, is one of the most influential figures in tech. The US and China are rivals in AI, and since 2022 the US has blocked sales of Nvidia's best chips to China, worried they could help China's military. That's led to suspicions that some chips get smuggled through other countries, such as Singapore. Stories about spying, smuggling and trade rules keep popping up because whoever leads in AI could gain big economic and military advantages, so both countries watch each other closely.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/cb6b801a0c5ebf6942051bb480e34a89937dea28/0_0_8192_5464/master/8192.jpg?width=1920&quality=85&auto=format&fit=max&s=e53421395dcbbf019f1526738d81af68",
+    "background_beginner": "Google makes most of its money from ads shown next to search results. A few years ago, AI chatbots such as ChatGPT (made by OpenAI) and Claude started answering people's questions directly, so some users stopped searching on Google. Google responded by adding its own AI answers, and Microsoft and Amazon are also spending enormous sums racing to build AI. The topic keeps coming up because these are some of the world's most valuable companies, and nobody yet knows whether all this spending will pay off or quietly undercut the businesses that made them rich.",
+    "impact_score": 72,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
     "region": "AI and technology",
     "region_code": "AI_TECH",
-    "description": "US intelligence reportedly believes a Singapore-linked businesswoman acting for China built a close relationship with Nvidia chief Jensen Huang, a claim China calls \"groundless speculation\" and Nvidia says involved only normal business.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo"
-     },
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/nvidia-jensen-huang-megaspeed-international-6505791"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-10-30T14:20:33.838355+00:00",
-    "published_date": "2026-10-31",
-    "has_fulltext": true
-   },
-   {
-    "id": "97cf11c5-cbc9-552c-9d97-0db0ae3dab3c",
-    "title": "Trump declares robot imports a national security threat",
-    "simplified_title": "Trump labels imported factory robots a US national security threat",
-    "quick_summary": "US President Donald Trump has declared imports of foreign-made industrial robots a national security threat, giving trading partners 180 days to strike deals before possible tariffs.",
-    "simplified_body": "On October 28, President Donald Trump issued a presidential proclamation declaring that imports of foreign-made industrial robots and machinery are a national security threat. He's ordered new negotiations with trading partners and warned that if no agreements are reached within 180 days, the US may impose \"tariffs, duties, quotas, and fees\" on those imports.\n\nThis could complicate things for big US companies that rely on factory robots, including General Motors, Ford, Tesla, Boeing and Lockheed Martin. The proclamation says industrial robots are crucial for making US military weapon systems and are a \"driving force\" behind critical infrastructure. It cites a Department of Commerce investigation, run under Commerce Secretary Howard Lutnick, which says these imports threaten the US industrial base and could introduce \"significant cybersecurity vulnerabilities\".\n\nSome background: this isn't the first move against foreign robots. In July 2026, the Federal Communications Commission (FCC), the US regulator for communications devices, banned new models of foreign-made consumer robots like robot vacuums, robot dogs and humanoid robots. That ban specifically exempted industrial robot arms and other fixed robots used in car factories and warehouses. This new proclamation targets exactly that category.\n\nWhat happens next depends on the talks. Trading partners now have a 180-day window to negotiate. If that fails, the president could add new costs or limits on imported robots, which manufacturers would likely feel in their operations.",
-    "why_it_matters": "Factory robots are the backbone of modern car and aerospace manufacturing, so restrictions could ripple through supply chains. For Australia, it's another sign that US trade policy is increasingly using national security to justify tariffs, which affects any country trading with America.",
-    "deep_analysis": "## Historical Context\nThe proclamation follows a pattern in Trump's trade policy of using national security investigations by the Department of Commerce to justify potential tariffs. As general background, similar security-based reasoning has been used for tariffs on goods like steel and aluminium. It also builds directly on the FCC's July 2026 ban on new foreign-made consumer robots, which had left industrial robots untouched.\n\n## Multiple Perspectives\nThe administration argues industrial robots are vital to weapons production and critical infrastructure, and that foreign-made ones carry cybersecurity and safety risks. Ars Technica notes the Commerce investigation \"supposedly\" found these risks, signalling some scepticism, as the findings haven't been detailed publicly in the article. Manufacturers such as GM, Ford, Tesla, Boeing and Lockheed Martin rely on these robots, so new costs could complicate their operations, putting national security goals in tension with industrial competitiveness.\n\n## What to Watch\n- Whether trading partners reach agreements within the 180-day window.\n- Whether tariffs, quotas or fees are actually imposed if talks fail.\n- How major US manufacturers respond, and whether exemptions are sought.\n- Whether more detail about the claimed cybersecurity risks is released.",
-    "concepts": [
-     {
-      "term": "presidential proclamation",
-      "definition": "A formal official statement by the US president that can set policy or trigger government actions.",
-      "context": "Trump used one to declare robot imports a national security threat."
-     },
-     {
-      "term": "tariffs",
-      "definition": "Taxes placed on imported goods, making them more expensive to bring into a country.",
-      "context": "The US may put tariffs on foreign robots if no deals are struck in 180 days."
-     },
-     {
-      "term": "industrial robots",
-      "definition": "Machines, often robot arms, used in factories to do tasks like welding, assembly and moving parts.",
-      "context": "These are the focus of the new proclamation, unlike the earlier FCC ban on consumer robots."
-     }
-    ],
-    "quiz": {
-     "question": "How does Trump's new proclamation differ from the FCC's July 2026 robot ban?",
-     "options": [
-      "It only applies to robots made in the US",
-      "It immediately imposes tariffs on all robots",
-      "It targets industrial robots that the FCC ban had exempted",
-      "It bans robot vacuums and robot dogs"
-     ],
-     "answer_index": 2,
-     "explanation": "The FCC ban covered consumer robots like vacuums and humanoids but exempted fixed industrial robots; the new proclamation targets those industrial robots and machinery."
-    },
-    "background_beginner": "Many factories today use robots, mostly big mechanical arms, to build things like cars and planes. A lot of these robots are made overseas. The US government, led by President Donald Trump, has been worried that relying on foreign-made technology could be risky, both for the economy and for security, for example if devices could be hacked. Trump has often used tariffs, which are taxes on imports, to push other countries into trade deals. Earlier, US regulators banned some foreign consumer robots. Now the focus has shifted to factory robots, which is why the topic keeps returning to the news.\n",
-    "impact_score": 62,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "US President Donald Trump has declared imports of foreign-made industrial robots a national security threat, giving trading partners 180 days to strike deals before possible tariffs.",
+    "description": "Alphabet, Google's owner, lost just over US$500bn in stock market value in one day after revealing its own AI search answers are cutting into its search advertising revenue.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
+    "related_story_ids": [
+     "ee6af6c8-6a55-5c6a-b60b-fdd06b84370e"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-10-31T22:37:18.894744+00:00",
+    "published_date": "2026-11-01",
+    "has_fulltext": true
+   },
+   {
+    "id": "9ff10003-7648-50a0-84e8-1d97085d1f39",
+    "title": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
+    "simplified_title": "Could letting AI scrape creative work break Australia's constitution?",
+    "quick_summary": "As Labor weighs copyright changes that could let AI companies train on Australian creative work, critics warn it might count as the government acquiring property, which could trigger huge compensation claims, while artists in Albanese's own electorate are pushing back.",
+    "simplified_body": "The federal Labor government is considering changing copyright law as part of a wider package of artificial intelligence (AI) reforms. AI companies want easier access to music, books and journalism to train their models. Anthropic has suggested an \"opt-out\" model, where it could scrape content unless a rights holder used digital protections to object. Coalition senators and the recording industry warn this could breach section 51 of the constitution, which lets the Commonwealth acquire property only \"on just terms\".\n\nIf weakening copyright counts as the government taking people's property, Nationals senator Ross Cadell warns Australia could owe compensation to \"every rights holder on Earth\". Constitutional expert Anne Twomey says that's \"potentially\" a concern, depending on how any law is drafted. She notes that no actual proposal has been released yet. The attorney-general's department says it is \"extremely alive\" to the issue.\n\nCreatives are angry too, including in Prime Minister Anthony Albanese's own inner-Sydney seat of Grayndler, where 10% of workers are in creative fields compared with 4.2% nationally. Local artists called the idea \"outrageous\" and \"insane\". Albanese has promised \"the strongest possible protection\" and said it would be \"theft\" if creatives weren't paid. Attorney-General Michelle Rowland's office says any changes will deliver \"meaningful control and fair compensation\".\n\nDraft laws are expected by the end of the year, and parliament is due to consider them in 2027. The Coalition says it will examine the constitutional question once it sees what the government proposes. Music industry figures warn that international rights holders are watching closely, because AI companies might train in Australia to sidestep stricter copyright laws overseas.",
+    "why_it_matters": "This decision could shape whether Australian musicians, writers and artists get paid when AI learns from their work. It could also expose taxpayers to massive compensation claims from rights holders around the world.",
+    "deep_analysis": "## Historical Context\nSection 51(xxxi) of the Australian Constitution, the \"just terms\" clause made famous by the film The Castle, means the Commonwealth must fairly compensate people when it acquires their property. Anne Twomey notes the High Court has heard several cases linking copyright and acquisition of property, including ones about video games, cigarette plain packaging and cassette tapes, with varying outcomes. As general background, the plain packaging challenge failed because the court found the government didn't acquire any property itself. That kind of distinction could matter here.\n\n## Multiple Perspectives\n- **Coalition (Cash, Cadell):** They support AI investment but warn against selling out creators. They see an opt-out model as a possible acquisition of property.\n- **Recording industry (ARIA's Annabelle Herd, Mushroom's Chris Maund):** Herd calls scraping \"clearly an acquisition of property\". Maund says AI companies should use existing licensing, as Spotify is already doing.\n- **AI companies:** Some say licensing under current law is too difficult. OpenAI has reportedly warned that Australian law stops it training models locally.\n- **Government:** It promises strong protection and fair pay for creatives while pursuing AI investment.\n- **Twomey:** She says the issue is complex and depends on how the law is drafted, and there are recognised exceptions to section 51.\n\n## What to Watch\n- Draft legislation, expected by the end of the year, and whether it includes an opt-out model.\n- Possible High Court challenges and claims from overseas rights holders.\n- Political fallout in Grayndler, where independent Hannah Ferguson will challenge Albanese.",
+    "concepts": [
+     {
+      "term": "opt-out",
+      "definition": "A system where your work can be used automatically unless you actively say no.",
+      "context": "Anthropic suggested AI companies could scrape content unless rights holders used digital protections to object."
+     },
+     {
+      "term": "section 51",
+      "definition": "The part of the constitution listing federal law-making powers, including acquiring property only \"on just terms\".",
+      "context": "Critics say weakening copyright could count as the government acquiring property, triggering compensation."
+     },
+     {
+      "term": "scrape",
+      "definition": "To automatically copy large amounts of content from the internet.",
+      "context": "AI companies want to scrape creative work to train their models."
+     }
+    ],
+    "quiz": {
+     "question": "Why do critics think an opt-out copyright model could cost the government money?",
+     "options": [
+      "AI companies would stop paying tax",
+      "Artists would be paid directly from the budget by law",
+      "It might count as acquiring property, which requires just-terms compensation",
+      "Datacentres would need government subsidies"
+     ],
+     "answer_index": 2,
+     "explanation": "Section 51 says the Commonwealth must acquire property on just terms. If the change counts as acquiring copyright, rights holders could claim compensation."
+    },
+    "background_beginner": "AI tools like chatbots learn by reading huge amounts of text, music and images, much of it made by people who own the copyright. Tech companies such as OpenAI and Anthropic want easier, cheaper access to that material. Artists, musicians and publishers want permission and payment. Governments around the world are trying to balance attracting AI investment with protecting creators. In Australia, Labor is preparing reforms. Critics argue that taking away creators' rights might even break the constitution's rule that the government must fairly compensate people when it takes their property. The issue keeps coming up because AI is growing fast and the law hasn't caught up.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/3e7a0fdd3ee1b88bfd479f84f93eb5b6dec2668e/703_0_4478_3583/master/4478.jpg?width=1920&quality=85&auto=format&fit=max&s=8c520c79c54d687d4406745740e0d43b",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "As Labor weighs copyright changes that could let AI companies train on Australian creative work, critics warn it might count as the government acquiring property, which could trigger huge compensation claims, while artists in Albanese's own electorate are pushing back.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
     "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-10-30T14:20:49.914602+00:00",
-    "published_date": "2026-10-31",
+    "reading_minutes": 4,
+    "created_at": "2026-10-31T22:37:18.682804+00:00",
+    "published_date": "2026-11-01",
     "has_fulltext": true
    }
   ]
  },
- "total_stories": 27
+ "total_stories": 28
 }
