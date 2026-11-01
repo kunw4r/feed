@@ -1,8 +1,71 @@
 {
  "date": "2026-11-01",
- "generated_at": "2026-10-31T22:36:42.022621+00:00",
+ "generated_at": "2026-11-01T07:40:19.288980+00:00",
  "regions": {
   "OCEANIA": [
+   {
+    "id": "c9c8cb6a-0cf1-5ccc-9ab8-67c53cf65940",
+    "title": "Government will not promise net savings in budget update, despite inflation pressure",
+    "simplified_title": "Government won't promise budget savings as inflation keeps biting",
+    "quick_summary": "Finance Minister Katy Gallagher and Treasurer Jim Chalmers won't commit to December's mid-year budget update finding more savings than new spending, despite inflation hitting 4.3 per cent and a likely interest rate rise.",
+    "simplified_body": "Finance Minister Katy Gallagher has refused to promise that the government's December budget update will cut more spending than it adds. Treasurer Jim Chalmers also declined to commit last week, after inflation came in at a worse-than-expected 4.3 per cent over the year to September. Gallagher said decisions were still being made by the Expenditure Review Committee, but that she and Chalmers were putting \"enormous effort\" into finding savings.\n\nThis matters for anyone with a mortgage or loan. High inflation has lifted expectations that the Reserve Bank of Australia (RBA) will raise interest rates again when it meets on Tuesday. The RBA's chief economist, Sarah Hunter, said state and federal government spending was \"definitely\" adding to demand pressures, though the government calls the war in Iran the \"primary driver\" of inflation.\n\nSome background: the mid-year economic and fiscal outlook (MYEFO) is a December check-up on the federal budget. Gallagher says pressures are growing in health, aged care, veterans' services and AUKUS (the defence pact between Australia, the United Kingdom and the United States), plus higher borrowing costs. Prime Minister Anthony Albanese acknowledged the RBA has only one \"blunt instrument\", interest rates, while governments control the other levers on demand.\n\nWhat's next? The RBA decision comes Tuesday, then the budget update in December. Opposition Leader Angus Taylor says the government could signal spending restraint to ease rate pressure. Minister Murray Watt argues most spending growth is in the private sector, not government.",
+    "why_it_matters": "If government spending keeps pushing up demand, Australians may face more interest rate rises, which means bigger mortgage repayments for millions of households.",
+    "deep_analysis": "## Historical Context\nAs background, Australia's budget cycle includes the main budget (usually May) and the mid-year economic and fiscal outlook in December. Gallagher pointed to the Howard era, arguing governments then weren't facing costs like AUKUS, aged care and a Medicare system she described as \"in freefall\". She says every previous budget and update under this government delivered overall budget improvements, with savings exceeding new spending.\n\n## Multiple Perspectives\n- **Government:** The budget is helping tackle inflation; the Iran war and fuel prices are major drivers. Murray Watt says private-sector demand growth tripled last financial year while government demand growth halved.\n- **Reserve Bank:** Chief economist Sarah Hunter says public spending is \"definitely\" contributing to demand, while noting it's not the RBA's place to advise on spending.\n- **Opposition:** Angus Taylor says committing to restraint would signal to the RBA it needn't raise rates.\n- **Prime Minister:** Albanese concedes the RBA has only one \"blunt instrument\", leaving other levers with governments.\n\n## What to Watch\n- Tuesday's RBA rate decision.\n- Whether December's update shows net savings or net new spending.\n- Rising borrowing costs, which Chalmers warned could add billions to the budget.\n- Spending pressures in health, aged care and veterans' services.",
+    "concepts": [
+     {
+      "term": "inflation",
+      "definition": "The rate at which prices for goods and services rise over time.",
+      "context": "Inflation hit 4.3 per cent over the year to September, higher than expected."
+     },
+     {
+      "term": "mid-year economic and fiscal outlook",
+      "definition": "The federal government's December update on the budget's health and forecasts.",
+      "context": "Ministers won't say if this update will contain more savings than new spending."
+     },
+     {
+      "term": "Expenditure Review Committee",
+      "definition": "A group of senior ministers who decide on government spending and savings measures.",
+      "context": "Gallagher said she didn't want to pre-empt its decisions."
+     },
+     {
+      "term": "blunt instrument",
+      "definition": "A tool that works broadly rather than precisely; here, interest rates affect the whole economy at once.",
+      "context": "Albanese used it to describe the RBA's single lever against inflation."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the debate over government savings matter for interest rates?",
+     "options": [
+      "The RBA must follow the Treasurer's instructions on rates",
+      "The government directly sets interest rates in the budget",
+      "Government spending adds to demand, which can push inflation up and lead the RBA to raise rates",
+      "Savings in the budget automatically lower fuel prices"
+     ],
+     "answer_index": 2,
+     "explanation": "The RBA's chief economist said government spending contributes to demand pressures. Higher demand can fuel inflation, which the RBA fights by raising rates."
+    },
+    "background_beginner": "Australia's federal government, led by Prime Minister Anthony Albanese, manages a budget of spending and tax. Treasurer Jim Chalmers and Finance Minister Katy Gallagher oversee it. Separately, the independent Reserve Bank of Australia tries to keep price rises (inflation) under control, mainly by moving interest rates. When inflation is high, people argue about whether government spending is part of the problem, because extra spending can add demand to the economy. The opposition usually urges spending cuts, while the government points to other causes and essential needs like health and aged care. This debate flares up whenever inflation figures or rate decisions land.",
+    "impact_score": 62,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/f01f78c5704fe6112ca3853b9ea3da76?impolicy=wcms_watermark_news&cropH=2970&cropW=5280&xPos=0&yPos=1&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Finance Minister Katy Gallagher and Treasurer Jim Chalmers won't commit to December's mid-year budget update finding more savings than new spending, despite inflation hitting 4.3 per cent and a likely interest rate rise.",
+    "tier": "LOCAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-01/katy-gallagher-wont-promise-myefo-net-savings/107333248"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-01T07:40:50.342757+00:00",
+    "published_date": "2026-11-01",
+    "has_fulltext": true
+   },
    {
     "id": "0f8dc1f9-b44a-5864-8068-8a202194ded5",
     "title": "Banks sitting on billions in savers' money as interest rates rise",
@@ -186,67 +249,82 @@
     "created_at": "2026-10-31T22:37:34.361549+00:00",
     "published_date": "2026-11-01",
     "has_fulltext": true
-   },
-   {
-    "id": "a62b09c6-1839-58d1-a33b-c74dbfc81049",
-    "title": "Morgue, mould and privacy breach push NT health crisis to new levels",
-    "simplified_title": "NT health system hit by morgue smell, mould, assaults and privacy breach",
-    "quick_summary": "A rough week for Northern Territory health saw an overflowing morgue, mould at two facilities, assaults on hospital staff and a botched privacy breach response, prompting the opposition to call for the Health Minister to resign.",
-    "simplified_body": "The Northern Territory's (NT) health system had a messy week. At Royal Darwin Hospital, staff in the pathology building say the smell from a nearby overflowing morgue is making them physically sick. The Health Services Union (HSU) says some can't come to work, and staff have been given air fresheners and masks. The HSU also raised long-term mould at the Casuarina Plaza health facility, which came back despite deep cleans, and at Alice Springs Hospital.\n\nOn top of that, six staff at Katherine Hospital's emergency department were allegedly punched, kicked and bitten on Sunday. Health Minister Steve Edgington said he only learned about it on Wednesday, and only learned about the Alice Springs mould on Tuesday.\n\nThe biggest stumble was a privacy breach affecting pregnant women at Royal Darwin Hospital. NT Health first said five women were affected, but the ABC had already identified 12, and NT Health later agreed the number was 12. Some women only found out because the ABC contacted them. Mr Edgington apologised and referred the matter to police and the NT information commissioner, but one affected woman said waiting two weeks wasn't being \"on the front foot\".\n\nOpposition Leader Selena Uibo has called on Mr Edgington to stand down, also citing the government's diphtheria outbreak response. He hit back, calling her a \"failed health minister\" from the previous Labor government. Labor looks set to make health its main issue before the 2028 NT election, including promising a new Darwin hospital, possibly at Berrimah Barracks.",
-    "why_it_matters": "Territorians rely heavily on a small number of public hospitals, so problems with staff safety, building conditions and patient privacy hit hard, and health is shaping up as the key battleground for the 2028 NT election.",
-    "deep_analysis": "## Historical Context\nThe Country Liberal Party (CLP) government has held power for about two years, replacing Territory Labor, in which Selena Uibo served as health minister. As general background, NT health services face long-standing pressures from remoteness, a small tax base and high demand. The NT also carries record debt, and the federal government has shown little enthusiasm for funding a new Darwin hospital.\n\n## Multiple Perspectives\n- **Health Services Union:** Says staff are being exposed to unacceptable conditions and warnings, such as mould at Alice Springs, were ignored.\n- **Minister Edgington:** Apologised over the privacy breach, says NT Health has been proactive, and has told the chief executive to act, including considering other premises. He blames Labor's years in power for the system's state.\n- **Opposition Labor:** Calls the minister's record \"mismanagement and incompetence\" and wants him to resign.\n- **Affected women:** Some say they felt furious, afraid and distressed, and reject the claim NT Health was on the front foot.\n\n## What to Watch\n- Outcomes of police and information commissioner inquiries into the privacy breach.\n- Whether staff are moved out of mould-affected buildings and morgue capacity is fixed.\n- Whether Labor formally commits to a new Darwin hospital and how it would be funded.",
-    "concepts": [
-     {
-      "term": "Health Services Union (HSU)",
-      "definition": "A trade union representing health workers.",
-      "context": "It raised the morgue smell and mould problems on behalf of staff."
-     },
-     {
-      "term": "privacy breach",
-      "definition": "When people's personal information is accessed or shared without proper authority.",
-      "context": "Records of 12 pregnant women at Royal Darwin Hospital were affected."
-     },
-     {
-      "term": "NT information commissioner",
-      "definition": "An independent official overseeing privacy and information access rules in the Northern Territory.",
-      "context": "The breach was referred to this office for investigation."
-     }
-    ],
-    "quiz": {
-     "question": "Why did many people criticise NT Health's handling of the privacy breach?",
-     "options": [
-      "It deleted all the affected files",
-      "It blamed the women for the breach",
-      "It undercounted those affected and some women learned of it from journalists first",
-      "It refused to apologise at all"
-     ],
-     "answer_index": 2,
-     "explanation": "NT Health first said five women were affected when it was 12, and some only found out after the ABC contacted them."
-    },
-    "background_beginner": "The Northern Territory is a large, sparsely populated part of Australia with its own government. It runs public hospitals like Royal Darwin, Alice Springs and Katherine through a department called NT Health. The Country Liberal Party currently governs, after taking over from Labor about two years ago. Health keeps making headlines because hospitals are stretched, buildings are ageing, and staff face difficult conditions. Unions speak up for workers, journalists dig into problems, and the opposition uses each slip-up to argue the government is failing. With an election due in 2028, both sides are fighting over who can fix the system.",
-    "impact_score": 42,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/ce2e47e087e1762e17e676c3ccde0356?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=284&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "A rough week for Northern Territory health saw an overflowing morgue, mould at two facilities, assaults on hospital staff and a botched privacy breach response, prompting the opposition to call for the Health Minister to resign.",
-    "tier": "LOCAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-31/analysis-nt-health-morgue-mould-rdh-privacy-breach-clp-labor/107328216"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-30T23:03:42.477308+00:00",
-    "published_date": "2026-10-31",
-    "has_fulltext": true
    }
   ],
   "ASIA": [
+   {
+    "id": "cb875431-bbae-50e9-aee6-105ca2f0a27f",
+    "title": "Rahul Gandhi: India's opposition rallies against voter roll revision exercise",
+    "simplified_title": "India's opposition rallies in Delhi over 130 million voters removed from rolls",
+    "quick_summary": "Tens of thousands of opposition supporters led by Rahul Gandhi rallied in Delhi demanding the election chief resign over a voter-list clean-up that removed about 130 million names.",
+    "simplified_body": "On Sunday 1 November, tens of thousands of people gathered at Ramlila Maidan in central Delhi for a rally led by Rahul Gandhi of the Congress party, India's main opposition. They want Chief Election Commissioner Gyanesh Kumar to resign and are calling for electoral reforms. The day before, opposition leaders staged a mock 'impeachment' of Kumar in a garden, which had no legal standing.\n\nThe anger is about the Special Intensive Revision (SIR), a nationwide update of voter lists that has removed about 130 million names from draft rolls. The Election Commission of India (ECI) says it is clearing out people who died, moved or were duplicated, and that wrongly deleted voters can re-enrol. Critics say the cuts disproportionately hit Muslim and other minority voters, helping Prime Minister Narendra Modi's Bharatiya Janata Party (BJP). The BJP and ECI deny this.\n\nThe row grew in September when The Indian Express reported that Kumar made key decisions despite objections from his two fellow commissioners. The ECI said differences of opinion are normal. Since then, opposition parties, students and the youth-led Cockroach Janta Party (CJP) have protested almost daily. In October police detained CJP leaders and BBC reporters saw officers using batons on protesters. Around 4,000 security personnel were reportedly deployed for Sunday's rally.\n\nThe BJP held a rival march marking the 1984 anti-Sikh riots and accuses the opposition of trying to 'create anarchy'. Analysts call this Modi's worst crisis since 2014, but his government remains stable and the next general election isn't due until 2029. A chief election commissioner can only be removed through a formal parliamentary process.",
+    "why_it_matters": "India is the world's biggest democracy, so a fight over who gets to vote affects the legitimacy of elections for a huge share of humanity. Australia, with its large Indian diaspora and close ties with Modi's government, will be watching how India's institutions hold up.",
+    "deep_analysis": "## Historical Context\nThe voter-list revision began last year and removed over 130 million names, including 28 million deceased, 63 million relocated and 30 million untraceable, according to CNA's figures. Modi has led India since 2014. As background, the Gandhi family has long dominated Congress; Rahul Gandhi's grandmother, Prime Minister Indira Gandhi, was assassinated on 31 October 1984, triggering anti-Sikh riots the BJP invoked with its rival march.\n\n## Multiple Perspectives\nThe opposition calls the process 'vote chori' (vote theft) and says minorities are being disenfranchised; Gandhi says every institution is 'closed' to them. The ECI says it is removing dead, relocated, duplicate and 'foreign illegal immigrant' entries, and that internal disagreement is normal. The BJP says rivals are undermining democracy and creating chaos. Modi said 'some people' want chaos so he can be defamed. Even Delhi traders were split over the rally's timing before Diwali.\n\n## What to Watch\nWhether protests keep growing or face tougher policing; whether courts or parliament take up the commissioner's conduct; how many removed voters manage to re-enrol; and whether the movement keeps momentum years out from the 2029 election.",
+    "concepts": [
+     {
+      "term": "Special Intensive Revision (SIR)",
+      "definition": "A nationwide exercise to update India's voter lists by removing names deemed ineligible.",
+      "context": "It has removed about 130 million names and is the core of the dispute."
+     },
+     {
+      "term": "Election Commission of India (ECI)",
+      "definition": "The independent body that runs India's elections and maintains voter rolls.",
+      "context": "Its head, Gyanesh Kumar, is the person protesters want to resign."
+     },
+     {
+      "term": "mock 'impeachment'",
+      "definition": "A symbolic, staged version of removing an official, with no legal effect.",
+      "context": "Opposition leaders held one to show they had no other avenue."
+     },
+     {
+      "term": "Cockroach Janta Party (CJP)",
+      "definition": "A youth-led pressure group protesting against the election chief.",
+      "context": "It backed the rally and earlier faced heavy policing."
+     }
+    ],
+    "quiz": {
+     "question": "Why do opposition parties believe the voter-list revision is unfair?",
+     "options": [
+      "They say it delays the 2029 election",
+      "They say it removes eligible voters, especially minorities, in a way that benefits the BJP",
+      "They say it adds too many foreign immigrants to the rolls",
+      "They say it was ordered by the Supreme Court"
+     ],
+     "answer_index": 1,
+     "explanation": "Critics allege the deletions disproportionately hit Muslim and minority voters unlikely to back the BJP; the ECI and BJP deny this."
+    },
+    "background_beginner": "India holds the world's largest elections, run by an independent body called the Election Commission. Prime Minister Narendra Modi and his Bharatiya Janata Party (BJP) have governed since 2014, while the Congress party, led in parliament by Rahul Gandhi, heads the opposition. Before elections, the commission updates voter lists to remove people who have died or moved. A recent nationwide clean-up removed around 130 million names, and opponents say real voters, particularly minorities, were wrongly cut. Reports of disagreement inside the commission added fuel. Because voting is the foundation of democracy, arguments over who is on the list keep resurfacing in protests, courts and politics.",
+    "impact_score": 72,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "Tens of thousands of opposition supporters led by Rahul Gandhi rallied in Delhi demanding the election chief resign over a voter-list clean-up that removed about 130 million names.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf"
+     },
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/indian-authorities-tighten-security-ahead-big-opposition-march-in-delhi-6510591"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "f2e44388-a948-597f-bb8c-0af53ae9b7c6"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-11-01T07:40:51.502033+00:00",
+    "published_date": "2026-11-01",
+    "has_fulltext": true
+   },
    {
     "id": "797eed9d-1aa8-5260-bc6d-51d87214f4a5",
     "title": "Seoul fears being sidelined as US reaches out to North Korea",
@@ -372,69 +450,6 @@
     ],
     "reading_minutes": 2,
     "created_at": "2026-10-31T13:44:21.758143+00:00",
-    "published_date": "2026-10-31",
-    "has_fulltext": true
-   },
-   {
-    "id": "b8da8f04-cafd-555e-ab19-4acaf514052e",
-    "title": "China conducts combat readiness patrols around disputed shoal in South China Sea",
-    "simplified_title": "China steps up military patrols around disputed Scarborough Shoal",
-    "quick_summary": "China's navy, air force and coast guard patrolled around Scarborough Shoal in the South China Sea, calling it a response to unspecified Philippine \"provocative acts\".",
-    "simplified_body": "On Friday 30 October, China's military said its naval and air forces carried out \"combat readiness patrols\" around Scarborough Shoal, a disputed patch of reefs in the South China Sea. The People's Liberation Army (PLA) Southern Theater Command said it had strengthened these patrols this month. The China Coast Guard also ran separate \"law-enforcement patrols\" there the same day.\n\nChina called the patrols a \"necessary countermeasure\" to the Philippines' \"rights-violation and provocative acts\", but didn't say which actions it meant. The Philippine embassy in Beijing and the Philippine military didn't immediately respond. The move came just after a two-day Association of Southeast Asian Nations (ASEAN) defence meeting, where Beijing accused an unnamed Philippine politician of blocking its participation. Manila said China had been given a chance to state its position.\n\nSome background: China claims almost the entire South China Sea using a \"nine-dash line\" on its maps. That line cuts into the exclusive economic zones of Malaysia, Vietnam, the Philippines, Brunei and Indonesia. In 2016, an international arbitral tribunal ruled China's sweeping claims have no basis under international law. Beijing rejects that ruling.\n\nWhat's next? China says the patrols aim to boost its \"control and management\" over the area's waters and airspace, so more patrols look likely. Watch for Manila's official response and whether tensions spill into future regional meetings.",
-    "why_it_matters": "The South China Sea carries a huge share of the shipping trade that Australia relies on, so rising tension between China and the Philippines affects regional stability right on our doorstep.",
-    "deep_analysis": "## Historical Context\nAs background: Scarborough Shoal has been a flashpoint since China took effective control of it after a 2012 standoff with the Philippines. The Philippines later brought a case that led to the 2016 arbitral tribunal ruling, which found China's nine-dash line claims had no basis under international law. China rejected the ruling and has continued to patrol the area.\n\n## Multiple Perspectives\n**China** frames the patrols as defensive \"countermeasures\" to Philippine \"rights-violation and provocative acts\", though it gave no specifics. **The Philippines** hadn't responded at the time of reporting, but at the ASEAN meeting Manila pushed back on Beijing's claim it was obstructed, saying China was given a chance to speak. **Other claimants** such as Malaysia, Vietnam, Brunei and Indonesia also have zones overlapped by the nine-dash line, so they're watching closely.\n\n## What to Watch\n- Whether Manila issues a formal protest or details what China is reacting to.\n- How often the \"strengthened\" patrols continue, and any close encounters at sea.\n- Whether the spat affects ASEAN diplomacy going forward.\n- Responses from partners like the US and Australia, who generally back freedom of navigation (background).",
-    "concepts": [
-     {
-      "term": "nine-dash line",
-      "definition": "A line on Chinese maps used to claim almost all of the South China Sea.",
-      "context": "It overlaps the sea zones of five Southeast Asian countries and was rejected by the 2016 tribunal."
-     },
-     {
-      "term": "exclusive economic zones",
-      "definition": "Sea areas, generally up to 200 nautical miles from a country's coast, where it has special rights to fish and resources.",
-      "context": "China's claim cuts into the zones of the Philippines and others."
-     },
-     {
-      "term": "arbitral tribunal",
-      "definition": "An independent panel that settles disputes between parties under agreed rules, like international law.",
-      "context": "It ruled in 2016 that China's claims had no legal basis; China rejects this."
-     },
-     {
-      "term": "combat readiness patrols",
-      "definition": "Military patrols designed to show forces are prepared to fight if needed.",
-      "context": "China's navy and air force ran these around Scarborough Shoal."
-     }
-    ],
-    "quiz": {
-     "question": "Why is China's claim over Scarborough Shoal and the wider South China Sea contested?",
-     "options": [
-      "Because China agreed to share the shoal at the ASEAN meeting",
-      "Because a 2016 international tribunal found China's sweeping claims had no basis under international law",
-      "Because the Philippines' coast guard patrols were approved by China",
-      "Because ASEAN officially voted to give the shoal to the Philippines"
-     ],
-     "answer_index": 1,
-     "explanation": "The 2016 arbitral tribunal ruled China's nine-dash line claims lacked legal basis, a ruling Beijing rejects. The other options aren't in the source."
-    },
-    "background_beginner": "The South China Sea is a busy stretch of ocean between China and Southeast Asia, rich in fish and possibly oil and gas, and crossed by major shipping routes. China claims nearly all of it, but the Philippines, Vietnam, Malaysia, Brunei and Indonesia say parts of it belong to them. Scarborough Shoal, a cluster of reefs close to the Philippines, is one of the hottest spots. In 2016 an international court-like panel sided against China's broad claims, but China ignored the decision. Since then, ships and planes from both sides keep running into each other, so the issue regularly flares up in the news.",
-    "impact_score": 45,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--MRHD-wcR--/c_crop,h_450,w_800,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-30T083315Z_1_LYNXNPEM9T0N5_RTROPTP_3_CHINA-SOUTHCHINASEA.JPG?itok=r1td383_",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "China's navy, air force and coast guard patrolled around Scarborough Shoal in the South China Sea, calling it a response to unspecified Philippine \"provocative acts\".",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/china-combat-readiness-patrols-scarborough-shoal-6506366"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-10-30T23:03:43.806711+00:00",
     "published_date": "2026-10-31",
     "has_fulltext": true
    }
@@ -652,72 +667,6 @@
     "has_fulltext": true
    },
    {
-    "id": "97bf2976-fc43-5927-a382-43995d99ebeb",
-    "title": "Russian society being ‘systematically crushed’ says Novaya Gazeta as newspaper announces closure",
-    "simplified_title": "Russia's famous independent newspaper Novaya Gazeta is shutting down for good",
-    "quick_summary": "Novaya Gazeta, one of the last critical news outlets still working inside Russia, says state pressure has left it no choice but to close, with its Moscow newsroom going dark on 9 November.",
-    "simplified_body": "Novaya Gazeta, a Russian newspaper famous for investigating corruption and human rights abuses, has announced it will permanently close. Its editor-in-chief, Sergei Sokolov, says the Russian authorities and security services forced it out. The paper is being evicted from its Moscow office of three decades by 9 November, its donation platforms have been shut down, and it lost its legal licence to publish back in 2022.\n\nThis matters for Russian readers who relied on it as one of the last critical voices reporting from inside the country, and for its staff. Journalist Oleg Roldugin was arrested earlier this year and charged with \"unlawful access to computerised information\", which carries up to 10 years in prison; he has pleaded not guilty. Sokolov was questioned by police and his home was searched.\n\nSome background: the paper was founded in 1993 after the Soviet Union collapsed, and was partly funded for years by former Soviet leader Mikhail Gorbachev. Six of its journalists have been killed, including Anna Politkovskaya in 2006. Former editor Dmitry Muratov won the 2021 Nobel Peace Prize, but was still labelled a \"foreign agent\" in 2023. After Russia's full-scale invasion of Ukraine in February 2022, new censorship laws required media to call the war a \"special military operation\". Novaya refused, stopped printing, and later kept going with small magazines of 999 copies, which didn't need a licence, while readers used virtual private networks (VPNs) to reach its blocked website.\n\nWhat's next is unclear. Muratov says he doesn't know what will happen, and press head Nadezhda Prusenkova says the journalists will probably try to keep working somehow. A separate, legally distinct outlet, Novaya Gazeta Europe, is run by former staff in exile.",
-    "why_it_matters": "The closure shows how thoroughly independent journalism inside Russia has been squeezed out since the Ukraine invasion, which shapes what Russians, and the rest of the world, can learn about the war and the Kremlin.",
-    "deep_analysis": "## Historical Context\nNovaya Gazeta was founded in 1993 in the post-Soviet opening, with backing from Mikhail Gorbachev. It built its reputation on long-form investigations into corruption, rights abuses and the wars in Chechnya. Six of its journalists were killed, most famously Anna Politkovskaya, shot in her apartment stairwell in October 2006, on Vladimir Putin's birthday. As general background, press freedom in Russia narrowed steadily through the 2000s and 2010s, but the February 2022 invasion of Ukraine brought what DW describes as near-Soviet levels of censorship. Novaya lost its licence in September 2022, had its website blocked, and Muratov was doused with red paint in an attack US officials attribute to Russian intelligence.\n\n## Multiple Perspectives\nThe paper's staff frame the closure as a deliberate, coordinated strangling by the state. Muratov told the BBC, \"They chose to strangle us,\" and the editorial argues Russian society itself is being \"systematically crushed\". Reporters Without Borders has urged the Kremlin to end the \"judicial harassment\" of its journalists. The Russian state's position, as reflected in the case against Oleg Roldugin, is that this is a criminal matter of unlawful computer access; Roldugin denies the charge. The articles do not include a direct Kremlin response. Former journalist Elena Kostyuchenko called the paper's survival since 2022 both a miracle and a daily act of courage.\n\n## What to Watch\n- Roldugin's trial and whether Sokolov or other staff face charges.\n- Whether former staff find new ways to publish, as Prusenkova suggests they will.\n- The role of exiled outlets such as Novaya Gazeta Europe in reaching Russian audiences.\n- What happens to the Politkovskaya memorial exhibits now in storage.",
-    "concepts": [
-     {
-      "term": "foreign agent",
-      "definition": "A label the Russian government puts on people and organisations, bringing heavy restrictions, including on earning certain income.",
-      "context": "Muratov was given this label in 2023 despite his Nobel prize; it's often used to punish government critics."
-     },
-     {
-      "term": "special military operation",
-      "definition": "The official Kremlin phrase for the war in Ukraine, which Russian journalists are legally required to use.",
-      "context": "Novaya wrote the word \"war\" as stars to avoid breaking this law."
-     },
-     {
-      "term": "virtual private networks (VPNs)",
-      "definition": "Tools that hide where your internet connection comes from, letting you get around website blocks.",
-      "context": "Readers used them to keep reading Novaya's website after Russia blocked it."
-     }
-    ],
-    "quiz": {
-     "question": "Why did Novaya Gazeta say it finally had no choice but to close?",
-     "options": [
-      "Dmitry Muratov retired after winning the Nobel Peace Prize",
-      "It merged with Novaya Gazeta Europe",
-      "Its readers stopped being interested in independent news",
-      "A combination of eviction, blocked donations and criminal cases against staff left it unable to operate"
-     ],
-     "answer_index": 3,
-     "explanation": "Staff said the court case, the eviction from their Moscow office and the shutdown of all donation platforms together left them without funding or a home, forcing the closure."
-    },
-    "background_beginner": "Novaya Gazeta is a Russian newspaper started in 1993, just after the Soviet Union fell apart, when Russia briefly had more freedom of the press. It became known for brave reporting on corruption and abuses by powerful people, which made it a target: several of its reporters were murdered. Its long-time editor Dmitry Muratov won the Nobel Peace Prize in 2021. Under President Vladimir Putin, the government has gradually tightened control over the media, and after Russia invaded Ukraine in 2022, criticising the war became effectively illegal. The paper keeps coming up because it was a symbol of independent journalism surviving in Russia, and its fate shows how far that freedom has shrunk.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/a6b3ac40349761781230e42b4b12f1be82db7244/634_0_4560_3648/master/4560.jpg?width=1920&quality=85&auto=format&fit=max&s=6c08da01eecc023217952dc7818fddf3",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "Novaya Gazeta, one of the last critical news outlets still working inside Russia, says state pressure has left it no choice but to close, with its Moscow newsroom going dark on 9 November.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-30T23:03:45.627799+00:00",
-    "published_date": "2026-10-31",
-    "has_fulltext": true
-   },
-   {
     "id": "40889fac-dd61-5de5-988e-f67b65392c2d",
     "title": "Police clash with masked rioters after largely peaceful protests across France",
     "simplified_title": "France sees third weekend of cost-of-living protests, with clashes after dark",
@@ -922,70 +871,137 @@
     "has_fulltext": true
    },
    {
-    "id": "81a14a1d-600e-5120-9f0a-ff82714d6222",
-    "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
-    "simplified_title": "Yemen's Taiz running out of water and food under Houthi siege",
-    "quick_summary": "The governor of Taiz, Yemen's third-largest city, says a month-long tightening of the Houthi siege is cutting off water, food, medicine and fuel, though the Houthi leader denies any siege exists.",
-    "simplified_body": "Nabil Shamsan, governor of Taiz, Yemen's third city, has urged the world to help lift what he describes as a month-long siege by the Houthis. He says the city needs about 35,000 cubic metres of water a day but only around 1,000 is getting through, with shipments stopped at Houthi roadblocks. Food stocks are depleted, wheat prices are soaring, restaurants have shut for lack of fuel and rubbish is piling up in the streets.\n\nMore than 800,000 people live in the city. Shamsan says up to 1,800 people needing dialysis can't get supplies, 120 health centres have been suspended and schools have closed. He reports 64 people killed and 173 injured from August to 20 October 2026, and more than 6,400 newly displaced families arriving. Houthi leader Abdul-Malik Badr al-Din al-Houthi disputes all this, saying the way is open for food, medicine and aid.\n\nThe Houthis are an armed movement that controls much of Yemen. Shamsan accuses them of fighting a war over identity, saying people in areas they capture must show loyalty to the Zaydi religion, school curricula are being changed and children are being forced to the frontlines. Human Rights Watch, an independent rights group, says Taiz has effectively been under siege for 12 years and that the Houthis are again cutting off food, water and medicine.\n\nShamsan says shelling is increasing and mobile networks are disrupted. He wants aid agencies, including the United Nations (UN), given access to deliver supplies, saying statements of solidarity are not enough.",
-    "why_it_matters": "Hundreds of thousands of civilians risk running out of water, food and medical care, and how the world responds will test whether aid can reach people trapped in one of Yemen's longest-running sieges.",
-    "deep_analysis": "## Historical Context\nAs background, Yemen's civil war escalated after the Houthis took the capital Sanaa in 2014, prompting a Saudi-led military intervention in 2015 in support of the internationally recognised government. Human Rights Watch describes the siege of Taiz as 12 years long. The current crisis is a renewed tightening that the governor dates to roughly a month ago.\n\n## Multiple Perspectives\nGovernor Nabil Shamsan describes massacres, near-total Houthi control of roads and a choice to residents \"either to leave or to die\". The Houthi leader directly contradicts this, saying there is no siege and inviting anyone to come and check. Human Rights Watch's Niku Jafarnia sides with the account of a deteriorating situation, accusing the Houthis of disregarding civilian lives. The casualty and supply figures come from the governor and have not been independently confirmed in the source.\n\n## What to Watch\n- Whether UN and other aid agencies gain access to Taiz.\n- Water and medical supply levels, especially for dialysis patients.\n- Increases in shelling or any ground push into the city.\n- Further reports on forced recruitment of children and changes to religious education.",
+    "id": "d025b221-113a-5b01-bf00-95483374ddb9",
+    "title": "Pakistan military 'cautiously optimistic' on Iran-US mediation",
+    "simplified_title": "Pakistan's army 'cautiously optimistic' about brokering Iran-US peace",
+    "quick_summary": "Pakistan's military says it is \"cautiously optimistic\" about its efforts to calm the eight-month-old war between Iran and the United States, after its army chief visited Tehran twice this month.",
+    "simplified_body": "Pakistan's military spokesman, Lieutenant General Ahmed Sharif Chaudhry, said on Friday 30 October that the army is \"cautiously optimistic\" about mediating between Iran and the United States. Army chief Field Marshal Asim Munir, Pakistan's chief mediator, has been to Tehran twice this month. Most recently he went on Monday with Saudi Defence Minister Prince Khalid bin Salman and Turkish intelligence chief Ibrahim Kalin. Chaudhry wouldn't say what was discussed or whether the US backed the trip. He warned there are still \"powerful spoilers and detractors\" who benefit from conflict.\n\nThis matters well beyond Pakistan. The Iran war has redrawn alliances and raised fears of a wider Middle East conflict. Fighting between Saudi Arabia and Yemen's Iran-aligned Houthi group has also flared up again. Chaudhry said Pakistan is committed to defending Saudi Arabia and the holy sites of Mecca and Medina, but isn't part of the Yemeni conflict.\n\nSome background: on 7 August, Pakistan, Saudi Arabia and Turkey signed the Mecca Joint Defence Agreement. Under it, an attack on any one of them counts as an attack on all three. Chaudhry said the pact doesn't bar new members, even Iran, but that's for political leaders to decide. At home, Pakistan's federal government suspended the Khyber Pakhtunkhwa provincial government on 11 October. That government was led by jailed former prime minister Imran Khan's party, Pakistan Tehreek-e-Insaf (PTI). The PTI rejects the government's claim that it failed to tackle militancy.\n\nWhat's next? More diplomatic trips are possible, and whether more Pakistani troops go to Saudi Arabia depends on leaders in both countries. In Khyber Pakhtunkhwa, the army says the pace of its intelligence-based operations will increase.",
+    "why_it_matters": "A wider Middle East war could hit global energy supplies and shipping, which flows through to fuel prices in Australia. A regional power like Pakistan brokering talks is one of the few visible paths towards de-escalation.",
+    "deep_analysis": "## Historical Context\nPakistan has long had close military ties with Saudi Arabia and shares a border with Iran. Diplomats have often seen it as a go-between in the region. The Mecca Joint Defence Agreement, signed on 7 August, formalised a collective-defence promise between Pakistan, Saudi Arabia and Turkey. It came during an Iran war that is now eight months old. At home, Pakistan's army has dominated politics for decades. Imran Khan has been jailed since 2023. Independents backed by his party won the most directly elected seats in the February 2024 election but fell short of a majority.\n\n## Multiple Perspectives\nPakistan's military frames its role as peacemaking and the pact as collective deterrence. Analysts see the pact as closely tied to regional powers managing fallout from the Iran-US confrontation. Iran's Mohsen Rezaei, secretary of its Supreme National Security Council, said regional security should be ensured by regional countries without foreign intervention. That is a pointed message aimed at the US. Domestically, the government accuses the PTI-led province of failing on militancy. PTI calls the suspension a pretext to crush protests, and Khan's supporters see the military behind his imprisonment. The army denies involvement in politics.\n\n## What to Watch\n- Whether the US publicly endorses Pakistan's mediation\n- Any move by Iran towards the defence pact\n- More Pakistani troop deployments to Saudi Arabia\n- Escalation between Saudi Arabia and the Houthis\n- Unrest in Khyber Pakhtunkhwa as military operations intensify",
     "concepts": [
      {
-      "term": "Houthis",
-      "definition": "An armed political and religious movement from northern Yemen that controls large parts of the country.",
-      "context": "The governor says Houthi forces surround Taiz and control the roads in."
+      "term": "Mecca Joint Defence Agreement",
+      "definition": "A pact signed on 7 August by Pakistan, Saudi Arabia and Turkey, in which an attack on one member is treated as an attack on all.",
+      "context": "Its existence explains why Saudi and Turkish officials travelled to Tehran alongside Pakistan's army chief."
      },
      {
-      "term": "Zaydi",
-      "definition": "A branch of Shia Islam with deep roots in northern Yemen, followed by the Houthi movement.",
-      "context": "Shamsan says people in captured areas must show loyalty to the Zaydi religion."
+      "term": "Houthi",
+      "definition": "An Iran-aligned armed group in Yemen that has fought Saudi Arabia.",
+      "context": "Their renewed fighting with Saudi Arabia is one way the Iran war could spread."
      },
      {
-      "term": "dialysis",
-      "definition": "A medical treatment that filters the blood when a person's kidneys no longer work properly.",
-      "context": "Up to 1,800 people in Taiz need dialysis but can't get supplies."
-     },
-     {
-      "term": "Human Rights Watch",
-      "definition": "An international non-government organisation that investigates and reports on human rights abuses.",
-      "context": "Its Yemen researcher says the Houthis are cutting off food, water and medicine to Taiz."
+      "term": "intelligence-based operations",
+      "definition": "Targeted military raids guided by intelligence, rather than large sweeping campaigns.",
+      "context": "The army says it will step up these operations in Khyber Pakhtunkhwa instead of launching big offensives."
      }
     ],
     "quiz": {
-     "question": "Why is it hard to be certain about conditions inside Taiz?",
+     "question": "Why is it significant that Saudi and Turkish officials joined Pakistan's army chief in Tehran?",
      "options": [
-      "The UN has confirmed there is no shortage",
-      "Taiz has no government",
-      "The governor and the Houthi leader give directly opposing accounts of whether a siege exists",
-      "No group has commented on the situation"
+      "They are Iran's formal military allies",
+      "All three countries are bound by a joint defence pact, so they carry collective regional weight",
+      "They were representing the United States",
+      "They were negotiating Yemen's peace treaty"
      ],
-     "answer_index": 2,
-     "explanation": "The governor describes a siege and severe shortages, while the Houthi leader says the way is open for aid. Human Rights Watch supports the picture of deterioration, but the specific figures come from the governor."
+     "answer_index": 1,
+     "explanation": "Pakistan, Saudi Arabia and Turkey signed the Mecca Joint Defence Agreement on 7 August. That gives their joint visit extra regional weight."
     },
-    "background_beginner": "Yemen is a poor country at the southern tip of the Arabian Peninsula. For more than a decade it has been torn apart by civil war. On one side are the Houthis, an armed group from the north who took over the capital and much of the country. On the other is the internationally recognised government, backed by Saudi Arabia. Taiz, Yemen's third-biggest city, sits on the frontline and has been surrounded by Houthi forces for years, making it hard to get food, water and medicine in. It keeps making news because each new squeeze on the city puts hundreds of thousands of ordinary people at risk.",
+    "background_beginner": "Iran and the United States have been bitter rivals for decades, and the two are now in a war that has run for eight months. Pakistan, Iran's neighbour and a close ally of Saudi Arabia, is trying to help both sides talk. Pakistan's army is very powerful, so its top general is leading those efforts. Many countries in the Middle East fear the fighting could spread. That's why neighbours keep forming defence deals and sending diplomats back and forth. Inside Pakistan, there's also a long-running fight between the army-backed government and supporters of jailed former prime minister Imran Khan.",
     "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/cc1ad0844969a931ba1ce1ff5e13a75aeccd862f/409_0_3155_2524/master/3155.jpg?width=1920&quality=85&auto=format&fit=max&s=c6ee59ec373426af5db5db7b7babe437",
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--UlmS_-T9--/c_crop,h_449,w_799,x_1,y_42/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-27T150009Z_1_LYNXNPEM9Q0VY_RTROPTP_3_IRAN-CRISIS-MEETING.JPG?itok=SkGQ6uW3",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "The governor of Taiz, Yemen's third-largest city, says a month-long tightening of the Houthi siege is cutting off water, food, medicine and fuel, though the Houthi leader denies any siege exists.",
+    "description": "Pakistan's military says it is \"cautiously optimistic\" about its efforts to calm the eight-month-old war between Iran and the United States, after its army chief visited Tehran twice this month.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege"
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/pakistan-military-cautiously-optimistic-iran-us-mediation-6509251"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
-    "related_story_ids": [],
+    "related_story_ids": [
+     "315ff6a2-e859-54be-9370-470d95fabca2",
+     "4baeb561-9dde-5523-9cc1-d2b0ea035a8e",
+     "a1953172-37fc-55b9-a715-9bbde7c2c360",
+     "adabd6c4-a1b8-5204-9a50-3b162f5bf191",
+     "d83687dc-daf6-5e1c-87b9-7f98e012cce1",
+     "e5a91d18-7570-53b7-8a3e-97e5a67f9670"
+    ],
     "reading_minutes": 3,
-    "created_at": "2026-10-30T23:03:42.782354+00:00",
-    "published_date": "2026-10-31",
+    "created_at": "2026-11-01T07:40:52.897935+00:00",
+    "published_date": "2026-11-01",
     "has_fulltext": true
    }
   ],
   "AMERICAS": [
+   {
+    "id": "6a387773-8ffa-5738-8d01-51ae523cbb89",
+    "title": "'Atmosphere of fear': Trump moves to curtail voting rights ahead of the midterms",
+    "simplified_title": "Trump's push to reshape US midterm voting faces courts and pushback",
+    "quick_summary": "Ahead of the 3 November US midterm elections, the Trump administration has tried to tighten voting rules, chase alleged noncitizen voters and possibly send federal agents to polling places, while courts and local officials push back.",
+    "simplified_body": "Americans vote in midterm elections on 3 November, and the Trump administration has tried to get involved in almost every part of the process. It has pushed the Safeguard American Voter Eligibility (SAVE) Act, demanded states' voter rolls, signed an executive order on mail-in voting and hasn't ruled out sending Immigration and Customs Enforcement (ICE) agents to polling places. Many of these moves have failed in court: the mail-in order was blocked by the Supreme Court, and 26 of the lawsuits seeking voter rolls were dismissed.\n\nThe proposed rules could hit people without easy access to proof of citizenship. The Campaign Legal Center says more than 21 million Americans lack it, and birth certificates that don't match a current name could trip up the 69 million women who changed their names after marriage. Restricting mail-in voting would hit Democrats harder, since 37 per cent of them voted by mail in 2024 versus 24 per cent of Republicans.\n\nThe backdrop is Trump's false claim that widespread fraud cost him the 2020 election. Noncitizen voting is exceedingly rare: a conservative think tank's database found 100 cases from 1982 to 2025. Meanwhile, Republicans redrew House districts in states like Texas to favour their party, a tactic called gerrymandering, and California answered with its own new map.\n\nWith Trump's approval at a record low and polls favouring Democrats in the House, groups like Protect Democracy fear he could reject the results. They and local officials, such as Denver's Paul López, are preparing lawsuits and training staff for possible intimidation or violence.",
+    "why_it_matters": "Who controls the US Congress shapes Trump's agenda, which affects Australia as a close ally and trading partner. ABC's Four Corners is covering the story, so it's on Aussie radars too.",
+    "deep_analysis": "## Historical Context\nUnder the US Constitution, states run elections, so federal involvement has long been limited. As background, the Voting Rights Act of 1965 was passed to protect minority voters, and the Supreme Court narrowed the grounds for challenging racially discriminatory maps under it in April. Trump's distrust of mail-in voting traces back to 2020, when many people voted by post during Covid-19 and he lost to Joe Biden.\n\n## Multiple Perspectives\nThe administration says it is ensuring \"honest\" elections; Republican strategist Luke Ball says law enforcement at polls can deter illegal voting and agents \"are not bogeymen\". Homeland Security Secretary Markwayne Mullin says ICE won't patrol polling places but will enforce specific threats. Critics, including Jonathan Diaz of the Campaign Legal Center and Justin Vail of Protect Democracy, say the efforts create fear, rely on unreliable data (the citizenship database wrongly flagged citizens) and intrude on state powers. Notably, an AP-NORC poll found only 55 per cent of Democrats and 38 per cent of Republicans confident the count will be accurate.\n\n## What to Watch\n- Whether federal agents appear at polling booths, and how courts respond.\n- Whether Trump accepts the results if Democrats win Congress.\n- Whether gerrymandered seats hold: a Reuters analysis suggests nine of 16 Republican-favoured districts are close or leaning Democrat.\n- Efforts to pass the SAVE Act via budget reconciliation.",
+    "concepts": [
+     {
+      "term": "gerrymandering",
+      "definition": "Redrawing electoral district boundaries to give one party an advantage.",
+      "context": "Texas redrew its map to give Republicans five more House seats; California responded with its own map."
+     },
+     {
+      "term": "mail-in voting",
+      "definition": "Voting by posting a ballot instead of attending a polling place.",
+      "context": "US elections fall on Tuesdays, so many people vote by mail to avoid missing work."
+     },
+     {
+      "term": "voter rolls",
+      "definition": "Official lists of people registered to vote.",
+      "context": "The Justice Department demanded unredacted copies; about 30 states refused, citing privacy."
+     }
+    ],
+    "quiz": {
+     "question": "Why might strict birth-certificate rules under the SAVE Act cause trouble for many married women?",
+     "options": [
+      "Birth certificates are not accepted at all",
+      "Their birth certificate may not match their current name exactly",
+      "Married women are not allowed to vote",
+      "They must vote by mail only"
+     ],
+     "answer_index": 1,
+     "explanation": "A birth certificate only counts if it matches the voter's current name exactly, which is a problem for the 69 million women who changed their names after marrying."
+    },
+    "background_beginner": "The US holds 'midterm' elections halfway through a president's four-year term, choosing members of Congress, the body that passes laws. If the president's party loses control, his plans get harder. President Donald Trump has long claimed, falsely, that fraud cost him the 2020 election. Since returning to office, his administration has tried to tighten voting rules, track down supposed noncitizen voters and limit postal voting. States, which actually run American elections, along with courts and civil rights groups, have pushed back. It keeps coming up because people on both sides worry about whether the results will be trusted and accepted.",
+    "impact_score": 78,
+    "image_url": "https://s.france24.com/media/display/e60e1826-cefb-11f1-8e8e-bba4eee3dc72/w:1280/p:16x9/AP26296071599538.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Ahead of the 3 November US midterm elections, the Trump administration has tried to tighten voting rules, chase alleged noncitizen voters and possibly send federal agents to polling places, while courts and local officials push back.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/americas/20261031-united-states-atmosphere-of-fear-trump-moves-to-curtail-voting-rights-ahead-of-the-midterms"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-01/us-midterm-election-officials-prepare-ice-agents-trump-meddling/107322620"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "5b8a1b39-89df-5e85-911c-e1927954bb87",
+     "bbf1a2f0-de04-500f-9c0e-5df8e112d929"
+    ],
+    "reading_minutes": 8,
+    "created_at": "2026-11-01T07:40:50.419087+00:00",
+    "published_date": "2026-11-01",
+    "has_fulltext": true
+   },
    {
     "id": "e57aefc4-3ccd-5976-89d8-7c5c4775b644",
     "title": "Canada hoping to become EU’s first 'associate member' in deal",
@@ -1051,69 +1067,6 @@
     ],
     "reading_minutes": 3,
     "created_at": "2026-10-31T13:44:22.430111+00:00",
-    "published_date": "2026-10-31",
-    "has_fulltext": true
-   },
-   {
-    "id": "786ec0c4-fbca-543f-b99c-2120b056d0d5",
-    "title": "More than 43 million ballots cast so far in midterms early voting surge",
-    "simplified_title": "Over 43 million Americans vote early ahead of US midterm elections",
-    "quick_summary": "More than 43 million Americans have already voted early in the US midterms, with Texas, Hispanic communities and Democratic-registered voters showing especially strong turnout.",
-    "simplified_body": "With less than a week until the US midterm elections on Tuesday 3 November, more than 43 million Americans have already cast their ballots. Data from the University of Florida Election Lab shows four to five million early votes are coming in each day, a much faster pace than in most past elections. Overall turnout looks on track to beat 2020 and possibly even 2018, which set a midterm record dating back to 1914.\n\nTexas stands out. It has already passed its 2022 numbers by around 1.75 million voters, with more than 5.8 million ballots cast, and it could decide which party controls the Senate for the rest of Donald Trump's presidency. Hispanic communities, including border counties that are more than 90% Hispanic, are voting at much higher rates than usual. In the roughly half of states that record party affiliation, 44% of early ballots came from registered Democrats, 31.2% from Republicans and 24.7% from unaffiliated voters. Those figures don't reveal who people actually voted for.\n\nMidterms happen halfway through a president's term and decide who controls Congress, the US parliament, for the next two years. Early voting, both in person and by mail, boomed during the Covid pandemic. In 2020, more than two-thirds of all ballots were cast early. Professor Mike McDonald, who runs the database, says voters now increasingly prefer voting early in person, possibly over worries about postal votes, though he notes there's no data confirming why.\n\nEarly voting will taper off as states close it in the days before election day. The real test is whether this surge translates into a shift in control of Congress.",
-    "why_it_matters": "Which party controls the US Congress shapes American policy on trade, defence and climate, all of which ripple through to Australia as a close US ally. It's also an interesting contrast with Australia, where voting is compulsory and turnout surges like this aren't really a thing.",
-    "deep_analysis": "## Historical Context\nThe article notes that 2018 broke a midterm turnout record set in 1914, and that early voting expanded sharply during the Covid pandemic, when more than two-thirds of 2020 ballots were cast early. As general background, US midterms traditionally attract far fewer voters than presidential elections, and they often go against the sitting president's party.\n\n## Multiple Perspectives\nThe data shows more early ballots from registered Democrats and from Hispanic and Black voters, while Republican and white early voting is roughly level with 2022. McDonald links this to which communities tend to back each party's coalition. However, the party data covers only about half of states, unaffiliated voters' choices are unknown, and as general background, Republican voters have in recent years tended to vote more on election day itself, so early figures can overstate Democratic strength.\n\n## What to Watch\n- Whether Texas's surge, especially in Hispanic border counties, shifts control of the Senate.\n- Whether final turnout beats the 2018 record.\n- How many postal ballots are rejected because of errors.\n- Whether the trend towards early in-person voting continues.",
-    "concepts": [
-     {
-      "term": "midterm elections",
-      "definition": "US national elections held halfway through a president's four-year term, deciding who controls Congress.",
-      "context": "These midterms will decide which party runs Congress for the rest of Trump's presidency."
-     },
-     {
-      "term": "Congress",
-      "definition": "The US national law-making body, made up of the House of Representatives and the Senate.",
-      "context": "Control of Congress determines whether the president can pass laws easily."
-     },
-     {
-      "term": "party affiliation",
-      "definition": "A voter officially registering as a supporter of a particular party, used in some states for primary elections.",
-      "context": "This data showed 44% of early ballots came from registered Democrats in states that record it."
-     },
-     {
-      "term": "Early voting",
-      "definition": "Casting a ballot before election day, either in person or by mail.",
-      "context": "More than 43 million people have voted early this time."
-     }
-    ],
-    "quiz": {
-     "question": "Why can't we conclude from the early voting data that Democrats will win?",
-     "options": [
-      "Because party data covers only about half of states and doesn't show who people actually voted for",
-      "Because Republicans cast more early votes",
-      "Because Texas doesn't hold midterms",
-      "Because early votes aren't counted"
-     ],
-     "answer_index": 0,
-     "explanation": "Affiliation data only exists in roughly half of states, unaffiliated voters' choices are unknown, and registration doesn't reveal the actual vote cast."
-    },
-    "background_beginner": "The United States holds national elections every two years. Every four years Americans choose a president; in between come the 'midterms', which decide who controls Congress, the body that makes laws. The two main parties are the Democrats and the Republicans. If the president's party loses Congress, it becomes much harder for them to get things done. Voting isn't compulsory in the US, so turnout varies a lot and both parties work hard to get their supporters out. Early voting, in person or by mail, grew massively during the Covid pandemic, and how many people vote early, and who they are, is now watched closely as a hint of the result.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/2dc0/live/b4358cf0-d3d1-11f1-a701-fddedf244c16.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "More than 43 million Americans have already voted early in the US midterms, with Texas, Hispanic communities and Democratic-registered voters showing especially strong turnout.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-30T23:04:00.025650+00:00",
     "published_date": "2026-10-31",
     "has_fulltext": true
    },
@@ -1258,123 +1211,67 @@
     "has_fulltext": true
    },
    {
-    "id": "0148ac4e-4d55-5c4a-bfa9-7205e6748ecc",
-    "title": "Wall Street drops to worst day since June after tech stocks sell-off deepens",
-    "simplified_title": "Tech stocks tumble as investors question huge AI spending",
-    "quick_summary": "US share markets had their worst day since June as Intel, Alphabet and other tech giants fell sharply amid growing doubts that massive artificial intelligence spending will pay off.",
-    "simplified_body": "Wall Street had a rough Friday. The S&P 500, a broad index of big US companies, fell 1.8 per cent, its worst day since June and its third straight losing week. The tech-heavy Nasdaq dropped around 2.9 per cent (the BBC reports 2.8 per cent). Chipmaker Intel crashed about 28 per cent, its worst drop since 1974, after giving a weak profit forecast and warning the personal computer slowdown would continue. A day earlier, Google owner Alphabet plunged more than 12 per cent, its worst day on record.\n\nThe big worry is artificial intelligence (AI) spending. Meta, Alphabet, Oracle, Amazon and Microsoft have committed to spending $US800 billion between them in 2026. Amazon revealed it burned through $US42.4 billion over 12 months, measured by free cash flow, largely because of AI investment. Investors are asking whether all that money will ever earn enough profit, and some fear an AI bubble. Reddit fell 29 per cent after saying Google's AI search was hurting its traffic.\n\nCrypto took a hit too. Bitcoin fell below $US77,000 after a hack at Binance, the world's biggest crypto exchange, affecting more than $US6 billion of crypto. A US blockchain intelligence firm said a North Korean unit was likely behind it. In Asia, South Korea's Kospi dropped 3.5 per cent and Japan's Nikkei fell 2.1 per cent.\n\nUS stocks are still only 3.1 per cent below their all-time high, and the Nasdaq is up 7.8 per cent over the year. Analysts say investors have moved into a \"show me\" phase, wanting real returns. Next week's US midterm elections and whether tech stocks keep sliding in November will be key.",
-    "why_it_matters": "Many Australians' superannuation funds hold big US tech stocks, so a sustained AI sell-off could dent retirement savings. It also shows how quickly enthusiasm for AI can turn into doubt.",
-    "deep_analysis": "## Historical Context\nAs background, markets have seen technology booms deflate before, most famously the dot-com bubble around 2000, when internet companies' valuations collapsed. Intel's fall being its worst since 1974 and Alphabet's being its worst ever shows how unusual these moves are. The Nasdaq also had its worst month since March 2025.\n\n## Multiple Perspectives\nBears worry that the cost of AI data centres and software will outweigh the money it makes, leaving valuations unjustified. Chris Low of FHN Financial said the big players are showing \"significant growing pains\" that suggest a sector-wide slowdown. Joe Tigay of Equity Armor Investments called it a shift to the \"show me\" phase. On the other side, prices remain well above year-ago levels for many firms, the US market is just 3.1 per cent off its peak, and Kathleen Brookes of XTB noted November is typically strong for stocks. Notably, Intel, Coinbase and Strategy all beat profit expectations yet still fell, showing how ruthless investors have become.\n\n## What to Watch\n- Whether AI stocks keep falling, which Brookes says could signal the AI trade has peaked.\n- Tuesday's US midterm elections, given voter worries about AI and President Trump's focus on stock performance.\n- Interest rates, which could slow data centre building.\n- Fallout from the Binance hack on crypto prices.",
+    "id": "2377cf53-80c7-5695-b035-2ebc697be895",
+    "title": "Global nature talks reach deal but money remains an issue",
+    "simplified_title": "World agrees nature deal in Armenia, but the money's still missing",
+    "quick_summary": "After two weeks of tense talks in Yerevan, Armenia, nearly 200 countries agreed to step up efforts on their 2022 nature targets, but funding gaps and frustration with the summit process remain.",
+    "simplified_body": "Delegates from nearly 200 countries spent almost two weeks in Yerevan, Armenia's capital, at the biodiversity Cop17 (the 17th Conference of the Parties, a United Nations (UN) nature summit). Early on Saturday morning, hours after the deadline, they agreed on a new action plan. Countries admitted they're falling behind and promised to ramp up action, and they reaffirmed a goal of $30bn a year in biodiversity finance by the end of the decade.\n\nThis matters for everyone, because nature underpins economies, food and wellbeing. Scientists say species are going extinct at 100 times the natural rate because of human activity. Yet the UN says the world is on track to meet just one of the two dozen targets set in 2022, and the summit's history includes never having met a target in 34 years. Many nations have shifted aid money towards defence and energy shocks. More than $1bn was pledged at this meeting, about half from philanthropists. The Cali Fund, meant to collect money from companies profiting from nature's genetic material, has raised only about $10,000.\n\nThe background: in 2022, countries signed the Global Biodiversity Framework, promising to \"halt and reverse\" nature's decline. Its targets include protecting 30% of the world's land and seas by 2030 and reforming harmful subsidies, such as government support for destructive fishing like trawling. Some countries, including Saudi Arabia, Russia and Argentina, reportedly watered down language and slowed approval of scientific reports.\n\nNext up, key decisions on the Cali Fund were pushed to the next summit in Ecuador in two years. Calls are growing to reform how these summits work, including ditching the rule that every country must agree. The annual climate conference, COP31, is due next month.",
+    "why_it_matters": "Nature loss threatens ecosystems, economies and wellbeing worldwide, and the gap between promises and action keeps widening. For Australia, a megadiverse country, how these global targets and funding rules play out shapes expectations on its own conservation efforts.",
+    "deep_analysis": "## Historical Context\nThe UN biodiversity convention has run for 34 years and, per The Guardian, governments have never met one of its targets. As background, the earlier Aichi targets set for 2020 were also largely missed. The 2022 Global Biodiversity Framework, agreed in Montreal, was billed as the nature equivalent of the Paris climate agreement, with 23 targets (BBC counts 24) including '30 by 30' protection.\n\n## Multiple Perspectives\nConservation groups like Fauna & Flora welcomed a deal, even an unexciting one, as a needed course correction. The Wildlife Trusts' Craig Bennett called the losses appalling but pointed to recoveries of elephants, green sea turtles and tigers. Panama's minister Juan Carlos Navarro argued the consensus system is 'designed to fail' and wants majority voting and one combined environmental Cop. The UK's nature envoy Ruth Davis acknowledged frustration but stressed real-world implementation. UNEP's Inger Andersen called the agenda 'cluttered' with overlapping conventions. European nations want China and Gulf states to join donor lists; that remained unresolved. Some countries, notably Saudi Arabia and Russia, reportedly obstructed approval of scientific reports.\n\n## What to Watch\n- Whether finance pledges reach $30bn a year by 2030 as aid shifts to defence.\n- Cali Fund decisions at the Ecuador summit in two years.\n- Progress on reforming harmful subsidies.\n- Similar fights over science and funding at COP31 and the IPCC.\n- Momentum for reforming consensus decision-making.",
     "concepts": [
      {
-      "term": "free cash flow",
-      "definition": "The cash a company has left after paying for running costs and investments like buildings and equipment. Negative means it spent more than it brought in.",
-      "context": "Amazon's free cash flow showed it burned through $US42.4 billion over 12 months, mostly due to AI spending."
-     },
-     {
-      "term": "AI bubble",
-      "definition": "A situation where share prices of AI-related companies rise far above what their actual future profits can justify, risking a sharp fall.",
-      "context": "Investors fear tech firms' huge AI spending won't earn enough to justify their high valuations."
-     },
-     {
-      "term": "S&P 500",
-      "definition": "A share market index tracking around 500 of the largest US companies, widely used as a gauge of the US market.",
-      "context": "It fell 1.8 per cent, its worst day since June."
-     }
-    ],
-    "quiz": {
-     "question": "Why did Intel's shares fall sharply even though its latest quarterly profit beat expectations?",
-     "options": [
-      "Its forecast for the next quarter disappointed and it warned the PC slowdown would continue while AI spending rose",
-      "It announced it was leaving the AI industry",
-      "The Bank of Japan raised interest rates",
-      "It was hacked by North Korea"
-     ],
-     "answer_index": 0,
-     "explanation": "Investors focus on the future: Intel's weak fourth-quarter forecast, ongoing PC weakness and heavier spending without more cash coming in spooked them."
-    },
-    "background_beginner": "Over the past few years, giant tech companies like Alphabet (Google's owner), Amazon, Microsoft, Meta and chipmakers like Nvidia have raced to build artificial intelligence, the tech behind chatbots and smart search. Doing that needs enormous data centres full of expensive computer chips, costing hundreds of billions of dollars. Investors loved the idea and pushed these companies' share prices to record highs. But the bills keep growing, and profits haven't always kept pace. So every time these companies report their results, people check whether the spending is paying off. When it doesn't look like it, shares fall, and talk of an 'AI bubble' returns.",
-    "impact_score": 62,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/fddd4877adc48d8a8b3322ceffc97cfe?impolicy=wcms_watermark_news&cropH=573&cropW=1019&xPos=5&yPos=0&width=862&height=485&imformat=generic",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "US share markets had their worst day since June as Intel, Alphabet and other tech giants fell sharply amid growing doubts that massive artificial intelligence spending will pay off.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-31/wall-street-drops-to-its-worst-day-since-june/107331332"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-30T23:03:44.976013+00:00",
-    "published_date": "2026-10-31",
-    "has_fulltext": true
-   },
-   {
-    "id": "04e68fd0-2f6e-501e-8874-9a3bd825bfb3",
-    "title": "UN nature summit approves two key agreements after marathon negotiations",
-    "simplified_title": "Nearly 200 countries agree new deals to stop nature loss by 2030",
-    "quick_summary": "After almost two weeks of tense, overtime talks in Armenia, nearly 200 nations adopted two agreements at the COP17 United Nations (UN) biodiversity summit aimed at getting the world back on track to halt nature's destruction by 2030.",
-    "simplified_body": "Nearly 200 countries approved two key agreements on Friday at COP17, the United Nations (UN) biodiversity summit in Yerevan, Armenia's capital. Delegates cheered as the texts passed in overtime after two weeks of tough negotiations. The final versions weren't released to the public straight away, so it's not yet clear exactly what made the cut.\n\nThe deals matter for everyone who relies on healthy forests, oceans and wildlife, which is all of us. The big fights were over money and responsibility: countries argued about reforming subsidies that encourage nature-harming activities like fossil fuels, intensive agriculture and overfishing, and about who pays for conservation. The European Union pushed for wealthy emerging economies such as China to chip in. A draft text invited countries outside the traditional donor list to join voluntarily.\n\nSome background: in 2022 the world adopted a historic pact with targets to halt biodiversity loss by 2030, including protecting 30 percent of Earth's land and oceans. But the UN warned before this summit that most targets are falling short. The world needs an estimated $700 billion more each year for conservation than it currently spends. The Cali Fund, meant to share profits from companies using genetic data from plants and other organisms, aimed to raise $1 billion a year but has attracted only around $10,000.\n\nNext, countries will need to turn the agreements into action before 2030. Disputes over science also simmered, with a handful of countries accused of stonewalling findings from a UN-backed biodiversity body. The summit was also expected to choose Panama or Ecuador to host the next one in 2028.",
-    "why_it_matters": "These deals shape whether the world can still hit its 2030 nature targets, and as one of the world's most biodiverse countries, Australia has a big stake in global efforts to protect species and ecosystems.",
-    "deep_analysis": "## Historical Context\nIn 2022 nations adopted a landmark pact setting ambitious goals to halt biodiversity loss by 2030, including the '30 by 30' target to protect 30 percent of land and oceans. The last summit, in Cali, Colombia in 2024, ran overtime and ended without a deal on finance; talks resumed in Rome in 2025, where agreement was reached. As background, these meetings are 'Conferences of the Parties' (COPs) under the UN Convention on Biological Diversity, separate from the climate COPs.\n\n## Multiple Perspectives\nThe European Union argued that wealthy emerging economies like China should share the cost of global conservation, a contentious push. Developing countries have long sought more finance from rich nations. A small number of countries were accused of undermining the science; French Ecological Transition Minister Monique Barbut said 'the attacks on science have bothered me a lot.' Indigenous leaders and civil society groups urged faster action, while strained public budgets, amid an energy crisis and conflicts in Ukraine and the Middle East, made new funding harder to find.\n\n## What to Watch\n- Publication of the final texts, and which options for reaching the 2030 goals survived.\n- Whether any non-traditional donors voluntarily join the funding group.\n- Whether the Cali Fund gets reformed and starts attracting real money.\n- Progress on reforming harmful subsidies.\n- The choice between Panama and Ecuador to host the 2028 summit.",
-    "concepts": [
-     {
-      "term": "biodiversity",
-      "definition": "The variety of all living things, from genes and species to whole ecosystems.",
-      "context": "The summit aims to halt biodiversity loss by 2030."
-     },
-     {
-      "term": "subsidies",
-      "definition": "Government payments or financial support that make certain activities cheaper or more profitable.",
-      "context": "Countries argued over reforming subsidies that encourage nature-harming activities like fossil fuels and overfishing."
+      "term": "Global Biodiversity Framework",
+      "definition": "A 2022 agreement by nearly every country to halt and reverse nature loss by 2030, with a set of specific targets.",
+      "context": "It's the deal countries are now admitting they're failing to meet."
      },
      {
       "term": "Cali Fund",
-      "definition": "A UN mechanism meant to collect a share of profits from companies that use genetic data from plants and other organisms, to fund conservation in developing countries.",
-      "context": "It aimed for $1 billion a year but has raised only around $10,000."
+      "definition": "A voluntary fund for companies that profit from genetic material found in nature to pay into, with money meant to support conservation and local communities.",
+      "context": "It was hoped to raise billions but has collected only around $10,000."
+     },
+     {
+      "term": "subsidies",
+      "definition": "Government payments or support to industries, which can sometimes encourage activities that harm the environment.",
+      "context": "Countries pledged to reform harmful ones, like support for trawling."
      }
     ],
     "quiz": {
-     "question": "Why was the European Union's push about who pays for conservation so contentious at COP17?",
+     "question": "Why does Panama's environment minister say the Cop process is 'designed to fail'?",
      "options": [
-      "It proposed moving the summit to Europe",
-      "It wanted wealthy emerging economies like China, not just traditional rich donors, to contribute",
-      "It wanted to scrap all conservation funding",
-      "It refused to accept the 30 percent protection target"
+      "Because decisions need consensus, so a single country can block agreement",
+      "Because scientists aren't allowed to attend",
+      "Because meetings are held too far from developing countries",
+      "Because only rich countries can vote"
      ],
-     "answer_index": 1,
-     "explanation": "The EU led a charge for wealthy emerging economies such as China to help pay. A compromise draft invited countries outside the developed donor list to join voluntarily."
+     "answer_index": 0,
+     "explanation": "Juan Carlos Navarro argued that requiring every nation to agree lets one country stop progress, and called for majority voting instead."
     },
-    "background_beginner": "Every couple of years, almost every country on Earth meets at a UN summit to work out how to protect nature: plants, animals, forests, oceans and the ecosystems we depend on for food, clean water and a stable climate. In 2022 they signed a big pact promising to stop nature's decline by 2030, including protecting 30 percent of land and sea. The trouble is that most countries are falling behind, and there's constant arguing over money: rich nations, poorer nations and fast-growing economies disagree on who should pay. That's why these summits keep making headlines, often running late into the night.",
+    "background_beginner": "Every couple of years, almost every country meets at a UN summit to try to protect plants, animals and ecosystems. These talks started over three decades ago because humans were destroying habitats and wiping out species. In 2022, countries signed a big deal promising to stop nature's decline by 2030, including protecting 30% of land and sea. The trouble is that promises are easy and action is hard: countries argue over who pays, some slow things down, and money often goes elsewhere. That's why it keeps coming up: each meeting checks progress, and so far the world keeps falling short.",
     "impact_score": 62,
-    "image_url": "https://s.france24.com/media/display/f0b7382a-d4a0-11f1-a95a-a575454bc579/w:1280/p:16x9/000-D4J497F.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "After almost two weeks of tense, overtime talks in Armenia, nearly 200 nations adopted two agreements at the COP17 United Nations (UN) biodiversity summit aimed at getting the world back on track to halt nature's destruction by 2030.",
+    "description": "After two weeks of tense talks in Yerevan, Armenia, nearly 200 countries agreed to step up efforts on their 2022 nature targets, but funding gaps and frustration with the summit process remain.",
     "tier": "GLOBAL",
     "category": "ENVIRONMENT_CLIMATE",
     "sources": [
      {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/environment/20261030-un-nature-summit-approves-two-key-agreements-after-marathon-negotiations"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "04e68fd0-2f6e-501e-8874-9a3bd825bfb3"
+    ],
     "reading_minutes": 3,
-    "created_at": "2026-10-30T23:03:44.165247+00:00",
-    "published_date": "2026-10-31",
+    "created_at": "2026-11-01T07:40:52.782961+00:00",
+    "published_date": "2026-11-01",
     "has_fulltext": true
    },
    {
@@ -1823,5 +1720,5 @@
    }
   ]
  },
- "total_stories": 28
+ "total_stories": 26
 }
