@@ -1,8 +1,77 @@
 {
- "date": "2026-11-01",
- "generated_at": "2026-11-01T07:40:19.288980+00:00",
+ "date": "2026-11-02",
+ "generated_at": "2026-11-01T19:23:04.277897+00:00",
  "regions": {
   "OCEANIA": [
+   {
+    "id": "112b8e58-5aae-5c3c-93ff-d121fdbd8d89",
+    "title": "Australia nears 'largest property downturn in 40 years' as prices plunge",
+    "simplified_title": "Australian home prices falling at fastest pace in 40 years",
+    "quick_summary": "Australian house prices have dropped for a seventh month straight, falling faster than any downturn in the past 40 years as rising interest rates and tax changes scare off buyers.",
+    "simplified_body": "National home values fell again in October, down 1.2 per cent, according to property research group Cotality. Prices are now 6.7 per cent below their March peak — about $63,400 wiped off the median Australian dwelling, which now sits at $884,855. Across the capital cities, values have slid 8.1 per cent in seven months, closing in on the previous record 8.2 per cent fall of 2017–2019. Brisbane, Perth and Adelaide are leading the slide, with virtually every suburb in those cities down over the past three months.\n\nThis hits anyone who owns, is selling, or wants to buy. Higher interest rates have shrunk how much people can borrow and lifted mortgage repayments, pushing buyers to the sidelines. The federal government's May budget changes to negative gearing (a tax break on investment losses) and capital gains tax (tax on profits from selling assets) have also cooled investor demand. One Brisbane agent says open-home enquiries have at times dropped 300 per cent.\n\nFor background: Australian home prices have soared for decades, roughly doubling in several cities over the past ten years, so most owners are still well ahead. The Reserve Bank of Australia (RBA), which sets interest rates, has lifted them four times this year with a fifth widely expected. When rates rise, borrowing costs more, which drags prices down.\n\nWhat's next is uncertain. Cotality expects falls to push past the 40-year record, and economists including at Morgan Stanley forecast drops of up to 15 per cent. A meaningful recovery may not begin until buyers sense rate cuts are coming — possibly not until late 2027.",
+    "why_it_matters": "Housing is the biggest financial asset for most Australian households, so a record-pace downturn reshapes wealth, confidence and who can afford to buy — while also opening up cheaper entry points for first-home buyers and upsizers.",
+    "deep_analysis": "## Historical Context\n\nAustralian house prices began to pull away from wages in the late 1980s, then surged through the 1990s and early 2000s into a state of entrenched unaffordability — helped along by investor-friendly tax settings that have only recently been unwound. Over the past decade prices roughly doubled in Adelaide, Brisbane, Perth and Hobart, rose more than 50 per cent in Canberra, 30 per cent-plus in Sydney and Darwin, and just over 20 per cent in Melbourne. That long run-up is why the current fall, though the fastest in 40 years, still leaves most owners sitting on sizeable gains — Cotality notes even a 20 per cent drop in Perth would only take it back to mid-2025 levels. The last comparable downturn ran from 2017 to 2019, when combined capital city values fell 8.2 per cent; the current seven-month fall of 8.1 per cent is set to overtake it.\n\n## Multiple Perspectives\n\nThere's broad agreement that high interest rates are the main driver, but views differ on severity. Cotality frames it as a \"demand-led downturn\" and expects falls to push past the 40-year record, with a subdued recovery. Domain's Nicola Powell says a 10 per cent drop is \"quite possible\", and Morgan Stanley forecasts peak-to-trough falls of up to 15 per cent. More sanguine is 13x's Peter Esho, who calls it a \"normal housing cycle\" driven by a negative wealth effect on sentiment, argues Sydney and Melbourne are \"close to bottoming\", and doesn't expect falls to turn \"systemic\" unless borrowing seizes up or unemployment surges. Note a small data wrinkle: ABC cites Cotality's Gerard Burg and a 1.2 per cent national monthly fall, while the Guardian cites Cotality's Tim Lawless and a 1.4 per cent fall across the capitals — different measures from the same firm, not a contradiction.\n\n## What to Watch\n\nThe RBA rate decision is the pivot. Four hikes have landed this year and a fifth is widely expected, with buyers unlikely to return until the bank signals a change of direction — which Cotality and Domain suggest may not come until the latter half of 2027. Watch the mid-sized capitals (Brisbane, Perth, Adelaide), now the centre of the downturn; whether unemployment or borrowing conditions deteriorate, which Esho flags as the trigger for something more serious; and softening indicators like sub-50 per cent auction clearance rates, 39-day median selling times and 4.7 per cent vendor discounting. On rentals, easing vacancy and slowing rent growth bear watching, though rents are still up more than 50 per cent over six years.",
+    "concepts": [
+     {
+      "term": "negative gearing",
+      "definition": "A tax arrangement where an investor can deduct losses on an investment property (when costs exceed rental income) against their other taxable income.",
+      "context": "The article says the government's May budget changes to negative gearing cooled investor demand for property."
+     },
+     {
+      "term": "capital gains tax",
+      "definition": "Tax paid on the profit made when you sell an asset, such as an investment property, for more than you paid for it.",
+      "context": "Budget changes to capital gains tax were cited as another factor pushing investors out of the market."
+     },
+     {
+      "term": "Reserve Bank of Australia (RBA)",
+      "definition": "Australia's central bank, which sets the official interest rate that influences borrowing costs across the economy.",
+      "context": "The RBA has lifted rates four times this year, with higher borrowing costs dragging home prices down."
+     },
+     {
+      "term": "vendor discounting",
+      "definition": "The gap between a seller's original asking price and the price the property actually sells for, showing how much sellers are having to drop their price.",
+      "context": "Vendor discounting of 4.7 per cent is the largest since May 2019, a sign of a weaker market."
+     }
+    ],
+    "quiz": {
+     "question": "Why are Australian home prices falling at their fastest pace in 40 years, according to the research cited?",
+     "options": [
+      "A sudden surge in unemployment forced mass sales",
+      "Banks stopped lending to home buyers entirely",
+      "Rising interest rates and tax changes have reduced how much buyers can borrow and dampened investor demand",
+      "A flood of new housing supply overwhelmed the market"
+     ],
+     "answer_index": 2,
+     "explanation": "Experts describe it as a 'demand-led downturn': higher interest rates cut borrowing capacity and lifted repayments, while budget changes to negative gearing and capital gains tax pushed investors away. Economists noted a systemic crisis would require borrowing to seize up or unemployment to surge, which hasn't happened."
+    },
+    "background_beginner": "Housing is the biggest investment most Australians ever make, so price swings matter to almost everyone. For decades prices mostly climbed, making homes increasingly hard to afford. The key player here is the Reserve Bank of Australia, the central bank that sets interest rates — when it raises them, loans cost more and fewer people can afford to buy, which pushes prices down. Research firms like Cotality and Domain track these prices monthly. Right now rates have been rising, the federal government has changed property tax breaks, and buyers have gone quiet. The topic keeps coming up because affordability, rates and the economy are all tangled together, and small shifts ripple through household wealth.",
+    "impact_score": 72,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/bf9c59da3593bb3b5686c29f5db03b1b?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=375&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Australian house prices have dropped for a seventh month straight, falling faster than any downturn in the past 40 years as rising interest rates and tax changes scare off buyers.",
+    "tier": "LOCAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-02/house-prices-fall-in-october-biggest-downturn-40-years-cotality/107325214"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/home-values-fall-for-seventh-month-interest-rates-dent-property-demand"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "16c10bf9-397f-5b74-9994-107ce1318be0"
+    ],
+    "reading_minutes": 5,
+    "created_at": "2026-11-01T19:26:10.387536+00:00",
+    "published_date": "2026-11-02",
+    "has_fulltext": true
+   },
    {
     "id": "c9c8cb6a-0cf1-5ccc-9ab8-67c53cf65940",
     "title": "Government will not promise net savings in budget update, despite inflation pressure",
@@ -452,6 +521,69 @@
     "created_at": "2026-10-31T13:44:21.758143+00:00",
     "published_date": "2026-10-31",
     "has_fulltext": true
+   },
+   {
+    "id": "5927b019-edf3-520a-9079-f38bbc88e7cc",
+    "title": "Bangladesh forms wage board as garment protests turn violent",
+    "simplified_title": "Bangladesh Sets Up Wage Board As Garment Protests Turn Violent",
+    "quick_summary": "Bangladesh has created a six-member wage board to review garment workers' pay after protests demanding more than double the current minimum wage turned violent across key industrial areas.",
+    "simplified_body": "On Sunday, 1 November, Bangladesh announced a six-member wage board to review what garment workers earn and urged them to go back to work. Despite the move, thousands kept protesting. Police used tear gas and water cannon on workers who blocked a busy Dhaka intersection, and some protesters threw bricks at officers. In Gazipur, a major industrial belt on the capital's outskirts, blocked highways and demonstrations forced owners to shut 25 to 30 factories.\n\nWorkers want a minimum monthly wage of 30,000 taka (US$245), more than double the current 12,500 taka. They say rising costs of food, housing, transport and healthcare have badly eaten into what their pay can buy. This matters hugely because the industry employs about 4 million workers and generates more than 80 per cent of the country's export earnings.\n\nHere's the background: Bangladesh's ready-made garment (RMG) industry is the world's largest after China, contributing about 10 per cent of gross domestic product (GDP) and supplying clothing to many leading Western brands. Labour and Employment Minister Ariful Haque Chowdhury said the wage board was formed after talks with workers' representatives and industry leaders.\n\nWhat's next is uncertain. Chowdhury warned that drawn-out disruptions could delay export shipments and payments from international buyers, hurting manufacturers and workers alike. Manufacturers say they are already juggling rising production costs, periodic gas and electricity shortages, and shaky energy markets linked to Middle East tensions.",
+    "why_it_matters": "Bangladesh is one of the world's biggest clothing suppliers, so unrest there can ripple through the racks of Australian retailers and shape debates about fair pay in the garments many of us wear every day.",
+    "deep_analysis": "## Historical Context\n\nBangladesh built its economy on cheap, large-scale garment manufacturing, and the sector is now the world's largest after China. It contributes about 10 per cent of gross domestic product and more than 80 per cent of export earnings, employing roughly 4 million people. That scale has long made the industry both the backbone of the economy and a flashpoint: low wages are the sector's competitive edge, yet they leave workers exposed when living costs climb. Periodic wage disputes and the creation of wage boards to settle them are a recurring feature of this tug-of-war.\n\n## Multiple Perspectives\n\nWorkers argue that the current 12,500 taka minimum simply can't keep up with rising food, housing, transport and healthcare costs, so they are pushing for 30,000 taka — more than double. The government, through Labour and Employment Minister Ariful Haque Chowdhury, has responded by forming the wage board after consulting both sides and is urging a return to work, while warning that prolonged disruption could delay export shipments and buyer payments. Manufacturers counter that they face mounting pressures of their own — rising production costs, gas and electricity shortages, and energy-market uncertainty tied to Middle East tensions — which limit how much they can lift pay.\n\n## What to Watch\n\nKey questions: what figure the six-member wage board lands on and whether it satisfies workers enough to calm the streets. Watch whether protests spread beyond Dhaka, Gazipur and Ashulia, how long factory shutdowns last, and whether export shipments to Western brands are delayed. The balance between worker demands and manufacturers' cost pressures will shape whether this settles quickly or drags on.",
+    "concepts": [
+     {
+      "term": "wage board",
+      "definition": "An official panel set up to review and recommend pay levels for workers in an industry.",
+      "context": "Bangladesh formed a six-member wage board to review garment workers' pay amid the protests."
+     },
+     {
+      "term": "taka",
+      "definition": "The national currency of Bangladesh.",
+      "context": "Workers want 30,000 taka a month (US$245), more than double the current 12,500 taka."
+     },
+     {
+      "term": "ready-made garment (RMG)",
+      "definition": "Mass-produced, factory-made clothing ready for sale, a core export industry for Bangladesh.",
+      "context": "Bangladesh's ready-made garment industry is the world's largest after China."
+     },
+     {
+      "term": "gross domestic product (GDP)",
+      "definition": "The total value of goods and services a country produces, used to measure the size of its economy.",
+      "context": "The garment sector contributes about 10 per cent of gross domestic product."
+     }
+    ],
+    "quiz": {
+     "question": "Why are Bangladesh's garment workers protesting?",
+     "options": [
+      "They are protesting against exports to Western brands",
+      "They want factories moved out of Dhaka",
+      "They want the minimum monthly wage more than doubled to keep up with rising living costs",
+      "They are demanding shorter working hours"
+     ],
+     "answer_index": 2,
+     "explanation": "Workers are demanding a minimum monthly wage of 30,000 taka — more than double the current 12,500 taka — saying rising costs of food, housing, transport and healthcare have eroded their purchasing power."
+    },
+    "background_beginner": "Bangladesh is a South Asian country whose economy leans heavily on making clothes. Its ready-made garment industry is the world's largest after China, employs about 4 million people and brings in more than 80 per cent of the nation's export earnings, supplying many leading Western brands. Because wages are low, workers regularly clash with factory owners and the government over pay — especially when prices for food, housing and transport rise. These disputes flare up periodically and often turn into street protests. This time, workers want their minimum wage more than doubled, and the government has set up a wage board to review it.",
+    "impact_score": 62,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--_MzkK9Uq--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-22T022341Z_1_LYNXMPEM8L036_RTROPTP_3_IRAN-CRISIS-ENERGY-BANGLADESH.JPG?itok=x8F7UE-c",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "Bangladesh has created a six-member wage board to review garment workers' pay after protests demanding more than double the current minimum wage turned violent across key industrial areas.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/bangladesh-forms-wage-board-garment-protests-6510696"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-01T19:25:52.228677+00:00",
+    "published_date": "2026-11-02",
+    "has_fulltext": true
    }
   ],
   "EUROPE": [
@@ -598,75 +730,6 @@
     "has_fulltext": true
    },
    {
-    "id": "ea51a913-4dc9-5624-97d2-737d9ff9adb2",
-    "title": "Spain train crash: Transport minister says he won't resign over disaster",
-    "simplified_title": "Spain's deadly high-speed train crash shakes trust and the government",
-    "quick_summary": "A high-speed train ploughed into a stalled train near Urda in central Spain, killing at least 69 people, and the transport minister is refusing calls to resign as an election looms.",
-    "simplified_body": "On Wednesday morning a state-run Renfe high-speed train slammed into the back of a stationary train run by the company Iryo near the town of Urda, in Spain's Toledo province. At least 69 people died and more than 100 were injured. Investigators found the Renfe train was doing between 160km/h and 200km/h when it hit. Victims include 24-year-old long jumper Julieta Gallego and former employment minister Fátima Báñez.\n\nTransport Minister Óscar Puente says a computer failure halted six trains, and control then shifted to manual. Leaked audio appears to show a controller clearing one train to move even though another was stuck about 25km ahead, and Puente called the decision \"inexplicable\". He has pointed to human error, but the opposition People's Party (PP), the union CSIF and protesters want him gone. He says he won't quit.\n\nThis is Spain's second major rail disaster this year: in January a crash at Adamuz, on the same Madrid-Seville route, killed 46 people. That one is still under investigation, with early reports pointing to a cracked rail. Puente insists Spain's signalling safety system, called LZB, isn't outdated, saying it has failed 170 times this year, which he calls normal. Left-wing party Podemos argues blame shouldn't land on one worker and points to warnings about the liberalisation of the railway sector.\n\nThe crash comes weeks before a snap general election called by Prime Minister Pedro Sánchez. Polls already favoured the centre-right PP teaming up with far-right Vox, and analysts say Sánchez's chances have now dropped further. The formal investigation has only just begun.",
-    "why_it_matters": "It shows how one disaster can reshape trust in public services and swing an election, which is a useful lens for Australians watching debates over fast rail and infrastructure safety here.",
-    "deep_analysis": "## Historical Context\nThis is Spain's worst rail crash since 2013 and one of Europe's worst in modern times. As background, Spain has one of the world's largest high-speed networks, long a point of national pride. Two deadly crashes on the Madrid-Seville route within a year, killing 46 and then at least 69, have badly dented that image.\n\n## Multiple Perspectives\nThe government, through Puente, frames this as human error after a routine system failure, saying screens in the control centre showed the danger yet the advancing train was never told to stop. The PP calls resignation the \"moral\" and \"ethical\" move. Podemos's Irene Montero warns against blaming one worker and links the crash to rail liberalisation. Some politicians, like Sumar's Alberto Ibáñez, condemned the leak of audio recordings. Grieving families, such as Esther San Emeterio, say authorities are leaving them in \"uncertainty\". Pollster Paco Camas says such events erode trust in institutions generally.\n\n## What to Watch\n- Findings of the formal investigation and whether individuals are held responsible.\n- Whether Puente survives politically.\n- The snap election result, where polls favour a PP-Vox coalition.\n- Possible protests, with police on standby.\n- Whether the death toll rises as missing people are identified.",
-    "concepts": [
-     {
-      "term": "LZB",
-      "definition": "A signalling safety system that automatically monitors and controls high-speed trains; Germany and Austria use it too.",
-      "context": "When it failed, control shifted to manual, which is where the fatal errors occurred."
-     },
-     {
-      "term": "liberalisation of the railway sector",
-      "definition": "Opening the rail market to private competitors alongside the state operator.",
-      "context": "Podemos says workers warned for years this was risky; Iryo is a private operator sharing tracks with state-run Renfe."
-     },
-     {
-      "term": "snap general election",
-      "definition": "An election called earlier than scheduled.",
-      "context": "Sánchez called one after a string of crises, and the crash lands just weeks before voting."
-     }
-    ],
-    "quiz": {
-     "question": "What does the minister say turned a routine system fault into a disaster?",
-     "options": [
-      "Human decisions after control shifted to manual",
-      "Extreme weather",
-      "A brand-new, untested signalling system",
-      "A cracked rail on the track"
-     ],
-     "answer_index": 0,
-     "explanation": "Puente says LZB failures are normal, but after the system failed a controller cleared a train to advance while another was stuck ahead. The cracked rail relates to January's Adamuz crash."
-    },
-    "background_beginner": "Spain runs a big network of high-speed trains linking Madrid with cities like Seville. The state company Renfe runs many services, while private firms like Iryo now compete on the same tracks. In January a crash near Adamuz killed 46 people, and now a second crash near Urda has killed at least 69. The government of Socialist Prime Minister Pedro Sánchez is under fire, with opponents demanding the transport minister resign. It keeps coming up because people are asking whether the system is safe, who is to blame, and how it will affect an upcoming election.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "A high-speed train ploughed into a stalled train near Urda in central Spain, killing at least 69 people, and the transport minister is refusing calls to resign as an election looms.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "1924b7a1-e582-5107-83d1-69615bbb36aa",
-     "9f71e1f0-4d22-51b2-95b1-02f2095204cd"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-10-31T07:06:40.876552+00:00",
-    "published_date": "2026-10-31",
-    "has_fulltext": true
-   },
-   {
     "id": "40889fac-dd61-5de5-988e-f67b65392c2d",
     "title": "Police clash with masked rioters after largely peaceful protests across France",
     "simplified_title": "France sees third weekend of cost-of-living protests, with clashes after dark",
@@ -806,68 +869,69 @@
     "has_fulltext": true
    },
    {
-    "id": "643fd0d4-9200-5e54-a612-85f2fed71370",
-    "title": "Ebola death toll in DR Congo passes 5,000",
-    "simplified_title": "Ebola deaths in DR Congo pass 5,000 as outbreak spreads",
-    "quick_summary": "More than 5,000 people have died from Ebola in the Democratic Republic of the Congo, in the country's deadliest outbreak on record, which has now spread to neighbouring countries and as far as Nigeria.",
-    "simplified_body": "Government data released on Friday show more than 5,000 people have died from Ebola in the Democratic Republic of the Congo (DRC). More than 10,000 people have been infected since the outbreak was declared in May, making it the country's deadliest Ebola outbreak on record.\n\nThe virus has reached eight of the DRC's 26 provinces and crossed borders too. Kenya and Uganda have reported cases, and last week Nigeria became the fourth African country to report one, pushing the outbreak into West Africa. Delayed detection, conflict and stretched health services have helped it spread faster than in past outbreaks. Some governments are restricting travel or quarantining recent visitors. Saudi Arabia has now suspended travel to and entry from Kenya, after doing the same for the DRC, Uganda and South Sudan in June.\n\nWhat makes this outbreak especially tough is that it's caused by the rare Bundibugyo strain of Ebola, for which there are no approved treatments or vaccines. It's now the second-largest Ebola outbreak ever, behind only the 2014-2016 epidemic in Guinea, Liberia and Sierra Leone, which infected more than 28,600 people and killed more than 11,000.\n\nAuthorities still haven't found a way to bring it under control. Watch for more countries reporting cases and more travel restrictions, including rules that bar people who've been in affected countries within the past 21 days.",
-    "why_it_matters": "This is the second-largest Ebola outbreak in history, caused by a strain with no approved vaccine or treatment, and it's now crossing borders and affecting international travel.",
-    "deep_analysis": "## Historical Context\nThe current outbreak is the second-largest ever recorded, behind the 2014-2016 West African epidemic that infected more than 28,600 people and killed more than 11,000 across Guinea, Liberia and Sierra Leone. As general background, Ebola was first identified in the 1970s near the Ebola River in what is now the DRC, and the country has seen many outbreaks since. Vaccines and treatments developed in recent years target the Zaire strain, not the rarer Bundibugyo strain driving this outbreak.\n\n## Multiple Perspectives\nPublic health responders face a virus spreading through areas hit by conflict and weak health services, where cases are detected late. Some governments, like Saudi Arabia, have chosen travel bans and entry restrictions based on the 21-day window. As background, global health bodies have often argued that broad travel bans can hurt affected economies and discourage countries from reporting cases openly, while supporters of bans see them as a way to protect their own populations.\n\n## What to Watch\n- Whether more countries report cases, especially beyond Kenya, Uganda and Nigeria.\n- Further travel bans or quarantine rules from other governments.\n- Progress on experimental treatments or vaccines for the Bundibugyo strain.\n- Whether the death toll keeps climbing toward that of the 2014-2016 epidemic.",
+    "id": "92ca781c-1833-5213-be81-c8ef25a1a957",
+    "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+    "simplified_title": "Over 5,000 dead in DR Congo's deadliest-ever Ebola outbreak",
+    "quick_summary": "An Ebola outbreak that began in May has killed more than 5,000 people in the Democratic Republic of Congo, making it the country's worst on record.",
+    "simplified_body": "Government data shows more than 5,000 people have now died in an ongoing Ebola outbreak in the Democratic Republic of Congo (DR Congo), with over 10,300 confirmed cases across 8 of the country's 26 provinces. The outbreak began in May and became the nation's deadliest in August. Public health officials put the current case fatality rate — the share of confirmed cases who die — at 48.6%.\n\nThe epicentre remains Ituri province in the north-east, which is a conflict zone, making the virus harder to contain. That's a serious problem for responders: a nurse was killed and another health worker badly hurt this week after locals accused them of contaminating water, a politician was beaten to death last month for promoting Ebola measures, and the Red Cross reported 11 violent incidents in the first 100 days. Cases have also crossed borders into Kenya, Nigeria and Uganda.\n\nEbola is a rare, deadly disease caused by a virus, spread through contact with infected bodily fluids like blood or vomit. Symptoms come on suddenly, with vomiting and diarrhoea, and it can cause organ failure and, in some patients, bleeding. This is DR Congo's 17th outbreak and the second largest in history. The current strain is the Bundibugyo species, for which there is not yet any treatment or vaccine.\n\nThe World Health Organization (WHO) says ending the outbreak needs more control measures, better access to affected areas and community outreach, and reports that testing, treatment and vaccine trials are under way. The United Nations (UN) warns this outbreak is taking lives much faster than earlier ones.",
+    "why_it_matters": "Ebola outbreaks are rare but can spread across borders quickly, and this one has already reached three neighbouring countries — a reminder of how a fast-moving virus in a conflict zone can become a wider public-health concern.",
+    "deep_analysis": "## Historical Context\n\nDR Congo has long been Ebola's epicentre — this is its 17th outbreak on record. The article notes the previous national record was 2,299 deaths between 2018 and 2020. The deadliest outbreak ever was in West Africa from 2014 to 2016, which killed more than 11,325 people and reached several countries including Italy, the UK and the United States. Against that backdrop, the current outbreak is already the second largest in history, and the UN warns it is claiming lives at a much faster rate than earlier episodes.\n\n## Multiple Perspectives\n\nHealth authorities frame this as a containment and access problem: the WHO's Africa office says scaling up control measures, reaching affected areas and community outreach are what's needed, and points to testing, treatment and vaccine trials under way. On the ground, though, the response faces hostility — some communities have turned on health workers, blaming them for spreading the virus or contaminating water, leading to deadly attacks. Meanwhile, the European Centre for Disease Prevention and Control judges the risk to people in Europe as \"very low,\" highlighting how differently the threat is perceived close to the outbreak versus far from it.\n\n## What to Watch\n\nKey unknowns include whether the Bundibugyo strain driving this outbreak gets a working treatment or vaccine — the article says none exists yet for it. Watch the cross-border picture: Uganda has had no new cases since August but keeps travel restrictions, while Nigeria was testing two suspected cases as of Saturday. And watch whether responders can safely reach the Ituri conflict zone, since security and community trust are central to stopping the spread.",
     "concepts": [
      {
-      "term": "Bundibugyo strain",
-      "definition": "A rare type of Ebola virus, one of several species that cause the disease in humans.",
-      "context": "It's behind this outbreak, and unlike other strains it has no approved vaccine or treatment."
+      "term": "case fatality rate",
+      "definition": "The proportion of people with a confirmed disease who die from it — here, 48.6% of confirmed Ebola cases.",
+      "context": "Officials use it to gauge how lethal an outbreak is."
      },
      {
-      "term": "outbreak",
-      "definition": "A sudden rise in cases of a disease in a particular area or group of people.",
-      "context": "The DRC declared this Ebola outbreak in May, and it has since become its deadliest on record."
+      "term": "Bundibugyo species",
+      "definition": "One of several types of Ebola virus; this strain currently has no approved treatment or vaccine.",
+      "context": "Knowing the exact strain matters because treatments and vaccines are strain-specific."
      },
      {
-      "term": "21 days",
-      "definition": "The maximum time it can take for Ebola symptoms to appear after someone is infected.",
-      "context": "Saudi Arabia bars entry to anyone who has been in Kenya or other affected countries within the previous 21 days."
+      "term": "epicentre",
+      "definition": "The central area where an outbreak is most concentrated — here, Ituri province.",
+      "context": "Responders focus resources on the epicentre to contain spread."
      }
     ],
     "quiz": {
-     "question": "Why is this Ebola outbreak particularly hard to control?",
+     "question": "Why is the current Ebola outbreak especially hard to contain?",
      "options": [
-      "It only affects people who have travelled to Saudi Arabia",
-      "It is caused by a strain with no approved vaccines or treatments, and is spreading amid conflict and strained health services",
-      "It is the largest Ebola outbreak in history",
-      "The virus has been confined to a single province"
+      "Because a vaccine exists but can't be manufactured fast enough",
+      "Because it only affects remote islands with no roads",
+      "Because the virus spreads through the air over long distances",
+      "Because its epicentre is in a conflict zone and responders have been attacked"
      ],
-     "answer_index": 1,
-     "explanation": "The Bundibugyo strain has no approved vaccines or treatments, and delayed detection, conflict and weak health services have helped it spread. It's the second-largest outbreak, not the largest."
+     "answer_index": 3,
+     "explanation": "The article says the epicentre, Ituri province, is a conflict zone, and health workers and a politician have been attacked, making the response far harder."
     },
-    "background_beginner": "Ebola is a serious, often deadly virus that spreads through contact with the body fluids of infected people. It was first identified in the 1970s in what's now the Democratic Republic of the Congo, a large country in central Africa, which has had many outbreaks since. The worst so far was in West Africa from 2014 to 2016, killing more than 11,000 people. Health workers, governments and international aid groups are the main players trying to contain it. Ebola keeps coming back because the virus lives in animals, and outbreaks spread fastest where conflict, poverty and weak health systems make it hard to find and isolate sick people quickly.",
-    "impact_score": 78,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-27T090659Z_740443050_RC20XNA2U8PN_RTRMADP_3_HEALTH-EBOLA-CONGO-1793411509.jpg?resize=1920%2C1440",
+    "background_beginner": "Ebola is a rare but very deadly virus that spreads through contact with an infected person's bodily fluids, such as blood or vomit. The Democratic Republic of Congo (DR Congo), a large country in central Africa, has faced Ebola repeatedly — this is its 17th outbreak. The current one began in May 2026 and has become the country's deadliest ever. Responding to Ebola is difficult at the best of times, but here the worst-hit area is also a conflict zone, and some local communities have reacted with suspicion and violence towards health workers. The virus keeps resurfacing in the region, and global health bodies like the World Health Organization help coordinate the response.",
+    "impact_score": 72,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "More than 5,000 people have died from Ebola in the Democratic Republic of the Congo, in the country's deadliest outbreak on record, which has now spread to neighbouring countries and as far as Nigeria.",
+    "description": "An Ebola outbreak that began in May has killed more than 5,000 people in the Democratic Republic of Congo, making it the country's worst on record.",
     "tier": "GLOBAL",
     "category": "HEALTH",
     "sources": [
      {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [
      "357ebcac-4d16-58b5-9d08-dd0ce6d96cb1",
+     "643fd0d4-9200-5e54-a612-85f2fed71370",
      "920de58d-374c-5da9-baa1-d152afa9a420",
      "b919f1d2-2f4a-50c5-86c0-99ec7cb994b3",
      "e61a7066-899c-5fb7-a4bc-d09fc0db5d44",
      "e7784c73-91ca-5926-a3c8-70bbbc84035f",
      "fb15646b-0dc3-51ce-a492-c32758b51f8f"
     ],
-    "reading_minutes": 1,
-    "created_at": "2026-10-31T07:06:39.393968+00:00",
-    "published_date": "2026-10-31",
+    "reading_minutes": 2,
+    "created_at": "2026-11-01T19:25:56.209688+00:00",
+    "published_date": "2026-11-02",
     "has_fulltext": true
    },
    {
@@ -1003,6 +1067,69 @@
     "has_fulltext": true
    },
    {
+    "id": "f119525f-2178-5ff8-88e7-e0a74c3d4db5",
+    "title": "Bolivia declares emergency as El Nino intensifies, threatens severe weather",
+    "simplified_title": "Bolivia Declares Emergency as a \"Super\" El Nino Looms",
+    "quick_summary": "Bolivia has declared a national state of emergency to brace for severe droughts and floods tied to a rapidly strengthening El Nino weather pattern.",
+    "simplified_body": "Bolivian President Rodrigo Paz has declared a national state of emergency so the country can muster resources and beef up its disaster response ahead of severe droughts and flooding. His decree lets authorities deploy extra rescue teams and calls for coordination between national and regional governments, the armed forces and police. \"This will be a phenomenon that will have very severe impacts in terms of drought and floods,\" Paz said.\n\nThe threat is already biting. A government report says drought has affected at least 78,000 families across seven of Bolivia's nine departments and killed more than 75,000 cattle. With the rainy season starting, officials are also warning of floods, flash floods and landslides.\n\nThe driver is El Nino — a periodic warming of sea surface temperatures in the equatorial Pacific that scrambles global weather, bringing drought to some places and heavy rain to others. This El Nino developed in June and has strengthened fast, and is now on course to become an exceptionally strong, \"super\" event. The United Nations (UN) has described it as \"heading off the charts\" and expects it to peak in December.\n\nThe fallout stretches well beyond Bolivia. In just the past month, El Nino has been linked to wildfires in Indonesia, a supercharged typhoon in Taiwan, a hurricane on the US Gulf Coast, and water and power shortages in India after a weak monsoon. Researchers estimate the heat tied to this event could cause around 451,000 excess deaths worldwide between June 2026 and February 2027, and the UN warns the impact could last years.",
+    "why_it_matters": "A \"super\" El Nino reshapes weather across the Pacific, and Australia sits squarely in that zone — these events have historically brought hotter, drier conditions and heightened bushfire and drought risk to much of the country.",
+    "deep_analysis": "## Historical Context\n\nEl Nino is one half of a natural climate cycle centred on the tropical Pacific Ocean. When equatorial Pacific waters warm unusually, rainfall and temperature patterns shift right around the globe — some regions dry out and bake while others cop heavy downpours and flooding. Strong events are sometimes dubbed \"super\" El Ninos because of how far their effects reach. The current one, according to the article, developed in June and has strengthened rapidly since, putting it on track to be exceptionally strong, with a peak expected in December.\n\n## Multiple Perspectives\n\nFor Bolivia's government, the priority is mobilising quickly: the emergency decree is about getting rescue teams, the armed forces and police coordinating before the rainy season turns dangerous. For affected rural families — at least 78,000 of them across seven departments — the immediate crisis is already here, with over 75,000 cattle lost to drought. At the global level, the UN frames this as a multi-year challenge \"heading off the charts,\" urging Pacific nations to prepare for the worst. Researchers add a stark human toll, estimating around 451,000 excess deaths worldwide from June 2026 to February 2027 linked to the unusual heat.\n\n## What to Watch\n\nKeep an eye on whether the El Nino peaks as forecast in December and how strong it ultimately gets. In Bolivia, watch how the drought-then-flood whiplash plays out as the rainy season arrives, and whether the emergency response reaches hard-hit families and herds. Globally, the recent run of linked disasters — Indonesian wildfires, Typhoon Champi, Hurricane Isaias and India's weak monsoon — is a signal of what more could come.",
+    "concepts": [
+     {
+      "term": "El Nino",
+      "definition": "A periodic warming of sea surface temperatures in the equatorial Pacific Ocean that disrupts weather patterns worldwide, bringing drought to some regions and heavy rain to others.",
+      "context": "The article identifies El Nino as the driver behind Bolivia's expected droughts and floods, as well as disasters in several other countries."
+     },
+     {
+      "term": "state of emergency",
+      "definition": "An official declaration that lets a government unlock extra powers and resources to respond to a crisis.",
+      "context": "President Rodrigo Paz declared a national one to mobilise rescue teams and coordinate agencies ahead of severe weather."
+     },
+     {
+      "term": "excess deaths",
+      "definition": "The number of deaths above what would normally be expected over a given period, used to measure a disaster's toll.",
+      "context": "Researchers estimate the heat tied to this El Nino could cause around 451,000 excess deaths worldwide from June 2026 to February 2027."
+     },
+     {
+      "term": "departments",
+      "definition": "Administrative regions that a country is divided into, similar to states or provinces.",
+      "context": "Drought has affected families across seven of Bolivia's nine departments."
+     }
+    ],
+    "quiz": {
+     "question": "Why can a single El Nino event cause both drought and flooding in different places?",
+     "options": [
+      "Because it only affects countries near the equator",
+      "Because it is caused by deliberate government weather programs",
+      "Because the warming of the equatorial Pacific disrupts global weather patterns, drying some regions while soaking others",
+      "Because it only happens during the rainy season"
+     ],
+     "answer_index": 2,
+     "explanation": "The article explains El Nino is a warming of equatorial Pacific sea temperatures that disrupts global weather, often bringing drought to some regions and heavy rainfall to others — which is why Bolivia is bracing for both."
+    },
+    "background_beginner": "El Nino is a natural climate pattern that starts when the surface of the equatorial Pacific Ocean warms more than usual. That extra warmth shifts rainfall and temperatures across the whole planet, so some places suddenly face drought while others get flooded. It returns every few years, and especially strong ones are nicknamed \"super\" El Ninos. The main players here are national governments trying to protect people and crops, and the United Nations, which tracks the global picture and warns countries to prepare. It keeps making headlines because each event can trigger wildfires, storms, food and water shortages, and loss of life across many countries at once.",
+    "impact_score": 72,
+    "image_url": "https://static.dw.com/image/67050826_6.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Bolivia has declared a national state of emergency to brace for severe droughts and floods tied to a rapidly strengthening El Nino weather pattern.",
+    "tier": "GLOBAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/bolivia-declares-emergency-as-el-nino-intensifies-threatens-severe-weather/a-79820253?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-01T19:25:55.164541+00:00",
+    "published_date": "2026-11-02",
+    "has_fulltext": true
+   },
+   {
     "id": "e57aefc4-3ccd-5976-89d8-7c5c4775b644",
     "title": "Canada hoping to become EU’s first 'associate member' in deal",
     "simplified_title": "Canada moves closer to Europe with new 'Alliance for the Future'",
@@ -1067,80 +1194,6 @@
     ],
     "reading_minutes": 3,
     "created_at": "2026-10-31T13:44:22.430111+00:00",
-    "published_date": "2026-10-31",
-    "has_fulltext": true
-   },
-   {
-    "id": "ede0616b-c00d-5fd8-99c6-f40be2b19e25",
-    "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
-    "simplified_title": "Defeated Brazilian candidate flees to US, briefly claims he's president-elect",
-    "quick_summary": "Flávio Bolsonaro lost Brazil's presidential runoff to Lula, fled to Florida after his passports were cancelled, and was widely mocked after declaring himself 'true president-elect' for 58 minutes.",
-    "simplified_body": "Flávio Bolsonaro, a far-right senator and son of former president Jair Bolsonaro, lost Sunday's election runoff to President Luiz Inácio Lula da Silva. The margin was 4.4 million votes, or 3.5 percentage points. On Tuesday he secretly left Brazil, flying by private jet through Argentina and Ecuador to Florida. He then posted a letter calling himself Brazil's \"true president-elect\" and made claims of election fraud without evidence. Just under an hour later, a corrected version changed his title to \"leader of Brazil\", reportedly after Trump administration officials pushed back.\n\nIn an Instagram livestream he said he fled because of \"persecution\". Police had told him his passports were being cancelled as part of a money-laundering investigation. Brazilian newspapers across the political spectrum, including conservative ones, ridiculed him. Even a televangelist close to his father called the Bolsonaro sons \"amateur morons\".\n\nSome background: Jair Bolsonaro was president from 2019 to 2023. He refused to accept his 2022 loss to Lula and is serving a 27-year sentence for attempting a coup. He is currently under house arrest. Lula's win has been recognised by many right-wing leaders worldwide. Donald Trump has called the result an embarrassment and said it looked \"rigged\", but also said \"I won't get involved\". Argentina's President Javier Milei backed Flávio and hasn't acknowledged Lula's victory.\n\nWhat's next? Brazil summoned Argentina's chargé d'affaires (a stand-in diplomat) to explain its role in the escape. Flávio says he'll run for president again before the next scheduled election in 2030. Commentators disagree on his movement. Some say Bolsonarismo is finished, while others say it will stay powerful even without the family in charge.",
-    "why_it_matters": "How one of the world's biggest democracies handles a losing candidate who rejects the result is a test of democratic resilience. It's also a reminder of how foreign governments like the US and Argentina can get tangled up in another country's election fallout.",
-    "deep_analysis": "## Historical Context\nBrazil returned to democracy in the 1980s after a military dictatorship (general background). Lula himself spent 17 months in jail in 2018–19 on corruption charges that were later annulled. Jair Bolsonaro lost to Lula in 2022, refused to accept it and was jailed for a self-coup attempt. Flávio's flight echoes that refusal. His letter even used an outdated coat of arms reading \"United States of Brazil\", a name dropped in 1967.\n\n## Multiple Perspectives\nFlávio says he is a victim of persecution by Supreme Court Justice Alexandre de Moraes. He compares himself to exiled figures like Charles de Gaulle and José Martí. Argentina's government says it rescued him \"from the claws of communism\". Brazilian media, including conservative outlets like Estado de São Paulo, call him a con artist and urge the right to back São Paulo governor Tarcísio de Freitas instead. Lula's adviser Celso Amorim says Bolsonarismo is defeated for good, though others disagree. The US position is mixed. Trump has called the election rigged and hasn't recognised the result, yet a US cable called Lula's win \"surprising but definitive\".\n\n## What to Watch\n- Whether the US or Argentina faces consequences for helping the escape.\n- Brazil–Argentina ties, already at chargé d'affaires level since July.\n- Whether Brazil seats the incoming US ambassador it has refused.\n- The money-laundering investigation against Flávio.\n- Whether the Brazilian right rallies around Tarcísio de Freitas.",
-    "concepts": [
-     {
-      "term": "runoff",
-      "definition": "A second-round election between the top two candidates when no one wins outright in the first round.",
-      "context": "Flávio lost Sunday's runoff to Lula."
-     },
-     {
-      "term": "chargé d'affaires",
-      "definition": "A diplomat who runs an embassy when there is no ambassador in place.",
-      "context": "Both countries recalled their ambassadors, so Brazil summoned Argentina's chargé d'affaires."
-     },
-     {
-      "term": "Bolsonarismo",
-      "definition": "The far-right political movement built around Jair Bolsonaro and his family.",
-      "context": "Observers disagree on whether it is finished."
-     }
-    ],
-    "quiz": {
-     "question": "Why did Flávio Bolsonaro change his letter from 'president-elect' to 'leader of Brazil'?",
-     "options": [
-      "Brazil's courts ordered it",
-      "Argentina demanded it",
-      "He reportedly faced pushback from Trump administration officials wanting to avoid a diplomatic split",
-      "He won a recount"
-     ],
-     "answer_index": 2,
-     "explanation": "Reports say US officials, keen not to clash with Brazil's actual government, upbraided him, and he changed the wording within about an hour."
-    },
-    "background_beginner": "Brazil is South America's biggest country and one of the world's largest democracies. For years its politics have swung between two camps. On the left is Luiz Inácio Lula da Silva, known as Lula. On the right is the Bolsonaro family. Jair Bolsonaro was president from 2019 to 2023. He lost to Lula, refused to accept the result and was jailed for trying to overturn it. His son Flávio ran this time and also lost to Lula. Instead of conceding, he left for the US. The story keeps coming up because it touches on election denial, court cases and the involvement of foreign leaders like Donald Trump.",
-    "impact_score": 55,
-    "image_url": "https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1920&quality=85&auto=format&fit=max&s=70a557ba36149fc4bde1ac2f938ec6f8",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "Flávio Bolsonaro lost Brazil's presidential runoff to Lula, fled to Florida after his passports were cancelled, and was widely mocked after declaring himself 'true president-elect' for 58 minutes.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-10-31/flavio-bolsonaro-says-he-left-brazil-because-of-persecution/107331760"
-     },
-     {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/americas/20261031-flavio-bolsonaro-posts-video-says-he-fled-brazil-due-to-persecution"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "38cf0b08-014e-59b6-ab12-5d5f79a10b6b",
-     "534ff637-863c-582e-9044-8544adff934b",
-     "6c2d6990-cf50-58f6-8593-8d1d6a4899ef",
-     "b140347d-8ea0-51cd-9a95-969a2c0577b7",
-     "bcfade68-2ccd-5755-813b-a1be3244d895",
-     "c2ac342f-c1d8-57b2-a7fb-32a818ac16b5",
-     "d1a17887-5f80-5273-8f8d-fb0e30fdb308"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-10-31T07:06:42.386464+00:00",
     "published_date": "2026-10-31",
     "has_fulltext": true
    }
@@ -1211,6 +1264,69 @@
     "has_fulltext": true
    },
    {
+    "id": "b210fe97-7069-566d-a093-df6ed96c0c7a",
+    "title": "Neoclouds: These firms you've never heard of are feeding fears the AI bubble could burst",
+    "simplified_title": "Little-Known 'Neocloud' Firms Fuel Fears of an AI Bubble",
+    "quick_summary": "A group of obscure companies that rent out AI computing power are racking up huge debts, and their recent share slides have investors worrying the AI boom could be heading for trouble.",
+    "simplified_body": "A corner of the tech world has suddenly landed in the spotlight. Firms known as neoclouds — companies that run warehouses packed with expensive computers and lease that power to AI developers like Anthropic, OpenAI and Meta — have seen their share prices tumble. CoreWeave, the industry leader, has lost about a quarter of its value in a month, and rivals like Nebius, IREN and Applied Digital have fallen by similar amounts. Lenders are also getting nervous and demanding higher returns.\n\nThis matters because these firms sit at the heart of the AI economy. They finance themselves by signing long-term lease contracts with Big Tech customers, then borrow money using those contracts and their AI chips as collateral. That model carries heavy debt — CoreWeave alone has accumulated $35.1bn. When Microsoft and Google recently forecast less AI spending than Wall Street expected, neocloud shares dropped.\n\nFor background: many neoclouds began as crypto mining operations (companies that generate cryptocurrencies like Bitcoin). Their infrastructure left them well-placed when AI took off in 2022 with the launch of ChatGPT. Hyperscalers — even larger data centre operators — are often both their customers and rivals.\n\nWhat happens next depends on whether AI proves to be a bubble. Gartner predicts 80% of neoclouds will cease independent operations by 2030, and Elon Musk has warned most smaller firms won't survive. Australia's Firmus just shelved plans to float on the stock market, and Microsoft recently cancelled a deal with British firm Nscale. Still, some analysts say demand for computing power currently exceeds supply.",
+    "why_it_matters": "If the AI boom cools, these heavily indebted firms could fall like dominoes and drag down the wider tech economy — and there's a direct local angle, with Australia's Firmus already shelving its plans to sell shares to the public.",
+    "deep_analysis": "## Historical Context\n\nThe neocloud story is really a story of recycled infrastructure. Several of these firms — CoreWeave, IREN, Core Scientific and Applied Digital — started life as crypto miners, companies generating cryptocurrencies like Bitcoin using rooms full of powerful computers. When OpenAI's ChatGPT launched in 2022 and AI demand exploded, that same hardware suddenly became valuable for a very different purpose. CoreWeave, for instance, was founded in 2017 to mine Ethereum before pivoting. Nebius is the odd one out, having split off from Yandex NV — Russia's version of Google — and rebranded in 2024.\n\n## Multiple Perspectives\n\nThere's a genuine split here. Bears point to the debt: analyst Cory Johnson explains that neoclouds must pay for hardware up front, so borrowing is baked into the model, and lenders sometimes lean on the creditworthiness of customers like Microsoft rather than the neoclouds themselves. Gartner and Forrester both forecast heavy consolidation, and Elon Musk has predicted mass \"death and consolidation\" among smaller players.\n\nBulls, meanwhile, argue the fundamentals hold. CoreWeave's CEO Mike Intrator says the market is behaving \"irrationally\". Treasury Secretary Scott Bessent called neoclouds \"a small component of the overall ecosystem\". Analysts at Yorkville Ives note demand for computing still exceeds supply, with neoclouds filling a gap bigger operators can't.\n\n## What to Watch\n\nKeep an eye on the planned public listings of Anthropic and OpenAI in the months ahead — their reception will signal investor appetite for AI broadly. Watch Big Tech's spending forecasts, since even small cuts rattle the sector. And note power supply constraints, which could run to 2030 and already helped scupper the Microsoft–Nscale deal.",
+    "concepts": [
+     {
+      "term": "neoclouds",
+      "definition": "Data centre companies that run warehouses full of expensive computers and lease that computing power to AI developers.",
+      "context": "The article frames neoclouds as a once-obscure but now closely watched part of the AI economy."
+     },
+     {
+      "term": "collateral",
+      "definition": "Assets a borrower pledges to a lender, which the lender can seize if the loan isn't repaid.",
+      "context": "Neoclouds use their lease contracts and AI chips as collateral to borrow large sums of money."
+     },
+     {
+      "term": "hyperscalers",
+      "definition": "Very large data centre operators that run computing infrastructure at massive scale.",
+      "context": "Hyperscalers are often both key customers and competitors of the smaller neocloud firms."
+     },
+     {
+      "term": "crypto mining",
+      "definition": "Using powerful computers to generate cryptocurrencies such as Bitcoin.",
+      "context": "Many neoclouds began as crypto miners and repurposed their hardware for AI."
+     }
+    ],
+    "quiz": {
+     "question": "Why do neocloud firms typically carry so much debt?",
+     "options": [
+      "They are banned from selling shares to the public",
+      "They refuse to work with Big Tech customers",
+      "They must pay for expensive hardware up front and borrow against contracts and chips",
+      "They are required by law to hold large cash reserves"
+     ],
+     "answer_index": 2,
+     "explanation": "The article explains that hardware has to be paid for up front, so neoclouds borrow money using their long-term lease contracts and AI chips as collateral — which is how CoreWeave built up $35.1bn in debt."
+    },
+    "background_beginner": "Neoclouds are companies that own big warehouses full of powerful, pricey computers and rent that computing power to the firms building artificial intelligence, such as OpenAI, Anthropic and Meta. Many started out as crypto miners before AI took off in 2022 with ChatGPT, then switched their hardware over to the AI boom. The best-known is CoreWeave, alongside names like Nebius, IREN and Applied Digital. They keep coming up in the news because they borrow enormous amounts of money to buy their equipment, and people are now debating whether they can pay it back — and whether their troubles hint that the whole AI boom might be a bubble about to burst.",
+    "impact_score": 68,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "A group of obscure companies that rent out AI computing power are racking up huge debts, and their recent share slides have investors worrying the AI boom could be heading for trouble.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-11-01T19:25:56.068274+00:00",
+    "published_date": "2026-11-02",
+    "has_fulltext": true
+   },
+   {
     "id": "2377cf53-80c7-5695-b035-2ebc697be895",
     "title": "Global nature talks reach deal but money remains an issue",
     "simplified_title": "World agrees nature deal in Armenia, but the money's still missing",
@@ -1272,77 +1388,6 @@
     "reading_minutes": 3,
     "created_at": "2026-11-01T07:40:52.782961+00:00",
     "published_date": "2026-11-01",
-    "has_fulltext": true
-   },
-   {
-    "id": "7102398f-9fbd-51f5-bd0e-811f036b29f5",
-    "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
-    "simplified_title": "G20 group photo scrapped as Australia and others snub Russia's Lavrov",
-    "quick_summary": "The US cancelled the traditional 'family photo' at a G20 foreign ministers' meeting in Atlanta after about a third of countries, including Australia and the UK, refused to stand next to Russia's foreign minister, Sergei Lavrov.",
-    "simplified_body": "The United States was hosting a meeting of Group of 20 (G20) foreign ministers in Atlanta when it cancelled the usual 'family photo'. Several European countries, the UK and Australia had made it clear they would boycott or walk out rather than pose beside Russia's foreign minister, Sergei Lavrov. US Secretary of State Marco Rubio scrapped the snapshot to stop it becoming a 'diplomatic distraction'.\n\nThe snub is about Russia's war in Ukraine. Australia's Foreign Minister Penny Wong called the invasion brutal and unjustified to Lavrov's face, saying it had hurt international markets and worsened global food security. Germany's Johann Wadephul said there is 'no normality with Russia'. The UK's Ed Miliband told Lavrov: 'We all know who the aggressor in this war is.' The European Union's top diplomat, Kaja Kallas, said Lavrov put forward 'a lot of lies' that ministers rebutted.\n\nSome background: Russia launched its full-scale invasion of Ukraine in 2022 and controls about a fifth of Ukrainian territory. Meanwhile, the Trump administration has been warming to Moscow, waiving some sanctions and agreeing a deal to import Russian diesel to lower US fuel prices before the midterm elections. Ukraine wasn't invited this year, and neither was South Africa, a founding G20 member, which is locked in disputes with the Trump administration.\n\nWith so many disagreements, ministers probably won't agree a joint communique. Instead, the meeting is expected to end with a summary drafted by the US. Next up is the G20 leaders' summit hosted by Donald Trump in Florida. The Guardian says that's next month, while DW says December at his golf club in Miami. Putin has been invited, but it's unclear if he'll come.",
-    "why_it_matters": "Australia publicly sided with Europe and the UK in refusing to 'normalise' Russia's invasion, even while the US host is trying to bring Moscow back in from the cold. It shows how stretched the usual Western alliance has become.",
-    "deep_analysis": "## Historical Context\nThe G20 brings together major economies, including the EU, Russia, China, India and Brazil. As background, it began as a forum for finance ministers after the late-1990s Asian financial crisis and grew into a leaders' summit after the 2008 global financial crisis. Since Russia's full-scale invasion of Ukraine in 2022, Western members have increasingly shunned Russian officials. The UK has had a policy of no direct bilateral engagement with Russian ministers since the invasion. Putin hasn't attended a G20 leaders' meeting in person since 2019, joining only virtually in 2023.\n\n## Multiple Perspectives\n- **Europe, UK and Australia:** Refusing the photo signals they won't treat Russia as normal while the war continues. Wong's office said Australia supported the US decision to cancel.\n- **The US:** Officials framed the cancellation as keeping focus on 'substantive discussions'. Rubio stressed unity amid 'interconnected economic and geopolitical crises'. The administration has eased some sanctions and struck a diesel deal with Russia, though it also approved more than $2bn in Patriot missiles for Ukraine.\n- **Russia:** Lavrov said there has been 'no real progress' in relations with the US. He said Putin would meet Zelensky only if Zelensky comes to Moscow.\n- **Ukraine:** Zelensky called the diesel deal 'a gift' to Putin.\n- **South Africa:** It says its exclusion 'is not voluntary'.\n- **Poland:** As a guest seeking membership with US support, Poland said agreement is hard when participants in wars sit at the same table.\n\n## What to Watch\n- Whether the meeting ends with only a US chair summary instead of a joint statement.\n- Whether Putin accepts the invitation to the Trump-hosted leaders' summit. Sources differ on the timing: 'next month' in Florida versus December in Miami.\n- Any Putin–Zelensky meeting.\n- Whether South Africa's exclusion and Poland's push for membership reshape the G20.",
-    "concepts": [
-     {
-      "term": "family photo",
-      "definition": "The traditional group picture of all attending representatives taken at the start of international meetings.",
-      "context": "Standing in the photo can signal acceptance, which is why countries refused to pose with Lavrov."
-     },
-     {
-      "term": "joint communique",
-      "definition": "An official statement that all participating countries agree on and release together at the end of a meeting.",
-      "context": "Disagreements over Ukraine, Poland and South Africa will probably stop one being produced."
-     },
-     {
-      "term": "sanctions",
-      "definition": "Penalties, usually economic, that countries impose to pressure another government.",
-      "context": "Trump waived some Russian sanctions, which Europe and Ukraine criticised."
-     },
-     {
-      "term": "midterm elections",
-      "definition": "US national elections held halfway through a president's four-year term.",
-      "context": "Trump's Russian diesel deal aims to cut fuel prices before these elections."
-     }
-    ],
-    "quiz": {
-     "question": "Why did the US cancel the G20 family photo?",
-     "options": [
-      "South Africa demanded it be cancelled",
-      "Several countries, including Australia, wouldn't pose alongside Russia's foreign minister",
-      "Russia refused to attend the meeting",
-      "Bad weather in Atlanta"
-     ],
-     "answer_index": 1,
-     "explanation": "About a third of the countries signalled they would boycott a photo with Lavrov over Russia's invasion of Ukraine. Rubio scrapped it to avoid a diplomatic distraction."
-    },
-    "background_beginner": "The G20 is a club of the world's biggest economies, including Australia, the US, China, Russia and the European Union. Their leaders and ministers meet regularly to talk about the global economy. In 2022, Russia launched a full-scale invasion of its neighbour Ukraine. Many Western countries, Australia among them, responded with penalties against Russia and now refuse to treat its officials as normal partners. The issue keeps coming up because Russia is still a G20 member, so every meeting forces awkward questions about whether to sit, talk or pose with Russian representatives. US President Donald Trump has recently been friendlier towards Moscow, which has made the split even sharper.",
-    "impact_score": 55,
-    "image_url": "https://i.guim.co.uk/img/media/94e76fb3f040c70be5f1c43fa81c443afb9943dd/0_0_6500_4333/master/6500.jpg?width=1920&quality=85&auto=format&fit=max&s=62be33c6b298191d401471a8d24ada98",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "The US cancelled the traditional 'family photo' at a G20 foreign ministers' meeting in Atlanta after about a third of countries, including Australia and the UK, refused to stand next to Russia's foreign minister, Sergei Lavrov.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-10-31T07:06:45.260816+00:00",
-    "published_date": "2026-10-31",
     "has_fulltext": true
    }
   ],
@@ -1657,6 +1702,66 @@
     "has_fulltext": true
    },
    {
+    "id": "e829fe99-b7db-5487-836b-6675ace03fcc",
+    "title": "Trump says US looking ‘closely’ at report Nvidia CEO is target of China spy plot",
+    "simplified_title": "Trump backs Nvidia boss after China spy plot report",
+    "quick_summary": "President Trump says the US is looking closely at a report that Nvidia chief Jensen Huang was the target of a Chinese spy plot, while backing him as \"brilliant\".",
+    "simplified_body": "US President Donald Trump said on Saturday (Oct 31) that the US was looking \"very closely\" at a report that Jensen Huang, head of American chip giant Nvidia, had been targeted in a Chinese spy plot. The New York Times reported on Oct 29 that US intelligence officials concluded a Chinese executive linked to a Singapore-based data centre company, who had interacted with Huang, had been funnelling information to Beijing. China has dismissed the report as \"groundless speculation\".\n\nTrump offered strong personal support, calling Huang \"a great, brilliant person\" and saying \"we want to protect our brilliant people\". Asked whether he would keep Huang as an advisor, he said he would like to, \"unless we find out something to the contrary\", adding that he had always found Huang to be \"very above board\" but that it was \"a very complex issue\".\n\nHuang matters here because Nvidia makes the advanced semiconductors (the specialised chips) that power artificial intelligence (AI). The Taiwan-born businessman has advised Trump on AI policy and joined other tech CEOs (chief executive officers) on Trump's visit to Beijing in May to meet Chinese President Xi Jinping.\n\nWhat happens next is unclear. Huang has pushed for his company's chips to be sold in China, even as Beijing speeds up building its own semiconductors. The spy-plot claim remains contested between Washington and Beijing, and Trump says the matter will be checked out closely.",
+    "why_it_matters": "Nvidia's chips underpin the global AI boom, so any security cloud over its leader feeds into the wider US–China tech rivalry — a contest that shapes the technology Australian businesses, universities and governments rely on.",
+    "deep_analysis": "## Historical Context\n\nNvidia sits at the centre of the global artificial intelligence (AI) build-out, as its chips are the engines behind most advanced AI systems. That position has made the company — and its chief Jensen Huang — a focal point in the escalating technology rivalry between the United States and China. Huang has advised Trump on AI policy and travelled with other tech CEOs on Trump's May visit to Beijing to meet President Xi Jinping, underlining how closely business and geopolitics are now entwined in the chip sector.\n\n## Multiple Perspectives\n\nThe two governments are openly at odds. The New York Times reported that US intelligence officials concluded a Chinese executive linked to a Singapore-based data centre company had funnelled information to Beijing after interacting with Huang. China dismissed the report as \"groundless speculation\". Trump, for his part, backed Huang personally, praising him as \"brilliant\" and \"very above board\", while stressing it was \"a very complex issue\" and that the US would check it \"very closely\". Huang himself has advocated for selling Nvidia's chips in China, even as Beijing accelerates its own semiconductor development — a reminder that commercial and national-security interests do not always pull in the same direction.\n\n## What to Watch\n\nKey questions: whether the US investigation substantiates the spy-plot claim; whether Huang keeps his role as a Trump advisor; and how the dispute affects Nvidia's ability to sell into the Chinese market. Beijing's push to build home-grown semiconductors is worth tracking, as is any further back-and-forth between Washington and Beijing over the allegations.",
+    "concepts": [
+     {
+      "term": "Nvidia",
+      "definition": "A major US technology company that designs the specialised chips powering most advanced artificial intelligence systems.",
+      "context": "The article centres on reports that Nvidia's chief was targeted in a Chinese spy plot."
+     },
+     {
+      "term": "semiconductors",
+      "definition": "The specialised chips that power computers and AI; a key battleground in US–China tech competition.",
+      "context": "Huang has pushed to sell Nvidia's chips in China while Beijing races to build its own semiconductors."
+     },
+     {
+      "term": "spy plot",
+      "definition": "An alleged covert scheme to secretly gather and pass on information, here reportedly to Beijing.",
+      "context": "A report claimed Huang was the target of a Chinese spy plot, which China denies."
+     }
+    ],
+    "quiz": {
+     "question": "How did China respond to the report about a spy plot targeting Nvidia's chief?",
+     "options": [
+      "It confirmed the report and apologised",
+      "It arrested the executive named in the report",
+      "It asked the US to investigate jointly",
+      "It dismissed the report as \"groundless speculation\""
+     ],
+     "answer_index": 3,
+     "explanation": "The article states China dismissed the New York Times report as \"groundless speculation\", while US officials had reportedly concluded information was funnelled to Beijing."
+    },
+    "background_beginner": "Nvidia is a huge American tech company whose chips run most of the world's advanced artificial intelligence (AI). Its boss, Taiwan-born Jensen Huang, has become a well-known figure and has advised US President Donald Trump on AI policy, even joining him on a trip to Beijing to meet China's President Xi Jinping. The US and China are locked in a rivalry over who controls the most powerful computer chips, so Nvidia keeps making headlines. The latest story is a report that Huang was targeted in a Chinese spy plot — a claim the US is examining and China flatly denies.",
+    "impact_score": 62,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--bxOy1EW1--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-08T151800Z_1_LYNXMPEM971JJ_RTROPTP_3_USA-TRUMP.JPG?itok=ZrE4fqir",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "President Trump says the US is looking closely at a report that Nvidia chief Jensen Huang was the target of a Chinese spy plot, while backing him as \"brilliant\".",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/trump-says-us-looking-closely-report-nvidia-ceo-target-china-spy-plot-6510641"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "72597008-acc3-5015-8369-4d885c3f3663"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-11-01T19:25:51.413778+00:00",
+    "published_date": "2026-11-02",
+    "has_fulltext": true
+   },
+   {
     "id": "9ff10003-7648-50a0-84e8-1d97085d1f39",
     "title": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
     "simplified_title": "Could letting AI scrape creative work break Australia's constitution?",
@@ -1720,5 +1825,5 @@
    }
   ]
  },
- "total_stories": 26
+ "total_stories": 28
 }
