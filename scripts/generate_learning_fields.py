@@ -6,17 +6,19 @@ import os
 import sys
 from pathlib import Path
 
-import anthropic
+import claude_cli
 
-# Load API key from backend .env
-env_path = Path(__file__).resolve().parent.parent / "backend" / ".env"
-with open(env_path) as f:
-    for line in f:
-        if line.strip() and not line.startswith("#"):
-            key, _, value = line.strip().partition("=")
-            os.environ.setdefault(key, value)
+# Load API key from the repo root .env
+root = Path(__file__).resolve().parent.parent
+for env_path in (root / ".env", root / "backend" / ".env"):  # backend/: old checkouts
+    if env_path.exists():
+        with open(env_path) as f:
+            for line in f:
+                if line.strip() and not line.startswith("#"):
+                    key, _, value = line.strip().partition("=")
+                    os.environ.setdefault(key, value)
 
-client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+client = claude_cli.Anthropic()
 
 DATA_PATH = Path(__file__).resolve().parent.parent / "frontend" / "public" / "data" / "today.json"
 

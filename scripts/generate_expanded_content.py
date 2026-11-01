@@ -6,16 +6,18 @@ import os
 import uuid
 from pathlib import Path
 
-import anthropic
+import claude_cli
 
-env_path = Path(__file__).resolve().parent.parent / "backend" / ".env"
-with open(env_path) as f:
-    for line in f:
-        if line.strip() and not line.startswith("#"):
-            k, _, v = line.strip().partition("=")
-            os.environ.setdefault(k, v)
+root = Path(__file__).resolve().parent.parent
+for env_path in (root / ".env", root / "backend" / ".env"):  # backend/: old checkouts
+    if env_path.exists():
+        with open(env_path) as f:
+            for line in f:
+                if line.strip() and not line.startswith("#"):
+                    k, _, v = line.strip().partition("=")
+                    os.environ.setdefault(k, v)
 
-client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+client = claude_cli.Anthropic()
 DATA_DIR = Path(__file__).resolve().parent.parent / "frontend" / "public" / "data"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 

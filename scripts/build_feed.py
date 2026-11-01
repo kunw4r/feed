@@ -31,7 +31,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-import anthropic
+import subprocess
+import claude_cli
 import feedparser
 import httpx
 import trafilatura
@@ -41,15 +42,15 @@ DATA_DIR = ROOT / "frontend" / "public" / "data"
 ARTICLE_DIR = DATA_DIR / "articles"
 ARCHIVE_DIR = DATA_DIR / "archive"
 
-env_path = ROOT / "backend" / ".env"
-if env_path.exists():
-    for line in env_path.read_text().splitlines():
-        if line.strip() and not line.startswith("#"):
-            key, _, value = line.strip().partition("=")
-            os.environ.setdefault(key, value)
+for env_path in (ROOT / ".env", ROOT / "backend" / ".env"):  # backend/ path: old checkouts
+    if env_path.exists():
+        for line in env_path.read_text().splitlines():
+            if line.strip() and not line.startswith("#"):
+                key, _, value = line.strip().partition("=")
+                os.environ.setdefault(key, value)
 
 BRISBANE = ZoneInfo("Australia/Brisbane")
-MODEL = os.environ.get("BRAINFEED_MODEL", "claude-opus-5-5")
+MODEL = os.environ.get("BRAINFEED_MODEL", "opus")
 HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh) Brainfeed/2.0 personal news reader"}
 
 # Free-to-read outlets only. Paywalled outlets (Courier Mail, AFR, The Australian,
@@ -106,7 +107,6 @@ POLITICS_SHARE = 0.35    # politics is capped so other beats get room
 WANTED_CATEGORIES = ["ECONOMY_MARKETS", "SCIENCE_TECH", "ENVIRONMENT_CLIMATE", "HEALTH"]
 REGION_MINIMUMS = {"OCEANIA": 5}  # reader is in Brisbane; overrides --min-per-region
 
-client = anthropic.Anthropic()
 
 
 # ── 1. Collect ───────────────────────────────────────────────────────────────
@@ -165,20 +165,19 @@ def collect(max_age_hours: int = 36) -> list[dict]:
 
 
 # ── Claude helper ────────────────────────────────────────────────────────────
-def ask_json(prompt: str, schema: dict, effort: str = "medium", max_tokens: int = 16000) -> dict:
-    with client.beta.messages.stream(
-        model=MODEL,
-        max_tokens=max_tokens,
-        betas=["server-side-fallback-2026-07-01"],
-        fallbacks="default",
-        output_config={"effort": effort, "format": {"type": "json_schema", "schema": schema}},
-        messages=[{"role": "user", "content": prompt}],
-    ) as stream:
-        msg = stream.get_final_message()
-    if msg.stop_reason == "refusal":
-        raise RuntimeError(f"refused: {msg.stop_details}")
-    text = next(b.text for b in msg.content if b.type == "text")
-    return json.loads(text)
+def ask_json(prompt: str, schema: dict, effort: str = "medium", max_tokens: int = 16000, attempts: int = 3) -> dict:
+    """One structured call through the Claude Code CLI (subscription, no API). Failures and
+    bad JSON get retried with backoff. `effort`/`max_tokens` are kept for call-site compatibility."""
+    for attempt in range(attempts):
+        try:
+            text, structured = claude_cli.run(prompt, model=MODEL, schema=schema)
+            return structured if isinstance(structured, dict) else json.loads(text)
+        except (RuntimeError, subprocess.TimeoutExpired, json.JSONDecodeError) as ex:
+            if attempt == attempts - 1:
+                raise
+            wait = 3 * 2**attempt
+            print(f"  ! CLI hiccup ({type(ex).__name__}: {ex}); retrying in {wait}s ({attempt + 1}/{attempts - 1})")
+            time.sleep(wait)
 
 
 # ── 2. Select ────────────────────────────────────────────────────────────────
