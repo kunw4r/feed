@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "generated_at": "2026-11-03T01:23:04.171659+00:00",
+ "generated_at": "2026-11-03T07:23:04.424457+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -74,72 +74,74 @@
     "has_fulltext": true
    },
    {
-    "id": "112b8e58-5aae-5c3c-93ff-d121fdbd8d89",
-    "title": "Australia nears 'largest property downturn in 40 years' as prices plunge",
-    "simplified_title": "Australian home prices falling at fastest pace in 40 years",
-    "quick_summary": "Australian house prices have dropped for a seventh month straight, falling faster than any downturn in the past 40 years as rising interest rates and tax changes scare off buyers.",
-    "simplified_body": "National home values fell again in October, down 1.2 per cent, according to property research group Cotality. Prices are now 6.7 per cent below their March peak — about $63,400 wiped off the median Australian dwelling, which now sits at $884,855. Across the capital cities, values have slid 8.1 per cent in seven months, closing in on the previous record 8.2 per cent fall of 2017–2019. Brisbane, Perth and Adelaide are leading the slide, with virtually every suburb in those cities down over the past three months.\n\nThis hits anyone who owns, is selling, or wants to buy. Higher interest rates have shrunk how much people can borrow and lifted mortgage repayments, pushing buyers to the sidelines. The federal government's May budget changes to negative gearing (a tax break on investment losses) and capital gains tax (tax on profits from selling assets) have also cooled investor demand. One Brisbane agent says open-home enquiries have at times dropped 300 per cent.\n\nFor background: Australian home prices have soared for decades, roughly doubling in several cities over the past ten years, so most owners are still well ahead. The Reserve Bank of Australia (RBA), which sets interest rates, has lifted them four times this year with a fifth widely expected. When rates rise, borrowing costs more, which drags prices down.\n\nWhat's next is uncertain. Cotality expects falls to push past the 40-year record, and economists including at Morgan Stanley forecast drops of up to 15 per cent. A meaningful recovery may not begin until buyers sense rate cuts are coming — possibly not until late 2027.",
-    "why_it_matters": "Housing is the biggest financial asset for most Australian households, so a record-pace downturn reshapes wealth, confidence and who can afford to buy — while also opening up cheaper entry points for first-home buyers and upsizers.",
-    "deep_analysis": "## Historical Context\n\nAustralian house prices began to pull away from wages in the late 1980s, then surged through the 1990s and early 2000s into a state of entrenched unaffordability — helped along by investor-friendly tax settings that have only recently been unwound. Over the past decade prices roughly doubled in Adelaide, Brisbane, Perth and Hobart, rose more than 50 per cent in Canberra, 30 per cent-plus in Sydney and Darwin, and just over 20 per cent in Melbourne. That long run-up is why the current fall, though the fastest in 40 years, still leaves most owners sitting on sizeable gains — Cotality notes even a 20 per cent drop in Perth would only take it back to mid-2025 levels. The last comparable downturn ran from 2017 to 2019, when combined capital city values fell 8.2 per cent; the current seven-month fall of 8.1 per cent is set to overtake it.\n\n## Multiple Perspectives\n\nThere's broad agreement that high interest rates are the main driver, but views differ on severity. Cotality frames it as a \"demand-led downturn\" and expects falls to push past the 40-year record, with a subdued recovery. Domain's Nicola Powell says a 10 per cent drop is \"quite possible\", and Morgan Stanley forecasts peak-to-trough falls of up to 15 per cent. More sanguine is 13x's Peter Esho, who calls it a \"normal housing cycle\" driven by a negative wealth effect on sentiment, argues Sydney and Melbourne are \"close to bottoming\", and doesn't expect falls to turn \"systemic\" unless borrowing seizes up or unemployment surges. Note a small data wrinkle: ABC cites Cotality's Gerard Burg and a 1.2 per cent national monthly fall, while the Guardian cites Cotality's Tim Lawless and a 1.4 per cent fall across the capitals — different measures from the same firm, not a contradiction.\n\n## What to Watch\n\nThe RBA rate decision is the pivot. Four hikes have landed this year and a fifth is widely expected, with buyers unlikely to return until the bank signals a change of direction — which Cotality and Domain suggest may not come until the latter half of 2027. Watch the mid-sized capitals (Brisbane, Perth, Adelaide), now the centre of the downturn; whether unemployment or borrowing conditions deteriorate, which Esho flags as the trigger for something more serious; and softening indicators like sub-50 per cent auction clearance rates, 39-day median selling times and 4.7 per cent vendor discounting. On rentals, easing vacancy and slowing rent growth bear watching, though rents are still up more than 50 per cent over six years.",
+    "id": "a52836cb-875d-580a-bad2-2d72d3647d0e",
+    "title": "Reddit and libertarian group challenge Australia’s under-16s social media ban in high court",
+    "simplified_title": "Reddit Takes Australia's Under-16 Social Media Ban to High Court",
+    "quick_summary": "Reddit and a libertarian-led advocacy group are asking Australia's High Court to overturn the world-first ban stopping under-16s from holding social media accounts.",
+    "simplified_body": "Australia's under-16s social media ban faced its first big legal test this week, with two days of High Court hearings. Reddit and the Digital Freedom Project (DFP), an advocacy group led by New South Wales Libertarian MP John Ruddick, are trying to overturn the law. Since the ban started on 10 December last year, Prime Minister Anthony Albanese says more than 5 million accounts across 10 platforms have been suspended or deactivated.\n\nThe case affects teenagers, the 10 covered platforms (including Snapchat, TikTok, YouTube, Facebook, Instagram, Reddit, X, Kick, Threads and Twitch), and the government. Australia has no guaranteed right to free speech, so the fight centres on whether blocking under-16s' accounts unfairly limits the \"implied freedom of political communication\" built into Australian law. Reddit argues teens can't post, comment or upvote political content, while the government says the ban guards against harms like poor sleep, depression and eating-disorder issues caused by features such as algorithms and infinite scroll.\n\nFor background: the ban was passed quickly in 2024, with Reddit's lawyer arguing it was rushed through in a week with only 24 hours for submissions. The eSafety commissioner, the regulator enforcing the law, had earlier called a ban a \"blunt force approach\". Platforms risk fines of up to roughly A$99m per serious breach.\n\nNext, judgment is pending after the hearings. The DFP must also prove it has legal \"standing\" to bring the case. Meanwhile the eSafety commissioner is investigating several platforms for possible non-compliance, and parliament is debating separate \"digital duty of care\" laws.",
+    "why_it_matters": "Australia is the first country to try a national under-16s social media ban, so this ruling could shape whether the policy survives and whether other nations follow its lead.",
+    "deep_analysis": "## Historical Context\n\nAustralia has pushed hard on online safety in recent years, and the under-16s ban is the headline measure. A 2021 parliamentary inquiry did not recommend a ban, and the eSafety commissioner warned at the time that it would be a \"blunt force approach\". Despite this, the government announced and passed the law within a week in 2024, allowing just 24 hours for submissions — a speed Reddit's counsel says produced \"ill-thought-out, over-broad legislation\". The rules were later narrowed in March this year by Communications Minister Anika Wells to clarify which services count, pointing to features like logged-in access, recommendation systems and endless scroll.\n\n## Multiple Perspectives\n\nReddit says it shares the goal of protecting young people but argues a blanket ban is the wrong tool and that the digital duty of care bill would be more effective. The government counters that \"harmful features\" — algorithms, autoplay, notifications and likes — are broadly shared across all 10 platforms and pose a \"credible risk\" to children's development. Legal experts are split: Prof Anne Twomey suggested Reddit could win by highlighting a mismatch between the law's purpose and effect, while Monash University's Prof Luke Beck expects the challenge to fail, noting under-16s weren't doing much political communication anyway. In court, Justice Jacqueline Gleeson noted most teens most of the time don't engage in politics.\n\n## What to Watch\n\nWatch whether the court accepts the DFP's standing to sue at all. Watch the final ruling on the political-communication argument. And watch the digital duty of care bill: Beck warns a Reddit win could be a \"pyrrhic victory\" if that law requires the same restrictions anyway. Separately, eSafety's compliance investigations and possible fines loom over the platforms.",
     "concepts": [
      {
-      "term": "negative gearing",
-      "definition": "A tax arrangement where an investor can deduct losses on an investment property (when costs exceed rental income) against their other taxable income.",
-      "context": "The article says the government's May budget changes to negative gearing cooled investor demand for property."
+      "term": "implied freedom of political communication",
+      "definition": "A protection the High Court has found built into Australia's Constitution that limits laws from unfairly restricting discussion about government and politics, even though there's no explicit free-speech right.",
+      "context": "The whole case turns on whether blocking under-16s' accounts breaches this freedom."
      },
      {
-      "term": "capital gains tax",
-      "definition": "Tax paid on the profit made when you sell an asset, such as an investment property, for more than you paid for it.",
-      "context": "Budget changes to capital gains tax were cited as another factor pushing investors out of the market."
+      "term": "standing",
+      "definition": "The legal right to bring a case, which usually requires showing you are actually affected by the law you're challenging.",
+      "context": "The government argues the Digital Freedom Project isn't impacted by the ban and so can't sue."
      },
      {
-      "term": "Reserve Bank of Australia (RBA)",
-      "definition": "Australia's central bank, which sets the official interest rate that influences borrowing costs across the economy.",
-      "context": "The RBA has lifted rates four times this year, with higher borrowing costs dragging home prices down."
+      "term": "eSafety commissioner",
+      "definition": "Australia's online safety regulator, responsible for enforcing the social media ban and investigating platforms.",
+      "context": "It warned a ban would be a 'blunt force approach' and is now probing several platforms for non-compliance."
      },
      {
-      "term": "vendor discounting",
-      "definition": "The gap between a seller's original asking price and the price the property actually sells for, showing how much sellers are having to drop their price.",
-      "context": "Vendor discounting of 4.7 per cent is the largest since May 2019, a sign of a weaker market."
+      "term": "digital duty of care",
+      "definition": "Proposed laws requiring platforms to take active steps to prevent users being harmed on their services.",
+      "context": "Reddit points to this bill as a better alternative, but the government says it would demand the same restrictions anyway."
      }
     ],
     "quiz": {
-     "question": "Why are Australian home prices falling at their fastest pace in 40 years, according to the research cited?",
+     "question": "Why is Australia's social media ban being challenged on 'political communication' grounds rather than a straightforward free-speech argument?",
      "options": [
-      "A sudden surge in unemployment forced mass sales",
-      "Banks stopped lending to home buyers entirely",
-      "Rising interest rates and tax changes have reduced how much buyers can borrow and dampened investor demand",
-      "A flood of new housing supply overwhelmed the market"
+      "Because Australia has no guaranteed constitutional right to free speech, so challengers rely on the implied freedom of political communication",
+      "Because the ban only applies to political websites",
+      "Because the government admitted the ban was unconstitutional",
+      "Because Reddit is a political party"
      ],
-     "answer_index": 2,
-     "explanation": "Experts describe it as a 'demand-led downturn': higher interest rates cut borrowing capacity and lifted repayments, while budget changes to negative gearing and capital gains tax pushed investors away. Economists noted a systemic crisis would require borrowing to seize up or unemployment to surge, which hasn't happened."
+     "answer_index": 0,
+     "explanation": "Australia has no explicit free-speech right, so the case hinges on whether the ban breaches the implied freedom of political communication that the High Court has recognised in the Constitution."
     },
-    "background_beginner": "Housing is the biggest investment most Australians ever make, so price swings matter to almost everyone. For decades prices mostly climbed, making homes increasingly hard to afford. The key player here is the Reserve Bank of Australia, the central bank that sets interest rates — when it raises them, loans cost more and fewer people can afford to buy, which pushes prices down. Research firms like Cotality and Domain track these prices monthly. Right now rates have been rising, the federal government has changed property tax breaks, and buyers have gone quiet. The topic keeps coming up because affordability, rates and the economy are all tangled together, and small shifts ripple through household wealth.",
+    "background_beginner": "In December last year Australia became the first country to ban under-16s from holding social media accounts. Ten platforms — including TikTok, Instagram, Snapchat, YouTube and Reddit — must take \"reasonable steps\" to keep younger teens off, or risk big fines. The government, led by PM Anthony Albanese with Communications Minister Anika Wells, says it protects kids from harmful content and addictive features. Critics say it's too blunt and easy to dodge. Now Reddit and the Digital Freedom Project (headed by Libertarian MP John Ruddick) are fighting it in the High Court, arguing it unfairly stops teens discussing politics online. It keeps coming up because other countries are watching to see if the idea works.",
     "impact_score": 72,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/bf9c59da3593bb3b5686c29f5db03b1b?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=375&width=862&height=485&imformat=generic",
+    "image_url": "https://i.guim.co.uk/img/media/16ee33b934a4ab917511d1197550b8271b7c221c/686_0_6880_5504/master/6880.jpg?width=1920&quality=85&auto=format&fit=max&s=961ffd518b7fecc7dd73ae2c6b4b5e07",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "Australian house prices have dropped for a seventh month straight, falling faster than any downturn in the past 40 years as rising interest rates and tax changes scare off buyers.",
+    "description": "Reddit and a libertarian-led advocacy group are asking Australia's High Court to overturn the world-first ban stopping under-16s from holding social media accounts.",
     "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
+    "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-02/house-prices-fall-in-october-biggest-downturn-40-years-cotality/107325214"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project"
      },
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/home-values-fall-for-seventh-month-interest-rates-dent-property-demand"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/reddit-under-16s-social-media-ban-australia-high-court"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "16c10bf9-397f-5b74-9994-107ce1318be0"
-    ],
-    "reading_minutes": 5,
-    "created_at": "2026-11-01T19:26:10.387536+00:00",
-    "published_date": "2026-11-02",
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-11-03T07:26:11.501371+00:00",
+    "published_date": "2026-11-03",
     "has_fulltext": true
    },
    {
@@ -409,66 +411,76 @@
     "has_fulltext": true
    },
    {
-    "id": "5927b019-edf3-520a-9079-f38bbc88e7cc",
-    "title": "Bangladesh forms wage board as garment protests turn violent",
-    "simplified_title": "Bangladesh Sets Up Wage Board As Garment Protests Turn Violent",
-    "quick_summary": "Bangladesh has created a six-member wage board to review garment workers' pay after protests demanding more than double the current minimum wage turned violent across key industrial areas.",
-    "simplified_body": "On Sunday, 1 November, Bangladesh announced a six-member wage board to review what garment workers earn and urged them to go back to work. Despite the move, thousands kept protesting. Police used tear gas and water cannon on workers who blocked a busy Dhaka intersection, and some protesters threw bricks at officers. In Gazipur, a major industrial belt on the capital's outskirts, blocked highways and demonstrations forced owners to shut 25 to 30 factories.\n\nWorkers want a minimum monthly wage of 30,000 taka (US$245), more than double the current 12,500 taka. They say rising costs of food, housing, transport and healthcare have badly eaten into what their pay can buy. This matters hugely because the industry employs about 4 million workers and generates more than 80 per cent of the country's export earnings.\n\nHere's the background: Bangladesh's ready-made garment (RMG) industry is the world's largest after China, contributing about 10 per cent of gross domestic product (GDP) and supplying clothing to many leading Western brands. Labour and Employment Minister Ariful Haque Chowdhury said the wage board was formed after talks with workers' representatives and industry leaders.\n\nWhat's next is uncertain. Chowdhury warned that drawn-out disruptions could delay export shipments and payments from international buyers, hurting manufacturers and workers alike. Manufacturers say they are already juggling rising production costs, periodic gas and electricity shortages, and shaky energy markets linked to Middle East tensions.",
-    "why_it_matters": "Bangladesh is one of the world's biggest clothing suppliers, so unrest there can ripple through the racks of Australian retailers and shape debates about fair pay in the garments many of us wear every day.",
-    "deep_analysis": "## Historical Context\n\nBangladesh built its economy on cheap, large-scale garment manufacturing, and the sector is now the world's largest after China. It contributes about 10 per cent of gross domestic product and more than 80 per cent of export earnings, employing roughly 4 million people. That scale has long made the industry both the backbone of the economy and a flashpoint: low wages are the sector's competitive edge, yet they leave workers exposed when living costs climb. Periodic wage disputes and the creation of wage boards to settle them are a recurring feature of this tug-of-war.\n\n## Multiple Perspectives\n\nWorkers argue that the current 12,500 taka minimum simply can't keep up with rising food, housing, transport and healthcare costs, so they are pushing for 30,000 taka — more than double. The government, through Labour and Employment Minister Ariful Haque Chowdhury, has responded by forming the wage board after consulting both sides and is urging a return to work, while warning that prolonged disruption could delay export shipments and buyer payments. Manufacturers counter that they face mounting pressures of their own — rising production costs, gas and electricity shortages, and energy-market uncertainty tied to Middle East tensions — which limit how much they can lift pay.\n\n## What to Watch\n\nKey questions: what figure the six-member wage board lands on and whether it satisfies workers enough to calm the streets. Watch whether protests spread beyond Dhaka, Gazipur and Ashulia, how long factory shutdowns last, and whether export shipments to Western brands are delayed. The balance between worker demands and manufacturers' cost pressures will shape whether this settles quickly or drags on.",
+    "id": "d025a76b-1c46-52b6-9b96-a465b7d4449a",
+    "title": "Bangladesh: Wage protests force hundreds of garment factories to close",
+    "simplified_title": "Bangladesh Garment Workers Strike for Higher Wages, Shutting Factories",
+    "quick_summary": "Hundreds of Bangladeshi garment factories have shut as workers protest for more than double their current minimum wage amid soaring living costs.",
+    "simplified_body": "Garment workers across Bangladesh have walked off the job and onto the streets, demanding a minimum monthly wage of 30,000 taka (around $242) — more than double what they earn now. Protests in and around the capital, Dhaka, turned violent, with workers blocking roads, torching vehicles and vandalising factories, and police firing tear gas and stun grenades. Reports put the number of factories suspending operations at around 670 to 679 on Monday, with hundreds staying shut.\n\nThe protests affect roughly four million workers — about half of them women — who stitch clothes for global brands including H&M, Zara, Primark, Walmart and Uniqlo. Many say their pay no longer covers food, rent and cooking gas. One worker, Laili Begum, told Al Jazeera she pulled her two children out of school and some days can't manage a single proper meal.\n\nBangladesh is the world's second-largest garment exporter after China, and the ready-made garment (RMG) sector brings in nearly $40 billion a year — roughly 10% of the country's gross domestic product (GDP). Yet its workers are among the lowest-paid in the industry. Sources differ slightly on the current minimum wage, citing either 12,500 or 13,000 taka a month; it was last revised in December 2023, and inflation has climbed since.\n\nThe government has formed a six-member wage board to review the demands, and Prime Minister Tarique Rahman held an emergency meeting. Workers' representatives are urging a return to work while promising to keep pushing. Factory owners warn that big pay rises could hurt competitiveness unless global brands pay fairer prices.",
+    "why_it_matters": "Bangladesh makes much of the cheap clothing sold worldwide, so Australian shoppers likely wear garments stitched by these workers — and the dispute puts a spotlight on what fair pay and responsible buying by global brands actually looks like.",
+    "deep_analysis": "## Historical Context\n\nBangladesh's garment boom was built on low wages, which is precisely why global brands flocked there. The sector now employs around four million people and generates close to $40 billion a year, making it the backbone of the economy. Wage reviews have historically happened only every few years — the last rise came in December 2023 — and the government recently shortened the review cycle from five years to three. Workers' representatives point out that the latest wage board was only announced after protests erupted, reinforcing a long-held belief that nothing changes unless workers hit the streets.\n\n## Multiple Perspectives\n\nWorkers say their pay simply no longer stretches to food, rent and cooking gas, with inflation running at 8.34% in September. Factory owners, through the Bangladesh Garment Manufacturers and Exporters Association, say they're squeezed by higher energy costs, global competition and slowing demand — and argue that sustainable pay rises depend on international brands offering fairer purchasing prices. Economists broadly agree workers' demands are reasonable but warn that a sudden large rise could dent Bangladesh's price competitiveness, favouring a phased approach. A University of Oxford fellow put blame squarely on Western buyer brands, calling their role \"extractive\". Meanwhile, authorities have accused the banned Awami League of exploiting the unrest, without offering evidence.\n\n## What to Watch\n\nThe key question is what figure the six-member wage board lands on, and how quickly. One workers' representative wants new wages to apply from January 2027 salaries, plus the release of arrested workers and dropped charges. Watch whether owners invoke the \"no work, no pay\" provision, whether global brands respond on pricing, and whether the protests ease or spread further across hubs like Ashulia, Gazipur and Narayanganj.",
     "concepts": [
      {
-      "term": "wage board",
-      "definition": "An official panel set up to review and recommend pay levels for workers in an industry.",
-      "context": "Bangladesh formed a six-member wage board to review garment workers' pay amid the protests."
-     },
-     {
-      "term": "taka",
-      "definition": "The national currency of Bangladesh.",
-      "context": "Workers want 30,000 taka a month (US$245), more than double the current 12,500 taka."
+      "term": "minimum wage",
+      "definition": "The lowest monthly pay an employer is legally allowed to give a worker, set by the government.",
+      "context": "Workers want the garment minimum wage lifted to 30,000 taka a month, more than double the current level."
      },
      {
       "term": "ready-made garment (RMG)",
-      "definition": "Mass-produced, factory-made clothing ready for sale, a core export industry for Bangladesh.",
-      "context": "Bangladesh's ready-made garment industry is the world's largest after China."
+      "definition": "Factory-produced finished clothing made for sale, as opposed to custom-tailored items.",
+      "context": "Bangladesh's ready-made garment sector earns the country nearly $40 billion a year."
      },
      {
       "term": "gross domestic product (GDP)",
-      "definition": "The total value of goods and services a country produces, used to measure the size of its economy.",
-      "context": "The garment sector contributes about 10 per cent of gross domestic product."
+      "definition": "The total value of all goods and services a country produces, used to measure the size of its economy.",
+      "context": "The garment industry accounts for roughly 10% of Bangladesh's GDP."
+     },
+     {
+      "term": "wage board",
+      "definition": "An official panel set up to review and recommend pay levels for workers in an industry.",
+      "context": "The government formed a six-member wage board to review the workers' demands."
      }
     ],
     "quiz": {
-     "question": "Why are Bangladesh's garment workers protesting?",
+     "question": "Why do factory owners say they can't simply grant the full wage increase on their own?",
      "options": [
-      "They are protesting against exports to Western brands",
-      "They want factories moved out of Dhaka",
-      "They want the minimum monthly wage more than doubled to keep up with rising living costs",
-      "They are demanding shorter working hours"
+      "Because workers have refused to accept any negotiated deal",
+      "Because the government has banned any pay rises until 2027",
+      "Because they say global brands need to pay fairer prices for their competitiveness to survive",
+      "Because inflation in Bangladesh has fallen sharply"
      ],
      "answer_index": 2,
-     "explanation": "Workers are demanding a minimum monthly wage of 30,000 taka — more than double the current 12,500 taka — saying rising costs of food, housing, transport and healthcare have eroded their purchasing power."
+     "explanation": "Owners and economists argue that large pay rises could hurt Bangladesh's price competitiveness unless international buyer brands contribute through fairer purchasing prices."
     },
-    "background_beginner": "Bangladesh is a South Asian country whose economy leans heavily on making clothes. Its ready-made garment industry is the world's largest after China, employs about 4 million people and brings in more than 80 per cent of the nation's export earnings, supplying many leading Western brands. Because wages are low, workers regularly clash with factory owners and the government over pay — especially when prices for food, housing and transport rise. These disputes flare up periodically and often turn into street protests. This time, workers want their minimum wage more than doubled, and the government has set up a wage board to review it.",
+    "background_beginner": "Bangladesh is a South Asian country of about 170 million people and the world's second-biggest exporter of clothing after China. Millions of workers — many of them women — sew garments in factories for well-known brands like H&M, Zara, Primark and Walmart, and these exports are the country's main source of income. The catch is that Bangladeshi garment workers are among the lowest-paid in the world. As food, rent and fuel prices have risen, workers say their pay no longer covers the basics. That tension flares up periodically into strikes and protests, with workers pushing for a higher minimum wage while factory owners say they can only pay more if the global brands buying their clothes pay them more too.",
     "impact_score": 62,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--_MzkK9Uq--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-22T022341Z_1_LYNXMPEM8L036_RTROPTP_3_IRAN-CRISIS-ENERGY-BANGLADESH.JPG?itok=x8F7UE-c",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d998/live/f70c4ca0-d72b-11f1-9b56-c9b433d51ba8.jpg",
     "region": "Asia",
     "region_code": "ASIA",
-    "description": "Bangladesh has created a six-member wage board to review garment workers' pay after protests demanding more than double the current minimum wage turned violent across key industrial areas.",
+    "description": "Hundreds of Bangladeshi garment factories have shut as workers protest for more than double their current minimum wage amid soaring living costs.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3pwg91qjpq7o"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs?traffic_source=rss"
+     },
+     {
       "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/bangladesh-forms-wage-board-garment-protests-6510696"
+      "url": "https://www.channelnewsasia.com/asia/bangladesh-protests-garment-factories-wage-inflation-6513891"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-01T19:25:52.228677+00:00",
-    "published_date": "2026-11-02",
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "5927b019-edf3-520a-9079-f38bbc88e7cc"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-03T07:26:13.906595+00:00",
+    "published_date": "2026-11-03",
     "has_fulltext": true
    },
    {
@@ -1070,6 +1082,148 @@
     "has_fulltext": true
    },
    {
+    "id": "557dcd33-1a01-5f2b-9c3c-7cf791cbb8b1",
+    "title": "US launches strikes on Iranian island ahead of election",
+    "simplified_title": "US strikes Iran's Qeshm Island on eve of midterm vote",
+    "quick_summary": "The US launched limited strikes on Iran's Qeshm Island in the Strait of Hormuz the night before its midterm elections, even as both sides talked up the chances of a deal.",
+    "simplified_body": "On Monday night the United States (US) launched what officials called limited strikes on Iran's Qeshm Island, which sits at the mouth of the Strait of Hormuz, a key shipping channel. Iranian state media reported several explosions. US officials said the strikes were \"defensive\" and a response to Iran's Islamic Revolutionary Guard Corps (IRGC) firing on a US aircraft and using surface-to-air missiles against US assets. The Wall Street Journal said they were part of a series of recent, quietly conducted strikes.\n\nThe timing matters because they landed on the eve of the US midterm elections, the vote that decides whether Republicans or Democrats control Congress. President Donald Trump's Republicans are expected to be punished by voters over the war's effect on the cost of living, especially petrol prices. The war began in February when the US and Israel attacked Iran.\n\nFor a newcomer: the Strait of Hormuz is a narrow waterway through which much of the world's oil passes. Iran has been enforcing a closure by targeting oil tankers and other vessels, and the US has hit Qeshm Island before because it has been used to launch attacks on shipping.\n\nWhat happens next is unclear. Trump said he was in \"no rush\" and claimed Iran had been \"crippled financially\", while hinting the US might still \"go after Pickaxe\", a suspected underground nuclear site. Meanwhile Iran's foreign minister Abbas Araghchi said \"very intensive\" talks via mediators are under way, and US vice-president JD Vance said he was optimistic about a deal.",
+    "why_it_matters": "The Strait of Hormuz carries a huge share of the world's oil, so renewed fighting there can push global petrol prices up — something Australian drivers feel directly at the bowser.",
+    "deep_analysis": "## Historical Context\n\nThe Strait of Hormuz has long been one of the world's most strategically sensitive waterways, as a large portion of globally traded oil passes through it. According to the sources, this war began in February when the US and Israel attacked Iran, and Qeshm Island — positioned at the mouth of the strait — has been targeted by the US repeatedly because it has been used to launch attacks on shipping. Iran has continued enforcing a closure of the strait by hitting oil tankers and other vessels even during a lull in US attacks.\n\n## Multiple Perspectives\n\nThe US framing is cautious: officials and the Guardian described the strikes as \"limited\" and \"defensive\", a reaction to the IRGC firing on a US aircraft rather than a return to full hostilities. The Wall Street Journal went further, reporting the Trump administration has been carrying out smaller strikes in secret precisely to avoid signalling a resumed campaign.\n\nPolitically, Trump is downplaying the conflict — \"there's no war raging\" — while hailing falling oil prices and touting diplomacy, with Vance voicing optimism about a settlement. Iran's foreign minister Araghchi presents Tehran as ready for both talks and war, saying the choice is Washington's between a \"wise path\" and the \"mistake of military aggression\". Note the tension: strikes are landing even as both sides talk up negotiations.\n\n## What to Watch\n\nWatch whether strikes escalate after the midterms — Trump said \"no\" when asked, but speculation persists. Keep an eye on \"Pickaxe\", the suspected underground nuclear site Trump says the US \"might need to go after\". And watch oil prices and the strait's shipping traffic, the clearest signals of whether this is a genuine wind-down or a pause before more.",
+    "concepts": [
+     {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage at the mouth of the Persian Gulf through which much of the world's oil is shipped, making it strategically vital.",
+      "context": "Qeshm Island sits at the mouth of this waterway, which Iran has been enforcing a closure of by targeting vessels."
+     },
+     {
+      "term": "Islamic Revolutionary Guard Corps (IRGC)",
+      "definition": "A powerful branch of Iran's armed forces, separate from its regular military.",
+      "context": "US officials said the strikes were a response to the IRGC firing on a US aircraft."
+     },
+     {
+      "term": "midterm elections",
+      "definition": "US elections held partway through a presidential term that decide control of Congress.",
+      "context": "The strikes landed on the eve of a vote expected to punish Trump's Republicans over the cost of living."
+     },
+     {
+      "term": "Pickaxe",
+      "definition": "A suspected fortified underground Iranian nuclear site.",
+      "context": "Trump hinted the US might still 'go after Pickaxe', calling it not a 'big deal' that could be done in 'one hour'."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the timing and location of these strikes carry extra weight?",
+     "options": [
+      "They occurred on a remote island with no strategic value",
+      "They came on the eve of US midterm elections and near the oil-shipping Strait of Hormuz",
+      "They permanently closed the Strait of Hormuz",
+      "They were the first US strikes ever on Iran"
+     ],
+     "answer_index": 1,
+     "explanation": "The strikes hit Qeshm Island at the mouth of the oil-carrying Strait of Hormuz the night before the midterms, a vote where the war's effect on the cost of living is a major issue."
+    },
+    "background_beginner": "The main players are the United States, led by President Donald Trump, and Iran. According to the sources, the US and Israel attacked Iran in February, starting a war. Much of the fighting centres on the Strait of Hormuz, a narrow sea lane carrying a big chunk of the world's oil. The US has repeatedly struck Iran's Qeshm Island there, while Iran targets passing ships. The conflict keeps coming up because it pushes up petrol prices worldwide, hurting household budgets — which is now a hot issue in the US midterm elections. Both sides say they're also pursuing talks through mediators, so war and diplomacy are running side by side.",
+    "impact_score": 72,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "The US launched limited strikes on Iran's Qeshm Island in the Strait of Hormuz the night before its midterm elections, even as both sides talked up the chances of a deal.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "094a178b-c494-5f1a-9228-c760b8556e68",
+     "315ff6a2-e859-54be-9370-470d95fabca2",
+     "4baeb561-9dde-5523-9cc1-d2b0ea035a8e",
+     "a1953172-37fc-55b9-a715-9bbde7c2c360",
+     "d83687dc-daf6-5e1c-87b9-7f98e012cce1",
+     "dfb86a2d-f459-5921-b7af-108cd7ffcf2b",
+     "e5a91d18-7570-53b7-8a3e-97e5a67f9670"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-11-03T07:26:14.931730+00:00",
+    "published_date": "2026-11-03",
+    "has_fulltext": true
+   },
+   {
+    "id": "cdd5a429-7768-5880-a9e2-e476e449d89c",
+    "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
+    "simplified_title": "Ebola outbreak kills more than 5,300 in DR Congo",
+    "quick_summary": "A rare strain of Ebola has killed over 5,300 people, almost all in the Democratic Republic of the Congo, and has crossed several borders.",
+    "simplified_body": "The Democratic Republic of the Congo (DRC) is at the centre of a major Ebola outbreak that has now killed more than 5,300 people. Figures from the Africa Centres for Disease Control and Prevention (Africa CDC) put the toll at 5,376 — 5,372 in the DRC, plus two each in neighbouring Kenya and Uganda. The DRC declared this, its 17th and largest-ever Ebola outbreak, in mid-May.\n\nThe culprit is the Bundibugyo strain of the virus, which has infected around 10,444 people across the three countries and kills more than half of those it infects. That high death rate makes it especially frightening for communities and health workers, and the virus has slipped across borders several times in recent months.\n\nEbola spreads through contact with the bodily fluids of infected people. Uganda recorded 20 cases — nearly all in people who had travelled from the DRC — before being declared Ebola-free in August. Kenya saw its first-ever cases in October: nine infections and two deaths. Nigeria reported an imported case in October, its first in over a decade, with no deaths, and later cleared two suspected cases. France logged a single case in July, a health worker returning from the DRC.\n\nWorryingly, there are no approved treatments or vaccines for the rare Bundibugyo strain. In recent weeks, clinical trials have begun with the Ervebo vaccine, which already works against the more common Zaire strain — but whether it helps here is still being tested.",
+    "why_it_matters": "An Ebola strain with a death rate above 50 percent and no approved vaccine, already jumping borders and reaching Europe, is a global health concern that doesn't respect distance — travel-linked cases show how quickly it can move.",
+    "deep_analysis": "## Historical Context\n\nEbola was first identified in the 1970s in central Africa and has flared up repeatedly ever since, with the DRC bearing the heaviest burden — this is the country's 17th outbreak and its largest to date. Different strains carry different risks. The Zaire strain is the most common and the one the Ervebo vaccine was developed against. The Bundibugyo strain behind this outbreak is rarer, which is precisely why no approved treatment or vaccine exists for it yet.\n\n## Multiple Perspectives\n\nFor affected communities in the DRC, a virus that kills more than half the people it infects is devastating, and the lack of a proven vaccine removes the usual front line of defence. For neighbouring countries, the repeated border crossings — Uganda's 20 mostly travel-linked cases, Kenya's first-ever infections, Nigeria's imported case — show the outbreak is a regional, not just a national, problem. For the wider world, France's single case in a returning health worker is a reminder that modern travel can carry the virus far from its source, even if onward spread has so far been contained.\n\n## What to Watch\n\nThe clinical trials of the Ervebo vaccine are the key development — if it proves effective against Bundibugyo, it could change the trajectory of the outbreak. Also worth watching: whether case numbers in the DRC keep climbing, and whether further imported cases appear in countries that have so far reported only isolated or negative cases.",
+    "concepts": [
+     {
+      "term": "Bundibugyo strain",
+      "definition": "A rarer type of the Ebola virus for which there are currently no approved treatments or vaccines; in this outbreak it kills more than half of those infected.",
+      "context": "It is the strain driving the current outbreak across the DRC, Uganda and Kenya."
+     },
+     {
+      "term": "Africa Centres for Disease Control and Prevention (Africa CDC)",
+      "definition": "A continent-wide public health agency that tracks and reports on disease outbreaks in Africa.",
+      "context": "Its figures put the outbreak's death toll at 5,376."
+     },
+     {
+      "term": "Ervebo vaccine",
+      "definition": "A vaccine that has proven effective against the more common Zaire strain of Ebola.",
+      "context": "It has recently entered clinical trials to see if it works against the Bundibugyo strain."
+     }
+    ],
+    "quiz": {
+     "question": "Why is the current Ebola outbreak particularly dangerous to control?",
+     "options": [
+      "The virus cannot cross international borders",
+      "The Africa CDC has stopped reporting case data",
+      "The Zaire strain has mutated to resist Ervebo",
+      "There are no approved treatments or vaccines for the Bundibugyo strain causing it"
+     ],
+     "answer_index": 3,
+     "explanation": "The outbreak is driven by the rare Bundibugyo strain, for which there are no approved treatments or vaccines — Ervebo, which works against the Zaire strain, is only now in clinical trials against it."
+    },
+    "background_beginner": "Ebola is a severe, often deadly disease caused by a virus that spreads through contact with the bodily fluids of infected people. It was first identified in central Africa in the 1970s, and the Democratic Republic of the Congo (DRC) has faced many outbreaks since — this is its 17th. The virus comes in several strains; some are more common and better understood than others. Outbreaks keep recurring partly because the virus can linger in animals and resurface, and because it spreads fast once it reaches people. Health agencies like the Africa Centres for Disease Control and Prevention track cases and coordinate the response, including rolling out vaccines where they exist.",
+    "impact_score": 72,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-31T191025Z_656160264_RC2DEOAHJ4I8_RTRMADP_3_HEALTH-EBOLA-CONGO-1793659361.jpg?resize=1920%2C1440",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "A rare strain of Ebola has killed over 5,300 people, almost all in the Democratic Republic of the Congo, and has crossed several borders.",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "357ebcac-4d16-58b5-9d08-dd0ce6d96cb1",
+     "643fd0d4-9200-5e54-a612-85f2fed71370",
+     "920de58d-374c-5da9-baa1-d152afa9a420",
+     "92ca781c-1833-5213-be81-c8ef25a1a957",
+     "b919f1d2-2f4a-50c5-86c0-99ec7cb994b3",
+     "e61a7066-899c-5fb7-a4bc-d09fc0db5d44",
+     "e7784c73-91ca-5926-a3c8-70bbbc84035f",
+     "fb15646b-0dc3-51ce-a492-c32758b51f8f"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-11-03T07:26:11.078692+00:00",
+    "published_date": "2026-11-03",
+    "has_fulltext": true
+   },
+   {
     "id": "6978e6ac-06f7-5a2c-9250-def3dc7e8d5e",
     "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
     "simplified_title": "Israel's election deadlock sparks fraud claims and coalition scramble",
@@ -1138,72 +1292,6 @@
     ],
     "reading_minutes": 2,
     "created_at": "2026-11-02T01:26:38.168583+00:00",
-    "published_date": "2026-11-02",
-    "has_fulltext": true
-   },
-   {
-    "id": "92ca781c-1833-5213-be81-c8ef25a1a957",
-    "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-    "simplified_title": "Over 5,000 dead in DR Congo's deadliest-ever Ebola outbreak",
-    "quick_summary": "An Ebola outbreak that began in May has killed more than 5,000 people in the Democratic Republic of Congo, making it the country's worst on record.",
-    "simplified_body": "Government data shows more than 5,000 people have now died in an ongoing Ebola outbreak in the Democratic Republic of Congo (DR Congo), with over 10,300 confirmed cases across 8 of the country's 26 provinces. The outbreak began in May and became the nation's deadliest in August. Public health officials put the current case fatality rate — the share of confirmed cases who die — at 48.6%.\n\nThe epicentre remains Ituri province in the north-east, which is a conflict zone, making the virus harder to contain. That's a serious problem for responders: a nurse was killed and another health worker badly hurt this week after locals accused them of contaminating water, a politician was beaten to death last month for promoting Ebola measures, and the Red Cross reported 11 violent incidents in the first 100 days. Cases have also crossed borders into Kenya, Nigeria and Uganda.\n\nEbola is a rare, deadly disease caused by a virus, spread through contact with infected bodily fluids like blood or vomit. Symptoms come on suddenly, with vomiting and diarrhoea, and it can cause organ failure and, in some patients, bleeding. This is DR Congo's 17th outbreak and the second largest in history. The current strain is the Bundibugyo species, for which there is not yet any treatment or vaccine.\n\nThe World Health Organization (WHO) says ending the outbreak needs more control measures, better access to affected areas and community outreach, and reports that testing, treatment and vaccine trials are under way. The United Nations (UN) warns this outbreak is taking lives much faster than earlier ones.",
-    "why_it_matters": "Ebola outbreaks are rare but can spread across borders quickly, and this one has already reached three neighbouring countries — a reminder of how a fast-moving virus in a conflict zone can become a wider public-health concern.",
-    "deep_analysis": "## Historical Context\n\nDR Congo has long been Ebola's epicentre — this is its 17th outbreak on record. The article notes the previous national record was 2,299 deaths between 2018 and 2020. The deadliest outbreak ever was in West Africa from 2014 to 2016, which killed more than 11,325 people and reached several countries including Italy, the UK and the United States. Against that backdrop, the current outbreak is already the second largest in history, and the UN warns it is claiming lives at a much faster rate than earlier episodes.\n\n## Multiple Perspectives\n\nHealth authorities frame this as a containment and access problem: the WHO's Africa office says scaling up control measures, reaching affected areas and community outreach are what's needed, and points to testing, treatment and vaccine trials under way. On the ground, though, the response faces hostility — some communities have turned on health workers, blaming them for spreading the virus or contaminating water, leading to deadly attacks. Meanwhile, the European Centre for Disease Prevention and Control judges the risk to people in Europe as \"very low,\" highlighting how differently the threat is perceived close to the outbreak versus far from it.\n\n## What to Watch\n\nKey unknowns include whether the Bundibugyo strain driving this outbreak gets a working treatment or vaccine — the article says none exists yet for it. Watch the cross-border picture: Uganda has had no new cases since August but keeps travel restrictions, while Nigeria was testing two suspected cases as of Saturday. And watch whether responders can safely reach the Ituri conflict zone, since security and community trust are central to stopping the spread.",
-    "concepts": [
-     {
-      "term": "case fatality rate",
-      "definition": "The proportion of people with a confirmed disease who die from it — here, 48.6% of confirmed Ebola cases.",
-      "context": "Officials use it to gauge how lethal an outbreak is."
-     },
-     {
-      "term": "Bundibugyo species",
-      "definition": "One of several types of Ebola virus; this strain currently has no approved treatment or vaccine.",
-      "context": "Knowing the exact strain matters because treatments and vaccines are strain-specific."
-     },
-     {
-      "term": "epicentre",
-      "definition": "The central area where an outbreak is most concentrated — here, Ituri province.",
-      "context": "Responders focus resources on the epicentre to contain spread."
-     }
-    ],
-    "quiz": {
-     "question": "Why is the current Ebola outbreak especially hard to contain?",
-     "options": [
-      "Because a vaccine exists but can't be manufactured fast enough",
-      "Because it only affects remote islands with no roads",
-      "Because the virus spreads through the air over long distances",
-      "Because its epicentre is in a conflict zone and responders have been attacked"
-     ],
-     "answer_index": 3,
-     "explanation": "The article says the epicentre, Ituri province, is a conflict zone, and health workers and a politician have been attacked, making the response far harder."
-    },
-    "background_beginner": "Ebola is a rare but very deadly virus that spreads through contact with an infected person's bodily fluids, such as blood or vomit. The Democratic Republic of Congo (DR Congo), a large country in central Africa, has faced Ebola repeatedly — this is its 17th outbreak. The current one began in May 2026 and has become the country's deadliest ever. Responding to Ebola is difficult at the best of times, but here the worst-hit area is also a conflict zone, and some local communities have reacted with suspicion and violence towards health workers. The virus keeps resurfacing in the region, and global health bodies like the World Health Organization help coordinate the response.",
-    "impact_score": 72,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "An Ebola outbreak that began in May has killed more than 5,000 people in the Democratic Republic of Congo, making it the country's worst on record.",
-    "tier": "GLOBAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "357ebcac-4d16-58b5-9d08-dd0ce6d96cb1",
-     "643fd0d4-9200-5e54-a612-85f2fed71370",
-     "920de58d-374c-5da9-baa1-d152afa9a420",
-     "b919f1d2-2f4a-50c5-86c0-99ec7cb994b3",
-     "e61a7066-899c-5fb7-a4bc-d09fc0db5d44",
-     "e7784c73-91ca-5926-a3c8-70bbbc84035f",
-     "fb15646b-0dc3-51ce-a492-c32758b51f8f"
-    ],
-    "reading_minutes": 2,
-    "created_at": "2026-11-01T19:25:56.209688+00:00",
     "published_date": "2026-11-02",
     "has_fulltext": true
    },
@@ -1340,77 +1428,6 @@
     "created_at": "2026-11-02T19:26:25.382219+00:00",
     "published_date": "2026-11-03",
     "has_fulltext": true
-   },
-   {
-    "id": "f3befd64-766c-5742-bb4c-0b5f5a13a655",
-    "title": "Trump to remove Rwanda and South Africa from US trade deal",
-    "simplified_title": "Trump to Cut South Africa and Rwanda From US Trade Deal",
-    "quick_summary": "The United States plans to remove South Africa and Rwanda from a programme that lets many African goods enter the US tax-free, starting 1 January 2027.",
-    "simplified_body": "US President Donald Trump has told Congress he intends to remove South Africa and Rwanda from the African Growth and Opportunity Act (AGOA), a programme that lets eligible African countries export thousands of products to the US duty-free. US Trade Representative Jamieson Greer said an annual review found both countries were acting in ways that break the programme's eligibility rules. The change would take effect from 1 January 2027.\n\nThis matters most for South Africa, which has been AGOA's biggest beneficiary, exporting about $1.7 billion worth of goods — including car parts, citrus fruit and wine — to the US under the programme in 2025. South Africa's citrus industry warned that jobs and whole communities are now at stake. Rwanda, whose main US exports are coffee, tea and minerals, was already sanctioned last week over its alleged support of the M23 rebel group in the Democratic Republic of Congo (DR Congo), which it denies.\n\nAGOA was introduced in 2000 under former US President Bill Clinton and has run for 26 years, covering over 1,800 products from more than 30 countries. To stay eligible, nations must reduce barriers to US trade, keep an open market economy, and uphold the rule of law, human rights and worker protections. Washington cited trade barriers, corruption, national security and foreign policy concerns for both countries.\n\nSouth Africa says it saw this coming. Its Trade Ministry noted AGOA makes up only about 10% of its exports to the US and 1% of its global exports, and President Cyril Ramaphosa has been seeking new markets and deals with partners like China. The government says it will support affected sectors.",
-    "why_it_matters": "It shows how the US is increasingly tying trade access to political and foreign-policy demands — a shift that reshapes global trade rules Australia also relies on, and signals how smaller economies may need to diversify toward partners like China.",
-    "deep_analysis": "## Historical Context\n\nAGOA was signed into law in 2000 under US President Bill Clinton and became a cornerstone of American economic engagement with sub-Saharan Africa. For 26 years it has given more than 30 countries duty-free access to the US market across over 1,800 products, with eligibility reviewed every year against standards on market economies, governance, human rights and labour. Trump actually extended the programme back in February of this year, making the move to drop these two countries a notable reversal. Rwanda has been here before — it was also suspended in 2018.\n\n## Multiple Perspectives\n\nWashington frames this as enforcement: Greer says both governments are breaking AGOA's rules, citing trade barriers, national security and foreign policy concerns. For Rwanda, the US added human rights, political pluralism and the rule of law, coming just a week after sanctions over its alleged role backing M23 rebels in DR Congo. For South Africa, the US pointed to corruption and foreign policy friction — including South Africa's genocide case against Israel at the International Court of Justice, and Trump's disputed claim of \"white genocide,\" which South Africa's government calls a falsehood spread by fringe groups. South Africa, for its part, says it was prepared, that AGOA is only a slice of its trade, and that it remains open to dialogue while courting new partners.\n\n## What to Watch\n\nWatch whether South Africa and Rwanda formally respond before the January 2027 start date, and whether any negotiation reopens eligibility. Keep an eye on South Africa's citrus and auto sectors, which face the most exposure, and on how fast Pretoria pivots toward China and other markets. More broadly, this tests whether AGOA's rules-based model survives an era of transactional US trade policy.",
-    "concepts": [
-     {
-      "term": "African Growth and Opportunity Act (AGOA)",
-      "definition": "A US law from 2000 that lets eligible sub-Saharan African countries export thousands of products to the US without paying import taxes, reviewed annually.",
-      "context": "The programme South Africa and Rwanda are being removed from."
-     },
-     {
-      "term": "duty-free",
-      "definition": "Goods that can be imported without paying the usual tax (tariff) charged at the border.",
-      "context": "AGOA's main benefit is duty-free access to the US market."
-     },
-     {
-      "term": "eligibility criteria",
-      "definition": "The conditions a country must meet to stay in a programme — here, things like open markets, rule of law, human rights and reducing trade barriers.",
-      "context": "The US says both countries failed to meet AGOA's eligibility rules."
-     },
-     {
-      "term": "M23 rebel group",
-      "definition": "An armed rebellion operating in eastern DR Congo that the US alleges Rwanda has backed with troops and weapons.",
-      "context": "Rwanda was sanctioned over its alleged support of M23 shortly before this decision."
-     }
-    ],
-    "quiz": {
-     "question": "Why does the AGOA decision hit South Africa's economy less hard than it might first appear?",
-     "options": [
-      "The change will not take effect until 2030",
-      "The US agreed to replace AGOA with a better deal",
-      "South Africa does not actually export anything to the US",
-      "AGOA exports are only about 10% of its exports to the US and 1% of its global exports"
-     ],
-     "answer_index": 3,
-     "explanation": "South Africa's Trade Ministry noted that AGOA exports make up only about 10% of its total exports to the US and 1% of its total global exports, so while it matters, it is not the whole trade relationship."
-    },
-    "background_beginner": "The African Growth and Opportunity Act, or AGOA, is a US law from 2000 that lets many African countries sell goods to the US without paying import taxes. It's meant to boost African economies while encouraging good governance, and countries must pass a yearly check to stay in. The main players here are US President Donald Trump's administration, which wants to remove South Africa and Rwanda, and the two African governments themselves. The topic keeps coming up because the US increasingly links trade perks to political behaviour — South Africa clashes with Washington over foreign policy and disputed claims about its treatment of white farmers, while Rwanda faces pressure over its alleged role in conflict in neighbouring DR Congo.",
-    "impact_score": 58,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "The United States plans to remove South Africa and Rwanda from a programme that lets many African goods enter the US tax-free, starting 1 January 2027.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo"
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-03T01:25:03.662101+00:00",
-    "published_date": "2026-11-03",
-    "has_fulltext": true
    }
   ],
   "AMERICAS": [
@@ -1492,66 +1509,66 @@
     "has_fulltext": true
    },
    {
-    "id": "f119525f-2178-5ff8-88e7-e0a74c3d4db5",
-    "title": "Bolivia declares emergency as El Nino intensifies, threatens severe weather",
-    "simplified_title": "Bolivia Declares Emergency as a \"Super\" El Nino Looms",
-    "quick_summary": "Bolivia has declared a national state of emergency to brace for severe droughts and floods tied to a rapidly strengthening El Nino weather pattern.",
-    "simplified_body": "Bolivian President Rodrigo Paz has declared a national state of emergency so the country can muster resources and beef up its disaster response ahead of severe droughts and flooding. His decree lets authorities deploy extra rescue teams and calls for coordination between national and regional governments, the armed forces and police. \"This will be a phenomenon that will have very severe impacts in terms of drought and floods,\" Paz said.\n\nThe threat is already biting. A government report says drought has affected at least 78,000 families across seven of Bolivia's nine departments and killed more than 75,000 cattle. With the rainy season starting, officials are also warning of floods, flash floods and landslides.\n\nThe driver is El Nino — a periodic warming of sea surface temperatures in the equatorial Pacific that scrambles global weather, bringing drought to some places and heavy rain to others. This El Nino developed in June and has strengthened fast, and is now on course to become an exceptionally strong, \"super\" event. The United Nations (UN) has described it as \"heading off the charts\" and expects it to peak in December.\n\nThe fallout stretches well beyond Bolivia. In just the past month, El Nino has been linked to wildfires in Indonesia, a supercharged typhoon in Taiwan, a hurricane on the US Gulf Coast, and water and power shortages in India after a weak monsoon. Researchers estimate the heat tied to this event could cause around 451,000 excess deaths worldwide between June 2026 and February 2027, and the UN warns the impact could last years.",
-    "why_it_matters": "A \"super\" El Nino reshapes weather across the Pacific, and Australia sits squarely in that zone — these events have historically brought hotter, drier conditions and heightened bushfire and drought risk to much of the country.",
-    "deep_analysis": "## Historical Context\n\nEl Nino is one half of a natural climate cycle centred on the tropical Pacific Ocean. When equatorial Pacific waters warm unusually, rainfall and temperature patterns shift right around the globe — some regions dry out and bake while others cop heavy downpours and flooding. Strong events are sometimes dubbed \"super\" El Ninos because of how far their effects reach. The current one, according to the article, developed in June and has strengthened rapidly since, putting it on track to be exceptionally strong, with a peak expected in December.\n\n## Multiple Perspectives\n\nFor Bolivia's government, the priority is mobilising quickly: the emergency decree is about getting rescue teams, the armed forces and police coordinating before the rainy season turns dangerous. For affected rural families — at least 78,000 of them across seven departments — the immediate crisis is already here, with over 75,000 cattle lost to drought. At the global level, the UN frames this as a multi-year challenge \"heading off the charts,\" urging Pacific nations to prepare for the worst. Researchers add a stark human toll, estimating around 451,000 excess deaths worldwide from June 2026 to February 2027 linked to the unusual heat.\n\n## What to Watch\n\nKeep an eye on whether the El Nino peaks as forecast in December and how strong it ultimately gets. In Bolivia, watch how the drought-then-flood whiplash plays out as the rainy season arrives, and whether the emergency response reaches hard-hit families and herds. Globally, the recent run of linked disasters — Indonesian wildfires, Typhoon Champi, Hurricane Isaias and India's weak monsoon — is a signal of what more could come.",
+    "id": "aa20ab95-c95d-578c-afd6-7aebe5bc2a9c",
+    "title": "US urges Venezuela to follow phased plan for democratic transition",
+    "simplified_title": "US Pushes Venezuela Toward Phased Path to Elections",
+    "quick_summary": "The United States is urging Venezuela to follow a three-phase plan of stabilisation, economic recovery and reconciliation before holding democratic elections in 2027.",
+    "simplified_body": "The United States (US) has told Venezuela to stick to a step-by-step plan before holding elections. US Secretary of State Marco Rubio met Venezuelan Foreign Minister Oliver Blanco on Monday to discuss the country's political future. In a written readout, the State Department reaffirmed US President Donald Trump's \"three-phase plan\": stabilisation, then economic recovery and political reconciliation, and finally a democratic transition.\n\nThis affects ordinary Venezuelans hoping for a change of government, as well as the US, which is chasing access to Venezuela's oil. Opposition leader Maria Corina Machado, a Nobel Peace Prize laureate who gave her 2025 medal to Trump, returned home last week to organise a movement ahead of a presidential election she says is set for 2027. She thanked Trump and Rubio for their support.\n\nFor background, the meeting comes nearly a year after US forces took former President Nicolas Maduro from Caracas to face drug trafficking charges in the US. His former vice president, Delcy Rodriguez, now serves as interim president. In September, the Trump administration said it struck a deal giving the US a stake in about one-fifth of Venezuela's oil, via a joint venture with North American Blue Energy Partners (NABEP), a firm owned by businessman Alejandro Betancourt.\n\nWhat happens next is uncertain. Rodriguez has promised elections \"with the world as witness\" but named no date. Machado says she has had no word from Rodriguez or Washington about a possible meeting, and has criticised the oil deal for lacking transparency.",
+    "why_it_matters": "Venezuela holds some of the world's largest oil reserves, so a US-brokered political transition there could reshape global energy supplies and prices that flow through to markets Australia trades in.",
+    "deep_analysis": "## Historical Context\n\nVenezuela has been in prolonged political crisis for years, with disputed leadership and a struggling economy. The current situation follows a dramatic shift: nearly a year ago, US forces removed former President Nicolas Maduro from Caracas and brought him to the US to face drug trafficking and other charges. His former vice president, Delcy Rodriguez, took over as interim president. Against that backdrop, the Trump administration has laid out a \"three-phase plan\" — stabilisation, economic recovery and political reconciliation, and democratic transition — as the roadmap for the country's future.\n\n## Multiple Perspectives\n\nThe US frames the plan as an orderly path toward elections, with Rubio pointing to a presidential vote in 2027. Opposition leader Maria Corina Machado has thanked Trump and Rubio and is organising ahead of that vote, yet she is openly sceptical of the US oil agreement, saying it \"does not reflect the levels of transparency that Venezuelan society wants\". The interim government, through Rodriguez, has promised elections \"with the world as witness\" but has not set a date. Meanwhile, the US has a clear commercial interest: a September deal would give Washington a stake in roughly one-fifth of Venezuela's oil, including a 35 percent Pentagon stake in NABEP and the right to buy 20 percent of its output at cost.\n\n## What to Watch\n\nWatch for whether an election date is actually announced, whether Machado and Rodriguez meet, and how the controversial oil deal is scrutinised. The tension between a democratic transition and US commercial oil interests is the central thread to follow.",
     "concepts": [
      {
-      "term": "El Nino",
-      "definition": "A periodic warming of sea surface temperatures in the equatorial Pacific Ocean that disrupts weather patterns worldwide, bringing drought to some regions and heavy rain to others.",
-      "context": "The article identifies El Nino as the driver behind Bolivia's expected droughts and floods, as well as disasters in several other countries."
+      "term": "three-phase plan",
+      "definition": "Trump's proposed sequence for Venezuela: first stabilisation, then economic recovery and political reconciliation, and finally a democratic transition with elections.",
+      "context": "The State Department reaffirmed this plan after the Rubio–Blanco meeting."
      },
      {
-      "term": "state of emergency",
-      "definition": "An official declaration that lets a government unlock extra powers and resources to respond to a crisis.",
-      "context": "President Rodrigo Paz declared a national one to mobilise rescue teams and coordinate agencies ahead of severe weather."
+      "term": "democratic transition",
+      "definition": "The process of moving a country toward holding free elections and a government chosen by voters.",
+      "context": "It is the final stage of the US plan, with a presidential vote flagged for 2027."
      },
      {
-      "term": "excess deaths",
-      "definition": "The number of deaths above what would normally be expected over a given period, used to measure a disaster's toll.",
-      "context": "Researchers estimate the heat tied to this El Nino could cause around 451,000 excess deaths worldwide from June 2026 to February 2027."
+      "term": "interim president",
+      "definition": "A leader who holds office temporarily until a permanent government is chosen.",
+      "context": "Delcy Rodriguez took the role after Maduro was removed."
      },
      {
-      "term": "departments",
-      "definition": "Administrative regions that a country is divided into, similar to states or provinces.",
-      "context": "Drought has affected families across seven of Bolivia's nine departments."
+      "term": "joint venture",
+      "definition": "A business arrangement where two or more parties share ownership, control and profits of a project.",
+      "context": "The US said it is forming one with NABEP to access Venezuelan oil."
      }
     ],
     "quiz": {
-     "question": "Why can a single El Nino event cause both drought and flooding in different places?",
+     "question": "According to the US plan, what must happen before Venezuela's democratic transition?",
      "options": [
-      "Because it only affects countries near the equator",
-      "Because it is caused by deliberate government weather programs",
-      "Because the warming of the equatorial Pacific disrupts global weather patterns, drying some regions while soaking others",
-      "Because it only happens during the rainy season"
+      "Stabilisation, then economic recovery and political reconciliation",
+      "Maduro must be returned to Venezuela",
+      "The oil deal must be cancelled",
+      "A new constitution must be written first"
      ],
-     "answer_index": 2,
-     "explanation": "The article explains El Nino is a warming of equatorial Pacific sea temperatures that disrupts global weather, often bringing drought to some regions and heavy rainfall to others — which is why Bolivia is bracing for both."
+     "answer_index": 0,
+     "explanation": "The three-phase plan lists stabilisation, then economic recovery and political reconciliation, and finally democratic transition."
     },
-    "background_beginner": "El Nino is a natural climate pattern that starts when the surface of the equatorial Pacific Ocean warms more than usual. That extra warmth shifts rainfall and temperatures across the whole planet, so some places suddenly face drought while others get flooded. It returns every few years, and especially strong ones are nicknamed \"super\" El Ninos. The main players here are national governments trying to protect people and crops, and the United Nations, which tracks the global picture and warns countries to prepare. It keeps making headlines because each event can trigger wildfires, storms, food and water shortages, and loss of life across many countries at once.",
-    "impact_score": 72,
-    "image_url": "https://static.dw.com/image/67050826_6.jpg",
+    "background_beginner": "Venezuela is a South American country with huge oil reserves that has spent years in political and economic turmoil. The main players here are the United States, led by President Donald Trump and Secretary of State Marco Rubio; Venezuela's interim president Delcy Rodriguez; and opposition leader Maria Corina Machado, who won a Nobel Peace Prize. The story heated up when US forces removed former President Nicolas Maduro and brought him to the US on drug charges. Now the US is pushing a step-by-step plan toward elections while also chasing a stake in Venezuela's oil. It keeps coming up because oil, power and democracy are all tangled together.",
+    "impact_score": 68,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae93e8362d4-1793670787.jpg?resize=1920%2C1440",
     "region": "North & South America",
     "region_code": "AMERICAS",
-    "description": "Bolivia has declared a national state of emergency to brace for severe droughts and floods tied to a rapidly strengthening El Nino weather pattern.",
+    "description": "The United States is urging Venezuela to follow a three-phase plan of stabilisation, economic recovery and reconciliation before holding democratic elections in 2027.",
     "tier": "GLOBAL",
-    "category": "ENVIRONMENT_CLIMATE",
+    "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/bolivia-declares-emergency-as-el-nino-intensifies-threatens-severe-weather/a-79820253?maca=en-rss-en-all-1573-rdf"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-01T19:25:55.164541+00:00",
-    "published_date": "2026-11-02",
+    "reading_minutes": 2,
+    "created_at": "2026-11-03T07:26:06.957695+00:00",
+    "published_date": "2026-11-03",
     "has_fulltext": true
    },
    {
@@ -1889,66 +1906,61 @@
     "has_fulltext": true
    },
    {
-    "id": "b210fe97-7069-566d-a093-df6ed96c0c7a",
-    "title": "Neoclouds: These firms you've never heard of are feeding fears the AI bubble could burst",
-    "simplified_title": "Little-Known 'Neocloud' Firms Fuel Fears of an AI Bubble",
-    "quick_summary": "A group of obscure companies that rent out AI computing power are racking up huge debts, and their recent share slides have investors worrying the AI boom could be heading for trouble.",
-    "simplified_body": "A corner of the tech world has suddenly landed in the spotlight. Firms known as neoclouds — companies that run warehouses packed with expensive computers and lease that power to AI developers like Anthropic, OpenAI and Meta — have seen their share prices tumble. CoreWeave, the industry leader, has lost about a quarter of its value in a month, and rivals like Nebius, IREN and Applied Digital have fallen by similar amounts. Lenders are also getting nervous and demanding higher returns.\n\nThis matters because these firms sit at the heart of the AI economy. They finance themselves by signing long-term lease contracts with Big Tech customers, then borrow money using those contracts and their AI chips as collateral. That model carries heavy debt — CoreWeave alone has accumulated $35.1bn. When Microsoft and Google recently forecast less AI spending than Wall Street expected, neocloud shares dropped.\n\nFor background: many neoclouds began as crypto mining operations (companies that generate cryptocurrencies like Bitcoin). Their infrastructure left them well-placed when AI took off in 2022 with the launch of ChatGPT. Hyperscalers — even larger data centre operators — are often both their customers and rivals.\n\nWhat happens next depends on whether AI proves to be a bubble. Gartner predicts 80% of neoclouds will cease independent operations by 2030, and Elon Musk has warned most smaller firms won't survive. Australia's Firmus just shelved plans to float on the stock market, and Microsoft recently cancelled a deal with British firm Nscale. Still, some analysts say demand for computing power currently exceeds supply.",
-    "why_it_matters": "If the AI boom cools, these heavily indebted firms could fall like dominoes and drag down the wider tech economy — and there's a direct local angle, with Australia's Firmus already shelving its plans to sell shares to the public.",
-    "deep_analysis": "## Historical Context\n\nThe neocloud story is really a story of recycled infrastructure. Several of these firms — CoreWeave, IREN, Core Scientific and Applied Digital — started life as crypto miners, companies generating cryptocurrencies like Bitcoin using rooms full of powerful computers. When OpenAI's ChatGPT launched in 2022 and AI demand exploded, that same hardware suddenly became valuable for a very different purpose. CoreWeave, for instance, was founded in 2017 to mine Ethereum before pivoting. Nebius is the odd one out, having split off from Yandex NV — Russia's version of Google — and rebranded in 2024.\n\n## Multiple Perspectives\n\nThere's a genuine split here. Bears point to the debt: analyst Cory Johnson explains that neoclouds must pay for hardware up front, so borrowing is baked into the model, and lenders sometimes lean on the creditworthiness of customers like Microsoft rather than the neoclouds themselves. Gartner and Forrester both forecast heavy consolidation, and Elon Musk has predicted mass \"death and consolidation\" among smaller players.\n\nBulls, meanwhile, argue the fundamentals hold. CoreWeave's CEO Mike Intrator says the market is behaving \"irrationally\". Treasury Secretary Scott Bessent called neoclouds \"a small component of the overall ecosystem\". Analysts at Yorkville Ives note demand for computing still exceeds supply, with neoclouds filling a gap bigger operators can't.\n\n## What to Watch\n\nKeep an eye on the planned public listings of Anthropic and OpenAI in the months ahead — their reception will signal investor appetite for AI broadly. Watch Big Tech's spending forecasts, since even small cuts rattle the sector. And note power supply constraints, which could run to 2030 and already helped scupper the Microsoft–Nscale deal.",
+    "id": "dfbcaa0a-6e42-5186-bda7-9a47ad5fd507",
+    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "simplified_title": "UK and EU Draft Deal to Cut Brexit Food Export Checks",
+    "quick_summary": "The UK and EU have agreed a draft deal to scrap post-Brexit checks and paperwork on food and farm exports, which the government says could eventually be worth £5.1bn a year.",
+    "simplified_body": "The UK and the European Union (EU) have agreed a draft deal to remove post-Brexit checks and red tape from food and agriculture exports, ahead of a UK-EU summit later this month. The BBC understands a 200-page draft text for this \"SPS\" (sanitary and phytosanitary) agreement has gone out to EU nations in Brussels. Draft texts on emissions trading and a youth travel and work scheme were circulated too, alongside a 15-page joint statement for leaders.\n\nThis affects exporters, farmers and shoppers. The deal should scrap £200 Export Health Certificates, £25 Phytosanitary certificates, inspector fees and more. UK exports of fresh sausages, burgers, shellfish and seed potatoes could resume, and pets could get passports for EU travel. Supermarkets and farmers' representatives back the plan, though some pro-Brexit campaigners dislike reapplying EU rules.\n\nFor background: when the UK left the EU's single market, new checks and paperwork hit exporters. The trade deal signed by Boris Johnson's government favoured regulatory freedom over avoiding red tape. This new deal relies on \"dynamic alignment\" — the UK committing to follow and adapt to EU standards on plant, animal and food trade. A European Partnerships Bill would give the legal mechanism for applying new EU rules.\n\nNext, EU ambassadors discuss the drafts at a meeting called Coreper on Wednesday, with numbers in a Youth Experience Scheme settled politically in coming days. The British Chambers of Commerce (BCC) says the current relationship is \"failing to deliver\" and wants the government to weigh nine options, from a customs union to rejoining. The prime minister says he wants the summit to open a conversation on a longer-term path, including possibly \"going all the way\".",
+    "why_it_matters": "Cutting food-trade red tape could make UK-EU exports cheaper and faster, and the broader \"reset\" signals how far Britain might lean back towards Europe — a shift Australian exporters and trade negotiators will watch closely as they manage their own deals with both the UK and EU.",
+    "deep_analysis": "## Historical Context\n\nWhen the UK left the EU's single market, exporters faced a wall of new checks, certificates and fees. The post-Brexit trade deal signed under Boris Johnson's government deliberately prioritised the UK's regulatory freedom over keeping frictionless trade. Nearly six years on, the British Chambers of Commerce says that relationship is \"failing to deliver\", with firms stuck in a \"thicket of Brexit red tape\". The current draft SPS (sanitary and phytosanitary) agreement is being framed as the most significant part of a broader \"Brexit reset\".\n\n## Multiple Perspectives\n\nSupermarkets and farmers' representatives back the food deal, and more than half of exporting businesses (56%, rising to 58% of manufacturers) surveyed by the BCC want EU customs paperwork and delays removed. On the other side, some pro-Brexit campaigners criticise the reapplication of EU rules, because the deal relies on \"dynamic alignment\" — the UK agreeing to follow and adapt to EU standards rather than setting its own. Areas like \"precision breeding\" of plants, where England has diverged, show the tension; transition arrangements have reportedly been struck there.\n\n## What to Watch\n\nWatch the Coreper meeting of EU ambassadors on Wednesday and the wider summit later this month. Key details on Youth Experience Scheme numbers are still to be finalised politically, and a discount on EU student fees plus reconnecting electricity markets may slip to next year. Longer term, watch whether the prime minister's talk of \"going all the way\" turns into any real move on a customs union, single market or EU membership.",
     "concepts": [
      {
-      "term": "neoclouds",
-      "definition": "Data centre companies that run warehouses full of expensive computers and lease that computing power to AI developers.",
-      "context": "The article frames neoclouds as a once-obscure but now closely watched part of the AI economy."
+      "term": "dynamic alignment",
+      "definition": "An arrangement where the UK commits to follow and adapt to the EU's existing and future rules on plant, animal and food trade standards, rather than making its own.",
+      "context": "This is the core mechanism of the food deal and the main thing pro-Brexit campaigners object to."
      },
      {
-      "term": "collateral",
-      "definition": "Assets a borrower pledges to a lender, which the lender can seize if the loan isn't repaid.",
-      "context": "Neoclouds use their lease contracts and AI chips as collateral to borrow large sums of money."
+      "term": "Export Health Certificates",
+      "definition": "Official documents, costing £200 under the current system, that exporters have needed to prove animal products meet required standards.",
+      "context": "Scrapping these is one of the headline savings the draft deal would deliver."
      },
      {
-      "term": "hyperscalers",
-      "definition": "Very large data centre operators that run computing infrastructure at massive scale.",
-      "context": "Hyperscalers are often both key customers and competitors of the smaller neocloud firms."
-     },
-     {
-      "term": "crypto mining",
-      "definition": "Using powerful computers to generate cryptocurrencies such as Bitcoin.",
-      "context": "Many neoclouds began as crypto miners and repurposed their hardware for AI."
+      "term": "customs union",
+      "definition": "An arrangement where member countries trade freely with each other and apply the same tariffs to goods from outside the group.",
+      "context": "It is one of nine future-relationship options the British Chambers of Commerce wants the government to examine."
      }
     ],
     "quiz": {
-     "question": "Why do neocloud firms typically carry so much debt?",
+     "question": "What does the UK agree to do under the draft food deal's \"dynamic alignment\"?",
      "options": [
-      "They are banned from selling shares to the public",
-      "They refuse to work with Big Tech customers",
-      "They must pay for expensive hardware up front and borrow against contracts and chips",
-      "They are required by law to hold large cash reserves"
+      "Rejoin the EU single market immediately",
+      "Follow and adapt to the EU's rules on plant, animal and food trade standards",
+      "Charge the EU a new carbon border tax",
+      "Set completely independent food standards from the EU"
      ],
-     "answer_index": 2,
-     "explanation": "The article explains that hardware has to be paid for up front, so neoclouds borrow money using their long-term lease contracts and AI chips as collateral — which is how CoreWeave built up $35.1bn in debt."
+     "answer_index": 1,
+     "explanation": "Dynamic alignment means the UK commits to observing and adapting to existing EU regulations on plant, animal and food trade standards — the main sticking point for pro-Brexit critics."
     },
-    "background_beginner": "Neoclouds are companies that own big warehouses full of powerful, pricey computers and rent that computing power to the firms building artificial intelligence, such as OpenAI, Anthropic and Meta. Many started out as crypto miners before AI took off in 2022 with ChatGPT, then switched their hardware over to the AI boom. The best-known is CoreWeave, alongside names like Nebius, IREN and Applied Digital. They keep coming up in the news because they borrow enormous amounts of money to buy their equipment, and people are now debating whether they can pay it back — and whether their troubles hint that the whole AI boom might be a bubble about to burst.",
-    "impact_score": 68,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg",
+    "background_beginner": "Brexit is the UK's departure from the European Union (EU), a group of European countries that trade freely with shared rules. When the UK left the EU's single market, companies sending food and farm goods across the Channel suddenly faced loads of new checks, certificates and fees, which slowed trade and raised costs. Ever since, businesses and farmers have pushed for an easier arrangement. The UK government is now trying a \"Brexit reset\" — a set of draft deals, including one on food, to cut that red tape ahead of a UK-EU summit. It keeps coming up because people still disagree over how closely Britain should stick to EU rules.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4d44/live/1a0b49b0-d757-11f1-93e1-3b657b665bcf.jpg",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "A group of obscure companies that rent out AI computing power are racking up huge debts, and their recent share slides have investors worrying the AI boom could be heading for trouble.",
+    "description": "The UK and EU have agreed a draft deal to scrap post-Brexit checks and paperwork on food and farm exports, which the government says could eventually be worth £5.1bn a year.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o"
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-01T19:25:56.068274+00:00",
-    "published_date": "2026-11-02",
+    "reading_minutes": 3,
+    "created_at": "2026-11-03T07:26:11.174496+00:00",
+    "published_date": "2026-11-03",
     "has_fulltext": true
    }
   ],
@@ -2335,68 +2347,8 @@
     "created_at": "2026-11-02T07:26:16.799699+00:00",
     "published_date": "2026-11-02",
     "has_fulltext": true
-   },
-   {
-    "id": "e829fe99-b7db-5487-836b-6675ace03fcc",
-    "title": "Trump says US looking ‘closely’ at report Nvidia CEO is target of China spy plot",
-    "simplified_title": "Trump backs Nvidia boss after China spy plot report",
-    "quick_summary": "President Trump says the US is looking closely at a report that Nvidia chief Jensen Huang was the target of a Chinese spy plot, while backing him as \"brilliant\".",
-    "simplified_body": "US President Donald Trump said on Saturday (Oct 31) that the US was looking \"very closely\" at a report that Jensen Huang, head of American chip giant Nvidia, had been targeted in a Chinese spy plot. The New York Times reported on Oct 29 that US intelligence officials concluded a Chinese executive linked to a Singapore-based data centre company, who had interacted with Huang, had been funnelling information to Beijing. China has dismissed the report as \"groundless speculation\".\n\nTrump offered strong personal support, calling Huang \"a great, brilliant person\" and saying \"we want to protect our brilliant people\". Asked whether he would keep Huang as an advisor, he said he would like to, \"unless we find out something to the contrary\", adding that he had always found Huang to be \"very above board\" but that it was \"a very complex issue\".\n\nHuang matters here because Nvidia makes the advanced semiconductors (the specialised chips) that power artificial intelligence (AI). The Taiwan-born businessman has advised Trump on AI policy and joined other tech CEOs (chief executive officers) on Trump's visit to Beijing in May to meet Chinese President Xi Jinping.\n\nWhat happens next is unclear. Huang has pushed for his company's chips to be sold in China, even as Beijing speeds up building its own semiconductors. The spy-plot claim remains contested between Washington and Beijing, and Trump says the matter will be checked out closely.",
-    "why_it_matters": "Nvidia's chips underpin the global AI boom, so any security cloud over its leader feeds into the wider US–China tech rivalry — a contest that shapes the technology Australian businesses, universities and governments rely on.",
-    "deep_analysis": "## Historical Context\n\nNvidia sits at the centre of the global artificial intelligence (AI) build-out, as its chips are the engines behind most advanced AI systems. That position has made the company — and its chief Jensen Huang — a focal point in the escalating technology rivalry between the United States and China. Huang has advised Trump on AI policy and travelled with other tech CEOs on Trump's May visit to Beijing to meet President Xi Jinping, underlining how closely business and geopolitics are now entwined in the chip sector.\n\n## Multiple Perspectives\n\nThe two governments are openly at odds. The New York Times reported that US intelligence officials concluded a Chinese executive linked to a Singapore-based data centre company had funnelled information to Beijing after interacting with Huang. China dismissed the report as \"groundless speculation\". Trump, for his part, backed Huang personally, praising him as \"brilliant\" and \"very above board\", while stressing it was \"a very complex issue\" and that the US would check it \"very closely\". Huang himself has advocated for selling Nvidia's chips in China, even as Beijing accelerates its own semiconductor development — a reminder that commercial and national-security interests do not always pull in the same direction.\n\n## What to Watch\n\nKey questions: whether the US investigation substantiates the spy-plot claim; whether Huang keeps his role as a Trump advisor; and how the dispute affects Nvidia's ability to sell into the Chinese market. Beijing's push to build home-grown semiconductors is worth tracking, as is any further back-and-forth between Washington and Beijing over the allegations.",
-    "concepts": [
-     {
-      "term": "Nvidia",
-      "definition": "A major US technology company that designs the specialised chips powering most advanced artificial intelligence systems.",
-      "context": "The article centres on reports that Nvidia's chief was targeted in a Chinese spy plot."
-     },
-     {
-      "term": "semiconductors",
-      "definition": "The specialised chips that power computers and AI; a key battleground in US–China tech competition.",
-      "context": "Huang has pushed to sell Nvidia's chips in China while Beijing races to build its own semiconductors."
-     },
-     {
-      "term": "spy plot",
-      "definition": "An alleged covert scheme to secretly gather and pass on information, here reportedly to Beijing.",
-      "context": "A report claimed Huang was the target of a Chinese spy plot, which China denies."
-     }
-    ],
-    "quiz": {
-     "question": "How did China respond to the report about a spy plot targeting Nvidia's chief?",
-     "options": [
-      "It confirmed the report and apologised",
-      "It arrested the executive named in the report",
-      "It asked the US to investigate jointly",
-      "It dismissed the report as \"groundless speculation\""
-     ],
-     "answer_index": 3,
-     "explanation": "The article states China dismissed the New York Times report as \"groundless speculation\", while US officials had reportedly concluded information was funnelled to Beijing."
-    },
-    "background_beginner": "Nvidia is a huge American tech company whose chips run most of the world's advanced artificial intelligence (AI). Its boss, Taiwan-born Jensen Huang, has become a well-known figure and has advised US President Donald Trump on AI policy, even joining him on a trip to Beijing to meet China's President Xi Jinping. The US and China are locked in a rivalry over who controls the most powerful computer chips, so Nvidia keeps making headlines. The latest story is a report that Huang was targeted in a Chinese spy plot — a claim the US is examining and China flatly denies.",
-    "impact_score": 62,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--bxOy1EW1--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-08T151800Z_1_LYNXMPEM971JJ_RTROPTP_3_USA-TRUMP.JPG?itok=ZrE4fqir",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "President Trump says the US is looking closely at a report that Nvidia chief Jensen Huang was the target of a Chinese spy plot, while backing him as \"brilliant\".",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/trump-says-us-looking-closely-report-nvidia-ceo-target-china-spy-plot-6510641"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "72597008-acc3-5015-8369-4d885c3f3663"
-    ],
-    "reading_minutes": 1,
-    "created_at": "2026-11-01T19:25:51.413778+00:00",
-    "published_date": "2026-11-02",
-    "has_fulltext": true
    }
   ]
  },
- "total_stories": 36
+ "total_stories": 35
 }
