@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "generated_at": "2026-11-02T19:23:03.579218+00:00",
+ "generated_at": "2026-11-03T01:23:04.171659+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -935,6 +935,68 @@
     "created_at": "2026-11-02T01:26:44.863811+00:00",
     "published_date": "2026-11-02",
     "has_fulltext": true
+   },
+   {
+    "id": "cf32843a-026d-5006-830b-28e318f4c285",
+    "title": "Shop freezers in seven European countries hit by cyber-attack",
+    "simplified_title": "Hackers crank up supermarket fridges across seven European countries",
+    "quick_summary": "A cyber-attack switched supermarket fridges and freezers into defrost mode across seven European countries, spoiling food and forcing some shops to close.",
+    "simplified_body": "Dozens of supermarkets across seven European countries were hit overnight by what companies are calling a cyber-attack on their refrigeration systems. Around 40 Delhaize stores in Belgium and Luxembourg were affected, along with shops in Sweden, Ireland, the Netherlands, Estonia and Finland. Belgian firm Sabcobel said the fridge evaporators were switched to defrost mode, making them warm up — the same trick reportedly used in an attack on hundreds of French supermarkets last month. Temperatures in some freezers rose as high as 50C.\n\nThe damage lands on shoppers and grocers alike. One Delhaize branch in Hoeilaart, Belgium, said it lost €100,000 (£83,500) worth of produce, and several stores had to shut. Big names caught up in it include Ikea, Carrefour, Spar (run by Colruyt), ICA, Coop, SuperValu and some K-stores. The EU's food commissioner, Christophe Hansen, called it \"a deliberate attempt\" to undermine confidence in Europe's food supply, but said there was no risk to food security.\n\nHere's the background: most European supermarkets connect their fridges to the internet so maintenance can be done remotely. That convenience creates a way in for attackers. This is part of a wider worry about \"operational technology\" (OT) — once-mechanical machines like fridges, cameras and alarms that can now be controlled online. US authorities are even investigating refrigeration faults at American military bases in August to see if they're linked.\n\nWhat's next is unclear. Nobody has claimed responsibility, and national cyber-security agencies in Belgium, Sweden and beyond are investigating. Sabcobel says the real fix needs physical modifications to the fridges, not just a software update, so expect ongoing repairs and tighter security.",
+    "why_it_matters": "It shows how everyday \"smart\" machines can be turned into weapons, and the same internet-connected refrigeration runs across Australian supermarkets and cold-storage chains too.",
+    "deep_analysis": "## Historical Context\n\nThis isn't the first strike. The current wave follows an attack last month in France, where police said hackers seized control of cooling units at hundreds of supermarkets, pushing temperatures up to 50C and reportedly causing fires and food losses worth millions of euros. Dutch chain Ahold Delhaize had already reported suspicious activity in its infrastructure to police before noticing the temperature spikes. The method appears consistent: switch the evaporators into defrost mode so the units heat up rather than cool. Attacks on \"operational technology\" — the machinery that runs physical processes — have grown as more of it is wired to the internet.\n\n## Multiple Perspectives\n\nSabcobel's CEO Stephan Moelans says the clear fix is managing fridges over a secure internet connection, and says most customers switched after France — but warns the units also need physical modifications, not just software patches. The EU's food commissioner frames it politically, as a \"deliberate attempt\" to undermine confidence while insisting food security is intact. Sweden's cyber chief, John Billow, points to a broader failing: Sweden has \"quite a lot of exposed operational technology devices\" that needed patching. Retailers largely describe limited impact — Carrefour said only 15 Belgian stores, Coop said seven of 800. Crucially, no one has claimed responsibility and the culprit is unknown.\n\n## What to Watch\n\nWatch whether investigators link the European attacks to the US military base refrigeration faults from August, which French and US officials are examining together. Watch for attribution — nobody has yet named who's behind it. And watch the fix: if physical modifications really are required, the vulnerability lingers until hardware is changed, leaving other internet-connected devices — cameras, heating, alarms — potentially exposed to the same style of attack.",
+    "concepts": [
+     {
+      "term": "defrost mode",
+      "definition": "A setting that stops a fridge or freezer cooling and lets it warm up to melt ice; attackers switched units into this mode remotely.",
+      "context": "Sabcobel said the units' evaporators were switched to defrost mode, making them warm up."
+     },
+     {
+      "term": "operational technology",
+      "definition": "The hardware and software that monitor or control physical machines and processes, increasingly connected to the internet.",
+      "context": "The attack is part of a wider worry about once-mechanical machines now controllable online."
+     },
+     {
+      "term": "evaporators",
+      "definition": "The part of a refrigeration system that absorbs heat to keep the inside cold; disabling it makes the unit warm up.",
+      "context": "The fridge evaporators were switched to defrost mode, causing them to warm up."
+     }
+    ],
+    "quiz": {
+     "question": "How did the attackers reportedly make the supermarket fridges warm up?",
+     "options": [
+      "By physically breaking into the shops at night",
+      "By releasing a computer virus on checkout tills",
+      "By switching the units' evaporators into defrost mode over the network",
+      "By cutting electricity to the stores"
+     ],
+     "answer_index": 2,
+     "explanation": "Sabcobel said the evaporators were remotely switched to defrost mode, the same method believed to have been used in the earlier French attack, causing temperatures to rise as high as 50C."
+    },
+    "background_beginner": "Supermarkets across Europe keep food cold using fridges and freezers that are connected to the internet, so engineers can fix and monitor them remotely. That same connection can be exploited by hackers. In October, hundreds of French supermarkets were hit when attackers took over cooling units and sent temperatures soaring, spoiling food. Now the same style of attack has spread to seven more countries, hitting well-known chains like Delhaize, Ikea, Carrefour, ICA and Coop. Nobody knows who is responsible, and no group has claimed it. It keeps coming up because so many everyday machines are now online, and securing them properly is proving harder than just updating software.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "A cyber-attack switched supermarket fridges and freezers into defrost mode across seven European countries, spoiling food and forcing some shops to close.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-03/european-grocers-report-fridge-cyber-incidents/107338760"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-03T01:25:04.507132+00:00",
+    "published_date": "2026-11-03",
+    "has_fulltext": true
    }
   ],
   "MIDDLE_EAST_AFRICA": [
@@ -1278,6 +1340,77 @@
     "created_at": "2026-11-02T19:26:25.382219+00:00",
     "published_date": "2026-11-03",
     "has_fulltext": true
+   },
+   {
+    "id": "f3befd64-766c-5742-bb4c-0b5f5a13a655",
+    "title": "Trump to remove Rwanda and South Africa from US trade deal",
+    "simplified_title": "Trump to Cut South Africa and Rwanda From US Trade Deal",
+    "quick_summary": "The United States plans to remove South Africa and Rwanda from a programme that lets many African goods enter the US tax-free, starting 1 January 2027.",
+    "simplified_body": "US President Donald Trump has told Congress he intends to remove South Africa and Rwanda from the African Growth and Opportunity Act (AGOA), a programme that lets eligible African countries export thousands of products to the US duty-free. US Trade Representative Jamieson Greer said an annual review found both countries were acting in ways that break the programme's eligibility rules. The change would take effect from 1 January 2027.\n\nThis matters most for South Africa, which has been AGOA's biggest beneficiary, exporting about $1.7 billion worth of goods — including car parts, citrus fruit and wine — to the US under the programme in 2025. South Africa's citrus industry warned that jobs and whole communities are now at stake. Rwanda, whose main US exports are coffee, tea and minerals, was already sanctioned last week over its alleged support of the M23 rebel group in the Democratic Republic of Congo (DR Congo), which it denies.\n\nAGOA was introduced in 2000 under former US President Bill Clinton and has run for 26 years, covering over 1,800 products from more than 30 countries. To stay eligible, nations must reduce barriers to US trade, keep an open market economy, and uphold the rule of law, human rights and worker protections. Washington cited trade barriers, corruption, national security and foreign policy concerns for both countries.\n\nSouth Africa says it saw this coming. Its Trade Ministry noted AGOA makes up only about 10% of its exports to the US and 1% of its global exports, and President Cyril Ramaphosa has been seeking new markets and deals with partners like China. The government says it will support affected sectors.",
+    "why_it_matters": "It shows how the US is increasingly tying trade access to political and foreign-policy demands — a shift that reshapes global trade rules Australia also relies on, and signals how smaller economies may need to diversify toward partners like China.",
+    "deep_analysis": "## Historical Context\n\nAGOA was signed into law in 2000 under US President Bill Clinton and became a cornerstone of American economic engagement with sub-Saharan Africa. For 26 years it has given more than 30 countries duty-free access to the US market across over 1,800 products, with eligibility reviewed every year against standards on market economies, governance, human rights and labour. Trump actually extended the programme back in February of this year, making the move to drop these two countries a notable reversal. Rwanda has been here before — it was also suspended in 2018.\n\n## Multiple Perspectives\n\nWashington frames this as enforcement: Greer says both governments are breaking AGOA's rules, citing trade barriers, national security and foreign policy concerns. For Rwanda, the US added human rights, political pluralism and the rule of law, coming just a week after sanctions over its alleged role backing M23 rebels in DR Congo. For South Africa, the US pointed to corruption and foreign policy friction — including South Africa's genocide case against Israel at the International Court of Justice, and Trump's disputed claim of \"white genocide,\" which South Africa's government calls a falsehood spread by fringe groups. South Africa, for its part, says it was prepared, that AGOA is only a slice of its trade, and that it remains open to dialogue while courting new partners.\n\n## What to Watch\n\nWatch whether South Africa and Rwanda formally respond before the January 2027 start date, and whether any negotiation reopens eligibility. Keep an eye on South Africa's citrus and auto sectors, which face the most exposure, and on how fast Pretoria pivots toward China and other markets. More broadly, this tests whether AGOA's rules-based model survives an era of transactional US trade policy.",
+    "concepts": [
+     {
+      "term": "African Growth and Opportunity Act (AGOA)",
+      "definition": "A US law from 2000 that lets eligible sub-Saharan African countries export thousands of products to the US without paying import taxes, reviewed annually.",
+      "context": "The programme South Africa and Rwanda are being removed from."
+     },
+     {
+      "term": "duty-free",
+      "definition": "Goods that can be imported without paying the usual tax (tariff) charged at the border.",
+      "context": "AGOA's main benefit is duty-free access to the US market."
+     },
+     {
+      "term": "eligibility criteria",
+      "definition": "The conditions a country must meet to stay in a programme — here, things like open markets, rule of law, human rights and reducing trade barriers.",
+      "context": "The US says both countries failed to meet AGOA's eligibility rules."
+     },
+     {
+      "term": "M23 rebel group",
+      "definition": "An armed rebellion operating in eastern DR Congo that the US alleges Rwanda has backed with troops and weapons.",
+      "context": "Rwanda was sanctioned over its alleged support of M23 shortly before this decision."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the AGOA decision hit South Africa's economy less hard than it might first appear?",
+     "options": [
+      "The change will not take effect until 2030",
+      "The US agreed to replace AGOA with a better deal",
+      "South Africa does not actually export anything to the US",
+      "AGOA exports are only about 10% of its exports to the US and 1% of its global exports"
+     ],
+     "answer_index": 3,
+     "explanation": "South Africa's Trade Ministry noted that AGOA exports make up only about 10% of its total exports to the US and 1% of its total global exports, so while it matters, it is not the whole trade relationship."
+    },
+    "background_beginner": "The African Growth and Opportunity Act, or AGOA, is a US law from 2000 that lets many African countries sell goods to the US without paying import taxes. It's meant to boost African economies while encouraging good governance, and countries must pass a yearly check to stay in. The main players here are US President Donald Trump's administration, which wants to remove South Africa and Rwanda, and the two African governments themselves. The topic keeps coming up because the US increasingly links trade perks to political behaviour — South Africa clashes with Washington over foreign policy and disputed claims about its treatment of white farmers, while Rwanda faces pressure over its alleged role in conflict in neighbouring DR Congo.",
+    "impact_score": 58,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "The United States plans to remove South Africa and Rwanda from a programme that lets many African goods enter the US tax-free, starting 1 January 2027.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-03T01:25:03.662101+00:00",
+    "published_date": "2026-11-03",
+    "has_fulltext": true
    }
   ],
   "AMERICAS": [
@@ -1419,6 +1552,77 @@
     "reading_minutes": 1,
     "created_at": "2026-11-01T19:25:55.164541+00:00",
     "published_date": "2026-11-02",
+    "has_fulltext": true
+   },
+   {
+    "id": "fe51d88f-aa5d-5346-b6d3-58e4f17548b3",
+    "title": "Supreme Court rejects Trump request to set aside California ballots",
+    "simplified_title": "Supreme Court Lets California Count 20,000 Disputed Ballots",
+    "quick_summary": "On the eve of the US midterm elections, the Supreme Court refused the Trump administration's bid to make California set aside more than 20,000 mail-in ballots it claims belong to non-citizens.",
+    "simplified_body": "The United States Supreme Court has declined to help President Donald Trump's administration force California to hold back the ballots of more than 20,000 voters it claims are not citizens. The Department of Justice (DoJ) filed an emergency request just one day before the midterm elections, asking the court to stop California \"commingling\" suspected illegal ballots with legal ones until each voter's status could be checked. Within hours, the court said no.\n\nThis matters most to California's roughly 23 million registered voters, who received mailed ballots. The state says the list — compiled by the Department of Homeland Security (DHS) — is unreliable and likely sweeps up thousands of genuine US citizens. With hundreds of thousands of ballots already processed, officials say it would be nearly impossible to pull the disputed ones back out.\n\nFor newcomers: midterm elections happen halfway through a presidential term and decide control of the US Congress. California leans heavily Democratic and isn't a close contest for Trump's Republicans. The DoJ, run by Trump's former personal attorney Todd Blanche, first sued in October; a district judge and an appeals court both knocked it back. Judge David Carter warned that discounting votes over \"unproven allegations\" puts democracy in danger, and noted people flagged as non-citizens elsewhere have often turned out to be naturalised citizens.\n\nAn analysis shared with an immigrant rights group and a UCLA voting watchdog found thousands of US citizens on the list appear wrongly flagged. Trump has long made false fraud claims, though studies show ineligible voting is rare. Expect more legal and political sparring as results come in and Republicans fight to keep Congress.",
+    "why_it_matters": "The ruling shows the courts pushing back against an unprecedented federal attempt to intervene in a state election mid-count — a reminder, even from afar, of how fragile trust in voting systems can become when fraud claims outrun the evidence.",
+    "deep_analysis": "## Historical Context\n\nDisputes over who gets to vote are old in the United States, but a federal government asking courts to freeze a state's ballots on the eve of an election is genuinely unusual. Judge David Carter said no administration had ever before tried, on the eve of an election, to \"coerce a state and local government to abandon their own constitutional elections procedures.\" The case sits inside a longer pattern: Trump has made unfounded claims of election fraud for years, despite repeated investigations finding such wrongdoing is exceedingly rare. This cycle, the focus has narrowed to the claim that non-citizens are voting.\n\n## Multiple Perspectives\n\nThe Department of Justice argues it holds a Department of Homeland Security list of non-citizens on California's rolls, and that once those ballots mix in with others there's no way to remove them later if a voter is found ineligible — hence the request to set them aside first. California counters that the list is flawed and full of errors, and that singling out ballots would disenfranchise eligible voters and damage trust. An independent analysis shared with an immigrant rights group and a UCLA watchdog backs the state, finding thousands of apparent US citizens inexplicably flagged. Carter also noted people flagged elsewhere have repeatedly turned out to be naturalised citizens.\n\n## What to Watch\n\nThe Supreme Court has now twice declined to help restrict voting this cycle — it also rejected an effort to limit mail-in voting in September. Watch whether the administration mounts further challenges as results land, how the midterm fight for Congress plays out, and what the full list analysis ultimately shows about error rates.",
+    "concepts": [
+     {
+      "term": "midterm elections",
+      "definition": "US elections held halfway through a president's four-year term that decide control of Congress, the national law-making body.",
+      "context": "These were held the day after the Supreme Court's decision, with Republicans fighting to keep control."
+     },
+     {
+      "term": "Department of Justice (DoJ)",
+      "definition": "The US federal government's legal arm, which brings lawsuits and prosecutions on the government's behalf.",
+      "context": "It filed the emergency request to set aside the California ballots."
+     },
+     {
+      "term": "Department of Homeland Security (DHS)",
+      "definition": "The US federal agency responsible for immigration, border and national security matters.",
+      "context": "It compiled the list of voters the administration claimed were non-citizens."
+     },
+     {
+      "term": "commingling",
+      "definition": "Mixing things together so they can no longer be told apart or separated.",
+      "context": "The DoJ wanted to stop disputed ballots being commingled with legal ones before voters' status was checked."
+     }
+    ],
+    "quiz": {
+     "question": "Why did California argue against setting the 20,000 ballots aside?",
+     "options": [
+      "Because the Supreme Court had already banned mail-in voting",
+      "Because the Homeland Security list is unreliable and likely includes thousands of eligible citizens",
+      "Because the state wanted to delay the midterm elections",
+      "Because counting mail-in ballots is illegal in California"
+     ],
+     "answer_index": 1,
+     "explanation": "California said the DHS list was flawed and full of errors, and an analysis found thousands of apparent US citizens wrongly flagged — so setting the ballots aside risked disenfranchising eligible voters."
+    },
+    "background_beginner": "In the United States, elections are run by individual states, not the federal government. California — the most populous state and strongly Democratic — mails ballots to its millions of registered voters. President Donald Trump's administration, through the Department of Justice, claimed more than 20,000 of those ballots belonged to non-citizens and asked courts to hold them back until each voter's status was verified. California said the list was unreliable. Lower courts and then the Supreme Court refused. This keeps coming up because Trump has for years claimed US elections are plagued by fraud, even though investigations repeatedly find such cases are very rare.",
+    "impact_score": 68,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae8d40278a8-1793643522.jpg?resize=1920%2C1440",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "On the eve of the US midterm elections, the Supreme Court refused the Trump administration's bid to make California set aside more than 20,000 mail-in ballots it claims belong to non-citizens.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "5b8a1b39-89df-5e85-911c-e1927954bb87",
+     "62398d2d-7d31-58bf-a489-4048ea06358d",
+     "6a387773-8ffa-5738-8d01-51ae523cbb89"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-11-03T01:25:01.577442+00:00",
+    "published_date": "2026-11-03",
     "has_fulltext": true
    },
    {
@@ -2194,5 +2398,5 @@
    }
   ]
  },
- "total_stories": 33
+ "total_stories": 36
 }
