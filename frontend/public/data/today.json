@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "generated_at": "2026-11-03T19:23:03.516381+00:00",
+ "generated_at": "2026-11-04T01:23:03.763577+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -480,6 +480,64 @@
     "reading_minutes": 2,
     "created_at": "2026-11-03T07:26:13.906595+00:00",
     "published_date": "2026-11-03",
+    "has_fulltext": true
+   },
+   {
+    "id": "1329e802-ce36-57f6-aadd-dec6a3945c0e",
+    "title": "Former Indonesian national police chief among three arrested for the alleged illegal wiretapping of Prabowo",
+    "simplified_title": "Ex-Indonesian Police Chief Arrested Over Alleged Wiretapping of President",
+    "quick_summary": "Indonesian police have arrested three people, including the country's former national police chief, over the alleged illegal tapping of President Prabowo Subianto's phone and those of other senior figures.",
+    "simplified_body": "Indonesian police announced late on Tuesday 3 November 2026 that they had arrested three suspects accused of illegally wiretapping President Prabowo Subianto and a string of senior officials. Officials named the trio only by the initials LSP, ASN and EH, but several Indonesian media outlets, including Kompas, identified LSP as Listyo Sigit Prabowo — the former National Police chief who now serves as Chief of Presidential Staff. Local media named the others as police legal division chief Ahrie Sonta Nasution and Inspector-General Eko Hadi Santoso.\n\nPolice say the suspects intercepted phone numbers belonging to the president, state officials, political figures, journalists, leaders of mass organisations, non-governmental organisations (NGOs) and businesspeople — all without following the proper procedures set out under police interception rules. The alleged tapping took place between 2025 and 2026 with no link to any genuine law enforcement inquiry. In October 2026, the suspects allegedly ordered files to be deleted from the police's Lawful Interception Management System (LIMS) to \"cover their tracks\". Investigators seized 11 mobile phones, an iPad and four USB drives.\n\nListyo had led the national police since 2021, appointed by then-President Joko Widodo, serving under both Widodo and Prabowo. He was removed as police chief on 1 October 2026 during a Cabinet reshuffle and then made Chief of Presidential Staff. A fourth person, SU, is still being questioned as a witness.\n\nThe purpose of the wiretapping is still under investigation, says Coordinating Minister Yusril Ihza Mahendra, and cannot yet be disclosed. The three face charges over illegal wiretapping, unauthorised access to electronic systems, and altering or deleting others' electronic data, carrying maximum sentences of 10, six and eight years respectively.",
+    "why_it_matters": "When a nation's own former top cop is accused of secretly tapping the president's phone, it raises serious questions about how surveillance powers are policed — a concern that resonates anywhere, including Australia, where lawful interception also depends on strict oversight.",
+    "deep_analysis": "## Historical Context\n\nLawful interception — the legal tapping of phones and electronic communications by authorities — exists in most countries, but it is meant to be tightly controlled and tied to a specific inquiry or investigation. In Indonesia, these powers sit with the police and are governed by interception regulations, with records kept in the Lawful Interception Management System (LIMS). The case here hinges on the allegation that these powers were used far outside those rules, against the very president the police are meant to serve.\n\nListyo Sigit Prabowo (no relation implied in the article to President Prabowo Subianto) had been national police chief since 2021, a long tenure spanning two presidencies. His removal on 1 October 2026 and immediate reassignment to Chief of Presidential Staff, as part of a broader Cabinet reshuffle, now sits in sharp contrast to his arrest roughly a month later.\n\n## Multiple Perspectives\n\nFrom the police investigators' side, the case is framed as a clear breach: numbers intercepted with no connection to any legitimate law enforcement process, followed by a deliberate deletion of files to hide the activity. From a due-process angle, the suspects have only been named by initials by officials, with full identities coming from local media — and no court has tested the allegations. The government, through Coordinating Minister Yusril Ihza Mahendra, is deliberately holding back on the central question of motive, saying it is still under examination.\n\n## What to Watch\n\nThe biggest unanswered question is *why* — who ordered or benefited from the surveillance, and whether it stops at the three named suspects or the witness SU. Also worth watching: whether the formal charges match the initials-based naming, how the courts treat the deleted LIMS evidence, and what the case means for oversight of Indonesia's interception powers going forward.",
+    "concepts": [
+     {
+      "term": "Lawful Interception Management System (LIMS)",
+      "definition": "The police system used to manage and record legally authorised phone and electronic surveillance; the suspects allegedly deleted files from it to hide their activity.",
+      "context": "Central to the case because tampering with it is part of the charges."
+     },
+     {
+      "term": "wiretapping",
+      "definition": "Secretly intercepting someone's phone calls or electronic communications, which is only legal when done under strict rules tied to a genuine investigation.",
+      "context": "The core alleged offence against the president and other officials."
+     },
+     {
+      "term": "non-governmental organisations (NGOs)",
+      "definition": "Independent groups not run by government, often working on social, humanitarian or advocacy causes.",
+      "context": "Listed among the many targets whose phone numbers were allegedly intercepted."
+     }
+    ],
+    "quiz": {
+     "question": "What made the alleged wiretapping illegal, according to police?",
+     "options": [
+      "It used technology that is banned in Indonesia",
+      "It targeted only the president and no one else",
+      "It was carried out by foreign agents rather than Indonesian police",
+      "It was done without following interception procedures and had no link to any legitimate investigation"
+     ],
+     "answer_index": 3,
+     "explanation": "Police say the numbers were intercepted without following proper procedures and with no connection to any inquiry or investigation required under law — which is what makes it unlawful rather than legitimate surveillance."
+    },
+    "background_beginner": "Indonesia is a large democracy in Southeast Asia led by President Prabowo Subianto. Its national police force has the legal power to tap phones, but only under strict rules and for genuine investigations. This story centres on Listyo Sigit Prabowo, who ran the national police from 2021 until October 2026, when President Prabowo removed him and made him Chief of Presidential Staff. Weeks later, police arrested him and two others, accusing them of secretly tapping the president's phone and those of many officials, journalists and others — then deleting the records to hide it. The case keeps drawing attention because it involves surveillance powers being allegedly turned against the country's own leader.",
+    "impact_score": 58,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--8ZuScxbF--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/03/000_c9wb48p.jpg?itok=NaZooyfp",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "Indonesian police have arrested three people, including the country's former national police chief, over the alleged illegal tapping of President Prabowo Subianto's phone and those of other senior figures.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-police-suspects-illegal-wiretapping-prabowo-subianto-6517306"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-04T01:28:00.318910+00:00",
+    "published_date": "2026-11-04",
     "has_fulltext": true
    },
    {
@@ -1086,9 +1144,148 @@
     "created_at": "2026-11-02T19:26:25.382219+00:00",
     "published_date": "2026-11-03",
     "has_fulltext": true
+   },
+   {
+    "id": "f3befd64-766c-5742-bb4c-0b5f5a13a655",
+    "title": "Agoa: Donald Trump to remove Rwanda and South Africa from US trade deal",
+    "simplified_title": "Trump to drop South Africa and Rwanda from Agoa trade deal",
+    "quick_summary": "President Trump has told Congress he intends to remove South Africa and Rwanda from a trade programme that lets African nations export to the US duty-free, effective 1 January 2027.",
+    "simplified_body": "US President Donald Trump has notified Congress he plans to drop South Africa and Rwanda from the African Growth and Opportunity Act (Agoa), a programme that lets eligible African countries export thousands of products to the United States without paying duties. US Trade Representative Jamieson Greer said an annual review found both countries were acting in ways inconsistent with the programme's eligibility rules. The change would take effect from 1 January 2027.\n\nFor South Africa, Washington cited corruption, barriers to American trade and investment, and concerns over the country's relations with governments it finds troubling. South Africa's Trade Minister Parks Tau called the decision \"unfortunate\" and said the US was raising new issues not previously discussed. South Africa argues the hit is limited: only about 10% of its 2025 exports to the US used Agoa, with the programme's value falling to roughly $1.7bn in 2025 from $4bn the year before.\n\nAgoa has existed for years as a way to boost trade with Africa. Relations have soured lately. Trump has accused South Africa of persecuting its white minority and repeated widely discredited claims of a genocide of white South Africans. For Rwanda, the US raised concerns about human rights, the rule of law and workers' rights, days after sanctioning Rwanda's defence ministry over its role backing M23 rebels in eastern Democratic Republic of Congo (DR Congo) — which Rwanda denies despite the evidence.\n\nWhat happens next is uncertain. South Africa says it will speed up finding new export markets to protect jobs, while an Oxford Economics analyst warned affected manufacturing exports may be hard to redirect. For Rwanda, the US makes up only about 2% of its exports, so the direct blow looks small.",
+    "why_it_matters": "It signals how far Trump is willing to use trade access as leverage in disputes over politics and security, reshaping US–Africa economic ties — a pattern worth watching from Australia, which trades heavily with the US and competes in similar minerals and manufacturing markets.",
+    "deep_analysis": "## Historical Context\n\nThe African Growth and Opportunity Act (Agoa) is a long-running US programme that grants eligible African countries duty-free access to the American market for thousands of products. Eligibility is reviewed annually against criteria that cover trade practices, rule of law, human rights and workers' rights. Over time, countries have been added and removed depending on whether they meet those standards.\n\nSouth Africa's reliance on Agoa has already been shrinking. Government figures show around 10% of its exports to the US used the programme in 2025, down from 28% in 2024, with about 89% entering under ordinary World Trade Organization most-favoured-nation terms. The value of exports under Agoa fell to about $1.7bn in 2025 from $4bn the year before.\n\n## Multiple Perspectives\n\nWashington frames the removals as the predictable result of countries failing to meet eligibility rules. US Trade Representative Jamieson Greer cited trade barriers, corruption and national security concerns, and the US ambassador called South Africa's outcome \"predictable and preventable.\"\n\nPretoria disagrees, with Trade Minister Parks Tau arguing the US raised new issues not part of negotiations that began in 2025, and stressing the broader $28.8bn trade relationship, more than 600 American companies operating locally, and South Africa's supply of critical minerals and medical isotopes. Analysts are mixed: one Oxford Economics economist warned of pressure on manufacturing amid Chinese competition, while noting South Africa has previously redirected exports to Europe and China.\n\n## What to Watch\n\nWatch whether South Africa can genuinely diversify its export markets before the 1 January 2027 start date, and whether the automotive and manufacturing sectors absorb real damage. For Rwanda, watch the link between the Agoa decision and the recent sanctions over the M23 conflict in eastern DR Congo — and whether trade pressure shifts its stance.",
+    "concepts": [
+     {
+      "term": "African Growth and Opportunity Act (Agoa)",
+      "definition": "A US law letting eligible African countries export thousands of products to the United States without paying import duties, subject to an annual eligibility review.",
+      "context": "Trump has notified Congress he wants to remove South Africa and Rwanda from this programme."
+     },
+     {
+      "term": "duty-free",
+      "definition": "Goods that can be imported without paying the usual import taxes (duties), making them cheaper to sell in the destination market.",
+      "context": "Agoa lets eligible African countries export to the US duty-free."
+     },
+     {
+      "term": "most-favoured-nation terms",
+      "definition": "A World Trade Organization rule where a country gives all its trading partners the same standard tariff treatment, rather than special deals.",
+      "context": "About 89% of South African exports to the US entered under ordinary World Trade Organization most-favoured-nation terms in 2025."
+     },
+     {
+      "term": "M23 rebels",
+      "definition": "An armed rebel group fighting in eastern Democratic Republic of Congo that the US says Rwanda has been backing.",
+      "context": "The US sanctioned Rwanda's defence ministry over its role backing M23 rebels in eastern DR Congo."
+     }
+    ],
+    "quiz": {
+     "question": "Why does South Africa argue the loss of Agoa benefits may be less damaging than it sounds?",
+     "options": [
+      "Because the US buys almost none of its goods",
+      "Because Agoa benefits only apply to raw minerals, which it no longer exports",
+      "Because only about 10% of its 2025 US exports used Agoa, down from 28% in 2024",
+      "Because it has already signed a replacement free-trade deal with the US"
+     ],
+     "answer_index": 2,
+     "explanation": "South African figures show roughly 10% of its exports to the US used Agoa in 2025 (down from 28% in 2024), with most entering under ordinary WTO terms, so the programme covers a shrinking share of its trade."
+    },
+    "background_beginner": "The African Growth and Opportunity Act, or Agoa, is a US programme that lets certain African countries sell thousands of products in America without paying import taxes. To stay in, countries must pass a yearly check covering things like trade rules, human rights and the rule of law. The main players here are US President Donald Trump's administration, which wants to remove South Africa and Rwanda, and the two governments themselves. Tensions have been building: Trump has clashed with South Africa over claims about its white minority, while Rwanda has been accused of backing rebels in neighbouring DR Congo. It keeps coming up because trade access is now being used as leverage in bigger political fights.",
+    "impact_score": 58,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "President Trump has told Congress he intends to remove South Africa and Rwanda from a trade programme that lets African nations export to the US duty-free, effective 1 January 2027.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-04T01:28:00.946536+00:00",
+    "published_date": "2026-11-04",
+    "has_fulltext": true
    }
   ],
   "AMERICAS": [
+   {
+    "id": "e6c79d17-1ee7-594f-af94-02864e98b995",
+    "title": "Democrats likely to gain control of Congress in US midterm elections as Senate lead expands",
+    "simplified_title": "Democrats favoured to seize Congress in US midterm elections",
+    "quick_summary": "Forecasts and early results point to the Democrats being strong favourites to wrest control of Congress from the Republicans in the 2026 US midterm elections.",
+    "simplified_body": "Americans voted on 3 November 2026 in the midterm elections, filling all 435 seats in the House of Representatives, 35 of the 100 Senate seats, and 36 state governorships. Going in, US analyst Nate Silver's forecast model gave the Democrats an 82% chance of winning the Senate and a 96% chance of winning the House. Early in the count, the Democrats won the Senate race in Virginia and held onto seats in states including Massachusetts, Illinois and Georgia, where Senator Jon Ossoff defeated Republican Mike Collins.\n\nThis matters because, under the US Constitution, most big federal decisions need Congress's approval. If the Democrats take one or both chambers, it becomes much harder for President Donald Trump to govern as he pleases. Midterms happen halfway through a president's term and are widely seen as a referendum on him — and Trump's approval is low, though the sources differ on how low (Silver's aggregate has about 38% approving, while an Associated Press, or AP, exit poll puts it just under 30%).\n\nSome background a newcomer needs: the Republicans held both chambers only narrowly beforehand — 53–47 in the Senate and 220–215 in the House. Because of Republican gerrymandering (redrawing electorate boundaries to favour one party), the Democrats need a sizeable lead on the generic ballot — a national \"which party will you vote for\" poll — to actually win seats. They led by 9.4 points. The Democrats need a net gain of four Senate seats to take control.\n\nWhat next? Results trickle in from the US east coast westward. The settled picture won't be clear immediately, with outcomes ranging from a narrow Republican hold to a big Democratic majority depending on tight races in states like Iowa, Texas, Ohio and Alaska.",
+    "why_it_matters": "A Democratic Congress could stall much of Trump's agenda for his final two years, reshaping everything from trade to the war in Iran — shifts that ripple out to allies like Australia. For Aussies, the results land late Wednesday morning AEDT.",
+    "deep_analysis": "## Historical Context\n\nMidterm elections fall at the halfway point of a presidential term and almost always double as a verdict on the sitting president. History offers a sharp parallel: the sources note that in the 2006 midterms, George W. Bush's Republicans lost both chambers of Congress when his approval was low. Trump's numbers are being described as the worst for a president at this point in the term since Harry Truman, with Joe Biden the closest comparison. The Republicans went in defending wafer-thin majorities — 53–47 in the Senate and 220–215 in the House — the kind of razor-thin margins that have become the norm in recent years.\n\n## Multiple Perspectives\n\nThe forecast and the early returns broadly agree the Democrats are favoured, but the picture is nuanced. Nate Silver's model gives the Democrats strong odds, yet he cautions the range of plausible outcomes is wide — from a narrow Republican Senate majority (if polls overstate Democrats by four points, leaving North Carolina their only gain) to a 55–44 Democratic majority. There's a genuine data discrepancy worth flagging: The Conversation cites Silver's aggregate with Trump at about 38% approval, while DW cites an AP voter poll putting approval just under 30% — different methods, different pictures. Republicans blame rising living costs on the previous administration and point to falling petrol prices; Democrats, like Ossoff, frame the race as a rebuke of a \"failed president\". Exit polls suggest half of voters saw the election as a chance to rebuke Trump.\n\n## What to Watch\n\nKeep an eye on the toss-up Senate races where Democrats lead only narrowly — Kansas, Iowa, Texas, Alaska and Ohio — all states Trump won by double digits in 2024. Montana is a curiosity: with a Republican, an independent and a Democrat splitting the vote, the first-past-the-post system could hand victory to the leading candidate on a minority of votes. Also watch the economy: petrol prices have dropped sharply, which could help Republicans, while the stock market has slid and some gloss has come off the AI boom.",
+    "concepts": [
+     {
+      "term": "midterm elections",
+      "definition": "US elections held halfway through a president's four-year term, deciding all House seats and a third of the Senate; widely read as a verdict on the sitting president.",
+      "context": "The 2026 midterms are being treated as a referendum on Donald Trump's first two years back in office."
+     },
+     {
+      "term": "generic ballot",
+      "definition": "A national poll asking voters which party they'd back, without naming specific candidates — a rough gauge of the overall mood.",
+      "context": "Democrats led the generic ballot by 9.4 points, but gerrymandering means they need a solid lead just to win a majority of seats."
+     },
+     {
+      "term": "gerrymandering",
+      "definition": "Drawing electoral boundaries to favour one party, so its votes translate into more seats than its opponents'.",
+      "context": "Republican gerrymandering means Democrats need around a four-point national lead to have a good shot at the House."
+     },
+     {
+      "term": "first-past-the-post",
+      "definition": "A voting system where the candidate with the most votes wins, even without a majority, and there's no preference-counting.",
+      "context": "In Montana, a three-way split could let the leading candidate win on a minority of the vote."
+     }
+    ],
+    "quiz": {
+     "question": "Why could winning Congress make it harder for President Trump to govern as he chooses?",
+     "options": [
+      "Because the generic ballot directly removes presidential powers",
+      "Because the president is replaced if his party loses the midterms",
+      "Because most big federal decisions need Congress's approval before they can be implemented",
+      "Because governors outrank the president under the US Constitution"
+     ],
+     "answer_index": 2,
+     "explanation": "The sources explain that under the US Constitution, most federal decisions must be approved by Congress, so a Democratic-controlled Congress could block much of Trump's agenda — even though he keeps his job."
+    },
+    "background_beginner": "The United States holds \"midterm\" elections every four years, halfway through a president's term. Voters choose the whole House of Representatives and about a third of the Senate — the two chambers of Congress that must sign off on most national laws. Right now the president is Donald Trump, a Republican, and his party held tiny majorities in both chambers. The rival party is the Democrats. Because Congress can block or pass a president's plans, these elections decide how much Trump can achieve in his remaining years. Midterms keep mattering because they act as a national scorecard on the president, and this year his approval ratings are unusually low, raising Democratic hopes of a comeback.",
+    "impact_score": 82,
+    "image_url": "https://images.theconversation.com/files/769462/original/file-20261102-78-k55wi8.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C8640%2C4320&q=45&auto=format&w=1356&h=668&fit=crop",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Forecasts and early results point to the Democrats being strong favourites to wrest control of Congress from the Republicans in the 2026 US midterm elections.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Conversation",
+      "url": "https://theconversation.com/democrats-likely-to-gain-control-of-congress-in-us-midterm-elections-as-senate-lead-expands-295460"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "5b8a1b39-89df-5e85-911c-e1927954bb87",
+     "62398d2d-7d31-58bf-a489-4048ea06358d",
+     "7bf6a571-7176-5abf-b69b-7c3e7bbc6c0b",
+     "bbf1a2f0-de04-500f-9c0e-5df8e112d929"
+    ],
+    "reading_minutes": 7,
+    "created_at": "2026-11-04T01:28:09.716315+00:00",
+    "published_date": "2026-11-04",
+    "has_fulltext": true
+   },
    {
     "id": "62398d2d-7d31-58bf-a489-4048ea06358d",
     "title": "Trump, Vance and candidates campaign on last day before US midterms",
@@ -1164,6 +1361,64 @@
     "reading_minutes": 3,
     "created_at": "2026-11-02T19:26:28.120703+00:00",
     "published_date": "2026-11-03",
+    "has_fulltext": true
+   },
+   {
+    "id": "f7a1b98e-7636-5ad2-b8b6-0f55130901c5",
+    "title": "Another child dies of measles as CDC reportedly holds up health alert",
+    "simplified_title": "Child Dies of Measles in New York as Cases Surge",
+    "quick_summary": "A child in New York has died of measles — the state's first such death in over 30 years and the seventh measles-linked death in the US this year.",
+    "simplified_body": "Health officials in New York announced late Monday that a child has died of measles. It's the first measles-associated death in the state in more than 30 years, and the seventh reported in the US this year. The other six were all in Pennsylvania, which is in the grip of a severe outbreak that has struck more than 1,430 people in 2026. Before this year, Pennsylvania hadn't seen a measles death in 35 years.\n\nThe surge in these outbreaks is being driven by falling vaccination rates, as health misinformation and anti-vaccine sentiment spread. The article notes that one of America's most prominent anti-vaccine activists, Robert F. Kennedy Jr., now serves as US health secretary. He and his organisation, Children's Health Defense, have long been major sources of anti-vaccine content, and since taking office he has moved to dismantle federal vaccine recommendations and promote claims of vaccine harm.\n\nMeasles is a highly contagious virus that was once a common childhood illness but became rare in wealthy countries thanks to widespread vaccination. When enough people skip the jab, the virus comes roaring back — and it can be deadly, especially for children. The CDC (Centers for Disease Control and Prevention) is the main US public health agency; it reportedly held up a related health alert.\n\nNew York Governor Kathy Hochul tied the death directly to Kennedy's policies, calling it \"a devastating reminder of what's at stake when Washington deliberately erodes decades of progress.\" New York has now reported 170 measles cases across more than a dozen counties. Expect continued political fighting over vaccine policy as case numbers climb.",
+    "why_it_matters": "Measles was declared eliminated in places like Australia through high vaccination rates, so a resurgence in the US is a stark warning of how quickly that protection can unravel when confidence in vaccines slips.",
+    "deep_analysis": "## Historical Context\n\nMeasles is one of the most contagious diseases known, and before vaccines it was a near-universal childhood illness that killed and disabled many. Widespread immunisation turned it into a rarity across wealthy nations. The article underlines just how unusual these deaths are: New York hadn't recorded a measles death in more than 30 years, and Pennsylvania hadn't in 35. That long gap is itself evidence of how well vaccination worked — and how significant it is that the disease is now killing again.\n\n## Multiple Perspectives\n\nGovernor Kathy Hochul frames the death as a direct result of federal policy, saying Washington is \"deliberately\" eroding decades of public health progress. The article attributes the broader resurgence to slipping vaccination rates fuelled by misinformation and anti-vaccine sentiment. It identifies US health secretary Robert F. Kennedy Jr. — a long-time anti-vaccine activist — as a central figure, describing moves to dismantle vaccine recommendations and promote claims of harm. The article does not include a response from Kennedy or federal health officials, so their side isn't represented here. The reported holding-up of a CDC health alert is presented as an unconfirmed claim (\"reportedly\").\n\n## What to Watch\n\nKeep an eye on whether Pennsylvania's outbreak of over 1,430 cases keeps growing and whether New York's 170 cases spread further across its dozen-plus counties. The political clash between state leaders and federal health officials over vaccine policy is likely to intensify, and any confirmation about the CDC alert would be worth watching.",
+    "concepts": [
+     {
+      "term": "measles",
+      "definition": "A highly contagious viral disease, preventable by vaccine, that can cause serious complications and death, especially in young children.",
+      "context": "The article reports a child's death from measles amid rising US outbreaks."
+     },
+     {
+      "term": "anti-vaccine",
+      "definition": "Opposed to vaccination, often promoting claims that vaccines are harmful despite strong scientific evidence of their safety and benefit.",
+      "context": "The US health secretary is described as a prominent anti-vaccine activist."
+     },
+     {
+      "term": "CDC (Centers for Disease Control and Prevention)",
+      "definition": "The main US federal public health agency, responsible for monitoring and responding to disease outbreaks.",
+      "context": "The CDC reportedly held up a health alert related to the measles situation."
+     }
+    ],
+    "quiz": {
+     "question": "According to the article, what is the main reason given for the surge in measles cases and deaths?",
+     "options": [
+      "A new, more dangerous strain of the measles virus",
+      "Increased international travel after the pandemic",
+      "A shortage of measles vaccines across the US",
+      "Falling vaccination rates driven by misinformation and anti-vaccine sentiment"
+     ],
+     "answer_index": 3,
+     "explanation": "The article states the boom in outbreaks and deaths is being fuelled by slipping vaccination rates as health misinformation and anti-vaccine sentiment take hold."
+    },
+    "background_beginner": "Measles is a very contagious virus that used to be a common and sometimes deadly childhood illness. Vaccines made it rare in wealthy countries, so any death now is big news. In the US, measles is making a comeback: Pennsylvania has had a large outbreak and six deaths this year, and now a child in New York has died too — the state's first measles death in over three decades. Experts link the resurgence to more people skipping vaccines, encouraged by misinformation. Robert F. Kennedy Jr., a long-time anti-vaccine campaigner, is now the US health secretary, making vaccine policy a heated political fight.",
+    "impact_score": 72,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "A child in New York has died of measles — the state's first such death in over 30 years and the seventh measles-linked death in the US this year.",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-04T01:27:57.997819+00:00",
+    "published_date": "2026-11-04",
     "has_fulltext": true
    },
    {
@@ -1356,64 +1611,6 @@
     "reading_minutes": 1,
     "created_at": "2026-11-03T19:27:13.147378+00:00",
     "published_date": "2026-11-04",
-    "has_fulltext": true
-   },
-   {
-    "id": "06382d76-4443-5606-a7b0-5739e1e16ec7",
-    "title": "Bomb attack in western Colombia kills four, including baby, local official says",
-    "simplified_title": "Truck bomb kills four, including a baby, in western Colombia",
-    "quick_summary": "A lorry packed with explosives blew up near a military base in Planadas, Colombia, killing at least four people, including a two-month-old girl.",
-    "simplified_body": "A lorry (truck) loaded with explosives detonated on Sunday near a military base in the town of Planadas, in Tolima province, western Colombia. A local official says at least four people were killed, including a two-month-old baby girl. The blast also damaged a nearby hospital and several other buildings. Nobody has yet claimed responsibility.\n\nThe attack hits civilians and soldiers alike, and Tolima's governor, Adriana Magali Matiz, condemned it as \"a vile and criminal act\". It comes amid a wider surge in violence: armed criminal groups appear to be retaliating against a military crackdown ordered by the country's new leaders. Some recent attacks have even used drones rather than cars or motorcycles to carry the explosives.\n\nFor background, Colombia has long struggled with violence from many illegal armed groups. Former left-wing President Gustavo Petro pushed a \"total peace strategy\", betting that negotiations could end the fighting, though he later paused some talks after the terms were breached. His successor, right-wing President Abelardo de la Espriella — sworn in during August — scrapped several of those peace talks and launched an offensive, including bombing the groups' camps.\n\nDe la Espriella says he will not \"retreat, not even a millimetre\", vowing to continue bombings against military targets and to hunt down those responsible. With both sides escalating, further attacks and military operations look likely in the months ahead.",
-    "why_it_matters": "It shows how quickly a hardline, \"no negotiation\" security policy can trigger retaliation that kills civilians — a grim pattern worth watching as governments worldwide, including Australia, debate tough-on-crime approaches.",
-    "deep_analysis": "## Historical Context\n\nColombia has endured decades of conflict involving guerrilla movements, paramilitaries and drug-trafficking organisations. Governments have swung between negotiated settlements and military force. The most recent swing is stark: left-wing President Gustavo Petro championed a \"total peace strategy\" built on talks, arguing dialogue was the only route out of violence, before putting some negotiations on hold after repeated breaches. His right-wing successor, Abelardo de la Espriella, took office in August and reversed course — ending several peace talks and ordering an offensive that includes bombing armed groups' camps.\n\n## Multiple Perspectives\n\nThe government frames its crackdown as restoring security, with de la Espriella insisting \"criminals will have no political status, no leniency, and no impunity\". Local authorities like Governor Matiz share the outrage at the attack while stressing the harm to civilians and soldiers. The armed groups, meanwhile, have answered the military pressure with escalating attacks on security forces — a cycle in which each side's hardening justifies the other's. The Planadas bombing, with a baby among the dead, underscores the human cost that falls on ordinary people caught between them.\n\n## What to Watch\n\nWatch whether any group claims the Planadas attack, which would clarify the retaliation narrative. Note the shift to drone-delivered explosives, seen in recent incidents — a tactical change that is harder to defend against. And watch whether de la Espriella's \"no retreat\" stance deepens the cycle of attack and counter-attack, and how many more civilians are harmed as a result.",
-    "concepts": [
-     {
-      "term": "total peace strategy",
-      "definition": "Former President Gustavo Petro's approach of trying to end violence through negotiations with Colombia's illegal armed groups rather than purely by force.",
-      "context": "Petro argued only talks could end the violence, but paused some negotiations after the terms were breached."
-     },
-     {
-      "term": "retaliation",
-      "definition": "Hitting back in response to an attack or action — here, armed groups striking at security forces after the government's offensive.",
-      "context": "The bombing appears linked to armed groups retaliating against a military crackdown."
-     },
-     {
-      "term": "military base",
-      "definition": "A site where a country's armed forces are stationed and operate from.",
-      "context": "The lorry exploded near a military base in Planadas, also damaging a hospital."
-     }
-    ],
-    "quiz": {
-     "question": "Why does the article suggest armed groups have stepped up attacks on Colombia's security forces?",
-     "options": [
-      "In retaliation for a military offensive ordered against them",
-      "Because a natural disaster disrupted the region",
-      "To force the government to lower taxes",
-      "To support the former president's peace talks"
-     ],
-     "answer_index": 0,
-     "explanation": "The article says the attacks appear to be retaliation for the offensive ordered by President de la Espriella, who ended peace talks and began bombing the groups' camps."
-    },
-    "background_beginner": "Colombia, in South America, has struggled for decades with violence from various illegal armed and drug-trafficking groups. Governments keep debating two approaches: negotiating peace or fighting the groups militarily. The previous left-wing president, Gustavo Petro, favoured talks under a \"total peace\" plan. The new right-wing president, Abelardo de la Espriella, took office in August and switched to a tough crackdown, scrapping talks and bombing the groups' camps. In response, those groups have escalated their own attacks on soldiers and police. This tit-for-tat keeps making headlines because each side's actions trigger the other's, and ordinary civilians often get caught in the crossfire.",
-    "impact_score": 48,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1e32/live/fa815d50-d6b6-11f1-aacc-5b5f23abff4b.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "A lorry packed with explosives blew up near a military base in Planadas, Colombia, killing at least four people, including a two-month-old girl.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqn06n30l406o"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-02T19:26:59.417909+00:00",
-    "published_date": "2026-11-03",
     "has_fulltext": true
    }
   ],
@@ -2069,5 +2266,5 @@
    }
   ]
  },
- "total_stories": 31
+ "total_stories": 34
 }
