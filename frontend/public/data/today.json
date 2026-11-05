@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-04T19:23:03.769561+00:00",
+ "generated_at": "2026-11-05T01:23:04.367892+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -75,6 +75,69 @@
     "reading_minutes": 4,
     "created_at": "2026-11-03T19:26:45.306964+00:00",
     "published_date": "2026-11-04",
+    "has_fulltext": true
+   },
+   {
+    "id": "c46aad47-bc83-57bd-9cbf-a4f15d337bd8",
+    "title": "Education ministers agree to biggest school system shake-up in years",
+    "simplified_title": "Education Ministers Agree to Biggest School Shake-Up in Years",
+    "quick_summary": "Australia's education ministers have agreed to major school reforms, including new antisemitism lessons, mandatory civics, a maths overhaul, a \"digital detox\" on screens and AI, and a single new commission to support teachers.",
+    "simplified_body": "Education ministers met this week and agreed to the biggest shake-up of the school system in years, responding to Australia's lowest ever scores in international and national tests. From next year, students will learn about \"the evils of antisemitism and the horrors of the Holocaust\" through new national curriculum resources developed after the Bondi Beach attack and designed by David Gonski's antisemitism education taskforce. Ministers are also considering making civics and citizenship lessons compulsory in years nine and 10, after students recorded their worst-ever civics scores, with 72 per cent not understanding the basics of democracy.\n\nThis affects teachers, students and parents right across the country. As a backlash grows against screen time and education technology, ministers agreed to set up an Australian Schools Digital Detox Taskforce to restrict screen time and the use of AI (artificial intelligence). They have already agreed to return year five NAPLAN (National Assessment Program – Literacy and Numeracy) writing tests to paper.\n\nFor newcomers: these changes follow 20 years of declining results. Ministers also agreed to a new national maths curriculum for the first three years of primary school, introducing financial literacy, with NAPLAN showing one in three students not meeting minimum numeracy expectations. A new Teaching and Learning Commission will merge four existing bodies — ACARA, AITSL, AERO and ESA — to handle curriculum, teacher standards, testing and research.\n\nNext, ministers will survey parents, students and teachers as they weigh further reforms. The move also comes as experts condemned Google over reports it plans to ban schools from using its search engine if they block the company's AI features.",
+    "why_it_matters": "These reforms touch every Australian classroom — from how maths and civics are taught to how much screen time and AI kids use — and are a direct response to two decades of sliding national test results.",
+    "deep_analysis": "## Historical Context\n\nAustralia runs a national curriculum alongside state and territory school systems, so big changes usually require agreement from all education ministers meeting together. For years, results have been slipping: the article notes 20 years of declining school outcomes, Australia's lowest ever scores on international and national tests, worst-ever civics scores (72 per cent of students not understanding the basics of democracy), and NAPLAN numeracy results showing one in three students below minimum expectations. The antisemitism resources were developed in the wake of the Bondi Beach attack, with a taskforce led by prominent businessman and education figure David Gonski.\n\n## Multiple Perspectives\n\nEducation Minister Jason Clare frames the package as both lifting results and building character — teaching democracy, \"Australian values\" and essential life skills like financial literacy, while \"stamping out racism in all its noxious forms\". On technology, there is clear tension: Swinburne University AI expert Atie Kia argues schools should be able to limit generative AI \"when students need to do the thinking themselves\" but shouldn't have to lose Google Search to do so — a pointed response to reports Google plans to ban schools from its search engine if they block its AI features. The \"digital detox\" reflects a broader backlash against screens in classrooms.\n\n## What to Watch\n\nWatch whether civics becomes genuinely mandatory in years nine and 10, and what the new maths and antisemitism resources look like once rolled out from next year. The survey of parents, students and teachers will shape the next round of reforms. Keep an eye on how merging four bodies — ACARA, AITSL, AERO and ESA — into one Teaching and Learning Commission plays out, and how the standoff between schools and Google over AI and search is resolved.",
+    "concepts": [
+     {
+      "term": "NAPLAN",
+      "definition": "The National Assessment Program – Literacy and Numeracy, Australia's standardised tests measuring students' reading, writing and maths skills.",
+      "context": "The article says year five NAPLAN writing tests will return to paper, and NAPLAN results show one in three students below minimum numeracy expectations."
+     },
+     {
+      "term": "civics and citizenship",
+      "definition": "Lessons teaching students how democracy and government work and what it means to be an active, informed citizen.",
+      "context": "Ministers are considering making civics and citizenship compulsory in years nine and 10 after record-low scores."
+     },
+     {
+      "term": "Teaching and Learning Commission",
+      "definition": "A proposed new national body that would merge four existing education agencies to oversee curriculum, teacher standards, testing and research.",
+      "context": "The commission will bring together ACARA, AITSL, AERO and ESA to simplify support for teachers and schools."
+     },
+     {
+      "term": "generative AI",
+      "definition": "Artificial intelligence that can create content like text or answers, which schools may want to limit when students need to do their own thinking.",
+      "context": "An AI expert argued schools should be able to limit generative AI without losing access to Google Search."
+     }
+    ],
+    "quiz": {
+     "question": "What is the main reason education ministers agreed to this package of reforms?",
+     "options": [
+      "To cut school funding across the states",
+      "To replace state-run schools with federal schools",
+      "To introduce more screen time and AI into classrooms",
+      "To respond to Australia's lowest ever test scores and declining results"
+     ],
+     "answer_index": 3,
+     "explanation": "The reforms respond to Australia's lowest ever scores on international and national tests and 20 years of declining results, covering civics, maths, antisemitism education and a 'digital detox'."
+    },
+    "background_beginner": "In Australia, schools are mainly run by the states and territories, but the country also shares a national curriculum, so the biggest changes need all education ministers to agree at a joint meeting. The federal Education Minister, Jason Clare, helps lead these national efforts. Over the past 20 years, Australian students' results on big tests have been sliding, and recent scores in civics (how democracy works) and numeracy hit record lows. Businessman David Gonski, long involved in education reviews, is leading work on antisemitism lessons after the Bondi Beach attack. These issues keep coming up because governments are under pressure to lift standards, teach \"Australian values\", and decide how much technology and AI belong in the classroom.",
+    "impact_score": 72,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/9eeabb280136770ad2bbae5a197d6dbc?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Australia's education ministers have agreed to major school reforms, including new antisemitism lessons, mandatory civics, a maths overhaul, a \"digital detox\" on screens and AI, and a single new commission to support teachers.",
+    "tier": "LOCAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-05/education-ministers-agree-to-biggest-shake-up-in-years-of-school/107348312"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-05T01:24:58.551136+00:00",
+    "published_date": "2026-11-05",
     "has_fulltext": true
    },
    {
@@ -281,129 +344,61 @@
     "has_fulltext": true
    },
    {
-    "id": "b95f6822-47e1-52cb-ae3a-e65c04eb03a2",
-    "title": "Australia is set to get a Wegovy pill. How does it compare with weight-loss injections?",
-    "simplified_title": "Australia approves first Wegovy weight-loss pill, a daily tablet option",
-    "quick_summary": "Australia's medicines regulator has approved a daily Wegovy tablet, giving people a swallowable alternative to the weekly weight-loss injection.",
-    "simplified_body": "Australia's Therapeutic Goods Administration (TGA) has registered a tablet version of Wegovy, which contains the medicine semaglutide. Until now, the best-known weight-loss medicines in this group have generally needed weekly injections. The TGA approved four strengths (1.5mg, 4mg, 9mg and 25mg), making it the first glucagon-like peptide-1 (GLP-1) medicine approved in Australia as a tablet specifically for weight management.\n\nThe pill is for adults living with obesity, or people who are overweight with other weight-related health conditions; some people with heart disease may also be prescribed it to lower their risk of heart attack or stroke. It copies a natural hormone that reduces hunger, boosts fullness and slows digestion. The tablet must be taken daily on an empty stomach with a 30-minute wait before eating, while the injection is weekly and can be taken any time. Trials showed similar results: about 14% body weight loss for the tablet versus 15% for the injection.\n\nA newcomer should know TGA approval is not the same as a Pharmaceutical Benefits Scheme (PBS) listing. Approval means doctors can prescribe it; a PBS listing means the government subsidises the cost. Wegovy is not PBS-subsidised for weight management, so patients should expect to pay full price. Common side effects affect around 80% of patients, including nausea and diarrhoea, with rarer serious effects like pancreatitis.\n\nMaker Novo Nordisk aims to have tablets available by the end of the year, after the TGA finalises packaging and pricing. The injection costs A$250–$450 a month and the pill is likely to be similar. It is not a magic fix: it is meant to be used alongside diet and exercise, and research found people regained about two-thirds of lost weight within a year of stopping.",
-    "why_it_matters": "For the many Australians who dislike or struggle with needles, a daily pill offers a genuine alternative — but with no PBS subsidy, the A$250–$450 monthly cost will keep it out of reach for plenty of people.",
-    "deep_analysis": "## Historical Context\n\nWeight-loss and diabetes medicines based on the hormone GLP-1 have surged in popularity in recent years. The best-known names — semaglutide (sold as Wegovy or Ozempic) and tirzepatide (sold as Mounjaro) — have generally been delivered as weekly injections. That demand has had knock-on effects: needle and syringe programs have reportedly been overwhelmed by requests for needles used for GLP-1s and other peptides. A swallowable tablet is the logical next step, removing the needle barrier for people who can't or won't inject.\n\n## Multiple Perspectives\n\nFor patients who fear needles or have trouble using them, the tablet is a real win and could cut injection-related injuries. But it trades one hassle for another: it must be taken daily on an empty stomach with a 30-minute wait, so its success leans on consistent habit rather than a single weekly jab. Clinicians raise a broader caution — short appointments can skip proper screening for eating disorders, body image and psychological issues, and previous research has flagged a link between suicidal thoughts and GLP-1 use. The article's framing is clear that these are prescription treatments, not a quick fix for shedding a few kilos.\n\n## What to Watch\n\nWatch for the TGA's final review of packaging, production and retail pricing, and whether Novo Nordisk hits its end-of-year availability goal. Official pricing is still unreleased. The bigger question is PBS listing: without subsidy, cost stays high. Also worth watching is how \"lifestyle prescribing\" — clear GP plans for healthy eating, exercise and weight training to avoid muscle loss — is applied in practice, given weight tends to return when people stop.",
+    "id": "e4c57169-6acf-5833-9db5-1c4ba14224d7",
+    "title": "Essential workers being priced out of rental market, report shows",
+    "simplified_title": "Essential Workers Priced Out of Australia's Rental Market",
+    "quick_summary": "A new Anglicare report finds nurses, teachers, cleaners and other essential workers can now afford only a tiny fraction of Australia's rental listings.",
+    "simplified_body": "Anglicare's annual Rental Affordability Snapshot has found that essential workers are being squeezed out of Australia's private rental market. The report surveyed 48,776 rental listings and checked them against the full-time minimum wage for 16 essential jobs. Retail workers, social workers and cleaners could afford fewer than 1 per cent of listings, while nurses and teachers managed just 1.1 and 3.3 per cent. Of the 16 occupations, only three saw affordability improve since last year.\n\nThis hits people who keep communities running. Social worker Allie Thompson, a single mother in Brisbane, is paying $740 a week for rent — about half her income — and has stopped some medications and dental visits to cope. Nurse Silvia Laing, in Albany in Western Australia (WA), has cut back on holidays and eating out. Even Anglicare's own Pilbara manager was knocked back three times before finding a home in Karratha, where average rent is around $1,700 a week.\n\nFor background: Anglicare is a charity that runs this snapshot each year to measure whether low-paid, full-time workers can keep a roof over their heads. Property analyst Cotality found unit rents jumped 44.3 per cent and house rents 36.6 per cent over five years — more than double wage growth.\n\nAnglicare is calling on the federal government to build more social and affordable housing, or shift existing homes into social housing. Executive director Kasy Chambers blames decades of governments stepping back from funding housing and over-relying on the private market. The federal housing minister was contacted for comment.",
+    "why_it_matters": "This is a squarely Australian story showing that even a full-time job in a respected profession no longer guarantees you can afford to rent — a breakdown of the old \"work hard and you'll have a home\" bargain that affects workers in every state.",
+    "deep_analysis": "## Historical Context\n\nFor decades, Australians were sold a simple promise: train for a job, work full-time, and you could afford a decent home. Anglicare's Kasy Chambers calls this an old \"social contract\" that no longer holds. She points to roughly 40 years of consecutive governments stepping back from building and funding public housing, leaving the private market to do the heavy lifting. The Rental Affordability Snapshot has become an annual yardstick for just how far that promise has slipped, measuring real listings against what low-paid essential workers actually earn.\n\n## Multiple Perspectives\n\nWorkers themselves describe real trade-offs — skipping medication, dental care and holidays just to make rent. For them, the question is becoming whether staying in a community-serving job is even worth it. Anglicare frames the problem as structural: not necessarily a shortage of houses overall, but too few social and affordable homes, and it wants the federal government to act. The report also notes regional pressure points, like resource companies driving up rents in the Pilbara. The federal housing minister was contacted for comment but their response isn't recorded here, so the government's side is not yet represented.\n\n## What to Watch\n\nWatch whether the federal government responds to Anglicare's call for more social housing, and whether future snapshots show affordability stabilising or sliding further. Keep an eye on the gap between wage growth and rent growth — Cotality's figures suggest rents have been rising more than twice as fast. Regional hotspots driven by mining demand are also worth watching, as they can push even well-paid professionals out.",
     "concepts": [
      {
-      "term": "semaglutide",
-      "definition": "The active medicine in Wegovy that copies a natural hormone to reduce hunger and slow digestion.",
-      "context": "Used in both the new tablet and the existing injection."
+      "term": "Rental Affordability Snapshot",
+      "definition": "Anglicare's yearly report that checks real rental listings against what people in low-paid jobs earn, to see how many homes they can actually afford.",
+      "context": "Anglicare's annual Rental Affordability Snapshot has found that essential workers are being squeezed out of Australia's private rental market."
      },
      {
-      "term": "glucagon-like peptide-1 (GLP-1)",
-      "definition": "A naturally occurring hormone that helps regulate blood sugar, appetite and digestion, which these medicines mimic.",
-      "context": "The new pill is the first GLP-1 medicine approved in Australia as a tablet for weight management."
+      "term": "minimum wage",
+      "definition": "The lowest hourly or weekly pay an employer is legally allowed to give a worker.",
+      "context": "The report surveyed 48,776 rental listings and checked them against the full-time minimum wage for 16 essential jobs."
      },
      {
-      "term": "Therapeutic Goods Administration (TGA)",
-      "definition": "Australia's medicines and medical products regulator, which approves what can be prescribed.",
-      "context": "The TGA registered four strengths of the Wegovy tablet."
-     },
-     {
-      "term": "Pharmaceutical Benefits Scheme (PBS)",
-      "definition": "The Australian government scheme that subsidises the cost of listed medicines.",
-      "context": "Wegovy is not PBS-subsidised for weight management, so patients pay full price."
+      "term": "social housing",
+      "definition": "Homes provided or funded by government (or charities) at below-market rents for people who can't afford private rentals.",
+      "context": "Anglicare is calling on the federal government to build more social and affordable housing, or shift existing homes into social housing."
      }
     ],
     "quiz": {
-     "question": "Why might a Wegovy tablet be harder for some people to use effectively than the weekly injection?",
+     "question": "According to the Anglicare report, what is the main reason essential workers can afford so few rentals?",
      "options": [
-      "It can only be taken at night with a full meal",
-      "It must be injected into the stomach each morning",
-      "It must be taken daily on an empty stomach with a 30-minute wait before eating",
-      "It only works if combined with another injection"
+      "Interest rates have been cut sharply",
+      "Wage growth has not kept up with rising rents",
+      "Too many people are moving overseas",
+      "Essential workers refuse to live in regional areas"
      ],
-     "answer_index": 2,
-     "explanation": "The article notes the pill relies on people taking it daily on an empty stomach and not eating or drinking within half an hour, rather than just remembering a weekly jab."
+     "answer_index": 1,
+     "explanation": "The report found rents (units up 44.3 per cent, houses up 36.6 per cent over five years) rose more than twice as fast as wages, so pay hasn't kept pace with rent."
     },
-    "background_beginner": "Weight-loss medicines like Wegovy, Ozempic and Mounjaro have become hugely popular worldwide. They work by mimicking a natural gut hormone that curbs appetite and slows digestion, helping people feel full on less food. Until now the main versions needed a weekly injection, which puts off people who dislike needles. Companies such as Novo Nordisk, which makes Wegovy, have been racing to offer easier formats. In Australia, before any medicine can be prescribed it must be approved by the regulator, the TGA — and separately, it only becomes cheap for patients if the government adds it to its subsidy scheme. This story keeps coming up because demand is enormous, the drugs are pricey, and debate continues about safe use.",
-    "impact_score": 62,
-    "image_url": "https://images.theconversation.com/files/769905/original/file-20261104-78-2yx9qy.jpg?ixlib=rb-4.1.1&rect=0%2C342%2C5400%2C2700&q=45&auto=format&w=1356&h=668&fit=crop",
+    "background_beginner": "Anglicare is an Australian charity that each year releases a \"Rental Affordability Snapshot\" — a check of thousands of real rental ads to see how many a low-paid worker could actually afford. This year it looked at nearly 49,000 listings and 16 essential jobs like nursing, teaching, retail and cleaning. The finding: these workers can afford almost none of them. It keeps coming up because rents across Australia have climbed much faster than wages for years, while governments have built little public housing. The result is that even people with steady, full-time, community-serving jobs now struggle to keep a roof over their heads.",
+    "impact_score": 68,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/eb91666c5df2e0577a9e7b403d8d830d?impolicy=wcms_watermark_news&cropH=4608&cropW=8192&xPos=0&yPos=219&width=862&height=485&imformat=generic",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "Australia's medicines regulator has approved a daily Wegovy tablet, giving people a swallowable alternative to the weekly weight-loss injection.",
+    "description": "A new Anglicare report finds nurses, teachers, cleaners and other essential workers can now afford only a tiny fraction of Australia's rental listings.",
     "tier": "LOCAL",
-    "category": "HEALTH",
+    "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "The Conversation",
-      "url": "https://theconversation.com/australia-is-set-to-get-a-wegovy-pill-how-does-it-compare-with-weight-loss-injections-295857"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-05/essential-workers-priced-out-of-rental-market/107346978"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
     "reading_minutes": 4,
-    "created_at": "2026-11-04T07:26:02.489049+00:00",
-    "published_date": "2026-11-04",
-    "has_fulltext": true
-   },
-   {
-    "id": "266f3163-fb9f-56c6-a554-277a0d6c26c8",
-    "title": "Major Queensland hospital to close pathology labs amid potential formaldehyde exposure investigation",
-    "simplified_title": "Major Brisbane hospital to close its pathology labs permanently",
-    "quick_summary": "Mater will permanently close and outsource all in-house pathology at its Brisbane and Springfield hospitals, affecting 400 staff, after a chemical exposure scare and ongoing financial pressure.",
-    "simplified_body": "In-house pathology services at Mater's Brisbane and Springfield hospitals will permanently close, with testing outsourced to specialist providers including Sullivan Nicolaides Pathology and Pathology Queensland. The decision affects 400 staff and covers all pathology work, including the lab that tests foetus and newborn tissue after unexpected deaths.\n\nIt started on 24 September, when the Brisbane anatomical pathology lab was shut on short notice over possible exposure to formalin — a hazardous liquid of water and formaldehyde that can irritate eyes, nose and airways and is linked to a higher risk of some cancers. Staff were already wearing respiratory gear as a precaution, and after 17 samples were taken on 21 September, one worker's personal monitor returned a result above workplace exposure standards. Mater says that abnormal result is still being investigated.\n\nMater, a not-for-profit major teaching hospital jointly funded by Queensland Health and Mater Private Hospitals, says reopening would need major long-term infrastructure investment. In an internal email, it said \"there is no quick or simple solution\" and that its current pathology operating model \"is not sustainable over the longer term.\" It insists patient care won't suffer.\n\nThe United Workers Union warns the switch isn't simply a change of employer: different providers run under different enterprise agreements, so workers could lose a substantial part of their income and conditions while doing the same job. Queensland Health says most services have already moved across, with Pathology Queensland absorbing a small rise in perinatal autopsies within existing capacity.",
-    "why_it_matters": "For Queenslanders, one of the state's biggest hospitals is handing off all its lab testing — including sensitive newborn death investigations — which reshapes where patients' samples go and puts 400 local jobs in question.",
-    "deep_analysis": "## Historical Context\n\nPathology is the behind-the-scenes engine of modern medicine: blood tests, biopsies and tissue analysis that guide diagnosis and treatment. Running a hospital lab increasingly depends on scale, specialist staff, expensive technology and logistics — which is why many hospitals have moved toward larger private or centralised providers. Mater itself describes its current operating model as no longer sustainable, framing this closure as part of a sector-wide shift rather than a one-off. The immediate trigger, though, was a safety scare: formalin is a long-recognised hazardous chemical in labs, managed through ventilation and handling protocols, and a reading above exposure standards forced the Brisbane lab shut.\n\n## Multiple Perspectives\n\nMater presents this as a considered response to both a safety problem and long-term financial strain, promising no impact on patient care and more resources for clinical work. Queensland Health distances itself, saying Mater is responsible for its own pathology decisions, while noting Pathology Queensland has quietly picked up some perinatal autopsies. The United Workers Union sees it very differently, warning that moving staff to providers on different enterprise agreements could strip income and conditions even when the work stays identical. The internal email acknowledges staff have \"lived with questions about the future\" for some time — hinting the end was not sudden to those inside.\n\n## What to Watch\n\nKey unknowns: the outcome of the formaldehyde exposure investigation; whether the 400 affected staff get genuine redeployment or are left worse off under new employers; and how smoothly sensitive services, like foetal and newborn tissue testing, transfer without gaps. Watch whether other hospitals follow Mater's reasoning and outsource their own labs.",
-    "concepts": [
-     {
-      "term": "pathology",
-      "definition": "The branch of medicine that studies tissue, blood and other samples in a lab to diagnose disease and investigate deaths.",
-      "context": "Mater is closing its in-house pathology labs and outsourcing the testing to specialist providers."
-     },
-     {
-      "term": "formalin",
-      "definition": "A hazardous liquid made of water and formaldehyde, used to preserve tissue samples; it can irritate airways and is linked to some cancers.",
-      "context": "The Brisbane lab was shut after a worker's monitor showed formalin exposure above safe limits."
-     },
-     {
-      "term": "enterprise agreements",
-      "definition": "Workplace deals that set pay and conditions for staff at a particular employer.",
-      "context": "The union warns different providers run under different enterprise agreements, so staff could lose income."
-     },
-     {
-      "term": "perinatal autopsies",
-      "definition": "Examinations performed after the death of a foetus or newborn to find the cause.",
-      "context": "Pathology Queensland has taken on a small increase in perinatal autopsies after the Mater closure."
-     }
-    ],
-    "quiz": {
-     "question": "What two factors did Mater give for permanently closing its pathology labs?",
-     "options": [
-      "A government order and a merger with another hospital",
-      "A nurses' strike and a cyber attack",
-      "A patient complaint and a shortage of beds",
-      "A potential formaldehyde exposure scare and long-term financial unsustainability"
-     ],
-     "answer_index": 3,
-     "explanation": "Mater linked the closure to both a safety concern over potential formalin (formaldehyde) exposure and its view that its current pathology operating model is not financially sustainable."
-    },
-    "background_beginner": "Mater is a large Brisbane-based hospital group, run as a not-for-profit and jointly funded by Queensland Health and Mater Private Hospitals. Like all hospitals, it relies on pathology — the lab testing of blood, tissue and other samples — to diagnose illness and investigate deaths. In late September 2026, one of Mater's labs was shut when a staff member's monitor showed exposure to formalin (a hazardous preserving chemical) above safe limits. That scare, combined with ongoing money pressures, led Mater to decide to close all its in-house labs and send the work to outside providers. It keeps coming up because it touches worker safety, 400 jobs, and how sensitive tests are handled.",
-    "impact_score": 48,
-    "image_url": "https://i.guim.co.uk/img/media/6004c7d7ba1b87e251c616fd48cdbee2362799f9/458_0_4583_3667/master/4583.jpg?width=1920&quality=85&auto=format&fit=max&s=88f11b7247c523f687b412cbc49e5f97",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Mater will permanently close and outsource all in-house pathology at its Brisbane and Springfield hospitals, affecting 400 staff, after a chemical exposure scare and ongoing financial pressure.",
-    "tier": "LOCAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/major-queensland-hospital-to-close-pathology-labs-amid-potential-formaldehyde-exposure-investigation"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-03T19:27:13.271558+00:00",
-    "published_date": "2026-11-04",
+    "created_at": "2026-11-05T01:24:57.055464+00:00",
+    "published_date": "2026-11-05",
     "has_fulltext": true
    }
   ],
@@ -1863,8 +1858,71 @@
     "created_at": "2026-11-03T19:27:16.802347+00:00",
     "published_date": "2026-11-04",
     "has_fulltext": true
+   },
+   {
+    "id": "49ae6bd5-7658-5e7c-992c-29c263983b53",
+    "title": "Meta is training its AI on millions of Australians, but now you can stop it",
+    "simplified_title": "Meta Lets Australians Opt Out of AI Training, Quietly",
+    "quick_summary": "Meta has quietly offered Australians a hidden form to stop their public Facebook and Instagram data being used to train its artificial intelligence, but never told anyone it existed.",
+    "simplified_body": "Meta, the company behind Facebook and Instagram, has had an \"objection\" form available to Australians since July 2025 that lets people stop their public data being used to train its artificial intelligence (AI). The catch? Meta never announced it. The form sits buried in privacy settings, and word has only spread recently through users sharing tips among themselves.\n\nThis matters to the millions of Australians whose photos, posts and comments — some going back to 2007 — have been feeding Meta's AI systems. Digital rights advocates argue that an opt-out nobody knows about isn't really a genuine choice. As Tom Sulston from Digital Rights Watch put it, there's a clear commercial reason for Meta to hoover up as much data as it can.\n\nHere's the background: in mid-2024 there was a public backlash when Meta's AI training was revealed. Australians were told they couldn't opt out — unlike people in the European Union (EU), who have stronger privacy protections. If you submit the form, Meta says it'll email confirming it won't use your public data going forward. Accounts set to \"private\", all private messages, and accounts belonging to under-18s are already exempt.\n\nSo why the change now? Meta hasn't said, and the Australian Privacy Act hasn't shifted. The Office of the Australian Information Commissioner (OAIC) has been assessing Meta's conduct and plans to publish its findings in the coming months. Some advocates reckon Meta's move is a pre-emptive one — doing just enough to claim it's acting, without really changing much.",
+    "why_it_matters": "Millions of Australians have had their public posts and photos used to train Meta's AI without a clear way to say no — and the regulator's verdict, due in coming months, could reshape what tech giants are allowed to do with local users' data.",
+    "deep_analysis": "## Historical Context\n\nThe tension here goes back to mid-2024, when it emerged that Meta was training its AI on Australians' photos, posts and comments stretching back to 2007. At the time, Australians were told they couldn't opt out because local privacy protections are weaker than those in the European Union, where an objection form had already been available since 2024. Australia only got its own version in July 2025 — a full year later — and Meta made no separate announcement when it arrived. For context, large AI models are typically trained on enormous amounts of text and images scraped from the internet, which is why platforms sitting on years of user content are such valuable sources.\n\n## Multiple Perspectives\n\nDigital Rights Watch's Tom Sulston frames this as a hollow gesture: an opt-out that isn't publicised isn't a real choice, and Meta has a commercial incentive to keep collecting data. He suggests the move may let Meta \"claim they've done something\" while changing little in practice.\n\nThe OAIC takes a more cautious legal line — it has publicly said that data being publicly available doesn't automatically make it legal to train AI on, and it's been engaging with Meta and other platforms before publishing findings.\n\nMeta itself hasn't explained its reasoning and was approached for comment. One plausible reading is that the quiet rollout is a hedge against unsettled law and possible future privacy reforms.\n\n## What to Watch\n\nThe big one is the OAIC's investigation results, due in the coming months — these could clarify whether training AI on public user data is even lawful here. Also worth watching: whether the government pushes ahead with broader privacy reforms, and whether public pressure forces Meta to actually notify users rather than leaving the form buried.",
+    "concepts": [
+     {
+      "term": "objection",
+      "definition": "A formal request submitted via Meta's form asking the company not to use your public data for AI training.",
+      "context": "In this case, the objection form was available but hidden in privacy settings with no announcement."
+     },
+     {
+      "term": "artificial intelligence (AI)",
+      "definition": "Computer systems that learn from large amounts of data to generate text, images or answers.",
+      "context": "Meta trains its AI on public posts, photos and comments from its users."
+     },
+     {
+      "term": "Office of the Australian Information Commissioner (OAIC)",
+      "definition": "The federal regulator that oversees privacy and information rights in Australia.",
+      "context": "The OAIC is assessing whether Meta's AI training on user data is legal and will publish findings soon."
+     },
+     {
+      "term": "European Union (EU)",
+      "definition": "A bloc of European countries with strong, shared privacy laws.",
+      "context": "EU citizens got the opt-out form in 2024, a year before Australians."
+     }
+    ],
+    "quiz": {
+     "question": "Why do digital rights advocates say Meta's opt-out doesn't give Australians a real choice?",
+     "options": [
+      "Because Meta never announced it and buried it in privacy settings",
+      "Because it only applies to accounts created after 2007",
+      "Because only EU citizens are allowed to use it",
+      "Because the form costs money to submit"
+     ],
+     "answer_index": 0,
+     "explanation": "Advocates argue that an opt-out nobody is told about isn't a genuine choice — the form sat hidden in privacy settings for over a year with no announcement, so most users never learned it existed."
+    },
+    "background_beginner": "Meta is the US tech giant that owns Facebook and Instagram, where billions of people share photos, posts and comments. In recent years, companies like Meta have been building artificial intelligence — software that learns from huge piles of data. To train it, Meta has used years of public posts from its users. This blew up in mid-2024 when Australians learned their data was being used, and that they couldn't opt out like Europeans could. It keeps coming up because privacy laws vary between countries, regulators are still deciding what's allowed, and people are increasingly uneasy about how their personal content fuels AI they never agreed to feed.",
+    "impact_score": 62,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/8c0e5b21872d181ff811eb29e7e4582f?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485&imformat=generic",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "Meta has quietly offered Australians a hidden form to stop their public Facebook and Instagram data being used to train its artificial intelligence, but never told anyone it existed.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-05/meta-facebook-instagram-changes-using-data-to-train-ai/107335708"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-05T01:24:59.320591+00:00",
+    "published_date": "2026-11-05",
+    "has_fulltext": true
    }
   ]
  },
- "total_stories": 28
+ "total_stories": 29
 }
