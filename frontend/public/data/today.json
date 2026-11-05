@@ -1,82 +1,8 @@
 {
  "date": "2026-11-05",
- "generated_at": "2026-11-05T01:23:04.367892+00:00",
+ "generated_at": "2026-11-05T07:23:03.969270+00:00",
  "regions": {
   "OCEANIA": [
-   {
-    "id": "987f363a-a5f5-5deb-847b-cec418a04b50",
-    "title": "RBA hikes interest rates to an 18-year high, warning inflation will hurt for another year",
-    "simplified_title": "RBA lifts cash rate to 4.85%, an 18-year high",
-    "quick_summary": "The Reserve Bank of Australia has raised interest rates for the fifth time this year to 4.85%, warning high inflation will linger into 2027 even as households struggle.",
-    "simplified_body": "The Reserve Bank of Australia (RBA) has lifted its cash rate — the benchmark interest rate it sets — to 4.85% from 4.6%, the highest level since the global financial crisis of 2008. It's the fifth rise this year, adding up to 1.25 percentage points since February. The board was split six to three, and Governor Michele Bullock said she doesn't know what the next move will be.\n\nThis hits borrowers hard. The rise adds roughly A$120 a month to repayments on a $731,000 loan (the average new owner-occupier mortgage), with this year's five hikes adding about $600 a month all up. Canstar found one in 10 borrowers couldn't meet the higher repayments, and renters worry landlords will pass costs on. Roy Morgan estimates more than 1.82 million borrowers could be in mortgage stress.\n\nHere's the background: the RBA lifts rates to cool spending and drag inflation back into its 2–3% target band. Right now annual headline inflation is 4.3%, and \"underlying inflation\" (the trimmed mean, which strips out the sharpest price swings) sits at 3.6%. High global oil prices from Middle East conflict are part of it, but local pressures — construction, electricity, restaurant meals — and spending on artificial intelligence (AI) data centres are also pushing prices up.\n\nWhat next? The RBA now expects inflation to peak at 4.5% late this year and not return to target until late 2027, nine months later than previously thought. Markets put the odds of another rise at the 7–8 December meeting at around 50-50, so relief isn't coming soon.",
-    "why_it_matters": "Most Australian mortgage holders are on variable-rate loans, so these hikes flow straight into household budgets — squeezing borrowers and renters alike at a time when wages aren't keeping pace.",
-    "deep_analysis": "## Historical Context\n\nAustralia's inflation-targeting framework dates to the early 1990s, when the RBA borrowed the idea from New Zealand — the first country to formally adopt inflation targeting, in 1990. But the RBA added its own twist. Where New Zealand chose a strict 0–2% band with \"electric fences\" (and even early talk of sacking the governor for breaching it), former RBA deputy governor Stephen Grenville says officials preferred an \"archer's target\" approach: aim for the centre, accept you won't always hit it. They landed on 2–3% — judging below 2% too ambitious and above 3% as not trying hard enough — and crucially added a \"time dimension,\" aiming to hit the band \"over the course of the cycle.\" A cash rate of 4.85% is now the highest in 18 years, back to the levels last seen during the 2008 global financial crisis.\n\n## Multiple Perspectives\n\nThe RBA board itself is divided: six members voted to hike, three to hold, with the dissenters pointing to a cooling housing market and rising unemployment as downside risks. Governor Bullock frames the pain as the lesser evil — \"if inflation didn't come down, the pain of prolonged high inflation would be worse\" — while conceding the economy feels recessionary to many. Borrowers and renters feel abandoned; one described an \"indifference\" from the RBA. Economists like Betashares' David Bassanese reckon there's \"at least one more shot in the locker,\" possibly two more in early 2026. Financial counsellors report people who've never asked for help before now calling the National Debt Helpline.\n\n## What to Watch\n\nThe 7–8 December meeting is the next decision point, with markets split 50-50 on a move above 5%. Watch the next inflation print, unemployment (already at a five-year high of 4.7%), and housing prices (down seven months straight). Because rate changes hit with a lag, the full bite of this year's hikes is still coming.",
-    "concepts": [
-     {
-      "term": "cash rate",
-      "definition": "The benchmark interest rate set by the Reserve Bank that influences what banks charge on loans and pay on deposits.",
-      "context": "The RBA lifted the cash rate to 4.85%, its main tool for controlling inflation."
-     },
-     {
-      "term": "underlying inflation",
-      "definition": "A measure of inflation that strips out the most extreme price rises and falls to show the steadier trend; also called the trimmed mean.",
-      "context": "At 3.6%, it remains above the RBA's 2–3% target, a key reason for the hike."
-     },
-     {
-      "term": "owner-occupier",
-      "definition": "A person who buys a home to live in themselves, rather than to rent out as an investment.",
-      "context": "The average new owner-occupier loan of $731,000 is used to show the repayment impact."
-     },
-     {
-      "term": "mortgage stress",
-      "definition": "When loan repayments take up so much of a household's income that meeting other essential costs becomes difficult.",
-      "context": "Roy Morgan estimates over 1.82 million borrowers could be in mortgage stress after this rise."
-     }
-    ],
-    "quiz": {
-     "question": "Why does the RBA raise the cash rate when inflation is too high?",
-     "options": [
-      "To immediately boost housing prices",
-      "To directly lower global oil prices",
-      "To increase wages for workers",
-      "To cool household spending and business investment, easing domestic price pressures"
-     ],
-     "answer_index": 3,
-     "explanation": "Higher rates can't touch global oil prices, but they dampen spending and investment at home, which eases domestic inflation and helps stop price rises becoming entrenched."
-    },
-    "background_beginner": "The Reserve Bank of Australia (RBA) is the country's central bank. Its main job is keeping prices stable, which it does by setting the \"cash rate\" — a key interest rate that flows through to mortgages, loans and savings. When prices rise too fast (inflation), the RBA lifts the cash rate to make borrowing dearer, cooling spending. Since the early 1990s it has aimed to keep inflation between 2% and 3%. In 2026, inflation climbed well above that, so the RBA — now led by Governor Michele Bullock — has raised rates five times, hurting people with home loans. It keeps coming up because every rise directly squeezes household budgets.",
-    "impact_score": 78,
-    "image_url": "https://images.theconversation.com/files/769692/original/file-20261103-64-jikirq.jpg?ixlib=rb-4.1.1&rect=0%2C192%2C5096%2C2548&q=45&auto=format&w=1356&h=668&fit=crop",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "The Reserve Bank of Australia has raised interest rates for the fifth time this year to 4.85%, warning high inflation will linger into 2027 even as households struggle.",
-    "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "The Conversation",
-      "url": "https://theconversation.com/rba-hikes-interest-rates-to-an-18-year-high-warning-inflation-will-hurt-for-another-year-294682"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-04/interest-rates-putting-pressure-on-stressed-households/107340456"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-04/reserve-bank-australia-origins-of-inflation-target-2-3-per-cent/107322960"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "098bd952-2d6d-534e-a728-734570d8620e",
-     "0f0c15ca-2b25-5b5c-af91-9cca17e19f10"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-11-03T19:26:45.306964+00:00",
-    "published_date": "2026-11-04",
-    "has_fulltext": true
-   },
    {
     "id": "c46aad47-bc83-57bd-9cbf-a4f15d337bd8",
     "title": "Education ministers agree to biggest school system shake-up in years",
@@ -400,9 +326,136 @@
     "created_at": "2026-11-05T01:24:57.055464+00:00",
     "published_date": "2026-11-05",
     "has_fulltext": true
+   },
+   {
+    "id": "57740786-d0d8-5c11-aeb5-18ad0e4fd49f",
+    "title": "How the Wegovy pill compares to weight-loss injections",
+    "simplified_title": "Australia Approves First Weight-Loss Pill Version of Wegovy",
+    "quick_summary": "Australia's medicines regulator has approved a daily tablet version of the weight-loss drug Wegovy, giving people an alternative to weekly injections.",
+    "simplified_body": "Australia's Therapeutic Goods Administration (TGA) — the government body that approves medicines — has registered a tablet form of Wegovy, which contains the drug semaglutide. It's the first glucagon-like peptide-1 (GLP-1) medicine approved in Australia as a pill specifically for weight management, approved in four strengths. Until now, this class of drugs (including semaglutide, sold as Wegovy or Ozempic, and tirzepatide, sold as Mounjaro) has generally needed weekly injections.\n\nThis affects adults living with obesity, or people who are overweight with other weight-related health conditions, and some people with heart disease. The pill suits those who dislike or can't manage needles. The catch: it must be taken daily on an empty stomach, with no food or drink (besides water) for 30 minutes after. The weekly jab, by contrast, can be done any time, with or without food.\n\nThe two formats work similarly. Trials showed the tablet gave about 14 per cent body weight loss over 64–68 weeks, and the injection about 15 per cent. Around 80 per cent of patients get side effects like nausea, vomiting and diarrhoea, with rarer serious risks including kidney injury and pancreatitis. These aren't \"magic pills\" — they're meant to go alongside a reduced-calorie diet and exercise, and weight tends to return if you stop without changing your lifestyle.\n\nNovo Nordisk, the maker, aims to have tablets available by the end of the year, after the TGA finalises packaging and pricing. Wegovy isn't subsidised through the Pharmaceutical Benefits Scheme (PBS) for weight management, so patients pay full price — likely similar to the injection's A$250–$450 a month.",
+    "why_it_matters": "For Australians who need weight-loss medication but struggle with needles, a daily pill is a genuine new option — though with no PBS subsidy, the full out-of-pocket cost puts it out of reach for many.",
+    "deep_analysis": "## Historical Context\n\nGLP-1 medicines have reshaped obesity treatment over the past decade. Drugs like semaglutide (sold as Wegovy or Ozempic) and tirzepatide (Mounjaro) mimic a natural gut hormone that curbs appetite and slows digestion. They became household names partly through huge demand, and that demand has had side effects of its own — the articles note that needle and syringe programs have recently been overwhelmed by people seeking needles for GLP-1s and other peptides. A swallowable tablet is the logical next step, removing the needle entirely.\n\n## Multiple Perspectives\n\nFor patients, the pill's appeal is obvious: no injections, no injection-related injuries. But both source articles stress a trade-off — the tablet demands daily discipline (empty stomach, 30-minute wait) rather than a simple once-a-week jab, so real-world results lean heavily on people sticking to the routine.\n\nClinicians and public-health researchers raise a more cautious view. The authors (public-health researchers at the University of Queensland) warn that short GP appointments may skip screening for eating disorders or body-image issues, and flag previously reported links between GLP-1 use and suicidal thoughts. They push \"lifestyle prescribing\" — pairing the drug with diet, exercise and weight training to limit muscle loss.\n\nOn cost, there's a clear gap between regulatory approval and affordability: TGA approval lets doctors prescribe it, but without PBS subsidy the price stays high.\n\n## What to Watch\n\nWatch for the TGA's final pricing and packaging review, and whether Novo Nordisk hits its end-of-year availability target. Longer term, the big question is PBS listing — subsidy would dramatically change who can afford it. Also worth watching: whether a pill eases the pressure on needle and syringe programs.",
+    "concepts": [
+     {
+      "term": "semaglutide",
+      "definition": "The active drug in Wegovy and Ozempic; it copies a natural gut hormone to reduce hunger and slow digestion.",
+      "context": "Wegovy contains semaglutide, which has until now generally been given as a weekly injection."
+     },
+     {
+      "term": "glucagon-like peptide-1 (GLP-1)",
+      "definition": "A naturally occurring hormone that helps regulate blood sugar, appetite and digestion; weight-loss drugs mimic its action.",
+      "context": "The new tablet is the first GLP-1 medicine approved in Australia in pill form for weight management."
+     },
+     {
+      "term": "Therapeutic Goods Administration (TGA)",
+      "definition": "Australia's government regulator that assesses and approves medicines before they can be prescribed.",
+      "context": "The TGA registered four strengths of the Wegovy tablet."
+     },
+     {
+      "term": "Pharmaceutical Benefits Scheme (PBS)",
+      "definition": "The Australian government scheme that subsidises the cost of listed medicines for patients.",
+      "context": "Wegovy isn't on the PBS for weight management, so patients pay the full price."
+     }
+    ],
+    "quiz": {
+     "question": "Why might the Wegovy tablet be harder to use effectively than the injection, according to the articles?",
+     "options": [
+      "It causes far more severe side effects than the injection",
+      "It must be taken daily on an empty stomach with a 30-minute wait before eating or drinking",
+      "It is far less effective at reducing body weight",
+      "It can only be taken at night"
+     ],
+     "answer_index": 1,
+     "explanation": "The pill must be taken daily on an empty stomach with a 30-minute wait, so its effectiveness relies on people following that routine — unlike the once-weekly injection, which can be taken any time with or without food. The two have similar weight-loss results and side effects."
+    },
+    "background_beginner": "Wegovy and Ozempic are brand names for semaglutide, a medicine that mimics a natural gut hormone to curb appetite. Along with Mounjaro (tirzepatide), these drugs have surged in popularity for weight loss and managing type 2 diabetes, but they've mostly needed weekly injections. Novo Nordisk, a large pharmaceutical company, makes Wegovy. In Australia, new medicines must first be approved by the Therapeutic Goods Administration (the TGA) before doctors can prescribe them. The topic keeps coming up because demand for these drugs is huge, they're expensive without government subsidy, and researchers keep debating how safely and effectively they should be used.",
+    "impact_score": 62,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/758c0317a94a2c89613865fb7d0ad2e1?impolicy=wcms_watermark_news&cropH=2808&cropW=4992&xPos=0&yPos=526&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Australia's medicines regulator has approved a daily tablet version of the weight-loss drug Wegovy, giving people an alternative to weekly injections.",
+    "tier": "LOCAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-05/wegovy-pill-tablet-weight-loss-australia-peptide-safe-cheaper/107349394"
+     },
+     {
+      "name": "The Conversation",
+      "url": "https://theconversation.com/australia-is-set-to-get-a-wegovy-pill-how-does-it-compare-with-weight-loss-injections-295857"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "b95f6822-47e1-52cb-ae3a-e65c04eb03a2"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-11-05T07:27:17.335869+00:00",
+    "published_date": "2026-11-05",
+    "has_fulltext": true
    }
   ],
   "ASIA": [
+   {
+    "id": "03fb49ff-3b8a-536e-8e28-6a3f8a01af72",
+    "title": "El Nino is making the Pacific 'burn with fever', triggering typhoon after typhoon in East Asia",
+    "simplified_title": "El Niño supercharges Pacific, hammering East Asia with typhoons",
+    "quick_summary": "A record-strong El Niño is heating the Pacific to extraordinary levels, driving a relentless string of powerful typhoons across the Philippines, Taiwan, China and Japan.",
+    "simplified_body": "Over the last few months, East Asia has copped an unusual run of intense, sometimes unpredictable storms. The region's typhoons have killed dozens, shut major airports, and wiped out crops and infrastructure. In October, Typhoon Champi — equivalent to a category five hurricane with 295km/h winds — came close to Taiwan, cancelling hundreds of flights across Hong Kong, Taiwan and Japan, and cutting power to 15,000 homes in Japan's Okinawa islands.\n\nThe people affected are coastal communities in the Philippines, Taiwan, China and Japan, where wild weather is already a way of life. Scientists point to El Niño — a naturally occurring climate pattern where warm water pools in the eastern Pacific and wind patterns shift, driving extreme weather worldwide. The UK Met Office forecasts this year's event to be the \"strongest in living memory\".\n\nEl Niño happens every two to seven years and lasts around a year; this one is tipped to run until February or March. Last month, sea surface temperatures in the equatorial Pacific hit 4C above normal — the highest since records began in 1949, beating the 3.6C record from 1997. The Accumulated Cyclone Energy (ACE) reading, which measures a season's total storm intensity, is forecast at nearly double the 30-year average. Warmer waters let typhoons grow stronger and form further east.\n\nForecasters warn the worst may not be over, with temperatures expected to keep rising. Governments are bracing: Japan urges stockpiling food, China is upgrading warnings, and the Philippines is backing farmers against rice losses. The United Nations Development Programme says the window to act is \"closing\".",
+    "why_it_matters": "A record-breaking El Niño reshapes weather far beyond Asia, and for Australia it typically means hotter, drier conditions and heightened bushfire and drought risk — so an unusually strong one is worth watching closely.",
+    "deep_analysis": "## Historical Context\n\nEl Niño is a recurring feature of the Pacific climate, cycling through roughly every two to seven years and lasting about a year. Each event nudges global weather in familiar but damaging directions. The current event stands out for its sheer intensity: equatorial Pacific sea surface temperatures hit 4C above normal last month, the highest since records began in 1949, eclipsing the 3.6C mark set in December 1997. The Philippines already faces some 20 tropical storms a year, and the memory of 2013's Super Typhoon Haiyan (Yolanda), which killed more than 6,000 people, looms large over the region's disaster planning.\n\n## Multiple Perspectives\n\nScientists frame the situation starkly — Ana Liza Solis of the Philippines' weather bureau likens the Pacific to a body \"burning with fever\" that could go \"into convulsions\". Climatologist Rafaela Jane Delfino's simulations found warmer conditions boosted accumulated rainfall by 26% in modelled storms, which she calls \"very, very scary findings\", and she argues leaders must better understand climate hazards. Meanwhile, Filipinos have protested against corruption they say is draining money from flood-control projects, highlighting that vulnerability is as much political as meteorological. The UNDP stresses that resilience is \"decided years in advance\" through planning and budgets, not just in the moment of the storm.\n\n## What to Watch\n\nWatch whether sea surface temperatures keep climbing, as China's climate agency warns they may over the next three months. Typhoon season usually peaks in September–October, so storms continuing beyond that would signal an unusually prolonged threat. Also watch unusual storm behaviour — Typhoon Chan-Hom crossed Japan east-to-west rather than the usual south-to-north — which complicates forecasting and evacuation, especially in less-resourced countries. Finally, keep an eye on food security, with rice production across South East Asia under pressure.",
+    "concepts": [
+     {
+      "term": "El Niño",
+      "definition": "A naturally occurring climate pattern where warm water pools in the eastern Pacific and wind patterns shift, driving extreme weather events around the world. It occurs every two to seven years.",
+      "context": "The article says this year's El Niño is forecast to be the strongest in living memory and is fuelling the typhoons."
+     },
+     {
+      "term": "Accumulated Cyclone Energy (ACE)",
+      "definition": "A metric that measures the total intensity of a storm season by combining the strength and duration of its cyclones.",
+      "context": "The article notes the ACE reading for South East and East Asia is forecast at nearly double the 30-year average."
+     },
+     {
+      "term": "sea surface temperatures",
+      "definition": "The temperature of the ocean's top layer, which fuels storms when it rises; warmer water lets typhoons grow stronger.",
+      "context": "The article reports equatorial Pacific readings hit 4C above normal, the highest since records began in 1949."
+     }
+    ],
+    "quiz": {
+     "question": "Why are typhoons in the region becoming stronger during this El Niño?",
+     "options": [
+      "Because warm waters let typhoons stay over heat energy for longer",
+      "Because colder waters are pushing storms westward",
+      "Because wind patterns have stopped shifting entirely",
+      "Because typhoon season has moved to winter"
+     ],
+     "answer_index": 0,
+     "explanation": "The article explains that El Niño heats the Pacific to record levels, and typhoons become stronger as they remain over warm waters for longer, with storms also forming further east than usual."
+    },
+    "background_beginner": "El Niño is a natural climate pattern that returns every few years, when warm water builds up in the eastern Pacific Ocean and winds change, shifting weather across the globe. This year's is forecast to be the strongest ever recorded, heating the Pacific so much that it's fuelling a run of powerful typhoons. The main players are coastal nations — the Philippines, Taiwan, China and Japan — along with their weather agencies, scientists, and bodies like the United Nations Development Programme. It keeps coming up because each event brings deadly storms, floods and crop losses, and experts say how badly a community is hit depends on long-term planning and investment.",
+    "impact_score": 72,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "A record-strong El Niño is heating the Pacific to extraordinary levels, driving a relentless string of powerful typhoons across the Philippines, Taiwan, China and Japan.",
+    "tier": "GLOBAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-11-05T07:26:53.367706+00:00",
+    "published_date": "2026-11-05",
+    "has_fulltext": true
+   },
    {
     "id": "28d36afe-b88d-5046-9c7c-240b0bc4f456",
     "title": "Toxic air pollution surges in Indian capital",
@@ -471,61 +524,74 @@
     "has_fulltext": true
    },
    {
-    "id": "51fe50f6-8d4b-5b14-b493-78d5dcd4e6b3",
-    "title": "What's behind new India-China border tensions in Arunachal Pradesh state?",
-    "simplified_title": "India and China face off again at remote Himalayan border",
-    "quick_summary": "Indian and Chinese troops have confronted each other at several spots along their disputed Himalayan border in Arunachal Pradesh, reviving tensions between the two giant neighbours.",
-    "simplified_body": "India's Indo-Tibetan Border Police (ITBP) chief, Shatrujeet Kapur, confirmed that Indian and Chinese troops faced off at several locations along the Line of Actual Control (LAC) — the de facto border — in Arunachal Pradesh, in India's northeast. He warned it could be hard to counter China by conventional means, given the investment and modernisation of China's People's Liberation Army (PLA) and Border Defense Regiment (BDR). It is not clear whether the confrontations turned physical.\n\nThis affects the world's two most populous nations, whose ties are still strained by deadly 2020 violence in the Galwan River valley that killed 20 Indian soldiers and four Chinese troops. Arunachal Pradesh Chief Minister Pema Khandu called the situation normal and said such incidents weren't new, while the opposition Congress party accused Prime Minister Narendra Modi's BJP government of \"rationalizing\" China's actions.\n\nThe border has never been properly settled. China does not recognise the McMahon Line, drawn by the British Empire in 1914, which separates Arunachal Pradesh from Tibet. China claims the state as part of southern Tibet. India says the LAC stretches 3,488 kilometres, but China says it is shorter. Twenty-five rounds of talks since 2003 have produced no boundary settlement.\n\nExperts say friction is built in because patrols from both sides enter contested areas. One expert links China's intensified focus in the east to its announced 60,000-megawatt Medog hydropower project in Tibet. The two sides have tried to reset relations — Modi and Xi Jinping met in 2024 and 2025 — but whether this is a serious escalation depends on details New Delhi has not released.",
-    "why_it_matters": "A fresh flare-up between two nuclear-armed Asian giants over an unsettled border affects regional stability — and for Australia, as a Quad partner alongside India, any India-China escalation reshapes the strategic picture across the Indo-Pacific.",
-    "deep_analysis": "## Historical Context\n\nThe India-China boundary has never been formally agreed. The McMahon Line, drawn by the British Empire in 1914, marks the frontier between Arunachal Pradesh and Tibet from India's point of view, but China has never accepted it and claims the state as part of southern Tibet. In the absence of a settled border, both armies patrol a loosely defined Line of Actual Control (LAC), which India measures at 3,488 kilometres and China says is shorter. The relationship was badly shaken in June 2020, when a clash in the Galwan River valley in eastern Ladakh killed 20 Indian soldiers and four Chinese troops — a death toll China later confirmed in part. Twenty-five rounds of Special Representative talks since 2003 have not resolved the dispute.\n\n## Multiple Perspectives\n\nThe sources show clear disagreement over how serious this is. The ITBP chief sounded the alarm and flagged China's military modernisation; Arunachal Pradesh's Chief Minister Pema Khandu downplayed it as \"normal.\" India's External Affairs Ministry blamed Chinese forces diverging from established patrol patterns, while China's Foreign Ministry insisted its troops were on \"normal patrols\" within bilateral agreements. The opposition Congress party accused the Modi government of staying silent and excusing Beijing. Among analysts, Aravind Yelery argues China's eastern focus is genuinely new, tied to its Medog hydropower project, whereas Alka Acharya cautions that any judgement is \"conjecture\" without more evidence. Former ambassador Ashok Kantha says location and depth of any intrusion are what would make it serious.\n\n## What to Watch\n\nThe key unknown is detail the Indian government has not released: were the face-offs physical, and did Chinese troops move deeper or establish new positions? Kantha notes that would breach border agreements signed in 1993, 1996, 2005, 2012 and 2013. Also watch whether the diplomatic reset — the Modi-Xi meetings and restored flights — survives, and whether infrastructure around the Medog dam keeps drawing troops into contested ground.",
+    "id": "1898dacb-ecb2-5442-9952-e513107f691a",
+    "title": "Hong Kong democracy activist Joshua Wong jailed for 10 more years",
+    "simplified_title": "Hong Kong Activist Joshua Wong Jailed 10 More Years",
+    "quick_summary": "Hong Kong's High Court has sentenced pro-democracy activist Joshua Wong to another 10 years in prison for colluding with foreign forces under the city's national security law.",
+    "simplified_body": "Joshua Wong, the 30-year-old who became the global face of Hong Kong's pro-democracy movement, has been sentenced to 10 more years in jail. The charge was \"foreign collusion\" under the National Security Law (NSL) — specifically, lobbying other countries to impose sanctions on Hong Kong and China. He pleaded guilty in September 2025. Judge William Tam called his actions \"grave in nature\", took a 13-year starting point and trimmed it for the guilty plea.\n\nThis hits Wong hardest: he had already spent around six years in detention and was due for release in early 2027. Instead, he is now the only person prosecuted twice under the NSL. Supporters, exiled activists like Nathan Law, and groups including Human Rights Watch and Amnesty International called the ruling \"cruel and unjust\". Hong Kong's leader John Lee defended it, calling Wong a \"primary culprit\".\n\nFor newcomers: Wong co-founded the student group Scholarism at 14 and rose to fame during 2014's Umbrella Movement, a wave of civil-disobedience protests. In 2020, after huge 2019 protests, Beijing imposed the sweeping NSL. Authorities say it restored stability; critics say it has been used to silence dissent, disband groups and jail campaigners. Media tycoon Jimmy Lai received the harshest NSL sentence so far — 20 years.\n\nWhat's next is uncertain. The new term will run largely concurrently with his existing sentence, but it still keeps him locked up well into middle age. Human rights groups are demanding his immediate release, while advocates warn the case shows how far Hong Kong's international standing has slipped.",
+    "why_it_matters": "It's a stark sign of how harshly Hong Kong now punishes peaceful dissent — and the critique was led here by Kevin Yam, a Melbourne-based lawyer, giving Australians a direct voice in the story.",
+    "deep_analysis": "## Historical Context\n\nJoshua Wong's story tracks the arc of Hong Kong's democracy movement. He co-founded Scholarism in 2011 at just 14, helping force the government to drop mandatory \"patriotic education\". By 2014 he was a leading face of the Umbrella Movement, even landing on the cover of Time. In 2016 he co-founded the party Demosisto with Nathan Law and Agnes Chow. After the explosive 2019 protests against an extradition bill, Beijing imposed the National Security Law (NSL) in 2020. Since then, hundreds have been arrested, including the \"Hong Kong 47\" in the largest NSL prosecution to date.\n\n## Multiple Perspectives\n\nThe split is stark. Judge William Tam framed the sentence as reflecting \"the community's abhorrence\" of collusion with foreign forces, and Chief Executive John Lee called Wong and Law \"primary culprits\" who undermined stability. On the other side, Human Rights Watch (Elaine Pearson) and Amnesty International (Sarah Brooks) condemned the ruling as punishing dissent rather than protecting security. Melbourne lawyer Kevin Yam called it \"absurd\", noting a pro-Beijing politician convicted of paedophilia reportedly received only two and a half years. Sources broadly agree on the facts but differ in detail on the concurrency: ABC suggests both sentences run concurrently, while the BBC specifies only two months and two days overlap.\n\n## What to Watch\n\nWatch whether international pressure — diplomats attended the hearing — translates into any concrete response, or whether, as Yam argues, it mainly signals Hong Kong's fallen reputation. Also watch the broader \"charge-stacking\" tactic Human Rights Watch describes against prominent figures, and the ongoing cases of other NSL defendants, including Jimmy Lai, who received 20 years.",
     "concepts": [
      {
-      "term": "Line of Actual Control (LAC)",
-      "definition": "The de facto, unofficial border separating Indian- and Chinese-controlled territory in the absence of an agreed boundary.",
-      "context": "The article says troops faced off along the LAC, which India measures at 3,488 kilometres."
+      "term": "National Security Law (NSL)",
+      "definition": "A sweeping law Beijing imposed on Hong Kong in 2020, which authorities say restores stability but critics say is used to silence dissent and jail campaigners.",
+      "context": "Wong was sentenced to 10 more years for 'foreign collusion' under this law."
      },
      {
-      "term": "McMahon Line",
-      "definition": "A border line drawn by the British Empire in 1914 separating Arunachal Pradesh from Tibet, which China does not recognise.",
-      "context": "China's rejection of the McMahon Line underpins its claim to Arunachal Pradesh as part of southern Tibet."
+      "term": "Umbrella Movement",
+      "definition": "A wave of civil-disobedience street protests in Hong Kong in 2014 calling for greater democracy, in which Wong became a leading figure.",
+      "context": "Wong rose to fame during 2014's Umbrella Movement."
      },
      {
-      "term": "Medog hydropower project",
-      "definition": "A 60,000-megawatt dam China announced building in Tibet, which analysts link to its increased military and infrastructure focus in the eastern border sector.",
-      "context": "An expert says Beijing poured troops and machinery into the area after announcing the Medog hydropower project."
+      "term": "foreign collusion",
+      "definition": "A national security offence covering working with other countries against Hong Kong or China — here, lobbying for sanctions.",
+      "context": "The charge was 'foreign collusion' under the National Security Law."
+     },
+     {
+      "term": "Scholarism",
+      "definition": "A pro-democracy student activist group Wong co-founded as a teenager that campaigned against mandatory patriotic education.",
+      "context": "Wong co-founded the student group Scholarism at 14."
      }
     ],
     "quiz": {
-     "question": "Why do face-offs keep happening along the India-China border, according to the experts quoted?",
+     "question": "Why is Joshua Wong's latest sentence considered especially notable among National Security Law cases?",
      "options": [
-      "Because both countries have officially declared war",
-      "Because a clear, mutually agreed border line does not exist, so patrols enter contested areas",
-      "Because the United Nations redrew the border in 2020",
-      "Because India refuses to hold any diplomatic talks"
+      "He received the longest sentence ever handed down under the law",
+      "He is the only activist to be prosecuted twice under the law",
+      "He was the first person ever charged under the law",
+      "He was tried without pleading guilty"
      ],
      "answer_index": 1,
-     "explanation": "Former ambassador Gautam Bambawale says the simple reason is that there is no agreed line between the two countries, so patrolling forces meet in overlapping claimed territory."
+     "explanation": "The sources note Wong is the only activist in Hong Kong prosecuted twice under the NSL; the harshest sentence so far (20 years) went to Jimmy Lai, and Wong pleaded guilty in September."
     },
-    "background_beginner": "India and China are the world's two most populous countries, and they share a long Himalayan border that has never been formally agreed. Instead, they recognise a rough dividing line called the Line of Actual Control. Disputes go back decades, partly because China rejects a border drawn by the British in 1914 and claims India's Arunachal Pradesh state as part of Tibet. Soldiers from both sides patrol the same contested ground, which sometimes leads to tense stand-offs — most seriously in 2020, when a deadly clash killed troops on both sides. Despite many rounds of talks and some recent attempts to repair relations, the border remains unsettled, so flare-ups keep returning to the headlines.",
-    "impact_score": 62,
-    "image_url": "https://static.dw.com/image/70681333_6.jpg",
+    "background_beginner": "Joshua Wong is one of the best-known faces of Hong Kong's pro-democracy movement. He started as a teenage campaigner, co-founding the student group Scholarism in 2011, and became globally famous during 2014's Umbrella Movement, a mass protest demanding more democracy. Hong Kong, a former British colony, returned to Chinese rule in 1997 under a promise of significant autonomy. After huge protests in 2019, Beijing imposed a National Security Law in 2020. Supporters say it restored order; critics say it's been used to crush dissent, disband groups and jail activists. Wong keeps coming up because he symbolises a whole generation of young Hongkongers now facing prison for their activism.",
+    "impact_score": 70,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/166d83529d1402aa74aad5e6f6257170?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
     "region": "Asia",
     "region_code": "ASIA",
-    "description": "Indian and Chinese troops have confronted each other at several spots along their disputed Himalayan border in Arunachal Pradesh, reviving tensions between the two giant neighbours.",
+    "description": "Hong Kong's High Court has sentenced pro-democracy activist Joshua Wong to another 10 years in prison for colluding with foreign forces under the city's national security law.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/china-and-india-achieved-diplomatic-thaw-now-the-border-is-flaring-up/a-79843273?maca=en-rss-en-all-1573-rdf"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-05/hong-kong-democracy-activist-joshua-wong-jailed-for-10-years/107350986"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
     "related_story_ids": [],
-    "reading_minutes": 5,
-    "created_at": "2026-11-03T19:26:41.953968+00:00",
-    "published_date": "2026-11-04",
+    "reading_minutes": 4,
+    "created_at": "2026-11-05T07:26:35.242938+00:00",
+    "published_date": "2026-11-05",
     "has_fulltext": true
    },
    {
@@ -802,72 +868,6 @@
     "created_at": "2026-11-04T07:26:05.978622+00:00",
     "published_date": "2026-11-04",
     "has_fulltext": true
-   },
-   {
-    "id": "b8abf10b-8aa9-5fda-9141-d792ef3e7e18",
-    "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
-    "simplified_title": "Seven European flights hit by hoax bomb threats in one day",
-    "quick_summary": "At least seven passenger flights and an Israel-bound cruise ship across Europe were searched or diverted on Tuesday after a wave of bomb threats that all turned out to be false alarms.",
-    "simplified_body": "On Tuesday, at least seven planes around Europe were searched or diverted after a string of bomb threats, which the UK government called \"malicious hoaxes\". Planes were checked at airports in Poland, Spain and Italy, and two aircraft were diverted in Bulgaria. An airport in Warsaw was briefly shut, and the Italian Air Force escorted one flight into Rome with fighter jets. An Israel-bound cruise ship, the Crown Iris, was also searched in Greece after someone claimed a device was attached to its hull. In every case, no explosives were found and airports resumed normal operations.\n\nThe threats hit flights run by LOT, Ryanair, Wizz Air and Scandinavian Airlines (SAS), affecting hundreds of passengers mid-journey. Two of the planes had departed from British airports, and others were heading to Warsaw, Sofia, Rome and Murcia. It was not clear whether the incidents were linked, and no country has pointed the finger at who was responsible.\n\nAirlines deal with fake bomb threats regularly — most come from people who think it is funny or want to delay a flight. There is a regulated process for assessing each one. In the UK, airlines must file a mandatory occurrence report to the Civil Aviation Authority (CAA). Aviation security expert Philip Baum says crews usually fly on, because most threats are \"non-specific\"; diverting suggests a threat was judged credible.\n\nWhat happens next is uncertain. The incidents come amid European worries about \"hybrid attacks\" and sabotage, with officials having previously blamed both Russia and Iran — accusations both deny. Investigators will try to work out whether Tuesday's threats were connected.",
-    "why_it_matters": "A coordinated-looking wave of hoax threats can snarl air travel across a whole continent in hours, and with security jitters already high after a recent FlyDubai incident, Australians flying through Europe could face the same kind of sudden diversions and delays.",
-    "deep_analysis": "## Historical Context\n\nBomb threats against aircraft are not new — the aviation industry has dealt with them for decades, and the overwhelming majority are hoaxes. What stands out here is the clustering: at least seven flights plus a cruise ship in a single day, spread across Poland, Spain, Italy, Bulgaria and Greece, with another flight threatened the day before. That volume in one day is, as The Guardian notes, unusual. Security fears around aviation had already been reignited by a recent FlyDubai incident in which a co-pilot attempted to crash a Tel Aviv-bound plane.\n\n## Multiple Perspectives\n\nThe UK government framed the events firmly as \"malicious hoaxes\" and pointed to its \"robust\" aviation security. Aviation security professor Philip Baum offered nuance: most threats come from pranksters or people wanting to delay a flight, and responding to every one would ground aviation — yet the fact that some planes did divert implies those threats were judged credible and specific enough to warrant action. Separately, the ABC noted the backdrop of European officials blaming Russia and Iran for \"hybrid attacks\" and sabotage, both of which Moscow and Tehran deny. Importantly, no country has actually attributed Tuesday's threats to anyone, so any link to state actors is speculation at this stage. Early reporting also wobbled: Bulgaria initially said an Israel flight was affected, then corrected this to flights from Bergamo and Dublin.\n\n## What to Watch\n\nWatch whether investigators confirm the incidents were coordinated or merely coincidental copycats. Note any official attribution, and treat it cautiously given how quickly early details were corrected. Also watch whether repeated hoaxes push airlines or regulators to change how they weigh \"specific\" versus \"non-specific\" threats — a balance between passenger safety and keeping planes flying.",
-    "concepts": [
-     {
-      "term": "malicious hoaxes",
-      "definition": "Deliberately false alarms designed to cause fear or disruption, with no real danger behind them.",
-      "context": "The UK government used this phrase to describe the bomb threats, since no explosives were found on any aircraft."
-     },
-     {
-      "term": "Civil Aviation Authority (CAA)",
-      "definition": "The UK's aviation regulator, which oversees safety and the rules airlines must follow.",
-      "context": "UK airlines must file a mandatory occurrence report to the CAA when they receive a bomb threat."
-     },
-     {
-      "term": "hybrid attacks",
-      "definition": "Hostile actions that blur the line between war and peacetime — such as sabotage, cyberattacks or disinformation — often hard to pin on a clear culprit.",
-      "context": "European officials have blamed Russia and Iran for such attacks, though both deny it and no one has linked Tuesday's threats to them."
-     }
-    ],
-    "quiz": {
-     "question": "Why does aviation security expert Philip Baum say crews usually keep flying rather than divert after a bomb threat?",
-     "options": [
-      "Because most threats are non-specific hoaxes, and responding to every one would ground all flights",
-      "Because diverting a plane is illegal under European law",
-      "Because airlines are never told about threats until after landing",
-      "Because fighter jets always escort threatened planes to their destination"
-     ],
-     "answer_index": 0,
-     "explanation": "Baum explained that the vast majority of threats are non-specific hoaxes from pranksters, so crews generally continue; a decision to divert implies the threat was judged credible and specific."
-    },
-    "background_beginner": "Air travel is a constant target for bomb threats, and nearly all of them are fake — made by pranksters, attention-seekers, or people wanting to delay a flight. Airlines and airports follow strict, well-rehearsed procedures to assess each threat, searching planes and sometimes diverting them to be safe. On this particular Tuesday, an unusually large cluster of threats hit at least seven flights (run by airlines like Ryanair, Wizz Air, LOT and SAS) plus a cruise ship, across several European countries. Nothing was found. The story keeps coming up because Europe is on edge about security — officials have accused Russia and Iran of sabotage-style \"hybrid attacks\", though both deny it and nobody has blamed them for these specific threats.",
-    "impact_score": 58,
-    "image_url": "https://i.guim.co.uk/img/media/fe26cdd432aff531dc43dea5caff3fa3d0157266/0_0_7616_5071/master/7616.jpg?width=1920&quality=85&auto=format&fit=max&s=ed1690ab7d37d9be92e32d54202d2d43",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "At least seven passenger flights and an Israel-bound cruise ship across Europe were searched or diverted on Tuesday after a wave of bomb threats that all turned out to be false alarms.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-03/warsaw-airport-closed-after-unplanned-landing-of-london-plane/107343338"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-03T19:26:44.322115+00:00",
-    "published_date": "2026-11-04",
-    "has_fulltext": true
    }
   ],
   "MIDDLE_EAST_AFRICA": [
@@ -947,70 +947,146 @@
     "has_fulltext": true
    },
    {
-    "id": "ee3c45ca-457c-5f2e-90f8-69e0cf7792ef",
-    "title": "Trump claims US will end military aid to Israel by end of this year",
-    "simplified_title": "Trump says US will end military aid to Israel this year",
-    "quick_summary": "On US election day, Donald Trump announced the United States will stop giving Israel roughly $4 billion a year in military aid after the end of this year, though experts doubt it can happen that fast.",
-    "simplified_body": "In a phone interview with Fox News as voting began in the US midterm elections, President Donald Trump said the United States would end its military aid to Israel — nearly $4 billion a year — after this year, because \"they don't need it\". He claimed Israel's prime minister, Benjamin Netanyahu, had proposed the cut-off, and that the aid would be replaced by Israel buying US weapons instead.\n\nThis matters because US military aid has underpinned the US-Israel relationship for decades. Most of the roughly $3.8 billion in 2025 came as foreign military financing grants — money Israel uses to buy US hardware like F-35 fighter jets — plus $500 million for joint missile defence. Israeli officials seemed caught off guard, and Netanyahu's rivals said hearing about such a big shift through the media showed how much damage he'd done to the relationship.\n\nA key catch: the money is appropriated (approved) by Congress, so Trump can't simply end it on his own. Analysts say ongoing weapons programmes on missile defence and counter-drone warfare can't easily switch to commercial arms sales, so one expert expects aid to be phased out during 2027 rather than by the end of 2026. Trump's timing — on election day — appeared aimed at voters sceptical of US support for Israel, including backers of Michigan candidate Abdul El-Sayed.\n\nWhat happens next is unclear. It may prove a genuine policy change or a last-minute pitch for votes. Either way, it lands as US public support for Israel has fallen sharply since the war in Gaza began in 2023.",
-    "why_it_matters": "A decades-old pillar of US foreign policy — guaranteed military aid to Israel — is suddenly up for debate, which could reshape Middle East security dynamics that Australia, as a close US ally, watches closely.",
-    "deep_analysis": "## Historical Context\n\nUS military aid to Israel has been one of the most consistent features of American foreign policy for decades, backed by both major parties. In 2025 that aid totalled roughly $3.8 billion in foreign military financing grants, which Israel uses to buy US-made hardware such as F-35 fighter jets, plus another $500 million for joint missile defence. The sources note that Netanyahu had previously floated tapering this aid off over the next decade — a gradual idea Trump's announcement would dramatically speed up. A bill passed by Congress in July (the United States-Israel Defense Technology Cooperation Initiative, Section 219 of the fiscal year 2027 National Defense Authorization Act) actually deepened military ties, which makes an abrupt cut harder to square.\n\n## Multiple Perspectives\n\nTrump frames the move as both practical (\"they don't need it\") and political, naming critic Abdul El-Sayed and complaining the aid had become \"a bad talking point\". He says Netanyahu proposed it. Netanyahu's domestic rivals disagree sharply: Gadi Eisenkot and Yair Golan argue a responsible leader would fight to *increase* aid, and that learning of the shift via the media shows Netanyahu is a danger. Experts urge caution — Al Jazeera's Kimberly Halkett stresses Congress, not the president, controls the money, and the Atlantic Council's Thomas Warrick expects a phase-out during 2027, not by end of 2026. Even Trump critics like Marjorie Taylor Greene read it as election-driven.\n\n## What to Watch\n\nWatch whether any formal plan follows the Fox News comments — neither the State Department, Israel's foreign minister nor Netanyahu's office had confirmed it. Watch how Congress responds, given it appropriates the funds and recently voted 314-104 to keep aid flowing. And watch Israeli politics, where Netanyahu's party just lost its Knesset majority and the opposition is trying to form a coalition.",
+    "id": "b95e0a5a-4171-5d6a-96b5-88fc09bfa872",
+    "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
+    "simplified_title": "Israel's president starts coalition talks after deadlocked election",
+    "quick_summary": "Israel's president accepted the certified election results and began deciding who should try to form a government, after Netanyahu's bloc lost its majority and Arab-led parties made record gains.",
+    "simplified_body": "President Isaac Herzog accepted the certified results of Israel's 27 October election and started meeting party leaders about who should try to form the next government. In the 120-seat parliament, the Knesset, a majority needs 61 seats. Prime Minister Benjamin Netanyahu's coalition won 53, his rival Gadi Eisenkot's bloc won 48, and Arab-led parties won a record 19. Herzog said, \"The elections are over. Now is the time to face reality.\"\n\nThis matters because neither man can govern alone, so the Arab-led parties — Ra'am and the Joint List — have become kingmakers. Ra'am said it would back Eisenkot, lifting his support to about 56, and the Joint List's 11 seats could push him past 61. Netanyahu's camp made unproven claims that Arab parties \"stole\" the vote, possibly with foreign help. Israel's elections commission investigated and found \"no evidence of irregularities\". The attorney-general, Gali Baharav-Miara, blocked a demand by Shin Bet (Israel's internal security service) chief David Zini, a Netanyahu appointee, to interrogate Arab politicians without evidence.\n\nFor background: Israel's president has a largely ceremonial role but picks who gets first crack at building a coalition — not necessarily the biggest party's leader. Arab citizens, often calling themselves Palestinian citizens of Israel, make up about 20 percent of the population. Herzog condemned \"racist expressions\" aimed at them.\n\nWhoever Herzog names gets 28 days to form a government, with a possible 14-day extension. He is expected to name Eisenkot, perhaps as early as Thursday evening. If neither Netanyahu nor Eisenkot succeeds, Israel would hold another election early next year. Commentators warn Netanyahu's camp may keep trying to discredit the results.",
+    "why_it_matters": "A possible shift away from Netanyahu's long rule, driven by record Arab turnout, could reshape Israel's politics and its approach to the region — something Australia watches closely given its stance on Israel and the Palestinians.",
+    "deep_analysis": "## Historical Context\n\nIsrael uses proportional representation, which means coalitions are the norm and small parties can hold outsized sway. Benjamin Netanyahu has been the dominant figure in Israeli politics for years, usually governing with far-right and ultra-Orthodox allies. The novelty here is twofold: his bloc lost its majority, and Arab-led parties — Ra'am and the Joint List — won a record 19 seats after a surge in Arab turnout. Historically most Jewish parties have refused to govern alongside Arab-led ones, which is why these 19 seats, while large, don't automatically translate into power.\n\n## Multiple Perspectives\n\nThe president and election officials present a settled picture: the Central Elections Committee found \"no evidence of irregularities\", and its chair Noam Sohlberg stressed the need for a peaceful transfer of power. Netanyahu's camp disputes this, alleging mass fraud and foreign interference — claims the commission rejected. A specific allegation that Qatar funded higher Arab turnout was categorically denied by Qatar. Eisenkot frames Netanyahu's conduct as a \"pogrom against democracy\" and accuses him of weaponising the security services; the attorney-general blocked Shin Bet interrogations for lack of evidence, while Likud accused her of a cover-up. Far-right minister Itamar Ben-Gvir wants Arab leaders arrested. These are genuinely competing accounts, and the fraud claims remain unsubstantiated per the official investigation.\n\n## What to Watch\n\nWatch whom Herzog names first — expected to be Eisenkot — and whether the Joint List formally backs him or merely abstains, which determines if he clears 61. Watch the ultra-Orthodox Degel HaTorah, which backed neither candidate over a military-exemption dispute. Watch the ongoing Shin Bet foreign-interference inquiry and whether tensions escalate, as some commentators fear. If coalition-building fails within the 28 days (plus any extension), Israel heads to another election early next year.",
     "concepts": [
      {
-      "term": "military aid",
-      "definition": "Money or weapons one country gives another to support its armed forces; here, the roughly $4 billion the US sends Israel each year, mostly as grants to buy US-made equipment.",
-      "context": "Trump said the US would end its military aid to Israel after this year."
+      "term": "Knesset",
+      "definition": "Israel's parliament, which has 120 seats; a party or coalition needs 61 of them to hold a governing majority.",
+      "context": "The election decides the make-up of the Knesset, and the deadlock there is what triggered Herzog's consultations."
      },
      {
-      "term": "foreign military financing grants",
-      "definition": "US government grants that a foreign country can use to purchase American-made defence equipment rather than paying for it itself.",
-      "context": "Most of the 2025 aid came as foreign military financing grants used to buy hardware like F-35 jets."
+      "term": "kingmakers",
+      "definition": "Parties that, while not the largest, hold enough seats to decide which bigger bloc gets to govern.",
+      "context": "The Arab-led parties' 19 seats mean they can tip the balance toward either Netanyahu or Eisenkot."
      },
      {
-      "term": "appropriated",
-      "definition": "Formally approved and set aside by a legislature; in the US, Congress controls which funds the government can spend.",
-      "context": "Because the money is appropriated by Congress, Trump cannot end the aid on his own."
+      "term": "Shin Bet",
+      "definition": "Israel's internal security and intelligence agency.",
+      "context": "Its chief, a Netanyahu appointee, sought to interrogate Arab politicians, but the attorney-general blocked it for lack of evidence."
      },
      {
-      "term": "midterm elections",
-      "definition": "US elections held halfway through a president's term that decide many congressional and state seats but not the presidency.",
-      "context": "Trump made the announcement as voting began in the US midterm elections."
+      "term": "coalition",
+      "definition": "A government formed by two or more parties joining together because no single party has enough seats to rule alone.",
+      "context": "Herzog must pick who has the best chance of assembling a workable coalition in parliament."
      }
     ],
     "quiz": {
-     "question": "Why do analysts doubt Trump can end military aid to Israel by the end of this year?",
+     "question": "Why have the Arab-led parties become so influential after this election?",
      "options": [
-      "A court has blocked any changes to foreign aid",
-      "Israel has refused to accept any change to the aid",
-      "The aid was already scheduled to double next year",
-      "The money is appropriated by Congress, so the president can't end it unilaterally"
+      "They formed a coalition with Netanyahu before the vote",
+      "The president is legally required to appoint one of their leaders",
+      "Neither main bloc reached a majority, so their 19 seats could decide who governs",
+      "They won the most seats of any single party"
      ],
-     "answer_index": 3,
-     "explanation": "As Al Jazeera's Kimberly Halkett noted, the aid is appropriated by Congress, meaning Trump cannot end it on his own, and experts expect any phase-out to run into 2027."
+     "answer_index": 2,
+     "explanation": "With Netanyahu's bloc on 53 and Eisenkot's on 48 — both short of the 61 needed — the Arab-led parties' record 19 seats can tip the balance, making them kingmakers."
     },
-    "background_beginner": "The United States and Israel have been close allies for decades, with America sending Israel billions of dollars in military aid every year — recently about $3.8 billion — to help it buy weapons and run missile-defence systems. This support has long had backing from both US political parties. But public opinion has shifted, especially since the war in Gaza began in 2023, with many Americans now saying the US is too supportive of Israel. On US election day, President Donald Trump surprised everyone by saying the aid would end after this year, claiming Israeli Prime Minister Benjamin Netanyahu suggested it. The topic keeps coming up because it sits at the crossroads of US domestic politics, elections and Middle East security.",
+    "background_beginner": "Israel elects its parliament, the Knesset, by proportional representation, so governments are usually coalitions of several parties. Benjamin Netanyahu, long Israel's prime minister, has typically governed with far-right and ultra-Orthodox partners. In the 27 October election his bloc lost its majority, his rival Gadi Eisenkot's bloc also fell short, and Arab-led parties won a record number of seats on high turnout. The president, Isaac Herzog, now decides who gets first go at forming a government. The story keeps resurfacing because Netanyahu's camp claims — without proof, officials say — that the vote was \"stolen\", raising fears about how Israel handles a close, contested result.",
     "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/60b8ee8c7578d9966d060062362646a8be71b3ad/225_0_2339_1872/master/2339.jpg?width=1920&quality=85&auto=format&fit=max&s=275e05bfb4b18e9a78839840c5b5e927",
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-04T143958Z_1468020715_RC2YGOAUCQCD_RTRMADP_3_ISRAEL-ELECTION-HERZOG-1793832020.jpg?resize=1920%2C1440",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "On US election day, Donald Trump announced the United States will stop giving Israel roughly $4 billion a year in military aid after the end of this year, though experts doubt it can happen that fast.",
+    "description": "Israel's president accepted the certified election results and began deciding who should try to form a government, after Netanyahu's bloc lost its majority and Arab-led parties made record gains.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "05af4703-b453-55ec-9232-90bb1e092bd1",
+     "5686cf98-4752-5462-b7ca-55f321702fa4",
+     "6978e6ac-06f7-5a2c-9250-def3dc7e8d5e",
+     "c47d33e3-761d-5b7d-bb88-edcb7b5b305c"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-05T07:26:34.390569+00:00",
+    "published_date": "2026-11-05",
+    "has_fulltext": true
+   },
+   {
+    "id": "637e7fca-39d1-58cb-be79-5a96e227375b",
+    "title": "ANC faces anger over poor services as South Africans vote in local elections",
+    "simplified_title": "ANC braces for worst-ever result in South African local vote",
+    "quick_summary": "South Africa's governing ANC is set for a bruising local-election result as voters punish years of water outages, power cuts and crumbling services.",
+    "simplified_body": "South Africans voted on Wednesday in local elections to pick councillors for nearly 300 municipalities, the bodies responsible for water, electricity and rubbish collection. The African National Congress (ANC) — the party Nelson Mandela led to power in 1994 at the end of apartheid — is still tipped to be the biggest party, but polls show it slumping to around 30% of the vote, down from 45.6% at the last local elections in 2021. One Ipsos poll put its support at 30%.\n\nThis matters most to ordinary residents fed up with broken services. In Johannesburg suburbs like Kensington and townships like Alexandra, people described streets strewn with rubbish, raw sewage and days without water or power. Johannesburg, a city of 4.8 million, has had 10 mayors in 10 years and is labelled \"effectively bankrupt\". Unstable coalitions — where parties fall out and swap leaders — are widely blamed for the poor service delivery.\n\nSome background: the ANC peaked at 70% in 2004 but lost its national majority for the first time in 2024, forcing it into a power-sharing government with the centre-right Democratic Alliance (DA). Other players include the DA's Helen Zille (who filmed stunts in potholes), Jacob Zuma's leftwing uMkhonto weSizwe (MK) party, and Herman Mashaba's ActionSA.\n\nNext, the electoral commission has seven days to announce results; parties then get 14 days to form councils and choose mayors. Expect messy coalition haggling — the ANC and DA may team up in Gauteng, while MK could do well around Durban.",
+    "why_it_matters": "South Africa is a major G20 economy and a key trading partner for Australia, so instability in how its biggest cities are run — and the slow erosion of the party that ended apartheid — has ripple effects well beyond its borders.",
+    "deep_analysis": "## Historical Context\n\nThe ANC has governed South Africa since 1994, when Nelson Mandela became the country's first black president after the end of apartheid, the racist system of enforced segregation. For decades it was dominant, peaking at about 70% of the national vote in 2004. Since then its support has steadily slid — to around 40% in 2024 — as voters grew angry over corruption, unemployment and crime. In 2024 it lost its parliamentary majority for the first time, forcing it into a national unity government with its old rival, the Democratic Alliance (DA). These local elections are widely cast as a verdict on whether the ANC can still govern day-to-day.\n\n## Multiple Perspectives\n\nPresident Cyril Ramaphosa insists the party is \"going higher and higher\" and rejects talk of a downward spiral. Voters on the ground tell a different story: some, like a Johannesburg call-centre worker, are splitting their votes between the DA and MK purely because they \"want change\"; others say they won't vote at all because \"it makes no difference\". Analysts such as Melanie Verwoerd and Dr Levy Ndou expect the ANC's worst-ever showing and see DA–ANC coalitions as near unavoidable in most metros. Yet the DA's Helen Zille remains distrusted by many black voters over past comments appearing to excuse colonialism, and Cape Town's soaring housing costs count against her. Herman Mashaba, who calls Zille a \"racist\" (which she denies), has ruled out partnering with her in Johannesburg.\n\n## What to Watch\n\nWatch the eight big metros, especially Gauteng's three (Johannesburg, Tshwane, Ekurhuleni), none of which earned a clean audit. In eThekwini (Durban), Jacob Zuma's MK party was polling above 40% but may fall short of a majority and refuses to work with either the ANC or DA — a recipe for a \"very messy\" outcome. Also watch declining turnout, especially among young people, and whether the national unity power-sharing model gets copied locally.",
+    "concepts": [
+     {
+      "term": "apartheid",
+      "definition": "South Africa's former system of enforced racial segregation, which ended in 1994 when the ANC came to power.",
+      "context": "The ANC positioned itself as the party that liberated the country from this system, which is central to its historic appeal."
+     },
+     {
+      "term": "municipalities",
+      "definition": "Local government areas responsible for basic services like water, electricity and rubbish collection.",
+      "context": "These elections choose councillors for nearly 300 of them, making service delivery the key battleground."
+     },
+     {
+      "term": "coalitions",
+      "definition": "Governing arrangements where several parties share power because no single party won a majority.",
+      "context": "Their instability and frequent leadership changes are blamed for much of South Africa's poor local governance."
+     },
+     {
+      "term": "service delivery",
+      "definition": "The provision of basic public services such as clean water, reliable electricity and waste collection.",
+      "context": "Failures here are the main reason voters are abandoning the ANC."
+     }
+    ],
+    "quiz": {
+     "question": "Why are analysts expecting the ANC to struggle in these local elections?",
+     "options": [
+      "Because voters are angry over failing services, corruption and crumbling infrastructure",
+      "Because the ANC chose not to field any candidates",
+      "Because a new voting law banned the party",
+      "Because turnout was expected to be record-high in its favour"
+     ],
+     "answer_index": 0,
+     "explanation": "The articles point to deep discontent over water outages, power cuts, poor service delivery and corruption as the driving forces behind the ANC's expected decline."
+    },
+    "background_beginner": "South Africa holds regular elections, and its biggest party is the African National Congress (ANC), the movement Nelson Mandela led to power in 1994 after the end of apartheid, the country's old system of racial segregation. For years the ANC dominated, but voters have grown fed up with corruption, unemployment, crime and especially failing local services — think taps running dry and the lights going out. In 2024 the ANC lost its national majority for the first time. These local elections pick councillors who run cities and towns. Other key players include the Democratic Alliance (DA), led by Helen Zille, and former president Jacob Zuma's newer MK party. The issue keeps resurfacing because services keep breaking down.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/e9b250d3d92ad0c01aabfd863c7f2487bcf38208/405_0_4412_3530/master/4412.jpg?width=1920&quality=85&auto=format&fit=max&s=ea1c22240fd1bd6c87a6b8838ded6c3a",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "South Africa's governing ANC is set for a bruising local-election result as voters punish years of water outages, power cuts and crumbling services.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms"
+      "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
      },
      {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
     "related_story_ids": [],
     "reading_minutes": 3,
-    "created_at": "2026-11-03T19:26:44.819655+00:00",
-    "published_date": "2026-11-04",
+    "created_at": "2026-11-05T07:26:24.860041+00:00",
+    "published_date": "2026-11-05",
     "has_fulltext": true
    },
    {
@@ -1211,203 +1287,143 @@
     "created_at": "2026-11-04T01:27:57.997819+00:00",
     "published_date": "2026-11-04",
     "has_fulltext": true
-   },
-   {
-    "id": "a42f6c19-cd2f-51c3-9894-413c9d07a08f",
-    "title": "Third person dies of bird flu since virus started jumping to livestock",
-    "simplified_title": "Third person dies of bird flu since cattle outbreak began",
-    "quick_summary": "A person in Washington state has died from bird flu after being exposed at an infected dairy farm, marking the third US death since the virus jumped to dairy cows.",
-    "simplified_body": "A resident of Yakima County in Washington state, in the United States, has died from bird flu after exposure at an infected dairy farm, state health officials reported on Sunday. The person had underlying health conditions, which officials said could have made them more vulnerable. Out of respect for the family's privacy, authorities won't release the person's name, gender or age.\n\nThis is the third human bird flu death in the US since a strain of highly pathogenic (H5) avian influenza (HPAI) made the unprecedented jump from wild, migratory birds to dairy cows, first reported in the US in March 2024. The news matters because it shows the virus can cause severe illness in people, even though the overall risk to the general public remains low.\n\nFor background, bird flu normally circulates among wild birds and poultry. The leap into dairy cattle was something scientists had not seen before, and it opened up a new way for farm workers to be exposed. In Washington, the virus was reported in dairy cattle on October 8, and since then three people in Yakima County have tested positive.\n\nThe person who died was severely ill and hospitalised. The other two cases, including a newly reported third case, both involved people exposed to infected dairy herds; reportedly neither has had severe illness nor needed hospital care. Health officials continue to stress that the risk to most people stays low, while watching closely for further human cases tied to affected farms.",
-    "why_it_matters": "It's a reminder that a virus which crossed from birds into cattle can turn deadly for exposed people, even while general public risk stays low — worth watching for Australia's own livestock and poultry biosecurity.",
-    "deep_analysis": "## Historical Context\n\nAvian influenza has long circulated among wild and migratory birds, occasionally spilling into poultry flocks. What makes the current situation unusual is that a strain of highly pathogenic (H5) avian influenza made the jump from wild birds to dairy cows — something first reported in the US in March 2024 and described in the source as unprecedented. That shift created a fresh route of exposure for people who work closely with cattle, not just those handling poultry.\n\n## Multiple Perspectives\n\nHealth officials are balancing two messages. On one hand, they acknowledge the death is a serious and heartbreaking outcome, and that bird flu can cause severe illness, particularly among people with underlying health conditions. On the other, they repeatedly stress that the risk to the general public remains low. The evidence in this case supports that nuance: of the three people who tested positive in Washington, only the person who died was severely ill and hospitalised, while the other two reportedly had milder illness and weren't hospitalised. The person who died also had underlying health conditions, which officials said may have increased their vulnerability.\n\n## What to Watch\n\nKey things to follow include whether more human cases emerge among dairy workers in Yakima County or elsewhere, and whether the pattern stays limited to people with direct exposure to infected herds. The bigger question hanging over any animal-to-human virus is whether it starts spreading easily between people — nothing in the source suggests that has happened here, but it's the threshold that would change the public-health picture.",
-    "concepts": [
-     {
-      "term": "highly pathogenic (H5) avian influenza (HPAI)",
-      "definition": "A severe, fast-spreading form of bird flu caused by H5-type influenza viruses that can cause serious disease in birds and, in rare cases, people.",
-      "context": "This strain made the unprecedented jump from wild birds to dairy cows in the US."
-     },
-     {
-      "term": "dairy cattle",
-      "definition": "Cows kept for producing milk, typically housed and handled closely on farms.",
-      "context": "The virus jumping into these animals created a new way for farm workers to be exposed."
-     },
-     {
-      "term": "underlying health conditions",
-      "definition": "Pre-existing medical problems that can make a person more vulnerable to serious illness from an infection.",
-      "context": "The person who died had these, which officials said may have increased their risk."
-     }
-    ],
-    "quiz": {
-     "question": "Why do officials describe the bird flu situation in Washington as serious but still low-risk for the general public?",
-     "options": [
-      "The virus has started spreading easily between people",
-      "The virus has never caused death before",
-      "Only people with direct exposure to infected herds have tested positive, and most weren't severely ill",
-      "Everyone who caught it was hospitalised"
-     ],
-     "answer_index": 2,
-     "explanation": "All three Washington cases involved people exposed to infected dairy herds, and the two surviving cases reportedly had milder illness — so officials say the risk to the broader public stays low even though the disease can be severe."
-    },
-    "background_beginner": "Bird flu is a virus that mainly infects birds, both wild migratory ones and farmed poultry. Occasionally it spills over into other animals or people. The current story centres on a strain called highly pathogenic (H5) avian influenza, which in March 2024 did something new in the US: it jumped from wild birds into dairy cows. That gave farm workers a fresh way to be exposed. Health officials in Washington state are the main players here, tracking human cases in Yakima County after the virus was found in local dairy cattle. It keeps coming up because each new human case raises questions about how dangerous the virus is and whether it could spread more widely.",
-    "impact_score": 62,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2190742287-1152x648.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "A person in Washington state has died from bird flu after being exposed at an infected dairy farm, marking the third US death since the virus jumped to dairy cows.",
-    "tier": "GLOBAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-03T19:27:13.147378+00:00",
-    "published_date": "2026-11-04",
-    "has_fulltext": true
    }
   ],
   "GLOBAL_SYSTEMS": [
    {
-    "id": "c29fd403-ee79-507b-9a46-5180d9a21860",
-    "title": "Binance battles to save its brand after record $6.3bn crypto hack",
-    "simplified_title": "Binance hit by record $6.3bn crypto hack, blamed on North Korea",
-    "quick_summary": "Binance, the world's biggest cryptocurrency exchange, suffered a record $6.3bn theft that investigators link to North Korean hackers who tricked an engineer with a fake job interview.",
-    "simplified_body": "Late last week, Binance — the world's largest cryptocurrency exchange — lost $6.3bn (£4.7bn) in what's thought to be the biggest crypto theft ever, with more than $2.5bn gone in a single transaction. The company says attackers used social engineering (tricking people into handing over access rather than breaking in by force): an engineer was approached on a genuine job-hunting site, lured into a fake interview, and told to download malware disguised as an \"assignment\". From there the hackers used his computer and a compromised internal AI tool to seize two more engineers' laptops and drain company wallets.\n\nThis hits ordinary users hardest. Binance briefly suspended all withdrawals, sparking a wave of panic, and crypto isn't covered by government deposit protections in the US, UK or Australia — so there's no safety net if an exchange is robbed or collapses. Binance insists user funds are safe, says it has frozen roughly half the stolen crypto, and promises to cover every loss itself.\n\nHere's the background: the US Federal Bureau of Investigation (FBI), the Secret Service and blockchain analysts say the attack bears the fingerprints of TraderTraitor, also called the Lazarus Group — a state-backed North Korean crew blamed for the earlier $1.5bn Bybit hack in 2025. North Korea, through senior official Kim Yo Jong, flatly denies it, calling the claim \"absurd rhetoric\".\n\nWhat's next? Binance is bringing in outside cyber experts, promising more AI threat-detection tools, and warning that scammers are circulating fake \"compensation\" offers. Sources differ on the damage: the Guardian reports a net outflow of about $3.6bn, while the BBC cites $4.72bn withdrawn since trading resumed.",
-    "why_it_matters": "If a crypto exchange is hacked or goes bust, Australians get no government reimbursement like they would for bank deposits — though you can claim a capital loss on your tax return with proof.",
-    "deep_analysis": "## Historical Context\n\nBinance didn't walk into this with a clean sheet. Former chief executive Changpeng Zhao pleaded guilty to violating US anti-money-laundering laws in 2023 and stepped down, so the brand was already tangled up with questions of crime before a cent was stolen. The hack also fits a longer pattern: North Korea has repeatedly been accused of leaning on cyber-crime to fund its sanctioned economy, and the same unit blamed here — TraderTraitor, or the Lazarus Group — was fingered for the then-record $1.5bn Bybit theft in 2025. Researchers say Pyongyang systematically recruits strong students and funnels them into hacker units run by its intelligence agency. Each time, North Korea denies it.\n\n## Multiple Perspectives\n\nBinance frames this as a \"serious and highly sophisticated\" attack, apologises, and stresses it has set aside more than 100% of the funds needed, with user money protected. Investigators — the FBI, Secret Service and cyber analysts — point squarely at North Korea. North Korea, via Kim Yo Jong, calls it a \"sinister attempt\" by the US to smear its image. Meanwhile, the figures themselves are contested: the Guardian reports a roughly $3.6bn net outflow against $171bn in assets, while the BBC cites $4.72bn withdrawn against about $157bn — differences the BBC attributes partly to market price swings.\n\n## What to Watch\n\nWatch whether withdrawals keep \"stabilising\" as Binance claims, or whether trust keeps bleeding out. Watch the knock-on nerves in traditional markets — investors were already pulling money from US Bitcoin exchange-traded funds. And watch the scam wave: fake compensation screenshots promising free payouts are already circulating, so the second-order harm to users may outlast the hack itself.",
+    "id": "c11b4b6e-7c1c-5386-8937-369aff407fbf",
+    "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+    "simplified_title": "UK too reliant on China for critical minerals, MPs warn",
+    "quick_summary": "A UK parliamentary committee says Britain is \"dangerously\" dependent on China for the critical minerals its military, clean energy and AI industries need, and is urging an urgent new strategy to diversify supply.",
+    "simplified_body": "A committee of UK Members of Parliament (MPs) has found that Britain is \"dangerously\" reliant on China for the critical raw materials needed for defence, renewable energy and artificial intelligence (AI). The business select committee, chaired by Liam Byrne, has called for a centralised policy and a new \"critical minerals finance facility\" to fund mining and speed up a push to find other suppliers.\n\nThis matters because China dominates not just the mining but the \"processing stage\" — the refining of minerals like lithium (used in electric-vehicle batteries) and rare earths (used in permanent magnets for military jets). The committee heard demand for lithium could rise 45-fold by 2030, and rare earths 16-fold, leaving the UK exposed if Beijing suddenly cuts supply, as it did in 2025.\n\nFor background: rare earths and critical minerals end up in everything from fridges and washing machines to fighter jets. China has held a \"chokehold\" over rare earths for 16 years. A deal between Donald Trump and Xi Jinping has paused global export restrictions until January 2027 — but that leaves the UK at the mercy of US-China relations.\n\nThe committee set 10 tests for the government and said it could not be confident any would be met, blaming a lack of transparency. The MPs say the most realistic fix is working with Group of Seven (G7) partners, Europe and Indo-Pacific countries to \"aggregate demand\" and attract new suppliers. The government disputes claims it lacks a strategy, pointing to £400m for domestic production and recycling and goals for 2035.",
+    "why_it_matters": "Critical minerals are the backbone of modern defence, clean energy and AI, so a single country's grip on supply is a strategic risk for the whole West. Australia — a major rare earths and lithium producer — is squarely in the \"Indo-Pacific\" group the committee says Britain should team up with to break China's dominance.",
+    "deep_analysis": "## Historical Context\n\nRare earths and other critical minerals are the raw ingredients behind a huge range of technologies — from consumer goods like fridges and washing machines to electric-vehicle batteries and the wings of military aircraft. According to the committee, China first \"weaponised its chokehold\" over rare earths 16 years ago, and has held a stranglehold ever since, not just over mining but over refining. The report stresses that the real bottleneck is the \"processing stage\", where China dominates the refining of seven categories of minerals. In 2025, China demonstrated it could suddenly turn supplies off, underscoring how exposed dependent countries are.\n\n## Multiple Perspectives\n\nThe MPs' view is blunt: Britain is \"dangerously exposed\" and lacks the \"institutional and financial muscle\" to fix it. Chair Liam Byrne argues the UK \"cannot rearm Britain, build AI or deliver net zero\" without securing these minerals. The committee also complained its work was frustrated by government secrecy, saying Parliament has no visibility of what is being protected or backed.\n\nThe government pushes back, denying it lacks a strategy. A spokesperson pointed to £400m for domestic production and recycling, plus 2035 goals: meeting 10% of demand domestically, 20% through recycling, and capping any single country's share at 60%.\n\nThe report also frames this as a shared Western problem — the European Union (EU), the United States (US) and others face the same risk. A Trump–Xi deal has paused export restrictions until January 2027, but that leaves the UK dependent on the state of US-China relations.\n\n## What to Watch\n\nWatch whether the government adopts the committee's 10-point plan and creates the proposed finance facility. Keep an eye on the January 2027 expiry of the export reprieve, and on efforts to \"aggregate demand\" with G7, European and Indo-Pacific partners. The Nexperia legacy-chip row, which reportedly left Europe's car industry \"days away\" from stoppages last October, shows how quickly these disputes can bite.",
     "concepts": [
      {
-      "term": "social engineering",
-      "definition": "Manipulating people into giving up access or sensitive information, rather than breaking into systems by purely technical means.",
-      "context": "Binance says the hackers approached an engineer on a job site and tricked him into installing malware."
+      "term": "critical minerals finance facility",
+      "definition": "A proposed government-backed fund that would use grants, equity and debt to help pay for rare earth and other critical mineral mines and speed up finding alternative suppliers.",
+      "context": "The committee called for its creation to reduce Britain's reliance on China."
      },
      {
-      "term": "cryptocurrency exchange",
-      "definition": "An online platform where people buy, sell and store digital currencies like Bitcoin.",
-      "context": "Binance is the world's largest such exchange and holds crypto on behalf of millions of users."
+      "term": "rare earths",
+      "definition": "A group of metallic elements used to make powerful permanent magnets and other high-tech components, including parts of military jets.",
+      "context": "China dominates both the mining and refining of rare earths worldwide."
      },
      {
-      "term": "deposit protections",
-      "definition": "Government-backed guarantees that reimburse customers up to a limit if a bank fails; crypto users don't get these.",
-      "context": "The article notes crypto isn't covered in the US, UK or Australia, leaving users exposed if an exchange is hacked."
+      "term": "processing stage",
+      "definition": "The refining step that turns raw mined minerals into usable materials — the point where China's dominance creates the biggest supply bottleneck.",
+      "context": "The committee identified this as where the real chokehold lies, not just mining."
      },
      {
-      "term": "malware",
-      "definition": "Malicious software designed to damage, spy on or take control of a computer.",
-      "context": "The engineer was told to download malware disguised as a job interview 'assignment'."
+      "term": "aggregate demand",
+      "definition": "Pooling the buying power of several countries together to make it worthwhile for new suppliers to enter the market.",
+      "context": "The MPs said doing this with G7, European and Indo-Pacific partners was the most realistic solution."
      }
     ],
     "quiz": {
-     "question": "How did the hackers reportedly get their initial foothold inside Binance?",
+     "question": "According to the committee, where does China's dominance create the biggest bottleneck in the critical minerals supply chain?",
      "options": [
-      "By physically breaking into Binance's offices",
-      "By guessing weak customer passwords",
-      "By tricking an engineer with a fake job interview into installing malware",
-      "By bribing a government regulator"
+      "The processing and refining stage",
+      "The shipping and transport of minerals",
+      "The recycling of old products",
+      "The mining of raw ore"
      ],
-     "answer_index": 2,
-     "explanation": "Binance says an engineer was contacted on a legitimate job-hunting platform, lured into bogus interviews, and told to download malware disguised as an 'assignment' — a social engineering attack that then spread to other laptops."
+     "answer_index": 0,
+     "explanation": "The committee heard that the 'processing stage' — refining — is where the bottlenecks are, with China dominating the refining of seven categories of minerals, not just the mining."
     },
-    "background_beginner": "Binance is the world's biggest cryptocurrency exchange — a website where millions of people buy, sell and store digital money like Bitcoin. Because exchanges hold huge sums in one place, they're prime targets for thieves. This story is about a record $6.3bn theft, which investigators including the US FBI blame on hackers working for North Korea, a country long accused of using online crime to raise money while under international sanctions. North Korea denies it. The topic keeps coming up because crypto has few safety nets: unlike bank savings, it usually isn't protected by governments, so when an exchange is hacked, ordinary users can be left badly exposed.",
-    "impact_score": 74,
-    "image_url": "https://i.guim.co.uk/img/media/d542f8264ab26168893328cc468931376fc05f01/434_0_4340_3472/master/4340.jpg?width=1920&quality=85&auto=format&fit=max&s=c37bcfc93bf1b323219565763a6d6b78",
+    "background_beginner": "Modern technology — electric cars, wind turbines, smartphones, AI data centres and fighter jets — all depend on \"critical minerals\" like lithium and rare earth metals. For years, China has controlled much of the world's supply, especially the refining that turns raw rock into usable materials. That gives Beijing powerful leverage: it can slow or stop exports during disputes, as it did in 2025. Countries like the UK, US and across Europe worry this leaves them vulnerable. In this story, a group of British MPs investigated and concluded the UK is \"dangerously\" dependent on China and needs an urgent plan to find new suppliers and build its own mining and recycling. The government says it already has a strategy in motion.",
+    "impact_score": 72,
+    "image_url": "https://i.guim.co.uk/img/media/cb4db687d218902c0710319b5c22a27ce31c84f2/446_0_3333_2667/master/3333.jpg?width=1920&quality=85&auto=format&fit=max&s=041a7e56257a3eeacb6d64b9b25920d4",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "Binance, the world's biggest cryptocurrency exchange, suffered a record $6.3bn theft that investigators link to North Korean hackers who tricked an engineer with a fake job interview.",
+    "description": "A UK parliamentary committee says Britain is \"dangerously\" dependent on China for the critical minerals its military, clean energy and AI industries need, and is urging an urgent new strategy to diversify supply.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/02/binance-cryptocurrency-exchange-hack"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "43d114ec-a362-50fc-8741-ad51b07c0010",
-     "90a6d2c6-7d25-5c08-bbe3-f85c6ca1f127",
-     "b6f8cb8a-3510-5761-9ab0-d6415c960e95"
-    ],
-    "reading_minutes": 6,
-    "created_at": "2026-11-03T19:26:49.885212+00:00",
-    "published_date": "2026-11-04",
-    "has_fulltext": true
-   },
-   {
-    "id": "b3ea2d4b-71a7-557e-becf-5a14d856f9d1",
-    "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
-    "simplified_title": "Brazil releases world's first roadmap for phasing out fossil fuels",
-    "quick_summary": "Brazil has published the world's first global roadmap showing how countries can start moving away from coal, oil and gas now, though critics say it lacks firm deadlines.",
-    "simplified_body": "Brazil's government has released the world's first global \"roadmap\" for phasing out fossil fuels, arguing that every country can begin breaking its dependence on coal, oil and gas straight away without waiting for new technology or economic shifts. There are actually two roadmaps: one on transitioning away from fossil fuels in energy systems, and one on halting and reversing deforestation (the clearing of forests).\n\nThe plans matter because they try to shift the annual United Nations (UN) climate conferences, known as Cops (Conference of the Parties), away from endlessly negotiating new deals and towards actually putting agreed targets into practice. André Corrêa do Lago, Brazil's president of the Cop30 summit, says finance, transport, energy and infrastructure ministries should pick up the roadmaps and work out how to apply them locally.\n\nSome background: Brazil hosted Cop30 last November in Belém, in the Amazon, where a bitter row erupted over whether to include fossil fuel pledges. The compromise was these roadmaps. They're not binding and set no deadlines, which is why climate scientist Joeri Rogelj called them \"valuable but\" lacking the timeline needed to meet the Paris agreement's goal of limiting warming to well below 2C.\n\nWhat's next? Cop31 takes place in Antalya, Turkey, this month. Separately, nearly 60 countries formed a \"coalition of the willing\" in Santa Marta, Colombia, with Germany, France and the Netherlands already producing more detailed national plans. The deforestation roadmap flags that roughly $300bn a year will be needed for forests by 2030, far above today's $85bn.",
-    "why_it_matters": "How quickly the world moves off coal, oil and gas shapes the climate future everyone shares, and these roadmaps test whether global climate summits can finally deliver action rather than just promises.",
-    "deep_analysis": "## Historical Context\n\nThe United Nations has run annual climate summits, called Cops, for decades, and they produced the landmark 2015 Paris agreement, which set the goal of limiting global warming to well below 2C and preferably 1.5C. For years these summits focused heavily on negotiating new commitments. At Cop30, hosted by Brazil in the Amazon city of Belém last November, a dispute broke out over whether the final resolutions should include pledges on fossil fuels. The compromise was for Brazil's presidency to produce two roadmaps — one on energy transition and one on deforestation — marking an attempt to pivot from negotiation to implementation.\n\n## Multiple Perspectives\n\nBrazil's Cop30 president, André Corrêa do Lago, frames the roadmaps as \"documents of implementation,\" arguing that the people who negotiate deals aren't the ones who should coordinate delivery, and that each country should diagnose its own dependence on fossil fuels and choose its own pace.\n\nCritics see a gap. Joeri Rogelj of Imperial College London calls the roadmaps a step forward but says they \"fall short\" by including no timeline or benchmarks, leaving the pace of change needed \"to be imagined.\" Notably, the national roadmaps produced under the separate Santa Marta initiative — by countries like Germany, France and the Netherlands — are described as far more specific and prescriptive, because each government writes its own binding commitments.\n\n## What to Watch\n\nCop31 in Antalya, Turkey, this month is the next test of whether this implementation-focused approach gains traction. Watch the finance question on forests: the roadmap cites a need for about $300bn a year by 2030 and $500bn by 2050, against just $85bn now, with Brazil's Tropical Forest Forever Facility having raised around $7bn so far. Also watch enforcement issues like trade checks on goods from deforested land, highlighted by the lawsuit against Indonesia over recent record-breaking fires.",
-    "concepts": [
-     {
-      "term": "roadmap",
-      "definition": "A non-binding plan laying out possible steps a country could take, without fixed deadlines, to reach a goal — here, cutting reliance on fossil fuels.",
-      "context": "Brazil published two of these as a compromise after a dispute at Cop30."
-     },
-     {
-      "term": "deforestation",
-      "definition": "The clearing or destruction of forests, often to make way for farming, logging or plantations, which releases stored carbon and harms wildlife.",
-      "context": "One of Brazil's two roadmaps focuses on halting and reversing it."
-     },
-     {
-      "term": "Cops",
-      "definition": "The annual United Nations climate summits, short for Conference of the Parties, where countries discuss tackling the climate crisis.",
-      "context": "Brazil wants to shift these from negotiating deals to implementing them."
-     },
-     {
-      "term": "Paris agreement",
-      "definition": "A 2015 global deal aiming to limit warming to well below 2C, and preferably 1.5C, to avoid dangerous climate harm.",
-      "context": "Critics say the roadmaps lack the detail needed to meet its ultimate goal."
-     }
-    ],
-    "quiz": {
-     "question": "Why do critics like Joeri Rogelj say Brazil's roadmaps fall short?",
-     "options": [
-      "They ban fossil fuels too quickly for poor countries",
-      "They include no timeline or key benchmarks for the pace of change",
-      "They were rejected by the United Nations",
-      "They only apply to Brazil and not other countries"
-     ],
-     "answer_index": 1,
-     "explanation": "Rogelj called the roadmaps valuable but said they lack a timeline or benchmarks, leaving unclear what's needed to meet the Paris agreement's goals."
-    },
-    "background_beginner": "Every year the United Nations holds a climate summit called a \"Cop,\" where governments try to agree on how to slow global warming. The big shared goal, set in the 2015 Paris agreement, is to keep the planet from heating past dangerous levels. Burning fossil fuels — coal, oil and gas — is the main driver of that warming, and clearing forests makes it worse. Brazil, home to much of the Amazon rainforest, hosted the Cop30 summit and has now written plans, called roadmaps, suggesting how countries could cut fossil fuel use and protect forests. It keeps coming up because countries argue over how fast to act and who should pay.",
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/adcc136be3a039cc686a97e706b24371222bb09e/0_0_2720_2175/master/2720.jpg?width=1920&quality=85&auto=format&fit=max&s=d95e32278b57a7f4c9557416d53b2132",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "Brazil has published the world's first global roadmap showing how countries can start moving away from coal, oil and gas now, though critics say it lacks firm deadlines.",
-    "tier": "GLOBAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels"
+      "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-03T19:26:45.578636+00:00",
-    "published_date": "2026-11-04",
+    "reading_minutes": 3,
+    "created_at": "2026-11-05T07:26:24.242882+00:00",
+    "published_date": "2026-11-05",
+    "has_fulltext": true
+   },
+   {
+    "id": "4c0f9068-7247-5f02-aeef-e66210078880",
+    "title": "US tech stocks recover after selloff spooks investors over AI spending",
+    "simplified_title": "US tech stocks rebound as Democrats sweep the midterms",
+    "quick_summary": "American tech shares bounced back from an AI-driven selloff just as Democrats won control of both houses of Congress, setting up two years of likely gridlock with President Trump.",
+    "simplified_body": "US tech stocks clawed back losses on Tuesday afternoon after a brief selloff spooked investors worried about how much is being spent on AI (artificial intelligence). The S&P 500 (Standard & Poor's 500) finished up 0.37% and the tech-heavy Nasdaq rose 0.83%, though the Dow (Dow Jones Industrial Average) slipped 0.38% after Apple dropped 1.9% on a weaker profit forecast, blamed on pricier memory chips. Chipmaker Nvidia gained 2.3%, with AMD, Broadcom and Micron also jumping.\n\nThe rebound coincided with the midterm elections. The Guardian, writing as votes were counted, expected Democrats to take at least the House; DW reports they went on to capture both the Senate and the House of Representatives. With Trump still in the White House, analysts expect \"gridlock\" — Trump has vowed to be \"Mr Veto\" and block Democrat bills. Some investors fret the result signals future AI regulation and rising public opposition to data centers, the sprawling facilities that power AI.\n\nFor newcomers: a market \"correction\" means a fall of 10% or more from a recent peak, which the Nasdaq hit on Monday, down 10% from its 6 October record. \"Tariffs\" are taxes on imports; polling by the Pew Research Center in early October found 56% of Americans think Trump's tariffs are mostly negative. Oil also eased, with Brent crude dropping to $103 a barrel from $117 at October's end amid possible talks with Iran and Russia.\n\nWhat's next is murky. With neither side able to force the other's hand, expect legal fights over tariffs, talk of impeachment, and hopes that an Iran deal could lower petrol prices. Analysts say nothing major shifts unless Democrats also win the presidency in 2028.",
+    "why_it_matters": "When US tech giants wobble or rally, the shockwaves reach Australian shares and the super funds that hold them, so a shaky \"AI growth story\" and a divided Washington matter well beyond Wall Street. Cheaper oil would also ease cost-of-living pressure at the bowser here.",
+    "deep_analysis": "## Historical Context\n\nMidterm elections in the US happen halfway through a president's four-year term and often deliver a rebuke to the party in power. Here, Democrats took both chambers of Congress while Donald Trump keeps the White House for two more years — a classic recipe for \"divided government\". Markets have a long memory of this pattern: CNBC's analysis of results from 1980 to 2024 shows Wall Street tends to be jittery before a vote, then recover once the outcome is clear. That broadly fits this week, with stocks rebounding after an initial dip. The selloff itself was the end of a rough patch for AI and tech names — the Nasdaq had just logged its biggest monthly fall since March 2025.\n\n## Multiple Perspectives\n\nThe two sources frame the politics slightly differently because of timing: the Guardian, writing on election day, described Democrats as *likely* to win the House and possibly gain in the Senate, while DW, writing afterwards, reports a clean sweep of both houses. On the economy, analysts diverge on how much actually changes. Capital Economics' Stephen Brown argues the near-term outlook barely shifts, since Democrats lack a filibuster-proof Senate and Trump holds veto power. The Peterson Institute's Jacob Funk Kirkegaard goes further — predicting \"100% gridlock\" but also warning the vote exposes a \"shaky\" political foundation under the aggressive AI buildout, as local opposition to data centres grows. On tariffs, trade expert Deborah Elms doubts Trump will be \"moderated\" at all.\n\n## What to Watch\n\nWatch whether cheaper oil holds — Brent fell to $103 a barrel amid possible Iran and Russia talks, and a genuine Iran deal could pull petrol prices down further. Watch for Democrat-led legal challenges to Trump's tariffs and any impeachment push, which Kirkegaard suggests could make Trump \"more accommodating\". And watch the AI trade: if data-centre resistance spreads, it could dent big tech valuations.",
+    "concepts": [
+     {
+      "term": "correction",
+      "definition": "A fall of 10% or more in a market or index from its recent high point, often seen as a meaningful pullback rather than a short blip.",
+      "context": "The Nasdaq entered a correction on Monday, down 10% from its 6 October record close, before rebounding the next day."
+     },
+     {
+      "term": "data centers",
+      "definition": "Large warehouses full of computers and servers that store data and do the heavy processing behind AI and online services.",
+      "context": "Public opposition to data centres is cited as a factor that helped some Democratic candidates win and could slow the AI boom."
+     },
+     {
+      "term": "tariffs",
+      "definition": "Taxes a government places on imported goods, which can raise prices and prompt other countries to hit back with their own.",
+      "context": "Pew polling found 56% of Americans view Trump's tariffs as mostly negative, a sentiment that drove votes in export-reliant states."
+     },
+     {
+      "term": "gridlock",
+      "definition": "A political stalemate where opposing sides control different parts of government and block each other, so little new legislation passes.",
+      "context": "With Democrats holding Congress and Trump holding the White House, analysts expect two years of gridlock."
+     }
+    ],
+    "quiz": {
+     "question": "Why do analysts expect little major economic policy change over the next two years despite the Democrats' win?",
+     "options": [
+      "Because Trump keeps the presidency and veto power while Democrats lack a filibuster-proof Senate",
+      "Because the stock market selloff forced a compromise",
+      "Because the Democrats promised not to touch the economy",
+      "Because tariffs have already been abolished by the courts"
+     ],
+     "answer_index": 0,
+     "explanation": "Analysts like Capital Economics' Stephen Brown note that Trump's veto and the Democrats' lack of a filibuster-proof Senate majority mean the near-term policy outlook barely shifts — hence the expectation of gridlock."
+    },
+    "background_beginner": "This story sits where US politics meets the sharemarket. The main players are President Donald Trump, the Democratic Party (which just won control of Congress in the midterm elections), and the giant US technology companies — Apple, Nvidia and fellow chipmakers — whose shares drive indexes like the S&P 500 and the Nasdaq. It keeps coming up because so much money has poured into AI, the technology behind chatbots and automation, and investors nervously debate whether that spending is sustainable. Elections add another twist: who controls Washington shapes rules on AI, tariffs (import taxes) and energy, all of which move markets and hit everyday costs like petrol.",
+    "impact_score": 68,
+    "image_url": "https://i.guim.co.uk/img/media/4deeff6920cbe68eb5c102d876b4df883151e8e9/0_0_6988_4658/master/6988.jpg?width=1920&quality=85&auto=format&fit=max&s=06dc65650e32c86dadcdc55ddf9c418a",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "American tech shares bounced back from an AI-driven selloff just as Democrats won control of both houses of Congress, setting up two years of likely gridlock with President Trump.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "62398d2d-7d31-58bf-a489-4048ea06358d",
+     "6a387773-8ffa-5738-8d01-51ae523cbb89",
+     "bbf1a2f0-de04-500f-9c0e-5df8e112d929",
+     "e6c79d17-1ee7-594f-af94-02864e98b995",
+     "fe51d88f-aa5d-5346-b6d3-58e4f17548b3"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-11-05T07:26:51.246589+00:00",
+    "published_date": "2026-11-05",
     "has_fulltext": true
    },
    {
@@ -1476,259 +1492,133 @@
   ],
   "ADF": [
    {
-    "id": "4572dfdd-6f6c-549a-9ad3-0ad65d467241",
-    "title": "Forward defence in depth: how to preserve Australia’s strategy of denial | The Strategist",
-    "simplified_title": "New report urges Australia to push its defence further from home",
-    "quick_summary": "An ASPI report argues Australia should adopt \"forward defence in depth\" — projecting military power further from its shores, with allies — to keep its deterrence strategy credible against China's rapid military build-up.",
-    "simplified_body": "A new report from the Australian Strategic Policy Institute (ASPI) argues that Australia's current defence approach — known as a \"strategy of denial\" — is being outpaced by China's fast and secretive military modernisation. The report's author proposes an operational concept called \"forward defence in depth,\" meaning the Australian Defence Force (ADF) should be able to detect, deter and, where authorised, respond to threats much further from home, across all five domains: land, sea, air, cyber and space.\n\nThis matters because China now has long-range strike, space, cyber and power-projection capabilities that can reach Australian territory, deployed ADF units, and the maritime trade routes and undersea infrastructure the country depends on — often from beyond the reach of an ADF based in northern Australia. The report frames this as a strategic vulnerability.\n\nFor background, a \"strategy of denial\" aims to convince an adversary that using force or coercion won't achieve its goals. The author stresses this new concept is not a return to the \"forward defence\" of the 1950s and 1960s, when the ADF was stationed indefinitely in foreign countries, and it doesn't advocate pre-emption. It also builds on Australia's 2024 and 2026 National Defence Strategy (NDS), which already moved away from the older, narrower \"Defence of Australia\" thinking of the 1987 white paper.\n\nLooking ahead, the report suggests the 2028 NDS will need to go further towards \"impactful projection.\" Success would require persistent sensing, survivable forward presence, resilient command and control, and closer ties with the US plus Japan, the Philippines, Indonesia and Papua New Guinea to share the regional defence burden.",
-    "why_it_matters": "This is directly about Australia's own security: how the ADF protects the nation's territory, trade routes and undersea infrastructure as China's military reach grows, and how much Australia leans on regional partners to do it.",
-    "deep_analysis": "## Historical Context\n\nAustralia's defence thinking has swung between projecting power abroad and defending the continent itself. The report explicitly contrasts its proposal with two earlier postures. The first is \"forward defence\" of the 1950s and 1960s, when the ADF was forward-deployed on an indefinite basis in foreign states. The second is the \"Defence of Australia\" approach set out in the 1987 white paper, a more inward-looking, continent-focused posture. The author argues the 2024 and 2026 National Defence Strategy (NDS) documents have already begun steering policy away from that narrow mindset, with the proposed \"forward defence in depth\" being the next step along that path.\n\n## Multiple Perspectives\n\nThe report's central claim is that credibility depends on reach: if China can threaten Australia from beyond the ADF's effective range, then a denial strategy confined to northern Australia loses its deterrent value. The author is careful to distinguish the concept from more aggressive doctrines — it is explicitly not \"deterrence by punishment\" and not pre-emption, but rather the capacity to deploy and sustain forces far enough forward to deny an adversary the initiative. The argument also rests on partnership: the US alliance remains most important, but the report calls for elevating ties with Japan, the Philippines, Indonesia and Papua New Guinea for access, transit, logistics and interoperability — framed as mutual trust-building rather than one-sided demands. The principal justification offered is China's rapid and non-transparent modernisation, which Australia's defence and foreign ministers have said lacks reassuring transparency.\n\n## What to Watch\n\nThe clearest marker is the 2028 NDS, which the report argues should adopt a more ambitious approach towards \"impactful projection.\" Beyond that, watch for investment in the specific capabilities named: persistent sensing and targeting, survivable forward presence, resilient command and control, integration of crewed and uncrewed systems, and resilient logistics — plus whether defence diplomacy with the named regional partners deepens.",
+    "id": "739cf219-432d-59d3-a8ee-fd71be5cf90d",
+    "title": "North Korea fires several missiles into Sea of Japan",
+    "simplified_title": "North Korea Fires Several Missiles Into Sea of Japan",
+    "quick_summary": "North Korea launched several missiles off its east coast on 4 November, continuing a run of weapons tests amid rising tensions with South Korea and the United States.",
+    "simplified_body": "On the morning of Wednesday 4 November, North Korea fired several missiles from the Sondok area towards the East Sea, also known as the Sea of Japan. South Korea's Joint Chiefs of Staff (JCS) said its military tracked the launches from the preparation stage, and that South Korea and the United States were analysing the missiles' exact specifications.\n\nThis affects the Korean Peninsula and the wider region, as the nuclear-equipped North keeps testing weapons. The launch followed a reported test of strategic cruise missiles the day before, a test of cluster bomb warheads over the weekend, and recent trials of attack drones, a precision-guided torpedo system and an intermediate-range hypersonic missile.\n\nTensions have risen over a landmine explosion along the heavily fortified border. A joint investigation by Seoul and the United Nations (UN) concluded the North had planted the mines more than a year earlier, wounding three South Korean soldiers. The North denies responsibility and has vowed to further fortify the border and resume its loudspeaker campaign.\n\nKim Yo Jong, the powerful sister of North Korean leader Kim Jong Un, warned Pyongyang would mount a stronger response to Washington's \"hostile policy\" and showed little interest in renewed talks. State media, the Korean Central News Agency (KCNA), quoted her using the acronym DPRK (Democratic People's Republic of Korea). Meanwhile, US President Donald Trump has said his relationship with Kim is \"very good\" and that he \"may\" meet him during his Asian tour this month.",
+    "why_it_matters": "A burst of North Korean missile tests raises regional instability in the Indo-Pacific, a security neighbourhood Australia pays close attention to through its alliances and trade ties with South Korea, Japan and the United States.",
+    "deep_analysis": "## Historical Context\n\nNorth Korea has pursued nuclear weapons and missile technology for decades, repeatedly testing systems despite international sanctions. The Korean Peninsula has remained technically at war since the 1950–53 Korean War ended in an armistice rather than a peace treaty, leaving a heavily fortified border between North and South. Periods of tension and attempted diplomacy have cycled for years, including earlier summits involving Kim Jong Un and Donald Trump.\n\n## Multiple Perspectives\n\nSouth Korea and the United States, who monitored and tracked the latest launches, treat the testing as a security threat and are analysing the missiles' specifications. North Korea frames its actions as a \"reflective counteraction\" to what Kim Yo Jong calls Washington's \"invariable hostile policy\", and denies responsibility for the border landmines that a joint Seoul-UN investigation attributed to it. Trump, meanwhile, strikes a more conciliatory personal tone, touting a \"very good\" relationship with Kim and floating a possible meeting. These positions sit in clear tension.\n\n## What to Watch\n\nWatch whether Trump actually meets Kim during his Asian tour this month, which he called possibly \"exciting\". Keep an eye on the results of the South Korean–US analysis of the missiles, any resumption of North Korea's loudspeaker campaign, and whether the flurry of tests continues or escalates further along the border.",
     "concepts": [
      {
-      "term": "strategy of denial",
-      "definition": "A defence approach aimed at convincing an adversary that using force or coercion against you won't achieve its political and strategic goals.",
-      "context": "This is the existing Australian strategy the report says needs strengthening to stay credible."
+      "term": "Joint Chiefs of Staff",
+      "definition": "South Korea's top military command body, which detects and reports on threats such as North Korean launches.",
+      "context": "South Korea's Joint Chiefs of Staff (JCS) said its military tracked the launches from the preparation stage."
      },
      {
-      "term": "forward defence in depth",
-      "definition": "The report's proposed concept: the capacity to deploy and sustain forces far from home to detect, deter and respond to threats before they reach Australia.",
-      "context": "It is pitched as the next evolution of Australia's denial strategy, distinct from older postures."
+      "term": "Sea of Japan",
+      "definition": "The body of water off North Korea's east coast, also called the East Sea, where the missiles were fired.",
+      "context": "North Korea fired several missiles towards the East Sea, also known as the Sea of Japan."
      },
      {
-      "term": "National Defence Strategy (NDS)",
-      "definition": "Australia's overarching defence policy document, with editions referenced in 2024, 2026 and a forthcoming 2028 version.",
-      "context": "The report builds on the 2026 NDS and argues the 2028 edition should go further."
+      "term": "DPRK",
+      "definition": "The Democratic People's Republic of Korea, North Korea's official name.",
+      "context": "State media quoted Kim Yo Jong using the acronym DPRK."
      },
      {
-      "term": "undersea infrastructure",
-      "definition": "Cables and installations beneath the sea that carry data and support security and trade, which can be targeted militarily.",
-      "context": "Named as something China could now threaten from beyond the ADF's reach."
+      "term": "KCNA",
+      "definition": "The Korean Central News Agency, North Korea's state-run news outlet.",
+      "context": "State media, the Korean Central News Agency (KCNA), quoted her remarks."
      }
     ],
     "quiz": {
-     "question": "What is the main reason the report gives for adopting \"forward defence in depth\"?",
+     "question": "Why does the latest round of North Korean missile tests matter regionally?",
      "options": [
-      "Australia plans to launch pre-emptive strikes on adversaries",
-      "China's rapid, non-transparent military modernisation lets it threaten Australia from beyond the ADF's reach",
-      "Australia wants to station troops permanently in foreign countries again",
-      "The US has asked Australia to take over regional defence"
+      "It was the first time North Korea had ever tested a missile",
+      "It comes amid heightened tensions with South Korea and the US, extending a flurry of tests by the nuclear-equipped North",
+      "The United States announced it would withdraw from the region",
+      "South Korea admitted to planting the border landmines"
      ],
      "answer_index": 1,
-     "explanation": "The report names China's rapid and non-transparent modernisation — which can threaten Australian territory and trade routes from beyond the ADF's effective reach — as the principal justification, while explicitly rejecting a return to permanent foreign basing and pre-emption."
+     "explanation": "The article frames the launches as part of a burst of weapons testing by the nuclear-equipped North during heightened tensions with Seoul and Washington, including a dispute over border landmines."
     },
-    "background_beginner": "The Australian Strategic Policy Institute (ASPI) is a think tank that publishes research on defence and security. Its reports often shape debate about how the Australian Defence Force (ADF) should be set up. For years Australia has leaned on a \"strategy of denial\" — making any attacker doubt that force would pay off. The big concern driving this report is China's fast and secretive military growth, which experts say now gives it the ability to reach Australia's territory, trade routes and undersea cables. The question that keeps coming up is simple: should Australia defend close to home, or push its forces and alliances further out to stay a step ahead?",
-    "impact_score": 62,
-    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/20250824adf8658961_0854.jpg",
+    "background_beginner": "North Korea, officially the DPRK, is a secretive, nuclear-armed country led by Kim Jong Un. It shares a tense, heavily guarded border with South Korea, a US ally, dating back to the Korean War of the 1950s, which never formally ended. For years North Korea has tested missiles and other weapons, often triggering alarm in neighbouring Japan and South Korea and condemnation abroad. These tests keep recurring as Pyongyang pushes back against what it calls US hostility and tries to strengthen its military. Key figures include Kim Jong Un, his influential sister Kim Yo Jong, and US President Donald Trump, who has at times sought a personal rapport with Kim.",
+    "impact_score": 58,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--eH_lQQcq--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/04/000_d6cm48b.jpg?itok=kYNH14eH",
     "region": "Australian defence, ADF, AUKUS, regional security",
     "region_code": "ADF",
-    "description": "An ASPI report argues Australia should adopt \"forward defence in depth\" — projecting military power further from its shores, with allies — to keep its deterrence strategy credible against China's rapid military build-up.",
+    "description": "North Korea launched several missiles off its east coast on 4 November, continuing a run of weapons tests amid rising tensions with South Korea and the United States.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "ASPI Strategist",
-      "url": "https://www.aspistrategist.org.au/forward-defence-in-depth-how-to-preserve-australias-strategy-of-denial/"
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-fires-missiles-sea-japan-6522721"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-03T19:27:19.012389+00:00",
-    "published_date": "2026-11-04",
+    "related_story_ids": [
+     "80b1e1de-ccfc-587a-87a5-2496480cddee",
+     "986042e0-9c9e-53df-bea5-20b82519d0e2",
+     "b97ede95-3b78-5d59-8563-c3b68feb6f72",
+     "d42ceb56-8b03-5d33-a9af-48b15e95e1b3"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-05T07:27:03.791127+00:00",
+    "published_date": "2026-11-05",
     "has_fulltext": true
    },
    {
-    "id": "22707cc4-4ef4-586f-81c5-125aa4927c0e",
-    "title": "Australia’s defence investment must build the industry to sustain a fight | The Strategist",
-    "simplified_title": "Why Australia's North Should Become a Defence Proving Ground",
-    "quick_summary": "A defence think tank argues Australia should turn the Northern Territory into a hub for testing, repairing and sustaining military gear so it can keep fighting through a long crisis, not just buy weapons.",
-    "simplified_body": "Australia is spending billions on defence as the Indo-Pacific region grows more unstable. But a new piece from the Australian Strategic Policy Institute (ASPI) argues that too little thought is going into whether that money builds the industrial muscle to keep weapons working through a drawn-out conflict. The suggestion: make the Northern Territory a national centre for testing, adapting and sustaining military systems.\n\nThis matters to Defence planners, Australian manufacturers and the states jostling for the work. Take LAND 156, Defence's counter-drone program, which has up to A$7 billion committed over the coming decade. At South Australia's Cultana Training Area, soldiers trialled 20 drone-defeating systems and picked eight. But buying kit is only half the job — you also need to repair it, replace parts, update software and ramp up production, and those skills take years to grow.\n\nSeveral states want the testing dollars. South Australia has Woomera and Cultana; Queensland is backing a three-million-acre weapons range near Thargomindah due in 2028; Western Australia has its own facilities. The article says the north has a strong case thanks to vast distances, tropical conditions and nearby bases like Darwin and Tindal. In October, Australian firm Praetorian Aeronautics tested its Arrow interceptor and Hadrian battle-management system near Darwin — a taste of what's possible.\n\nWhat next? The author wants a coordinated federal–territory framework linking testing sites to industrial land, energy, transport and workers, plus steady procurement so companies invest for the long haul. There are real downsides — higher costs, workforce shortages — so the pitch is a complementary northern proving ground, not another Woomera.",
-    "why_it_matters": "This is squarely an Australian story: it shapes where defence jobs, factories and billions in spending could land, and whether the country could actually sustain a fight close to home rather than just stockpiling gear that can't be fixed or replaced.",
-    "deep_analysis": "## Historical Context\n\nAustralia has long leaned on overseas suppliers for major military equipment, buying finished platforms rather than building deep local capacity to maintain and produce them. Established ranges like Woomera in South Australia have decades of sophisticated instrumentation and skilled staff behind them. The article's argument reflects a growing concern, sharpened by conflicts elsewhere, that modern wars burn through equipment and munitions faster than peacetime supply chains can replace — making the ability to repair, adapt and scale up production a strategic asset in its own right.\n\n## Multiple Perspectives\n\nThe author's view is that the Northern Territory's distances, tropical climate and proximity to northern bases make it ideal for \"theatre-relevant\" testing tied to real industrial sustainment. State development agencies in South Australia, Queensland and Western Australia each push their own facilities, and the article warns Defence decisions should follow national capability needs, not inter-state competition. The counterargument is openly acknowledged: the north faces high infrastructure costs, workforce shortages and logistical hurdles, and not every system needs tropical testing. The proposed resolution is a complementary proving ground rather than a replacement for existing ranges.\n\n## What to Watch\n\nWatch whether the federal government and Northern Territory actually strike a coordinated investment framework linking testing to land, energy, transport and workforce. Watch the counter-drone program LAND 156 as an early test case, Queensland's Thargomindah facility due in 2028, and whether procurement offers enough certainty for firms to build permanent facilities. The real measure, per the article, is how fast equipment can be tested, repaired and returned to service — and whether industry can expand output when demand spikes.",
+    "id": "f212c5fc-ef7e-57fd-9bc3-ca4a0e7313c0",
+    "title": "China disputes reports of artillery shell found in Papua New Guinea",
+    "simplified_title": "China denies artillery shell found in PNG, calls it a wine bottle",
+    "quick_summary": "China says a heavy object found in a shipping container in Papua New Guinea is a wine bottle, not an artillery shell, after four of its nationals were arrested.",
+    "simplified_body": "Police in Port Moresby, the capital of Papua New Guinea (PNG), arrested four Chinese nationals last Friday after a 32kg object was discovered in a commercial shipping container at a construction site. The police commissioner, David Manning, called it \"a very concerning discovery\", and local reports said authorities were checking whether it was a live device. The Chinese embassy has since pushed back, saying on Facebook it is actually a \"shell-shaped wine bottle\" that \"poses no danger at all\".\n\nThis matters because the two accounts are wildly different. The Australian Broadcasting Corporation (ABC), citing unnamed sources, reported the object was an undetonated 130mm Chinese Type 59 Artillery Projectile containing chemical explosives and a fuse. The BBC says it has not independently verified that. China argues it is \"virtually impossible\" for military-grade weapons to be smuggled out of the country, pointing to its strict firearm control laws.\n\nFor newcomers, PNG is a Pacific nation just north of Australia, and both China and Australia are active players in the region. A disputed find like this quickly becomes a diplomatic flashpoint. PNG police had already dismissed earlier speculation that the object was \"merely a dummy\".\n\nWhat happens next hinges on verification. If investigators confirm it is a genuine shell, questions follow about how it got there and who is responsible. If the \"wine bottle\" explanation holds, the story fades. For now, the sources disagree and the object's true nature is unresolved — and some Facebook users are openly sceptical, with one asking, \"What sort of wine bottle weighs 32 kilograms?\"",
+    "why_it_matters": "A disputed weapons claim in Papua New Guinea — Australia's closest Pacific neighbour — touches directly on the regional tug-of-war for influence between Canberra and Beijing.",
+    "deep_analysis": "## Historical Context\n\nPapua New Guinea sits just to Australia's north and has long been a focus of both Australian and Chinese engagement in the Pacific. Discoveries involving foreign nationals, shipping containers and possible military hardware are sensitive anywhere, but especially in a region where larger powers are competing for influence. In this case, the facts themselves are contested: PNG police treated the 32kg object as a serious, possibly live device, while China's embassy insists it is a harmless wine bottle shaped like a shell.\n\n## Multiple Perspectives\n\nThe two sides tell starkly different stories. PNG police commissioner David Manning called it \"a very concerning discovery\", and police had earlier dismissed suggestions it was \"merely a dummy\". The Australian Broadcasting Corporation, citing unnamed sources, described it as an undetonated 130mm Chinese Type 59 Artillery Projectile with chemical explosives and a fuse — though the BBC stresses this is not independently verified. The Chinese embassy counters that smuggling a military-grade shell out of China is \"virtually impossible\", citing some of the world's strictest firearm laws, and labels the object a \"shell-shaped wine bottle\". Public reaction on Facebook was sceptical, with users questioning a 32kg \"wine bottle\" bearing no identifying labels.\n\n## What to Watch\n\nThe key question is independent verification of what the object actually is. Watch for official forensic findings from PNG authorities, any charges against the four arrested Chinese nationals, and whether the ABC's unverified identification is confirmed or refuted. How China and PNG manage the diplomatic friction will also be telling.",
     "concepts": [
      {
-      "term": "LAND 156",
-      "definition": "Australian Defence's program to acquire systems that detect and defeat hostile drones, with up to A$7 billion committed over the coming decade.",
-      "context": "The article uses it as the immediate opportunity to start a northern testing and sustainment program."
+      "term": "Type 59 Artillery Projectile",
+      "definition": "A Chinese-made 130mm military artillery shell; the ABC reported the found object matched this type, containing chemical explosives and a fuse.",
+      "context": "Reported by the ABC via unnamed sources, but not independently verified by the BBC."
      },
      {
-      "term": "sustainment",
-      "definition": "The ongoing ability to keep military equipment working — repairing damage, replacing parts, updating software and increasing production.",
-      "context": "The central argument is that Australia buys equipment but underinvests in the capacity to sustain it during a prolonged crisis."
+      "term": "shipping container",
+      "definition": "A large standardised metal box used to transport goods by sea; the object was found inside one of these at a construction site.",
+      "context": "The container arrived in Port Moresby, raising questions about how the object got there."
      },
      {
-      "term": "deterrence",
-      "definition": "Discouraging an adversary from attacking by making clear you have the capability and resolve to respond effectively.",
-      "context": "The author links a strong northern industrial base to strengthening deterrence as well as the ability to fight if needed."
-     },
-     {
-      "term": "battle-management system",
-      "definition": "Software and systems that coordinate sensors, weapons and decisions across a battlefield in real time.",
-      "context": "Praetorian Aeronautics tested its Hadrian battle-management system alongside its Arrow interceptor near Darwin in October."
+      "term": "Port Moresby",
+      "definition": "The capital city of Papua New Guinea, where the object was discovered and the arrests took place.",
+      "context": "Police there made the find and arrested four Chinese nationals."
      }
     ],
     "quiz": {
-     "question": "What is the article's main argument about Australia's defence investment?",
+     "question": "Why do the accounts of what the object is conflict?",
      "options": [
-      "Australia should stop buying foreign-made weapons entirely",
-      "States should compete freely to decide where defence money goes",
-      "Woomera should be shut down and replaced by a Darwin facility",
-      "Buying equipment isn't enough; Australia needs industrial capacity to repair, adapt and scale up production, with the north as a testing and sustainment hub"
+      "Australia confirmed it was a dummy device",
+      "Both sides confirmed it was a harmless wine bottle",
+      "PNG police and the Chinese embassy agree it is a live shell",
+      "The ABC says it's a shell while China's embassy calls it a wine bottle, and the claim is unverified"
      ],
      "answer_index": 3,
-     "explanation": "The piece stresses that purchasing kit is only part of the challenge — Australia must be able to repair, modify and increase production, and the Northern Territory should anchor an enduring testing and sustainment network."
+     "explanation": "The ABC reported (via unnamed sources) it was a Type 59 artillery shell, while China's embassy insists it's a shell-shaped wine bottle — and the BBC has not independently verified either claim."
     },
-    "background_beginner": "The Australian Strategic Policy Institute (ASPI) is a Canberra-based think tank that publishes analysis on defence and security. This article is its argument about how Australia spends its growing defence budget as tensions rise across the Indo-Pacific. The key players are the federal Defence department, the Northern Territory and state governments (South Australia, Queensland, Western Australia) that all want testing facilities, and Australian defence companies. The debate keeps coming up because modern conflicts use up weapons quickly, so being able to repair, upgrade and build more gear at home — not just buy it — is seen as crucial to actually sustaining a fight.",
-    "impact_score": 55,
-    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/10/20251110adf8632334_5332.jpg.iCeDrpiIMpUjf_9jYBMA.HbKis1lDZE.jpg",
+    "background_beginner": "Papua New Guinea (PNG) is a Pacific island nation directly north of Australia. It has close ties with Australia and growing engagement with China, both of which are competing for influence across the Pacific. This story began when police in the capital, Port Moresby, arrested four Chinese nationals after finding a heavy 32kg object inside a shipping container at a construction site. The dispute keeps coming up because no one agrees on what the object actually is: Australian media reported it as a Chinese artillery shell, while China's embassy insists it is just a wine bottle shaped like one. Until it's independently verified, the mystery — and the diplomatic tension — remains.",
+    "impact_score": 42,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/03fb/live/ecd52fb0-d800-11f1-b851-6586c863d7ea.jpg",
     "region": "Australian defence, ADF, AUKUS, regional security",
     "region_code": "ADF",
-    "description": "A defence think tank argues Australia should turn the Northern Territory into a hub for testing, repairing and sustaining military gear so it can keep fighting through a long crisis, not just buy weapons.",
+    "description": "China says a heavy object found in a shipping container in Papua New Guinea is a wine bottle, not an artillery shell, after four of its nationals were arrested.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "ASPI Strategist",
-      "url": "https://www.aspistrategist.org.au/australias-defence-investment-must-build-the-industry-to-sustain-a-fight/"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-03T19:27:23.499376+00:00",
-    "published_date": "2026-11-04",
-    "has_fulltext": true
-   },
-   {
-    "id": "ce7fa999-01ee-5b9c-897b-d566cc2f8b25",
-    "title": "Amid official and uni discretion, Australia needs hubs that will critique China | The Strategist",
-    "simplified_title": "Australia Needs Independent Hubs to Scrutinise China, Says ASPI",
-    "quick_summary": "An ASPI commentator argues Australia should build independent \"critical China hubs\" — combining a parliamentary committee and civil society — to openly research and inform the public about challenges posed by the Chinese party-state.",
-    "simplified_body": "The Australian Strategic Policy Institute (ASPI) has published an argument that Australia urgently needs to set up \"critical China hubs\". These would be bodies free to publicly critique the Chinese party-state — something the author says governments and universities are reluctant to do. The hubs would collect, analyse and share information on China's economic statecraft, United Front activities (influence work directed by the Chinese Communist Party, or CCP), educational influence, cyber threats, and regional aims.\n\nThis matters for legislators, policymakers, journalists, universities and the broader public, who the author says struggle to stay informed because much detail about China-linked bodies appears only in Chinese and some activity is covert or ignored for financial reasons. The piece argues this gap weakens Australia's ability to form good policy.\n\nThe author points to overseas examples as models. The most prominent is the United States Congressional House Select Committee on China, which holds hearings and publishes reports on everything from economic aggression to threats to Taiwan. Smaller civil-society groups cited include Prague's Sinopsis and European Values Center, Spain's Safeguard Defenders, the UK-based Inter-Parliamentary Alliance on China, and Taiwan's Doublethink Lab. All, the author notes, are under-resourced and face Chinese coercive pressure.\n\nLooking ahead, the article suggests three paths: create a dedicated parliamentary committee, expand China-watching teams within think tanks (noting ASPI already has one), and have philanthropists fund think tanks or a new academy for critical China studies. The author stresses this is not about closing doors to China, but keeping \"our eyes open\".",
-    "why_it_matters": "The piece argues Australia lacks the open, independent China expertise its allies are building, leaving its parliament, agencies and public under-informed on influence and security challenges close to home in the Pacific and the wider region.",
-    "deep_analysis": "## Historical Context\n\nThe article opens with former West German chancellor Willy Brandt's line that \"Foreign policy is too important to be left to governments alone,\" framing China policy as a shared national responsibility rather than purely a government job. As background, concern about Chinese state influence in democracies has grown over the past decade, prompting new tools overseas. The piece highlights the US House Select Committee on China and section 1286 of the US National Defense Authorization Act, under which Chinese institutes can be listed as entities of national security concern — affecting whether Department of Defense-funded researchers may engage with them. On 1 October, committee chairman John Moolenaar reportedly wrote urging more than 100 Chinese institutes and programs be added to that list.\n\n## Multiple Perspectives\n\nThe author's central claim is that Australia needs independent hubs because existing actors are constrained: governments keep concerns inside defence and diplomatic agencies, and universities are \"tightly tied financially to China\" and so unwilling or unable to pursue the agenda. The author contrasts this with the global landscape, where groups like Sinopsis, Safeguard Defenders, the Inter-Parliamentary Alliance on China and Doublethink Lab openly engage the public. A counterpoint acknowledged within the piece is the power discrepancy — these organisations are under-resourced and face China's coercive power, and much source material is available only in Chinese, obstructing research. The author is careful to frame the goal as openness, not decoupling: \"It is not a matter of closing our doors to China. But our eyes must be open.\"\n\n## What to Watch\n\nWhether Canberra establishes a dedicated parliamentary committee modelled on the US one, and whether it replicates US-style research-security restrictions on engagement with Chinese research entities. Also watch whether Australian think tanks beyond ASPI build China-watching teams, and whether philanthropic funding emerges for a new critical China studies academy.",
-    "concepts": [
-     {
-      "term": "United Front",
-      "definition": "Influence and outreach activities coordinated by the Chinese Communist Party to build networks of support and shape opinion outside the party, including overseas.",
-      "context": "The proposed hubs would analyse China's United Front activities among other challenges."
-     },
-     {
-      "term": "critical China hubs",
-      "definition": "Proposed independent bodies, free of government or university constraints, that would openly research and publicly critique the Chinese party-state.",
-      "context": "The article's core proposal is that Australia build its own critical China hubs."
-     },
-     {
-      "term": "economic statecraft",
-      "definition": "Using economic tools like trade, investment and financial pressure to pursue strategic and political goals.",
-      "context": "The hubs would collect and analyse information on China's economic statecraft."
-     },
-     {
-      "term": "party-state",
-      "definition": "A system where the ruling party and the government are fused, so the party effectively controls the state — used here to describe China under the CCP.",
-      "context": "The hubs are called 'critical' because they would be free to publicly critique the Chinese party-state."
-     }
-    ],
-    "quiz": {
-     "question": "According to the article, why does the author argue Australian universities are poorly placed to host critical China hubs?",
-     "options": [
-      "They lack any staff who can read Chinese-language materials",
-      "They are already fully funded by philanthropic bodies for this task",
-      "The government has legally banned them from criticising China",
-      "Many are tightly tied financially to China and lack the will or capacity"
-     ],
-     "answer_index": 3,
-     "explanation": "The article states few universities would host such a body because so many are tightly tied financially to China, and existing China studies programs have neither the will nor the capacity to pursue the agenda."
-    },
-    "background_beginner": "The Australian Strategic Policy Institute (ASPI) is a Canberra-based think tank that studies defence and security, and it has a team that watches China closely. This article is an opinion piece arguing Australia should set up independent groups to research and publicly discuss the challenges posed by the Chinese Communist Party (CCP), which runs China's government. Around the world, democracies have grown worried about Chinese influence in universities, technology, cyberspace and politics. Countries like the United States have built parliamentary committees and civil-society groups to study this openly. The debate keeps coming up because China is a major trading partner for Australia, so balancing economic ties with security concerns is an ongoing tension.",
-    "impact_score": 52,
-    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/470232429_17944053227921782_2930970855873280562_n-e1793692933169.jpg",
-    "region": "Australian defence, ADF, AUKUS, regional security",
-    "region_code": "ADF",
-    "description": "An ASPI commentator argues Australia should build independent \"critical China hubs\" — combining a parliamentary committee and civil society — to openly research and inform the public about challenges posed by the Chinese party-state.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "ASPI Strategist",
-      "url": "https://www.aspistrategist.org.au/amid-official-and-uni-discretion-australia-needs-hubs-that-will-critique-china/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 5,
-    "created_at": "2026-11-03T19:27:46.608235+00:00",
-    "published_date": "2026-11-04",
+    "reading_minutes": 1,
+    "created_at": "2026-11-05T07:27:03.088500+00:00",
+    "published_date": "2026-11-05",
     "has_fulltext": true
    }
   ],
   "AI_TECH": [
-   {
-    "id": "f420ff59-5258-55b2-b6f8-fdcde2a135c5",
-    "title": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
-    "simplified_title": "UK warns AI malware likely to hit vital services by 2028",
-    "quick_summary": "Britain's cybersecurity agency says AI-powered malware will \"highly likely\" be used in a ransomware attack on the UK's critical national infrastructure by 2028.",
-    "simplified_body": "The National Cyber Security Centre (NCSC), part of the GCHQ spy agency, says it is \"highly likely\" that AI-powered malicious software (malware) will be used in a ransomware attack on the UK's critical national infrastructure (CNI) between now and 2028. In its annual review, the NCSC also warned that Russia and China will start using AI \"routinely\" in cyber-attacks.\n\nThis matters for anyone who relies on power stations, airports, hospitals and other essential services — the UK's CNI spans energy, transport, defence, food, health and finance. Ransomware works by attackers breaking into IT systems, encrypting files with malware, then demanding a cryptocurrency payment to unlock them. Past UK victims include Royal Mail, the outsourcing firm Capita and various councils.\n\nAI is expected to sharpen this threat by helping attackers scout targets, find weaknesses in networks and write malicious code. NCSC chief executive Richard Horne will warn of \"an unprecedented rise in the number of cyber incidents\" in coming months, blaming AI's knack for uncovering long-tolerated vulnerabilities. One recent example saw AI help find a critical flaw in PHP, a language used by almost 70% of the world's websites.\n\nHorne will also note that British military communications face daily \"persistent\" and \"sustained\" attacks, with Russia deliberately staying below the threshold of armed conflict through \"hybrid warfare\". He points to recent European attacks that cranked supermarket fridge temperatures above 50C as a warning to invest in cyber resilience, saying: \"For decades we have collectively got away with tech on the cheap.\"",
-    "why_it_matters": "If AI genuinely lowers the bar for crippling hospitals, power and transport in the UK, the same playbook could land on Australia's own essential services, where governments have been pushing critical infrastructure protection for years.",
-    "deep_analysis": "## Historical Context\n\nRansomware has become a cornerstone of criminal hacking, and the NCSC notes it is a signature tactic of gangs typically operating out of former Soviet Union states. The UK has already felt the sting: Royal Mail, outsourcing firm Capita and various public bodies including councils have all been victims. The new element is artificial intelligence, which the NCSC says will enhance the threat by helping attackers scout targets, locate weaknesses and write malicious code — rather than inventing an entirely new kind of attack. The warning sits alongside the government's recent \"Be Ready\" campaign, which urged Britons to stock up to nine litres of bottled water and three days of food for emergencies.\n\n## Multiple Perspectives\n\nThe NCSC frames AI as a double-edged sword. Richard Horne stresses the danger — \"an unprecedented rise\" in incidents — and the long neglect of IT security, saying the country \"got away with tech on the cheap\". Alan Woodward, a cybersecurity professor at Surrey University, highlights the flip side: AI can also help defenders find and patch flaws, so nation states and companies must get access to cutting-edge models or \"the bad guys will beat them to it\". The article notes leading AI firms OpenAI and Anthropic have already given some companies advanced access to their most powerful models to help spot serious IT glitches. On the state-threat angle, Horne attributes persistent military-network attacks partly to Russia, which he says intentionally stays below the threshold of armed conflict.\n\n## What to Watch\n\nWatch whether the predicted ransomware attack on CNI actually materialises before 2028, and whether Russia and China's use of AI in attacks becomes \"routine\" as forecast. Also worth tracking: how AI companies manage advanced model access for defensive research, and whether real-world incidents — like the European supermarket fridges pushed above 50C — spread to more essential services.",
-    "concepts": [
-     {
-      "term": "ransomware",
-      "definition": "A type of attack where hackers lock up a victim's files and demand payment, usually in cryptocurrency, to unlock them.",
-      "context": "The NCSC warns AI will likely be used in a ransomware attack on UK infrastructure by 2028."
-     },
-     {
-      "term": "critical national infrastructure (CNI)",
-      "definition": "The essential facilities and services a country depends on, such as energy, transport, health and finance.",
-      "context": "The warning centres on an AI-powered attack against the UK's CNI."
-     },
-     {
-      "term": "malware",
-      "definition": "Malicious software designed to damage, disrupt or gain unauthorised access to computer systems.",
-      "context": "Attackers encrypt a victim's files using bespoke malware before demanding payment."
-     },
-     {
-      "term": "hybrid warfare",
-      "definition": "Hostile activity, like cyber-attacks, that deliberately stays below the threshold of open armed conflict.",
-      "context": "Horne says Russia uses hybrid warfare, keeping attacks below the line of actual war."
-     }
-    ],
-    "quiz": {
-     "question": "Why does the NCSC say AI increases the ransomware threat to critical infrastructure?",
-     "options": [
-      "It helps attackers scout targets, find network weaknesses and write malicious code",
-      "It automatically shuts down power stations",
-      "It replaces the need for human hackers entirely",
-      "It makes cryptocurrency payments untraceable"
-     ],
-     "answer_index": 0,
-     "explanation": "The NCSC says AI enhances the threat by assisting attackers with tasks like scouting targets, locating weaknesses in IT networks and writing malicious code — not by making payments untraceable or acting entirely on its own."
-    },
-    "background_beginner": "The National Cyber Security Centre (NCSC) is the UK's state cybersecurity body and part of GCHQ, the country's electronic spy agency. Its job is to protect Britain from online threats and advise on how to stay safe. One big worry is ransomware — when criminals break into computer systems, lock up the files, and demand payment to release them. These gangs often operate from former Soviet Union states, and countries like Russia and China also run state-backed cyber campaigns. The topic keeps coming up because essential services — power, hospitals, transport — increasingly run on computers, and new tools like artificial intelligence could make attacks easier and more frequent.",
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/107178ded18463015d20aa92a1ff25a038c7ea31/0_0_4994_3996/master/4994.jpg?width=1920&quality=85&auto=format&fit=max&s=f38a9410ef3befce7891ad9c7a73d6aa",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "Britain's cybersecurity agency says AI-powered malware will \"highly likely\" be used in a ransomware attack on the UK's critical national infrastructure by 2028.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-03T19:27:15.862440+00:00",
-    "published_date": "2026-11-04",
-    "has_fulltext": true
-   },
    {
     "id": "a57a58ce-cdf0-5232-bba8-9c2ba6d4d998",
     "title": "Apple warns of ‘unprecedented’ rise in memory chip prices",
@@ -1797,66 +1687,70 @@
     "has_fulltext": true
    },
    {
-    "id": "c5a0d05f-75f7-5c1b-adfb-ef1e6b305249",
-    "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
-    "simplified_title": "Google Kills Botnet Hiding Inside 1.3 Million Android TV Boxes",
-    "quick_summary": "Google has shut down a huge botnet called x.cpe that was secretly running on more than 1.3 million certified Android TV devices.",
-    "simplified_body": "Google's Threat Intelligence Group says it has dismantled a massive botnet named x.cpe. At its peak, the malware ran on over 1.3 million Android TV devices — and unusually, these were Google-certified boxes. Google says its screening process missed the malware because of \"obfuscation techniques\" used by Shenzhen-based Videostrong Technology, with most of the affected boxes sold under the MECOOL brand.\n\nHere's the clever bit. A botnet is a network of hijacked devices controlled remotely by one operator. Once a box went online, a stub app called x.cpe or com.oemservice would \"phone home\". That app had no harmful abilities of its own, but it held system-level permissions to quietly install malware modules on command. It also switched off Play Protect — Google's built-in security scanner — so the sneaky downloads wouldn't get flagged.\n\nThis matters for anyone who bought one of these cheap streaming boxes. Manufacturers must get their devices certified to access Google apps and branding, a process meant to catch exactly this kind of threat. Videostrong's compromised boxes slipped through by using a backdoor to install the malware remotely, after setup, rather than shipping it pre-installed where certification checks might spot it.\n\nGoogle found most boxes were running residential proxies — routing dodgy internet traffic through home connections — or running ad fraud schemes. Selling access to this network was probably big business. Videostrong also had full control: running terminal commands, capturing the screen, and probing other devices on the local network. Google reportedly watched Videostrong do this in real time.",
-    "why_it_matters": "Cheap Android TV boxes are everywhere, including in Aussie homes, so a trusted \"Google-certified\" badge turning out to hide malware undermines the whole point of that safety check.",
-    "deep_analysis": "## Historical Context\n\nCheap Android TV boxes have long been a soft spot in the device world. Because they run a full operating system but often get little security attention from budget manufacturers, they're an attractive target. Google's certification programme exists precisely to reassure buyers that a device has passed safety and quality checks. The striking part of the x.cpe case is that the compromised boxes were certified, meaning the trust mark did not stop the threat.\n\n## Multiple Perspectives\n\nFrom Google's side, its Threat Intelligence Group frames this as a win — it identified and dismantled a botnet spanning 1.3 million devices and even observed the operator in action. But it also acknowledges its own screening missed the malware, pointing to \"obfuscation techniques\" by Videostrong. The company says the boxes evaded detection by using a backdoor to install malware remotely after setup, rather than shipping it pre-loaded.\n\nFor buyers and the wider industry, the episode raises an uncomfortable question: if a Google-certified device can still be weaponised, how much does the certification actually guarantee? The design — a harmless-looking stub app quietly granted system-level permissions and able to disable Play Protect — shows how a trusted supply chain can be abused from the inside.\n\n## What to Watch\n\nWatch whether Google tightens its certification process to catch post-setup backdoors, and whether affected MECOOL owners get clear guidance or fixes. Also worth watching: any action against Videostrong, and whether the \"sell access to a botnet\" business model spreads to other budget device makers.",
+    "id": "6897891a-e5c7-579e-b8d6-326a4410db2a",
+    "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+    "simplified_title": "Canva cuts or relocates 1,271 jobs in big restructure",
+    "quick_summary": "Australian-founded design company Canva is cutting or relocating 1,271 roles, about 22% of its global workforce, in what its CEO calls the hardest moment in the company's history.",
+    "simplified_body": "Canva, one of Australia's best-known startups, has announced a major restructure affecting 1,271 people — roughly 22% of its global workforce. Co-founder and chief executive Melanie Perkins told staff on Wednesday that some would lose their jobs, while others would be asked to change roles or relocate to centralised hubs. She called it \"without doubt the hardest moment in our thirteen-year history\".\n\nThe shake-up hits staff across the 37 countries where Canva operates. People leaving will get at least six months of salary, keep healthcare coverage for another 12 months (where that benefit applies), hold onto their laptops, and can apply for US$10,000 (A$14,000) grants to start their own ventures. Sydney will become the \"primary home\" for more of its product teams, and from next year hybrid workers are expected in the office two to three days a week.\n\nCanva launched in 2013 and lets people without design skills create professional-looking graphics, from wedding invitations to business pitch decks. Its growth has slowed for the first time in a decade, and its value reportedly dropped over the past year — backers Blackbird Ventures and Airtree are said to have cut the valuation from about A$60bn to around A$49bn amid concerns about artificial intelligence (AI) and the soaring cost of building AI into its products.\n\nThe move mirrors a wider wave of tech restructures, including 1,600 redundancies at Atlassian and job losses at Block and WiseTech Global. Notably, unlike those firms, Canva did not mention AI in its announcement. Canva has long been tipped for a big listing on the Nasdaq stock exchange, so how it steadies growth from here will be closely watched.",
+    "why_it_matters": "Canva is one of Australia's biggest homegrown tech success stories, so cuts affecting 22% of its staff — with Sydney named as the new primary home for more product teams — land close to home and signal how hard the AI shake-up is hitting even the sector's standouts.",
+    "deep_analysis": "## Historical Context\n\nCanva was founded in 2013 by Melanie Perkins, who had left university at 19 to start her first venture. It grew into one of Australia's most successful startups by making graphic design simple — offering templates and tools so people without technical skills could produce polished presentations, invitations and more. For roughly a decade it enjoyed uninterrupted growth and was repeatedly floated as a candidate for a blockbuster Nasdaq listing. This restructure marks the first time that growth has slowed, which both articles tie to a changing technology landscape.\n\n## Multiple Perspectives\n\nManagement frames the changes as a painful but necessary refocus — \"collapsing layers\", bringing teams together in person, and offering generous exit support (six months' salary, extended healthcare, laptops, and start-up grants). From the staff side, 1,271 people face losing jobs, changing roles, or relocating, which Perkins herself acknowledged as an \"incredibly hard decision\".\n\nThe two sources differ slightly in emphasis on AI. The BBC reports that Canva's falling valuation and soaring costs are linked to incorporating AI, while The Guardian points out that — unlike Atlassian, Block and WiseTech — Canva did *not* mention AI in its restructure announcement. Industry-wide, there's the debate over a so-called \"SaaS-pocalypse\", the idea that AI could make specialised software redundant; established firms reject this but are rapidly adopting AI themselves.\n\n## What to Watch\n\nWatch whether Canva's growth stabilises and whether the long-rumoured Nasdaq listing eventuates. Keep an eye on the reported valuation (said to have fallen from about A$60bn to A$49bn) and on how the Sydney-centred, more in-person model affects staff retention. More broadly, Canva's restraint on AI messaging — against the louder AI pivots of its peers — may prove telling.",
     "concepts": [
      {
-      "term": "botnet",
-      "definition": "A network of internet-connected devices that have been secretly taken over and controlled remotely by an attacker, often to carry out coordinated dodgy activity.",
-      "context": "Google says the x.cpe botnet ran on more than 1.3 million Android TV devices."
+      "term": "restructure",
+      "definition": "A major reorganisation of a company, often involving job cuts, role changes or shifting where teams are based.",
+      "context": "Canva announced a restructure affecting 1,271 people across the business."
      },
      {
-      "term": "stub app",
-      "definition": "A small, harmless-looking program that does nothing dangerous by itself but acts as a launching point to download and install other software later.",
-      "context": "A stub app called x.cpe or com.oemservice would phone home once a box went online."
+      "term": "centralised hubs",
+      "definition": "Main office locations where a company concentrates its teams, rather than spreading staff out remotely or across many sites.",
+      "context": "Some staff are being asked to relocate to centralised hubs, with Sydney named as the primary home for more product teams."
      },
      {
-      "term": "residential proxies",
-      "definition": "Services that route internet traffic through ordinary home internet connections to disguise where that traffic is really coming from.",
-      "context": "Google found most boxes were running residential proxies to route dodgy traffic."
+      "term": "artificial intelligence (AI)",
+      "definition": "Computer systems that can perform tasks normally needing human intelligence, such as generating images, text or designs.",
+      "context": "Canva's costs rose from building artificial intelligence into its products, and rivals have restructured partly in response to it."
      },
      {
-      "term": "backdoor",
-      "definition": "A hidden way into a device or system that lets someone bypass normal security and gain access.",
-      "context": "The boxes slipped through certification by using a backdoor to install the malware remotely."
+      "term": "Nasdaq",
+      "definition": "A major US stock exchange where many technology companies list their shares for public trading.",
+      "context": "Canva has long been tipped as a candidate for a big listing on the Nasdaq."
      }
     ],
     "quiz": {
-     "question": "Why was the x.cpe botnet able to slip past Google's certification process?",
+     "question": "What makes Canva's restructure announcement notably different from those of Atlassian, Block and WiseTech?",
      "options": [
-      "The malware only ran on non-Google devices",
-      "Google does not screen Android TV devices at all",
-      "The boxes were never certified by Google in the first place",
-      "The malware was installed remotely via a backdoor after setup, rather than shipped pre-loaded"
+      "Canva cut a larger share of its workforce than all of them",
+      "Canva did not mention AI in its restructure announcement",
+      "Canva offered no support to departing staff",
+      "Canva moved its headquarters out of Australia"
      ],
-     "answer_index": 3,
-     "explanation": "The boxes were Google-certified, but Videostrong used a backdoor to install the malware remotely after devices were set up and online, using obfuscation to avoid detection."
+     "answer_index": 1,
+     "explanation": "The Guardian notes that unlike Atlassian, Block and WiseTech, Canva did not mention AI in its restructure announcement, even though AI pressures are shaping the wider sector."
     },
-    "background_beginner": "Android TV boxes are small, cheap gadgets that plug into your telly and run apps like streaming services, powered by Google's Android system. To use Google's apps and branding, makers must pass a certification process meant to prove the device is safe. The main players here are Google, whose Threat Intelligence Group hunts online threats, and Videostrong Technology, a Shenzhen-based manufacturer whose boxes (mostly sold as MECOOL) were found running hidden malware. This story keeps coming up because budget devices are easy targets, and attackers can quietly hijack huge numbers of them to make money without owners ever noticing.",
-    "impact_score": 68,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mecool-malware.jpg",
+    "background_beginner": "Canva is an Australian technology company started in 2013 by Melanie Perkins, who left university at 19 to build it. It makes an easy online design tool that lets ordinary people — not just trained designers — create things like posters, presentations, invitations and social media graphics using ready-made templates. It became one of Australia's most celebrated startups, employing people in dozens of countries and often talked about as a future candidate to list on a US stock exchange. It keeps coming up in the news because the wider tech industry is being shaken by artificial intelligence, which is both expensive to build and threatens to change what software people need. That pressure has now led Canva to cut and relocate staff.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/1df62ce1cc8ffecf2d4291f28ff2212397c08553/473_0_3000_2400/master/3000.jpg?width=1920&quality=85&auto=format&fit=max&s=e141906d9f95ddef9f723000bf53caf8",
     "region": "AI and technology",
     "region_code": "AI_TECH",
-    "description": "Google has shut down a huge botnet called x.cpe that was secretly running on more than 1.3 million certified Android TV devices.",
+    "description": "Australian-founded design company Canva is cutting or relocating 1,271 roles, about 22% of its global workforce, in what its CEO calls the hardest moment in the company's history.",
     "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
+    "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
     "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-03T19:27:16.802347+00:00",
-    "published_date": "2026-11-04",
+    "reading_minutes": 2,
+    "created_at": "2026-11-05T07:26:57.431158+00:00",
+    "published_date": "2026-11-05",
     "has_fulltext": true
    },
    {
@@ -1924,5 +1818,5 @@
    }
   ]
  },
- "total_stories": 29
+ "total_stories": 27
 }
