@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "generated_at": "2026-11-05T19:23:03.720962+00:00",
+ "generated_at": "2026-11-06T07:23:04.245442+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -63,142 +63,6 @@
     "related_story_ids": [],
     "reading_minutes": 2,
     "created_at": "2026-11-05T01:24:58.551136+00:00",
-    "published_date": "2026-11-05",
-    "has_fulltext": true
-   },
-   {
-    "id": "23566626-1f44-5b37-8228-b9efdb1ff903",
-    "title": "Major survey finds Australia's social cohesion under strain",
-    "simplified_title": "Australia growing more divided and pessimistic, major survey finds",
-    "quick_summary": "The annual Scanlon Foundation survey of more than 10,000 Australians found rising financial stress, growing distrust of government and hardening views on immigration, even as the overall measure of social cohesion held steady.",
-    "simplified_body": "The Scanlon Foundation's Mapping Social Cohesion study, now in its 20th year, surveyed more than 10,000 adults on money, immigration, happiness and trust. It found Australia is \"more divided\" and \"more pessimistic\". One in three respondents expect their lives to get a little or much worse over the next few years — triple the rate when the survey began in 2006. Many households reported going without essentials: 13 per cent skipped meals, 21 per cent went without medicine or healthcare, and 19 per cent couldn't properly heat or cool their homes.\n\nThis hits young and middle-aged adults hardest, especially women and single-income households. Scanlon chief executive Anthea Hancocks says people's sense of belonging shrinks when they feel \"financially compromised\". The strain is also reshaping politics — the report found people doing it tough are shifting away from Labor and the Coalition towards One Nation and the Greens, and that financial stress weakens trust in institutions.\n\nSocial cohesion means how connected, included and trusting people feel as a society. Scanlon measures it with an index out of 100, which stayed at 78 (steady since 2023). But 62 per cent of adults still think cohesion has got worse, and the headline number can hide shifts underneath. The share saying immigration is \"too high\" hit a record 59 per cent, and negative attitudes toward several groups — including Muslim, Jewish, Indian and Sikh people — rose since 2024.\n\nThe lead author, Dr James O'Donnell of the Australian National University, says much of this reflects pressure rather than permanent anger, with support for multiculturalism still high. Whether cohesion holds will likely depend on whether cost-of-living pressures ease.",
-    "why_it_matters": "This is one of the country's most extensive social surveys, and it puts hard numbers on something many Australians feel day to day — that money worries are straining how we treat each other, with real-world abuse reported against groups like Indian Australians.",
-    "deep_analysis": "## Historical Context\n\nThe Scanlon Foundation has run its Mapping Social Cohesion survey every year since 2006, making this the 20th edition and one of the longest-running measures of how Australians feel about belonging, trust, immigration and diversity. The project builds a single \"index\" out of 100 from questions about people's sense of worth, inclusion, participation and acceptance. That long run is what gives the findings weight: a jump in future anxiety to triple the 2006 level, or immigration \"too high\" reaching a record 59 per cent, only means something because there are two decades of comparable data behind it. The report frames 2026 as a \"shocking year\", citing the Bondi terrorist attack, instances of racism, and financial worry tied to the Iran conflict and rising interest rates.\n\n## Multiple Perspectives\n\nThe two accounts largely agree but stress different things. The ABC leads on division, pessimism and immigration disillusionment, and gives voice to former Australian of the Year Amar Singh, who describes racist abuse and a tenfold jump in demand at his Turbans 4 Australia charity. The Guardian emphasises resilience: the index held at 78, happiness (79 per cent) is stable, and strong majorities still back multiculturalism (87 per cent think immigrants make equally good citizens). Scanlon's own framing threads both — Hancocks and O'Donnell concede genuine strain while insisting the pressure is driven by economics, not a permanent turn to anger. There is also a political split: the report ties hardship to vote-switching toward One Nation and the Greens, and records starkly different trust levels, with just 9 per cent of One Nation voters trusting the federal government versus 54 per cent of Labor voters.\n\n## What to Watch\n\nThe key tension is between the steady headline index and the eroding measures beneath it — whether that gap widens is the thing to watch. Keep an eye on cost-of-living and interest rates, since the report links financial stress directly to weaker trust and harsher attitudes. Also watch immigration sentiment and the reported rise in racial hostility, and whether the vote shift toward minor parties hardens into a lasting realignment or eases if household budgets recover.",
-    "concepts": [
-     {
-      "term": "social cohesion",
-      "definition": "How connected, included and trusting people feel as members of a society — measured here by an index out of 100.",
-      "context": "The survey's central idea; its index stayed at 78 even as many underlying attitudes worsened."
-     },
-     {
-      "term": "Scanlon Foundation",
-      "definition": "A philanthropic organisation that runs Australia's long-running annual survey of social attitudes and cohesion.",
-      "context": "It has conducted the Mapping Social Cohesion study every year since 2006."
-     },
-     {
-      "term": "multiculturalism",
-      "definition": "The idea that a society made up of many cultures and backgrounds is a good thing.",
-      "context": "Support remains high even as views on immigration levels harden."
-     },
-     {
-      "term": "single-income households",
-      "definition": "Homes that rely on the earnings of just one person.",
-      "context": "Named among those most likely to face financial hardship."
-     }
-    ],
-    "quiz": {
-     "question": "Why does the report note that the steady social cohesion index of 78 can be misleading?",
-     "options": [
-      "Because immigration was not included in the survey",
-      "Because the index has never changed since 2006",
-      "Because the survey only asked 100 people",
-      "Because a stable headline number can disguise worsening attitudes underneath it"
-     ],
-     "answer_index": 3,
-     "explanation": "Scanlon concedes the headline index held at 78 but can \"disguise\" important shifts, such as record concern about immigration and rising negative attitudes toward several groups."
-    },
-    "background_beginner": "Every year since 2006, the Scanlon Foundation — a philanthropic group — surveys thousands of Australians to measure \"social cohesion\", meaning how connected, trusting and included people feel. The 2026 edition, run with the Australian National University, asked more than 10,000 people 100 questions about money, happiness, government, immigration and diversity. It keeps making headlines because it's one of the country's most detailed snapshots of the national mood, and this year it captured a tough period of cost-of-living pressure, rising interest rates and reported racism. The survey matters because politicians, charities and researchers use it to understand how Australians are coping and whether communities are pulling together or drifting apart.",
-    "impact_score": 72,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/97eef05b27ae94e53babdf7f27ccacc0?impolicy=wcms_watermark_news&cropH=2249&cropW=3998&xPos=1&yPos=0&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "The annual Scanlon Foundation survey of more than 10,000 Australians found rising financial stress, growing distrust of government and hardening views on immigration, even as the overall measure of social cohesion held steady.",
-    "tier": "LOCAL",
-    "category": "SOCIETY_CULTURE",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-05/scanlon-foundation-social-cohesion-survey/107342800"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/social-cohesion-report-australia-cost-of-living-economy-immigration-multiculturalism-ai-ntwnfb"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-04T19:25:44.284706+00:00",
-    "published_date": "2026-11-05",
-    "has_fulltext": true
-   },
-   {
-    "id": "16e09c57-53cb-535e-8f5b-c743e610c33a",
-    "title": "Major test for Australia's social media ban begins in High Court",
-    "simplified_title": "High Court Hears Challenge to Australia's Under-16 Social Media Ban",
-    "quick_summary": "Reddit and a digital rights group have asked Australia's High Court to strike down the world-first ban on under-16s using social media, arguing it is unconstitutional.",
-    "simplified_body": "Australia's High Court has begun hearing a major challenge to the country's social media ban for children. Reddit and the Digital Freedom Project argue the law, which started on 10 December last year, is unconstitutional because it strips under-16s of their implied freedom of political communication. Reddit's lawyer called the reforms \"ill thought out\" and rushed, noting people had just 24 hours to make submissions.\n\nThe ban affects ten platforms — Facebook, Instagram, TikTok, YouTube, Reddit, Snapchat, X, Kick, Threads and Twitch — which must take \"reasonable steps\" to keep out anyone under 16 or risk fines of up to A$99m. It touches millions of young Australians: since December, more than 5 million accounts believed to belong to under-16s have been suspended or deactivated. WhatsApp, gaming sites like Roblox and Discord, and educational tools like YouTube Kids and Google Classroom were left out.\n\nFor background, the implied freedom of political communication isn't a personal right written into Australia's constitution; it's a limit the courts have read into it, protecting the political debate democracy needs. Government barrister Stephen Lloyd SC argued the ban targets \"addictive\" design features — endless scroll, likes, push notifications — linked to sleep problems, anxiety and depression, and that its effect on political communication is \"narrow, indirect and modest\" and \"viewpoint neutral\".\n\nThe two teenagers who first spearheaded the case have withdrawn. The High Court has reserved its decision, meaning a ruling will come later. Critics say the effort should instead go into improving online safety, and a separate \"digital duty of care\" bill is currently before parliament.",
-    "why_it_matters": "This is a world-first law, so the ruling will shape how Australia — and possibly other countries — tries to protect children online, directly affecting millions of young Australians and the platforms they use.",
-    "deep_analysis": "## Historical Context\n\nAustralia has spent recent years positioning itself as a global leader on online safety regulation, creating the role of an eSafety Commissioner to police tech platforms. The under-16 ban, introduced in December last year, is the most ambitious of these reforms and is described as world-leading. Interestingly, the eSafety Commissioner, Julie Inman Grant, said back in 2021 that an account ban was a \"blunt tool\" for reducing teen harm — a comment Reddit has seized on. The government now argues the law should be judged by how it operates today, with rules the communications minister added in 2026, not by how it looked when rushed through parliament.\n\n## Multiple Perspectives\n\nSupporters, including Communications Minister Anika Wells, frame this as defending children's right to be free from harm and call the challenge a \"sustained ideological attack\". The government says the ban is narrow, viewpoint-neutral, and aimed squarely at addictive features rather than at silencing political speech — and notes there's no penalty on children themselves, only on platforms.\n\nOpponents argue it is censorship and over-broad. Reddit says it shares the goal of protecting young people but that a ban isn't the most effective path, and points out that under the law a platform can't simply strip out harmful features — it must build a whole separate app. Withdrawn teen plaintiff Noah Jones warned children risk becoming \"spectators in their own world\".\n\n## What to Watch\n\nThe High Court has reserved its decision, so watch for the ruling's reasoning on the implied freedom of political communication. Also watch the \"digital duty of care\" bill before parliament, which Reddit argues offers a more flexible alternative, plus whether the eSafety Commissioner's investigations into Facebook, Instagram, Snapchat, TikTok and YouTube lead to the first fines.",
-    "concepts": [
-     {
-      "term": "implied freedom of political communication",
-      "definition": "A protection the High Court has found exists within Australia's constitution, shielding the communication needed for democratic government even though it isn't written in as a personal right.",
-      "context": "Reddit argues the ban breaches this freedom by blocking under-16s from a key means of modern communication."
-     },
-     {
-      "term": "reasonable steps",
-      "definition": "A legal standard requiring platforms to make genuine, sensible efforts to keep under-16s off their services, rather than guaranteeing a perfect result.",
-      "context": "The ten listed platforms must take these steps or face large fines."
-     },
-     {
-      "term": "viewpoint neutral",
-      "definition": "A law that applies regardless of the opinions being expressed, treating all political views the same rather than targeting particular ones.",
-      "context": "The government argued the ban is viewpoint neutral because it doesn't depend on what a child wants to say."
-     },
-     {
-      "term": "reserved its decision",
-      "definition": "When a court finishes hearing arguments but delays its ruling to consider the case, delivering judgment at a later date.",
-      "context": "The High Court has reserved its decision after both sides presented their arguments."
-     }
-    ],
-    "quiz": {
-     "question": "On what main legal ground did Reddit challenge Australia's social media ban?",
-     "options": [
-      "It violates a written right to privacy in the constitution",
-      "It imposes fines that are too large for companies",
-      "It unfairly favours the Labor party",
-      "It breaches the implied freedom of political communication for under-16s"
-     ],
-     "answer_index": 3,
-     "explanation": "Reddit argued the ban impinges on the implied freedom of political communication for under-16s, saying it blocks them from a key means of modern communication. The government countered that the effect was narrow, modest and viewpoint neutral."
-    },
-    "background_beginner": "In December last year Australia became the first country to ban under-16s from major social media platforms like Instagram, TikTok and Reddit. The government, backed by Communications Minister Anika Wells, says the ban protects kids from harmful, addictive features linked to anxiety, poor sleep and depression. Platforms must take \"reasonable steps\" to keep young teens out or face big fines, and millions of accounts have already been suspended. Not everyone agrees: Reddit and a group called the Digital Freedom Project say it's heavy-handed and amounts to censorship, so they've taken the case to the High Court, Australia's top court. The court is now deciding whether the law is constitutional, which is why it keeps making headlines.",
-    "impact_score": 72,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/2ab0/live/69114010-d75b-11f1-8f6b-d71817972456.jpg",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Reddit and a digital rights group have asked Australia's High Court to strike down the world-first ban on under-16s using social media, arguing it is unconstitutional.",
-    "tier": "LOCAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/teen-social-media-ban-burden-freedom-of-political-communication-reddit"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "a52836cb-875d-580a-bad2-2d72d3647d0e"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-04T19:25:34.591879+00:00",
     "published_date": "2026-11-05",
     "has_fulltext": true
    },
@@ -334,6 +198,69 @@
     "has_fulltext": true
    },
    {
+    "id": "e7ab8438-b111-5d85-a4f7-b9bb10dc07cf",
+    "title": "New cancer treatment adding years to patients' lives",
+    "simplified_title": "Cancer DNA Testing to Reach 25,000 More Australians",
+    "quick_summary": "New federal funding will let 25,000 more Australians with advanced cancers access genomic profiling, a DNA test that matches them to targeted treatments shown to double survival.",
+    "simplified_body": "The federal government has secured funding so another 25,000 Australians can access comprehensive genomic profiling — a technology that reads the DNA of a person's tumour to find which specific gene changes are driving their cancer. Armed with that information, doctors can match patients to targeted drug treatments rather than relying on guesswork. Health Minister Mark Butler says the government is working to scale this up so it becomes standard care.\n\nThis matters most to people with advanced or incurable cancers who have run out of standard options. Emily Capper was diagnosed with an aggressive brain cancer at 31 and given as little as nine months to live; almost five years on, testing found her tumour had a BRAF mutation, and a matched drug has stopped her cancer growing. Senior oncologist Rob Zielenski says matched treatments double survival and help patients avoid toxic, futile therapies.\n\nFor newcomers: cancer care has traditionally been based on where in the body a tumour started. Genomic profiling instead looks at roughly 500 to 600 genes that can be altered in any cancer. Not-for-profit Omico provides the test free and links patients to trials — it has supported more than 30,000 Australians, boosted by $71 million in the latest budget.\n\nThe catch is reach and cost. Omico gets a referral every 15 minutes but can currently help only one in four people with incurable solid tumours, missing roughly 34,000 Australians a year. Many promising drugs aren't subsidised through the Pharmaceutical Benefits Scheme (PBS) — only 25 per cent of medicines launched globally in recent decades are listed — so patients can face thousands of dollars a month.",
+    "why_it_matters": "For Australians facing advanced or incurable cancer, this funding can mean years of extra life and fewer wasted, toxic treatments — but with Omico able to reach only one in four eligible patients, access and drug affordability remain the big unresolved questions.",
+    "deep_analysis": "## Historical Context\n\nFor most of modern medicine, cancer has been classified and treated according to where in the body it began — breast, lung, brain and so on. That approach left doctors unable to explain why two patients with seemingly identical cancers responded very differently to the same treatment. Many standard therapies work like a broad-spectrum antibiotic, as University of Queensland specialist Amy McCart Reed puts it: given in hope they kill the cancer cells. Genomic profiling marks a shift towards precision oncology, reading the tumour's own genetic \"fingerprint\" to guide treatment.\n\n## Multiple Perspectives\n\nClinicians are enthusiastic: Dr Zielenski likens profiling to \"a topographic map and a compass\" and cites clear evidence that matched treatments double survival. Patients like Emily Capper describe it as a last option that has given them precious time. Omico frames the funding as vital but insufficient — it can reach only one in four eligible patients, leaving around 34,000 Australians a year unhelped. Professor David Thomas raises the harder, longer-term worry: even when the right drug is found, many aren't on the PBS, and funding them for an ageing population on a \"diminishing taxpayer base\" is a genuine policy problem. McCart Reed adds a note of caution — there's little value in testing someone unless the result can actually change their treatment.\n\n## What to Watch\n\nKey questions ahead: whether Butler's promise to make profiling \"standard of care\" translates into public-system capacity to test widely; how quickly new cancer drugs get listed on the PBS at a time of \"turbocharged discovery\"; and whether more clinical trials open up so patients aren't left paying privately. The $71 million keeps Omico's program running for three years — what happens after that is unresolved.",
+    "concepts": [
+     {
+      "term": "genomic profiling",
+      "definition": "A test that reads the DNA of a patient's tumour to identify the specific gene changes driving their cancer, so treatment can be matched to it.",
+      "context": "The article's central technology, now being funded for 25,000 more Australians."
+     },
+     {
+      "term": "BRAF mutation",
+      "definition": "A change in the BRAF gene that helps drive the growth of some cancers and can be targeted by specific drugs.",
+      "context": "Emily Capper's tumour had this mutation, which let doctors match her to a targeted drug."
+     },
+     {
+      "term": "Pharmaceutical Benefits Scheme (PBS)",
+      "definition": "The Australian government program that subsidises the cost of approved medicines for patients.",
+      "context": "Many emerging cancer therapies aren't on the PBS, so patients can face thousands of dollars a month."
+     },
+     {
+      "term": "precision oncology",
+      "definition": "An approach to cancer care that targets treatment to the specific genetic features of a patient's cancer rather than its location in the body.",
+      "context": "Omico is described as leading the charge on precision oncology in Australia."
+     }
+    ],
+    "quiz": {
+     "question": "Why do doctors like Dr Zielenski value genomic profiling for cancer patients?",
+     "options": [
+      "It is cheaper than any other cancer test",
+      "It cures most advanced cancers outright",
+      "It replaces the need for clinical trials",
+      "It matches patients to targeted treatments and helps avoid toxic, futile therapies"
+     ],
+     "answer_index": 3,
+     "explanation": "The article says matched treatments double survival and help doctors avoid the wrong treatment, which brings toxicity and wasted time — but the drugs are not cures, as noted in Emily Capper's case."
+    },
+    "background_beginner": "Cancer happens when cells grow out of control, and traditionally doctors have treated it based on where it started in the body. A newer approach, genomic profiling, instead reads the DNA inside a person's tumour to find the exact gene changes fuelling it, so patients can be matched to drugs that target those changes. In Australia, a not-for-profit called Omico offers this testing for free and links people to clinical trials, having helped more than 30,000 patients. The topic keeps coming up because new, effective cancer drugs are arriving fast, but they're expensive, many aren't government-subsidised, and only a fraction of eligible patients can currently be reached.",
+    "impact_score": 62,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/80f0ff50f2a7b1158423e0425cbba6f2?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "New federal funding will let 25,000 more Australians with advanced cancers access genomic profiling, a DNA test that matches them to targeted treatments shown to double survival.",
+    "tier": "LOCAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-06/cancer-treatment-genomic-profiling-funding/107248844"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 5,
+    "created_at": "2026-11-06T07:27:27.851636+00:00",
+    "published_date": "2026-11-06",
+    "has_fulltext": true
+   },
+   {
     "id": "57740786-d0d8-5c11-aeb5-18ad0e4fd49f",
     "title": "How the Wegovy pill compares to weight-loss injections",
     "simplified_title": "Australia Approves First Weight-Loss Pill Version of Wegovy",
@@ -459,73 +386,6 @@
     "related_story_ids": [],
     "reading_minutes": 4,
     "created_at": "2026-11-05T07:26:53.367706+00:00",
-    "published_date": "2026-11-05",
-    "has_fulltext": true
-   },
-   {
-    "id": "28d36afe-b88d-5046-9c7c-240b0bc4f456",
-    "title": "Toxic air pollution surges in Indian capital",
-    "simplified_title": "Delhi's Toxic Air Spikes as Diwali Fireworks Loom",
-    "quick_summary": "New Delhi's air pollution has surged to more than 30 times the World Health Organization's recommended daily limit, with worse expected as the Diwali festival and its fireworks arrive this weekend.",
-    "simplified_body": "On Wednesday 4 November, toxic air in India's capital, New Delhi, climbed to more than 30 times the World Health Organization's (WHO) recommended daily limit. Levels of PM2.5 — cancer-causing microparticles tiny enough to slip into the bloodstream — hit more than 461 micrograms per cubic metre in parts of the city, according to monitoring firm IQAir. The city's air quality index (AQI), which measures these fine particles, stood at 377 that morning, firmly in the \"very poor\" band.\n\nThis affects more than 30 million people across greater Delhi, with children and older residents most at risk of respiratory illness. The timing is grim: the Hindu festival of Deepavali (Diwali) falls on Sunday, and the fireworks that mark it typically push pollution even higher. India's Supreme Court has allowed limited use of \"green\" firecrackers — modified to produce fewer emissions — but restrictions are routinely flouted.\n\nDelhi and northern India battle hazardous winter air every year. The causes are a mix: vehicle exhaust, industry, falling temperatures, slow winds and the burning of crop stubble in neighbouring states like Punjab and Haryana. The largest single share, 27 per cent, comes from \"secondary particles\" formed when gases react in the atmosphere — a process one expert, Jacob Koshy, argues is fuelled by ammonia from farm fertilisers. This October had actually been Delhi's cleanest in eight years before winds and field fires returned.\n\nPollution is expected to worsen through the Diwali weekend. Authorities have tightened the Graded Response Action Plan (GRAP), adding road cleaning, higher parking fees and extra Metro trips, while police are told to check firecrackers. A 2024 Lancet study linked 3.8 million Indian deaths to air pollution between 2009 and 2019.",
-    "why_it_matters": "Air pollution is a slow-motion public health disaster affecting tens of millions, and Delhi's annual crisis shows how hard it is to fix pollution driven by farming, traffic and festivals at once — a reminder for Australians of how much our relatively clean air is worth, especially during bushfire smoke seasons.",
-    "deep_analysis": "## Historical Context\n\nDelhi's winter smog is an annual event, not a one-off. Every year as temperatures fall and winds slow, pollutants that would normally disperse get trapped close to the ground. Layered on top of year-round sources — vehicles, industry and coal-fired power — comes the seasonal burning of crop stubble in the farming states of Punjab and Haryana, plus the fireworks of Diwali. The result is a predictable spike that authorities scramble to manage each November. This year is notable because October was unusually clean — Delhi's lowest average AQI for the month in eight years — before a settled weather pattern and northwesterly winds carrying field smoke reversed the gains.\n\n## Multiple Perspectives\n\nThe official breakdown from India's environment ministry attributes 23 per cent of winter pollution to vehicles, 20 per cent to biomass burning (including farm fires), about 9 per cent to industry, and the largest share, 27 per cent, to secondary particles. Author Jacob Koshy adds a less-discussed angle: the huge volume of ammonia from agricultural fertiliser creates a \"base layer\" that helps other pollutants react and form those secondary particles. On enforcement, the Supreme Court has tried a middle path — permitting certified \"green\" firecrackers within strict hours and away from hospitals and schools — but it openly acknowledged that conventional crackers keep being sold as green ones, exposing the gap between rules and reality.\n\n## What to Watch\n\nThe immediate test is the Diwali weekend of 7–8 November: whether QR-code checks and patrols actually limit banned fireworks, and how high PM2.5 climbs the morning after. Beyond that, watch whether GRAP measures escalate to Stage III or IV (which can trigger hybrid schooling, work-from-home and vehicle restrictions), and whether weather — rain or stronger winds — offers relief. Mumbai's recent swing from an AQI of 322 to 89 shows how quickly conditions can shift with the wind.",
-    "concepts": [
-     {
-      "term": "PM2.5",
-      "definition": "Extremely fine airborne particles, about 30 times smaller than the width of a human hair, small enough to penetrate deep into the lungs and enter the bloodstream.",
-      "context": "Delhi's PM2.5 levels hit more than 461 micrograms per cubic metre, driving the health alarm."
-     },
-     {
-      "term": "air quality index (AQI)",
-      "definition": "A combined score that measures major pollutants, including PM2.5, to rate how clean or hazardous the air is.",
-      "context": "Delhi's AQI stood at 377, placing it in the 'very poor' category."
-     },
-     {
-      "term": "secondary particles",
-      "definition": "Pollution particles not emitted directly but formed when gases from vehicles, industry and burning react together in the atmosphere.",
-      "context": "They are the single largest contributor to Delhi's winter pollution at 27 per cent."
-     },
-     {
-      "term": "Graded Response Action Plan (GRAP)",
-      "definition": "A set of emergency anti-pollution measures that become progressively stricter as air quality worsens.",
-      "context": "Authorities invoked its Stage II measures, adding road cleaning, higher parking fees and extra Metro trips."
-     }
-    ],
-    "quiz": {
-     "question": "According to India's environment ministry, which source makes up the largest single share of Delhi's winter pollution?",
-     "options": [
-      "Vehicle exhaust",
-      "Coal-fired power plants and other industry",
-      "Diwali fireworks",
-      "Secondary particles formed when gases react in the atmosphere"
-     ],
-     "answer_index": 3,
-     "explanation": "Secondary particles account for 27 per cent — more than vehicles (23 per cent), biomass burning (20 per cent) or industry (about 9 per cent) — and are formed when gases from those sources react in the air."
-    },
-    "background_beginner": "New Delhi is the capital of India, and its greater metropolitan area is home to more than 30 million people. Every winter the city suffers a severe air pollution crisis: cold air and slow winds trap pollutants from traffic, industry, power plants and the burning of leftover crop stalks (stubble) in nearby farming states. The problem peaks around Diwali, a major Hindu festival of lights celebrated with fireworks that add smoke and harmful gases. Governments respond with emergency measures and firework rules, but enforcement is patchy, so the smog returns year after year — making it a recurring national health and political flashpoint.",
-    "impact_score": 72,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--bFyzpTAc--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/04/000_d68r9e2.jpg?itok=MhE6enHW",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "New Delhi's air pollution has surged to more than 30 times the World Health Organization's recommended daily limit, with worse expected as the Diwali festival and its fireworks arrive this weekend.",
-    "tier": "GLOBAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/toxic-air-pollution-surges-new-delhi-india-6522596"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-04T19:25:35.934513+00:00",
     "published_date": "2026-11-05",
     "has_fulltext": true
    },
@@ -672,149 +532,150 @@
   ],
   "EUROPE": [
    {
-    "id": "86edd3b2-5321-52c5-81ae-054d5ee6f159",
-    "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-    "simplified_title": "Russian Strikes Kill Dozens at Ukrainian Aid Centre and Hospice",
-    "quick_summary": "Russian bombs have killed at least 38 civilians across Ukraine in 24 hours, including dozens at an aid centre hit twice in a \"double-tap\" attack.",
-    "simplified_body": "Russian strikes on Ukraine over roughly 24 hours killed at least 38 civilians and wounded scores more, hitting an aid centre, a hospice and a hospital. The worst was in the village of Komyshuvakha (also spelled Kamyshuvakha) in the southern Zaporizhzhia region, where nine aerial bombs — some weighing 3,000kg — struck a school being used to hand out humanitarian aid. At least 33 people died and President Volodymyr Zelensky said more than 50 could be trapped under the rubble. Police bodycam footage showed a \"double-tap\" attack: people sheltered underground after the first blast, then the shelter itself was hit, killing rescuers and police too.\n\nThis hits ordinary civilians hardest — the elderly, the sick and people queuing for aid. In Dnipro, nearly 50 terminally ill hospice patients, the oldest aged 90, were moved after a missile wrecked their building. A hospital strike in Kharkiv wounded 73, mostly elderly patients. Energy attacks across nine regions cut Kyiv's water supply and halted its metro.\n\nRussia launched a full-scale invasion in February 2022. Its ground advances have stalled, so it now leans heavily on missiles and drones against cities. Ukraine faces a serious air defence shortage as Western weapon deliveries, including American Patriot interceptors, have stalled. Russia's defence ministry claimed it hit military units; the United Nations (UN) said the aid handout was well publicised and the strike \"seems to have violated the most fundamental principles of international humanitarian law\".\n\nMeanwhile, the Kremlin agreed to three-way peace talks in Abu Dhabi on 10–11 November, brokered by the United States (US) — the first such meeting since February. Zelensky said he had seen no sign Russia is serious about a ceasefire.",
-    "why_it_matters": "Deliberate strikes on aid queues, hospices and hospitals test whether international humanitarian law still means anything — a question Australia, as a UN member and supporter of Ukraine, has a stake in.",
-    "deep_analysis": "## Historical Context\n\nRussia launched its full-scale invasion of Ukraine in February 2022. Since then, its front-line advances have stalled, and Moscow has increasingly relied on long-range missiles and drones to strike Ukrainian cities. The UN reported last month that civilian casualties had reached a \"record level\" as Russia resumed systematic attacks on energy infrastructure heading into winter. The latest 24 hours — with at least 38 civilians killed — fits that pattern of escalating pressure on civilian life rather than battlefield gains.\n\n## Multiple Perspectives\n\nThe accounts here sharply diverge. Ukraine says nine bombs hit a publicised humanitarian aid distribution point at a school, with Zelensky calling it \"one of the largest mass killings\" of the war and claiming it was retaliation for Ukraine's push to extend a Kherson-region ceasefire. Russia's defence ministry says it struck Ukrainian military units and killed 25 servicemen. The BBC's Russian defence correspondent notes there was no credible evidence of military use and no major military facilities in the settlement — though he adds the village sits on an important defensive and transport route toward Zaporizhzhia. The UN's human rights mission said the strike \"seems to have violated the most fundamental principles of international humanitarian law\". Note the casualty figures differ between reports (at least 33, rising; at least 40) as the search continued.\n\n## What to Watch\n\nWatch the Abu Dhabi talks on 10–11 November, the first US-brokered trilateral meeting since February, and the separate White House meeting hosted by US First Lady Melania Trump. Zelensky is sceptical, saying he's seen \"no indication\" Russia will engage seriously. Also watch Ukraine's air defence crisis — the shortage of Patriot interceptors — and whether winter energy strikes keep cutting power, water and heating in cities like Kyiv.",
+    "id": "8f25e702-0172-5195-8645-99392345904f",
+    "title": "Interest rates hiked to 4% in first increase in over three years",
+    "simplified_title": "UK interest rates jump to 4% as Middle East war drives inflation",
+    "quick_summary": "The Bank of England has raised its base interest rate to 4% from 3.75% — its first rise in over three years — to curb inflation fuelled by the US-Iran war's effect on oil prices.",
+    "simplified_body": "The Bank of England has lifted its base interest rate (the rate it charges other banks to borrow, which shapes mortgage, loan and savings rates) to 4% from 3.75%. It's the first increase in more than three years. Eight of the nine rate-setters backed the rise, while one wanted a bigger jump to 4.25%. Governor Andrew Bailey said another rise looks likely \"unless the conflict in the Middle East is resolved\".\n\nBorrowers are the big losers. Around 500,000 homeowners on tracker mortgages (which follow the Bank rate) face roughly £31 more a month, and another 500,000 on standard variable rates (SVRs) may pay about £14 more if lenders pass the rise on. The 87% on fixed deals won't feel it until their deal ends — but new deals already cost more. Savers, however, should see better returns if they shop around.\n\nInterest rates are the Bank's main tool for controlling inflation, which measures how fast prices rise. Higher rates discourage spending, cooling demand and price growth. Inflation hit 3.5% in the year to September 2026, above the Bank's 2% target, driven largely by fuel costs. Household energy bills are set to surge 27% in January to £2,150 a year.\n\nThe Bank expects inflation to peak near 4.9% next spring and not return to 2% until 2028. A further rise, possibly in February, is widely expected but hinges on the war. Notably, oil prices have already fallen 13% below the Bank's forecast, with markets betting President Trump may de-escalate.",
+    "why_it_matters": "When a major central bank hikes rates to fight war-driven inflation, it signals how global conflicts ripple into household budgets everywhere — a pattern Australians know well, since our own Reserve Bank wrestles with the same oil-price and inflation pressures.",
+    "deep_analysis": "## Historical Context\n\nCentral banks raise interest rates to slow inflation by making borrowing dearer and saving more rewarding, which cools spending and demand. Through the 2010s, UK rates sat very low, meaning poor returns for savers but cheap borrowing. This is the first rise in more than three years, and the first since August 2023. What makes it unusual is the trigger: inflation here is being driven largely by external energy costs from the US-Iran war rather than a domestic spending boom, which the Bank itself acknowledges has \"limited evidence\" of spreading to goods like food.\n\n## Multiple Perspectives\n\nThe rate-setting committee is visibly split on what comes next. Governor Andrew Bailey said this \"shouldn't be seen as the first in an inevitable long sequence of hikes\", yet warned it likely isn't the last while the war continues. Clare Lombardelli saw a case for one more rise soon; Megan Greene floated \"additional hikes\" depending on wages and jobs; Alan Taylor called it a \"risk-management 'one-for-now' insurance hike\". BBC's Faisal Islam reads it as \"two and done\" — one more rise in February. Borrowers like Patrick Bryson, whose repayments jump from £1,420 to £1,680, feel it as \"a slap in the face\". Businesses warn of fewer jobs and more automation, while savers stand to gain if they switch accounts.\n\n## What to Watch\n\nThe whole path hinges on the Middle East. Oil was already 13% below the Bank's assumed $108 a barrel, with markets guessing Trump may retreat after the US midterms. Watch the war's trajectory, the January energy bill surge, and whether inflation spreads into wages and everyday goods. The Bank's \"adverse scenario\" — war escalating and inflation hitting 6.2% in 2027 — is the real danger case. A sterling at its strongest since the Brexit referendum could help by making imports cheaper.",
     "concepts": [
      {
-      "term": "glide bomb",
-      "definition": "A heavy conventional bomb fitted with wings and guidance so it can be dropped from a distance and steer toward a target, making it cheap but very destructive.",
-      "context": "Ukraine said nine glide bombs, some weighing 3,000kg, hit the aid centre at Komyshuvakha."
+      "term": "base interest rate",
+      "definition": "The rate the Bank of England charges other banks to borrow money; it influences what customers pay on mortgages, loans and credit cards, and earn on savings.",
+      "context": "The Bank raised this rate to 4% from 3.75% to try to slow inflation."
      },
      {
-      "term": "double-tap",
-      "definition": "An attack tactic where a second strike deliberately hits the same spot shortly after the first, to kill rescuers and survivors responding to the initial blast.",
-      "context": "Police bodycam footage showed a double-tap attack in which the underground shelter was hit after people had fled there."
+      "term": "tracker mortgages",
+      "definition": "Home loans whose interest rate directly follows (tracks) the Bank of England's base rate, so repayments change immediately when the rate moves.",
+      "context": "Around 500,000 homeowners on these face about £31 more per month."
      },
      {
-      "term": "hospice",
-      "definition": "A facility that cares for terminally ill people, focusing on comfort rather than cure in their final stage of life.",
-      "context": "A missile wrecked a Dnipro hospice, forcing nearly 50 terminally ill patients to be moved."
+      "term": "standard variable rates",
+      "definition": "A lender's default mortgage rate that can change at the lender's discretion, often after a Bank rate move, rather than automatically.",
+      "context": "Another 500,000 homeowners on SVRs may pay about £14 more if lenders pass the rise on."
      },
      {
-      "term": "air defence",
-      "definition": "Systems such as interceptor missiles used to shoot down incoming enemy missiles, drones and aircraft before they hit.",
-      "context": "Ukraine faces a serious air defence shortage as Western deliveries, including Patriot interceptors, have stalled."
+      "term": "inflation",
+      "definition": "A measure of how fast prices for goods and services rise over time.",
+      "context": "It hit 3.5% in the year to September 2026, above the Bank's 2% target."
      }
     ],
     "quiz": {
-     "question": "Why did observers describe the Komyshuvakha strike as a \"double-tap\" attack?",
+     "question": "Why did the Bank of England raise interest rates to 4%?",
      "options": [
-      "Two different cities were hit at the same time",
-      "A second bomb hit the shelter after people fled there following the first blast",
-      "The bomb exploded twice in mid-air",
-      "Two countries carried out the strike together"
+      "To reward savers who stayed loyal to old accounts",
+      "To curb inflation driven mainly by the US-Iran war's effect on oil prices",
+      "Because the UK economy was shrinking and needed support",
+      "To make the pound weaker and boost exports"
      ],
      "answer_index": 1,
-     "explanation": "Bodycam footage showed people sheltering underground after the first strike, and then the shelter itself being hit seconds later — a tactic that also kills responding rescuers and police."
+     "explanation": "The Bank raised rates to limit inflation fuelled largely by higher global oil prices stemming from the US-Iran conflict; Bailey pointed to the war's resolution as the key factor in future decisions."
     },
-    "background_beginner": "Russia invaded Ukraine on a full scale in February 2022, and the two countries have been at war ever since. President Volodymyr Zelensky leads Ukraine; President Vladimir Putin leads Russia. After Russia's ground attacks stalled, it increasingly used missiles, drones and heavy bombs against Ukrainian cities, often hitting power, water and heating as winter sets in. Ukraine relies on Western-supplied air defences to shoot these down, but supplies have been running short. The United Nations and other bodies monitor whether attacks break international rules protecting civilians. The war keeps returning to the news because peace talks repeatedly stall and civilian deaths keep mounting.",
-    "impact_score": 78,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8a5b/live/6de1e2e0-d7c7-11f1-a719-bf3dc3a3d5b5.jpg",
+    "background_beginner": "The Bank of England is the UK's central bank, and one of its main jobs is keeping inflation — how fast prices rise — at a steady 2%. Its chief tool is the base interest rate: raise it and borrowing gets dearer, which cools spending and price rises; lower it and the opposite happens. For over three years rates hadn't gone up. Now a war between the US and Iran has pushed up global oil prices, feeding through into UK inflation. So the Bank has lifted rates to 4%, hitting borrowers (especially those with variable mortgages) while helping savers. It keeps coming up because the war's future — and oil prices — remain uncertain, so more rises may follow.",
+    "impact_score": 72,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
     "region": "Europe incl. UK, Russia-Ukraine",
     "region_code": "EUROPE",
-    "description": "Russian bombs have killed at least 38 civilians across Ukraine in 24 hours, including dozens at an aid centre hit twice in a \"double-tap\" attack.",
+    "description": "The Bank of England has raised its base interest rate to 4% from 3.75% — its first rise in over three years — to curb inflation fuelled by the US-Iran war's effect on oil prices.",
     "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
+    "category": "ECONOMY_MARKETS",
     "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o"
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo"
      },
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o"
+      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "125d29b9-508a-5f59-9f71-fabf8ce8d6f8",
-     "42354814-eb79-5ad0-91e2-45843c4d5b20",
-     "6369f787-ba62-5f5e-a343-4532c74d5737",
-     "d31c63c1-f0b3-5273-9605-793d7030e47e",
-     "fb9180f1-fa27-5646-8dfe-683b66906451"
-    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
     "reading_minutes": 4,
-    "created_at": "2026-11-04T19:25:45.097064+00:00",
-    "published_date": "2026-11-05",
+    "created_at": "2026-11-06T07:27:29.860156+00:00",
+    "published_date": "2026-11-06",
     "has_fulltext": true
    },
    {
-    "id": "cd02c15d-fee5-517c-bb34-64062a40b971",
-    "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-    "simplified_title": "Hackers Crank Up Supermarket and Blood-Bank Fridges Across Europe",
-    "quick_summary": "Unknown hackers have been remotely raising the temperature of fridges and freezers in supermarkets across at least 10 European countries, and now France's blood banks, spoiling food and raising fears of a deliberate attack on the food supply.",
-    "simplified_body": "Over two days, hackers broke into internet-connected refrigeration systems and cranked fridge and freezer temperatures up as high as 50C (122F). Supermarkets in at least 10 countries — including Belgium, Ireland, Italy, Germany, Finland and Sweden — were forced to bin spoiled food. The attacks then escalated: France's blood service (EFS), which supplies more than 1,900 hospitals, said hackers raised temperatures in three cold stores holding blood and plasma, though staff stepped in before anything was lost.\n\nThis affects everyday shoppers, retailers and now patients. The European Union's food commissioner Christophe Hansen called it a deliberate attempt to disrupt the food supply chain. Italy's government said many affected stores were running \"obsolete\" systems exposed directly to the internet with weak passwords — a common weakness in devices that can be controlled remotely.\n\nFor background: lots of modern equipment is \"internet of things\" kit that can be monitored online. If that software isn't patched (updated to fix flaws), hackers can slip in. Researchers are using \"honeypots\" — fake vulnerable systems set up as traps — to study the attackers. No one has claimed responsibility. Russian hacktivist groups Noname057(16) and Z-Pentest Alliance boasted about hacking supplier Danfoss, but firms like Sekoia are sceptical, noting Iranian-linked actors and even teenage pranksters remain possibilities.\n\nWhat's next is unclear. The EU is coordinating a response, the UK's National Cyber Security Centre is warning retailers to update their fridge controls, and investigators across several countries are hunting for the culprits. Experts warn these are not isolated incidents.",
-    "why_it_matters": "It shows how ordinary, internet-connected gear — right down to a shop freezer — can be weaponised to disrupt essential services, a warning that applies just as much to Australian retailers and hospitals running the same kind of remotely managed kit.",
-    "deep_analysis": "## Historical Context\n\nAttacks on industrial control systems aren't new, but hitting humble refrigeration at scale is a fresh twist. Sekoia notes that about 40 Israeli supermarkets running Danfoss controllers were compromised back in 2022, and in late August freezers at at least six US military bases were forced into defrost mode — the Pentagon is investigating a suspected hack. This current European wave follows an incident three weeks earlier in which hackers seized cooling units in as many as 700 French grocery stores, causing food losses estimated at tens of millions of euros. The pattern points to a known class of poorly protected, internet-exposed devices rather than a single novel super-weapon.\n\n## Multiple Perspectives\n\nAttribution is genuinely contested. EU officials, led by commissioner Christophe Hansen, frame this as a deliberate, coordinated disruption of the food supply chain and urge collective resilience — but spokesman Thomas Regnier pointedly declined to name a culprit. Russian hacktivists Noname057(16) and Z-Pentest Alliance claimed they hacked Danfoss, fuelling speculation, yet Sekoia says it has \"no technical evidence\" of Russian-speaking involvement and notes Noname057 mostly does DDoS attacks and has a history of false claims. Sekoia equally flags Iranian-aligned actors, given their record against internet-exposed systems in Israel and the US. Meanwhile Italy's government downplayed the impact as \"currently very limited,\" and researchers at Previdian and Lupovis stress the planning involved — target lists of IP addresses, overnight timing for maximum damage — while still not ruling out a lone teenager.\n\n## What to Watch\n\nWatch for formal attribution, which no authority has yet made. Honeypot data from Previdian, Lupovis and Sekoia may reveal the attackers' methods — Lupovis found probing only within Europe, even sparing Ukraine. Watch whether the escalation from groceries to blood banks continues into other critical infrastructure, and whether the expected \"online bragging\" surfaces. The UK NCSC's warning that an AI-powered attack on critical national infrastructure is likely within two years is the longer-term signal to keep an eye on.",
+    "id": "5aa2f549-ba36-554e-b483-53d75a23f45a",
+    "title": "Protesters march in cities across France as unions stage general strike",
+    "simplified_title": "Huge general strike sweeps France over cost of living and cuts",
+    "quick_summary": "Hundreds of thousands marched across France in a union-led general strike against the rising cost of living and planned cuts to public services.",
+    "simplified_body": "On Thursday, teachers, hospital staff, rail workers and students marched through Paris, Marseille, Lyon, Bordeaux and other cities in a one-day general strike called by five trade unions. The government's interior ministry counted at least 600,000 people, while the left-wing CGT union put the figure at around 1.57 to 1.6 million. Around 70,000 police were deployed; most marches were peaceful, though riot police fired teargas in several cities and there was some unrest, including a car set alight in Lyon.\n\nThe protesters want higher wages — including a lift to the minimum wage, known as the Smic (currently €12.31 an hour) — plus tax reform and better-funded schools and hospitals. The movement affects workers, pensioners and students, many frustrated by overcrowded, run-down high schools (lycées) and stretched public services.\n\nThe protests began in September over poor conditions in lycées, then spread to universities, workers and a revived \"yellow-vest\" (gilets jaunes) movement against high prices. All this comes as President Emmanuel Macron's government tries to pass a tight budget in a divided parliament, with public debt nearing 120% of economic output and ministers aiming to cut the deficit to 5% of GDP (gross domestic product).\n\nPrime Minister Sébastien Lecornu announced a \"social conference\" with unions and employers next Monday to discuss wages and purchasing power. The yellow-vest movement has called for more blockades over the weekend, and the far-right's Marine Le Pen is polling strongly ahead of the 2027 election.",
+    "why_it_matters": "France is a major economy and close partner, so a protracted standoff over its budget and cost of living can ripple through European markets and politics that Australia trades and works with.",
+    "deep_analysis": "## Historical Context\n\nFrance has a long tradition of mass street protest and strikes as a lever on government. The CGT union compared Thursday's turnout to a level \"unmatched\" since 2023. The current wave began in September over poor conditions in lycées (high schools) and spread to universities and workers. It has also revived the \"yellow-vest\" (gilets jaunes) movement, which years ago staged a revolt against high living costs. An earlier big day of action on Saturday 17 October drew 550,000 people by the government's count (800,000 by the unions') and saw more than 2,000 stores looted and historic buildings set alight.\n\n## Multiple Perspectives\n\nThe numbers themselves are contested: the government says at least 600,000 turned out on Thursday, while the CGT claims roughly 1.57–1.6 million. Unions argue the budget cuts would \"worsen poverty, slash social security, freeze state workers' salaries and dry up investment\" for the environment; the CFDT's Marylise Léon is seeking a net €100-a-month rise. The government says it has little room to move, needing tens of billions in savings. Rights groups and CGT chief Sophie Binet allege an \"authoritarian drift,\" pointing to restrictions pushing marches out of city centres; the interior minister framed his approach as a firm response to risks from \"black bloc\" groups, looting and unauthorised marches.\n\n## What to Watch\n\nPrime Minister Sébastien Lecornu's \"social conference\" with unions and employers on Monday is the immediate test of whether talks ease tensions. Watch the promised weekend yellow-vest blockades, progress on the contested budget in a divided parliament, and whether pledges — like reforming the Parcoursup admissions platform — satisfy students. Longer term, the unrest feeds into the 2027 presidential race, where Marine Le Pen is polling high.",
     "concepts": [
      {
-      "term": "honeypots",
-      "definition": "Decoy computer systems deliberately made to look vulnerable so security researchers can lure in hackers and safely study how they attack.",
-      "context": "Three cyber firms deployed honeypots to watch how attackers probed fake freezer software before the second wave of hacks."
+      "term": "Smic",
+      "definition": "France's legal minimum wage, currently set at €12.31 an hour.",
+      "context": "Unions want this lifted as part of their wage demands."
      },
      {
-      "term": "patched",
-      "definition": "Having software updated to fix known security flaws; unpatched software leaves openings hackers can exploit.",
-      "context": "The article explains that internet-connected software left unpatched can leave code open to hackers."
+      "term": "yellow-vest",
+      "definition": "A grassroots protest movement, in French gilets jaunes, that originally rose up against high living costs and has now been revived.",
+      "context": "It has joined the latest wave of cost-of-living protests."
      },
      {
-      "term": "hacktivist",
-      "definition": "A hacker motivated by a political or ideological cause rather than money.",
-      "context": "Russian hacktivist groups claimed involvement, though researchers are sceptical about who was truly responsible."
+      "term": "lycées",
+      "definition": "French high schools, catering roughly to 15-to-18-year-olds.",
+      "context": "Poor conditions in them sparked the protest movement in September."
      },
      {
-      "term": "DDoS",
-      "definition": "A distributed denial of service attack floods a website or service with traffic to knock it offline.",
-      "context": "Sekoia noted one claiming group, Noname057, is mainly known for DDoS attacks rather than this kind of intrusion."
+      "term": "GDP (gross domestic product)",
+      "definition": "The total value of goods and services an economy produces, used to measure its size.",
+      "context": "The government wants to cut the deficit to 5% of it."
      }
     ],
     "quiz": {
-     "question": "Why do experts believe the freezer hacks were planned and coordinated rather than random?",
+     "question": "Why were the trade unions staging the general strike across France?",
      "options": [
-      "Many devices were hit simultaneously and temperatures were raised overnight for maximum damage",
-      "The attackers demanded a ransom from every affected supermarket",
-      "Only brand-new, fully patched refrigeration systems were targeted",
-      "The hackers publicly announced the exact time of each attack in advance"
+      "To demand higher wages and more funding for public services",
+      "To support the government's proposed budget cuts",
+      "To call for France to leave the European Union",
+      "To celebrate a rise in the minimum wage"
      ],
      "answer_index": 0,
-     "explanation": "Researchers like Ryan Dewhurst point to simultaneous hits across countries and overnight timing — which maximises spoilage — as evidence of planning and coordination, not chance."
+     "explanation": "The unions were pushing back against cost-of-living pressures and cuts to public services, demanding higher wages (including a Smic rise) and better-funded schools and hospitals."
     },
-    "background_beginner": "Across Europe, unknown hackers have been breaking into the computer systems that control supermarket fridges and freezers, cranking temperatures sky-high and ruining food. The attacks spread to at least 10 countries and then jumped to France's national blood service, which stores blood and plasma for hospitals. Many of these fridges are connected to the internet so they can be managed remotely — handy, but risky if the software isn't kept up to date. European Union officials fear it's a deliberate attempt to disrupt food supplies, possibly linked to state-backed \"hybrid\" attacks since Russia's 2022 invasion of Ukraine. No one has owned up, and suspects range from Russian or Iranian-linked hackers to bored teenagers. It keeps coming up because so much everyday equipment is now online and poorly secured.",
+    "background_beginner": "France is in the middle of a wave of protests and strikes over the rising cost of living and planned cuts to public spending. The main players are the trade unions — led by the CGT and CFDT — plus students, teachers, hospital and rail workers, all facing off against President Emmanuel Macron's government and Prime Minister Sébastien Lecornu. It started in September with high school students angry about overcrowded, run-down schools, then spread to universities and workers, and revived the older \"yellow-vest\" movement. It keeps flaring up because the government is trying to pass a tight budget while people demand higher wages and better services.",
     "impact_score": 68,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a890/live/d92739f0-d778-11f1-9539-05485195b558.jpg",
+    "image_url": "https://i.guim.co.uk/img/media/d1bbfb3d27c7c8badcb88d97dd2aa4269e6f55cc/465_0_3853_3083/master/3853.jpg?width=1920&quality=85&auto=format&fit=max&s=d59911042793471c13013d6e18971ff4",
     "region": "Europe incl. UK, Russia-Ukraine",
     "region_code": "EUROPE",
-    "description": "Unknown hackers have been remotely raising the temperature of fridges and freezers in supermarkets across at least 10 European countries, and now France's blood banks, spoiling food and raising fears of a deliberate attack on the food supply.",
+    "description": "Hundreds of thousands marched across France in a union-led general strike against the rising cost of living and planned cuts to public services.",
     "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
+    "category": "SOCIETY_CULTURE",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo"
-     },
-     {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe"
+      "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living"
      },
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro"
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
     "related_story_ids": [
-     "cf32843a-026d-5006-830b-28e318f4c285"
+     "40889fac-dd61-5de5-988e-f67b65392c2d",
+     "64681fd5-c970-5213-a539-22ebbd387f36",
+     "a57bbdc4-9f13-5c6e-b135-ee085a776457",
+     "d92321ee-32e9-5d8e-9ae9-4845ceea9903"
     ],
     "reading_minutes": 3,
-    "created_at": "2026-11-04T19:25:37.815968+00:00",
-    "published_date": "2026-11-05",
+    "created_at": "2026-11-06T07:27:30.228708+00:00",
+    "published_date": "2026-11-06",
     "has_fulltext": true
    },
    {
@@ -1409,6 +1270,127 @@
   ],
   "GLOBAL_SYSTEMS": [
    {
+    "id": "ca359a0d-9599-586e-bde9-df6e61e6f671",
+    "title": "Nvidia chips pile up in Hong Kong as China withholds import approval",
+    "simplified_title": "600,000 Nvidia AI Chips Stuck in Hong Kong as China Holds Back",
+    "quick_summary": "Roughly 600,000 of Nvidia's advanced H200 AI chips are sitting in Hong Kong because Beijing won't approve large-scale imports, even though Chinese tech firms badly want them.",
+    "simplified_body": "About 600,000 of Nvidia's advanced artificial intelligence (AI) chips, the H200 model, are being stored in Hong Kong while they wait for the green light to enter mainland China, according to people familiar with the matter. Beijing has let small numbers through — several big Chinese internet companies have each picked up around 10,000 H200s in recent months — but it has not yet approved bringing them in at large volume.\n\nThis matters for China's tech giants like Alibaba, ByteDance and Tencent, who need serious computing grunt to keep up with booming AI demand. The H200 isn't Nvidia's newest chip, but it does things Chinese-made alternatives still can't match, especially for training AI models. With official supply squeezed, buyers have turned to middlemen and indirect routes, pushing prices sky-high: an eight-card H200 server was reportedly offered for over 6 million yuan (about US$900,000) by late October — roughly triple its price a year earlier.\n\nHere's the background. Since 2022, the United States has used export controls to limit China's access to top Nvidia chips. Washington first banned H200 exports to China, then last year let Nvidia sell them to approved customers after trade talks. Now Beijing is applying its own brake, wary of leaning too heavily on US technology.\n\nWhat's next is unclear. Technology publication the Information reported in July that total approvals might stay under 200,000 chips, with Beijing wanting firms to favour Chinese processors for \"inference\" — actually running AI models — and save the Nvidia chips for training. The chips remain stuck in the tug-of-war between Washington and Beijing.",
+    "why_it_matters": "The US–China chip standoff shapes the global race for AI, which flows straight through to the tools, prices and tech services Australians use every day.",
+    "deep_analysis": "## Historical Context\n\nThe flashpoint here is a years-long effort by the United States to slow China's access to the most powerful computing hardware. Export controls introduced in 2022 targeted both advanced Nvidia chips and the equipment needed to manufacture them. The H200 itself has had a whiplash journey: Washington first barred its export to China, then reversed course last year to allow sales to approved Chinese customers following US–China trade negotiations. The twist in this story is that Beijing has now become the bottleneck, deliberately withholding approval for large-scale imports — a sign it would rather tolerate shortages than deepen dependence on American technology.\n\n## Multiple Perspectives\n\nChinese tech firms face surging AI demand and need the H200 because it outperforms domestic alternatives for training models, especially when paired with Nvidia's software — hence the willingness to pay triple the price through unofficial channels. Beijing's calculus is strategic: it reportedly wants companies to prioritise Chinese processors for inference while rationing Nvidia chips for training, keeping total approvals possibly under 200,000. Nvidia, for its part, sits in the middle with hundreds of thousands of chips stockpiled and a huge market it can't fully serve. Note that Nvidia, the Chinese companies and Chinese government bodies did not respond to requests for comment, so their reasoning is inferred rather than stated.\n\n## What to Watch\n\nKeep an eye on whether Beijing loosens the tap and approves large-volume imports, or holds the line to push domestic chips. The grey market is a useful barometer — the article notes Blackwell-based servers, which fall under US export controls, were offered for more than 20 million yuan each. Also watch the pivot to export-compliant hardware: Reuters reported that ByteDance, Alibaba and Tencent ordered more than 3 million of Nvidia's less powerful RTX Pro 5500 cards, worth over US$35 billion combined.",
+    "concepts": [
+     {
+      "term": "H200",
+      "definition": "An advanced Nvidia AI chip that, while not the company's newest, has capabilities Chinese-made alternatives have yet to match, especially for training AI models.",
+      "context": "About 600,000 H200 chips are being held in Hong Kong awaiting approval to enter China."
+     },
+     {
+      "term": "export controls",
+      "definition": "Government rules restricting which technologies can be sold to certain countries, used by the US since 2022 to limit China's access to advanced chips.",
+      "context": "US export controls first barred the H200 before later allowing limited, approved sales."
+     },
+     {
+      "term": "inference",
+      "definition": "The task of actually running a trained AI model to produce answers, as opposed to the heavier job of training it.",
+      "context": "Beijing reportedly wants firms to prioritise Chinese processors for inference."
+     }
+    ],
+    "quiz": {
+     "question": "Why are the Nvidia H200 chips piling up in Hong Kong?",
+     "options": [
+      "Nvidia stopped manufacturing the H200",
+      "The United States banned all chip exports worldwide",
+      "Chinese companies no longer want AI chips",
+      "Beijing has not approved large-scale imports into China"
+     ],
+     "answer_index": 3,
+     "explanation": "The chips are stuck because Beijing is withholding approval for large-volume imports, wary of over-relying on US technology, even though Chinese firms want the chips."
+    },
+    "background_beginner": "Nvidia is a US company that makes the specialised chips used to build and run artificial intelligence (AI). These chips are in huge demand worldwide. Since 2022, the United States has restricted selling its most powerful chips to China, worried about giving a rival an edge in AI and military tech. China's big tech firms — like Alibaba, ByteDance and Tencent — still want them badly. This issue keeps resurfacing because it sits at the heart of a broader trade and technology rivalry between Washington and Beijing, where each side uses chips as leverage. The latest wrinkle is that China itself is now slowing imports, preferring to build up its own chip industry.",
+    "impact_score": 72,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--yz_Pvxp2--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-05T114408Z_4_LYNXNPEMA413Z_RTROPTP_3_NVIDIA-CHINA.JPG?itok=iZLbVgkd",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "Roughly 600,000 of Nvidia's advanced H200 AI chips are sitting in Hong Kong because Beijing won't approve large-scale imports, even though Chinese tech firms badly want them.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/nvidia-chips-pile-up-hong-kong-china-withhold-import-approval-6527371"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-06T07:27:27.477490+00:00",
+    "published_date": "2026-11-06",
+    "has_fulltext": true
+   },
+   {
+    "id": "7813dad7-4c89-59f4-838f-dad2d9ce52b1",
+    "title": "Three-quarters of world's displaced people face severe climate risks, UN says",
+    "simplified_title": "Most displaced people live in climate danger zones, UN warns",
+    "quick_summary": "The UN says nearly 90 million forcibly displaced people — three-quarters of the global total — live in countries badly exposed to climate hazards like droughts, floods and extreme heat.",
+    "simplified_body": "The UN Refugee Agency (UNHCR) released a report saying that three-quarters of the world's displaced people — nearly 90 million refugees and others forced from their homes — live in countries facing severe climate-related hazards. The report landed just days before COP31, the United Nations' annual climate conference, being held this year in Turkey. UNHCR says droughts, floods and extreme heat are making lasting solutions harder to reach.\n\nThis hits people who've already fled conflict, violence and persecution, only to land somewhere battered by the warming planet. As Anton Leis Garcia of UNHCR put it, refugees face a \"double injustice\" — forced to flee wars they didn't start, now on the frontlines of a crisis they did least to cause. Returning home isn't safe either: more than two-thirds of refugees who went home in the first half of this year returned to climate-vulnerable countries. In Syria, where nearly four million displaced people have recently returned, falling groundwater and flooding along the Euphrates River are threatening recovery.\n\nFor newcomers: \"forcibly displaced\" means people pushed from their homes by conflict or disaster, including refugees who cross borders and those displaced inside their own country. Weather disasters alone have caused over 255 million internal displacements in the past decade — about 70,000 a day.\n\nUNHCR warns extreme heat is growing: by 2050, one in three refugee settlements in sub-Saharan Africa could face 100-plus dangerous-heat days a year. A strong El Nino could displace up to three million people across East Africa by the end of 2026. Only 10 percent of global climate finance reaches the fragile countries hosting these populations — so at COP31, UNHCR will push governments to include displaced people in climate plans and funding.",
+    "why_it_matters": "It links two of the biggest global pressures — forced displacement and climate change — showing they increasingly compound each other, and it lands right as world leaders gather for COP31 to decide where climate money goes.",
+    "deep_analysis": "## Historical Context\n\nForced displacement and climate change have long been treated as separate problems — one handled by humanitarian agencies, the other by climate negotiators. This UNHCR report pushes them together, arguing the two crises now overlap heavily. For years, climate finance (money rich nations pledge to help the world cope with warming) has flowed mostly to stable, investable countries. The report's figure that only 10 percent reaches fragile and conflict-affected states captures a long-standing gap: the places with the least capacity to adapt get the least help. COP (short for Conference of the Parties) is the UN's yearly climate meeting where these finance decisions get thrashed out.\n\n## Multiple Perspectives\n\nUNHCR frames this squarely as a justice issue: people who contributed least to warming are suffering most, and should not be \"left behind.\" The agency wants refugees written explicitly into national climate plans and funding mechanisms.\n\nA host-country view, not spelled out in the report, is that many nations sheltering large displaced populations are themselves stretched thin, which is partly why funnelling finance there is both urgent and difficult. There's also an unresolved tension the report hints at: returning refugees home is usually seen as a success, yet two-thirds are going back to climate-vulnerable places, raising hard questions about whether those returns will hold.\n\n## What to Watch\n\nWatch COP31 in Turkey for whether displaced populations actually make it into finance commitments, or stay a talking point. Keep an eye on East Africa, where UNHCR warns El Nino-driven flooding could displace up to three million people across Somalia, Kenya, South Sudan and Uganda by the end of 2026. Syria's recovery — with four million recently returned amid falling groundwater — will be a real-world test of whether returns can succeed under climate stress.",
+    "concepts": [
+     {
+      "term": "forcibly displaced",
+      "definition": "People who have been pushed out of their homes by conflict, violence, persecution or disaster — including both refugees who cross into another country and those displaced within their own.",
+      "context": "The report says nearly 90 million forcibly displaced people live in climate-exposed countries."
+     },
+     {
+      "term": "COP31",
+      "definition": "The 31st UN Conference of the Parties — the annual global summit where governments negotiate action and funding on climate change, held this year in Turkey.",
+      "context": "UNHCR released the report days before COP31 to push for displaced people to be included in climate plans."
+     },
+     {
+      "term": "climate finance",
+      "definition": "Money provided, often by wealthier nations and institutions, to help countries reduce emissions and cope with the impacts of a warming planet.",
+      "context": "Only 10 percent of global climate finance reaches the fragile countries hosting climate-exposed displaced people."
+     },
+     {
+      "term": "El Nino",
+      "definition": "A recurring climate pattern involving warmer Pacific Ocean temperatures that shifts weather worldwide, often bringing heavier rain and flooding to some regions.",
+      "context": "A strong El Nino could displace up to three million people across East Africa by the end of 2026."
+     }
+    ],
+    "quiz": {
+     "question": "Why does UNHCR describe refugees as facing a \"double injustice\"?",
+     "options": [
+      "They lose their homes and their jobs at the same time",
+      "They are taxed twice by host governments",
+      "They flee conflicts they didn't cause, then face a climate crisis they contributed least to",
+      "They are displaced and then denied citizenship"
+     ],
+     "answer_index": 2,
+     "explanation": "UNHCR's Anton Leis Garcia said refugees are forced to flee conflicts they did not cause and are now on the frontlines of a climate crisis they have contributed least to — two injustices stacked on top of each other."
+    },
+    "background_beginner": "The UN Refugee Agency, known as UNHCR, is the United Nations body that protects and helps people forced from their homes by war, violence or persecution. Each year world governments meet at a UN climate summit called COP to agree on action and funding to tackle global warming; this year it's COP31 in Turkey. For a long time, the problems of refugees and of climate change were handled separately. Now UNHCR is arguing they can't be — because most displaced people happen to live in countries hammered by droughts, floods and heat. It keeps coming up because displacement numbers keep rising and the money meant to help rarely reaches the hardest-hit places.",
+    "impact_score": 72,
+    "image_url": "https://s.france24.com/media/display/27e91f36-c775-11f1-a8f0-53993c5f1f18/w:1280/p:16x9/3a4f044a28d5dcc6404274b250beb08ab8067c5f.jpg",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "The UN says nearly 90 million forcibly displaced people — three-quarters of the global total — live in countries badly exposed to climate hazards like droughts, floods and extreme heat.",
+    "tier": "GLOBAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-06T07:27:29.509884+00:00",
+    "published_date": "2026-11-06",
+    "has_fulltext": true
+   },
+   {
     "id": "c11b4b6e-7c1c-5386-8937-369aff407fbf",
     "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
     "simplified_title": "UK too reliant on China for critical minerals, MPs warn",
@@ -1541,69 +1523,6 @@
     ],
     "reading_minutes": 1,
     "created_at": "2026-11-05T07:26:51.246589+00:00",
-    "published_date": "2026-11-05",
-    "has_fulltext": true
-   },
-   {
-    "id": "dfbcaa0a-6e42-5186-bda7-9a47ad5fd507",
-    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    "simplified_title": "UK and EU agree draft deal to cut Brexit food export red tape",
-    "quick_summary": "The UK and EU have drafted a deal to scrap post-Brexit checks and paperwork on food and farm exports, ahead of a summit later this month.",
-    "simplified_body": "The UK and the European Union (EU) have agreed a draft deal to remove post-Brexit checks on food and agriculture exports. The BBC understands the 200-page text for this \"SPS\" (sanitary and phytosanitary) agreement has gone to EU nations in Brussels, alongside draft texts on emissions trading and a youth travel and work scheme. The government claims it will eventually be worth £5.1bn a year, and the prime minister said a UK-EU deal could add up to 0.4% to GDP (Gross Domestic Product).\n\nThis matters most to exporters and farmers. Fresh sausages, burgers, shellfish and seed potatoes could flow to the EU again, while £200 Export Health Certificates and £25 Phytosanitary certificates would go, along with inspector and port fees. Pet passports would return. One small granola and yoghurt firm said it had to stop exporting because a vet inspection cost £140 per pallet.\n\nFor background: when the UK left the EU's single market, trade in food gained heavy paperwork and checks. In return for easing this, the UK would commit to \"dynamic alignment\" — observing and adapting to existing EU food, plant and animal rules. Northern Ireland benefits especially, as the deal would ease the Irish Sea border.\n\nNext, EU ambassadors discuss the drafts at a meeting called Coreper on Wednesday, before the summit. Reactions are split: business groups and farmers back it, while the Conservatives' Kemi Badenoch and Reform UK call dynamic alignment a surrender of sovereignty, and the Liberal Democrats say the real fix is rejoining the single market.",
-    "why_it_matters": "For a trading nation like ours, it's a reminder of how much border red tape can quietly strangle small exporters — and how leaving a trade bloc means endless negotiating over the rules you once simply shared.",
-    "deep_analysis": "## Historical Context\n\nThe UK voted to leave the EU in 2016 and left the single market at the start of 2021. The trade deal signed by Boris Johnson's government deliberately prioritised regulatory freedom over avoiding new red tape, meaning food and farm exporters suddenly faced health certificates, inspections, port fees and delays. Nearly six years on, the British Chamber of Commerce says that relationship is \"failing to deliver\". This draft agreement is the centrepiece of what's being called the \"Brexit reset\".\n\n## Multiple Perspectives\n\nSupporters — including supermarkets, farmers' representatives and the business lobby — argue the costs of following common rules are a \"price worth paying\" for lower costs, fewer delays and better market access. Critics split two ways. Pro-Brexit figures like the Conservatives' Kemi Badenoch and Reform UK's Richard Tice see \"dynamic alignment\" as surrendering sovereignty and risking other trade deals. The Liberal Democrats go the other way, calling the deal a \"patch, not a fix\" and urging a full return to the single market and a customs union. Current leader Andy Burnham says public opinion has shifted but insists \"the public need to be the boss\".\n\n## What to Watch\n\nThe immediate step is Wednesday's Coreper meeting of EU ambassadors, then the summit later this month. Watch the numbers for the Youth Experience Scheme, whether EU student fee discounts slip to next year, and how the European Partnerships Bill handles applying new EU rules. Also worth watching: Northern Ireland, where the deal could dramatically reduce the Irish Sea border, and areas like \"precision breeding\" where England has already diverged from EU rules.",
-    "concepts": [
-     {
-      "term": "dynamic alignment",
-      "definition": "An arrangement where the UK agrees to keep observing and adapting to the EU's existing rules on food, plant and animal trade standards, even though it is no longer a member.",
-      "context": "The UK offers this in return for the EU dropping checks on food exports; critics call it a loss of sovereignty."
-     },
-     {
-      "term": "SPS",
-      "definition": "Sanitary and phytosanitary measures — the health rules governing trade in animals, plants and food to stop pests and diseases spreading.",
-      "context": "The draft food deal is an 'SPS' agreement, a 200-page text circulated to EU nations."
-     },
-     {
-      "term": "Export Health Certificates",
-      "definition": "Official documents confirming a product meets the health requirements of the country it is being sent to.",
-      "context": "These cost £200 and can add thousands of pounds to each truck of goods; the deal would scrap them."
-     },
-     {
-      "term": "single market",
-      "definition": "The EU system allowing goods, services, people and capital to move freely between member countries without internal trade barriers.",
-      "context": "The UK left it after Brexit, which is why food exports suddenly faced checks and paperwork."
-     }
-    ],
-    "quiz": {
-     "question": "What is the UK expected to give in return for the EU removing food export checks?",
-     "options": [
-      "Paying the EU's carbon border tax permanently",
-      "Committing to 'dynamic alignment' with existing EU food, plant and animal rules",
-      "Restoring full freedom of movement",
-      "Rejoining the EU single market"
-     ],
-     "answer_index": 1,
-     "explanation": "The UK is expected to observe and adapt to existing EU trade standards — 'dynamic alignment' — in exchange for dropped checks. It is not rejoining the single market, and freedom of movement has not been proposed."
-    },
-    "background_beginner": "Brexit is the name for the United Kingdom leaving the European Union (EU), a bloc of European countries that trade freely with each other under shared rules. The UK voted to leave in 2016 and fully exited the EU's single market in 2021. Since then, British businesses sending food and farm goods to Europe have faced extra paperwork, inspections and fees that slow trade and add costs. The two sides keep negotiating ways to smooth this out without the UK actually rejoining. This latest \"reset\" deal, driven ahead of a UK-EU summit, is the biggest attempt yet — and it keeps coming up because politicians still disagree sharply over how close to the EU Britain should be.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "The UK and EU have drafted a deal to scrap post-Brexit checks and paperwork on food and farm exports, ahead of a summit later this month.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 6,
-    "created_at": "2026-11-04T19:25:34.590218+00:00",
     "published_date": "2026-11-05",
     "has_fulltext": true
    }
@@ -1995,5 +1914,5 @@
    }
   ]
  },
- "total_stories": 29
+ "total_stories": 28
 }
