@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "generated_at": "2026-11-06T19:23:03.579458+00:00",
+ "generated_at": "2026-11-07T01:23:03.572617+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -1133,6 +1133,142 @@
     "has_fulltext": true
    },
    {
+    "id": "609764e9-81b2-5c0d-a8a8-f61fdb0ddd81",
+    "title": "Trump to replace chief of staff with hardline deputy Stephen Miller",
+    "simplified_title": "Trump Makes Immigration Hardliner Stephen Miller His Chief of Staff",
+    "quick_summary": "Donald Trump has replaced chief of staff Susie Wiles with Stephen Miller, the architect of his hardline immigration crackdown, days after Republicans lost both houses of Congress.",
+    "simplified_body": "US President Donald Trump has named Stephen Miller as his new White House chief of staff, taking over on Monday from Susie Wiles. The chief of staff is one of Washington's most powerful jobs — the gatekeeper to the president and the main negotiator with Congress. Trump said he \"wanted to make a change\" and that Miller \"gets it\". The sources differ on exactly how Wiles left: ABC frames it as Trump removing her, while the BBC reports she submitted her resignation, which three sources linked to the election losses.\n\nThe move affects how Trump governs his final two years. It comes just after this week's midterm elections — the mid-term national vote held halfway through a president's term — in which Democrats won control of both the House and Senate. Miller, 41, is best known for driving the administration's mass deportations and pressing US Immigration and Customs Enforcement (ICE) to lift arrest numbers.\n\nWiles, seen as a stabilising force, co-ran Trump's 2024 campaign. She had faced cancer; ABC says she was diagnosed with breast cancer in March, while the BBC reports she announced remission in September. As recently as last month, Trump said there was \"zero chance\" she'd be replaced.\n\nPicking a \"firebrand\" rather than offering an olive branch suggests Trump is bracing for battle. Democrats reacted furiously — House leader Hakeem Jeffries called Miller \"a dangerous xenophobe\". With Democrats promising new investigations and 58% of voters telling pollsters immigration enforcement had \"gone too far\", clashes with Congress look likely.",
+    "why_it_matters": "The chief of staff shapes how the world's most powerful government operates, so installing a combative hardliner signals confrontation rather than compromise — and US immigration and trade decisions ripple out to allies like Australia.",
+    "deep_analysis": "## Historical Context\n\nThe White House chief of staff controls access to the president, sets the agenda and negotiates with Congress. Susie Wiles, who co-managed Trump's successful 2024 re-election campaign, had earned a reputation as a cool professional who avoided the staff upheavals and policy reversals that marked Trump's first term. Stephen Miller, by contrast, has been with Trump since early in his 2016 campaign, serving as a strategist and warm-up speaker at rallies. He stayed loyal through Trump's post-2020 exile and returned as deputy chief of staff for policy. Before Trump, he worked for hardline Alabama Senator Jeff Sessions, where he honed the immigration positions he's now famous for.\n\n## Multiple Perspectives\n\nThe sources diverge on how Wiles departed: ABC presents it as Trump removing her (\"I want to make a change\"), while the BBC reports she submitted her resignation, tied by three sources to the midterm losses. On Miller himself, views are sharply split. Republican Senator Mike Lee hailed him as a \"conservative warrior\", and Trump praised him as \"very good politically\" and \"a very good manager\". But retiring Republican Senator Thom Tillis called him \"incompetent\", and Democrats were scathing — Jeffries and Congressman Robert Garcia accused him of policies that have \"killed American citizens and immigrant families\". Vice-President JD Vance had floated softening enforcement after the election loss; Miller's rise makes that less likely.\n\n## What to Watch\n\nWatch whether Miller can negotiate with a Democratic-controlled Congress he has personally antagonised — including new Senator James Talarico, whom he attacked online. Expect Democratic oversight investigations, continued friction over ICE operations, and a wider post-midterm reshuffle, with several Justice Department officials already resigning.",
+    "concepts": [
+     {
+      "term": "chief of staff",
+      "definition": "The president's most senior aide — the gatekeeper who controls access to the president, sets the White House agenda and negotiates with Congress.",
+      "context": "Trump named Miller to this role, one of the most powerful positions in Washington."
+     },
+     {
+      "term": "midterm elections",
+      "definition": "National US elections held halfway through a president's four-year term, deciding control of Congress.",
+      "context": "Republicans lost both the House and Senate in this week's vote, prompting the reshuffle."
+     },
+     {
+      "term": "ICE",
+      "definition": "US Immigration and Customs Enforcement — the federal agency that arrests and deports people without legal status.",
+      "context": "Miller pressed its leadership to lift arrest numbers as part of mass deportations."
+     },
+     {
+      "term": "deportations",
+      "definition": "The forced removal of people from a country, usually for lacking legal immigration status.",
+      "context": "Miller drove the push for mass deportations across the US."
+     }
+    ],
+    "quiz": {
+     "question": "Why is Miller's appointment seen as a signal of confrontation rather than compromise?",
+     "options": [
+      "He is a political moderate who avoids clashes",
+      "He has promised to resign within a year",
+      "He is a hardline partisan installed just after Democrats won Congress and promised investigations",
+      "He was chosen to run Trump's 2028 campaign instead"
+     ],
+     "answer_index": 2,
+     "explanation": "Analysts read the pick as Trump 'girding for battle' — elevating a combative hardliner at the very moment Democrats took control of Congress and pledged new oversight, rather than extending an olive branch."
+    },
+    "background_beginner": "Donald Trump is the US president, serving a second term. The White House chief of staff is his most senior aide, managing who sees the president and dealing with Congress. Susie Wiles held that job and was viewed as a steadying influence; she helped run Trump's 2024 campaign. Stephen Miller, 41, is a longtime Trump adviser best known as the architect of his tough immigration policies, including mass deportations. This reshuffle follows the midterm elections, where Trump's Republicans lost control of both chambers of Congress. It keeps coming up because immigration and Trump's governing style are central, polarising issues in American politics.",
+    "impact_score": 72,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/0326f2aef95be5cb762b4266afab1c12?impolicy=wcms_watermark_news&cropH=1254&cropW=2229&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Donald Trump has replaced chief of staff Susie Wiles with Stephen Miller, the architect of his hardline immigration crackdown, days after Republicans lost both houses of Congress.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-07/donald-trump-cos-susie-wiles-to-be-replaced-by-stephen-miller/107358840"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-07T01:25:17.989877+00:00",
+    "published_date": "2026-11-07",
+    "has_fulltext": true
+   },
+   {
+    "id": "67fb7ad2-9e27-54a0-89d2-665f0f45176a",
+    "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
+    "simplified_title": "Wisconsin Baby Dies of Measles, State's First Death Since 1990",
+    "quick_summary": "A Wisconsin infant has died of measles, the state's first such death in over 35 years, as outbreaks drive US cases and deaths to their highest levels since 1991.",
+    "simplified_body": "An infant in Wisconsin has died of measles, officials reported on Thursday — the state's first measles death since 1990. It comes amid an outbreak that has sickened over 430 people across 13 counties in Wisconsin this year. Health Secretary Kirsten Johnson called any child's death a tragedy, \"even more so when it is related to a vaccine-preventable disease.\"\n\nThe baby's death was the third measles fatality nationally in just one week, following a New York child's death reported Monday and a death in Pennsylvania reported Wednesday. Pennsylvania's outbreak alone has reached 1,467 cases this year. In total, nine measles deaths have been reported across the US this year, eight confirmed by state officials, including two babies, a healthy teen and several adults with underlying conditions.\n\nMeasles is a highly contagious viral illness prevented by vaccination. As of 5 November, the Centers for Disease Control and Prevention (CDC) reported 5,182 cases across 47 states and jurisdictions — the highest tally since 1991. The CDC's own count of four deaths doesn't clearly line up with the state-reported numbers.\n\nOfficials warn the figures likely undercount reality. Not everyone who falls ill seeks care or gets tested, so cases go unreported. Several large outbreaks, including Pennsylvania's, have hit tight-knit religious communities that are less likely to use conventional medicine — meaning spread may continue unless vaccination rates improve.",
+    "why_it_matters": "Measles was once considered beaten in wealthy countries, so a resurgence of deaths shows how quickly a preventable disease returns when vaccination slips — a reminder that matters for Australia too, where high immunisation coverage is what keeps outbreaks at bay.",
+    "deep_analysis": "## Historical Context\n\nMeasles was declared eliminated in the United States in 2000, meaning there was no continuous year-round spread. The fact that national case and death tallies are now the highest since 1991 marks a dramatic reversal. Wisconsin's own last measles death was in 1990, so losing an infant now breaks a streak of more than 35 years. Measles is one of the most contagious diseases known, and before widespread vaccination it was a routine cause of childhood illness and death.\n\n## Multiple Perspectives\n\nPublic health officials, like Wisconsin Health Secretary Kirsten Johnson, frame these deaths as avoidable tragedies and urge people to assess their risk and get vaccinated. The data itself is contested at the edges: the CDC reports four deaths while state officials have confirmed eight, and it's unclear which deaths the CDC has counted — a gap that complicates the national picture. Officials also acknowledge the case counts are likely a significant undercount, since not everyone seeks care or testing, and some affected communities are religious groups less inclined to use conventional medicine.\n\n## What to Watch\n\nWatch whether the Pennsylvania outbreak, already at 1,467 cases, keeps growing, and whether more states join the 47 jurisdictions reporting cases. The discrepancy between CDC and state death tallies is worth tracking, as is any shift in how tight-knit communities engage with vaccination. The central question is whether this year's surge is a one-off spike or the start of measles re-establishing a foothold.",
+    "concepts": [
+     {
+      "term": "measles",
+      "definition": "A highly contagious viral disease that can cause serious illness and death, but which is preventable through vaccination.",
+      "context": "The article reports an infant dying of measles amid widespread US outbreaks."
+     },
+     {
+      "term": "outbreak",
+      "definition": "A sudden rise in cases of a disease in a particular place or community, above what is normally expected.",
+      "context": "Wisconsin's outbreak has sickened over 430 people across 13 counties this year."
+     },
+     {
+      "term": "Centers for Disease Control and Prevention (CDC)",
+      "definition": "The United States' national public health agency, which tracks and reports disease cases and deaths.",
+      "context": "The CDC reported 5,182 measles cases across 47 states and jurisdictions as of 5 November."
+     },
+     {
+      "term": "vaccine-preventable disease",
+      "definition": "An illness that can be avoided through vaccination.",
+      "context": "The health secretary called the infant's death more tragic because measles is a vaccine-preventable disease."
+     }
+    ],
+    "quiz": {
+     "question": "Why do officials believe the reported measles case numbers are likely an undercount?",
+     "options": [
+      "Because not everyone who gets sick seeks medical care or gets tested",
+      "Because measles only affects infants, who are hard to track",
+      "Because vaccinated people cannot be counted in the figures",
+      "Because the CDC refuses to publish data from certain states"
+     ],
+     "answer_index": 0,
+     "explanation": "Officials noted that not everyone who becomes ill seeks care or gets tested, so cases go unreported — a problem made worse because some outbreaks hit communities less likely to use conventional medicine."
+    },
+    "background_beginner": "Measles is a very contagious viral illness that spreads easily and can be deadly, especially for babies and people with weak immune systems. A safe vaccine has long made it rare in wealthy countries, and the United States even declared it eliminated in 2000. The main players here are US state health departments — in Wisconsin, Pennsylvania and New York — and the national Centers for Disease Control and Prevention (CDC), which tracks cases. The story keeps coming up because when fewer people get vaccinated, measles returns. This year the US has seen its worst case and death numbers since 1991, including the deaths of several children.",
+    "impact_score": 72,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-1152x648.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "A Wisconsin infant has died of measles, the state's first such death in over 35 years, as outbreaks drive US cases and deaths to their highest levels since 1991.",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "f7a1b98e-7636-5ad2-b8b6-0f55130901c5"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-07T01:25:12.370718+00:00",
+    "published_date": "2026-11-07",
+    "has_fulltext": true
+   },
+   {
     "id": "44f68094-d233-5148-be79-859dcb19761b",
     "title": "Paraguay President Santiago Peña resigns after bank collapse",
     "simplified_title": "Paraguay's President Quits After Bank He's Linked To Collapses",
@@ -1916,5 +2052,5 @@
    }
   ]
  },
- "total_stories": 28
+ "total_stories": 30
 }
