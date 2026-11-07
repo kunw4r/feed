@@ -1,6 +1,6 @@
 {
- "date": "2026-11-07",
- "generated_at": "2026-11-07T07:23:04.205920+00:00",
+ "date": "2026-11-08",
+ "generated_at": "2026-11-07T19:23:04.058776+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -137,66 +137,142 @@
     "has_fulltext": true
    },
    {
-    "id": "e7ab8438-b111-5d85-a4f7-b9bb10dc07cf",
-    "title": "New cancer treatment adding years to patients' lives",
-    "simplified_title": "Cancer DNA Testing to Reach 25,000 More Australians",
-    "quick_summary": "New federal funding will let 25,000 more Australians with advanced cancers access genomic profiling, a DNA test that matches them to targeted treatments shown to double survival.",
-    "simplified_body": "The federal government has secured funding so another 25,000 Australians can access comprehensive genomic profiling — a technology that reads the DNA of a person's tumour to find which specific gene changes are driving their cancer. Armed with that information, doctors can match patients to targeted drug treatments rather than relying on guesswork. Health Minister Mark Butler says the government is working to scale this up so it becomes standard care.\n\nThis matters most to people with advanced or incurable cancers who have run out of standard options. Emily Capper was diagnosed with an aggressive brain cancer at 31 and given as little as nine months to live; almost five years on, testing found her tumour had a BRAF mutation, and a matched drug has stopped her cancer growing. Senior oncologist Rob Zielenski says matched treatments double survival and help patients avoid toxic, futile therapies.\n\nFor newcomers: cancer care has traditionally been based on where in the body a tumour started. Genomic profiling instead looks at roughly 500 to 600 genes that can be altered in any cancer. Not-for-profit Omico provides the test free and links patients to trials — it has supported more than 30,000 Australians, boosted by $71 million in the latest budget.\n\nThe catch is reach and cost. Omico gets a referral every 15 minutes but can currently help only one in four people with incurable solid tumours, missing roughly 34,000 Australians a year. Many promising drugs aren't subsidised through the Pharmaceutical Benefits Scheme (PBS) — only 25 per cent of medicines launched globally in recent decades are listed — so patients can face thousands of dollars a month.",
-    "why_it_matters": "For Australians facing advanced or incurable cancer, this funding can mean years of extra life and fewer wasted, toxic treatments — but with Omico able to reach only one in four eligible patients, access and drug affordability remain the big unresolved questions.",
-    "deep_analysis": "## Historical Context\n\nFor most of modern medicine, cancer has been classified and treated according to where in the body it began — breast, lung, brain and so on. That approach left doctors unable to explain why two patients with seemingly identical cancers responded very differently to the same treatment. Many standard therapies work like a broad-spectrum antibiotic, as University of Queensland specialist Amy McCart Reed puts it: given in hope they kill the cancer cells. Genomic profiling marks a shift towards precision oncology, reading the tumour's own genetic \"fingerprint\" to guide treatment.\n\n## Multiple Perspectives\n\nClinicians are enthusiastic: Dr Zielenski likens profiling to \"a topographic map and a compass\" and cites clear evidence that matched treatments double survival. Patients like Emily Capper describe it as a last option that has given them precious time. Omico frames the funding as vital but insufficient — it can reach only one in four eligible patients, leaving around 34,000 Australians a year unhelped. Professor David Thomas raises the harder, longer-term worry: even when the right drug is found, many aren't on the PBS, and funding them for an ageing population on a \"diminishing taxpayer base\" is a genuine policy problem. McCart Reed adds a note of caution — there's little value in testing someone unless the result can actually change their treatment.\n\n## What to Watch\n\nKey questions ahead: whether Butler's promise to make profiling \"standard of care\" translates into public-system capacity to test widely; how quickly new cancer drugs get listed on the PBS at a time of \"turbocharged discovery\"; and whether more clinical trials open up so patients aren't left paying privately. The $71 million keeps Omico's program running for three years — what happens after that is unresolved.",
+    "id": "bc8d7b08-0aed-5576-9ecf-708d67f80499",
+    "title": "Race to tame inflation more tricky that one that stops the nation",
+    "simplified_title": "Why a Rate Rise Hits Australians So Unevenly",
+    "quick_summary": "The Reserve Bank's decision to lift interest rates helps savers but squeezes mortgage holders and renters, splitting Australians into winners and losers.",
+    "simplified_body": "The Reserve Bank of Australia (RBA) has lifted the cash rate again, and racegoers at the Melbourne Cup had plenty to say about it. One man, Anthony, said rising rates had put home ownership out of reach, so he and his partner are travelling and snowboarding instead. Christine, who has a mortgage, simply pleaded with the RBA to \"stop\". A man with four properties admitted the rise would \"hit our budget quite hard\".\n\nThe pain isn't shared evenly. Roughly one-third of Australians have housing debt, mostly on variable rates, so their repayments climb every time the cash rate rises. Another third rent, with many now at the limit of what they can afford. The final third have paid off their homes and are actually earning more on their savings. Even some winners feel uneasy: Craig, a retiree, called it \"unfair\" that a small group of mortgage holders does the \"heavy lifting\" of pulling money out of the economy.\n\nRaising the cash rate is the RBA's main tool to tame inflation, the general rise in prices. The idea is that costlier borrowing cools spending. The federal government has other options, like boosting productivity, intervening in markets or lifting the Medicare levy, but these are slow, politically risky and far from guaranteed.\n\nThe mood ahead looks tough. NAB chief executive Andrew Irvine said 2027 would be a \"challenging year\" for customers, who are \"resilient\" and \"getting by\" but \"might not be having much fun\".",
+    "why_it_matters": "Interest rate moves shape household budgets right across Australia, deciding who can buy a home, who can keep paying rent, and who quietly gets ahead on their savings.",
+    "deep_analysis": "## Historical Context\n\nCentral banks like the Reserve Bank of Australia have long used interest rates as their primary lever to manage inflation. When prices rise too fast, lifting the cash rate makes borrowing dearer, which is meant to slow spending and ease price pressure. The trade-off is that the same tool that cools the economy also directly raises the cost of existing home loans, which in Australia are largely on variable rates. This article captures a recurring tension: a blunt national tool landing very differently on individual households.\n\n## Multiple Perspectives\n\nThe article deliberately gives us several voices. Mortgage holders like Christine want the rises to stop. Aspiring buyers like Anthony have given up on a house altogether and redirected their money to travel. Property investors feel the budget squeeze across multiple loans. Savers and retirees who own their homes outright benefit from higher returns, yet even one of them, Craig, argues the burden unfairly falls on a small group of borrowers and wants \"more bravery\" from the government to fight inflation by other means. The RBA board itself was split, with three of its nine members voting against the rise. From the banking side, NAB's Andrew Irvine frames customers as resilient but not enjoying themselves.\n\n## What to Watch\n\nWatch whether the government reaches for its slower, riskier alternatives, things like boosting productivity, price intervention or tax and superannuation changes, rather than leaving the RBA to do all the work. Keep an eye on 2027, which NAB's chief executive has already flagged as \"challenging\" for customers. The split vote on the board also signals that future decisions may be far from unanimous.",
     "concepts": [
      {
-      "term": "genomic profiling",
-      "definition": "A test that reads the DNA of a patient's tumour to identify the specific gene changes driving their cancer, so treatment can be matched to it.",
-      "context": "The article's central technology, now being funded for 25,000 more Australians."
+      "term": "cash rate",
+      "definition": "The baseline interest rate set by the Reserve Bank that flows through to the interest charged on loans and paid on savings across the economy.",
+      "context": "Variable home loan repayments rise as the cash rate lifts, which is why mortgage holders feel rate decisions most directly."
      },
      {
-      "term": "BRAF mutation",
-      "definition": "A change in the BRAF gene that helps drive the growth of some cancers and can be targeted by specific drugs.",
-      "context": "Emily Capper's tumour had this mutation, which let doctors match her to a targeted drug."
+      "term": "variable rates",
+      "definition": "A loan interest rate that moves up or down over time with the cash rate, rather than staying fixed.",
+      "context": "Most Australian home loans are on variable rates, so repayments increase whenever the RBA lifts the cash rate."
      },
      {
-      "term": "Pharmaceutical Benefits Scheme (PBS)",
-      "definition": "The Australian government program that subsidises the cost of approved medicines for patients.",
-      "context": "Many emerging cancer therapies aren't on the PBS, so patients can face thousands of dollars a month."
+      "term": "inflation",
+      "definition": "The general rise in prices across the economy over time, which reduces how much a dollar can buy.",
+      "context": "Lifting interest rates is the RBA's main way to tame inflation by cooling spending."
      },
      {
-      "term": "precision oncology",
-      "definition": "An approach to cancer care that targets treatment to the specific genetic features of a patient's cancer rather than its location in the body.",
-      "context": "Omico is described as leading the charge on precision oncology in Australia."
+      "term": "Medicare levy",
+      "definition": "A tax most Australians pay to help fund the public health system, usually a percentage of income.",
+      "context": "Temporarily lifting the Medicare levy is listed as one government option to reduce inflation without raising rates."
      }
     ],
     "quiz": {
-     "question": "Why do doctors like Dr Zielenski value genomic profiling for cancer patients?",
+     "question": "Why does a cash rate rise affect Australians so unevenly?",
      "options": [
-      "It is cheaper than any other cancer test",
-      "It cures most advanced cancers outright",
-      "It replaces the need for clinical trials",
-      "It matches patients to targeted treatments and helps avoid toxic, futile therapies"
+      "Because everyone's wages automatically rise with the cash rate",
+      "Because only renters are affected by interest rate changes",
+      "Because mortgage holders pay more while savers earn more, and renters get squeezed",
+      "Because the rate only applies to people who own four properties"
      ],
-     "answer_index": 3,
-     "explanation": "The article says matched treatments double survival and help doctors avoid the wrong treatment, which brings toxicity and wasted time — but the drugs are not cures, as noted in Emily Capper's case."
+     "answer_index": 2,
+     "explanation": "The article splits Australians roughly into thirds: those with mortgages face higher repayments, renters are squeezed, and those who own their homes outright earn more on savings, so the same decision helps some and hurts others."
     },
-    "background_beginner": "Cancer happens when cells grow out of control, and traditionally doctors have treated it based on where it started in the body. A newer approach, genomic profiling, instead reads the DNA inside a person's tumour to find the exact gene changes fuelling it, so patients can be matched to drugs that target those changes. In Australia, a not-for-profit called Omico offers this testing for free and links people to clinical trials, having helped more than 30,000 patients. The topic keeps coming up because new, effective cancer drugs are arriving fast, but they're expensive, many aren't government-subsidised, and only a fraction of eligible patients can currently be reached.",
+    "background_beginner": "The Reserve Bank of Australia (RBA) is the country's central bank, and one of its big jobs is keeping inflation, the rate at which prices rise, under control. Its main tool is the cash rate, a baseline interest rate. When the RBA lifts it, borrowing becomes more expensive, which is meant to slow spending and ease price pressure. The catch is that most Australian home loans move with this rate, so mortgage holders quickly pay more. This keeps coming up because the cost of living and home ownership are huge concerns, and every rate decision reshapes who's financially comfortable and who's struggling, as these Melbourne Cup racegoers show.",
     "impact_score": 62,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/80f0ff50f2a7b1158423e0425cbba6f2?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/734f093614d97f6fbc6a35b2d1f93a76?impolicy=wcms_watermark_news&cropH=1361&cropW=2420&xPos=0&yPos=227&width=862&height=485&imformat=generic",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "New federal funding will let 25,000 more Australians with advanced cancers access genomic profiling, a DNA test that matches them to targeted treatments shown to double survival.",
+    "description": "The Reserve Bank's decision to lift interest rates helps savers but squeezes mortgage holders and renters, splitting Australians into winners and losers.",
     "tier": "LOCAL",
-    "category": "HEALTH",
+    "category": "ECONOMY_MARKETS",
     "sources": [
      {
       "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-06/cancer-treatment-genomic-profiling-funding/107248844"
+      "url": "https://www.abc.net.au/news/2026-11-08/off-and-bracing-the-rates-decision-that-stopped-the-nation/107354058"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 5,
-    "created_at": "2026-11-06T07:27:27.851636+00:00",
-    "published_date": "2026-11-06",
+    "related_story_ids": [
+     "0f0c15ca-2b25-5b5c-af91-9cca17e19f10",
+     "987f363a-a5f5-5deb-847b-cec418a04b50"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-07T19:25:42.947415+00:00",
+    "published_date": "2026-11-08",
+    "has_fulltext": true
+   },
+   {
+    "id": "769a9e24-dacb-5b79-8001-eb7582cc7db9",
+    "title": "New Zealand may not know its government for weeks — key takeaways",
+    "simplified_title": "New Zealand election too close to call, weeks of waiting ahead",
+    "quick_summary": "New Zealand's election has produced no clear winner, with the result hinging on 700,000 uncounted special votes that won't be finalised until 27 November.",
+    "simplified_body": "New Zealanders have voted, but nobody yet knows who will govern. Prime Minister Christopher Luxon's centre-right National Party came out as the largest single party, and together with its partners — the libertarian ACT and populist New Zealand First — the right bloc is projected to hold 67 seats, just enough for a majority. Chris Hipkins' Labour Party, with the Greens and Te Pāti Māori (the Māori party), sits a few seats behind. National edged Labour in the party vote by a whisker — about 29.37% to 29.22%.\n\nThis matters because the outcome rests on roughly 700,000 \"special votes\" — overseas ballots and votes cast outside a voter's home electorate — that haven't been counted yet. These votes have historically leaned left, so the slim right-bloc lead could still flip. Official results aren't due until 27 November, and forming a government may take weeks more.\n\nNew Zealand uses Mixed Member Proportional (MMP) voting: each person casts two votes, one for a local MP and one for a party, so parliament roughly mirrors each party's national support. A quirk called the \"overhang\" adds extra seats when a party wins more local electorates than its party vote entitles it to. For the first time, a major party (National) may create an overhang, and newcomer centrist party Opportunity, led by Qiulae Wong, has crossed the 5% threshold to enter parliament.\n\nLuxon will run a caretaker government until the count is finalised. Analysts warn a coalition may not be formed before Christmas. Opportunity could become \"kingmaker\" if the numbers shift.",
+    "why_it_matters": "New Zealand is one of Australia's closest neighbours and partners, and the BBC notes record numbers of Kiwis have been leaving for Australia amid cost-of-living pressures — so who runs the country next door has direct knock-on effects here.",
+    "deep_analysis": "## Historical Context\n\nNew Zealand adopted the Mixed Member Proportional (MMP) voting system in 1996, deliberately designed so parliament reflects each party's share of the national vote. As Luxon pointed out, the system's architects always intended negotiation and compromise — single-party majorities are rare, and most governments are coalitions. This election stands out for two firsts: a major party (National) looking likely to create an \"overhang\", and Opportunity becoming the first brand-new party to clear the 5% threshold on its own rather than splintering from an existing party.\n\n## Multiple Perspectives\n\nThe sources broadly agree on the big picture but differ on detail. The Guardian puts Labour on 35 seats, while the BBC says 36. On the total size of parliament, the ABC refers to 131 seats (66 needed for a majority), while the Guardian says overhang seats could push it to a record 130 (65 needed). On the result's meaning, Luxon frames National as the largest party with \"a pathway\" to govern; Hipkins stresses the result demands everyone \"work together\". Te Pāti Māori co-leader Debbie Ngarewa-Packer openly wants the current government out and floats a four-way bloc with Labour, the Greens and Opportunity. Analysts quoted — from Victoria University of Wellington and the University of Otago — all emphasise that fine margins and the left-leaning special votes make the outcome genuinely uncertain.\n\n## What to Watch\n\nThe decisive factor is the 700,000 special votes. In 2023, such votes made up 21% of the total and handed the left extra seats, so a similar swing could erase the right bloc's slim lead. Watch the official results on 27 November, then the coalition negotiations — particularly whether Opportunity plays kingmaker, despite Luxon previously saying he wouldn't work with them. Also watch the unresolved debate over the Treaty of Waitangi, which the next government will inherit.",
+    "concepts": [
+     {
+      "term": "special votes",
+      "definition": "Ballots cast overseas or outside a voter's home electorate, which take longer to count and have historically favoured left-leaning parties in New Zealand.",
+      "context": "Around 700,000 of these are still to be counted and could decide the election."
+     },
+     {
+      "term": "Mixed Member Proportional (MMP)",
+      "definition": "A voting system where each person casts two votes — one for a local MP and one for a party — so parliament roughly matches each party's national vote share.",
+      "context": "New Zealand adopted MMP in 1996, and it usually produces coalition governments."
+     },
+     {
+      "term": "overhang",
+      "definition": "Extra seats added to parliament when a party wins more local electorates than its share of the party vote would normally allow.",
+      "context": "For the first time a major party, National, may create an overhang."
+     },
+     {
+      "term": "kingmaker",
+      "definition": "A smaller party whose support is needed for a larger bloc to reach a majority, giving it outsized bargaining power.",
+      "context": "Opportunity could play this role if the special votes shift the balance."
+     }
+    ],
+    "quiz": {
+     "question": "Why is the New Zealand election result still uncertain despite nearly all regular votes being counted?",
+     "options": [
+      "The two major parties have refused to accept the result",
+      "Around 700,000 special votes, which tend to favour the left, are still to be counted",
+      "The electoral commission lost some ballots",
+      "A recount has been ordered across every electorate"
+     ],
+     "answer_index": 1,
+     "explanation": "About 700,000 special votes — overseas and out-of-electorate ballots that historically lean left — won't be finalised until 27 November, and they could flip the right bloc's slim projected lead."
+    },
+    "background_beginner": "New Zealand held a general election on Saturday to choose its parliament and government. The two big parties are National (centre-right, led by Prime Minister Christopher Luxon) and Labour (centre-left, led by Chris Hipkins). Because New Zealand uses a proportional voting system, no single party usually wins outright, so parties team up in coalitions. National's usual partners are ACT and New Zealand First; Labour's are the Greens and Te Pāti Māori (the Māori party). This election was extremely close, with both major parties getting their lowest support in years amid a weak economy and high living costs. The result keeps coming up because it won't be settled until late November, when all votes are counted and coalition talks can begin.",
+    "impact_score": 58,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/253295d44b38c62e0cbce022606f3a57?impolicy=wcms_watermark_news&cropH=2385&cropW=4240&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "New Zealand's election has produced no clear winner, with the result hinging on 700,000 uncounted special votes that won't be finalised until 27 November.",
+    "tier": "LOCAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-08/new-zealand-election-results-key-takeaways/107359778"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "6711d278-fc57-5b85-a520-e21669abc629"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-11-07T19:25:50.695029+00:00",
+    "published_date": "2026-11-08",
     "has_fulltext": true
    },
    {
@@ -612,6 +688,86 @@
   ],
   "EUROPE": [
    {
+    "id": "cec15dcf-d5c4-50bb-9868-53fea88f5128",
+    "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+    "simplified_title": "Russia Strikes Kyiv Power Grid Days Before Peace Talks",
+    "quick_summary": "A major overnight Russian drone and missile attack on Ukraine's energy grid left Kyiv with blackouts and water and heating disruptions, just days before peace talks in Abu Dhabi.",
+    "simplified_body": "Russia hit Kyiv and surrounding regions overnight with 172 drones and 36 ballistic missiles, damaging energy infrastructure, a bridge over the Dnipro River, and even a kindergarten. The capital was left with serious disruptions to electricity, water and heating as overnight temperatures dropped to 0 degrees Celsius. Casualty reports differ: the Guardian says five people were injured including a 14-year-old girl, the BBC reports nine hurt including one child, and DW says one person was killed and eight wounded. President Volodymyr Zelenskyy accused Moscow of trying to \"plunge Kyiv and the entire country into a blackout\".\n\nThis affects millions of civilians heading into a brutal winter. Ukrainian officials say the Kremlin — a term for the Russian government — is deliberately trying to freeze people into submission, which they call a war crime. Russia's Defence Ministry says it struck energy, transport and military targets, including a plant it claims produces Flamingo cruise missiles.\n\nRussia invaded Ukraine in February 2022. Since summer it has ramped up air attacks on cities as its progress on the frontline stalled; Kyiv says Russia lost 54,000 troops killed or injured last month. The strikes come days before a fourth round of trilateral (three-party) talks between Ukraine, Russia and the United States in Abu Dhabi, capital of the United Arab Emirates.\n\nZelenskyy is sceptical. He called a plan floated by Jared Kushner — US President Donald Trump's son-in-law — \"Yalta 2.0\", warning against Europe being carved up by Russia. Trump says a \"big beautiful agreement\" could be close. Previous rounds have produced no breakthrough on territory or security.",
+    "why_it_matters": "Deliberately targeting civilian power and water during winter is a potential war crime that could displace more people and reshape any peace deal. Australia has backed Ukraine with military and financial aid and sanctions on Russia, so the direction of these US-brokered talks matters here too.",
+    "deep_analysis": "## Historical Context\n\nRussia launched a full-scale invasion of Ukraine in February 2022, causing thousands of civilian casualties and displacing millions. Since the summer, with its frontline progress stalled, Russia has shifted to heavy air attacks on Ukrainian cities and energy infrastructure — and more recently on bridges. Zelenskyy's \"Yalta 2.0\" jab refers to the 1945 summit where Stalin, Roosevelt and Churchill effectively divided postwar Europe into spheres of influence; the fear is that today's talks could do something similar over Ukraine's head. Underlying it all is the Kremlin's longstanding demand that NATO (North Atlantic Treaty Organisation) reverse its expansion. Shortly before invading, Putin demanded NATO return to its pre-1997 posture — before the Baltic states and nations in eastern Europe and the Balkans joined.\n\n## Multiple Perspectives\n\nUkraine says the strikes are timed to pressure it ahead of talks and are designed to freeze civilians into submission — a war crime. Russia's Defence Ministry frames the same strikes as hitting legitimate military and industrial targets, including a plant it claims makes Flamingo cruise missiles and a bridge it says moved weapons. Trump is optimistic about a \"big beautiful agreement\" involving \"all of Europe\", and Kushner points to a new European security framework. Zelenskyy and European partners are deeply sceptical, warning that agreeing to Russia's demands would, in the words of Western diplomats, effectively end NATO. The sources also diverge on casualties — a reminder that early figures in active conflicts are often provisional.\n\n## What to Watch\n\nThe fourth round of trilateral talks in Abu Dhabi on Tuesday and Wednesday is the key event — watch whether territorial and security sticking points move at all. Also watch the scale of further strikes as winter deepens, whether US support (and sanctions pressure) increases given the new Congress, and reports that Zelenskyy may be invited to the UK for a state visit next year.",
+    "concepts": [
+     {
+      "term": "ballistic missiles",
+      "definition": "Powerful rockets that follow a high, arcing flight path to their target, hard to intercept and capable of heavy damage.",
+      "context": "Russia used 36 of them alongside 172 drones in the overnight attack on Kyiv."
+     },
+     {
+      "term": "Kremlin",
+      "definition": "A shorthand term for the Russian government and its leadership, named after the fortified complex in Moscow.",
+      "context": "Ukrainian officials say the Kremlin wants to freeze civilians into submission over winter."
+     },
+     {
+      "term": "trilateral",
+      "definition": "Involving three parties or sides.",
+      "context": "Ukraine, Russia and the United States are due to hold a fourth round of trilateral talks in Abu Dhabi."
+     },
+     {
+      "term": "Yalta 2.0",
+      "definition": "A reference to the 1945 Yalta summit where Allied leaders divided postwar Europe, used here as a warning against carving up Ukraine.",
+      "context": "Zelenskyy used the phrase to criticise a peace blueprint floated by Jared Kushner."
+     }
+    ],
+    "quiz": {
+     "question": "Why do Ukrainian officials say Russia is targeting energy infrastructure right now?",
+     "options": [
+      "To freeze civilians into submission over winter and pressure Ukraine before peace talks",
+      "To capture new territory in eastern Ukraine",
+      "To destroy Ukraine's army on the frontline",
+      "To force NATO countries to send troops"
+     ],
+     "answer_index": 0,
+     "explanation": "The articles say Russia has stepped up strikes on energy infrastructure as its frontline progress stalled, and Ukrainian officials argue the aim is to freeze civilians into submission over winter — with the strikes timed just before the Abu Dhabi talks."
+    },
+    "background_beginner": "Russia invaded Ukraine in a full-scale attack in February 2022, and the war has killed thousands of civilians and forced millions from their homes. The two main leaders are Ukraine's president, Volodymyr Zelenskyy, and Russia's president, Vladimir Putin. The United States, under President Donald Trump, has been trying to broker peace, holding talks that also involve Russia and Ukraine. A big sticking point is NATO, a Western military alliance Russia wants to see pull back from eastern Europe. The story keeps returning to the news because Russia repeatedly strikes Ukrainian cities and power grids — especially in winter — while rounds of peace talks come and go without a breakthrough.",
+    "impact_score": 78,
+    "image_url": "https://i.guim.co.uk/img/media/e51e3a880a5661d978f95a21cc47d7489b533135/0_355_4556_3645/master/4556.jpg?width=1920&quality=85&auto=format&fit=max&s=69ba8a622a818a096c32f0e737361b31",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "A major overnight Russian drone and missile attack on Ukraine's energy grid left Kyiv with blackouts and water and heating disruptions, just days before peace talks in Abu Dhabi.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "125d29b9-508a-5f59-9f71-fabf8ce8d6f8",
+     "42354814-eb79-5ad0-91e2-45843c4d5b20",
+     "86edd3b2-5321-52c5-81ae-054d5ee6f159",
+     "d30189ff-6a38-5bdf-9167-96edac892f4b",
+     "d31c63c1-f0b3-5273-9605-793d7030e47e",
+     "d9ce4437-96d9-589d-bae9-6b7500514f5f",
+     "ea512abb-8d00-5904-b400-e86e76228a2d",
+     "fb9180f1-fa27-5646-8dfe-683b66906451"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-07T19:25:43.939248+00:00",
+    "published_date": "2026-11-08",
+    "has_fulltext": true
+   },
+   {
     "id": "88144281-6598-5b3f-8ddd-7f3354fcd7bf",
     "title": "Justice, accountability, more questions: what Russell Brand’s guilty verdict means for victim-survivors",
     "simplified_title": "Russell Brand found guilty of rape and sexual assault",
@@ -672,153 +828,6 @@
     "reading_minutes": 4,
     "created_at": "2026-11-06T19:26:33.517809+00:00",
     "published_date": "2026-11-07",
-    "has_fulltext": true
-   },
-   {
-    "id": "8f25e702-0172-5195-8645-99392345904f",
-    "title": "Interest rates hiked to 4% in first increase in over three years",
-    "simplified_title": "UK interest rates jump to 4% as Middle East war drives inflation",
-    "quick_summary": "The Bank of England has raised its base interest rate to 4% from 3.75% — its first rise in over three years — to curb inflation fuelled by the US-Iran war's effect on oil prices.",
-    "simplified_body": "The Bank of England has lifted its base interest rate (the rate it charges other banks to borrow, which shapes mortgage, loan and savings rates) to 4% from 3.75%. It's the first increase in more than three years. Eight of the nine rate-setters backed the rise, while one wanted a bigger jump to 4.25%. Governor Andrew Bailey said another rise looks likely \"unless the conflict in the Middle East is resolved\".\n\nBorrowers are the big losers. Around 500,000 homeowners on tracker mortgages (which follow the Bank rate) face roughly £31 more a month, and another 500,000 on standard variable rates (SVRs) may pay about £14 more if lenders pass the rise on. The 87% on fixed deals won't feel it until their deal ends — but new deals already cost more. Savers, however, should see better returns if they shop around.\n\nInterest rates are the Bank's main tool for controlling inflation, which measures how fast prices rise. Higher rates discourage spending, cooling demand and price growth. Inflation hit 3.5% in the year to September 2026, above the Bank's 2% target, driven largely by fuel costs. Household energy bills are set to surge 27% in January to £2,150 a year.\n\nThe Bank expects inflation to peak near 4.9% next spring and not return to 2% until 2028. A further rise, possibly in February, is widely expected but hinges on the war. Notably, oil prices have already fallen 13% below the Bank's forecast, with markets betting President Trump may de-escalate.",
-    "why_it_matters": "When a major central bank hikes rates to fight war-driven inflation, it signals how global conflicts ripple into household budgets everywhere — a pattern Australians know well, since our own Reserve Bank wrestles with the same oil-price and inflation pressures.",
-    "deep_analysis": "## Historical Context\n\nCentral banks raise interest rates to slow inflation by making borrowing dearer and saving more rewarding, which cools spending and demand. Through the 2010s, UK rates sat very low, meaning poor returns for savers but cheap borrowing. This is the first rise in more than three years, and the first since August 2023. What makes it unusual is the trigger: inflation here is being driven largely by external energy costs from the US-Iran war rather than a domestic spending boom, which the Bank itself acknowledges has \"limited evidence\" of spreading to goods like food.\n\n## Multiple Perspectives\n\nThe rate-setting committee is visibly split on what comes next. Governor Andrew Bailey said this \"shouldn't be seen as the first in an inevitable long sequence of hikes\", yet warned it likely isn't the last while the war continues. Clare Lombardelli saw a case for one more rise soon; Megan Greene floated \"additional hikes\" depending on wages and jobs; Alan Taylor called it a \"risk-management 'one-for-now' insurance hike\". BBC's Faisal Islam reads it as \"two and done\" — one more rise in February. Borrowers like Patrick Bryson, whose repayments jump from £1,420 to £1,680, feel it as \"a slap in the face\". Businesses warn of fewer jobs and more automation, while savers stand to gain if they switch accounts.\n\n## What to Watch\n\nThe whole path hinges on the Middle East. Oil was already 13% below the Bank's assumed $108 a barrel, with markets guessing Trump may retreat after the US midterms. Watch the war's trajectory, the January energy bill surge, and whether inflation spreads into wages and everyday goods. The Bank's \"adverse scenario\" — war escalating and inflation hitting 6.2% in 2027 — is the real danger case. A sterling at its strongest since the Brexit referendum could help by making imports cheaper.",
-    "concepts": [
-     {
-      "term": "base interest rate",
-      "definition": "The rate the Bank of England charges other banks to borrow money; it influences what customers pay on mortgages, loans and credit cards, and earn on savings.",
-      "context": "The Bank raised this rate to 4% from 3.75% to try to slow inflation."
-     },
-     {
-      "term": "tracker mortgages",
-      "definition": "Home loans whose interest rate directly follows (tracks) the Bank of England's base rate, so repayments change immediately when the rate moves.",
-      "context": "Around 500,000 homeowners on these face about £31 more per month."
-     },
-     {
-      "term": "standard variable rates",
-      "definition": "A lender's default mortgage rate that can change at the lender's discretion, often after a Bank rate move, rather than automatically.",
-      "context": "Another 500,000 homeowners on SVRs may pay about £14 more if lenders pass the rise on."
-     },
-     {
-      "term": "inflation",
-      "definition": "A measure of how fast prices for goods and services rise over time.",
-      "context": "It hit 3.5% in the year to September 2026, above the Bank's 2% target."
-     }
-    ],
-    "quiz": {
-     "question": "Why did the Bank of England raise interest rates to 4%?",
-     "options": [
-      "To reward savers who stayed loyal to old accounts",
-      "To curb inflation driven mainly by the US-Iran war's effect on oil prices",
-      "Because the UK economy was shrinking and needed support",
-      "To make the pound weaker and boost exports"
-     ],
-     "answer_index": 1,
-     "explanation": "The Bank raised rates to limit inflation fuelled largely by higher global oil prices stemming from the US-Iran conflict; Bailey pointed to the war's resolution as the key factor in future decisions."
-    },
-    "background_beginner": "The Bank of England is the UK's central bank, and one of its main jobs is keeping inflation — how fast prices rise — at a steady 2%. Its chief tool is the base interest rate: raise it and borrowing gets dearer, which cools spending and price rises; lower it and the opposite happens. For over three years rates hadn't gone up. Now a war between the US and Iran has pushed up global oil prices, feeding through into UK inflation. So the Bank has lifted rates to 4%, hitting borrowers (especially those with variable mortgages) while helping savers. It keeps coming up because the war's future — and oil prices — remain uncertain, so more rises may follow.",
-    "impact_score": 72,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "The Bank of England has raised its base interest rate to 4% from 3.75% — its first rise in over three years — to curb inflation fuelled by the US-Iran war's effect on oil prices.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-06T07:27:29.860156+00:00",
-    "published_date": "2026-11-06",
-    "has_fulltext": true
-   },
-   {
-    "id": "5aa2f549-ba36-554e-b483-53d75a23f45a",
-    "title": "Protesters march in cities across France as unions stage general strike",
-    "simplified_title": "Huge general strike sweeps France over cost of living and cuts",
-    "quick_summary": "Hundreds of thousands marched across France in a union-led general strike against the rising cost of living and planned cuts to public services.",
-    "simplified_body": "On Thursday, teachers, hospital staff, rail workers and students marched through Paris, Marseille, Lyon, Bordeaux and other cities in a one-day general strike called by five trade unions. The government's interior ministry counted at least 600,000 people, while the left-wing CGT union put the figure at around 1.57 to 1.6 million. Around 70,000 police were deployed; most marches were peaceful, though riot police fired teargas in several cities and there was some unrest, including a car set alight in Lyon.\n\nThe protesters want higher wages — including a lift to the minimum wage, known as the Smic (currently €12.31 an hour) — plus tax reform and better-funded schools and hospitals. The movement affects workers, pensioners and students, many frustrated by overcrowded, run-down high schools (lycées) and stretched public services.\n\nThe protests began in September over poor conditions in lycées, then spread to universities, workers and a revived \"yellow-vest\" (gilets jaunes) movement against high prices. All this comes as President Emmanuel Macron's government tries to pass a tight budget in a divided parliament, with public debt nearing 120% of economic output and ministers aiming to cut the deficit to 5% of GDP (gross domestic product).\n\nPrime Minister Sébastien Lecornu announced a \"social conference\" with unions and employers next Monday to discuss wages and purchasing power. The yellow-vest movement has called for more blockades over the weekend, and the far-right's Marine Le Pen is polling strongly ahead of the 2027 election.",
-    "why_it_matters": "France is a major economy and close partner, so a protracted standoff over its budget and cost of living can ripple through European markets and politics that Australia trades and works with.",
-    "deep_analysis": "## Historical Context\n\nFrance has a long tradition of mass street protest and strikes as a lever on government. The CGT union compared Thursday's turnout to a level \"unmatched\" since 2023. The current wave began in September over poor conditions in lycées (high schools) and spread to universities and workers. It has also revived the \"yellow-vest\" (gilets jaunes) movement, which years ago staged a revolt against high living costs. An earlier big day of action on Saturday 17 October drew 550,000 people by the government's count (800,000 by the unions') and saw more than 2,000 stores looted and historic buildings set alight.\n\n## Multiple Perspectives\n\nThe numbers themselves are contested: the government says at least 600,000 turned out on Thursday, while the CGT claims roughly 1.57–1.6 million. Unions argue the budget cuts would \"worsen poverty, slash social security, freeze state workers' salaries and dry up investment\" for the environment; the CFDT's Marylise Léon is seeking a net €100-a-month rise. The government says it has little room to move, needing tens of billions in savings. Rights groups and CGT chief Sophie Binet allege an \"authoritarian drift,\" pointing to restrictions pushing marches out of city centres; the interior minister framed his approach as a firm response to risks from \"black bloc\" groups, looting and unauthorised marches.\n\n## What to Watch\n\nPrime Minister Sébastien Lecornu's \"social conference\" with unions and employers on Monday is the immediate test of whether talks ease tensions. Watch the promised weekend yellow-vest blockades, progress on the contested budget in a divided parliament, and whether pledges — like reforming the Parcoursup admissions platform — satisfy students. Longer term, the unrest feeds into the 2027 presidential race, where Marine Le Pen is polling high.",
-    "concepts": [
-     {
-      "term": "Smic",
-      "definition": "France's legal minimum wage, currently set at €12.31 an hour.",
-      "context": "Unions want this lifted as part of their wage demands."
-     },
-     {
-      "term": "yellow-vest",
-      "definition": "A grassroots protest movement, in French gilets jaunes, that originally rose up against high living costs and has now been revived.",
-      "context": "It has joined the latest wave of cost-of-living protests."
-     },
-     {
-      "term": "lycées",
-      "definition": "French high schools, catering roughly to 15-to-18-year-olds.",
-      "context": "Poor conditions in them sparked the protest movement in September."
-     },
-     {
-      "term": "GDP (gross domestic product)",
-      "definition": "The total value of goods and services an economy produces, used to measure its size.",
-      "context": "The government wants to cut the deficit to 5% of it."
-     }
-    ],
-    "quiz": {
-     "question": "Why were the trade unions staging the general strike across France?",
-     "options": [
-      "To demand higher wages and more funding for public services",
-      "To support the government's proposed budget cuts",
-      "To call for France to leave the European Union",
-      "To celebrate a rise in the minimum wage"
-     ],
-     "answer_index": 0,
-     "explanation": "The unions were pushing back against cost-of-living pressures and cuts to public services, demanding higher wages (including a Smic rise) and better-funded schools and hospitals."
-    },
-    "background_beginner": "France is in the middle of a wave of protests and strikes over the rising cost of living and planned cuts to public spending. The main players are the trade unions — led by the CGT and CFDT — plus students, teachers, hospital and rail workers, all facing off against President Emmanuel Macron's government and Prime Minister Sébastien Lecornu. It started in September with high school students angry about overcrowded, run-down schools, then spread to universities and workers, and revived the older \"yellow-vest\" movement. It keeps flaring up because the government is trying to pass a tight budget while people demand higher wages and better services.",
-    "impact_score": 68,
-    "image_url": "https://i.guim.co.uk/img/media/d1bbfb3d27c7c8badcb88d97dd2aa4269e6f55cc/465_0_3853_3083/master/3853.jpg?width=1920&quality=85&auto=format&fit=max&s=d59911042793471c13013d6e18971ff4",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "Hundreds of thousands marched across France in a union-led general strike against the rising cost of living and planned cuts to public services.",
-    "tier": "GLOBAL",
-    "category": "SOCIETY_CULTURE",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "40889fac-dd61-5de5-988e-f67b65392c2d",
-     "64681fd5-c970-5213-a539-22ebbd387f36",
-     "a57bbdc4-9f13-5c6e-b135-ee085a776457",
-     "d92321ee-32e9-5d8e-9ae9-4845ceea9903"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-06T07:27:30.228708+00:00",
-    "published_date": "2026-11-06",
     "has_fulltext": true
    },
    {
@@ -1524,124 +1533,129 @@
     "has_fulltext": true
    },
    {
-    "id": "ca359a0d-9599-586e-bde9-df6e61e6f671",
-    "title": "Nvidia chips pile up in Hong Kong as China withholds import approval",
-    "simplified_title": "600,000 Nvidia AI Chips Stuck in Hong Kong as China Holds Back",
-    "quick_summary": "Roughly 600,000 of Nvidia's advanced H200 AI chips are sitting in Hong Kong because Beijing won't approve large-scale imports, even though Chinese tech firms badly want them.",
-    "simplified_body": "About 600,000 of Nvidia's advanced artificial intelligence (AI) chips, the H200 model, are being stored in Hong Kong while they wait for the green light to enter mainland China, according to people familiar with the matter. Beijing has let small numbers through — several big Chinese internet companies have each picked up around 10,000 H200s in recent months — but it has not yet approved bringing them in at large volume.\n\nThis matters for China's tech giants like Alibaba, ByteDance and Tencent, who need serious computing grunt to keep up with booming AI demand. The H200 isn't Nvidia's newest chip, but it does things Chinese-made alternatives still can't match, especially for training AI models. With official supply squeezed, buyers have turned to middlemen and indirect routes, pushing prices sky-high: an eight-card H200 server was reportedly offered for over 6 million yuan (about US$900,000) by late October — roughly triple its price a year earlier.\n\nHere's the background. Since 2022, the United States has used export controls to limit China's access to top Nvidia chips. Washington first banned H200 exports to China, then last year let Nvidia sell them to approved customers after trade talks. Now Beijing is applying its own brake, wary of leaning too heavily on US technology.\n\nWhat's next is unclear. Technology publication the Information reported in July that total approvals might stay under 200,000 chips, with Beijing wanting firms to favour Chinese processors for \"inference\" — actually running AI models — and save the Nvidia chips for training. The chips remain stuck in the tug-of-war between Washington and Beijing.",
-    "why_it_matters": "The US–China chip standoff shapes the global race for AI, which flows straight through to the tools, prices and tech services Australians use every day.",
-    "deep_analysis": "## Historical Context\n\nThe flashpoint here is a years-long effort by the United States to slow China's access to the most powerful computing hardware. Export controls introduced in 2022 targeted both advanced Nvidia chips and the equipment needed to manufacture them. The H200 itself has had a whiplash journey: Washington first barred its export to China, then reversed course last year to allow sales to approved Chinese customers following US–China trade negotiations. The twist in this story is that Beijing has now become the bottleneck, deliberately withholding approval for large-scale imports — a sign it would rather tolerate shortages than deepen dependence on American technology.\n\n## Multiple Perspectives\n\nChinese tech firms face surging AI demand and need the H200 because it outperforms domestic alternatives for training models, especially when paired with Nvidia's software — hence the willingness to pay triple the price through unofficial channels. Beijing's calculus is strategic: it reportedly wants companies to prioritise Chinese processors for inference while rationing Nvidia chips for training, keeping total approvals possibly under 200,000. Nvidia, for its part, sits in the middle with hundreds of thousands of chips stockpiled and a huge market it can't fully serve. Note that Nvidia, the Chinese companies and Chinese government bodies did not respond to requests for comment, so their reasoning is inferred rather than stated.\n\n## What to Watch\n\nKeep an eye on whether Beijing loosens the tap and approves large-volume imports, or holds the line to push domestic chips. The grey market is a useful barometer — the article notes Blackwell-based servers, which fall under US export controls, were offered for more than 20 million yuan each. Also watch the pivot to export-compliant hardware: Reuters reported that ByteDance, Alibaba and Tencent ordered more than 3 million of Nvidia's less powerful RTX Pro 5500 cards, worth over US$35 billion combined.",
+    "id": "4ed13ae6-d434-514c-9f99-c312147376ee",
+    "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting",
+    "simplified_title": "US Presses China to Honour Busan Trade Deal Before Trump-Xi Talks",
+    "quick_summary": "Top US officials have urged China to fully and immediately deliver on its 2025 Busan trade promises, especially on farm purchases and rare earth minerals, ahead of another Trump-Xi meeting.",
+    "simplified_body": "US Treasury Secretary Scott Bessent and US Trade Representative Jamieson Greer held a videoconference on Friday with Chinese Vice Premier He Lifeng. They pushed Beijing to \"fully and immediately\" honour the commitments it made in a 2025 trade agreement, particularly on agricultural purchases, rare earths and other critical minerals. He Lifeng, for his part, raised \"serious concern\" over recent US trade restrictions, though Chinese state media didn't spell out which ones.\n\nThis matters to farmers, manufacturers and tech companies on both sides. Under the deal, China agreed to buy 25 million metric tons of US soybeans each year for three years, while promising to keep its rare earth exports flowing and to suspend new export curbs. Rare earths are vital for the technology industry, and Washington has previously complained Beijing wasn't keeping up its end.\n\nSome background: the agreement was struck when Trump and Chinese President Xi Jinping met in Busan, South Korea, on the sidelines of an Asia-Pacific Economic Cooperation (APEC) summit. It followed a round of tit-for-tat tariff hikes and capped US tariffs on Chinese goods at about 20%. Originally a one-year pact, it was later extended to 10 January next year.\n\nBoth sides said they'd keep managing their differences to keep trade \"stable\". Trump and Xi are expected to meet again at the APEC forum in Shenzhen on 18-19 November. China has also confirmed, for the first time, that it's discussing a possible three-way summit involving Trump, Xi and Russian President Vladimir Putin.",
+    "why_it_matters": "The world's two biggest economies staying at the negotiating table affects global prices and supply chains — and for Australia, a major resources exporter, how China manages its rare earth and critical mineral exports has direct consequences.",
+    "deep_analysis": "## Historical Context\n\nTensions between Washington and Beijing escalated as part of Trump's broader tariff policy, which particularly targeted China. The two countries traded rounds of tariff increases before reaching an accord in 2025 at a Trump-Xi meeting in Busan, South Korea, on the sidelines of an APEC summit. That deal capped US tariffs on Chinese goods at about 20%, locked in Chinese soybean purchases of 25 million metric tons a year for three years, and saw Beijing agree to keep rare earth exports flowing. It began as a one-year arrangement and was later extended until 10 January next year.\n\n## Multiple Perspectives\n\nThe US side, represented by Bessent and Greer, framed the call around China delivering \"concrete actions\" on its past commitments — agriculture, rare earths and critical minerals — and tied this to protecting American workers, farmers and businesses, as well as national security. The Chinese side, through He Lifeng and reported by state agency Xinhua, instead voiced \"serious concern\" about recent US trade restrictions without naming them. Despite the different emphases, both parties publicly agreed to strengthen cooperation and \"properly manage differences\" to keep the relationship stable.\n\n## What to Watch\n\nThe clearest marker is the upcoming APEC forum in Shenzhen on 18-19 November, where Trump and Xi are expected to meet again. Also worth watching is whether a reported trilateral summit of Xi, Trump and Putin actually eventuates — China's Foreign Ministry spokesperson Mao Ning confirmed communications are underway but offered no detail. Beyond that, keep an eye on whether China's soybean buying and rare earth exports match the pledged figures before the 10 January extension deadline.",
     "concepts": [
      {
-      "term": "H200",
-      "definition": "An advanced Nvidia AI chip that, while not the company's newest, has capabilities Chinese-made alternatives have yet to match, especially for training AI models.",
-      "context": "About 600,000 H200 chips are being held in Hong Kong awaiting approval to enter China."
+      "term": "rare earths",
+      "definition": "A group of metallic elements that are essential for making high-tech products like electronics, batteries and defence equipment; China is a dominant global supplier.",
+      "context": "China promised to keep its rare earth exports flowing as part of the Busan deal."
      },
      {
-      "term": "export controls",
-      "definition": "Government rules restricting which technologies can be sold to certain countries, used by the US since 2022 to limit China's access to advanced chips.",
-      "context": "US export controls first barred the H200 before later allowing limited, approved sales."
+      "term": "tariffs",
+      "definition": "Taxes a government places on imported goods, often used as leverage or protection in trade disputes.",
+      "context": "The deal capped US tariffs on Chinese goods at about 20% after rounds of escalation."
      },
      {
-      "term": "inference",
-      "definition": "The task of actually running a trained AI model to produce answers, as opposed to the heavier job of training it.",
-      "context": "Beijing reportedly wants firms to prioritise Chinese processors for inference."
+      "term": "Asia-Pacific Economic Cooperation (APEC)",
+      "definition": "A regional forum of economies around the Pacific that meets to promote trade and economic cooperation.",
+      "context": "The original deal was struck on the sidelines of an APEC summit, and leaders plan to meet again at the next APEC forum."
+     },
+     {
+      "term": "Vice Premier",
+      "definition": "A senior Chinese government official ranking just below the premier, often handling major policy areas like trade.",
+      "context": "Vice Premier He Lifeng is Beijing's lead negotiator on trade ties with the US."
      }
     ],
     "quiz": {
-     "question": "Why are the Nvidia H200 chips piling up in Hong Kong?",
+     "question": "Why are the rare earth commitments in the deal considered especially important?",
      "options": [
-      "Nvidia stopped manufacturing the H200",
-      "The United States banned all chip exports worldwide",
-      "Chinese companies no longer want AI chips",
-      "Beijing has not approved large-scale imports into China"
+      "They are only used in agriculture",
+      "Rare earths are critical for the technology industry",
+      "They are the main food source for the US",
+      "They replace the need for tariffs entirely"
      ],
-     "answer_index": 3,
-     "explanation": "The chips are stuck because Beijing is withholding approval for large-volume imports, wary of over-relying on US technology, even though Chinese firms want the chips."
+     "answer_index": 1,
+     "explanation": "The article notes rare earths are critical for the technological industry, which is why the US pressed China to keep exports flowing and honour its commitments."
     },
-    "background_beginner": "Nvidia is a US company that makes the specialised chips used to build and run artificial intelligence (AI). These chips are in huge demand worldwide. Since 2022, the United States has restricted selling its most powerful chips to China, worried about giving a rival an edge in AI and military tech. China's big tech firms — like Alibaba, ByteDance and Tencent — still want them badly. This issue keeps resurfacing because it sits at the heart of a broader trade and technology rivalry between Washington and Beijing, where each side uses chips as leverage. The latest wrinkle is that China itself is now slowing imports, preferring to build up its own chip industry.",
+    "background_beginner": "The United States and China are the world's two largest economies, and their trade relationship shapes prices and supply chains everywhere. Under President Donald Trump, the US raised tariffs — taxes on imports — especially on Chinese goods, and China hit back, sparking a trade war. In 2025, Trump and Chinese President Xi Jinping struck a deal in Busan, South Korea, to ease the standoff: the US capped tariffs at around 20%, and China agreed to buy American soybeans and keep exporting rare earth minerals vital for technology. The dispute keeps resurfacing because each side accuses the other of not fully keeping its promises, and new talks are expected soon.",
     "impact_score": 72,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--yz_Pvxp2--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-05T114408Z_4_LYNXNPEMA413Z_RTROPTP_3_NVIDIA-CHINA.JPG?itok=iZLbVgkd",
+    "image_url": "https://static.dw.com/image/79404961_6.jpg",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "Roughly 600,000 of Nvidia's advanced H200 AI chips are sitting in Hong Kong because Beijing won't approve large-scale imports, even though Chinese tech firms badly want them.",
+    "description": "Top US officials have urged China to fully and immediately deliver on its 2025 Busan trade promises, especially on farm purchases and rare earth minerals, ahead of another Trump-Xi meeting.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-07T19:25:40.155916+00:00",
+    "published_date": "2026-11-08",
+    "has_fulltext": true
+   },
+   {
+    "id": "cd67d1ab-919a-5820-b61d-964b66285e45",
+    "title": "No more midnight rush: How Singles’ Day is being rebuilt for China’s cautious consumers",
+    "simplified_title": "Singles' Day Slows Down as China's Shoppers Turn Cautious",
+    "quick_summary": "China's giant Singles' Day shopping festival has traded its midnight sales frenzy for longer, calmer promotions as consumers spend more carefully and hunt for genuine value.",
+    "simplified_body": "China's biggest shopping event, Singles' Day (also called Double 11, held on 11 November), looks very different in its 18th year. The old 24-hour midnight rush has stretched into weeks of promotions, with platforms like Alibaba's Taobao shifting sales starts to 8pm and swapping confusing coupons for simple discounts. Rival JD.com scrapped its deposit-based presale model altogether. Sales are still enormous — 1.695 trillion yuan (US-dollar equivalent not given) across platforms last year — but growth slowed to 14.2 per cent, roughly half the 26.6 per cent seen in 2024.\n\nThe changes matter for the brands, platforms and millions of shoppers who once treated the festival like a race. Many consumers are now \"becoming more cautious and pragmatic\", buying smaller amounts as needed rather than stockpiling, and some are spending on experiences like travel and concerts instead of goods. Analysts link this to pressure on household finances.\n\nFor newcomers: Alibaba launched Singles' Day in 2009, naming it after the four ones in 11/11, which symbolise singlehood. It grew into the world's biggest online shopping festival, famous for livestream selling, where hosts pitch products live. That hard-sell style is now wearing thin.\n\nBrands are adapting. Taobao's Super Live initiative stages polished, cinematic runway shows with a \"see-now-buy-now\" model. Premium label CHICJOC refuses discounts and even raises prices yearly. Technology is reshaping things too: this is the first Singles' Day where shoppers can use an artificial intelligence (AI) chatbot to find, compare and buy products. Expect platforms to keep competing on experience, not just the biggest discount.",
+    "why_it_matters": "China's consumer mood shapes demand for goods worldwide, and a more cautious Chinese shopper affects everyone selling into that market — including Australian exporters of wine, food and consumer products who rely on Chinese buyers.",
+    "deep_analysis": "## Historical Context\n\nSingles' Day began in 2009 when Alibaba turned an informal Chinese \"anti-Valentine's\" day — marked on 11 November because the four ones (11/11) symbolise being single — into a shopping promotion. It ballooned into the world's biggest online shopping festival, defined for years by a frantic midnight launch where brands were ranked live by sales and some shops cleared 10 million yuan within an hour. The event became a showcase for China's e-commerce might, complete with a televised Tmall gala.\n\n## Multiple Perspectives\n\nShoppers are split. Some, like a Shanghai pottery teacher quoted in the article, find the coupons too complicated and the atmosphere gone; others, like a 22-year-old intern after a cheap computer, still reckon the deals are worthwhile. Platforms frame the slowdown positively — analyst Jason Yu of CTR Market Research says they now want a \"hassle-free\" experience rather than \"artificial urgency\". Brands are diverging too: at one end is \"dupe\" culture chasing cheap factory-direct alternatives; at the other, premium labels like CHICJOC that refuse discounts and lift prices yearly, betting customers see a coat as a decade-long investment. Industry voices like WPIC's Jacob Cooke argue heavy discounting can \"hurt brand equity\", so brands increasingly use the traffic to launch new products instead.\n\n## What to Watch\n\nWatch whether the extended \"arms race\" of ever-earlier campaigns keeps diluting the single-day spike. Keep an eye on AI's growing role — chatbots already drove roughly 5 per cent of purchases in October, per WPIC data — and whether virtual livestream hosts gain ground beyond being a \"supporting tool\". Government trade-in subsidies (250 billion yuan this year) propping up big-ticket items like home appliances are another factor; their future will shape demand.",
+    "concepts": [
+     {
+      "term": "Singles' Day",
+      "definition": "China's annual shopping festival on 11 November, launched by Alibaba in 2009, named after the four ones in 11/11 that symbolise singlehood.",
+      "context": "It has grown into the world's biggest online shopping festival but is now evolving away from its one-day frenzy."
+     },
+     {
+      "term": "livestream selling",
+      "definition": "Selling products through live online video, where a host demonstrates and pitches items that viewers can buy in real time.",
+      "context": "The old hard-sell, countdown style is losing appeal, pushing platforms towards more polished, relaxed formats."
+     },
+     {
+      "term": "see-now-buy-now",
+      "definition": "A retail model where viewers can instantly order products as they appear, such as during a live runway show.",
+      "context": "It is central to Taobao's Super Live initiative, which stages cinematic fashion shows."
+     },
+     {
+      "term": "dupe",
+      "definition": "A cheaper alternative made to imitate a branded product.",
+      "context": "Value-seeking shoppers are driving demand, with Taobao connecting them to factory-direct sellers."
+     }
+    ],
+    "quiz": {
+     "question": "Why has Singles' Day shifted from a midnight rush to weeks-long promotions?",
+     "options": [
+      "Platforms wanted to reduce pressure and artificial urgency as shoppers grew more cautious",
+      "The festival was cancelled and replaced",
+      "Alibaba was forced to by new Chinese laws",
+      "Shoppers demanded higher prices"
+     ],
+     "answer_index": 0,
+     "explanation": "Platforms moved sales to 8pm, simplified discounts and stretched campaigns to create a hassle-free experience, responding to more cautious, pragmatic consumers tired of the frenzy and complicated coupons."
+    },
+    "background_beginner": "Singles' Day is China's huge annual online shopping event, held every 11 November. The main players are Alibaba (which runs the Taobao and Tmall platforms and started the festival in 2009) and rivals like JD.com, Douyin, Kuaishou and Xiaohongshu. It began as a cheeky \"anti-couples\" day — the four ones in 11/11 stand for being single — and Alibaba turned it into a sales bonanza. For years it set records for online spending in a single 24-hour burst. It keeps making news because it is a bellwether for how confident Chinese consumers feel, and lately they've been spending more carefully, forcing the whole event to reinvent itself.",
+    "impact_score": 62,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--y-Vd-LJ4--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/04/twl_singlesday_3.jpg?itok=otjyUytE",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "China's giant Singles' Day shopping festival has traded its midnight sales frenzy for longer, calmer promotions as consumers spend more carefully and hunt for genuine value.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
       "name": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/nvidia-chips-pile-up-hong-kong-china-withhold-import-approval-6527371"
+      "url": "https://www.channelnewsasia.com/east-asia/china-singles-day-shopping-alibaba-taobao-consumers-6520861"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-06T07:27:27.477490+00:00",
-    "published_date": "2026-11-06",
-    "has_fulltext": true
-   },
-   {
-    "id": "7813dad7-4c89-59f4-838f-dad2d9ce52b1",
-    "title": "Three-quarters of world's displaced people face severe climate risks, UN says",
-    "simplified_title": "Most displaced people live in climate danger zones, UN warns",
-    "quick_summary": "The UN says nearly 90 million forcibly displaced people — three-quarters of the global total — live in countries badly exposed to climate hazards like droughts, floods and extreme heat.",
-    "simplified_body": "The UN Refugee Agency (UNHCR) released a report saying that three-quarters of the world's displaced people — nearly 90 million refugees and others forced from their homes — live in countries facing severe climate-related hazards. The report landed just days before COP31, the United Nations' annual climate conference, being held this year in Turkey. UNHCR says droughts, floods and extreme heat are making lasting solutions harder to reach.\n\nThis hits people who've already fled conflict, violence and persecution, only to land somewhere battered by the warming planet. As Anton Leis Garcia of UNHCR put it, refugees face a \"double injustice\" — forced to flee wars they didn't start, now on the frontlines of a crisis they did least to cause. Returning home isn't safe either: more than two-thirds of refugees who went home in the first half of this year returned to climate-vulnerable countries. In Syria, where nearly four million displaced people have recently returned, falling groundwater and flooding along the Euphrates River are threatening recovery.\n\nFor newcomers: \"forcibly displaced\" means people pushed from their homes by conflict or disaster, including refugees who cross borders and those displaced inside their own country. Weather disasters alone have caused over 255 million internal displacements in the past decade — about 70,000 a day.\n\nUNHCR warns extreme heat is growing: by 2050, one in three refugee settlements in sub-Saharan Africa could face 100-plus dangerous-heat days a year. A strong El Nino could displace up to three million people across East Africa by the end of 2026. Only 10 percent of global climate finance reaches the fragile countries hosting these populations — so at COP31, UNHCR will push governments to include displaced people in climate plans and funding.",
-    "why_it_matters": "It links two of the biggest global pressures — forced displacement and climate change — showing they increasingly compound each other, and it lands right as world leaders gather for COP31 to decide where climate money goes.",
-    "deep_analysis": "## Historical Context\n\nForced displacement and climate change have long been treated as separate problems — one handled by humanitarian agencies, the other by climate negotiators. This UNHCR report pushes them together, arguing the two crises now overlap heavily. For years, climate finance (money rich nations pledge to help the world cope with warming) has flowed mostly to stable, investable countries. The report's figure that only 10 percent reaches fragile and conflict-affected states captures a long-standing gap: the places with the least capacity to adapt get the least help. COP (short for Conference of the Parties) is the UN's yearly climate meeting where these finance decisions get thrashed out.\n\n## Multiple Perspectives\n\nUNHCR frames this squarely as a justice issue: people who contributed least to warming are suffering most, and should not be \"left behind.\" The agency wants refugees written explicitly into national climate plans and funding mechanisms.\n\nA host-country view, not spelled out in the report, is that many nations sheltering large displaced populations are themselves stretched thin, which is partly why funnelling finance there is both urgent and difficult. There's also an unresolved tension the report hints at: returning refugees home is usually seen as a success, yet two-thirds are going back to climate-vulnerable places, raising hard questions about whether those returns will hold.\n\n## What to Watch\n\nWatch COP31 in Turkey for whether displaced populations actually make it into finance commitments, or stay a talking point. Keep an eye on East Africa, where UNHCR warns El Nino-driven flooding could displace up to three million people across Somalia, Kenya, South Sudan and Uganda by the end of 2026. Syria's recovery — with four million recently returned amid falling groundwater — will be a real-world test of whether returns can succeed under climate stress.",
-    "concepts": [
-     {
-      "term": "forcibly displaced",
-      "definition": "People who have been pushed out of their homes by conflict, violence, persecution or disaster — including both refugees who cross into another country and those displaced within their own.",
-      "context": "The report says nearly 90 million forcibly displaced people live in climate-exposed countries."
-     },
-     {
-      "term": "COP31",
-      "definition": "The 31st UN Conference of the Parties — the annual global summit where governments negotiate action and funding on climate change, held this year in Turkey.",
-      "context": "UNHCR released the report days before COP31 to push for displaced people to be included in climate plans."
-     },
-     {
-      "term": "climate finance",
-      "definition": "Money provided, often by wealthier nations and institutions, to help countries reduce emissions and cope with the impacts of a warming planet.",
-      "context": "Only 10 percent of global climate finance reaches the fragile countries hosting climate-exposed displaced people."
-     },
-     {
-      "term": "El Nino",
-      "definition": "A recurring climate pattern involving warmer Pacific Ocean temperatures that shifts weather worldwide, often bringing heavier rain and flooding to some regions.",
-      "context": "A strong El Nino could displace up to three million people across East Africa by the end of 2026."
-     }
-    ],
-    "quiz": {
-     "question": "Why does UNHCR describe refugees as facing a \"double injustice\"?",
-     "options": [
-      "They lose their homes and their jobs at the same time",
-      "They are taxed twice by host governments",
-      "They flee conflicts they didn't cause, then face a climate crisis they contributed least to",
-      "They are displaced and then denied citizenship"
-     ],
-     "answer_index": 2,
-     "explanation": "UNHCR's Anton Leis Garcia said refugees are forced to flee conflicts they did not cause and are now on the frontlines of a climate crisis they have contributed least to — two injustices stacked on top of each other."
-    },
-    "background_beginner": "The UN Refugee Agency, known as UNHCR, is the United Nations body that protects and helps people forced from their homes by war, violence or persecution. Each year world governments meet at a UN climate summit called COP to agree on action and funding to tackle global warming; this year it's COP31 in Turkey. For a long time, the problems of refugees and of climate change were handled separately. Now UNHCR is arguing they can't be — because most displaced people happen to live in countries hammered by droughts, floods and heat. It keeps coming up because displacement numbers keep rising and the money meant to help rarely reaches the hardest-hit places.",
-    "impact_score": 72,
-    "image_url": "https://s.france24.com/media/display/27e91f36-c775-11f1-a8f0-53993c5f1f18/w:1280/p:16x9/3a4f044a28d5dcc6404274b250beb08ab8067c5f.jpg",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "The UN says nearly 90 million forcibly displaced people — three-quarters of the global total — live in countries badly exposed to climate hazards like droughts, floods and extreme heat.",
-    "tier": "GLOBAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-06T07:27:29.509884+00:00",
-    "published_date": "2026-11-06",
+    "reading_minutes": 10,
+    "created_at": "2026-11-07T19:25:45.755319+00:00",
+    "published_date": "2026-11-08",
     "has_fulltext": true
    }
   ],
@@ -1973,6 +1987,72 @@
     "has_fulltext": true
    },
    {
+    "id": "9e59aa4a-e3d3-5005-9839-eea8b53dbda6",
+    "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+    "simplified_title": "Nvidia boss called before US Congress over China spying claims",
+    "quick_summary": "US lawmakers have summoned Nvidia chief executive Jensen Huang to a closed-door briefing after reports that he was targeted by a Chinese spying operation.",
+    "simplified_body": "Top Republican lawmakers have asked Jensen Huang, chief executive of chipmaker Nvidia, to appear before Congress following reports that US intelligence officials believe he was targeted by a Chinese spying operation. The chairs of three House of Representatives committees — on China, foreign affairs, and intelligence — have written to Huang asking him to attend a joint closed-door briefing on November 18.\n\nThe concerns centre on a woman named Alice Huang, an executive at Megaspeed, a Singapore-based cloud company that has bought billions of dollars of Nvidia's chips. The New York Times reported last week that US intelligence officials believed Jensen Huang had been the target of a Chinese spy operation. Lawmakers John Moolenaar, Brian Mast, and Rick Crawford say the issue of the People's Republic of China (PRC) gaining access to cutting-edge US technology is central to their work this Congress.\n\nNvidia makes the advanced chips that power most of the world's artificial intelligence systems, which is why the US government is so anxious about who can get hold of them. Washington has placed export controls on these chips to stop China accessing the most powerful models.\n\nNvidia has rejected the claims. The company said meetings with customers are simply part of a CEO's job, noting that Jensen \"talks with thousands of customer executives every year.\" On Thursday it would not say whether Huang would actually appear before Congress.",
+    "why_it_matters": "Nvidia's chips underpin the global AI boom, so any tug-of-war between the US and China over who controls them ripples through to Australian businesses, researchers and consumers who increasingly rely on that technology.",
+    "deep_analysis": "## Historical Context\n\nNvidia has become one of the most valuable companies on the planet because its chips are the engines behind modern artificial intelligence. That importance has made it a central piece in the broader technology rivalry between the United States and China. For several years now, Washington has tightened export controls aimed at stopping China from getting hold of the most advanced chips, worried they could boost Chinese military and surveillance capabilities. This latest summons sits squarely within that ongoing contest.\n\n## Multiple Perspectives\n\nThe lawmakers frame this as a national security matter, arguing it is \"vital that Congress determines the extent to which US national security has been placed at risk\" and that PRC infiltration of US technology is core to their investigations. Nvidia, on the other hand, paints the reported contact as entirely routine, stressing that meeting customers is simply part of a chief executive's job. The reporting itself rests on what US intelligence officials are said to believe — a claim Nvidia disputes — so the gap between \"intelligence concern\" and \"proven wrongdoing\" is where the disagreement really lives.\n\n## What to Watch\n\nThe immediate thing to watch is whether Huang actually turns up to the November 18 briefing — Nvidia has pointedly declined to confirm he will. Beyond that, keep an eye on whether any concrete evidence emerges about Alice Huang and Megaspeed, and whether this prompts tighter scrutiny of how Nvidia chips flow through third countries like Singapore.",
+    "concepts": [
+     {
+      "term": "Nvidia",
+      "definition": "A US technology company that designs the advanced computer chips powering most of the world's artificial intelligence systems.",
+      "context": "The company's central role in AI is why its chips are so tightly fought over between the US and China."
+     },
+     {
+      "term": "Congress",
+      "definition": "The law-making body of the United States, made up of the House of Representatives and the Senate, which also investigates matters of national concern.",
+      "context": "Its committees have the power to summon executives to answer questions in briefings."
+     },
+     {
+      "term": "People's Republic of China (PRC)",
+      "definition": "The official name for China, used in formal and government contexts.",
+      "context": "US lawmakers are worried about the PRC gaining access to cutting-edge American technology."
+     },
+     {
+      "term": "export controls",
+      "definition": "Government rules that restrict which products or technologies can be sold to particular countries.",
+      "context": "Washington has used them to limit China's access to the most powerful AI chips."
+     }
+    ],
+    "quiz": {
+     "question": "Why are US lawmakers so concerned about who can access Nvidia's chips?",
+     "options": [
+      "Because the chips are manufactured entirely in China",
+      "Because the chips are rare collectables that fetch high prices",
+      "Because the chips power advanced artificial intelligence and are seen as sensitive US technology",
+      "Because Nvidia refuses to sell chips inside the United States"
+     ],
+     "answer_index": 2,
+     "explanation": "Nvidia's chips underpin modern AI, which is why the US treats access to them as a national security issue and has placed export controls on them."
+    },
+    "background_beginner": "Nvidia is an American company that makes the powerful computer chips behind today's artificial intelligence, which has made it hugely valuable and strategically important. Jensen Huang is its chief executive. For years the US and China have been locked in a rivalry over advanced technology, with Washington restricting which chips China can buy. Against that backdrop, US intelligence officials were reported to believe Huang had been targeted by a Chinese spying operation, linked to an executive at a Singapore-based cloud company that buys lots of Nvidia chips. Lawmakers have now asked Huang to explain himself. The topic keeps resurfacing because whoever controls these chips may lead the AI race.",
+    "impact_score": 68,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "US lawmakers have summoned Nvidia chief executive Jensen Huang to a closed-door briefing after reports that he was targeted by a Chinese spying operation.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "72597008-acc3-5015-8369-4d885c3f3663",
+     "e829fe99-b7db-5487-836b-6675ace03fcc"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-11-07T19:25:36.341842+00:00",
+    "published_date": "2026-11-08",
+    "has_fulltext": true
+   },
+   {
     "id": "8f856ffc-aea2-5475-aa41-fc18ec4baf24",
     "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
     "simplified_title": "Tesla to wind down Cybertruck as Musk bets on robots and AI",
@@ -2045,5 +2125,5 @@
    }
   ]
  },
- "total_stories": 30
+ "total_stories": 31
 }
