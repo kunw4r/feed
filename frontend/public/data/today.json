@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "generated_at": "2026-11-07T19:23:04.058776+00:00",
+ "generated_at": "2026-11-08T01:23:03.953875+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -831,6 +831,74 @@
     "has_fulltext": true
    },
    {
+    "id": "28c71630-02c8-5e22-9820-4232c3e84dca",
+    "title": "More than 140,000 rally as new protests against rising costs sweep France",
+    "simplified_title": "Cost-of-living protests sweep France for a fourth weekend",
+    "quick_summary": "Around 146,000 people rallied across France against rising living costs, with clashes and arrests reported in several cities.",
+    "simplified_body": "France saw its fourth straight weekend of mass protests on Saturday, with the Ministry of the Interior counting about 146,000 demonstrators nationwide, including 46,000 in Paris. Trade unions put the figure much higher, at over 250,000. Turnout was lower than previous weeks, but clashes still broke out between police and protesters in Paris, Lyon, Toulouse, Marseille and Bordeaux. Police used tear gas, and the Interior Ministry reported roughly 350 arrests. About 70,000 security personnel were deployed.\n\nThe movement affects workers, students, civil servants and pensioners who are angry about the rising cost of living. It began in September with students demanding better conditions and resources at French high schools, then widened into a broader push led by students but joined by people of all ages. Unions want wage rises and tax reforms. Prime Minister Sebastien Lecornu is due to meet unions on Monday, though organisers say only meeting their demands will stop the protests.\n\nThe separate \"Yellow Vest\" movement (the \"Gilets Jaunes\"), which first made headlines eight years ago protesting a fuel tax hike, declined to join the student rally and held a banned event near parliament; two of its leading figures were arrested. President Emmanuel Macron's government says it plans to lift the minimum wage and fund schools, but France's debt sits at 119% of its Gross Domestic Product (GDP).\n\nThe unrest comes ahead of France's presidential election in April. Polls put far-right candidate Marine Le Pen first and far-left candidate Jean-Luc Melenchon second. Note: the sources differ on recent turnout — Al Jazeera cites a 575,000-strong union rally days earlier, while DW cites 320,000–500,000 last Saturday.",
+    "why_it_matters": "France is the European Union's second-largest economy, so sustained unrest and a looming election there ripple through European markets and politics that Australia trades and partners with.",
+    "deep_analysis": "## Historical Context\n\nFrance has a long tradition of street protest shaping national policy. This current wave started in September 2026 over conditions in French high schools, then broadened into a wider cost-of-living movement led by students but backed by unions, workers and pensioners. It echoes the \"Yellow Vest\" (Gilets Jaunes) protests of eight years ago, which erupted over a proposed fuel tax and became known for violent clashes. Notably, the Yellow Vests have stayed separate this time, holding their own banned gathering rather than joining the student-led marches.\n\n## Multiple Perspectives\n\nThe government, through Interior Minister Laurent Nunez, framed its response around keeping order, warning it would be \"ready\" for rioters and looters, and pointing to real violence — October 17 saw France's worst rioting in years, with over a billion euros in damage. Macron's government says it intends to raise the minimum wage and fund schools, but insists it is fiscally constrained with debt at 119% of GDP. Unions and organisers counter that only meeting their demands on wages and tax reform will end the protests. The two sources also differ on scale: official counts (146,000) run well below union counts (250,000+), a common and disputed feature of French protest reporting.\n\n## What to Watch\n\nWatch Monday's meeting between Prime Minister Sebastien Lecornu and the unions for any concessions. Keep an eye on whether turnout keeps shrinking or reignites, and whether clashes escalate. Longer term, the April presidential election looms large, with polls favouring Marine Le Pen and Jean-Luc Melenchon — a sign discontent may be feeding support for the political extremes.",
+    "concepts": [
+     {
+      "term": "Yellow Vest",
+      "definition": "A French protest movement, known in French as the Gilets Jaunes, that began eight years ago over a proposed fuel tax and became known for violent demonstrations.",
+      "context": "This weekend the Yellow Vests declined to join the student rally and held their own banned event near parliament."
+     },
+     {
+      "term": "cost of living",
+      "definition": "The everyday expense of basics like food, housing, energy and transport; when it rises faster than wages, people feel poorer.",
+      "context": "Rising living costs are the central grievance driving the French protests."
+     },
+     {
+      "term": "Gross Domestic Product (GDP)",
+      "definition": "The total value of goods and services a country produces; it's the standard yardstick for the size of an economy.",
+      "context": "France's debt is reported at 119% of its GDP, limiting the government's spending room."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the French government say it is struggling to simply meet the protesters' demands on wages and school funding?",
+     "options": [
+      "Because the European Union has banned spending increases",
+      "Because the protests are illegal",
+      "Because the unions refuse to negotiate",
+      "Because its debt is already running at 119% of GDP, leaving little fiscal room"
+     ],
+     "answer_index": 3,
+     "explanation": "The sources say Macron's government intends to raise the minimum wage and fund schools but is in a tight fiscal spot, with debt at 119% of GDP in the EU's second-largest economy."
+    },
+    "background_beginner": "France has been gripped by weeks of protests over the rising cost of living — the everyday price of food, housing and energy outpacing people's wages. The movement started in September 2026 with students demanding better high schools, then grew as trade unions, workers and pensioners joined in calling for higher pay and tax changes. President Emmanuel Macron's government says it wants to help but is short of money, as France carries heavy debt. The protests keep returning each weekend, sometimes turning violent, and they come just before a presidential election in April where polls favour the far-right's Marine Le Pen and the far-left's Jean-Luc Melenchon.",
+    "impact_score": 62,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aef808e-1794080910.jpg?resize=1920%2C1440",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "Around 146,000 people rallied across France against rising living costs, with clashes and arrests reported in several cities.",
+    "tier": "GLOBAL",
+    "category": "SOCIETY_CULTURE",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/france-sees-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "40889fac-dd61-5de5-988e-f67b65392c2d",
+     "5aa2f549-ba36-554e-b483-53d75a23f45a",
+     "64681fd5-c970-5213-a539-22ebbd387f36",
+     "a57bbdc4-9f13-5c6e-b135-ee085a776457",
+     "d92321ee-32e9-5d8e-9ae9-4845ceea9903"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-08T01:25:05.769659+00:00",
+    "published_date": "2026-11-08",
+    "has_fulltext": true
+   },
+   {
     "id": "426ee3df-7cb9-518a-8bfa-4c44a8f9ee5c",
     "title": "Further bomb threats disrupt at least another 18 flights across Europe",
     "simplified_title": "Fresh wave of hoax bomb threats disrupts European flights and media",
@@ -1055,6 +1123,73 @@
     "reading_minutes": 4,
     "created_at": "2026-11-06T19:26:07.369981+00:00",
     "published_date": "2026-11-07",
+    "has_fulltext": true
+   },
+   {
+    "id": "7308cd9f-3015-5c23-9b39-94db15faaabb",
+    "title": "Houthis say at least 25 killed in Saudi air strike",
+    "simplified_title": "Deadly strikes near Yemen's capital as war flares again",
+    "quick_summary": "Houthi-run media say air strikes on a village near Sanaa killed at least 25 to 27 people, mostly women and children, as fighting across Yemen intensifies.",
+    "simplified_body": "Media run by Yemen's Houthi movement say air strikes hit al-Shariyah, a settlement near the capital Sanaa, killing civilians and injuring dozens more. Reports put the toll at least 25 (BBC) or at least 27 (Al Jazeera), with most casualties women and children. The two outlets even differ on location — BBC describes it as a town east of Sanaa, Al Jazeera a village to the north. The Houthis blame the Saudi-led coalition; Saudi Arabia and Yemen's internationally recognised government have not commented.\n\nThis matters for ordinary Yemenis caught in a war that had gone quiet for years and has now roared back. The Houthis say 55 civilians died over two days, including 30 in a market strike in Taiz province the day before — an attack each side blames on the other. The United Nations (UN) says more than 1,600 people have been killed and over 300,000 displaced since the fighting resumed.\n\nFor newcomers: a Saudi-led coalition has fought the Iran-backed Houthis for over a decade, backing Yemen's recognised government. A truce collapsed, tied to the recent Iran war, after Saudi Arabia struck Sanaa's airport to stop an Iranian plane landing. The Houthis hit back at Saudi airports, ships and oil sites, and full-scale fighting returned.\n\nBoth sides now claim gains. Yemen's government says it repelled Houthi assaults in Marib and is pushing into al-Jawf under its \"Dawn of Yemen\" operation. The Houthis claim six missile and drone strikes on Saudi targets, and leader Mahdi al-Mashat has vowed revenge for the latest deaths — so further escalation looks likely.",
+    "why_it_matters": "Yemen sits beside the Red Sea and the Strait of Hormuz, shipping routes vital to global oil and to Australian fuel imports, so a wider war there can ripple through to prices at home.",
+    "deep_analysis": "## Historical Context\n\nYemen's war pits a Saudi-led coalition, backing the internationally recognised government, against the Iran-backed Houthi movement (also known as Ansar Allah, Arabic for \"Supporters of God\"), which controls the capital Sanaa. The coalition has fought the Houthis for more than a decade. According to the sources, the conflict had been dormant for several years before reigniting as a result of the recent Iran war. The trigger was a Saudi strike on Sanaa's Houthi-controlled airport to stop an Iranian plane landing, after which the Houthis hit Abha airport in Saudi Arabia and began targeting Saudi ships using the Red Sea as an alternative oil export route to the Strait of Hormuz.\n\n## Multiple Perspectives\n\nThe two reports agree on the broad event but differ in detail. On the death toll from the al-Shariyah strike, BBC says at least 25 while Al Jazeera cites at least 27; they also disagree on whether the site lies east or north of Sanaa. On who is responsible, there are two competing narratives: the Houthis blame Saudi air strikes for 55 civilian deaths over two days, while Yemeni government officials hold the Houthis responsible for most casualties — a pattern seen in the earlier Taiz market strike too. As Al Jazeera's correspondent put it, \"two narratives are blaming each other\" while civilians pay the price. Crucially, Saudi Arabia and Yemen's government have not commented on the latest reported strikes, and Al Jazeera says it could not independently verify the claims from either side.\n\n## What to Watch\n\nWatch whether Saudi Arabia or the coalition responds to the al-Shariyah allegations. The government's \"Dawn of Yemen\" offensive in Marib and al-Jawf, and the Houthis' claimed missile and drone strikes on Riyadh airports and oil sites, suggest escalation rather than de-escalation. Mahdi al-Mashat's vow to \"avenge\" the attack is a signal to watch for reprisals, especially against Saudi oil infrastructure and Red Sea shipping.",
+    "concepts": [
+     {
+      "term": "Houthi",
+      "definition": "An armed movement in Yemen, backed by Iran, that controls the capital Sanaa and much of the country's north.",
+      "context": "The article centres on strikes reported by Houthi-run media and the movement's vow to retaliate."
+     },
+     {
+      "term": "Saudi-led coalition",
+      "definition": "A group of countries led by Saudi Arabia fighting to support Yemen's internationally recognised government against the Houthis.",
+      "context": "The Houthis blame this coalition for the deadly strikes near Sanaa."
+     },
+     {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage between the Persian Gulf and the open ocean through which a large share of the world's oil is shipped.",
+      "context": "Saudi Arabia reportedly turned to the Red Sea as an alternative oil export route to this strait."
+     },
+     {
+      "term": "Dawn of Yemen",
+      "definition": "A military operation launched by Yemen's internationally recognised government to retake territory held by Houthi fighters.",
+      "context": "Government forces say they are pushing into al-Jawf province as part of this operation."
+     }
+    ],
+    "quiz": {
+     "question": "Why is it hard to be certain who caused the civilian deaths in al-Shariyah and Taiz?",
+     "options": [
+      "Saudi Arabia admitted carrying out both strikes",
+      "Both sides blame each other and the claims could not be independently verified",
+      "The UN has confirmed the Houthis were responsible",
+      "No casualties were actually reported"
+     ],
+     "answer_index": 1,
+     "explanation": "The reports note two competing narratives — the Houthis blame Saudi strikes while the government blames the Houthis — and Al Jazeera says it could not independently verify the claims, with Saudi Arabia and the government not commenting."
+    },
+    "background_beginner": "Yemen, on the southern tip of the Arabian Peninsula, has been torn by civil war for over a decade. On one side are the Houthis, an armed movement backed by Iran that holds the capital Sanaa; on the other is the internationally recognised government, propped up by a military coalition led by Saudi Arabia. The war had quietened for a few years but flared up again amid a recent war involving Iran, with the collapse of a fragile truce. Because Yemen lies beside the Red Sea — a major shipping and oil route — and because the Houthis and Saudis keep striking each other's territory, the conflict keeps drawing global attention and causing heavy civilian suffering.",
+    "impact_score": 68,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Houthi-run media say air strikes on a village near Sanaa killed at least 25 to 27 people, mostly women and children, as fighting across Yemen intensifies.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-08T01:25:07.044167+00:00",
+    "published_date": "2026-11-08",
     "has_fulltext": true
    },
    {
@@ -2125,5 +2260,5 @@
    }
   ]
  },
- "total_stories": 31
+ "total_stories": 33
 }
