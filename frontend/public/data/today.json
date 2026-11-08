@@ -1,76 +1,64 @@
 {
- "date": "2026-11-08",
- "generated_at": "2026-11-08T07:23:04.219221+00:00",
+ "date": "2026-11-09",
+ "generated_at": "2026-11-08T19:23:03.938438+00:00",
  "regions": {
   "OCEANIA": [
    {
-    "id": "87db1546-bd4e-5544-9121-892ef55a57be",
-    "title": "Brands asked to keep supplying David Jones despite unpaid debts",
-    "simplified_title": "David Jones Collapses, Leaving Small Suppliers Owed Thousands",
-    "quick_summary": "The 188-year-old retailer David Jones has gone into receivership and administration, leaving small suppliers owed large sums with little guarantee of being paid.",
-    "simplified_body": "David Jones, the 188-year-old Australian department store, was this week plunged into receivership and voluntary administration. Receivers from FTI Consulting have asked suppliers to keep providing goods — but only through fresh accounts, where new invoices will be paid. Older debts are now caught up in the administration process. Meanwhile, luxury brands like Gucci, Valentino and Saint Laurent have stripped their stock from the shelves.\n\nSmall Australian businesses are feeling it hardest. Slowdown Studio, which sells handwoven blankets, says it's owed $75,000, while label Beysis is owed a six-figure sum. As \"unsecured creditors\", they sit at the bottom of the queue for repayment, behind the main lender, Hilco, and the retailer's 6,000 employees. One supplier fears getting back just \"a couple of cents to the dollar\".\n\nReceivership means a lender appoints someone to recover money it's owed; administration means outside administrators (here, McGrath Nicol) try to rescue or sell the business. David Jones was bought by private equity firm Anchorage three years ago for $100 million, but lost $74 million in 2023–24 and $62 million the year after.\n\nIn Perth, at least three stores — Westfield Carousel, Garden City and Karrinyup — are tipped to close, and the CBD flagship's future is unclear after falling $1.48 million behind in rent. Administrators will issue their first circular to creditors on 10 November, with a first creditors meeting on 17 November. One insolvency expert still expects someone to buy the brand.",
-    "why_it_matters": "David Jones is a beloved, nearly two-century-old Australian institution, and its collapse threatens 6,000 jobs plus countless small local suppliers who may never see the money they're owed heading into Christmas.",
-    "deep_analysis": "## Historical Context\n\nDavid Jones has traded for 188 years, making it one of Australia's oldest and most iconic retailers. Three years ago it was bought by private equity firm Anchorage for $100 million, with what Monash University's Dr Tamara Wilkinson described as \"a very clear plan\" to turn it profitable. That plan didn't pan out: the business booked losses of $74 million in 2023–24 and $62 million in 2024–25, and failed to lodge its latest financials with the Australian Securities and Investments Commission (ASIC) on time — a clear warning sign.\n\n## Multiple Perspectives\n\nSuppliers are caught in a bind: FTI Consulting says new, post-appointment invoices will be honoured, but older debts are frozen in the administration. Small outfits like Slowdown Studio and Beysis say the risk of continuing isn't worth it. On the ground in Perth, views on the collapse vary — a local cafe owner called the business model \"outdated\" (why have concessions that double up with nearby stores?), while a shopper pointed to thin, under-informed staffing. The Chamber of Commerce and Industry blames Western Australia's \"restrictive trading hours\". Landlord Starhill Global and the City of Perth Lord Mayor strike a more hopeful tone about the broader retail outlook, citing fresh investment.\n\n## What to Watch\n\nThe administrators' initial circular lands on 10 November, with the first creditors meeting on 17 November — that's when the scale of debts should become clearer. Watch whether a buyer emerges (Dr Wilkinson expects the brand to survive), the fate of the Perth CBD flagship, and how much, if anything, unsecured creditors recover.",
+    "id": "a2381e05-e0fc-5422-8c23-8cfbd9c0784d",
+    "title": "Aged care bed crisis hits boiling point for families waiting years",
+    "simplified_title": "Families Wait Years for Aged Care Beds as Shortage Worsens",
+    "quick_summary": "A severe shortage of residential aged care beds is leaving Australian families, like one in South Australia waiting two years, stuck with no place for their loved ones.",
+    "simplified_body": "Betty Cameron, 74, has spent two years trying to find a residential aged care bed for her husband Darryl, who has late-stage dementia, in South Australia's Riverland region. With his National Disability Insurance Scheme (NDIS) funding likely to stop within three weeks, she's now looking interstate to Mildura, about 150 kilometres away, just to find somewhere she can visit him daily.\n\nThis isn't a one-off. South Australia is the oldest mainland state and has the country's longest wait times for aged care beds. Around 500 people are currently stuck in hospital waiting for a bed — four years ago that number was just 60. Support workers say shortages have plagued the system for over a decade, forcing some families into heartbreaking choices.\n\nAged care is funded by the federal government, while states run the hospitals where people get stuck waiting. South Australia's Health Minister Blair Boyer says the nation needs at least 10,600 extra federal aged care places every year for the next two decades, yet only 800 beds were added last year. The state is trying to generate 650 new beds through a no-interest loan scheme and 600 more inside the old Women's and Children's Hospital.\n\nThe federal Aged Care Minister's office says it has invested $600 million across 27 state and territory initiatives to reduce delayed hospital discharges, and is supporting around 5,000 additional beds nationally each year — including 268 across five Adelaide sites. Whether that keeps pace with demand as the population ages is the big question.",
+    "why_it_matters": "Australia's population is ageing fast, and this bed shortage means real families are being forced to choose between distance and dignity — a crisis every state and territory is now grappling with.",
+    "deep_analysis": "## Historical Context\n\nAustralia's aged care system has long been a federal responsibility, while hospitals are run by the states — a split that creates friction when people needing aged care end up stuck in hospital beds instead. Support coordinator Lisa Turton says bed shortages have been building for more than a decade. South Australia feels it most sharply because it's the oldest mainland state, meaning a larger share of its population is reaching an age where residential care becomes necessary. The jump from 60 people waiting in hospital four years ago to around 500 today shows how quickly the pressure has mounted.\n\n## Multiple Perspectives\n\nFamilies like the Camerons describe the experience as inhumane and exhausting, with Betty saying the ordeal has left her a \"mess some days.\" State officials point upward: Minister Blair Boyer argues the federal government, which funds aged care, must step up, warning the numbers will keep climbing without action. The federal minister's office counters that it has committed $600 million to 27 initiatives and is backing roughly 5,000 new beds a year nationally. The gap between what the state says is needed (10,600 places annually) and what was delivered last year (800 beds) sits at the heart of the disagreement.\n\n## What to Watch\n\nKeep an eye on whether the no-interest loan scheme actually delivers its promised 650 beds, and whether the old Women's and Children's Hospital conversion proceeds. Regional access is the sharper edge of the problem — advocates want facilities and staff fast-tracked outside the cities. For individual families, the NDIS tribunal review process for people like Darryl Cameron will determine whether vulnerable people fall through the gap between disability and aged care funding.",
     "concepts": [
      {
-      "term": "receivership",
-      "definition": "A process where a lender appoints a receiver to take control of a company's assets and recover money it is owed.",
-      "context": "David Jones was plunged into receivership, with receivers acting for its biggest lender, Hilco."
+      "term": "residential aged care",
+      "definition": "Live-in facilities (nursing homes) that provide accommodation and ongoing care for older people who can no longer live independently.",
+      "context": "These beds are funded by the federal government and are in short supply, forcing families to wait years or look interstate."
      },
      {
-      "term": "voluntary administration",
-      "definition": "An insolvency process where independent administrators take over a struggling company to try to rescue, restructure or sell it.",
-      "context": "Administrators from McGrath Nicol are running the voluntary administration and will meet creditors soon."
+      "term": "NDIS",
+      "definition": "The National Disability Insurance Scheme, a government program that funds support for people with disability.",
+      "context": "Darryl Cameron currently receives NDIS-funded care, but that funding is being reviewed and may cease, pushing him toward aged care or hospital."
      },
      {
-      "term": "unsecured creditor",
-      "definition": "A party owed money that has no collateral or security, so it's repaid only after secured lenders and employees.",
-      "context": "Small suppliers are unsecured creditors, placing them near the bottom of the repayment queue."
-     },
-     {
-      "term": "private equity",
-      "definition": "Investment firms that buy companies, often aiming to improve them and sell at a profit.",
-      "context": "Private equity firm Anchorage bought David Jones three years ago for $100 million."
+      "term": "delayed discharge",
+      "definition": "When a patient is medically ready to leave hospital but can't because no appropriate care place (like an aged care bed) is available.",
+      "context": "About 500 people in South Australia are stuck in hospital waiting for an aged care bed, a problem the federal government is spending $600 million to address."
      }
     ],
     "quiz": {
-     "question": "Why are small suppliers like Slowdown Studio unlikely to recover most of what they're owed?",
+     "question": "Why does South Australia's government argue the federal government bears key responsibility for fixing the bed shortage?",
      "options": [
-      "Because David Jones has already been sold to a new owner",
-      "Because the government caps supplier payouts at a few cents",
-      "Because they are unsecured creditors, who rank behind the lender and employees for repayment",
-      "Because their invoices were never properly issued"
+      "Because the NDIS only operates in South Australia",
+      "Because states are banned from building aged care facilities",
+      "Because the federal government owns all the hospitals",
+      "Because aged care is a federal responsibility to fund in Australia"
      ],
-     "answer_index": 2,
-     "explanation": "As unsecured creditors, small suppliers sit at the bottom of the pecking order — behind secured lender Hilco and the 6,000 employees — so they may recover only a few cents to the dollar, if anything."
+     "answer_index": 3,
+     "explanation": "Aged care is funded and overseen by the federal government, which is why the state minister says the federal government is 'responsible for aged care in this nation', even though states run the hospitals where people wait."
     },
-    "background_beginner": "David Jones is one of Australia's oldest department store chains, trading for 188 years and known for its upmarket brands and heritage shopping experience. Three years ago it was bought by a private equity firm called Anchorage for $100 million, but it kept losing money — tens of millions each year. This week it collapsed into receivership and administration, meaning outside firms now control it while trying to rescue or sell the business. The story keeps coming up because it touches thousands of workers, dozens of small suppliers owed money, landlords, and shoppers — and because it symbolises wider struggles facing traditional \"bricks-and-mortar\" retail in the age of online shopping.",
+    "background_beginner": "In Australia, caring for older people who can no longer live at home usually means moving into \"residential aged care\" — what many call a nursing home. These places are funded by the federal (national) government, while the states run the hospitals. Over the past decade, demand has grown faster than beds have been built, so people now wait months or years, and many get stuck in hospital with nowhere to go. South Australia is hit hardest because it has the oldest population on the mainland. The issue keeps resurfacing because Australia's population is ageing, and governments disagree over who should pay to build enough beds and staff them.",
     "impact_score": 68,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/8e9b6a1fb5fd06478fc14be285fe06f8?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=469&width=862&height=485&imformat=generic",
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/42f8dbafea42295a1c98cc932a2126b0?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "The 188-year-old retailer David Jones has gone into receivership and administration, leaving small suppliers owed large sums with little guarantee of being paid.",
+    "description": "A severe shortage of residential aged care beds is leaving Australian families, like one in South Australia waiting two years, stuck with no place for their loved ones.",
     "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
+    "category": "HEALTH",
     "sources": [
      {
       "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-07/david-jones-suppliers-waiting-for-debts-to-be-paid/107355408"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-07/david-jones-stores-set-to-close-amid-mixed-picture-for-retail/107355738"
+      "url": "https://www.abc.net.au/news/2026-11-09/residential-aged-care-bed-waitlist-south-australia-families/107341030"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "46e896bd-f92f-5689-99c8-086e2339500c",
-     "4c35b30e-8468-5fce-8723-ca0b8138ab52"
-    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
     "reading_minutes": 4,
-    "created_at": "2026-11-07T07:26:52.545630+00:00",
-    "published_date": "2026-11-07",
+    "created_at": "2026-11-08T19:26:53.962090+00:00",
+    "published_date": "2026-11-09",
     "has_fulltext": true
    },
    {
@@ -336,143 +324,64 @@
   ],
   "ASIA": [
    {
-    "id": "90e64a55-98be-5358-8596-c378f3a710c5",
-    "title": "Indonesia's presidential wiretapping scandal: What to know",
-    "simplified_title": "Indonesia probes alleged wiretapping of its own president",
-    "quick_summary": "Indonesia is investigating whether senior police secretly tapped President Prabowo Subianto's phone, a scandal now tangled up with a widening split between him and former president Jokowi.",
-    "simplified_body": "This week Indonesian authorities announced they are investigating possible treason after revelations that President Prabowo Subianto's phone calls may have been spied on. Four senior police officers have been named as suspects, including Prabowo's own chief of staff, Listyo Sigit Prabowo (no relation to the president). Three were arrested on Tuesday; the fourth, Slamet Uliandi, was not detained due to ill health. They are accused of entering phone numbers, including Prabowo's, into the police's surveillance system without proper warrants, allegedly stretching back to 2025.\n\nThe scandal reaches the top of Indonesian politics. Listyo rose to lead the national police under former president Joko Widodo (Jokowi) and is seen as a Jokowi loyalist. The targets reportedly weren't only Prabowo but also politicians, journalists, Non-Governmental Organisation (NGO) representatives and businesspeople. Police insist the probe is \"purely law enforcement\", though many read it as another crack in the fracturing alliance between Prabowo and Jokowi.\n\nFor newcomers: Jokowi backed Prabowo's 2024 election win, and Jokowi's son Gibran became vice president. That partnership now looks strained. Prabowo has sidelined Jokowi allies, dropped Jokowi's new-capital project, and Gibran faces questions over his school credentials and possible disqualification.\n\nUnder Indonesia's new Criminal Code, treason against the president can carry the death penalty, though no one has been executed in a decade. Authorities say the motive is still unclear. Lawmakers may also probe Gibran's eligibility. Thousands of troops were deployed in Jakarta, which stayed calm.",
-    "why_it_matters": "Indonesia is Australia's large, democratic neighbour and a key regional partner, so political turbulence and a treason probe reaching the president's inner circle matter for stability across South-East Asia.",
-    "deep_analysis": "## Historical Context\n\nWiretapping scandals are not new in Indonesian politics. In 2014, surveillance devices were reportedly found at Jokowi's official residence while he was Jakarta governor, and former president Megawati Soekarnoputri said in 2024 she had avoided her personal mobile number for fear of being tapped. Treason itself has a long and varied history in Indonesia, from assassination attempts on founding president Sukarno (the Cikini grenade attack in 1957, a fighter-jet strafing in 1960, and a 1962 shooting) to separatist cases involving South Maluku and Papua, and attempts to seize power outside legal means in 1946 and the 1958 PRRI rebellion.\n\n## Multiple Perspectives\n\nThe government, via a presidential spokesperson and State Secretary Prasetyo Hadi, frames the alleged wiretapping as potentially amounting to treason because it involved sensitive information that could endanger the nation and the president's safety. Police leadership insists the case is \"purely law enforcement\" and unrelated to political rivalries. Analysts disagree: Made Supriatma of ISEAS-Yusof Ishak Institute reads it as Prabowo and Jokowi \"going their separate ways\", while CSIS researcher Nicky Fahrizal describes a country \"on autopilot\" serving group interests over the public's. Legal experts note that intent is the crucial element in proving treason under Indonesian law, and the motive here remains officially unclear.\n\n## What to Watch\n\nWatch whether investigators establish a motive, which will shape whether treason charges actually stick. Watch the fate of Vice President Gibran, as lawmakers consider probing his eligibility — a potential first step toward removal. And watch the broader strain: the free school meals programme is short of funding, wildfires and haze have hit the country, and the stock market faces market-manipulation allegations, all against the backdrop of the unconfirmed but widening Prabowo–Jokowi rift.",
+    "id": "09a74199-2863-5342-9e66-c43635b2fd02",
+    "title": "India: Delhi chokes on most polluted Diwali eve in 10 years",
+    "simplified_title": "Delhi Suffers Worst Diwali Eve Air Pollution in Ten Years",
+    "quick_summary": "Delhi recorded its most polluted Diwali eve in a decade, forcing schools online and prompting court scrutiny as the Hindu festival of lights added firecracker smoke to already toxic winter air.",
+    "simplified_body": "Delhi woke up on Sunday wrapped in thick smog, after Saturday night delivered the worst Diwali eve air quality in 10 years. India's Central Pollution Control Board (CPCB) recorded a \"very poor\" Air Quality Index (AQI) of 362, and forecast the air would turn \"severe\" on Sunday once Diwali firecrackers were lit. Swiss monitor IQAir ranked Delhi the world's most polluted major city that day. The government ordered schools in and around the capital to run classes online and urged people to work from home.\n\nThis hits the roughly 30 million people living in and around Delhi, with children, the elderly and anyone with breathing problems most at risk. Diwali, the Hindu festival of lights, always sees big crowds setting off fireworks, which pile extra smoke onto the city's usual winter haze.\n\nDelhi's air plummets every winter because cold, still weather traps pollutants near the ground. The usual culprits are vehicle exhaust and \"stubble burning\" — farmers in neighbouring Punjab and Haryana burning crop leftovers — with Diwali firecrackers making a bad situation worse. The worst pre-Diwali day on record was in 2016, when the AQI hit 404.\n\nIndia's Supreme Court has been reviewing the government's approach, with the Chief Justice singling out bumper-to-bumper traffic and vehicle pollution as a major cause and questioning whether official measures actually work. With no lasting fix in sight, Delhi looks set to repeat this grim cycle each winter until deeper changes take hold.",
+    "why_it_matters": "Air that unhealthy affects tens of millions of people's daily lives and long-term health, and it's a reminder of how seasonal pollution can overwhelm a megacity — a problem Australians recognise from bushfire smoke blanketing cities like Sydney and Canberra.",
+    "deep_analysis": "## Historical Context\n\nDelhi's winter smog is a predictable, recurring crisis rather than a one-off. The article notes the worst pre-Diwali day on record came in 2016, when the AQI reached 404, and that air quality \"regularly plummets at the outset of winter\" as weather conditions trap pollutants close to the ground. Diwali, the Hindu festival of lights, has long coincided with pollution spikes because of large-scale firecracker use. Despite years of government interventions, emergency restrictions and public anger, a lasting solution has stayed out of reach.\n\n## Multiple Perspectives\n\nThe CPCB and Swiss monitor IQAir agree the air was dangerously poor, with IQAir ranking Delhi the world's worst-polluted major city on Saturday. The Supreme Court bench, led by Chief Justice Surya Kant, pointed to vehicular pollution and heavy traffic as a major cause and openly questioned whether the government's measures are effective. The article also notes that stubble burning in Punjab and Haryana is a major contributor — meaning responsibility is spread across drivers, farmers in neighbouring states, and festival-goers lighting firecrackers, making any single fix politically and practically difficult.\n\n## What to Watch\n\nWatch whether Sunday's forecast \"severe\" reading materialises once Diwali fireworks are fully underway, and how long schools stay online and work-from-home advice remains. Also worth following: whether the Supreme Court pushes the government toward stronger or better-enforced measures on vehicle emissions, and whether coordination improves with neighbouring states over stubble burning — the deeper, cross-border driver of the annual haze.",
     "concepts": [
      {
-      "term": "wiretapping",
-      "definition": "Secretly intercepting someone's phone calls or electronic communications, usually requiring a legal warrant when done by authorities.",
-      "context": "Senior police allegedly entered the president's phone number into the surveillance system without proper warrants."
+      "term": "Air Quality Index (AQI)",
+      "definition": "A standardised scale that rates how polluted the air is; higher numbers mean more harmful air, with categories like 'very poor' and 'severe' flagging health risks.",
+      "context": "Delhi recorded a 'very poor' AQI of 362, forecast to worsen to 'severe'."
      },
      {
-      "term": "treason",
-      "definition": "A serious crime against the state, which under Indonesian law can include attempts to harm the president or render them unable to govern.",
-      "context": "The government says the alleged spying could amount to treason, punishable by up to the death penalty."
+      "term": "stubble burning",
+      "definition": "The practice of farmers setting fire to leftover crop stalks after harvest to quickly clear fields, which releases large amounts of smoke.",
+      "context": "Farmers in Punjab and Haryana burning crop leftovers is a major contributor to Delhi's haze."
      },
      {
-      "term": "chief of staff",
-      "definition": "A senior official who manages the president's office and advisers and controls access to the leader.",
-      "context": "Prabowo's chief of staff, Listyo Sigit Prabowo, was arrested and then sacked from the role."
-     },
-     {
-      "term": "Non-Governmental Organisation (NGO)",
-      "definition": "A non-profit group that operates independently of government, often working on social, humanitarian or advocacy issues.",
-      "context": "NGO representatives were among the targets of the alleged wiretapping."
+      "term": "Central Pollution Control Board (CPCB)",
+      "definition": "India's national government body that monitors and reports on air and water pollution levels.",
+      "context": "The CPCB recorded the AQI figures and historical pollution records for Delhi."
      }
     ],
     "quiz": {
-     "question": "Why do many analysts see the wiretapping scandal as politically significant, despite police calling it 'purely law enforcement'?",
+     "question": "Why does Delhi's air quality tend to get worse at the start of winter?",
      "options": [
-      "Because the arrested chief of staff is a loyalist of former president Jokowi, suggesting a widening rift with Prabowo",
-      "Because the death penalty has been frequently used in recent years",
-      "Because the president ordered the arrests personally",
-      "Because wiretapping is legal in Indonesia and the arrests are unusual"
+      "Fireworks are banned in summer",
+      "Cold, still weather traps pollutants near the ground",
+      "The city's population doubles in winter",
+      "Factories only operate in winter months"
      ],
-     "answer_index": 0,
-     "explanation": "Listyo Sigit Prabowo rose under Jokowi and is seen as his ally, so his arrest is read as another sign of the fracturing Prabowo–Jokowi alliance, even though police deny any link to rivalries."
+     "answer_index": 1,
+     "explanation": "The article explains that air quality plummets at the outset of winter because weather conditions help trap pollutants, which firecrackers, vehicle exhaust and stubble burning then add to."
     },
-    "background_beginner": "Indonesia is South-East Asia's largest country and democracy. Its current president, Prabowo Subianto, won the 2024 election with crucial backing from his predecessor, Joko Widodo (Jokowi), who led from 2014 to 2024; Jokowi's son Gibran became vice president. That alliance now looks strained. This story began this week when authorities revealed Prabowo's phone may have been secretly tapped using the police's own surveillance system. Several senior officers, including Prabowo's chief of staff, have been named as suspects. It keeps coming up because it collides with bigger tensions — reshuffles of Jokowi allies, questions over Gibran's eligibility, and economic and environmental troubles.",
+    "background_beginner": "Delhi is India's capital and one of the world's largest cities, home to tens of millions of people. Every winter it suffers through some of the planet's worst air pollution. The problem builds up from several sources: car and truck exhaust, farmers in nearby states burning crop stubble to clear their fields, and cold, still weather that traps all that smoke close to the ground. It gets worse around Diwali, the Hindu festival of lights, when people set off huge numbers of firecrackers. Despite courts, governments and angry residents pushing for change year after year, no lasting fix has been found, so the crisis keeps returning each winter.",
     "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7740/live/5aefda60-d9c1-11f1-a00c-673f8daaffd9.jpg",
+    "image_url": "https://static.dw.com/image/79889018_6.jpg",
     "region": "Asia",
     "region_code": "ASIA",
-    "description": "Indonesia is investigating whether senior police secretly tapped President Prabowo Subianto's phone, a scandal now tangled up with a widening split between him and former president Jokowi.",
+    "description": "Delhi recorded its most polluted Diwali eve in a decade, forcing schools online and prompting court scrutiny as the Hindu festival of lights added firecracker smoke to already toxic winter air.",
     "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
+    "category": "HEALTH",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg55155mrro"
-     },
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-fourth-senior-police-officer-wiretapping-suspect-6530131"
-     },
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/prabowo-wiretapping-treason-indonesia-criminal-code-6529881"
+      "name": "DW",
+      "url": "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-all-1573-rdf"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
+    "source_count": 1,
+    "confidence": 0.55,
     "related_story_ids": [
-     "1329e802-ce36-57f6-aadd-dec6a3945c0e",
-     "7b9bd7ac-0ef2-53ce-8b16-b8d8c78635ae"
+     "28cb2cd3-e483-55d1-b7d9-cd1246ac1e2a",
+     "28d36afe-b88d-5046-9c7c-240b0bc4f456"
     ],
-    "reading_minutes": 4,
-    "created_at": "2026-11-07T07:26:16.889627+00:00",
-    "published_date": "2026-11-07",
-    "has_fulltext": true
-   },
-   {
-    "id": "4231d758-f16a-57a6-99a7-c80a8a701adc",
-    "title": "Former Malaysia PM Najib Razak's US$12.3 million fine paid by UMNO, paving way for house arrest",
-    "simplified_title": "Najib's $12.3m Fine Paid, But His House Arrest Is Now Disputed",
-    "quick_summary": "Najib Razak's party paid his RM50 million fine to unlock house arrest, but a legal clash over what that means has kept him in prison for now.",
-    "simplified_body": "On Friday 6 November, the United Malays National Organisation (UMNO) — the party of former Malaysian Prime Minister Najib Razak — announced it had paid the RM50 million (US$12.3 million) fine hanging over him. The money came from a public \"solidarity fund\" crowdfunding campaign launched on 18 September. Paying the fine was meant to be the final condition unlocking a conditional pardon from Malaysia's king, Sultan Ibrahim Sultan Iskandar, letting Najib serve the rest of his sentence at home rather than in Kajang Prison.\n\nIt didn't go smoothly. The Attorney-General's Chambers (AGC) — the government's legal office — asked for the house arrest to be temporarily suspended, saying the pardon's wording could be read two ways and that this affects a separate 15-year sentence in the larger 1Malaysia Development Berhad (1MDB) case, which is meant to start only after the current one ends. Najib's lawyers rejected this, saying the court had already ordered his release. On Saturday the king stepped in, calling the pardon \"clear and unambiguous\" and warning that disputing it means defying the monarch.\n\nSome background: Najib was PM from 2009 to 2018 and jailed in 2022 over RM42 million funnelled from SRC International, a former 1MDB subsidiary. His original 12-year term and RM210 million fine were halved in 2024. Not everyone's happy — PM Anwar Ibrahim said he personally disagrees with the fine being paid, warning it shouldn't look like billion-ringgit corruption can be brushed aside.\n\nNext, the AGC and courts must settle the legal tangle before Najib can actually walk free, and watch how it strains the Anwar–UMNO unity government.",
-    "why_it_matters": "The 1MDB scandal reached well beyond Malaysia — including investigations and asset seizures abroad — and how Najib's punishment plays out signals whether a landmark anti-corruption case will hold or quietly soften.",
-    "deep_analysis": "## Historical Context\n\nNajib Razak led Malaysia from 2009 to 2018 before losing power amid the 1Malaysia Development Berhad (1MDB) scandal, one of the world's largest financial frauds. He was convicted in 2020 over RM42 million moved from SRC International, a former 1MDB subsidiary, into his personal accounts, and began his sentence in 2022. His original 12-year term and RM210 million fine were halved by the Pardons Board in 2024. Since then he has argued that a former king issued an \"addendum order\" allowing house arrest — a claim that set the stage for the current conditional pardon granted by Sultan Ibrahim in September 2025.\n\n## Multiple Perspectives\n\nNajib's camp and UMNO argue the conditions are met: the fine is paid and the High Court issued sealed discharge orders, so he must be released to house arrest immediately. The Attorney-General's Chambers counters that the pardon is genuinely ambiguous and that rushing it could muddle when his separate 15-year 1MDB sentence begins — insisting it isn't challenging the king, just seeking lawful clarity. The king frames any dispute as defiance of a royal prerogative under Article 42 of the Constitution. Prime Minister Anwar Ibrahim adds a political-moral angle, saying he personally disagrees with the fine being paid. Critics like DAP's Tony Pua want the donations audited to ensure the money wasn't laundered.\n\n## What to Watch\n\nWatch whether the AGC withdraws its suspension request or the courts issue a definitive ruling, and how that affects the timeline of the 1MDB sentence. The friction between Anwar's Pakatan Harapan and coalition partner UMNO is worth tracking, as is any audit of the solidarity fund.",
-    "concepts": [
-     {
-      "term": "conditional pardon",
-      "definition": "A royal reduction of punishment granted only if specific conditions — here, paying a RM50 million fine — are met.",
-      "context": "Malaysia's king granted Najib a conditional pardon letting him serve the rest of his sentence under house arrest if the fine was paid."
-     },
-     {
-      "term": "Attorney-General's Chambers (AGC)",
-      "definition": "Malaysia's government legal office responsible for prosecutions and advising on how laws and court orders are applied.",
-      "context": "The AGC asked for Najib's house arrest to be temporarily suspended over legal uncertainty about the pardon."
-     },
-     {
-      "term": "1Malaysia Development Berhad (1MDB)",
-      "definition": "A Malaysian state investment fund at the centre of a massive corruption scandal involving misused public money.",
-      "context": "Najib faces a separate 15-year sentence in the 1MDB case, which complicates when his current sentence ends."
-     }
-    ],
-    "quiz": {
-     "question": "Why did the Attorney-General's Chambers ask to pause Najib's move to house arrest?",
-     "options": [
-      "It wanted legal clarity on how the pardon affects his separate 1MDB sentence",
-      "The king had cancelled the pardon",
-      "It believed the fine had not actually been paid",
-      "Najib's lawyers requested more time"
-     ],
-     "answer_index": 0,
-     "explanation": "The AGC said the pardon could be read two ways, and this matters because Najib's separate 15-year 1MDB sentence is meant to start only after the current one ends."
-    },
-    "background_beginner": "Najib Razak was Malaysia's prime minister from 2009 to 2018. His time in office collapsed under the 1MDB scandal, where billions tied to a state investment fund went missing. He was convicted of taking RM42 million from a related company, SRC International, and jailed in 2022. Since then there's been a long tug-of-war over easing his punishment: his sentence and fine were halved in 2024, and in September 2025 the king granted a conditional pardon for house arrest. It keeps resurfacing because Najib remains a powerful figure in UMNO, which shares government with Prime Minister Anwar Ibrahim — so every move is both legal and deeply political.",
-    "impact_score": 62,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--svYnCxY_--/c_crop,h_1125,w_1999,x_1,y_85/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/14/ap26287052659155.jpg?itok=pqFVecrU",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "Najib Razak's party paid his RM50 million fine to unlock house arrest, but a legal clash over what that means has kept him in prison for now.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/malaysia-najib-razak-pays-fine-house-arrest-6520376"
-     },
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/najib-razak-pardon-house-arrest-king-warning-6532831"
-     },
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-disagrees-umno-pays-najib-razak-fine-6530656"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-07T07:26:13.853336+00:00",
-    "published_date": "2026-11-07",
+    "reading_minutes": 9,
+    "created_at": "2026-11-08T19:27:23.791878+00:00",
+    "published_date": "2026-11-09",
     "has_fulltext": true
    },
    {
@@ -536,6 +445,69 @@
     "reading_minutes": 3,
     "created_at": "2026-11-08T07:26:21.632778+00:00",
     "published_date": "2026-11-08",
+    "has_fulltext": true
+   },
+   {
+    "id": "1e934434-3bb7-5d2d-bfca-282db7ecb728",
+    "title": "Magnitude 5.7 quake injures dozens in central Japan",
+    "simplified_title": "Strong quake injures dozens in central Japan",
+    "quick_summary": "A magnitude 5.7 earthquake struck Shizuoka Prefecture in central Japan early Sunday, injuring dozens and disrupting trains, but causing no deaths.",
+    "simplified_body": "A strong 5.7-magnitude earthquake hit central Japan at 1.04am on Sunday (Nov 8), with its centre in Shizuoka Prefecture, west of Tokyo, according to the Japan Meteorological Agency (JMA). It shattered storefront windows, knocked goods off shelves and disrupted train services, including the Shinkansen bullet trains. No tsunami warning was issued and no deaths were reported.\n\nDozens of people were hurt. An emergency official in Aichi reported 16 mostly minor injuries, while authorities in neighbouring Shizuoka said at least three women sought medical care, including a woman in her nineties who hurt her shoulder falling from bed. Local outlets the Chunichi Shimbun and Tokai Television reported at least 24 injured across the two regions. In Osaka, a foreign resident was hospitalised after falling from a second-floor apartment when the shaking startled them.\n\nJapan sits on the Pacific \"Ring of Fire\", a zone of intense seismic activity, and experiences hundreds of earthquakes every year. A separate, smaller 4.3-magnitude quake struck the Kumamoto region at 10.53am Sunday with no immediate reports of serious damage. That southwestern region is still recovering from a 7.1-magnitude tremor in July that killed 38 people.\n\nAuthorities were still assessing damage, and some train services faced temporary delays and suspensions through Sunday morning. Given Japan's frequent seismic activity, aftershocks and further disruption remain possible while clean-up continues.",
+    "why_it_matters": "Earthquakes are a constant risk in Japan, a popular destination for Australian travellers, and this quake disrupted transport in a busy region between Tokyo and Osaka.",
+    "deep_analysis": "## Historical Context\n\nJapan lies along the Pacific \"Ring of Fire\", where tectonic plates grind together and generate intense seismic activity. As background, this geology makes Japan one of the most earthquake-prone countries on Earth, experiencing hundreds of tremors each year. The nation remains scarred by the 2011 magnitude 9.0 undersea quake, which triggered a tsunami that killed or left missing around 18,500 people and wrecked the Fukushima nuclear plant. The southwestern region of Kumamoto is also still recovering from a 7.1-magnitude tremor in July that killed 38 people and flattened homes.\n\n## Multiple Perspectives\n\nOfficial figures and media reports differ slightly on the number hurt. An emergency official in Aichi cited 16 mostly minor injuries, and Shizuoka authorities confirmed at least three women sought care, while the Chunichi Shimbun and Tokai Television reported at least 24 injured across both regions. The JMA focused on the quake's measurements and confirmed no tsunami warning was issued. Officials in Osaka could not be reached for immediate comment on the reported hospitalisation there.\n\n## What to Watch\n\nWatch for updated casualty and damage tallies as authorities complete assessments, and for how quickly Shinkansen and regional rail services return to normal. Given Japan's seismic frequency, the possibility of aftershocks is worth monitoring, as is any further activity in the Kumamoto region following its second, smaller quake of the day.",
+    "concepts": [
+     {
+      "term": "Japan Meteorological Agency",
+      "definition": "The Japanese government body responsible for monitoring weather, earthquakes and tsunamis and issuing official warnings.",
+      "context": "It confirmed the quake's magnitude, timing and location in Shizuoka Prefecture."
+     },
+     {
+      "term": "tsunami",
+      "definition": "A series of large ocean waves usually triggered by an undersea earthquake, capable of causing destructive flooding on coasts.",
+      "context": "No tsunami warning was issued for this quake, unlike the devastating 2011 event."
+     },
+     {
+      "term": "Shinkansen",
+      "definition": "Japan's high-speed intercity rail network, commonly known as the bullet trains.",
+      "context": "Services were temporarily delayed and suspended after the quake."
+     },
+     {
+      "term": "Ring of Fire",
+      "definition": "A horseshoe-shaped zone around the Pacific Ocean known for frequent earthquakes and volcanic activity.",
+      "context": "Japan's position on it explains why it has hundreds of quakes each year."
+     }
+    ],
+    "quiz": {
+     "question": "Why did this magnitude 5.7 quake cause no tsunami, while the 2011 quake did?",
+     "options": [
+      "The 2011 quake was a much larger magnitude 9.0 undersea quake",
+      "The Meteorological Agency forgot to issue a warning",
+      "Japan has since banned tsunamis",
+      "This quake happened at night"
+     ],
+     "answer_index": 0,
+     "explanation": "The article notes no tsunami warning was issued for the 5.7 quake, whereas the far more powerful 9.0-magnitude undersea quake in 2011 triggered a devastating tsunami. Larger undersea quakes displace far more water."
+    },
+    "background_beginner": "Japan is a country in East Asia that sits on top of several shifting tectonic plates, part of a zone called the Pacific \"Ring of Fire\". This means the ground there moves often, producing hundreds of earthquakes a year, from tiny tremors to catastrophic ones. The Japan Meteorological Agency is the official body that measures quakes and warns people about dangers like tsunamis. Japan has dealt with repeated disasters, including a massive 2011 quake and tsunami that killed around 18,500 people. Because quakes keep happening, each new one — like this magnitude 5.7 tremor near Tokyo — makes news for the injuries, damage and transport chaos it causes.",
+    "impact_score": 42,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--K0djqINx--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/08/ap26312017812867.jpg?itok=BzZ1R7mk",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "A magnitude 5.7 earthquake struck Shizuoka Prefecture in central Japan early Sunday, injuring dozens and disrupting trains, but causing no deaths.",
+    "tier": "GLOBAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/japan-magnitude-57-earthquake-injures-dozens-6533811"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-08T19:26:52.476609+00:00",
+    "published_date": "2026-11-09",
     "has_fulltext": true
    }
   ],
@@ -692,6 +664,69 @@
     "has_fulltext": true
    },
    {
+    "id": "9e69c882-6e54-5523-8b4d-5fec266a1ad4",
+    "title": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
+    "simplified_title": "Europe joins US-led Ukraine peace talks in Abu Dhabi",
+    "quick_summary": "France says Europe will be represented at US-mediated talks in Abu Dhabi this week aimed at ending the Ukraine war.",
+    "simplified_body": "France will take part in peace talks in Abu Dhabi on Tuesday and Wednesday aimed at ending the war in Ukraine, Foreign Minister Jean-Noël Barrot said Sunday. The United States is mediating, and Barrot confirmed that \"the Europeans will be represented\". Until now the talks had been framed as a three-way (trilateral) meeting of officials — not leaders — from Ukraine, Russia and the US, with the identities of participants kept private.\n\nThis matters because Europe's place at the table has been contested. Ukrainian President Volodymyr Zelensky wants his European allies involved, while Russia has suggested there would be no room for European representatives. France says this time Europe will participate and that it will \"ensure that Europe's voice is heard\".\n\nFor background: Russia launched its full-scale invasion of Ukraine in 2022. Before that, the Kremlin handed the North Atlantic Treaty Organization (NATO) an ultimatum, including a demand that the alliance pull troops out of eastern Europe — a demand NATO rejected. President Donald Trump recently predicted a \"very big\" deal with Russia covering not just Ukraine but \"all of Europe\", stoking fears of a US tilt toward Moscow. His envoy Jared Kushner spoke of building a \"broader European security architecture\".\n\nWhat happens next: US, European, Ukrainian and NATO officials already met in Brussels on Thursday to prepare. Kushner said Washington would consult European partners on the sidelines in Abu Dhabi and, if progress is made, aim to shift toward a broader multilateral format with their direct involvement.",
+    "why_it_matters": "Whether Europe gets a genuine seat at these talks will shape any deal's legitimacy — and the outcome affects the Western alliance, including Australia, that has backed Ukraine's defence.",
+    "deep_analysis": "## Historical Context\n\nRussia's full-scale invasion of Ukraine began in 2022, but the tensions predate it. Before the war, the Kremlin issued an ultimatum to NATO demanding, among other things, the withdrawal of alliance troops from eastern Europe — a bid to redraw the continent's security arrangements. NATO rejected that demand. Ever since, Moscow has pushed for a new \"European security architecture\" more to its liking, something Western allies have long resisted. The current Abu Dhabi talks sit against this backdrop, which is why any US language echoing that framing makes European capitals nervous.\n\n## Multiple Perspectives\n\nThe sources show a clear split. France (via Barrot) insists Europe will be represented this time, noting past talks have sometimes excluded and sometimes included Europeans. Ukraine's Zelensky wants his European allies in the room. Russia, by contrast, has suggested there is no place for European representatives at the table. The US position, voiced by envoy Jared Kushner, is somewhere in between: consult Europeans \"on the sidelines\" and move to a \"broader multilateral format\" only if progress is made. Trump's talk of a \"very big\" deal covering \"all of Europe\" has fuelled European wariness that Washington could pivot toward the Kremlin.\n\n## What to Watch\n\nThe format is the key signal: whether Europeans actually sit at the table or stay on the sidelines. Watch who attends — participant identities haven't been made public — and whether the trilateral officials-level meeting escalates toward leaders. Also watch the language around \"European security architecture\", since that phrase carries loaded history. Finally, any sign of movement from the Brussels prep meeting into the \"broader multilateral format\" Kushner floated would mark real progress.",
+    "concepts": [
+     {
+      "term": "trilateral",
+      "definition": "Involving three parties — here, Ukraine, Russia and the United States.",
+      "context": "The Abu Dhabi talks were initially framed as a three-way format of officials rather than leaders."
+     },
+     {
+      "term": "North Atlantic Treaty Organization (NATO)",
+      "definition": "A military alliance of North American and European countries that agree to defend one another.",
+      "context": "Russia had demanded NATO withdraw troops from eastern Europe before the 2022 invasion."
+     },
+     {
+      "term": "European security architecture",
+      "definition": "The overall system of treaties, alliances and arrangements that govern security across Europe.",
+      "context": "Russia wants to redraw it; European allies have long resisted, and US talk of a 'broader' version makes them wary."
+     }
+    ],
+    "quiz": {
+     "question": "Why is Europe's participation in the Abu Dhabi talks significant?",
+     "options": [
+      "Russia had suggested there would be no place for European representatives at the table",
+      "Ukraine has said it does not want European allies involved",
+      "The talks are being held at the level of national leaders",
+      "Europe is mediating the talks instead of the United States"
+     ],
+     "answer_index": 0,
+     "explanation": "The article notes Russia suggested there would be no room for Europeans, while Zelensky wanted them involved — so France confirming Europe will take part is notable. The US is mediating, the talks are at officials' level, and Zelensky wanted European allies in."
+    },
+    "background_beginner": "Russia invaded Ukraine on a large scale in 2022, triggering Europe's biggest war in decades. Ukraine, led by President Volodymyr Zelensky, has fought back with support from the United States, European nations and NATO (a Western military alliance). Russia, led by the Kremlin, wants to reshape Europe's security setup in its favour. Various rounds of talks have tried to end the fighting, sometimes including European nations and sometimes not. Now the US, under President Donald Trump, is mediating fresh talks in Abu Dhabi. The recurring tension is who gets a seat at the table — and whether any deal favours Moscow or protects Ukraine and its allies.",
+    "impact_score": 72,
+    "image_url": "https://s.france24.com/media/display/57d3784e-db7b-11f1-a752-a575454bc579/w:1280/p:16x9/2026-10-31T022255Z-1628715710-RC2ZDOAFTXRB-RTRMADP-3-G20-MINISTERS-1.jpg",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "France says Europe will be represented at US-mediated talks in Abu Dhabi this week aimed at ending the Ukraine war.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "125d29b9-508a-5f59-9f71-fabf8ce8d6f8",
+     "cec15dcf-d5c4-50bb-9868-53fea88f5128",
+     "d30189ff-6a38-5bdf-9167-96edac892f4b",
+     "d9ce4437-96d9-589d-bae9-6b7500514f5f"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-08T19:27:16.838192+00:00",
+    "published_date": "2026-11-09",
+    "has_fulltext": true
+   },
+   {
     "id": "28c71630-02c8-5e22-9820-4232c3e84dca",
     "title": "More than 140,000 rally as new protests against rising costs sweep France",
     "simplified_title": "Cost-of-living protests sweep France for a fourth weekend",
@@ -758,140 +793,61 @@
     "created_at": "2026-11-08T01:25:05.769659+00:00",
     "published_date": "2026-11-08",
     "has_fulltext": true
-   },
-   {
-    "id": "426ee3df-7cb9-518a-8bfa-4c44a8f9ee5c",
-    "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-    "simplified_title": "Fresh wave of hoax bomb threats disrupts European flights and media",
-    "quick_summary": "A third round of false bomb threats this week hit at least 18 European flights and several Irish and UK media outlets, with no explosives found but growing fears of a coordinated disruption campaign.",
-    "simplified_body": "On Friday, a fresh batch of bomb threats disrupted at least 18 flights to or from countries including Bulgaria, Cyprus, Czechia, France, Hungary, Italy, Portugal, Romania and the UK. Every affected aircraft landed safely and searches turned up no explosive devices. Prague saw the most alerts, with nine flights hit, while Hungary scrambled fighter jets three times to escort civilian planes. It was the third such wave in a week, bringing the total to more than 50 threatened flights.\n\nThe chaos spread beyond airports. Several media organisations — including Ireland's public broadcaster RTÉ, the Irish Independent and the UK's Sky — were evacuated or searched after receiving threats. Travellers faced delays and diversions, and newsroom staff were sent home. The Irish government called it a \"likely coordinated campaign of disruption\" designed to \"sow fear and anxiety\", though who's behind it remains unknown.\n\nHere's the background a newcomer needs: these are hoaxes, not real bombs, but authorities must treat each one seriously, which is exactly how the disruption works. Investigators say there's no evidence yet of a hostile state like Russia or Iran orchestrating it. Some threats were signed by \"Male State\", a Russian far-right movement, but its founder denies involvement and says the group disbanded years ago. Earlier in the week, cyber-attacks also targeted supermarket refrigeration systems across Europe.\n\nWhat next? European police and the North Atlantic Treaty Organization (NATO) are coordinating to find those responsible. Spain's foreign minister suspects \"hybrid aggression\" and \"psychological warfare\". Ireland, which hosts two EU meetings in Dublin next week, has activated extra security protocols.",
-    "why_it_matters": "It shows how cheap, simple hoaxes can grind travel and media to a halt and stoke public fear — a vulnerability any connected society, Australia included, shares as \"hybrid\" threats blur the line between crime, pranks and warfare.",
-    "deep_analysis": "## Historical Context\n\nHoax bomb threats are an old tactic with a new reach. Mark Rowley, head of London's Metropolitan Police, pointed back to the Irish Republican Army era and the phrase \"10p terrorism\" — when a single coin-operated phone-box call could shut down a city, forcing police to tell real threats from fake ones. The lesson he drew is that the cost to the attacker is tiny while the cost to society is huge. Today that same asymmetry plays out online, where an email to several newsrooms can ripple across a continent. This week's events sit alongside separate cyber-attacks on supermarket refrigeration systems and, per Italy's Meloni, French blood banks, suggesting civilian infrastructure is the emerging target.\n\n## Multiple Perspectives\n\nOfficials broadly agree the pattern looks deliberate, but they differ on how far to go. Spain's foreign minister José Manuel Albares called it the \"most reasonable assumption\" that Europe faces \"hybrid aggression\" and \"psychological warfare\", given the identical modus operandi across borders. Ireland's government and taoiseach Micheál Martin stressed the threats are serious but cautioned it isn't known whether individuals or a coordinated group are responsible. Investigators say there's no evidence of a hostile state or terror group directing it. Rowley urged restraint — adapting methods so authorities \"don't overreact to every message\". The \"Male State\" movement, named in some threats, flatly denies involvement. So the genuine disagreement is less about whether it's coordinated and more about who and why, and how hard to react.\n\n## What to Watch\n\nWatch whether investigators find concrete links between the aviation threats and the media evacuations — so far none has been established. Watch Ireland's EU presidency meetings in Dublin next week, an obvious pressure point. Watch whether attribution firms up toward a state actor or stays with anonymous individuals, and whether the \"this is only the beginning\" warning translates into more disruption. Finally, watch how authorities calibrate their response — too little risks a real device slipping through; too much hands the hoaxers exactly the chaos they want.",
-    "concepts": [
-     {
-      "term": "coordinated campaign of disruption",
-      "definition": "A series of linked actions deliberately planned to cause chaos and fear, rather than isolated one-off incidents.",
-      "context": "The Irish government used this phrase because the threats shared the same method and timing across many countries."
-     },
-     {
-      "term": "hybrid aggression",
-      "definition": "Hostile activity that mixes non-military tools — like hoaxes, cyber-attacks and disinformation — to pressure a society without open warfare.",
-      "context": "Spain's foreign minister suspects Europe is facing this, blurring the line between crime and conflict."
-     },
-     {
-      "term": "North Atlantic Treaty Organization (NATO)",
-      "definition": "A military alliance of European and North American countries that cooperate on defence and security.",
-      "context": "NATO said it was monitoring the situation and working closely with allies as the threats spread."
-     },
-     {
-      "term": "Male State",
-      "definition": "A Russian far-right, ultranationalist and misogynistic movement founded in 2016.",
-      "context": "Some Thursday threats were signed in its name, but its founder denies involvement and says it disbanded years ago."
-     }
-    ],
-    "quiz": {
-     "question": "Why do hoax bomb threats cause so much disruption even when no bombs are found?",
-     "options": [
-      "Because authorities must take every threat seriously, so each one triggers searches, diversions and evacuations",
-      "Because explosives are usually hidden and hard to detect",
-      "Because passengers refuse to board any aircraft after a threat",
-      "Because airlines are legally required to cancel all flights for a day"
-     ],
-     "answer_index": 0,
-     "explanation": "The threats are cheap to make but force a serious response every time — searches, diversions and evacuations — which is exactly how a false alarm creates real chaos."
-    },
-    "background_beginner": "This week, someone began sending fake bomb threats targeting flights and newsrooms across Europe. Three waves hit in a few days, disrupting more than 50 flights and forcing media outlets in Ireland and the UK, including broadcaster RTÉ, to evacuate. No actual bombs have been found — they're hoaxes, designed to cause fear and delays. The main players are European police forces, the NATO alliance and national governments trying to catch whoever's behind it. A group emailed newsrooms claiming responsibility and warning \"this is only the beginning\". Suspicion has touched a Russian extremist group called \"Male State\", which denies any part. It keeps coming up because such threats are cheap to send but costly to respond to, and officials fear a wider \"hybrid\" attack on everyday life.",
-    "impact_score": 58,
-    "image_url": "https://i.guim.co.uk/img/media/76d77d190f6f48df4bfe274ea1ec878897a2c676/394_0_4197_3359/master/4197.jpg?width=1920&quality=85&auto=format&fit=max&s=0628f547775f635e9dad6da19bf9e84e",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "A third round of false bomb threats this week hit at least 18 European flights and several Irish and UK media outlets, with no explosives found but growing fears of a coordinated disruption campaign.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "b8abf10b-8aa9-5fda-9141-d792ef3e7e18",
-     "f1386290-9682-5a57-82f3-c56d69d86d4a"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-07T07:26:19.858721+00:00",
-    "published_date": "2026-11-07",
-    "has_fulltext": true
    }
   ],
   "MIDDLE_EAST_AFRICA": [
    {
-    "id": "ca667764-ae44-53f5-8c27-fb4c51bd5fe3",
-    "title": "Trump confirms new US strikes on Iran’s Qeshm island",
-    "simplified_title": "Trump Confirms Fresh US Strikes on Iran's Qeshm Island",
-    "quick_summary": "President Trump has confirmed new \"minor\" US strikes on Iranian air defences at Qeshm Island, even as mediators report progress towards ending the war.",
-    "simplified_body": "US President Donald Trump has confirmed that American forces carried out fresh strikes on Iran's Qeshm Island on Friday, hitting an anti-aircraft system he described as \"minor\". Iranian state media reported two missile strikes in the Suza area, and said Iran's air defences shot down a US MQ-9 drone. US Central Command (CENTCOM), which runs US military operations in the Middle East, called the situation \"relatively calm\" and separately offered a reward of up to US$20 million for information about Iran's nuclear program.\n\nThis matters because Qeshm sits in the Strait of Hormuz, the narrow waterway that carries a huge share of the world's oil. Fighting there has disrupted shipping since the US war on Iran began in February, pushing up fuel prices felt across the global economy. The strikes are the first since Trump's Republican party suffered a heavy defeat in Tuesday's midterm elections — a result partly blamed on voter anger over the war and higher petrol costs.\n\nQatar has been acting as a go-between for the US and Iran. Its prime minister said at Oxford University that mediation is still active and had so far helped keep things from \"spiralling out of control\". Qatar also dismissed reports that talks had collapsed, saying such claims only help \"those seeking to prolong the war\".\n\nTrump has swung between threatening to \"destroy\" the rest of Iran and insisting a deal is near, saying \"they want to make a deal\". The thorniest sticking point remains Iran's nuclear program. Pentagon officials reportedly say thousands of US forces are poised to resume major combat if Trump orders it.",
-    "why_it_matters": "The Strait of Hormuz carries a large share of the world's oil, so any escalation there flows straight through to global fuel prices — including what Australians pay at the bowser.",
-    "deep_analysis": "## Historical Context\n\nThe Strait of Hormuz has long been one of the world's most strategically sensitive chokepoints, the sea route through which a large portion of globally traded oil passes. According to the sources, the US war on Iran began in February and has disrupted shipping through the strait ever since, feeding into higher fuel prices worldwide. Friday's action followed earlier \"defensive\" strikes on Monday, when explosions were reported on Qeshm and Hengam islands and near the mainland city of Bandar Abbas.\n\n## Multiple Perspectives\n\nThe accounts here diverge sharply by source. Trump frames the strikes as \"minor\" — knocking out a newly built anti-aircraft device \"in about 15 minutes, maybe five\" — while insisting talks are progressing and Iran \"wants to make a deal\". Iranian state media (IRIB) tells a more combative story, reporting two missile strikes and claiming Iran intercepted and destroyed a US MQ-9 drone. CENTCOM, caught between the two, says the situation is \"relatively calm\" and declines further comment. Qatar, the mediator, pushes back firmly against reports that negotiations have failed, warning such claims benefit only those wanting to prolong the war.\n\n## What to Watch\n\nWatch whether the \"progress\" Trump describes produces anything concrete, given the nuclear program remains the hardest issue. The US$20 million reward CENTCOM is offering for nuclear-related information sits oddly alongside talk of a deal. Pentagon officials reportedly say thousands of forces are ready to resume major combat on Trump's order, so the key question is which way he swings next — and whether Qatar's mediation can hold.",
+    "id": "5cd8fe39-3780-5a5c-ac38-51d14439dbfb",
+    "title": "Iran: US strikes ship after blockade breach",
+    "simplified_title": "US bombs ship and tightens squeeze on Iran's supply lines",
+    "quick_summary": "The US struck a cargo ship breaking its naval blockade on Iran and launched a new task force to choke off Iran's land and Caspian Sea supply routes.",
+    "simplified_body": "The United States said its military struck a commercial ship, the M/V Huda, after it tried to leave regional waters following a visit to an Iranian port, breaching a US naval blockade. The US Central Command (CENTCOM) posted video of an explosion on the ship's stern, saying the civilian crew ignored repeated warnings. Authorities in the United Arab Emirates (UAE) said 22 people were rescued from a burning vessel in the Gulf of Oman.\n\nThe US also announced Task Force Iron Gate, a unit meant to cut off Iran's land borders and the Caspian Sea, on top of the existing sea blockade. The idea is to stop advanced weapons, dual-use technologies and sanctioned goods moving across Iran's borders with its seven neighbours. The same day, Iran's Islamic Revolutionary Guard Corps (IRGC) unveiled plans for underground complexes to keep making missiles and drones under bombardment.\n\nThis sits inside a wider war that started in late February. The US blockade aims to pressure Iran into lifting its own blockade of the Strait of Hormuz, through which a fifth of the world's oil and gas once flowed. Iran has attacked tankers passing without approval, and energy prices spiked worldwide. Separately, debris from an intercepted missile aimed at Riyadh damaged an Aramco building, part of escalating clashes between Saudi Arabia and Yemen's Houthis.\n\nAnalysts are split on whether the new task force will work. Some say the US has no Caspian Sea access and Iran's ancient trading networks are near impossible to seal. Others warn it could spark a confrontation with Russia, which US media report has sent drone parts via the Caspian. One former aide claims CENTCOM is trying to escalate while diplomats negotiate.",
+    "why_it_matters": "The Strait of Hormuz carries a fifth of the world's oil and gas, so any escalation there feeds straight into global energy prices Australians pay at the bowser and on power bills.",
+    "deep_analysis": "## Historical Context\n\nThe Strait of Hormuz has long been one of the world's most sensitive chokepoints, and threats to close it have periodically rattled energy markets for decades. In this conflict, which the sources date to late February, Iran blockaded the waterway and the US responded with its own naval blockade of Iranian ports. Washington is now extending that pressure to land routes and the Caspian Sea through Task Force Iron Gate, based in Tampa, Florida. One analyst notes Iran has been a trading nation for thousands of years, with webs of commercial contacts across Asia that make a full economic seal extremely hard.\n\n## Multiple Perspectives\n\nCENTCOM frames the task force as reinforcing an \"ironclad blockade\" and cutting the regime off from weapons and funding. Iran's IRGC dismissed it as \"just a play on words,\" noting earlier US predictions of Iranian economic collapse within two weeks did not come true. Independent analysts are sceptical for practical reasons: the US has no Caspian presence, and neighbours like Azerbaijan and Armenia reportedly won't collaborate for fear of upsetting Russia. One professor estimates the Caspian is only about 11 percent of Iran's economy (a figure Al Jazeera could not verify). A former Trump aide went further, alleging CENTCOM is deliberately escalating to subvert ongoing diplomacy — a serious, unverified claim.\n\n## What to Watch\n\nWatch whether Trump orders renewed strikes, which the Wall Street Journal reports senior officials are urging. Watch the Russia angle: US media report Russia has supplied drone components via the Caspian, and the task force could risk direct confrontation. And watch the parallel Saudi-Houthi escalation, including the damaged Aramco building, as a second front that could widen the regional war.",
     "concepts": [
      {
+      "term": "naval blockade",
+      "definition": "A military operation that uses ships and aircraft to stop vessels entering or leaving a country's ports, cutting off trade and supplies.",
+      "context": "The US is using a naval blockade of Iranian ports to pressure Tehran, and struck a ship trying to breach it."
+     },
+     {
       "term": "Strait of Hormuz",
-      "definition": "A narrow stretch of water between Iran and the Arabian Peninsula that serves as a crucial route for a large share of the world's oil shipments.",
-      "context": "Qeshm Island, where the strikes occurred, sits in the Strait of Hormuz."
+      "definition": "A narrow sea passage between Iran and the Arabian Peninsula through which a large share of the world's oil and gas is shipped.",
+      "context": "Iran blockaded the Strait of Hormuz, spiking global energy prices, which triggered the US counter-blockade."
      },
      {
-      "term": "CENTCOM",
-      "definition": "US Central Command, the arm of the US military responsible for operations across the Middle East.",
-      "context": "CENTCOM called the situation 'relatively calm' and offered a reward for nuclear information."
-     },
-     {
-      "term": "MQ-9 drone",
-      "definition": "A large remotely piloted US military aircraft used for surveillance and strikes.",
-      "context": "Iran claimed its air defences shot down a US MQ-9 drone over Qeshm Island."
-     },
-     {
-      "term": "midterm elections",
-      "definition": "US elections held partway through a presidential term that decide seats in Congress and can shift political power.",
-      "context": "The strikes were the first since Trump's Republicans lost heavily in Tuesday's midterm elections."
+      "term": "dual-use technologies",
+      "definition": "Goods or tech that have both ordinary civilian uses and potential military applications, making them hard to regulate.",
+      "context": "Task Force Iron Gate aims to block dual-use technologies from crossing Iran's borders."
      }
     ],
     "quiz": {
-     "question": "Why does fighting around Qeshm Island carry global economic consequences?",
+     "question": "Why do several analysts doubt Task Force Iron Gate will seriously damage Iran's economy?",
      "options": [
-      "It hosts the world's largest stock exchange",
-      "It controls the Suez Canal",
-      "The island is a major manufacturing hub",
-      "It sits in the Strait of Hormuz, a crucial route for oil shipments"
+      "Because Iran has no land borders with other countries",
+      "Because Iran has already agreed to lift its Strait of Hormuz blockade",
+      "Because the US has no Caspian presence and Iran has vast, ancient trading networks that are hard to seal",
+      "Because the task force has more than 10,000 troops committed to it"
      ],
-     "answer_index": 3,
-     "explanation": "Qeshm Island is in the Strait of Hormuz, through which a large share of the world's oil is shipped, so disruption there pushes up fuel prices globally."
+     "answer_index": 2,
+     "explanation": "Analysts note the US lacks any military presence on the Caspian Sea, neighbours won't collaborate for fear of upsetting Russia, and Iran's thousands of years of trading contacts make a full seal near impossible."
     },
-    "background_beginner": "The United States and Iran have been in open conflict since a US war on Iran began in February. Much of the friction centres on the Strait of Hormuz — a narrow waterway near Iran that carries a big chunk of the world's oil — and on Iran's nuclear program, which the US wants reined in. President Donald Trump has gone back and forth between threatening all-out strikes and hinting a peace deal is close. Qatar, a small Gulf nation, has been acting as a trusted go-between to calm tensions. It keeps coming up because every flare-up near the strait risks spiking global fuel prices and dragging the wider region into a bigger war.",
-    "impact_score": 78,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee8e25881e-1794018853.jpg?resize=1920%2C1440",
+    "background_beginner": "This is about a war between the United States and Iran that, according to these reports, began in late February. Iran blockaded the Strait of Hormuz, a narrow sea lane carrying much of the world's oil, which pushed energy prices up globally. The US answered with a naval blockade of Iran's ports and is now trying to also cut off Iran's land borders and Caspian Sea routes to stop weapons and money flowing in. Key players include the US military command CENTCOM, Iran's Revolutionary Guards, and US President Donald Trump. It keeps resurfacing because the region is a vital energy hub, and outside powers like Russia are reportedly involved.",
+    "impact_score": 72,
+    "image_url": "https://static.dw.com/image/79862218_6.jpg",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "President Trump has confirmed new \"minor\" US strikes on Iranian air defences at Qeshm Island, even as mediators report progress towards ending the war.",
+    "description": "The US struck a cargo ship breaking its naval blockade on Iran and launched a new task force to choke off Iran's land and Caspian Sea supply routes.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss"
+      "name": "DW",
+      "url": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-rdf"
      },
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss"
      }
     ],
     "source_count": 2,
@@ -902,17 +858,15 @@
      "4baeb561-9dde-5523-9cc1-d2b0ea035a8e",
      "5308dde1-05e0-5095-8f85-5cb1b422b338",
      "557dcd33-1a01-5f2b-9c3c-7cf791cbb8b1",
-     "7827fbef-2c69-5fe5-a84c-09826397aff5",
-     "a1953172-37fc-55b9-a715-9bbde7c2c360",
      "adabd6c4-a1b8-5204-9a50-3b162f5bf191",
+     "ca667764-ae44-53f5-8c27-fb4c51bd5fe3",
      "d025b221-113a-5b01-bf00-95483374ddb9",
-     "d83687dc-daf6-5e1c-87b9-7f98e012cce1",
      "dfb86a2d-f459-5921-b7af-108cd7ffcf2b",
      "e5a91d18-7570-53b7-8a3e-97e5a67f9670"
     ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-07T07:26:12.320713+00:00",
-    "published_date": "2026-11-07",
+    "reading_minutes": 1,
+    "created_at": "2026-11-08T19:26:59.009818+00:00",
+    "published_date": "2026-11-09",
     "has_fulltext": true
    },
    {
@@ -990,6 +944,71 @@
     "has_fulltext": true
    },
    {
+    "id": "de1817c1-edbf-5bc7-bc41-750c40f2631a",
+    "title": "South Africa elections: ANC marks its worst-ever performance",
+    "simplified_title": "South Africa's ANC Slumps to Worst-Ever Election Result",
+    "quick_summary": "South Africa's long-dominant ANC won under 31% in municipal elections, its worst result ever, forcing tough coalition talks in major cities.",
+    "simplified_body": "South Africa's African National Congress (ANC) has recorded the worst election result in its history. Final figures published on Sunday gave the party less than 31% of the vote in Wednesday's municipal (local council) polls, while its closest rival, the Democratic Alliance (DA), took just under 25%. The ANC lost its majority in six of the country's eight metropolitan regions, meaning politicians now face difficult coalition talks to form city governments.\n\nThis matters for ordinary South Africans because councils run everyday services. Many voters are fed up with water and electricity shortages, high unemployment, crime and corruption, and they've blamed the ANC for the poor state of their municipalities. ANC Secretary-General Fikile Mbalula called the outcome \"catastrophic\" and said the party must win back public trust rather than relying on its history.\n\nThe ANC has deep roots: once led by Nelson Mandela, it helped end apartheid — the old system of racial segregation — and took power in 1994 when South Africa became a democracy. It governed with an outright majority for most of that time, but support has steadily slipped, from 46% in the 2021 municipal elections to just over 40% nationally in 2024, when it lost its parliamentary majority for the first time.\n\nNext come coalition negotiations. The pro-business, centre-right DA looks set to keep Cape Town and is reaching out to other parties to form governments, including in Pretoria and Johannesburg, that exclude the ANC. Analysts say the result weakens the ANC's authority and could signal voter mood ahead of the 2029 general elections.",
+    "why_it_matters": "South Africa is a major G20 economy and a key trading partner for Australia, so political instability and the decline of the party that ended apartheid carry weight well beyond its borders.",
+    "deep_analysis": "## Historical Context\n\nThe ANC is one of Africa's most storied liberation movements. It led the struggle against apartheid, the system of enforced racial segregation, and swept to power in 1994 under Nelson Mandela when South Africa held its first fully democratic elections. For roughly three decades it governed with an absolute majority. That dominance has been unwinding: the article notes the party won 46% at the 2021 municipal elections, then just over 40% nationally in 2024 — the year it lost its outright parliamentary majority for the first time and formed a cross-party national unity government. The sub-31% municipal result now stands as its worst ever.\n\n## Multiple Perspectives\n\nThe ANC itself is not sugar-coating it: Secretary-General Fikile Mbalula branded the result \"catastrophic\" and conceded the party cannot trade on its history alone, while President Cyril Ramaphosa acknowledged that \"municipal failures\" have eroded public trust. The DA, framed as pro-business and centre-right, sees opportunity — leader Geordin Hill-Lewis says the campaigning is over and it is time to build governments that \"fix these towns and cities,\" and the party is courting coalition partners to govern without the ANC. Political analyst Daniel Silke calls it the ANC's worst result in history and warns it undermines the party's authority at both local and national levels.\n\n## What to Watch\n\nThe immediate story is coalition-building, with no outright winner in several big cities and the DA holding Cape Town. Who governs Johannesburg and Pretoria, and whether those coalitions shut out the ANC, will shape service delivery and stability. Longer term, Silke suggests the vote is a \"bellwether\" for the 2029 general elections — watch whether the ANC can rebuild trust on water, electricity, jobs and corruption, or whether its slide continues.",
+    "concepts": [
+     {
+      "term": "African National Congress (ANC)",
+      "definition": "South Africa's governing party since 1994, which led the fight against apartheid and has long been the country's dominant political force.",
+      "context": "The article reports the ANC recording its worst-ever election result, under 31% of the vote."
+     },
+     {
+      "term": "municipal",
+      "definition": "Relating to local government — the councils that run cities and towns and deliver services like water and electricity.",
+      "context": "The poor ANC result came in Wednesday's municipal polls, which decide who runs local councils."
+     },
+     {
+      "term": "coalition",
+      "definition": "An agreement where two or more parties govern together because no single party won an outright majority.",
+      "context": "With no clear winner in several cities, parties face tough coalition talks to form governments."
+     },
+     {
+      "term": "apartheid",
+      "definition": "South Africa's former system of enforced racial segregation, which the ANC helped bring to an end.",
+      "context": "The ANC, once led by Nelson Mandela, was instrumental in ending apartheid and took power in 1994."
+     }
+    ],
+    "quiz": {
+     "question": "Why is the ANC's municipal election result being described as historically significant?",
+     "options": [
+      "It is the ANC's worst-ever result, dropping below 31% and losing majorities in most metros",
+      "It is the first time the ANC has ever contested local elections",
+      "It means the ANC has been banned from forming any government",
+      "It gave the Democratic Alliance an outright national majority"
+     ],
+     "answer_index": 0,
+     "explanation": "The article states it is the ANC's worst result in history, with under 31% of the vote and the loss of its majority in six of eight metropolitan regions. The DA won just under 25%, not an outright majority."
+    },
+    "background_beginner": "South Africa is a large, diverse country at the southern tip of Africa. For most of the 20th century it was ruled under apartheid, a system that segregated people by race. The African National Congress (ANC), once led by Nelson Mandela, led the resistance and won power in 1994 at the first democratic election, then governed with a strong majority for decades. In recent years, frustration over corruption, unemployment, crime and failing basic services like water and electricity has steadily eaten into the ANC's support. This latest local-council election — its worst ever — is the newest sign of that decline, and it keeps making headlines because the ANC is a symbol of the end of apartheid.",
+    "impact_score": 68,
+    "image_url": "https://static.dw.com/image/79887773_6.jpg",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "South Africa's long-dominant ANC won under 31% in municipal elections, its worst result ever, forcing tough coalition talks in major cities.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "be051c32-b74a-546a-9f69-d8bb285a9609"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-08T19:26:55.803172+00:00",
+    "published_date": "2026-11-09",
+    "has_fulltext": true
+   },
+   {
     "id": "7308cd9f-3015-5c23-9b39-94db15faaabb",
     "title": "Houthis say at least 25 killed in Saudi air strike",
     "simplified_title": "Deadly strikes near Yemen's capital as war flares again",
@@ -1055,344 +1074,206 @@
     "created_at": "2026-11-08T01:25:07.044167+00:00",
     "published_date": "2026-11-08",
     "has_fulltext": true
-   },
-   {
-    "id": "be051c32-b74a-546a-9f69-d8bb285a9609",
-    "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-    "simplified_title": "ANC heads for heavy loss in South African local elections",
-    "quick_summary": "Nelson Mandela's former party, the ANC, has slumped to under a third of the national vote in South Africa's local elections, signalling a deepening decline.",
-    "simplified_body": "South Africa held local elections on Wednesday, and with more than 80% of ballots counted the African National Congress (ANC) sat on just 31.8% of the national vote — nearly 14 percentage points below its 2021 result. The centre-right, white-led Democratic Alliance (DA) was second on 24.1%, and the uMkhonto weSizwe (MK) party of former president Jacob Zuma was on 9.3%. Turnout rose to an estimated 54.5%, up from 46% five years ago. Final results are expected Sunday.\n\nThis matters for millions of South Africans frustrated by high unemployment, crime, corruption and failing local services. The ANC is projected to lose its spot as the biggest party in the two most populous provinces, Gauteng and KwaZulu-Natal. In Johannesburg — a city of 4.8 million grappling with water and power cuts, uncollected rubbish and a 220bn rand (£9.9bn) infrastructure backlog — the DA led on 40%, ahead of the ANC's 17.5%.\n\nFor background: the ANC led South Africa out of white minority apartheid rule in 1994 and has governed nationally ever since, but its support has steadily slipped. Voters pick a councillor and a party, with seats shared by proportional representation. The MK party, founded in 2023, blends socially conservative Zulu nationalism with pledges to redistribute land and wealth from white to black South Africans.\n\nWhat happens next hinges on coalitions. Parties have begun closed-door negotiations, and councillors have two weeks to elect mayors and form municipal governments. In Durban's eThekwini, where MK led on 41%, rivals could still combine to keep it out of power, while the DA looks set to hold Cape Town.",
-    "why_it_matters": "South Africa is a major G20 economy and a key partner for Australia, so the steady fading of the ANC and the messy rise of coalition politics there signals real instability in one of Africa's most important democracies.",
-    "deep_analysis": "## Historical Context\n\nThe African National Congress emerged from the anti-apartheid struggle as a liberation movement and, under Nelson Mandela, led South Africa's first democratic government in 1994 after the end of white minority rule. For three decades it has governed nationally, but its dominance has frayed. Persistent unemployment, crime, corruption scandals and crumbling local services have gradually eroded the loyalty it once commanded. This local election, with the party dropping to 31.8% nationally and nearly 14 points below its 2021 showing, is the latest chapter in that long decline.\n\n## Multiple Perspectives\n\nThe result reflects a deeply fragmented electorate. The DA, running an energetic campaign under 75-year-old Helen Zille, is pitching itself as a competent manager of broken cities like Johannesburg. ActionSA, led by Herman Mashaba, occupies the right — and the personal animosity between Mashaba and Zille (he calls her \"racist\"; she denies it) hints at how fraught coalition-building will be. Meanwhile Zuma's MK party, mixing Zulu nationalism with land-and-wealth redistribution, is drawing away former ANC voters, especially in KwaZulu-Natal. Senior figures say they'll \"talk with almost anyone\", underscoring that governance now depends on uneasy deals rather than clear mandates.\n\n## What to Watch\n\nFinal results are due Sunday, but the real story is coalition formation. Councillors have two weeks to elect mayors and form municipal governments. Watch Johannesburg, where the CSIR projects a DA-ANC-ActionSA scramble, and eThekwini (Durban), where parties may unite to lock MK out despite its lead. Johannesburg's record of 10 mayors in a decade is a warning: unstable coalitions could mean more years of service failures for residents.",
-    "concepts": [
-     {
-      "term": "African National Congress (ANC)",
-      "definition": "South Africa's former liberation movement, led by Nelson Mandela, which has governed the country nationally since the end of apartheid in 1994.",
-      "context": "The African National Congress (ANC) sat on just 31.8% of the national vote."
-     },
-     {
-      "term": "Democratic Alliance (DA)",
-      "definition": "A centre-right, largely white-led opposition party that governs the city of Cape Town and runs on a platform of efficient service delivery.",
-      "context": "The centre-right, white-led Democratic Alliance (DA) was second on 24.1%."
-     },
-     {
-      "term": "proportional representation",
-      "definition": "An electoral system where parties win seats roughly in proportion to their share of the vote, rather than winner-takes-all.",
-      "context": "Voters pick a councillor and a party, with seats shared by proportional representation."
-     },
-     {
-      "term": "coalitions",
-      "definition": "Alliances formed between multiple parties to jointly govern when no single party wins an outright majority.",
-      "context": "What happens next hinges on coalitions."
-     }
-    ],
-    "quiz": {
-     "question": "Why is coalition-building central to the outcome of these elections?",
-     "options": [
-      "Because South African law bans single-party rule",
-      "Because the DA refuses to govern any city alone",
-      "Because no single party has clear dominance, so parties must negotiate to form municipal governments",
-      "Because the ANC won an outright majority and must choose partners"
-     ],
-     "answer_index": 2,
-     "explanation": "With the ANC falling below a third of the vote and the field fragmented among the DA, MK, ActionSA and others, no party commands a clear majority, so councillors have two weeks to negotiate coalitions and elect mayors."
-    },
-    "background_beginner": "South Africa's African National Congress (ANC) is the party of Nelson Mandela that led the country out of apartheid — the system of white minority rule — in 1994. It has governed nationally ever since, but voters have grown frustrated with unemployment, crime, corruption and poor local services like water, power and rubbish collection. Rival parties include the centre-right Democratic Alliance (DA), which runs Cape Town, and the newer MK party of former president Jacob Zuma. In local elections, South Africans vote for city and town councils. The ANC's shrinking support keeps making headlines because it signals the end of one party's long grip on power and a shift towards messy coalition government.",
-    "impact_score": 68,
-    "image_url": "https://i.guim.co.uk/img/media/ca80f1733421e850930a8c2267b7214219fef832/507_0_5007_4005/master/5007.jpg?width=1920&quality=85&auto=format&fit=max&s=4834e6e57c9272610db188011d2acd66",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Nelson Mandela's former party, the ANC, has slumped to under a third of the national vote in South Africa's local elections, signalling a deepening decline.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "637e7fca-39d1-58cb-be79-5a96e227375b"
-    ],
-    "reading_minutes": 2,
-    "created_at": "2026-11-07T07:26:14.096734+00:00",
-    "published_date": "2026-11-07",
-    "has_fulltext": true
    }
   ],
   "AMERICAS": [
    {
     "id": "655bcfb7-db6c-5843-9950-e55740337083",
-    "title": "Paraguay's President Santiago Peña impeached and arrested",
-    "simplified_title": "Paraguay's president ousted and arrested after bank collapse",
-    "quick_summary": "Paraguay's President Santiago Peña has been impeached and placed under house arrest after the collapse of Ueno Bank left millions of people unable to reach their savings.",
-    "simplified_body": "Paraguay's President Santiago Peña was impeached and put under house arrest on Friday, just minutes after senators voted almost unanimously to remove him. The trigger was the collapse earlier in the week of Ueno Bank, a lender tied to his former business interests. Peña had offered to resign on Thursday, but senators refused to accept it and instead impeached and charged him with misconduct — stripping him of the immunity usually given to ex-presidents, who in Paraguay become senators for life.\n\nThe fallout is huge. When the central bank seized Ueno over insolvency, it froze the accounts of about 2.9 to 3 million people — roughly 60% of the country's adult population. Overnight, families couldn't pay for basics like bread and water, retail sales reportedly fell by as much as 80%, and long queues formed outside branches in the capital, Asunción. Protests spread, with some clashes where police used tear gas and water cannons.\n\nHere's the background. Ueno grew from an obscure digital bank into one of Paraguay's largest lenders in just a few years, luring customers with cash-back offers and even sponsoring the national football team. Peña, a 47-year-old economist, had held around US$1m (about one million US dollars) in shares in the group behind it, selling only in April 2025. Critics say he steered an estimated US$800m to US$860m in state and pension funds into the bank. He denies any wrongdoing.\n\nPeña's deputy, Pedro Alliana, has been sworn in as interim president until 2028 and promised affected people will be \"fully compensated\". Peña was due to be questioned on Saturday, and analysts expect him to be prosecuted over the bank's collapse.",
-    "why_it_matters": "A president being arrested over a banking collapse that locked out most of a nation's savers is a rare, dramatic reminder of how quickly a bank failure can become a political earthquake — and of why deposit protection and independent regulators matter everywhere, including here in Australia.",
-    "deep_analysis": "## Historical Context\n\nParaguay has one of South America's longer shadows of authoritarian rule, having emerged from decades of dictatorship into democracy in the late 1980s. Senators framing this as \"one of the biggest corruption scandals since the return of democracy\" lands with real weight in that light. Peña's Colorado party has dominated Paraguayan politics for most of that era, which makes the near-unanimous vote against him — including from his own party and his former ally, ex-president Horacio Cartes — especially striking. Ueno itself began life as a finance company in the 1970s before being bought by the Grupo Vázquez conglomerate in 2021 and winning digital-bank authorisation under Peña's administration.\n\n## Multiple Perspectives\n\nOpposition senator Rafael Filizzola calls this \"the biggest fraud carried out from political power in the democratic era\", alleging a bank built to funnel public money into private, politically linked business. Prosecutors are investigating Peña over illicit enrichment, money laundering, influence peddling and breach of trust, and point to his appointment of a former Ueno chief executive, Carlos Carvallo Spalding, to run the central bank that then regulated the bank. Peña and his lawyer Ricardo Preda reject all of this: Peña says he held shares purely as an \"investor\", had already sold them, and earlier dismissed criticism as a \"false media campaign\". He apologised to Paraguayans but insists he committed no wrongdoing.\n\n## What to Watch\n\nWatch Saturday's questioning and whether formal criminal prosecution follows now that immunity is gone. Watch how — and how fast — the state actually compensates roughly three million frozen depositors, since that promise is the new government's biggest test. Watch Alliana, who has himself been linked to the scandal (which he denies). And watch Washington: Peña was a key regional ally of US President Donald Trump, praised by Secretary of State Marco Rubio as a \"strategic partner\", yet neither had commented at the time of writing.",
+    "title": "Paraguay's President Santiago Peña impeached and under house arrest",
+    "simplified_title": "Paraguay's president impeached and charged over bank collapse",
+    "quick_summary": "Paraguay's senators unanimously removed President Santiago Peña from office and charged him over a banking scandal that locked millions out of their savings.",
+    "simplified_body": "Santiago Peña, Paraguay's president, has been impeached, placed under house arrest and charged by prosecutors over a banking scandal. The trouble centres on the collapse of Ueno Bank, a digital bank linked to his private business interests. Lawmakers — including members of his own party — voted 44 to 1 to remove him, and he was arrested minutes later. He denies any wrongdoing.\n\nThis hits millions of ordinary Paraguayans hard. When the central bank seized Ueno, more than half the country's population lost access to their accounts, with an estimated three million depositors unable to reach their savings and pensions. Long queues formed outside branches in the capital, Asunción, and protests broke out, with police using tear gas and water cannons.\n\nHere's the background a newcomer needs. Impeachment is a formal process where lawmakers remove an official from office. Peña offered to resign, but senators instead impeached and charged him, stripping away the immunity from prosecution that ex-presidents usually get. The charges allege conflicts of interest, diverting pension funds, manipulating regulatory oversight and a cover-up involving the central bank. He held shares until last year in the company that owned the bank.\n\nHis deputy, Pedro Alliana, has been sworn in as interim president until 2028 and promised that affected people will be \"fully compensated\". Analysts say Peña is likely to face prosecution over the collapse. His lawyer calls the allegations \"reckless\" and \"opportunistic\". What happens next depends on whether depositors get their money back and how the courts handle the case.",
+    "why_it_matters": "A sitting president toppled by his own party over a bank failure that froze the savings of half a nation shows how quickly a financial collapse can become a political earthquake — a reminder, even for Australians, of how much trust underpins a banking system.",
+    "deep_analysis": "## Historical Context\n\nParaguay is a South American country that returned to democracy after decades of authoritarian rule, so events described by one senator as \"the biggest corruption scandal in our democratic history\" carry real weight. Presidential impeachments are rare and dramatic anywhere, and they are especially striking when lawmakers from the president's own party join in — here the vote was 44 of 45 senators in favour. The collapse of Ueno Bank, a digital bank tied to Peña's private interests, is the trigger, and the fact he held shares in the company that owned it until last year sits at the heart of the conflict-of-interest claims.\n\n## Multiple Perspectives\n\nSenators framed this as a matter of public trust: senate president Basilio Núñez said Peña was guilty of \"dereliction of duty\", and Senator Rafael Filizzola called it \"a tremendous blow to the state\" and the country's credibility. Peña, by contrast, insists he never intended \"to betray the trust\" placed in him and says his priority was savers' peace of mind. His defence lawyer, Ricardo Preda, goes further, branding the accusations \"reckless\", \"irresponsible and opportunistic\". Interim president Pedro Alliana is trying to steady the ship, pledging that affected depositors will be \"fully compensated\".\n\n## What to Watch\n\nThe big open question is whether the three million locked-out depositors actually recover their savings and pensions, and how fast. Alliana's compensation promise will be tested against reality. Legally, analysts expect Peña to be prosecuted now that his immunity is gone, so the court case is the next chapter. Watch too for continued protests and whether the political fallout spreads beyond Peña to others named in the alleged central-bank cover-up.",
     "concepts": [
      {
       "term": "impeached",
-      "definition": "A formal process where lawmakers charge a sitting official with serious misconduct, which can lead to their removal from office.",
-      "context": "Paraguay's Congress impeached Peña rather than simply accepting his resignation, which let them strip his legal protections."
+      "definition": "A formal process in which lawmakers vote to remove a government official, such as a president, from office.",
+      "context": "Peña was impeached by senators rather than being allowed to resign."
      },
      {
       "term": "immunity",
-      "definition": "Legal protection that shields certain officials from ordinary criminal prosecution while they hold a position.",
-      "context": "In Paraguay ex-presidents become senators for life and keep immunity; impeachment removed Peña's, exposing him to the ordinary courts."
+      "definition": "Legal protection that shields certain officials from prosecution; ex-presidents often keep it after leaving office.",
+      "context": "By charging him, senators stripped Peña of the immunity usually granted to ex-presidents."
      },
      {
-      "term": "insolvency",
-      "definition": "When an institution can't pay what it owes, meaning its debts outweigh what it can actually hand over.",
-      "context": "Paraguay's central bank seized Ueno over insolvency, freezing millions of accounts."
+      "term": "central bank",
+      "definition": "A country's main public financial authority, which oversees the banking system and can seize failing banks.",
+      "context": "Paraguay's central bank seized Ueno Bank, leaving depositors unable to access their money."
      },
      {
-      "term": "conflict of interest",
-      "definition": "A situation where someone's private interests could improperly sway the decisions they make in an official role.",
-      "context": "Peña was accused of a conflict of interest because he had held shares in the group behind the bank his government regulated and funded."
+      "term": "conflicts of interest",
+      "definition": "Situations where someone's personal or financial interests clash with their public duties.",
+      "context": "The charges allege Peña had conflicts of interest because the collapsed bank was linked to his business."
      }
     ],
     "quiz": {
-     "question": "Why did Paraguay's senators impeach Peña instead of simply accepting his resignation?",
+     "question": "Why was the collapse of Ueno Bank so politically damaging for President Peña?",
      "options": [
-      "They wanted to let him keep his senate seat for life",
-      "Resignations are illegal under Paraguay's constitution",
-      "It was the only way to appoint his deputy as president",
-      "Impeachment stripped him of the immunity ex-presidents normally keep, exposing him to ordinary courts"
+      "He had personally guaranteed every depositor's savings in writing",
+      "The bank was owned by a foreign government he had criticised",
+      "The central bank refused to get involved in the rescue",
+      "The bank had links to his private business interests and he had held shares in its owner"
      ],
      "answer_index": 3,
-     "explanation": "Peña tried to resign to keep the special jurisdiction ex-presidents enjoy as senators for life. By impeaching and charging him instead, lawmakers removed that immunity, leaving him to face criminal proceedings in the ordinary courts."
+     "explanation": "The scandal was damaging because Ueno Bank had links to Peña's private business interests and he held shares in the company that owned it until last year, fuelling conflict-of-interest allegations."
     },
-    "background_beginner": "Paraguay is a landlocked country in South America. Its president, Santiago Peña, is a 47-year-old economist from the long-dominant Colorado party who took office in 2023 and was a close regional ally of US President Donald Trump. At the heart of this crisis is Ueno Bank, which shot from obscurity to become one of Paraguay's biggest lenders, winning customers with cash-back deals and even sponsoring the national football team. Peña had once owned shares in the group behind it. When the central bank seized Ueno over insolvency this week, around 60% of adults suddenly couldn't reach their money — sparking protests, his resignation, and then his impeachment and arrest.",
+    "background_beginner": "Paraguay is a landlocked country in South America. Its president, Santiago Peña, is the central figure here. The crisis began when Ueno Bank — a digital bank connected to Peña's private business interests — collapsed and was seized by the country's central bank. That left more than half the population, an estimated three million people, unable to reach their savings and pensions, sparking angry protests. Lawmakers, including some from Peña's own party, voted almost unanimously to remove him from office and charged him with misconduct. He denies wrongdoing. The story keeps coming up because millions are still waiting to get their money back and Peña now faces possible prosecution.",
     "impact_score": 72,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
     "region": "North & South America",
     "region_code": "AMERICAS",
-    "description": "Paraguay's President Santiago Peña has been impeached and placed under house arrest after the collapse of Ueno Bank left millions of people unable to reach their savings.",
+    "description": "Paraguay's senators unanimously removed President Santiago Peña from office and charged him over a banking scandal that locked millions out of their savings.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
+    "source_count": 1,
+    "confidence": 0.55,
     "related_story_ids": [
      "44f68094-d233-5148-be79-859dcb19761b"
     ],
     "reading_minutes": 2,
-    "created_at": "2026-11-07T07:26:16.083105+00:00",
-    "published_date": "2026-11-07",
+    "created_at": "2026-11-08T19:27:24.996405+00:00",
+    "published_date": "2026-11-09",
     "has_fulltext": true
    },
    {
-    "id": "609764e9-81b2-5c0d-a8a8-f61fdb0ddd81",
-    "title": "Trump to replace chief of staff with hardline deputy Stephen Miller",
-    "simplified_title": "Trump Makes Immigration Hardliner Stephen Miller His Chief of Staff",
-    "quick_summary": "Donald Trump has replaced chief of staff Susie Wiles with Stephen Miller, the architect of his hardline immigration crackdown, days after Republicans lost both houses of Congress.",
-    "simplified_body": "US President Donald Trump has named Stephen Miller as his new White House chief of staff, taking over on Monday from Susie Wiles. The chief of staff is one of Washington's most powerful jobs — the gatekeeper to the president and the main negotiator with Congress. Trump said he \"wanted to make a change\" and that Miller \"gets it\". The sources differ on exactly how Wiles left: ABC frames it as Trump removing her, while the BBC reports she submitted her resignation, which three sources linked to the election losses.\n\nThe move affects how Trump governs his final two years. It comes just after this week's midterm elections — the mid-term national vote held halfway through a president's term — in which Democrats won control of both the House and Senate. Miller, 41, is best known for driving the administration's mass deportations and pressing US Immigration and Customs Enforcement (ICE) to lift arrest numbers.\n\nWiles, seen as a stabilising force, co-ran Trump's 2024 campaign. She had faced cancer; ABC says she was diagnosed with breast cancer in March, while the BBC reports she announced remission in September. As recently as last month, Trump said there was \"zero chance\" she'd be replaced.\n\nPicking a \"firebrand\" rather than offering an olive branch suggests Trump is bracing for battle. Democrats reacted furiously — House leader Hakeem Jeffries called Miller \"a dangerous xenophobe\". With Democrats promising new investigations and 58% of voters telling pollsters immigration enforcement had \"gone too far\", clashes with Congress look likely.",
-    "why_it_matters": "The chief of staff shapes how the world's most powerful government operates, so installing a combative hardliner signals confrontation rather than compromise — and US immigration and trade decisions ripple out to allies like Australia.",
-    "deep_analysis": "## Historical Context\n\nThe White House chief of staff controls access to the president, sets the agenda and negotiates with Congress. Susie Wiles, who co-managed Trump's successful 2024 re-election campaign, had earned a reputation as a cool professional who avoided the staff upheavals and policy reversals that marked Trump's first term. Stephen Miller, by contrast, has been with Trump since early in his 2016 campaign, serving as a strategist and warm-up speaker at rallies. He stayed loyal through Trump's post-2020 exile and returned as deputy chief of staff for policy. Before Trump, he worked for hardline Alabama Senator Jeff Sessions, where he honed the immigration positions he's now famous for.\n\n## Multiple Perspectives\n\nThe sources diverge on how Wiles departed: ABC presents it as Trump removing her (\"I want to make a change\"), while the BBC reports she submitted her resignation, tied by three sources to the midterm losses. On Miller himself, views are sharply split. Republican Senator Mike Lee hailed him as a \"conservative warrior\", and Trump praised him as \"very good politically\" and \"a very good manager\". But retiring Republican Senator Thom Tillis called him \"incompetent\", and Democrats were scathing — Jeffries and Congressman Robert Garcia accused him of policies that have \"killed American citizens and immigrant families\". Vice-President JD Vance had floated softening enforcement after the election loss; Miller's rise makes that less likely.\n\n## What to Watch\n\nWatch whether Miller can negotiate with a Democratic-controlled Congress he has personally antagonised — including new Senator James Talarico, whom he attacked online. Expect Democratic oversight investigations, continued friction over ICE operations, and a wider post-midterm reshuffle, with several Justice Department officials already resigning.",
+    "id": "d1b2c0bc-a4ce-527f-9c55-b887294abf28",
+    "title": "Texas mayor instructs police to limit co-operation with ICE",
+    "simplified_title": "Houston mayor tells police to limit cooperation with ICE",
+    "quick_summary": "Houston's Democratic mayor has ordered city police to sharply curtail how they cooperate with federal immigration officers, breaking with Texas's Republican state policy.",
+    "simplified_body": "Houston Mayor John Whitmire, a Democrat, has directed the city's police to limit cooperation with Immigration and Customs Enforcement (ICE), the federal agency that enforces immigration law. Under the new executive order, officers will only contact ICE if they arrest someone for a jailable offence who also has an administrative ICE warrant — an internal order issued by the Department of Homeland Security (DHS). Previously, police had to notify ICE whenever anyone they dealt with turned up such a warrant in the National Crime Information Center (NCIC), a national police database.\n\nThe change affects Houston's large immigrant community, which has seen months of public outcry. Earlier this year, an ICE officer fatally shot Lorenzo Salgado Araujo, a 52-year-old Mexican national driving to work who officials said was not the intended target. Whitmire said he acted \"to begin a healing process\" and reduce fear, adding that \"elections matter.\"\n\nThe timing follows big Democratic wins in Tuesday's US midterm elections. Democrats took both the Senate and House of Representatives, and Texas — long a Republican stronghold — elected its first Latina governor, Gina Hinojosa, and its first Democratic senator since 1988. Republican Governor Greg Abbott, who set the state's full-cooperation policy, lost his re-election bid.\n\nDHS called the move \"sanctuary politics\" and said it was disappointed. Abbott has previously threatened to pull millions in funding from cities like Houston, Dallas and Austin — which is making a similar change — unless they cooperate fully. Whitmire also urged Congress to require better ICE training, body cameras and de-escalation.",
+    "why_it_matters": "It's a sharp local pushback against aggressive federal immigration enforcement, showing how election results can quickly reshape policy in one of America's biggest cities — a dynamic worth watching as debates over immigration and policing continue worldwide, including in Australia.",
+    "deep_analysis": "## Historical Context\n\nTexas has been a Republican stronghold for decades, and Governor Greg Abbott had set policies requiring local police to cooperate fully with federal immigration enforcement, even threatening to cut funding from cities that resisted. Houston's Mayor Whitmire had previously abided by those rules, worried the White House could flood the city with extra immigration officers in response. Months of public anger followed the fatal shooting of Lorenzo Salgado Araujo by an ICE officer, and a separate case where an officer was charged with aggravated assault after allegedly striking a man with a vehicle.\n\n## Multiple Perspectives\n\nWhitmire frames the order as a way to \"reduce fear and anxiety\" and begin \"a healing process,\" pointedly noting that \"elections matter.\" He insists he can only control city policy and is calling on Congress — the only body that can change federal rules — to mandate ICE training, body cameras and de-escalation. DHS sees it differently, branding it \"sanctuary politics\" and arguing its officers are simply fulfilling sworn duties to protect communities and arrest \"criminal illegal aliens.\" Abbott, who set the opposing policy, lost his re-election bid; the BBC has contacted his office for comment.\n\n## What to Watch\n\nWhether Abbott or the state follows through on threats to pull funding from Houston, Dallas and Austin is the immediate flashpoint. Austin is already implementing a similar change, so watch whether other Texas cities follow. Longer term, with Democrats now controlling Congress for the rest of Trump's presidency and a new Democratic state leadership incoming, the battle may shift from city hall to the statehouse and Washington.",
     "concepts": [
      {
-      "term": "chief of staff",
-      "definition": "The president's most senior aide — the gatekeeper who controls access to the president, sets the White House agenda and negotiates with Congress.",
-      "context": "Trump named Miller to this role, one of the most powerful positions in Washington."
+      "term": "Immigration and Customs Enforcement (ICE)",
+      "definition": "The United States federal agency responsible for enforcing immigration laws, including arresting and deporting people living in the country without legal status.",
+      "context": "Houston police will now contact ICE only in limited circumstances."
      },
      {
-      "term": "midterm elections",
-      "definition": "National US elections held halfway through a president's four-year term, deciding control of Congress.",
-      "context": "Republicans lost both the House and Senate in this week's vote, prompting the reshuffle."
+      "term": "administrative ICE warrant",
+      "definition": "An internal order issued by the Department of Homeland Security asking that a person be held or flagged, rather than a warrant signed by a judge.",
+      "context": "Police will only contact ICE if an arrested person has one of these attached to their name."
      },
      {
-      "term": "ICE",
-      "definition": "US Immigration and Customs Enforcement — the federal agency that arrests and deports people without legal status.",
-      "context": "Miller pressed its leadership to lift arrest numbers as part of mass deportations."
+      "term": "National Crime Information Center (NCIC)",
+      "definition": "A United States digital police database holding records on wanted persons, stolen property, certain missing people and those arrested for serious offences.",
+      "context": "Previously, police had to notify ICE whenever a warrant showed up in this database."
      },
      {
-      "term": "deportations",
-      "definition": "The forced removal of people from a country, usually for lacking legal immigration status.",
-      "context": "Miller drove the push for mass deportations across the US."
+      "term": "executive order",
+      "definition": "A directive issued by a government leader that has the force of policy without needing a new law passed by a legislature.",
+      "context": "Whitmire made the police changes through this kind of order."
      }
     ],
     "quiz": {
-     "question": "Why is Miller's appointment seen as a signal of confrontation rather than compromise?",
+     "question": "Under Houston's new policy, when will police now contact ICE?",
      "options": [
-      "He is a political moderate who avoids clashes",
-      "He has promised to resign within a year",
-      "He is a hardline partisan installed just after Democrats won Congress and promised investigations",
-      "He was chosen to run Trump's 2028 campaign instead"
+      "Only during traffic stops",
+      "Only when they arrest someone for a jailable offence who also has an administrative ICE warrant",
+      "Whenever anyone they stop has any ICE warrant in the NCIC database",
+      "Never, under any circumstances"
      ],
-     "answer_index": 2,
-     "explanation": "Analysts read the pick as Trump 'girding for battle' — elevating a combative hardliner at the very moment Democrats took control of Congress and pledged new oversight, rather than extending an olive branch."
+     "answer_index": 1,
+     "explanation": "The police chief said officers will only contact ICE if someone they arrest for a jailable offence also has an administrative ICE warrant — a minor traffic citation, for example, would not trigger contact."
     },
-    "background_beginner": "Donald Trump is the US president, serving a second term. The White House chief of staff is his most senior aide, managing who sees the president and dealing with Congress. Susie Wiles held that job and was viewed as a steadying influence; she helped run Trump's 2024 campaign. Stephen Miller, 41, is a longtime Trump adviser best known as the architect of his tough immigration policies, including mass deportations. This reshuffle follows the midterm elections, where Trump's Republicans lost control of both chambers of Congress. It keeps coming up because immigration and Trump's governing style are central, polarising issues in American politics.",
-    "impact_score": 72,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/0326f2aef95be5cb762b4266afab1c12?impolicy=wcms_watermark_news&cropH=1254&cropW=2229&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "background_beginner": "In the United States, immigration enforcement is handled by a federal agency called ICE, part of the Department of Homeland Security. For years there's been tension between the federal government, which wants local police to help ICE, and some city leaders who refuse — often called \"sanctuary\" cities. Texas, traditionally Republican-led, required full cooperation under Governor Greg Abbott. But after a Houston ICE officer fatally shot a man driving to work, public anger grew. Following big Democratic wins in the 2026 midterm elections, Houston's mayor ordered police to pull back from cooperating with ICE. It keeps coming up because immigration remains one of America's most divisive political issues.",
+    "impact_score": 58,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4095/live/09b20f70-da4c-11f1-ad69-611c5b2ed04a.jpg",
     "region": "North & South America",
     "region_code": "AMERICAS",
-    "description": "Donald Trump has replaced chief of staff Susie Wiles with Stephen Miller, the architect of his hardline immigration crackdown, days after Republicans lost both houses of Congress.",
+    "description": "Houston's Democratic mayor has ordered city police to sharply curtail how they cooperate with federal immigration officers, breaking with Texas's Republican state policy.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-07/donald-trump-cos-susie-wiles-to-be-replaced-by-stephen-miller/107358840"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-08T19:26:55.877353+00:00",
+    "published_date": "2026-11-09",
+    "has_fulltext": true
+   },
+   {
+    "id": "763c786a-9312-5696-963a-a7efb2a73b33",
+    "title": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
+    "simplified_title": "Pope Leo tours South America, heading for clash with Argentina's Milei",
+    "quick_summary": "Pope Leo XIV has begun a 12-day, three-nation South American tour, urging men to respect their wives amid a femicide crisis and setting up tension with Argentina's austerity-driven president.",
+    "simplified_body": "Pope Leo XIV wrapped up the first leg of a 12-day tour of South America (Uruguay, Argentina and Peru) with an open-air Mass in Uruguay. He told fathers and grandfathers to \"treat your wives with respect\" in a region plagued by gender-based violence. According to the United Nations (UN), more than 3,800 women were killed because of their gender in Latin America and the Caribbean in 2024, and nearly 20,000 over the past five years — most by a current or former partner. The term for these killings is \"femicide\".\n\nThe tour affects millions of Catholics in a region where the Church is losing ground. Uruguay is South America's most secular country, yet organisers say 40,000 attended the first Mass and 60,000 young people packed a Montevideo stadium vigil, where Leo urged couples to marry and have children as fertility rates fall. The 71-year-old, US-born pope pressed on despite lung cancer surgery on 13 October.\n\nFor newcomers: this is the first papal visit to Argentina since 1987. Pope Francis, who was Argentine, never returned home during his papacy. Argentina's president, Javier Milei, is a far-right libertarian who campaigned waving a chainsaw to symbolise deep spending cuts. His austerity has slashed disability funding and pensions, putting him at odds with the Church's social teaching.\n\nWhat's next: Leo visits a home for disabled people hit by Milei's cuts, meets union and business leaders, and will meet Milei himself — who once called Francis an \"imbecile\". The two also clash over artificial intelligence (AI), which Leo wants \"disarmed\" and Milei wants left unregulated. Analysts expect the pope to press his social message without openly confronting the president.",
+    "why_it_matters": "The world's 1.4 billion Catholics are watching their new pope test whether the Church's social gospel can push back against a rising wave of austerity politics and unregulated technology.",
+    "deep_analysis": "## Historical Context\n\nThis is the first papal visit to Argentina since John Paul II in 1987 — a striking gap made sharper by the fact that Pope Francis, elected in 2013, was himself Argentine yet never once returned home. Leo XIV, US-born but with Peruvian and Vatican citizenship, served as a missionary and bishop in the region, so the trip is partly a homecoming for him. He has used his 18-month papacy to warn about artificial intelligence, defend immigrants and call for climate action — stances that have placed him at odds with right-wing leaders, including US President Donald Trump.\n\n## Multiple Perspectives\n\nThe articles lay out a genuine divide. Church figures and social activists frame Milei as a \"hyper-capitalist\" whose cuts to disability funding, medications and pensions contradict the Gospel's teaching on human dignity; a thinktank cited by the Guardian estimates minimum-pension retirees have lost roughly 30% of their purchasing power. Milei's government plays it down, insisting the pope \"is not going to come here to comment on local politics\". Meanwhile, not all social movements embrace the pope — LGBTQIA+ organisers note the Church's dogma on their families \"has not changed\". And the ground is shifting: Buenos Aires University found Catholic identification has fallen to 57.7% while evangelical identification rose to 17.4%, as Milei courts evangelical churches.\n\n## What to Watch\n\nWatch the carefully chosen itinerary — a disability home, a prison, a military aircraft factory whose workers protested Milei's cuts. Each stop sends a message without a direct confrontation. Watch too the AI dispute, where Leo's call to \"disarm\" the technology meets Milei's push for datacentres and \"non-human corporations\". How Milei stages the encounter, and whether he gains by projecting \"an orderly country\", will shape the fallout.",
+    "concepts": [
+     {
+      "term": "femicide",
+      "definition": "The killing of a woman because of her gender, often by a current or former partner.",
+      "context": "The UN recorded nearly 20,000 such killings in Latin America and the Caribbean over five years, driving the pope's appeal."
      },
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go"
+      "term": "secular",
+      "definition": "Not strongly tied to religion in public or cultural life.",
+      "context": "Uruguay is described as South America's most secular country, making the large Mass turnouts notable."
      },
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo"
+      "term": "libertarian",
+      "definition": "Someone who favours minimal government and maximum free-market freedom.",
+      "context": "Argentina's President Milei is a far-right libertarian whose spending cuts clash with Church teaching."
+     },
+     {
+      "term": "austerity",
+      "definition": "Government policy of sharply cutting public spending, often to control debt or inflation.",
+      "context": "Milei's austerity has reduced disability benefits and pensions, a key flashpoint during the pope's visit."
+     }
+    ],
+    "quiz": {
+     "question": "Why is Pope Leo's visit expected to create tension with Argentina's President Milei?",
+     "options": [
+      "Milei's austerity cuts and deregulation clash with the Church's teaching on human dignity and social justice",
+      "Milei wants Argentina to leave the Catholic Church",
+      "The pope refused to meet any government officials",
+      "The pope opposes Argentina joining the European Union"
+     ],
+     "answer_index": 0,
+     "explanation": "The articles centre the clash on Milei's spending cuts — especially to disability funding and pensions — and his hands-off stance on AI, which run against the pope's emphasis on human dignity and social justice."
+    },
+    "background_beginner": "Pope Leo XIV is the head of the Catholic Church, which has about 1.4 billion followers. Born in the United States, he previously worked as a missionary and bishop in South America, so this 12-day tour of Uruguay, Argentina and Peru is something of a return to familiar ground. He took over after Pope Francis, who was Argentine but never visited home while in office. The trip keeps making headlines partly because of its backdrop: a femicide crisis across Latin America, and Argentina's president Javier Milei, a chainsaw-wielding libertarian whose deep spending cuts have angered the Church. Leo preaches human dignity and social justice, setting up a quiet showdown.",
+    "impact_score": 58,
+    "image_url": "https://s.france24.com/media/display/e848f45a-db7e-11f1-a13c-1beafce15fea/w:1280/p:16x9/6fab64bab726aafee6cdce3d68af60d2c79255ea.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Pope Leo XIV has begun a 12-day, three-nation South American tour, urging men to respect their wives amid a femicide crisis and setting up tension with Argentina's austerity-driven president.",
+    "tier": "GLOBAL",
+    "category": "SOCIETY_CULTURE",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/americas/20261108-pope-leo-urges-husbands-to-respect-wives-amid-femicide-crisis-across-latin-america"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
     "related_story_ids": [],
     "reading_minutes": 3,
-    "created_at": "2026-11-07T01:25:17.989877+00:00",
-    "published_date": "2026-11-07",
-    "has_fulltext": true
-   },
-   {
-    "id": "67fb7ad2-9e27-54a0-89d2-665f0f45176a",
-    "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
-    "simplified_title": "Wisconsin Baby Dies of Measles, State's First Death Since 1990",
-    "quick_summary": "A Wisconsin infant has died of measles, the state's first such death in over 35 years, as outbreaks drive US cases and deaths to their highest levels since 1991.",
-    "simplified_body": "An infant in Wisconsin has died of measles, officials reported on Thursday — the state's first measles death since 1990. It comes amid an outbreak that has sickened over 430 people across 13 counties in Wisconsin this year. Health Secretary Kirsten Johnson called any child's death a tragedy, \"even more so when it is related to a vaccine-preventable disease.\"\n\nThe baby's death was the third measles fatality nationally in just one week, following a New York child's death reported Monday and a death in Pennsylvania reported Wednesday. Pennsylvania's outbreak alone has reached 1,467 cases this year. In total, nine measles deaths have been reported across the US this year, eight confirmed by state officials, including two babies, a healthy teen and several adults with underlying conditions.\n\nMeasles is a highly contagious viral illness prevented by vaccination. As of 5 November, the Centers for Disease Control and Prevention (CDC) reported 5,182 cases across 47 states and jurisdictions — the highest tally since 1991. The CDC's own count of four deaths doesn't clearly line up with the state-reported numbers.\n\nOfficials warn the figures likely undercount reality. Not everyone who falls ill seeks care or gets tested, so cases go unreported. Several large outbreaks, including Pennsylvania's, have hit tight-knit religious communities that are less likely to use conventional medicine — meaning spread may continue unless vaccination rates improve.",
-    "why_it_matters": "Measles was once considered beaten in wealthy countries, so a resurgence of deaths shows how quickly a preventable disease returns when vaccination slips — a reminder that matters for Australia too, where high immunisation coverage is what keeps outbreaks at bay.",
-    "deep_analysis": "## Historical Context\n\nMeasles was declared eliminated in the United States in 2000, meaning there was no continuous year-round spread. The fact that national case and death tallies are now the highest since 1991 marks a dramatic reversal. Wisconsin's own last measles death was in 1990, so losing an infant now breaks a streak of more than 35 years. Measles is one of the most contagious diseases known, and before widespread vaccination it was a routine cause of childhood illness and death.\n\n## Multiple Perspectives\n\nPublic health officials, like Wisconsin Health Secretary Kirsten Johnson, frame these deaths as avoidable tragedies and urge people to assess their risk and get vaccinated. The data itself is contested at the edges: the CDC reports four deaths while state officials have confirmed eight, and it's unclear which deaths the CDC has counted — a gap that complicates the national picture. Officials also acknowledge the case counts are likely a significant undercount, since not everyone seeks care or testing, and some affected communities are religious groups less inclined to use conventional medicine.\n\n## What to Watch\n\nWatch whether the Pennsylvania outbreak, already at 1,467 cases, keeps growing, and whether more states join the 47 jurisdictions reporting cases. The discrepancy between CDC and state death tallies is worth tracking, as is any shift in how tight-knit communities engage with vaccination. The central question is whether this year's surge is a one-off spike or the start of measles re-establishing a foothold.",
-    "concepts": [
-     {
-      "term": "measles",
-      "definition": "A highly contagious viral disease that can cause serious illness and death, but which is preventable through vaccination.",
-      "context": "The article reports an infant dying of measles amid widespread US outbreaks."
-     },
-     {
-      "term": "outbreak",
-      "definition": "A sudden rise in cases of a disease in a particular place or community, above what is normally expected.",
-      "context": "Wisconsin's outbreak has sickened over 430 people across 13 counties this year."
-     },
-     {
-      "term": "Centers for Disease Control and Prevention (CDC)",
-      "definition": "The United States' national public health agency, which tracks and reports disease cases and deaths.",
-      "context": "The CDC reported 5,182 measles cases across 47 states and jurisdictions as of 5 November."
-     },
-     {
-      "term": "vaccine-preventable disease",
-      "definition": "An illness that can be avoided through vaccination.",
-      "context": "The health secretary called the infant's death more tragic because measles is a vaccine-preventable disease."
-     }
-    ],
-    "quiz": {
-     "question": "Why do officials believe the reported measles case numbers are likely an undercount?",
-     "options": [
-      "Because not everyone who gets sick seeks medical care or gets tested",
-      "Because measles only affects infants, who are hard to track",
-      "Because vaccinated people cannot be counted in the figures",
-      "Because the CDC refuses to publish data from certain states"
-     ],
-     "answer_index": 0,
-     "explanation": "Officials noted that not everyone who becomes ill seeks care or gets tested, so cases go unreported — a problem made worse because some outbreaks hit communities less likely to use conventional medicine."
-    },
-    "background_beginner": "Measles is a very contagious viral illness that spreads easily and can be deadly, especially for babies and people with weak immune systems. A safe vaccine has long made it rare in wealthy countries, and the United States even declared it eliminated in 2000. The main players here are US state health departments — in Wisconsin, Pennsylvania and New York — and the national Centers for Disease Control and Prevention (CDC), which tracks cases. The story keeps coming up because when fewer people get vaccinated, measles returns. This year the US has seen its worst case and death numbers since 1991, including the deaths of several children.",
-    "impact_score": 72,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-1152x648.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "A Wisconsin infant has died of measles, the state's first such death in over 35 years, as outbreaks drive US cases and deaths to their highest levels since 1991.",
-    "tier": "GLOBAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "f7a1b98e-7636-5ad2-b8b6-0f55130901c5"
-    ],
-    "reading_minutes": 2,
-    "created_at": "2026-11-07T01:25:12.370718+00:00",
-    "published_date": "2026-11-07",
-    "has_fulltext": true
-   },
-   {
-    "id": "96db1f10-39f2-5236-9fe6-0a22f57accfd",
-    "title": "California Governor Gavin Newsom commutes sentences for state's 548 death row inmates",
-    "simplified_title": "Newsom commutes all 548 California death row sentences to life",
-    "quick_summary": "California Governor Gavin Newsom has changed the death sentences of all 548 people on the state's death row to life in prison without parole.",
-    "simplified_body": "California Governor Gavin Newsom has used his clemency power to commute the sentences of all 548 people on the state's death row, converting them to life in prison without the possibility of parole. He said \"state-sanctioned killing is incompatible with California's values\" and called the state's death penalty system \"a failure\" that cannot be applied fairly and has convicted innocent people.\n\nThe move affects everyone currently condemned in California, including Keith Doolin, who was sentenced in 1996 and maintains his innocence. The decision is largely symbolic: California has not executed anyone since 2006, and only 13 people have been executed since voters reinstated the death penalty in 1978. Experts say it could still save millions of dollars in court costs each year.\n\nNewsom, a Democrat who is term-limited and winding down his final months in office, had already paused executions in 2019. In the United States, both individual states and the federal government can order executions, so much of the power sits with state governors. Capital punishment is legal in 27 states and abolished in 23 states plus Washington DC. President Donald Trump, a death-penalty supporter, reinstated the federal death penalty in 2025.\n\nAt least four of the seven California Supreme Court judges must sign off on the commutations. Critics, including Los Angeles County's top prosecutor Nathan Hochman, note that voters have twice chosen to keep the death penalty and say only the legislature or voters can abolish it. Newsom, discussed as a possible 2028 presidential contender, acknowledged the decision will \"anger and hurt\" some Californians.",
-    "why_it_matters": "California has long held the largest death row population in the US, so wiping it clean in one stroke is a landmark moment in the long-running American debate over capital punishment — a punishment Australia abolished nationally decades ago.",
-    "deep_analysis": "## Historical Context\n\nCalifornia reinstated the death penalty in 1978 after a public vote, yet has carried out only 13 executions since, and none since 2006. Newsom ordered a halt to executions in 2019, so this commutation formalises a practice that had already stalled. A 2016 ballot measure allowed condemned inmates to be transferred out of the famous San Quentin State Prison to other secure facilities. The decision also lands against a national backdrop: executions have been rising across the US, with three scheduled in Indiana, Florida and Alabama in the same week, and a botched execution of a woman in Tennessee in late September.\n\n## Multiple Perspectives\n\nSupporters, including the American Civil Liberties Union's Anthony Romero, frame the death penalty as \"racist, error-prone, and inhumane\" and praise Newsom's courage. Newsom himself leans on moral conscience, arguing the state \"cannot morally kill\" even those who commit brutal crimes. Opponents counter on democratic grounds: Los Angeles County prosecutor Nathan Hochman points out Californians have voted twice to keep capital punishment, and that only the legislature or voters — not a governor — can abolish it. At the federal level, President Trump remains a firm supporter. A Columbia law professor notes the political angle, comparing Newsom to France's François Mitterrand, who ran as a death-penalty abolitionist in 1981 and was rewarded by voters.\n\n## What to Watch\n\nWatch whether at least four of seven California Supreme Court judges sign off, as required. Keep an eye on the political fallout given Newsom's rumoured 2028 presidential ambitions, and whether abolition becomes a campaign theme. More broadly, the tension between state-level clemency and renewed federal enthusiasm for executions under Trump is a storyline that will keep developing.",
-    "concepts": [
-     {
-      "term": "commute",
-      "definition": "To reduce a criminal sentence to a less severe one — here, changing death sentences to life in prison — without erasing the conviction itself.",
-      "context": "Newsom used his clemency power to commute the sentences of all 548 people, converting them to life in prison."
-     },
-     {
-      "term": "clemency",
-      "definition": "An official power, usually held by a governor or president, to reduce or pardon a convicted person's punishment.",
-      "context": "Newsom has used his clemency power to commute the sentences of all 548 people on the state's death row."
-     },
-     {
-      "term": "death row",
-      "definition": "The section of a prison that houses inmates who have been sentenced to death and are awaiting execution.",
-      "context": "all 548 people on the state's death row, converting them to life in prison without the possibility of parole."
-     },
-     {
-      "term": "life in prison without the possibility of parole",
-      "definition": "A sentence requiring a person to remain imprisoned for the rest of their life, with no chance of early release.",
-      "context": "converting them to life in prison without the possibility of parole."
-     }
-    ],
-    "quiz": {
-     "question": "Why is Newsom's commutation described as largely symbolic?",
-     "options": [
-      "Because the inmates will be released immediately",
-      "Because the federal government overruled it",
-      "Because California has not executed anyone since 2006",
-      "Because the sentences were already overturned by courts"
-     ],
-     "answer_index": 2,
-     "explanation": "The article calls the move largely symbolic because California has not executed an inmate since 2006 and had already paused executions in 2019, so no executions were actually going ahead."
-    },
-    "background_beginner": "The death penalty, or capital punishment, is a sentence where the state executes someone for a serious crime. In the United States, both individual states and the federal government can impose it, so governors and presidents hold significant power over how it is used. California reinstated its death penalty by public vote in 1978 but has rarely carried out executions, and none since 2006. Gavin Newsom is California's Democratic governor; he paused executions in 2019 and is now in his final months in office. The issue keeps resurfacing because Americans remain deeply divided — some see it as justice for the worst crimes, others as cruel, costly and prone to error.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6243/live/f34ef550-d982-11f1-9367-d509fddfe31c.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "California Governor Gavin Newsom has changed the death sentences of all 548 people on the state's death row to life in prison without parole.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 5,
-    "created_at": "2026-11-07T07:26:41.955496+00:00",
-    "published_date": "2026-11-07",
+    "created_at": "2026-11-08T19:27:38.323440+00:00",
+    "published_date": "2026-11-09",
     "has_fulltext": true
    }
   ],
@@ -1597,70 +1478,61 @@
   ],
   "ADF": [
    {
-    "id": "777c23fe-6d29-5f06-91f0-ee5dbf0b82f8",
-    "title": "China doesn’t need to dominate the world to threaten Australia’s security | The Strategist",
-    "simplified_title": "Why China and a shaky Washington both test Australia's defence plans",
-    "quick_summary": "Two analysts argue that China's growing regional power and an unpredictable United States make Australia's own defence choices, including the AUKUS submarine deal, more important than ever.",
-    "simplified_body": "Two pieces tackle the same worry from different angles. In the first, the author pushes back on former Defence Force chief Chris Barrie, who recently said he saw no evidence of Chinese ambitions for \"global dominance\" and called for Australia to scrap AUKUS (the Australia–United Kingdom–United States submarine pact). The author argues China doesn't need to dominate the world to threaten Australia; it only needs to become powerful enough in the western Pacific that neighbours feel they have little choice but to comply. The second piece looks at this week's US midterm elections and asks which version of Washington Australia will end up dealing with.\n\nThis matters most for Australia and its regional neighbours — Taiwan, the Philippines and Japan — who rely on American military reach to balance Beijing. Australia's economic relationship with China is substantial, but when Canberra criticised China over the Covid-19 (coronavirus) pandemic in 2020, it copped trade restrictions in return.\n\nFor background: AUKUS is a plan for Australia to get nuclear-powered submarines, built with US and UK help over several decades. Critics question its cost, timetable and reliance on three countries' industries. The second article maps four possible \"Washingtons\" depending on whether President Donald Trump cuts a deal with China's Xi Jinping, and whether Democratic \"hawks\" (who want more spending) or \"restrainers\" (who want money spent at home) win out.\n\nWhat's next? The author of the second piece bets Washington deals with Beijing while restrainers win the funding fight, leaving the region short of advocates. Watch for three signposts: timing of a Trump–Xi summit, the first Democratic defence budget vote, and what new committee chairs say about Australia's submarines.",
-    "why_it_matters": "Australia has staked decades and enormous sums on AUKUS and the US alliance, so whether Washington stays committed — and how assertive China becomes — directly shapes the nation's security and budget for a generation.",
-    "deep_analysis": "## Historical Context\n\nAustralia has long relied on a powerful ally for its security — first Britain, then the United States since World War II. That reliance deepened with AUKUS, announced as a pathway to nuclear-powered submarines. The first article notes Chris Barrie led the Australian Defence Force from 1998 to 2002, a period when hopes for China's integration into the global order were higher; its author argues China \"turns out not to be the China that we hoped for\" back then. The region's recent flashpoints — militarised artificial islands in the South China Sea and Chinese coast guard confrontations with Philippine ships — illustrate how a strong power can shift behaviour without firing a shot.\n\n## Multiple Perspectives\n\nBarrie, co-authoring a report with former environment minister Peter Garrett, sees no Chinese ambition for global dominance and wants AUKUS scrapped; Defence Industry Minister Pat Conroy called that inquiry \"a stitch-up from day one.\" The first author counters that China seeks \"vassals\" not partners, and that AUKUS, though expensive and technically demanding, addresses a real threat. Both articles agree US reliability deserves scrutiny. The second article shows Washington itself is split — between a lame-duck Trump who might deal with Xi, Democratic hawks wanting firmer Taiwan backing and AUKUS funding, and restrainers (loudest voice Alexandria Ocasio-Cortez) who, like Vice-President JD Vance, want America to do less abroad.\n\n## What to Watch\n\nThe second author bets on a Trump–Xi deal plus ascendant restrainers — a scenario where Australia may ask whether to keep paying into a submarine program a \"transactional Washington might re-price.\" Three signposts: whether a Xi summit lands before the new Congress sits in January; the first Democratic caucus defence budget vote; and what new committee chairs first say about Australia's submarines.",
+    "id": "608d39b6-2be7-5d86-8473-64fc053ab3ea",
+    "title": "Noisy online opposition to AUKUS doesn’t equal real-world opposition | The Strategist",
+    "simplified_title": "Loud online anger at AUKUS isn't the same as public opposition",
+    "quick_summary": "A fiery online campaign against Australia's nuclear submarine deal looks overwhelming, but polling shows most Australians actually back the plan.",
+    "simplified_body": "A self-styled independent public inquiry into AUKUS — the Australia–United Kingdom–United States security partnership — recommended scrapping Australia's plan to acquire nuclear-powered submarines. Its organisers said more than 1,000 people made submissions and the final report was downloaded 83,000 times within 24 hours, and online the opposition looked overwhelming. Yet the Lowy Institute's 2026 polling found 68 percent of Australians supported acquiring nuclear-powered submarines, with only 29 percent opposed.\n\nThis matters for anyone following the debate because, the piece argues, we're confusing loud participation with broad support. The inquiry's submitters were a self-selecting group, not a representative sample, so their views show what participants believe rather than what the country thinks. The danger is that political leaders, advisers and journalists can mistake the loudest voices for the majority and feel pressured to act before the evidence is properly weighed.\n\nFor background: AUKUS is a 2021 pact under which Australia plans to buy nuclear-powered (not nuclear-armed) submarines, a decision involving hundreds of billions of dollars. The author says inquiries, petitions and downloads are all legitimate signs of interest, but signatures and clicks don't equal endorsement by the wider population. Strong conclusions — like calling AUKUS the worst defence decision ever — carry a heavy burden to test contrary evidence and spell out real alternatives.\n\nThe author stresses this cuts both ways. Supporters can be equally dismissive of genuine worries about cost, sovereignty and delivery, and the government has plenty to explain: October research from the United States Studies Centre found just 23 percent of Australians thought the government had properly explained AUKUS. What to watch is whether leaders can weigh evidence and explain trade-offs rather than simply follow the noise.",
+    "why_it_matters": "This is squarely an Australian story: a $100s-of-billions defence decision shaping the nation's security for decades, and a warning about how online noise can distort what leaders think voters actually want.",
+    "deep_analysis": "## Historical Context\n\nAUKUS is a trilateral security partnership between Australia, the United Kingdom and the United States, under which Australia plans to acquire nuclear-powered submarines — a commitment running to hundreds of billions of dollars and stretching well beyond ordinary electoral cycles. Because the stakes are so large, the decision has attracted exactly the kind of scrutiny the author says democracy needs: parliamentary scrutiny, green and white papers, and community consultation. The so-called independent inquiry sits in this tradition, drawing more than 1,000 submissions and hearing from senior figures including former defence ministers Kim Beazley, Christopher Pyne and Linda Reynolds, and former home affairs secretary Mike Pezzullo.\n\n## Multiple Perspectives\n\nThe inquiry concluded AUKUS was Australia's worst, most costly and riskiest defence decision ever, and recommended abandonment. The author doesn't argue AUKUS is necessarily right, but says the stronger the conclusion, the heavier the evidentiary burden — and that abandoning a major capability requires a credible replacement pathway, not just the assertion that Australia could buy conventional submarines off the shelf. On the other side, the author concedes AUKUS supporters can be equally dismissive of real concerns about cost, sovereignty and delivery. Public opinion is genuinely mixed: Lowy's 2026 polling shows 68 percent support for the submarines, yet United States Studies Centre research found only 23 percent felt the government had explained AUKUS well, and just 31 percent were confident the promised submarines would arrive. Australians can back the strategic goal while doubting the execution.\n\n## What to Watch\n\nWatch whether political leaders, advisers and journalists can tell intense online participation apart from actual majority opinion — and resist pressure to respond before claims are assessed. Also watch the government's communication: with confidence in delivery low, how it explains cost, sovereignty and timelines may matter as much as the strategy itself.",
     "concepts": [
      {
       "term": "AUKUS",
-      "definition": "A security pact between Australia, the United Kingdom and the United States, centred on helping Australia acquire nuclear-powered submarines over several decades.",
-      "context": "The first article debates whether Australia should scrap AUKUS, while the second asks whether a changing Washington will keep funding it."
+      "definition": "A security partnership between Australia, the United Kingdom and the United States, under which Australia plans to acquire nuclear-powered submarines.",
+      "context": "The inquiry recommended scrapping Australia's participation in the AUKUS submarine program."
      },
      {
-      "term": "restrainers",
-      "definition": "A wing of US politicians who want military spending kept at home and fewer American troops and commitments abroad.",
-      "context": "The second article contrasts Democratic restrainers with 'hawks' who want more money for Indo-Pacific security."
+      "term": "self-selecting group",
+      "definition": "People who choose to take part on their own initiative, so they aren't a representative cross-section of the wider population.",
+      "context": "The inquiry's 1,000-plus submitters were a self-selecting group, so their views don't necessarily reflect national opinion."
      },
      {
-      "term": "coercion",
-      "definition": "Pressuring a country to change its behaviour through military, paramilitary or economic threats rather than outright war.",
-      "context": "The first article argues China can use coercion to make neighbours comply without fighting a conventional war."
-     },
-     {
-      "term": "lame-duck",
-      "definition": "A leader still in office but nearing the end of their term and unable to run again, which can change their political incentives.",
-      "context": "The second article weighs what a lame-duck president might do with Beijing."
+      "term": "representative sample",
+      "definition": "A group chosen to accurately mirror the make-up and views of a whole population, as used in proper polling.",
+      "context": "The author notes the submitters were not a representative sample of Australian opinion."
      }
     ],
     "quiz": {
-     "question": "According to the first article, why can China threaten Australia's security even without matching US global reach?",
+     "question": "What is the author's central point about the online opposition to AUKUS?",
      "options": [
-      "Because Australia has already cut all economic ties with Beijing",
-      "Because it can become powerful enough in the region that neighbours feel they have little choice but to comply",
-      "Because it has formally annexed Taiwan, Japan and the Philippines",
-      "Because it has more nuclear submarines than the United States"
+      "Polling proves Australians overwhelmingly reject AUKUS",
+      "The inquiry used a representative sample of Australian opinion",
+      "Media coverage of the inquiry was deliberately suppressed",
+      "Intense online participation can be mistaken for broad public support, but they aren't the same thing"
      ],
-     "answer_index": 1,
-     "explanation": "The first article's central point is that China needn't dominate globally; by growing strong enough regionally, it can coerce neighbours — including Australia — into obedience, as shown in the South China Sea and the 2020 trade restrictions."
+     "answer_index": 3,
+     "explanation": "The article argues we confuse the intensity of participation with the breadth of support — loud online opposition existed alongside Lowy polling showing 68 percent of Australians backed the submarines."
     },
-    "background_beginner": "Australia's security has long leaned on a big ally — these days the United States. AUKUS is a 2021 deal for Australia to buy nuclear-powered submarines with US and British help, aimed at keeping pace with China's fast-growing military. China, the regional giant, has been building artificial islands and pressing neighbours like Taiwan, Japan and the Philippines, who look to America for backing. The debate keeps flaring because AUKUS is hugely expensive and slow, some retired defence chiefs question it, and the US itself is politically divided over how much to spend defending the Indo-Pacific. So Australia faces two big uncertainties at once: how assertive China gets, and whether Washington stays reliable.",
-    "impact_score": 72,
-    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/GettyImages-2182130771-scaled.jpg",
+    "background_beginner": "AUKUS is a 2021 security deal between Australia, the United Kingdom and the United States. Its headline feature is Australia buying nuclear-powered submarines — powered by nuclear reactors, not armed with nuclear weapons — a plan expected to cost hundreds of billions of dollars over many years. Because it's so expensive and so important to national security, it keeps sparking debate about whether it's the right call. Recently a self-styled \"independent inquiry\" gathered public submissions and recommended scrapping it, generating a wave of online opposition. This article argues that loud online anger doesn't match actual public opinion, since polling shows most Australians still support the submarines.",
+    "impact_score": 62,
+    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/GettyImages-2273647297.jpg",
     "region": "Australian defence, ADF, AUKUS, regional security",
     "region_code": "ADF",
-    "description": "Two analysts argue that China's growing regional power and an unpredictable United States make Australia's own defence choices, including the AUKUS submarine deal, more important than ever.",
+    "description": "A fiery online campaign against Australia's nuclear submarine deal looks overwhelming, but polling shows most Australians actually back the plan.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "ASPI Strategist",
-      "url": "https://www.aspistrategist.org.au/china-doesnt-need-to-dominate-the-world-to-threaten-australias-security/"
-     },
-     {
-      "name": "ASPI Strategist",
-      "url": "https://www.aspistrategist.org.au/after-the-midterms-the-indo-pacific-awaits-one-of-four-different-washingtons/"
+      "url": "https://www.aspistrategist.org.au/noisy-online-opposition-to-aukus-doesnt-equal-real-world-opposition/"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
+    "source_count": 1,
+    "confidence": 0.55,
     "related_story_ids": [],
     "reading_minutes": 4,
-    "created_at": "2026-11-07T07:26:52.601318+00:00",
-    "published_date": "2026-11-07",
+    "created_at": "2026-11-08T19:27:28.403761+00:00",
+    "published_date": "2026-11-09",
     "has_fulltext": true
    },
    {
@@ -1794,77 +1666,6 @@
   ],
   "AI_TECH": [
    {
-    "id": "edf86e2f-7538-5299-89b4-83a4618b1048",
-    "title": "Several Democrats renew calls for datacenter pauses after blue wave",
-    "simplified_title": "US voters revolt against AI data centres in midterm elections",
-    "quick_summary": "A wave of voter anger over power-hungry AI data centres helped fuel the Democrats' sweeping US midterm win, and new politicians are now pushing to pause fresh builds.",
-    "simplified_body": "Democrats won a sweeping victory in the United States midterm elections this week, and one of the biggest issues behind the \"blue wave\" was a backlash against data centres — the huge buildings full of computers that power artificial intelligence (AI). Voters passed dozens of local ballot measures to restrict these projects, and newly elected politicians joined Senator Bernie Sanders in calling for a moratorium, or pause, on new ones.\n\nThe opposition has become bipartisan. Communities living near data centres worry about the enormous amounts of water and electricity they use, and fear it will push up their own bills. A 2026 Federal Reserve Bank of Dallas working paper estimated data centres had already lifted wholesale electricity prices by 6.9%. Tech companies are rattled: AI stocks sold off sharply, with chipmaker Nvidia losing US$450 billion in market value in a single day before partly recovering.\n\nThe building boom took off after ChatGPT launched in late 2022, and President Donald Trump signed an executive order in July 2025 to speed data centres up, warning towns that oppose them risk becoming \"backwards and poor\". As of April there were around 3,000 data centres in the US, with more than 1,500 more under way.\n\nWith Democrats set to control both chambers of Congress when it is sworn in on 3 January, lawmakers are promising investigations into the AI industry. Incoming governors in Texas, Ohio and Georgia — all major data centre hotspots — have called for pauses until stronger community protections are in place.",
-    "why_it_matters": "The same backlash is building here: a A$1.2 billion data centre in Sydney's north shore was scrapped in September, Tasmanian projects face stiff opposition, and Canberra is drafting mandatory national standards — so how the US fight plays out is a preview of Australia's own AI growing pains.",
-    "deep_analysis": "## Historical Context\n\nThe data centre boom accelerated sharply after ChatGPT's launch in late 2022. Spending on building the facilities hit US$4.4 billion in June alone — roughly five times the November 2022 level — as AI companies raced for computing power. President Trump embraced the buildout as central to American tech leadership, signing an executive order in July 2025 to speed it along, and around 75% of data centres under construction sit in Republican-led states. By April there were already about 3,000 facilities running and over 1,500 more in progress. What began as a quiet infrastructure story turned into a kitchen-table issue as residents saw the facilities — and their energy bills — arrive in their own neighbourhoods.\n\n## Multiple Perspectives\n\nCritics, including Sanders and new representatives like Yassamin Ansari, frame data centres as \"Big Tech oligarchs\" offloading costs onto ordinary people while chasing AI. Industry voices push back: Meta's Dina Powell McCormick admitted building will get \"harder\", and White House economic adviser Kevin Hassett argued the local ballot measures largely won't touch existing projects. The sources broadly agree the issue has become bipartisan — a September poll had 70% of Democrats and 57% of Republicans backing limits — but differ in framing scale: Al Jazeera counts 41 data-centre ballot measures (and notes 47 total referendums, 21 in Ohio), while The Conversation describes voters across ten states backing restrictions, with 56% of exit-polled voters calling data centres a crucial or major factor.\n\n## What to Watch\n\nThe 120th Congress is sworn in on 3 January, and Democrats like Ed Markey are promising subpoenas and oversight hearings, partly spurred by reported AI security failures. Watch whether a genuine national moratorium gains traction or stalls, how Texas Governor-elect Gina Hinojosa's pledged pause lands in a key growth state, and whether investment simply shifts to friendlier jurisdictions. For Australia, the test is whether Canberra's forthcoming standards on energy, water and siting actually address community concerns.",
-    "concepts": [
-     {
-      "term": "data centres",
-      "definition": "Large buildings packed with computer servers that store data and run heavy computing tasks, including the artificial intelligence systems behind tools like ChatGPT.",
-      "context": "AI companies are racing to build them, but they use huge amounts of power and water, drawing community opposition."
-     },
-     {
-      "term": "ballot measures",
-      "definition": "Questions put directly to voters at an election, letting the public decide a local law or policy rather than leaving it to elected representatives.",
-      "context": "US voters used dozens of these at the midterms to restrict new data centre projects in their areas."
-     },
-     {
-      "term": "moratorium",
-      "definition": "A temporary, official halt or pause on an activity, here on approving or building new data centres.",
-      "context": "Senator Bernie Sanders and several incoming governors are calling for one until stronger protections exist."
-     },
-     {
-      "term": "executive order",
-      "definition": "A directive issued by the US president that manages federal government operations and carries the force of law without needing Congress to pass it.",
-      "context": "Trump used one in July 2025 to accelerate data centre development."
-     }
-    ],
-    "quiz": {
-     "question": "Why did data centres become such a potent political issue in the US midterms?",
-     "options": [
-      "The facilities were only being built in wealthy coastal cities",
-      "Voters wanted the government to build more of them faster",
-      "Data centres were blamed for slowing down internet speeds",
-      "Communities feared rising energy and water costs and wider AI job worries"
-     ],
-     "answer_index": 3,
-     "explanation": "Across the sources, opposition centred on the water and electricity data centres consume — and the fear this would push up locals' bills — tangled together with broader anxiety about AI and jobs, making it a bipartisan concern."
-    },
-    "background_beginner": "Data centres are enormous buildings filled with computers that run artificial intelligence (AI) services such as ChatGPT. Since that chatbot launched in late 2022, tech giants have spent fortunes building more of them, backed in the US by President Trump. The catch is that they guzzle electricity and water, and people living nearby worry their own power bills are rising to pay for it. In the November 2026 US midterm elections, that frustration became a major voting issue: Democrats won big, and many winners promised to pause or tightly regulate new projects. It keeps coming up because the AI boom needs ever more of these facilities, and communities increasingly don't want them next door.",
-    "impact_score": 74,
-    "image_url": "https://i.guim.co.uk/img/media/970f70f987dc7eac0861b19182f1571b300dab67/0_0_8256_5504/master/8256.jpg?width=1920&quality=85&auto=format&fit=max&s=a32f3a84eddb05f6790d14c2874b8dac",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "A wave of voter anger over power-hungry AI data centres helped fuel the Democrats' sweeping US midterm win, and new politicians are now pushing to pause fresh builds.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses"
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss"
-     },
-     {
-      "name": "The Conversation",
-      "url": "https://theconversation.com/us-voters-lashed-out-at-data-centres-what-does-that-mean-for-australias-ai-ambitions-295979"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-07T07:27:20.129755+00:00",
-    "published_date": "2026-11-07",
-    "has_fulltext": true
-   },
-   {
     "id": "9e59aa4a-e3d3-5005-9839-eea8b53dbda6",
     "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
     "simplified_title": "Nvidia boss called before US Congress over China spying claims",
@@ -1990,5 +1791,5 @@
    }
   ]
  },
- "total_stories": 29
+ "total_stories": 27
 }
