@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "generated_at": "2026-11-09T01:23:03.833184+00:00",
+ "generated_at": "2026-11-09T07:23:03.660167+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -125,6 +125,80 @@
     "has_fulltext": true
    },
    {
+    "id": "155007f0-3782-5773-8fc8-27ebfd46ba67",
+    "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+    "simplified_title": "New Zealand election too close to call, results weeks away",
+    "quick_summary": "New Zealand's election was so tight that neither the right nor left bloc has a clear majority, with the outcome unknown until final results land on 27 November.",
+    "simplified_body": "New Zealand's 2026 election delivered a cliffhanger. On preliminary results, Prime Minister Christopher Luxon's centre-right National party and its partners — the libertarian ACT and populist New Zealand First — scraped a 67-seat majority. But some seats were won by tiny margins, and special votes (overseas ballots and votes cast outside a voter's home electorate) haven't been counted. Those votes tend to favour the left, so nothing is settled until official results arrive on 27 November.\n\nThis matters to every New Zealander, because it decides who governs during a sluggish economy and stubbornly high inflation. Luxon's coalition leads the left bloc — Labour, the Greens and Te Pāti Māori (the Māori party) — by just three seats. A newcomer, the centrist Opportunity party, cleared the 5% threshold to enter parliament for the first time and could become \"kingmaker\" if the numbers shift.\n\nNew Zealand uses mixed-member proportional (MMP) representation: you cast two votes, one for a local MP and one for a party. This election produced a record \"overhang\" — 11 extra seats — because National and Te Pāti Māori won more local seats than their party vote alone entitled them to, swelling parliament to 131 seats.\n\nUntil a deal is done, a caretaker government runs the country, with Luxon's ministers staying on but avoiding big, controversial decisions. Expect two weeks until special votes are announced, then possibly weeks of coalition negotiations. Commentators doubt a fresh election will be needed.",
+    "why_it_matters": "New Zealand's drawn-out, knife-edge result shows how proportional systems can leave a country in limbo — a live contrast for Australia, whose own preferential system usually delivers a result on election night.",
+    "deep_analysis": "## Historical Context\n\nNew Zealand adopted the mixed-member proportional (MMP) system in 1996, deliberately moving away from winner-takes-all to better reflect how people vote. Under MMP, small parties matter and coalitions are the norm. A telling precedent came in 2017, when the party with the most seats didn't form government — Jacinda Ardern's Labour got over the line with New Zealand First's support. That's a reminder that being the largest party, as National is now, doesn't guarantee power.\n\nSpecial votes have a track record too: they lean left, and in 2023 they handed Te Pāti Māori and the Greens three extra seats between them. In 2023, 600,000 special votes made up 21% of the total — a big enough chunk to reshape a tight result.\n\n## Multiple Perspectives\n\nNational's Luxon frames it optimistically — his party is the largest and has \"a pathway to forming the next government.\" Labour's Chris Hipkins hasn't conceded, arguing the final count could still deliver a four-party left coalition. Both leaders are, realistically, in no position to claim victory.\n\nAnalysts differ on how it'll land. One Conversation writer notes the right over-performed every pre-election poll, but expects the right's lead to shrink once final results come in. The oddity this time: National trails Labour by about 0.2 points in the party vote yet holds more seats, thanks to the record overhang from vote-splitting — which some see as MMP not working \"in the way it's designed to.\"\n\n## What to Watch\n\nThree electorates are on a knife-edge: Hamilton East (National ahead by 456), Wairarapa (National ahead by 139), and Te Tai Tokerau, where Te Pāti Māori leads the Greens by 436. Counterintuitively, the left is better off if Te Pāti Māori wins Te Tai Tokerau, since a Green win there would just swap a list seat. Watch whether National loses its two slim electorates, whether special votes erode the right's majority, and whether Opportunity's seven seats become decisive — its policies reportedly sit closer to the left.",
+    "concepts": [
+     {
+      "term": "special votes",
+      "definition": "Ballots cast overseas or outside a voter's home electorate, counted after election night; in New Zealand they have historically tended to favour left-leaning parties.",
+      "context": "About 600,000 were cast in 2023, roughly 21% of the total, enough to shift tight results."
+     },
+     {
+      "term": "mixed-member proportional (MMP)",
+      "definition": "A voting system where each person casts two votes — one for a local MP and one for a party — aiming for a parliament that mirrors each party's national vote share.",
+      "context": "New Zealand adopted MMP in 1996, and it typically produces coalition governments."
+     },
+     {
+      "term": "overhang",
+      "definition": "Extra parliamentary seats added when a party wins more local electorate seats than its party vote alone would entitle it to.",
+      "context": "This election produced a record 11 overhang seats, expanding parliament to 131."
+     },
+     {
+      "term": "caretaker government",
+      "definition": "The arrangement where the outgoing ministers stay in office to run day-to-day business, avoiding major decisions, until a new government is formed.",
+      "context": "Luxon's team continues governing under this convention until coalition talks conclude."
+     }
+    ],
+    "quiz": {
+     "question": "Why could the final results on 27 November change which bloc forms government?",
+     "options": [
+      "Because the party with the most votes automatically becomes government",
+      "Because New Zealand will hold a second, run-off election",
+      "Because the governor general gets to pick the winning coalition",
+      "Because special votes, which tend to favour the left, had not yet been counted"
+     ],
+     "answer_index": 3,
+     "explanation": "The preliminary result left the right with a wafer-thin majority, but uncounted special votes historically lean left and could erode that lead, potentially reshaping who can command a majority."
+    },
+    "background_beginner": "New Zealand elects its parliament using mixed-member proportional (MMP) voting, so governments are usually coalitions of several parties. The main players here are the centre-right National party, led by Prime Minister Christopher Luxon, and the centre-left Labour party, led by Chris Hipkins. Smaller parties — ACT, New Zealand First, the Greens, Te Pāti Māori (the Māori party) and newcomer Opportunity — often decide who governs. In the 2026 election, neither the right nor the left bloc won a clear majority, and large numbers of \"special votes\" (cast overseas or away from home) still need counting. The story keeps coming up because the result stays uncertain until final numbers land on 27 November.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/88907325b9c08c155e81021cba493cd15c10b579/458_0_4583_3667/master/4583.jpg?width=1920&quality=85&auto=format&fit=max&s=43a108e371e45e92dd08d4fa7b7f3a81",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "New Zealand's election was so tight that neither the right nor left bloc has a clear majority, with the outcome unknown until final results land on 27 November.",
+    "tier": "LOCAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+     },
+     {
+      "name": "The Conversation",
+      "url": "https://theconversation.com/pre-election-polls-understated-right-in-nz-with-overhang-skewing-preliminary-results-295738"
+     },
+     {
+      "name": "The Conversation",
+      "url": "https://theconversation.com/nz-will-have-a-caretaker-government-for-weeks-what-that-means-and-how-it-works-295750"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "6711d278-fc57-5b85-a520-e21669abc629",
+     "769a9e24-dacb-5b79-8001-eb7582cc7db9"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-09T07:25:43.123647+00:00",
+    "published_date": "2026-11-09",
+    "has_fulltext": true
+   },
+   {
     "id": "712359ff-060f-5cbd-9ada-9c5f18c0b8e5",
     "title": "Chronic pain affects one in two women in midlife, report finds",
     "simplified_title": "Chronic Pain Hits Half of Women in Midlife, Report Finds",
@@ -188,72 +262,6 @@
     "has_fulltext": true
    },
    {
-    "id": "bc8d7b08-0aed-5576-9ecf-708d67f80499",
-    "title": "Race to tame inflation more tricky that one that stops the nation",
-    "simplified_title": "Why a Rate Rise Hits Australians So Unevenly",
-    "quick_summary": "The Reserve Bank's decision to lift interest rates helps savers but squeezes mortgage holders and renters, splitting Australians into winners and losers.",
-    "simplified_body": "The Reserve Bank of Australia (RBA) has lifted the cash rate again, and racegoers at the Melbourne Cup had plenty to say about it. One man, Anthony, said rising rates had put home ownership out of reach, so he and his partner are travelling and snowboarding instead. Christine, who has a mortgage, simply pleaded with the RBA to \"stop\". A man with four properties admitted the rise would \"hit our budget quite hard\".\n\nThe pain isn't shared evenly. Roughly one-third of Australians have housing debt, mostly on variable rates, so their repayments climb every time the cash rate rises. Another third rent, with many now at the limit of what they can afford. The final third have paid off their homes and are actually earning more on their savings. Even some winners feel uneasy: Craig, a retiree, called it \"unfair\" that a small group of mortgage holders does the \"heavy lifting\" of pulling money out of the economy.\n\nRaising the cash rate is the RBA's main tool to tame inflation, the general rise in prices. The idea is that costlier borrowing cools spending. The federal government has other options, like boosting productivity, intervening in markets or lifting the Medicare levy, but these are slow, politically risky and far from guaranteed.\n\nThe mood ahead looks tough. NAB chief executive Andrew Irvine said 2027 would be a \"challenging year\" for customers, who are \"resilient\" and \"getting by\" but \"might not be having much fun\".",
-    "why_it_matters": "Interest rate moves shape household budgets right across Australia, deciding who can buy a home, who can keep paying rent, and who quietly gets ahead on their savings.",
-    "deep_analysis": "## Historical Context\n\nCentral banks like the Reserve Bank of Australia have long used interest rates as their primary lever to manage inflation. When prices rise too fast, lifting the cash rate makes borrowing dearer, which is meant to slow spending and ease price pressure. The trade-off is that the same tool that cools the economy also directly raises the cost of existing home loans, which in Australia are largely on variable rates. This article captures a recurring tension: a blunt national tool landing very differently on individual households.\n\n## Multiple Perspectives\n\nThe article deliberately gives us several voices. Mortgage holders like Christine want the rises to stop. Aspiring buyers like Anthony have given up on a house altogether and redirected their money to travel. Property investors feel the budget squeeze across multiple loans. Savers and retirees who own their homes outright benefit from higher returns, yet even one of them, Craig, argues the burden unfairly falls on a small group of borrowers and wants \"more bravery\" from the government to fight inflation by other means. The RBA board itself was split, with three of its nine members voting against the rise. From the banking side, NAB's Andrew Irvine frames customers as resilient but not enjoying themselves.\n\n## What to Watch\n\nWatch whether the government reaches for its slower, riskier alternatives, things like boosting productivity, price intervention or tax and superannuation changes, rather than leaving the RBA to do all the work. Keep an eye on 2027, which NAB's chief executive has already flagged as \"challenging\" for customers. The split vote on the board also signals that future decisions may be far from unanimous.",
-    "concepts": [
-     {
-      "term": "cash rate",
-      "definition": "The baseline interest rate set by the Reserve Bank that flows through to the interest charged on loans and paid on savings across the economy.",
-      "context": "Variable home loan repayments rise as the cash rate lifts, which is why mortgage holders feel rate decisions most directly."
-     },
-     {
-      "term": "variable rates",
-      "definition": "A loan interest rate that moves up or down over time with the cash rate, rather than staying fixed.",
-      "context": "Most Australian home loans are on variable rates, so repayments increase whenever the RBA lifts the cash rate."
-     },
-     {
-      "term": "inflation",
-      "definition": "The general rise in prices across the economy over time, which reduces how much a dollar can buy.",
-      "context": "Lifting interest rates is the RBA's main way to tame inflation by cooling spending."
-     },
-     {
-      "term": "Medicare levy",
-      "definition": "A tax most Australians pay to help fund the public health system, usually a percentage of income.",
-      "context": "Temporarily lifting the Medicare levy is listed as one government option to reduce inflation without raising rates."
-     }
-    ],
-    "quiz": {
-     "question": "Why does a cash rate rise affect Australians so unevenly?",
-     "options": [
-      "Because everyone's wages automatically rise with the cash rate",
-      "Because only renters are affected by interest rate changes",
-      "Because mortgage holders pay more while savers earn more, and renters get squeezed",
-      "Because the rate only applies to people who own four properties"
-     ],
-     "answer_index": 2,
-     "explanation": "The article splits Australians roughly into thirds: those with mortgages face higher repayments, renters are squeezed, and those who own their homes outright earn more on savings, so the same decision helps some and hurts others."
-    },
-    "background_beginner": "The Reserve Bank of Australia (RBA) is the country's central bank, and one of its big jobs is keeping inflation, the rate at which prices rise, under control. Its main tool is the cash rate, a baseline interest rate. When the RBA lifts it, borrowing becomes more expensive, which is meant to slow spending and ease price pressure. The catch is that most Australian home loans move with this rate, so mortgage holders quickly pay more. This keeps coming up because the cost of living and home ownership are huge concerns, and every rate decision reshapes who's financially comfortable and who's struggling, as these Melbourne Cup racegoers show.",
-    "impact_score": 62,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/734f093614d97f6fbc6a35b2d1f93a76?impolicy=wcms_watermark_news&cropH=1361&cropW=2420&xPos=0&yPos=227&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "The Reserve Bank's decision to lift interest rates helps savers but squeezes mortgage holders and renters, splitting Australians into winners and losers.",
-    "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-08/off-and-bracing-the-rates-decision-that-stopped-the-nation/107354058"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "0f0c15ca-2b25-5b5c-af91-9cca17e19f10",
-     "987f363a-a5f5-5deb-847b-cec418a04b50"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-07T19:25:42.947415+00:00",
-    "published_date": "2026-11-08",
-    "has_fulltext": true
-   },
-   {
     "id": "643ce47d-0e3e-53c1-ac4d-46f3a7f53d3d",
     "title": "Safety a top priority for Vic premier after food delivery driver stabbing",
     "simplified_title": "Melbourne delivery rider fatally stabbed, premier vows safety action",
@@ -308,79 +316,6 @@
     "related_story_ids": [],
     "reading_minutes": 4,
     "created_at": "2026-11-08T07:26:49.116229+00:00",
-    "published_date": "2026-11-08",
-    "has_fulltext": true
-   },
-   {
-    "id": "769a9e24-dacb-5b79-8001-eb7582cc7db9",
-    "title": "New Zealand may not know its government for weeks — key takeaways",
-    "simplified_title": "New Zealand election too close to call, weeks of waiting ahead",
-    "quick_summary": "New Zealand's election has produced no clear winner, with the result hinging on 700,000 uncounted special votes that won't be finalised until 27 November.",
-    "simplified_body": "New Zealanders have voted, but nobody yet knows who will govern. Prime Minister Christopher Luxon's centre-right National Party came out as the largest single party, and together with its partners — the libertarian ACT and populist New Zealand First — the right bloc is projected to hold 67 seats, just enough for a majority. Chris Hipkins' Labour Party, with the Greens and Te Pāti Māori (the Māori party), sits a few seats behind. National edged Labour in the party vote by a whisker — about 29.37% to 29.22%.\n\nThis matters because the outcome rests on roughly 700,000 \"special votes\" — overseas ballots and votes cast outside a voter's home electorate — that haven't been counted yet. These votes have historically leaned left, so the slim right-bloc lead could still flip. Official results aren't due until 27 November, and forming a government may take weeks more.\n\nNew Zealand uses Mixed Member Proportional (MMP) voting: each person casts two votes, one for a local MP and one for a party, so parliament roughly mirrors each party's national support. A quirk called the \"overhang\" adds extra seats when a party wins more local electorates than its party vote entitles it to. For the first time, a major party (National) may create an overhang, and newcomer centrist party Opportunity, led by Qiulae Wong, has crossed the 5% threshold to enter parliament.\n\nLuxon will run a caretaker government until the count is finalised. Analysts warn a coalition may not be formed before Christmas. Opportunity could become \"kingmaker\" if the numbers shift.",
-    "why_it_matters": "New Zealand is one of Australia's closest neighbours and partners, and the BBC notes record numbers of Kiwis have been leaving for Australia amid cost-of-living pressures — so who runs the country next door has direct knock-on effects here.",
-    "deep_analysis": "## Historical Context\n\nNew Zealand adopted the Mixed Member Proportional (MMP) voting system in 1996, deliberately designed so parliament reflects each party's share of the national vote. As Luxon pointed out, the system's architects always intended negotiation and compromise — single-party majorities are rare, and most governments are coalitions. This election stands out for two firsts: a major party (National) looking likely to create an \"overhang\", and Opportunity becoming the first brand-new party to clear the 5% threshold on its own rather than splintering from an existing party.\n\n## Multiple Perspectives\n\nThe sources broadly agree on the big picture but differ on detail. The Guardian puts Labour on 35 seats, while the BBC says 36. On the total size of parliament, the ABC refers to 131 seats (66 needed for a majority), while the Guardian says overhang seats could push it to a record 130 (65 needed). On the result's meaning, Luxon frames National as the largest party with \"a pathway\" to govern; Hipkins stresses the result demands everyone \"work together\". Te Pāti Māori co-leader Debbie Ngarewa-Packer openly wants the current government out and floats a four-way bloc with Labour, the Greens and Opportunity. Analysts quoted — from Victoria University of Wellington and the University of Otago — all emphasise that fine margins and the left-leaning special votes make the outcome genuinely uncertain.\n\n## What to Watch\n\nThe decisive factor is the 700,000 special votes. In 2023, such votes made up 21% of the total and handed the left extra seats, so a similar swing could erase the right bloc's slim lead. Watch the official results on 27 November, then the coalition negotiations — particularly whether Opportunity plays kingmaker, despite Luxon previously saying he wouldn't work with them. Also watch the unresolved debate over the Treaty of Waitangi, which the next government will inherit.",
-    "concepts": [
-     {
-      "term": "special votes",
-      "definition": "Ballots cast overseas or outside a voter's home electorate, which take longer to count and have historically favoured left-leaning parties in New Zealand.",
-      "context": "Around 700,000 of these are still to be counted and could decide the election."
-     },
-     {
-      "term": "Mixed Member Proportional (MMP)",
-      "definition": "A voting system where each person casts two votes — one for a local MP and one for a party — so parliament roughly matches each party's national vote share.",
-      "context": "New Zealand adopted MMP in 1996, and it usually produces coalition governments."
-     },
-     {
-      "term": "overhang",
-      "definition": "Extra seats added to parliament when a party wins more local electorates than its share of the party vote would normally allow.",
-      "context": "For the first time a major party, National, may create an overhang."
-     },
-     {
-      "term": "kingmaker",
-      "definition": "A smaller party whose support is needed for a larger bloc to reach a majority, giving it outsized bargaining power.",
-      "context": "Opportunity could play this role if the special votes shift the balance."
-     }
-    ],
-    "quiz": {
-     "question": "Why is the New Zealand election result still uncertain despite nearly all regular votes being counted?",
-     "options": [
-      "The two major parties have refused to accept the result",
-      "Around 700,000 special votes, which tend to favour the left, are still to be counted",
-      "The electoral commission lost some ballots",
-      "A recount has been ordered across every electorate"
-     ],
-     "answer_index": 1,
-     "explanation": "About 700,000 special votes — overseas and out-of-electorate ballots that historically lean left — won't be finalised until 27 November, and they could flip the right bloc's slim projected lead."
-    },
-    "background_beginner": "New Zealand held a general election on Saturday to choose its parliament and government. The two big parties are National (centre-right, led by Prime Minister Christopher Luxon) and Labour (centre-left, led by Chris Hipkins). Because New Zealand uses a proportional voting system, no single party usually wins outright, so parties team up in coalitions. National's usual partners are ACT and New Zealand First; Labour's are the Greens and Te Pāti Māori (the Māori party). This election was extremely close, with both major parties getting their lowest support in years amid a weak economy and high living costs. The result keeps coming up because it won't be settled until late November, when all votes are counted and coalition talks can begin.",
-    "impact_score": 58,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/253295d44b38c62e0cbce022606f3a57?impolicy=wcms_watermark_news&cropH=2385&cropW=4240&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "New Zealand's election has produced no clear winner, with the result hinging on 700,000 uncounted special votes that won't be finalised until 27 November.",
-    "tier": "LOCAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-08/new-zealand-election-results-key-takeaways/107359778"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "6711d278-fc57-5b85-a520-e21669abc629"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-11-07T19:25:50.695029+00:00",
     "published_date": "2026-11-08",
     "has_fulltext": true
    }
@@ -448,6 +383,64 @@
     "has_fulltext": true
    },
    {
+    "id": "a3e5c2e2-2e1c-5971-ae87-6fa0c6f2043f",
+    "title": "Okinawa governor calls for review of US forces pact after murder of Japanese woman",
+    "simplified_title": "Okinawa governor demands review of US forces pact after murder",
+    "quick_summary": "Okinawa's governor is calling for a fundamental review of a long-criticised agreement governing US troops in Japan after a US Marine was indicted for allegedly murdering a Japanese woman.",
+    "simplified_body": "Okinawa governor Genta Koja said on Monday he would request a review of the Status of Forces Agreement (SOFA) — a 1960 pact that critics say gives the US military preferential treatment in Japan. His call follows the indictment last month of a US Marine suspected of murdering a 39-year-old Japanese woman at an Okinawa hotel, a case that sparked outrage across the island.\n\nThis matters to the roughly 54,000 US military personnel stationed in Japan, most of them on Okinawa, and to the island's residents. Crimes committed by US personnel have long strained relations between the two close security allies. Under the current agreement, US military authorities have the primary right to investigate and punish service members who offend while on official duty — something critics say has at times blocked Japanese indictments.\n\nOkinawa hosts the bulk of US forces in Japan, a legacy of World War II and the Cold War. Locals have repeatedly protested over crime, noise and suspected soil pollution around bases, which critics describe as virtually extraterritorial and immune to Japan's domestic laws. Koja, elected in September, wants Japanese requests to transfer suspects before indictment to be honoured promptly, and Japanese laws such as the aviation act applied to the US military.\n\nOkinawan lawmakers adopted a resolution last month seeking revisions to the pact, soon to be submitted to the US embassy. On Friday, Japan and the United States agreed on measures to prevent crimes by service members, and US officials extended a 30-day curfew for some troops to Dec 7. Koja also wants the swift return of US-held land in Okinawa's commercial centre.",
+    "why_it_matters": "The dispute shows how the fine print of military alliances plays out in everyday lives — a live issue for Australia too, which hosts rotating US forces under its own arrangements and watches regional security closely.",
+    "deep_analysis": "## Historical Context\n\nOkinawa sits at the heart of a decades-old tension. The island hosts the bulk of US forces in Japan, a legacy of its role in World War II and the Cold War, and the 1960 Status of Forces Agreement (SOFA) has governed how US personnel are treated ever since. As background, Okinawa makes up a small share of Japan's land but carries a disproportionate share of US bases, which has long fuelled local frustration over crime, noise and environmental concerns. The article notes that US military authorities hold the primary right to investigate and punish service members on official duty, an arrangement critics say has sometimes blocked Japanese indictments.\n\n## Multiple Perspectives\n\nGovernor Koja frames the alleged murder as \"an extremely heinous crime\" and wants a fundamental review, including prompt transfer of detained suspects before indictment and applying Japanese laws to the US military. Notably, he is the first Okinawa leader in 12 years to approve of a contentious base relocation plan — keeping the Futenma air base on the main island but moving it to a less populated spot — suggesting he is not simply anti-base but seeking a better deal. The central government and the US, for their part, agreed on Friday to preventive measures and extended a curfew, signalling they take the anger seriously while preserving the alliance.\n\n## What to Watch\n\nWatch whether the Okinawan resolution submitted to the US embassy prompts any genuine SOFA revisions — historically a hard sell. Also watch the promised return of US-held land in Okinawa's commercial centre under the 2013 agreement, which Koja says will boost the local economy, and whether the extended curfew (to Dec 7) eases tensions or merely delays the next flashpoint.",
+    "concepts": [
+     {
+      "term": "SOFA",
+      "definition": "The Status of Forces Agreement, a 1960 pact setting the legal terms for US military personnel stationed in Japan, including who has the right to investigate and punish them.",
+      "context": "Critics argue SOFA makes US bases virtually extraterritorial and immune to Japan's domestic laws."
+     },
+     {
+      "term": "extraterritorial",
+      "definition": "Being outside the reach of the local country's laws — treated as if on another nation's territory.",
+      "context": "Critics say the extraterritoriality of US bases has deterred Japanese authorities from investigating suspected soil pollution around them."
+     },
+     {
+      "term": "indicted",
+      "definition": "Formally charged with a crime by prosecutors, allowing the case to proceed to court.",
+      "context": "Prosecutors indicted the US Marine last month on suspicion of murder."
+     }
+    ],
+    "quiz": {
+     "question": "Why do critics object to the current Status of Forces Agreement?",
+     "options": [
+      "It requires Okinawa to host all of Japan's bases forever",
+      "It forces Japan to pay all US military salaries",
+      "It bans US personnel from living off-base",
+      "It gives US military authorities primary rights to investigate and punish service members on official duty, sometimes blocking Japanese indictments"
+     ],
+     "answer_index": 3,
+     "explanation": "The article explains that under the pact US military authorities have the primary right to investigate and punish service members on official duty, which critics say has sometimes blocked indictments by Japanese investigators."
+    },
+    "background_beginner": "Okinawa is a southern Japanese island that hosts most of the roughly 54,000 US military personnel stationed in Japan — a long-running arrangement dating back to World War II and the Cold War, when the two countries became close security allies. Because so many troops are concentrated there, crimes and accidents involving US personnel have repeatedly angered locals. A key sticking point is the 1960 Status of Forces Agreement, which sets the legal rules for US troops and, critics argue, shields them from full accountability under Japanese law. The issue flares up after each serious incident — most recently the alleged murder of a Japanese woman by a US Marine.",
+    "impact_score": 58,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--Ln34AtMT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/09/000_d6vc4nr.jpg?itok=7LzuTMi2",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "Okinawa's governor is calling for a fundamental review of a long-criticised agreement governing US troops in Japan after a US Marine was indicted for allegedly murdering a Japanese woman.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/japan-okinawa-review-united-states-forces-pact-murder-6535351"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-09T07:25:38.167939+00:00",
+    "published_date": "2026-11-09",
+    "has_fulltext": true
+   },
+   {
     "id": "30370311-f9df-5f16-8cc2-47dcef93f748",
     "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
     "simplified_title": "Two Uyghur men fear deportation from Thailand to China",
@@ -508,6 +501,69 @@
     "reading_minutes": 3,
     "created_at": "2026-11-08T07:26:21.632778+00:00",
     "published_date": "2026-11-08",
+    "has_fulltext": true
+   },
+   {
+    "id": "492285e6-6746-5411-94da-cfb9268fc6ba",
+    "title": "'Feeling guilty': Price hikes a tough sell in Japan despite inflation",
+    "simplified_title": "Why Japanese shops still hate raising prices",
+    "quick_summary": "After decades of falling prices, Japanese businesses and shoppers are struggling to accept price rises even as inflation finally takes hold.",
+    "simplified_body": "Two big Japanese brands have shown just how touchy price rises are in Japan. Clothing giant Uniqlo lifted the price of its basic socks last month, copped a backlash, and quickly reversed the decision. Family restaurant chain Saizeriya added 20 yen (about US$0.13) to its Milanese Doria and issued an almost grovelling apology, with its president vowing to \"look for any excuses to lower prices again\".\n\nThis matters for everyone in Japan because the country spent decades in deflation — a long stretch where prices generally fell — which trained shoppers to treat price hikes as taboo. Small, rural businesses feel it hardest: a ramen owner named Sachi said she'd rather \"persevere myself\" than upset loyal customers with a 200-yen rise. Households facing soaring grocery bills are also eating out less and buying fewer clothes.\n\nHere's the background a newcomer needs. In 2013, then-prime minister Shinzo Abe launched ultra-loose monetary policy to end deflation. Inflation only really returned in 2022 after the Ukraine war caused an energy shock, and costs climbed further when, the article says, conflict disrupted Middle East oil supplies. Last month the Bank of Japan — the country's central bank — declared its 2 per cent inflation target met after 13 years.\n\nWhat happens next? The Bank of Japan is now raising interest rates, with borrowing costs at a more than 30-year high and likely to rise again. University of Tokyo economist Tsutomu Watanabe reckons it'll take \"another three to four years\" for consumers to accept steady inflation, noting pay rises remain \"largely insufficient\".",
+    "why_it_matters": "Japan is a major trading partner and economic bellwether for Australia, so how it finally shakes off decades of deflation affects the broader region — and it's a reminder that beating inflation is as much about public mindset as it is about numbers.",
+    "deep_analysis": "## Historical Context\n\nJapan's price problem is the mirror image of what most of the world has faced lately. Since the mid-1990s, the country was stuck in deflation — a persistent fall in prices that, counterintuitively, is bad for an economy because people delay spending and wages stagnate. In 2013, then-prime minister Shinzo Abe rolled out aggressive monetary easing (often nicknamed \"Abenomics\") to break the cycle, and successive governments stuck with it. As background, this was one of the longest and most-watched economic experiments in the developed world. It took an external shock — the 2022 Ukraine war energy spike — to finally stir inflation in resource-poor Japan, followed by further supply-chain pressure the article links to Middle East conflict.\n\n## Multiple Perspectives\n\nBusiness owners are caught in a bind. Big brands like Uniqlo guard a reputation for affordability, while small operators like ramen owner Sachi fear losing the loyal regulars who keep them alive. Shoppers like Tokyo worker Kazuhiko Sato are cutting back, eating out less and leaning on imports. Economist Tsutomu Watanabe frames the deeper issue: unlike other Group of Seven (G7) economies where decent wage hikes have kept spending steady, Japan's pay rises remain thin, so companies' \"pricing power\" is still dictated by consumers. He calls Japan \"a convalescent\" recovering from decades of deflation.\n\n## What to Watch\n\nKeep an eye on three things: whether the Bank of Japan keeps lifting interest rates from their 30-year high; whether wage growth broadens beyond the eight straight months of real-wage gains already recorded; and whether consumer psychology shifts. Watanabe's three-to-four-year timeline is the key marker for when hikes might stop feeling taboo.",
+    "concepts": [
+     {
+      "term": "deflation",
+      "definition": "A sustained fall in general prices, which can stall an economy as people and businesses hold off spending.",
+      "context": "Japan spent decades in deflation, training shoppers to see price rises as unacceptable."
+     },
+     {
+      "term": "Bank of Japan",
+      "definition": "Japan's central bank, which sets monetary policy and interest rates.",
+      "context": "It declared its 2 per cent inflation target met and is now raising interest rates."
+     },
+     {
+      "term": "inflation",
+      "definition": "A general rise in prices over time, reducing what each unit of money can buy.",
+      "context": "Inflation only returned to Japan in 2022 after a global energy shock."
+     },
+     {
+      "term": "interest rates",
+      "definition": "The cost of borrowing money, raised by central banks to cool inflation.",
+      "context": "The Bank of Japan has pushed borrowing costs to a more than 30-year high."
+     }
+    ],
+    "quiz": {
+     "question": "Why do Japanese firms find it so hard to raise prices compared with other G7 countries?",
+     "options": [
+      "Decades of deflation left consumers averse to hikes while wage rises stay weak",
+      "The government legally caps price increases",
+      "Japanese businesses face no rising costs",
+      "There is no inflation anywhere in Japan"
+     ],
+     "answer_index": 0,
+     "explanation": "The article explains that decades of deflation made price rises feel taboo, and unlike other G7 economies, Japan's wage hikes remain insufficient to keep spending strong."
+    },
+    "background_beginner": "Japan is one of the world's biggest economies, but for about 30 years it was stuck in deflation — a rare situation where prices gradually fell instead of rising. That made shoppers expect cheap goods and treat price rises as almost offensive. Governments, starting with then-prime minister Shinzo Abe in 2013, tried for years to spark gentle inflation. It finally arrived around 2022 after global energy shocks pushed up costs. Now businesses, from giant Uniqlo to small ramen shops, must raise prices to survive but fear angering loyal customers. The Bank of Japan, the central bank, is also lifting interest rates, making this a recurring national tug-of-war.",
+    "impact_score": 55,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--AD42fkCx--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-08T064006Z_1_LYNXMPEM970DZ_RTROPTP_3_JAPAN-COMPANY-UNIQLO.JPG?itok=dgjl1y2N",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "After decades of falling prices, Japanese businesses and shoppers are struggling to accept price rises even as inflation finally takes hold.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/japan-inflation-price-hikes-uniqlo-saizeriya-6533786"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-09T07:26:15.009612+00:00",
+    "published_date": "2026-11-09",
     "has_fulltext": true
    },
    {
@@ -575,86 +631,6 @@
    }
   ],
   "EUROPE": [
-   {
-    "id": "cec15dcf-d5c4-50bb-9868-53fea88f5128",
-    "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-    "simplified_title": "Russia Strikes Kyiv Power Grid Days Before Peace Talks",
-    "quick_summary": "A major overnight Russian drone and missile attack on Ukraine's energy grid left Kyiv with blackouts and water and heating disruptions, just days before peace talks in Abu Dhabi.",
-    "simplified_body": "Russia hit Kyiv and surrounding regions overnight with 172 drones and 36 ballistic missiles, damaging energy infrastructure, a bridge over the Dnipro River, and even a kindergarten. The capital was left with serious disruptions to electricity, water and heating as overnight temperatures dropped to 0 degrees Celsius. Casualty reports differ: the Guardian says five people were injured including a 14-year-old girl, the BBC reports nine hurt including one child, and DW says one person was killed and eight wounded. President Volodymyr Zelenskyy accused Moscow of trying to \"plunge Kyiv and the entire country into a blackout\".\n\nThis affects millions of civilians heading into a brutal winter. Ukrainian officials say the Kremlin — a term for the Russian government — is deliberately trying to freeze people into submission, which they call a war crime. Russia's Defence Ministry says it struck energy, transport and military targets, including a plant it claims produces Flamingo cruise missiles.\n\nRussia invaded Ukraine in February 2022. Since summer it has ramped up air attacks on cities as its progress on the frontline stalled; Kyiv says Russia lost 54,000 troops killed or injured last month. The strikes come days before a fourth round of trilateral (three-party) talks between Ukraine, Russia and the United States in Abu Dhabi, capital of the United Arab Emirates.\n\nZelenskyy is sceptical. He called a plan floated by Jared Kushner — US President Donald Trump's son-in-law — \"Yalta 2.0\", warning against Europe being carved up by Russia. Trump says a \"big beautiful agreement\" could be close. Previous rounds have produced no breakthrough on territory or security.",
-    "why_it_matters": "Deliberately targeting civilian power and water during winter is a potential war crime that could displace more people and reshape any peace deal. Australia has backed Ukraine with military and financial aid and sanctions on Russia, so the direction of these US-brokered talks matters here too.",
-    "deep_analysis": "## Historical Context\n\nRussia launched a full-scale invasion of Ukraine in February 2022, causing thousands of civilian casualties and displacing millions. Since the summer, with its frontline progress stalled, Russia has shifted to heavy air attacks on Ukrainian cities and energy infrastructure — and more recently on bridges. Zelenskyy's \"Yalta 2.0\" jab refers to the 1945 summit where Stalin, Roosevelt and Churchill effectively divided postwar Europe into spheres of influence; the fear is that today's talks could do something similar over Ukraine's head. Underlying it all is the Kremlin's longstanding demand that NATO (North Atlantic Treaty Organisation) reverse its expansion. Shortly before invading, Putin demanded NATO return to its pre-1997 posture — before the Baltic states and nations in eastern Europe and the Balkans joined.\n\n## Multiple Perspectives\n\nUkraine says the strikes are timed to pressure it ahead of talks and are designed to freeze civilians into submission — a war crime. Russia's Defence Ministry frames the same strikes as hitting legitimate military and industrial targets, including a plant it claims makes Flamingo cruise missiles and a bridge it says moved weapons. Trump is optimistic about a \"big beautiful agreement\" involving \"all of Europe\", and Kushner points to a new European security framework. Zelenskyy and European partners are deeply sceptical, warning that agreeing to Russia's demands would, in the words of Western diplomats, effectively end NATO. The sources also diverge on casualties — a reminder that early figures in active conflicts are often provisional.\n\n## What to Watch\n\nThe fourth round of trilateral talks in Abu Dhabi on Tuesday and Wednesday is the key event — watch whether territorial and security sticking points move at all. Also watch the scale of further strikes as winter deepens, whether US support (and sanctions pressure) increases given the new Congress, and reports that Zelenskyy may be invited to the UK for a state visit next year.",
-    "concepts": [
-     {
-      "term": "ballistic missiles",
-      "definition": "Powerful rockets that follow a high, arcing flight path to their target, hard to intercept and capable of heavy damage.",
-      "context": "Russia used 36 of them alongside 172 drones in the overnight attack on Kyiv."
-     },
-     {
-      "term": "Kremlin",
-      "definition": "A shorthand term for the Russian government and its leadership, named after the fortified complex in Moscow.",
-      "context": "Ukrainian officials say the Kremlin wants to freeze civilians into submission over winter."
-     },
-     {
-      "term": "trilateral",
-      "definition": "Involving three parties or sides.",
-      "context": "Ukraine, Russia and the United States are due to hold a fourth round of trilateral talks in Abu Dhabi."
-     },
-     {
-      "term": "Yalta 2.0",
-      "definition": "A reference to the 1945 Yalta summit where Allied leaders divided postwar Europe, used here as a warning against carving up Ukraine.",
-      "context": "Zelenskyy used the phrase to criticise a peace blueprint floated by Jared Kushner."
-     }
-    ],
-    "quiz": {
-     "question": "Why do Ukrainian officials say Russia is targeting energy infrastructure right now?",
-     "options": [
-      "To freeze civilians into submission over winter and pressure Ukraine before peace talks",
-      "To capture new territory in eastern Ukraine",
-      "To destroy Ukraine's army on the frontline",
-      "To force NATO countries to send troops"
-     ],
-     "answer_index": 0,
-     "explanation": "The articles say Russia has stepped up strikes on energy infrastructure as its frontline progress stalled, and Ukrainian officials argue the aim is to freeze civilians into submission over winter — with the strikes timed just before the Abu Dhabi talks."
-    },
-    "background_beginner": "Russia invaded Ukraine in a full-scale attack in February 2022, and the war has killed thousands of civilians and forced millions from their homes. The two main leaders are Ukraine's president, Volodymyr Zelenskyy, and Russia's president, Vladimir Putin. The United States, under President Donald Trump, has been trying to broker peace, holding talks that also involve Russia and Ukraine. A big sticking point is NATO, a Western military alliance Russia wants to see pull back from eastern Europe. The story keeps returning to the news because Russia repeatedly strikes Ukrainian cities and power grids — especially in winter — while rounds of peace talks come and go without a breakthrough.",
-    "impact_score": 78,
-    "image_url": "https://i.guim.co.uk/img/media/e51e3a880a5661d978f95a21cc47d7489b533135/0_355_4556_3645/master/4556.jpg?width=1920&quality=85&auto=format&fit=max&s=69ba8a622a818a096c32f0e737361b31",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "A major overnight Russian drone and missile attack on Ukraine's energy grid left Kyiv with blackouts and water and heating disruptions, just days before peace talks in Abu Dhabi.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "125d29b9-508a-5f59-9f71-fabf8ce8d6f8",
-     "42354814-eb79-5ad0-91e2-45843c4d5b20",
-     "86edd3b2-5321-52c5-81ae-054d5ee6f159",
-     "d30189ff-6a38-5bdf-9167-96edac892f4b",
-     "d31c63c1-f0b3-5273-9605-793d7030e47e",
-     "d9ce4437-96d9-589d-bae9-6b7500514f5f",
-     "ea512abb-8d00-5904-b400-e86e76228a2d",
-     "fb9180f1-fa27-5646-8dfe-683b66906451"
-    ],
-    "reading_minutes": 2,
-    "created_at": "2026-11-07T19:25:43.939248+00:00",
-    "published_date": "2026-11-08",
-    "has_fulltext": true
-   },
    {
     "id": "2f359eb0-5805-5e39-b3bb-5caa020d0e0f",
     "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
@@ -1139,6 +1115,68 @@
     "has_fulltext": true
    },
    {
+    "id": "092cf373-2f4e-5c92-ac73-0b8996ee2009",
+    "title": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
+    "simplified_title": "Migrant boat sinks off Senegal, at least 34 dead",
+    "quick_summary": "A small migrant boat heading from West Africa toward Spain's Canary Islands sank off Senegal, killing at least 34 people with only one survivor found so far.",
+    "simplified_body": "A small boat carrying migrants sank off northwestern Senegal, killing at least 34 people, authorities said on Sunday. Only one survivor has been found, and an \"indeterminate number\" of people are still missing. The pirogue-type flat-bottomed boat capsized near Kebemer, roughly 180 kilometres north of the capital, Dakar. The Senegalese interior ministry first reported 21 bodies, but the toll was later confirmed at 34 by the Senegalese Press Agency (APS) and a rights group, Action for Human Rights and Friendship (ADHA). Accounts differ on timing: media reports say the boat capsized on Saturday, while migrant aid group Boza Fii says the sinking happened on Friday.\n\nThis affects West African communities, where thousands try each year to reach Europe along the dangerous Atlantic route. The bodies recovered so far are Senegalese, though not all nationalities are confirmed. President Bassirou Diomaye Faye said state resources were mobilised to find the missing and support families, and pledged to crack down on those organising the crossings.\n\nThe route runs from West Africa to Spain's Canary Islands, a group of Spanish islands in the Atlantic Ocean. Arrivals hit a record 46,000 in 2024 before falling as surveillance tightened. Senegal, Mauritania and Morocco have stepped up patrols, pushing boats further south and lengthening the already risky journey.\n\nOn the Canary island of El Hierro, home to about 11,400 people, authorities declared an emergency on Saturday after more than 3,300 people arrived on around 30 boats since the start of November. Senegalese police also intercepted 142 migrants on Friday on a similar boat bound for Spain.",
+    "why_it_matters": "These deaths are part of a long-running humanitarian crisis on one of the world's deadliest sea routes, and they show how tougher patrols can simply push desperate people onto longer, more dangerous crossings rather than stopping them.",
+    "deep_analysis": "## Historical Context\n\nThe Atlantic route from West Africa to Spain's Canary Islands has become one of the most-used and most dangerous migration paths to Europe. Thousands have died in recent years attempting the crossing in small boats. Arrivals peaked at a record 46,000 in 2024 before falling sharply as authorities increased surveillance and cooperation with African countries. This latest sinking off Senegal, killing at least 34, is the newest tragedy in that pattern.\n\n## Multiple Perspectives\n\nThe sources show some disagreement on the basic facts. On timing, media reports say the boat capsized on Saturday, while Saliou Diouf of the aid group Boza Fii told AFP the sinking occurred on Friday. On the death toll, the Senegalese interior ministry initially gave a provisional figure of 21 bodies and one survivor, which APS and the rights group ADHA later revised up to at least 34.\n\nThe Senegalese government frames the response around both compassion and enforcement: President Faye pledged support for families while vowing to fight the networks organising crossings. The El Hierro council, meanwhile, speaks from the receiving end, with its head Alpidio Armas describing hospital conditions as \"undesirable\" and arrivals as a \"sharp increase\" straining a small island community.\n\n## What to Watch\n\nWatch whether tighter patrols by Senegal, Mauritania and Morocco continue pushing boats further south toward Gambia, Guinea-Bissau and Guinea, lengthening the crossings. Also watch the search off Kebemer, where an \"indeterminate number\" remain missing, and whether El Hierro's declared emergency draws promised cooperation from higher-level Spanish institutions.",
+    "concepts": [
+     {
+      "term": "Canary Islands",
+      "definition": "A group of Spanish islands in the Atlantic Ocean, off the northwest coast of Africa, that migrants aim to reach to enter Europe.",
+      "context": "They are the destination for boats travelling the dangerous Atlantic route from West Africa."
+     },
+     {
+      "term": "pirogue",
+      "definition": "A long, narrow, flat-bottomed traditional boat used for fishing and, increasingly, for migrant crossings.",
+      "context": "The boat that sank off Senegal was described as a pirogue-type flat-bottomed vessel."
+     },
+     {
+      "term": "Atlantic route",
+      "definition": "The sea crossing migrants take from West Africa to Spain's Canary Islands, known for being especially deadly.",
+      "context": "Thousands have died on this route in recent years trying to reach Europe."
+     }
+    ],
+    "quiz": {
+     "question": "According to the articles, what effect have stepped-up patrols by Senegal, Mauritania and Morocco had on migrant crossings?",
+     "options": [
+      "They have redirected all migrants to overland routes instead",
+      "They have reduced the death toll on the Atlantic route to zero",
+      "They have forced boats to head further south, lengthening the dangerous crossing",
+      "They have completely stopped boats from leaving West Africa"
+     ],
+     "answer_index": 2,
+     "explanation": "The sources say increased patrols around departure points have pushed boats further south toward Gambia, Guinea-Bissau and Guinea, which prolongs the already hazardous journey rather than stopping it."
+    },
+    "background_beginner": "Every year, thousands of people from West African countries like Senegal, Gambia and Guinea try to reach Europe by boat, hoping for work and a better life. One of the main paths is the Atlantic route, which runs from the West African coast to Spain's Canary Islands — Spanish territory out in the Atlantic Ocean. The boats are often small, overcrowded fishing vessels called pirogues, and the open-ocean crossing is one of the deadliest in the world. The story keeps coming up because poverty, limited opportunities and smuggling networks keep driving people to attempt it, while European and African governments respond with patrols and crackdowns. Sinkings like this one off Senegal, killing dozens, are a recurring and tragic result.",
+    "impact_score": 62,
+    "image_url": "https://s.france24.com/media/display/8db004c0-db6f-11f1-9c7c-a575454bc579/w:1280/p:16x9/c9e8d80cbfc13f8f43d3833c67fbf17f6e5ccb25.jpg",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "A small migrant boat heading from West Africa toward Spain's Canary Islands sank off Senegal, killing at least 34 people with only one survivor found so far.",
+    "tier": "GLOBAL",
+    "category": "SOCIETY_CULTURE",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-09T07:25:39.861583+00:00",
+    "published_date": "2026-11-09",
+    "has_fulltext": true
+   },
+   {
     "id": "c57ad799-99e0-5a41-a571-2494568567eb",
     "title": "Seven dead and more than 100 injured after trains collide in Egypt",
     "simplified_title": "Train Crash Near Giza in Egypt Kills Seven, Injures Over 100",
@@ -1264,6 +1302,150 @@
     ],
     "reading_minutes": 2,
     "created_at": "2026-11-08T19:27:24.996405+00:00",
+    "published_date": "2026-11-09",
+    "has_fulltext": true
+   },
+   {
+    "id": "ef6efe88-ef80-5bca-b508-7a3ceb4ead5c",
+    "title": "Top Democrat Hakeem Jeffries 'a hard yes' on impeaching Pete Hegseth",
+    "simplified_title": "Democrats line up to impeach Defence Secretary Pete Hegseth",
+    "quick_summary": "Top Democrat Hakeem Jeffries says he's \"a hard yes\" on impeaching US Defence Secretary Pete Hegseth, as his party prepares to take control of Congress in January.",
+    "simplified_body": "Hakeem Jeffries, the New York congressman tipped to become the next Speaker of the US House of Representatives, has declared himself \"a hard yes\" on impeaching Defence Secretary Pete Hegseth. He accuses Hegseth of abusing his power, undermining national security and engineering a \"reckless and costly war of choice in Iran\". Outgoing Republican congressman Thomas Massie plans to introduce a resolution with eight articles of impeachment, alleging Hegseth made war on Iran without the congressional approval required under the War Powers Resolution of 1973.\n\nThis matters for the roughly 1.3 million-strong US military Hegseth oversees, and for a Trump administration reeling from last week's midterm elections, which handed Democrats control of both chambers of Congress from January. President Donald Trump is defending Hegseth, calling the push \"very unfair\", while the Pentagon says it followed the law and won't be deterred by \"phony investigations\". Hegseth himself dismissed the effort as \"political theatre disguised as power\".\n\nImpeachment is a two-step process: the House votes by simple majority to charge an official with misconduct, then the Senate decides whether to remove them — but that needs a two-thirds vote. Democrats hold a 254-seat House majority, well past the 218 needed to impeach, yet fall far short of the Senate threshold, so removal would need Republican support. The House has only ever impeached two cabinet officials, and neither was convicted.\n\nWhat happens next is uncertain. Some analysts suggest Trump might fire Hegseth for a dramatic \"ratings bump\", or that Hegseth could resign before January. Democrats also plan broader probes into figures like new chief of staff Stephen Miller and DOGE. The White House is pushing back, with Trump urging investigations into Democrats instead.",
+    "why_it_matters": "A sitting US Defence Secretary facing impeachment over an unpopular war with Iran signals deep turmoil at the top of America's military — and instability in Washington ripples through to allies like Australia who rely on US defence partnerships.",
+    "deep_analysis": "## Historical Context\n\nImpeachment of cabinet officials is extraordinarily rare in the United States. The sources note the House has only ever impeached two cabinet officials, and neither was convicted by the required two-thirds Senate majority. The current push centres on the War Powers Resolution of 1973, a law meant to limit a president's — or in this case, a defence secretary's — ability to commit US forces to combat without congressional authorisation. Massie's resolution alleges Hegseth made war on Iran without that approval.\n\nHegseth's path to office was itself contested. The Senate confirmed him 51 votes to 50, with Vice-President JD Vance casting the tie-breaker — one of the narrowest margins possible, reflecting unease on both sides of the aisle about a former soldier and Fox News presenter running the world's largest military.\n\n## Multiple Perspectives\n\nDemocrats, led by Jeffries, frame this as accountability for abuse of power and an unpopular war. Colorado's Jason Crow calls Hegseth \"incompetent and corrupt\". Outgoing Republican Massie, a critic of both Trump and Hegseth, adds a rare cross-party dimension, citing strikes on Iran and Yemen, boat attacks in the Caribbean, and a political investigation.\n\nTrump and the Pentagon reject it all as \"political theatre\" and \"phony investigations\". Attorney General Todd Blanche warns Democrats could themselves face investigation over \"threatening\" rhetoric, and Trump has called for probes into Democratic donors. Analysts offer a third reading: Cornell's Tom Pepinsky suggests Trump might fire Hegseth for a \"ratings bump\", while Harvard's Stephen Ansolabehere wouldn't be surprised if Hegseth resigned first.\n\n## What to Watch\n\nWhether Massie actually introduces the resolution (flagged for as early as Monday), whether Trump moves against Hegseth before Republicans lose their Senate majority, and whether Democrats pivot to broader probes of Stephen Miller, Elon Musk and DOGE once sworn in on January 3.",
+    "concepts": [
+     {
+      "term": "impeachment",
+      "definition": "A rare process where the House of Representatives can vote to charge an official with misconduct, and the Senate can then vote to remove them from office.",
+      "context": "House Democrats are pushing to impeach Hegseth, but removal requires a two-thirds Senate vote they can't reach alone."
+     },
+     {
+      "term": "War Powers Resolution of 1973",
+      "definition": "A US law requiring congressional authorisation before committing American forces to armed conflict.",
+      "context": "Massie's resolution alleges Hegseth made war on Iran without this required approval."
+     },
+     {
+      "term": "articles of impeachment",
+      "definition": "The formal written charges of misconduct that the House votes on when seeking to impeach an official.",
+      "context": "Massie's resolution contains eight articles of impeachment against Hegseth."
+     },
+     {
+      "term": "DOGE",
+      "definition": "The Department of Government Efficiency, a federal initiative that cut large numbers of government jobs and sought access to sensitive data.",
+      "context": "Democrats signalled interest in questioning Elon Musk over his leadership of DOGE."
+     }
+    ],
+    "quiz": {
+     "question": "Why can't House Democrats remove Pete Hegseth from office on their own?",
+     "options": [
+      "They don't have the 218 votes needed to impeach him in the House",
+      "Only the President can remove a cabinet official",
+      "The Supreme Court must approve any impeachment first",
+      "Removal requires a two-thirds Senate vote, which needs Republican support"
+     ],
+     "answer_index": 3,
+     "explanation": "Democrats have a 254-seat House majority, easily past the 218 needed to impeach. But conviction and removal require a two-thirds Senate vote — a bar they can't clear without Republicans crossing over."
+    },
+    "background_beginner": "Pete Hegseth is the US Secretary of Defence — the civilian in charge of America's military — appointed by President Donald Trump. A former soldier and Fox News presenter, he was a controversial pick, scraping through his Senate confirmation by a single tie-breaking vote. His biggest flashpoint is US military action against Iran, a war many Americans dislike. After Trump's Republicans lost badly in the November midterm elections, Democrats are set to control Congress from January. Both Democrats and some Republicans, like Thomas Massie, now want to impeach Hegseth — formally charge him with misconduct — arguing he overstepped his powers. The fight keeps flaring because Washington is sharply divided and both sides are threatening investigations of each other.",
+    "impact_score": 68,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c025/live/b24c5e80-dbbc-11f1-b441-2b33b063138f.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Top Democrat Hakeem Jeffries says he's \"a hard yes\" on impeaching US Defence Secretary Pete Hegseth, as his party prepares to take control of Congress in January.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-09/donald-trump-revamping-team-and-pete-hegeth-could-be-next/107358974"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-09T07:25:43.787708+00:00",
+    "published_date": "2026-11-09",
+    "has_fulltext": true
+   },
+   {
+    "id": "8f52884d-e0ba-5ead-8f77-5300da669fd5",
+    "title": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
+    "simplified_title": "Pope Leo rebukes Milei's austerity on landmark Argentina visit",
+    "quick_summary": "Pope Leo XIV used the first papal visit to Argentina in nearly 40 years to publicly criticise President Javier Milei's harsh spending cuts, insisting the economy must serve people.",
+    "simplified_body": "Pope Leo XIV landed in Buenos Aires on Sunday and almost immediately took aim at President Javier Milei's austerity program (deep cuts to government spending). \"The economy must be at the service of the people, rather than people being at the service of the economy,\" he said, to rapturous applause. He defended the poor, pensioners and people affected by illness and disability — a veiled dig at the government's controversial cuts to disability assistance — and told Milei that strengthening democracy needs a \"willingness to listen\".\n\nThis matters most to ordinary Argentines doing it tough. The poverty rate climbed to 32.3 percent in September, and the thinktank Mate estimates retirees on the minimum pension have lost about 30 percent of their purchasing power. A home for roughly 400 disabled residents near Buenos Aires says the government stopped supplying medications and essentials a year ago.\n\nSome background: Argentina was home to the late Pope Francis, who Milei — a self-described libertarian who campaigned waving a chainsaw — once called an \"imbecile\" for his pro-poor teachings. This is the first visit by a pope since John Paul II in 1987; Francis never returned during his papacy. Leo, 71, is on a 12-day Latin America tour just three weeks after lung cancer surgery, and says he is \"retracing\" Francis's steps.\n\nOver three days Leo will visit a disabled home, a prison, and hold three open-air masses, with 7 million people expected to attend. Milei's ministers insist the pope won't comment on local politics — but his itinerary, including a protest-hit state aircraft factory, suggests otherwise.",
+    "why_it_matters": "When the leader of the world's 1.4 billion Catholics directly challenges a Trump-aligned leader's economic agenda, it's a flashpoint watched well beyond Argentina — including in Australia, where debates about welfare, pensions and the \"deserving\" use of public money are never far from the surface.",
+    "deep_analysis": "## Historical Context\n\nThis is the first papal visit to Argentina since Pope John Paul II in 1987 — nearly four decades. The gap is especially pointed because the previous pope, Francis, was Argentine yet never once returned home during his papacy, leaving many of the faithful disappointed. Francis built his reputation on pro-poor \"social justice\" teaching, which put him squarely at odds with Milei, who branded him an \"imbecile\" and worse. Pope Leo, who spent nearly two decades as a missionary on the continent, is explicitly framing this trip as \"retracing\" Francis's steps and upholding the Church's social doctrine.\n\nThe backdrop is also one of religious change. Catholic identification in Argentina has fallen to 57.7 percent (from around 90 percent in the 1960s), while evangelical churches are rising — a shift Milei has courted, recently inaugurating an evangelical temple.\n\n## Multiple Perspectives\n\nThe clash is partly ideological. Critics, including a disabled home's coordinator, cast Milei as a \"hyper-capitalist\" who values people by their productivity, against a pope who insists worth isn't measured by output. Milei's government downplays any tension, with one minister saying \"there's no way the pope is going to come here to comment on local politics.\"\n\nBut Milei retains a loyal base precisely because he dramatically reduced the runaway inflation he was elected to tame. His defenders frame the cuts to hospitals, universities and pensions as painful but necessary. The local Catholic bishops, Amnesty International and retiree marchers see it differently, denouncing treatment of social services as a mere \"budgetary constraint\". There's even a forward-looking fault line over artificial intelligence, which Leo wants \"disarmed\" and Milei wants deregulated.\n\n## What to Watch\n\nWatch the masses and the stops — especially the FAdeA state aircraft factory in Córdoba, where workers have protested Milei's cuts. How pointedly Leo speaks there, and how Milei responds given his cordial-so-far tone, will signal whether this stays diplomatic or becomes an open showdown over Argentina's direction and next year's re-election bid.",
+    "concepts": [
+     {
+      "term": "austerity",
+      "definition": "A government policy of sharply cutting public spending — on things like pensions, hospitals and welfare — usually to reduce debt or inflation.",
+      "context": "Milei's austerity program is the central target of Pope Leo's criticism."
+     },
+     {
+      "term": "pensioners",
+      "definition": "Retired people who live on a pension, often a fixed government payment that can lose value when prices rise.",
+      "context": "Leo defended pensioners, who Mate estimates have lost about 30% of their purchasing power."
+     },
+     {
+      "term": "libertarian",
+      "definition": "Someone who believes government should be as small as possible, leaving most decisions to free markets and individuals.",
+      "context": "Milei describes himself as a libertarian and campaigned waving a chainsaw to symbolise spending cuts."
+     },
+     {
+      "term": "poverty rate",
+      "definition": "The share of a population living below a set income level considered necessary for basic needs.",
+      "context": "Argentina's poverty rate climbed to 32.3 percent in September under Milei."
+     }
+    ],
+    "quiz": {
+     "question": "Why was Pope Leo's criticism of Milei's austerity seen as especially significant?",
+     "options": [
+      "Argentina was the home country of the late Pope Francis, whom Milei had insulted, and this was the first papal visit in nearly 40 years",
+      "Milei had publicly asked the Pope to endorse his cuts",
+      "The Pope ordered Milei to resign during the speech",
+      "The Catholic Church controls Argentina's budget"
+     ],
+     "answer_index": 0,
+     "explanation": "The visit carried extra weight because Argentina was Francis's homeland — a pope Milei had called an 'imbecile' — and no pontiff had visited since John Paul II in 1987, making Leo's defence of the poor pointed rather than routine."
+    },
+    "background_beginner": "Argentina is a largely Catholic South American country that, until recently, was known as the homeland of Pope Francis — the first Latin American pope. In late 2023 it elected Javier Milei, a self-described libertarian economist who promised to crush sky-high inflation by slashing government spending on pensions, hospitals, universities and disability support. Those cuts have been painful, pushing poverty up and angering many. Milei, an ally of Donald Trump, had a frosty history with Francis, even calling him names. Now a new pope, Leo XIV — who worked for decades as a missionary in the region — is touring the continent and defending the poor, reviving a long-running tension between the Church's social teaching and Milei's free-market agenda.",
+    "impact_score": 62,
+    "image_url": "https://s.france24.com/media/display/39bb378c-dbaf-11f1-8a96-1beafce15fea/w:1280/p:16x9/2026-11-08T200018Z-1909450093-RC2WJOAQHQ73-RTRMADP-3-POPE-LATAM-ARGENTINA.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Pope Leo XIV used the first papal visit to Argentina in nearly 40 years to publicly criticise President Javier Milei's harsh spending cuts, insisting the economy must serve people.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "763c786a-9312-5696-963a-a7efb2a73b33"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-09T07:25:52.037142+00:00",
     "published_date": "2026-11-09",
     "has_fulltext": true
    },
@@ -1475,129 +1657,133 @@
     "has_fulltext": true
    },
    {
-    "id": "4ed13ae6-d434-514c-9f99-c312147376ee",
-    "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting",
-    "simplified_title": "US Presses China to Honour Busan Trade Deal Before Trump-Xi Talks",
-    "quick_summary": "Top US officials have urged China to fully and immediately deliver on its 2025 Busan trade promises, especially on farm purchases and rare earth minerals, ahead of another Trump-Xi meeting.",
-    "simplified_body": "US Treasury Secretary Scott Bessent and US Trade Representative Jamieson Greer held a videoconference on Friday with Chinese Vice Premier He Lifeng. They pushed Beijing to \"fully and immediately\" honour the commitments it made in a 2025 trade agreement, particularly on agricultural purchases, rare earths and other critical minerals. He Lifeng, for his part, raised \"serious concern\" over recent US trade restrictions, though Chinese state media didn't spell out which ones.\n\nThis matters to farmers, manufacturers and tech companies on both sides. Under the deal, China agreed to buy 25 million metric tons of US soybeans each year for three years, while promising to keep its rare earth exports flowing and to suspend new export curbs. Rare earths are vital for the technology industry, and Washington has previously complained Beijing wasn't keeping up its end.\n\nSome background: the agreement was struck when Trump and Chinese President Xi Jinping met in Busan, South Korea, on the sidelines of an Asia-Pacific Economic Cooperation (APEC) summit. It followed a round of tit-for-tat tariff hikes and capped US tariffs on Chinese goods at about 20%. Originally a one-year pact, it was later extended to 10 January next year.\n\nBoth sides said they'd keep managing their differences to keep trade \"stable\". Trump and Xi are expected to meet again at the APEC forum in Shenzhen on 18-19 November. China has also confirmed, for the first time, that it's discussing a possible three-way summit involving Trump, Xi and Russian President Vladimir Putin.",
-    "why_it_matters": "The world's two biggest economies staying at the negotiating table affects global prices and supply chains — and for Australia, a major resources exporter, how China manages its rare earth and critical mineral exports has direct consequences.",
-    "deep_analysis": "## Historical Context\n\nTensions between Washington and Beijing escalated as part of Trump's broader tariff policy, which particularly targeted China. The two countries traded rounds of tariff increases before reaching an accord in 2025 at a Trump-Xi meeting in Busan, South Korea, on the sidelines of an APEC summit. That deal capped US tariffs on Chinese goods at about 20%, locked in Chinese soybean purchases of 25 million metric tons a year for three years, and saw Beijing agree to keep rare earth exports flowing. It began as a one-year arrangement and was later extended until 10 January next year.\n\n## Multiple Perspectives\n\nThe US side, represented by Bessent and Greer, framed the call around China delivering \"concrete actions\" on its past commitments — agriculture, rare earths and critical minerals — and tied this to protecting American workers, farmers and businesses, as well as national security. The Chinese side, through He Lifeng and reported by state agency Xinhua, instead voiced \"serious concern\" about recent US trade restrictions without naming them. Despite the different emphases, both parties publicly agreed to strengthen cooperation and \"properly manage differences\" to keep the relationship stable.\n\n## What to Watch\n\nThe clearest marker is the upcoming APEC forum in Shenzhen on 18-19 November, where Trump and Xi are expected to meet again. Also worth watching is whether a reported trilateral summit of Xi, Trump and Putin actually eventuates — China's Foreign Ministry spokesperson Mao Ning confirmed communications are underway but offered no detail. Beyond that, keep an eye on whether China's soybean buying and rare earth exports match the pledged figures before the 10 January extension deadline.",
+    "id": "906ddd44-31c5-51c5-ac78-4f03a66323c7",
+    "title": "Asian stocks steady as AI, Middle East jitters recede",
+    "simplified_title": "Asian markets bounce back after brutal AI sell-off week",
+    "quick_summary": "Asian share markets steadied on Monday after a wild week in which fears about artificial intelligence (AI) demand and US election results triggered some of their steepest falls in years.",
+    "simplified_body": "Share markets across Asia clawed back ground on Monday 9 November, after a rough week. Japan's Nikkei index, Taiwan's benchmark and South Korean shares all rose, and futures for the United States (US) S&P 500 pointed slightly higher. The two sources differ on the exact size of Monday's gains — for example, CNA puts Japan's Nikkei up 2.5 per cent while Al Jazeera says 3.45 per cent — but both agree the direction was up.\n\nThe rebound follows a savage few days. Doubts about demand for computer chips and the profitability of AI sent tech-heavy Asian markets tumbling, with Taiwan posting its heaviest weekly drop in two decades. The slide deepened after the Democratic Party's wins in the US midterm (mid-term congressional) elections sparked worries that Democrat-controlled legislatures could tighten regulation of AI and the data centres that power it. Al Jazeera reports a US$2.5 trillion sell-off on Wall Street on the Thursday.\n\nFor newcomers: huge sums have been poured into AI, so investors are nervous about whether the massive build-out will pay off. This week's earnings reports from tech firms including CoreWeave, Applied Materials and Cisco Systems will test that. Adding to the jitters, chipmaker Nvidia is investigating chief executive officer (CEO) Jensen Huang over a relationship with a woman accused of being a Chinese spy — though its board says it has no reason to believe secrets were compromised.\n\nWhat's next? A strong US jobs report (165,000 jobs added) has pushed market bets towards the US Federal Reserve (the central bank) raising interest rates in December, with a US consumer price index (CPI) reading due Tuesday. Analysts warn markets are \"far from being out of the woods yet\". Bitcoin and ether also fell on fears of tougher crypto rules.",
+    "why_it_matters": "The AI trade now drives a big chunk of global sharemarket value, so wild swings in Asia's tech-heavy exchanges — Australia's regional neighbours — ripple through super funds and markets worldwide.",
+    "deep_analysis": "## Historical Context\n\nMarkets have ridden an enormous wave of enthusiasm for artificial intelligence, with investors betting that spending on chips and data centres would translate into profits. That optimism has been fragile lately: the sources note the AI trade had already been \"crumbling in the face of rising interest rates\" before the latest shock. When doubts about chip demand collided with US political change, the result was a sharp, fast reversal — Taiwan's market suffered its heaviest weekly fall in two decades, a sign of just how concentrated the gains had become.\n\n## Multiple Perspectives\n\nThe two reports broadly agree on the story but differ on the figures, which is worth flagging. On Monday's rebound, CNA has Japan's Nikkei up 2.5 per cent and Taiwan around 2.5 per cent, while Al Jazeera reports 3.45 per cent and 5.72 per cent respectively, plus a modest Hang Seng gain. On the prior rout, Al Jazeera cites a US$2.5 trillion Wall Street sell-off and roughly 6 and 9 per cent plunges for Japan and South Korea; CNA frames it through a 4.6 per cent weekly slide in the broad MSCI Asia-Pacific index. Analyst Kyle Rodda strikes a cautious note, saying momentum \"remains skewed to the downside\" amid regulatory risk and an underwhelming earnings season.\n\n## What to Watch\n\nThree things. First, earnings from CoreWeave, Applied Materials and Cisco Systems, which will test whether AI ambitions can actually turn a profit. Second, US rates: a blowout jobs report lifted bets on a December hike to nearly 80 per cent, and Tuesday's CPI reading could cement that. Third, the Nvidia inquiry into CEO Jensen Huang — a potential source of further volatility for a company at the centre of the AI boom.",
     "concepts": [
      {
-      "term": "rare earths",
-      "definition": "A group of metallic elements that are essential for making high-tech products like electronics, batteries and defence equipment; China is a dominant global supplier.",
-      "context": "China promised to keep its rare earth exports flowing as part of the Busan deal."
+      "term": "data centres",
+      "definition": "Large facilities full of computers and servers that store data and run heavy workloads — including the AI systems investors are worried about.",
+      "context": "Fears that Democrat-controlled legislatures might regulate AI and data centres more tightly helped trigger the sell-off."
      },
      {
-      "term": "tariffs",
-      "definition": "Taxes a government places on imported goods, often used as leverage or protection in trade disputes.",
-      "context": "The deal capped US tariffs on Chinese goods at about 20% after rounds of escalation."
+      "term": "interest rates",
+      "definition": "The cost of borrowing money, set largely by a central bank; higher rates tend to make risky assets like tech shares less attractive.",
+      "context": "The AI trade had been weakening partly due to rising interest rates, and strong jobs data has markets betting the US Federal Reserve will lift rates again in December."
      },
      {
-      "term": "Asia-Pacific Economic Cooperation (APEC)",
-      "definition": "A regional forum of economies around the Pacific that meets to promote trade and economic cooperation.",
-      "context": "The original deal was struck on the sidelines of an APEC summit, and leaders plan to meet again at the next APEC forum."
+      "term": "consumer price index (CPI)",
+      "definition": "A measure of how much prices for everyday goods and services are rising — a key gauge of inflation.",
+      "context": "A US CPI reading due Tuesday could further cement expectations of a December rate hike."
      },
      {
-      "term": "Vice Premier",
-      "definition": "A senior Chinese government official ranking just below the premier, often handling major policy areas like trade.",
-      "context": "Vice Premier He Lifeng is Beijing's lead negotiator on trade ties with the US."
+      "term": "futures",
+      "definition": "Financial contracts that let investors bet on where a market index will be in the future, often used as an early signal of how shares might open.",
+      "context": "Futures for the US S&P 500 pointed slightly higher, hinting Wall Street's calm might continue."
      }
     ],
     "quiz": {
-     "question": "Why are the rare earth commitments in the deal considered especially important?",
+     "question": "What combination of events triggered last week's sharp falls in Asian tech markets?",
      "options": [
-      "They are only used in agriculture",
-      "Rare earths are critical for the technology industry",
-      "They are the main food source for the US",
-      "They replace the need for tariffs entirely"
+      "A collapse in the US dollar and a crypto crash",
+      "Doubts about AI and chip demand, worsened by US midterm election results raising regulatory fears",
+      "A surprise cut to US interest rates and falling oil prices",
+      "A natural disaster disrupting chip factories in Taiwan"
      ],
      "answer_index": 1,
-     "explanation": "The article notes rare earths are critical for the technological industry, which is why the US pressed China to keep exports flowing and honour its commitments."
+     "explanation": "The sources say fears about AI profitability and chip demand turned into a rout after the Democratic Party's midterm wins sparked worries about tougher regulation of AI and data centres."
     },
-    "background_beginner": "The United States and China are the world's two largest economies, and their trade relationship shapes prices and supply chains everywhere. Under President Donald Trump, the US raised tariffs — taxes on imports — especially on Chinese goods, and China hit back, sparking a trade war. In 2025, Trump and Chinese President Xi Jinping struck a deal in Busan, South Korea, to ease the standoff: the US capped tariffs at around 20%, and China agreed to buy American soybeans and keep exporting rare earth minerals vital for technology. The dispute keeps resurfacing because each side accuses the other of not fully keeping its promises, and new talks are expected soon.",
+    "background_beginner": "Over the past few years, companies and investors have poured enormous amounts of money into artificial intelligence (AI) — the technology behind chatbots and smart tools — and into the powerful computer chips and data centres that run it. Chipmakers like Nvidia and manufacturers in Taiwan, Japan and South Korea became some of the most valuable businesses on Earth. But because so much depends on AI paying off, markets get jumpy whenever doubts surface about demand or profits. Mix in big political events, like US elections that could change how AI is regulated, and you get sharp swings. This tug-of-war between AI hype and AI doubt keeps resurfacing, which is why these market moves make headlines.",
     "impact_score": 72,
-    "image_url": "https://static.dw.com/image/79404961_6.jpg",
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--0edFGJN_--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-09T014728Z_2_LYNXNPEMA8058_RTROPTP_3_JAPAN-YEN.JPG?itok=8zwBUG_v",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "Top US officials have urged China to fully and immediately deliver on its 2025 Busan trade promises, especially on farm purchases and rare earth minerals, ahead of another Trump-Xi meeting.",
+    "description": "Asian share markets steadied on Monday after a wild week in which fears about artificial intelligence (AI) demand and US election results triggered some of their steepest falls in years.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf"
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/business/asian-stocks-steady-ai-middle-east-jitters-recede-6535041"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-09T07:25:55.550214+00:00",
+    "published_date": "2026-11-09",
+    "has_fulltext": true
+   },
+   {
+    "id": "d10abd45-21f6-50df-bea0-c079aa00fb70",
+    "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+    "simplified_title": "JLR Raids BYD Offices Over Alleged Defender Copycat SUV",
+    "quick_summary": "Jaguar Land Rover sent bailiffs to raid Chinese rival BYD's Dutch offices ahead of a court case over claims its Ti7 SUV copies the Land Rover Defender.",
+    "simplified_body": "Bailiffs acting for Jaguar Land Rover (JLR) raided the Dutch offices of Chinese carmaker BYD in Schiedam and Hoofddorp back in August, reportedly seizing digital records. According to the Sunday Times, JLR suspected BYD had reverse-engineered some of its technology and wanted to lock down the evidence before it could be destroyed. A court in The Hague is set to decide this week whether BYD has a case to answer over claims its Ti7 SUV infringes the intellectual property (IP) of the Land Rover Defender.\n\nThis matters for anyone watching the car market. The Ti7 is a seven-seat plug-in hybrid SUV that experts and Top Gear magazine have nicknamed the \"Chinese Defender clone\" since it launched in China last September. BYD plans to sell it in the UK from January at £47,995 — more than £20,000 cheaper than a Defender 110, which starts at £68,465. For a bestselling British car, that's a serious undercut.\n\nJLR is UK-based but owned by India's Tata Motors. This isn't its first copycat fight: it beat Jiangling Motor Corporation in court in 2019 after a three-year battle. Interestingly, JLR hasn't always taken the hard line — it formed a joint venture with Chery in 2012. Chery's separate Jaecoo model, dubbed the \"Temu Range Rover\", was actually the UK's bestselling car in October.\n\nBoth JLR and BYD declined to comment on the ongoing proceedings. The Hague ruling will shape whether BYD's cut-price SUV can roll into the UK as planned.",
+    "why_it_matters": "Cheap, capable Chinese SUVs like BYD's are reshaping global car markets — including Australia, where BYD is a fast-growing brand — and this case tests how far established makers can go to protect their designs.",
+    "deep_analysis": "## Historical Context\n\nLegal fights over \"copycat\" cars are nothing new, and JLR has been one of the more aggressive players. The article notes it won a three-year court battle against Jiangling Motor Corporation in 2019 to stop a copycat vehicle being sold. What's changed is the scale and speed of China's carmakers. BYD, once little known in the West, is now a serious global exporter of electric and plug-in hybrid vehicles, and it's pushing into Europe and the UK with sharply priced models. The Defender itself is a bestseller — JLR sold 29,500 to retail customers between July and September, up from 25,370 a year earlier — so there's a lot at stake commercially.\n\n## Multiple Perspectives\n\nJLR frames this as protecting its intellectual property, suspecting BYD reverse-engineered technology for the Ti7, and it moved fast with bailiffs to secure digital records before they could be destroyed. BYD, for its part, markets the Ti7's \"unapologetically boxy profile\" as a deliberate design choice that buyers love — not a copy. There's also a more complicated middle ground: JLR hasn't always litigated. It formed a joint venture with Chery in 2012 and even licensed its discontinued Freelander brand. Yet Chery's Jaecoo — the \"Temu Range Rover\" — still looks a lot like a JLR car and outsold everything in the UK in October, suggesting collaboration and imitation can blur.\n\n## What to Watch\n\nThe immediate thing to watch is The Hague ruling on whether BYD has a case to answer. If it goes against BYD, its planned January UK launch at £47,995 could stall. Also worth tracking: whether more established makers follow JLR's lead with similar IP claims, and how much the price gap — over £20,000 cheaper than a Defender — keeps pulling buyers toward Chinese brands regardless of the legal cloud.",
+    "concepts": [
+     {
+      "term": "intellectual property (IP)",
+      "definition": "Legal rights over creations like designs, inventions and branding, which stop others from copying them without permission.",
+      "context": "JLR claims BYD's Ti7 infringes the IP of the Land Rover Defender's design and technology."
+     },
+     {
+      "term": "reverse-engineered",
+      "definition": "Taking apart a finished product to work out how it was made or how its technology functions, so you can replicate it.",
+      "context": "JLR suspects BYD reverse-engineered some of its technology for use in the Ti7."
+     },
+     {
+      "term": "plug-in hybrid",
+      "definition": "A vehicle with both a petrol engine and a rechargeable battery that can be plugged in and run on electricity for a limited range.",
+      "context": "The BYD Ti7 is a seven-seat plug-in hybrid SUV."
+     },
+     {
+      "term": "joint venture",
+      "definition": "A business arrangement where two companies team up to work on a project while staying separate firms.",
+      "context": "JLR formed a joint venture with Chery in 2012, showing it hasn't always taken rivals to court."
+     }
+    ],
+    "quiz": {
+     "question": "Why did JLR move quickly to have bailiffs seize BYD's digital records?",
+     "options": [
+      "To secure potential evidence before it could be destroyed",
+      "To force BYD to lower the Ti7's price in the UK",
+      "To block BYD from selling any cars in the Netherlands",
+      "To take over BYD's Dutch offices permanently"
+     ],
+     "answer_index": 0,
+     "explanation": "The article says JLR wanted to secure the digital records before they could be destroyed, as it suspected BYD had reverse-engineered its technology."
+    },
+    "background_beginner": "Jaguar Land Rover (JLR) is a British carmaker, owned by India's Tata Motors, behind famous models like the Land Rover Defender and Range Rover. BYD is a huge Chinese company that builds electric and hybrid cars and is expanding fast around the world. The row started because BYD's new Ti7 SUV looks a lot like the boxy Defender, and some experts have called it a \"Chinese Defender clone\". JLR believes BYD may have copied its designs or technology, so it's taking the fight to court. These disputes keep cropping up because cheaper Chinese cars are undercutting established brands and winning buyers.",
+    "impact_score": 58,
+    "image_url": "https://i.guim.co.uk/img/media/df3641cd7932ef0f9d4ed70becb2641c5d68b0eb/334_0_1666_1333/master/1666.jpg?width=1920&quality=85&auto=format&fit=max&s=85b1cf36146d603b060c164b8a2c5b0b",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "Jaguar Land Rover sent bailiffs to raid Chinese rival BYD's Dutch offices ahead of a court case over claims its Ti7 SUV copies the Land Rover Defender.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
     "reading_minutes": 2,
-    "created_at": "2026-11-07T19:25:40.155916+00:00",
-    "published_date": "2026-11-08",
-    "has_fulltext": true
-   },
-   {
-    "id": "cd67d1ab-919a-5820-b61d-964b66285e45",
-    "title": "No more midnight rush: How Singles’ Day is being rebuilt for China’s cautious consumers",
-    "simplified_title": "Singles' Day Slows Down as China's Shoppers Turn Cautious",
-    "quick_summary": "China's giant Singles' Day shopping festival has traded its midnight sales frenzy for longer, calmer promotions as consumers spend more carefully and hunt for genuine value.",
-    "simplified_body": "China's biggest shopping event, Singles' Day (also called Double 11, held on 11 November), looks very different in its 18th year. The old 24-hour midnight rush has stretched into weeks of promotions, with platforms like Alibaba's Taobao shifting sales starts to 8pm and swapping confusing coupons for simple discounts. Rival JD.com scrapped its deposit-based presale model altogether. Sales are still enormous — 1.695 trillion yuan (US-dollar equivalent not given) across platforms last year — but growth slowed to 14.2 per cent, roughly half the 26.6 per cent seen in 2024.\n\nThe changes matter for the brands, platforms and millions of shoppers who once treated the festival like a race. Many consumers are now \"becoming more cautious and pragmatic\", buying smaller amounts as needed rather than stockpiling, and some are spending on experiences like travel and concerts instead of goods. Analysts link this to pressure on household finances.\n\nFor newcomers: Alibaba launched Singles' Day in 2009, naming it after the four ones in 11/11, which symbolise singlehood. It grew into the world's biggest online shopping festival, famous for livestream selling, where hosts pitch products live. That hard-sell style is now wearing thin.\n\nBrands are adapting. Taobao's Super Live initiative stages polished, cinematic runway shows with a \"see-now-buy-now\" model. Premium label CHICJOC refuses discounts and even raises prices yearly. Technology is reshaping things too: this is the first Singles' Day where shoppers can use an artificial intelligence (AI) chatbot to find, compare and buy products. Expect platforms to keep competing on experience, not just the biggest discount.",
-    "why_it_matters": "China's consumer mood shapes demand for goods worldwide, and a more cautious Chinese shopper affects everyone selling into that market — including Australian exporters of wine, food and consumer products who rely on Chinese buyers.",
-    "deep_analysis": "## Historical Context\n\nSingles' Day began in 2009 when Alibaba turned an informal Chinese \"anti-Valentine's\" day — marked on 11 November because the four ones (11/11) symbolise being single — into a shopping promotion. It ballooned into the world's biggest online shopping festival, defined for years by a frantic midnight launch where brands were ranked live by sales and some shops cleared 10 million yuan within an hour. The event became a showcase for China's e-commerce might, complete with a televised Tmall gala.\n\n## Multiple Perspectives\n\nShoppers are split. Some, like a Shanghai pottery teacher quoted in the article, find the coupons too complicated and the atmosphere gone; others, like a 22-year-old intern after a cheap computer, still reckon the deals are worthwhile. Platforms frame the slowdown positively — analyst Jason Yu of CTR Market Research says they now want a \"hassle-free\" experience rather than \"artificial urgency\". Brands are diverging too: at one end is \"dupe\" culture chasing cheap factory-direct alternatives; at the other, premium labels like CHICJOC that refuse discounts and lift prices yearly, betting customers see a coat as a decade-long investment. Industry voices like WPIC's Jacob Cooke argue heavy discounting can \"hurt brand equity\", so brands increasingly use the traffic to launch new products instead.\n\n## What to Watch\n\nWatch whether the extended \"arms race\" of ever-earlier campaigns keeps diluting the single-day spike. Keep an eye on AI's growing role — chatbots already drove roughly 5 per cent of purchases in October, per WPIC data — and whether virtual livestream hosts gain ground beyond being a \"supporting tool\". Government trade-in subsidies (250 billion yuan this year) propping up big-ticket items like home appliances are another factor; their future will shape demand.",
-    "concepts": [
-     {
-      "term": "Singles' Day",
-      "definition": "China's annual shopping festival on 11 November, launched by Alibaba in 2009, named after the four ones in 11/11 that symbolise singlehood.",
-      "context": "It has grown into the world's biggest online shopping festival but is now evolving away from its one-day frenzy."
-     },
-     {
-      "term": "livestream selling",
-      "definition": "Selling products through live online video, where a host demonstrates and pitches items that viewers can buy in real time.",
-      "context": "The old hard-sell, countdown style is losing appeal, pushing platforms towards more polished, relaxed formats."
-     },
-     {
-      "term": "see-now-buy-now",
-      "definition": "A retail model where viewers can instantly order products as they appear, such as during a live runway show.",
-      "context": "It is central to Taobao's Super Live initiative, which stages cinematic fashion shows."
-     },
-     {
-      "term": "dupe",
-      "definition": "A cheaper alternative made to imitate a branded product.",
-      "context": "Value-seeking shoppers are driving demand, with Taobao connecting them to factory-direct sellers."
-     }
-    ],
-    "quiz": {
-     "question": "Why has Singles' Day shifted from a midnight rush to weeks-long promotions?",
-     "options": [
-      "Platforms wanted to reduce pressure and artificial urgency as shoppers grew more cautious",
-      "The festival was cancelled and replaced",
-      "Alibaba was forced to by new Chinese laws",
-      "Shoppers demanded higher prices"
-     ],
-     "answer_index": 0,
-     "explanation": "Platforms moved sales to 8pm, simplified discounts and stretched campaigns to create a hassle-free experience, responding to more cautious, pragmatic consumers tired of the frenzy and complicated coupons."
-    },
-    "background_beginner": "Singles' Day is China's huge annual online shopping event, held every 11 November. The main players are Alibaba (which runs the Taobao and Tmall platforms and started the festival in 2009) and rivals like JD.com, Douyin, Kuaishou and Xiaohongshu. It began as a cheeky \"anti-couples\" day — the four ones in 11/11 stand for being single — and Alibaba turned it into a sales bonanza. For years it set records for online spending in a single 24-hour burst. It keeps making news because it is a bellwether for how confident Chinese consumers feel, and lately they've been spending more carefully, forcing the whole event to reinvent itself.",
-    "impact_score": 62,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--y-Vd-LJ4--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/04/twl_singlesday_3.jpg?itok=otjyUytE",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "China's giant Singles' Day shopping festival has traded its midnight sales frenzy for longer, calmer promotions as consumers spend more carefully and hunt for genuine value.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/china-singles-day-shopping-alibaba-taobao-consumers-6520861"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 10,
-    "created_at": "2026-11-07T19:25:45.755319+00:00",
-    "published_date": "2026-11-08",
+    "created_at": "2026-11-09T07:26:10.228713+00:00",
+    "published_date": "2026-11-09",
     "has_fulltext": true
    }
   ],
@@ -1866,72 +2052,6 @@
     "has_fulltext": true
    },
    {
-    "id": "9e59aa4a-e3d3-5005-9839-eea8b53dbda6",
-    "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-    "simplified_title": "Nvidia boss called before US Congress over China spying claims",
-    "quick_summary": "US lawmakers have summoned Nvidia chief executive Jensen Huang to a closed-door briefing after reports that he was targeted by a Chinese spying operation.",
-    "simplified_body": "Top Republican lawmakers have asked Jensen Huang, chief executive of chipmaker Nvidia, to appear before Congress following reports that US intelligence officials believe he was targeted by a Chinese spying operation. The chairs of three House of Representatives committees — on China, foreign affairs, and intelligence — have written to Huang asking him to attend a joint closed-door briefing on November 18.\n\nThe concerns centre on a woman named Alice Huang, an executive at Megaspeed, a Singapore-based cloud company that has bought billions of dollars of Nvidia's chips. The New York Times reported last week that US intelligence officials believed Jensen Huang had been the target of a Chinese spy operation. Lawmakers John Moolenaar, Brian Mast, and Rick Crawford say the issue of the People's Republic of China (PRC) gaining access to cutting-edge US technology is central to their work this Congress.\n\nNvidia makes the advanced chips that power most of the world's artificial intelligence systems, which is why the US government is so anxious about who can get hold of them. Washington has placed export controls on these chips to stop China accessing the most powerful models.\n\nNvidia has rejected the claims. The company said meetings with customers are simply part of a CEO's job, noting that Jensen \"talks with thousands of customer executives every year.\" On Thursday it would not say whether Huang would actually appear before Congress.",
-    "why_it_matters": "Nvidia's chips underpin the global AI boom, so any tug-of-war between the US and China over who controls them ripples through to Australian businesses, researchers and consumers who increasingly rely on that technology.",
-    "deep_analysis": "## Historical Context\n\nNvidia has become one of the most valuable companies on the planet because its chips are the engines behind modern artificial intelligence. That importance has made it a central piece in the broader technology rivalry between the United States and China. For several years now, Washington has tightened export controls aimed at stopping China from getting hold of the most advanced chips, worried they could boost Chinese military and surveillance capabilities. This latest summons sits squarely within that ongoing contest.\n\n## Multiple Perspectives\n\nThe lawmakers frame this as a national security matter, arguing it is \"vital that Congress determines the extent to which US national security has been placed at risk\" and that PRC infiltration of US technology is core to their investigations. Nvidia, on the other hand, paints the reported contact as entirely routine, stressing that meeting customers is simply part of a chief executive's job. The reporting itself rests on what US intelligence officials are said to believe — a claim Nvidia disputes — so the gap between \"intelligence concern\" and \"proven wrongdoing\" is where the disagreement really lives.\n\n## What to Watch\n\nThe immediate thing to watch is whether Huang actually turns up to the November 18 briefing — Nvidia has pointedly declined to confirm he will. Beyond that, keep an eye on whether any concrete evidence emerges about Alice Huang and Megaspeed, and whether this prompts tighter scrutiny of how Nvidia chips flow through third countries like Singapore.",
-    "concepts": [
-     {
-      "term": "Nvidia",
-      "definition": "A US technology company that designs the advanced computer chips powering most of the world's artificial intelligence systems.",
-      "context": "The company's central role in AI is why its chips are so tightly fought over between the US and China."
-     },
-     {
-      "term": "Congress",
-      "definition": "The law-making body of the United States, made up of the House of Representatives and the Senate, which also investigates matters of national concern.",
-      "context": "Its committees have the power to summon executives to answer questions in briefings."
-     },
-     {
-      "term": "People's Republic of China (PRC)",
-      "definition": "The official name for China, used in formal and government contexts.",
-      "context": "US lawmakers are worried about the PRC gaining access to cutting-edge American technology."
-     },
-     {
-      "term": "export controls",
-      "definition": "Government rules that restrict which products or technologies can be sold to particular countries.",
-      "context": "Washington has used them to limit China's access to the most powerful AI chips."
-     }
-    ],
-    "quiz": {
-     "question": "Why are US lawmakers so concerned about who can access Nvidia's chips?",
-     "options": [
-      "Because the chips are manufactured entirely in China",
-      "Because the chips are rare collectables that fetch high prices",
-      "Because the chips power advanced artificial intelligence and are seen as sensitive US technology",
-      "Because Nvidia refuses to sell chips inside the United States"
-     ],
-     "answer_index": 2,
-     "explanation": "Nvidia's chips underpin modern AI, which is why the US treats access to them as a national security issue and has placed export controls on them."
-    },
-    "background_beginner": "Nvidia is an American company that makes the powerful computer chips behind today's artificial intelligence, which has made it hugely valuable and strategically important. Jensen Huang is its chief executive. For years the US and China have been locked in a rivalry over advanced technology, with Washington restricting which chips China can buy. Against that backdrop, US intelligence officials were reported to believe Huang had been targeted by a Chinese spying operation, linked to an executive at a Singapore-based cloud company that buys lots of Nvidia chips. Lawmakers have now asked Huang to explain himself. The topic keeps resurfacing because whoever controls these chips may lead the AI race.",
-    "impact_score": 68,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "US lawmakers have summoned Nvidia chief executive Jensen Huang to a closed-door briefing after reports that he was targeted by a Chinese spying operation.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "72597008-acc3-5015-8369-4d885c3f3663",
-     "e829fe99-b7db-5487-836b-6675ace03fcc"
-    ],
-    "reading_minutes": 1,
-    "created_at": "2026-11-07T19:25:36.341842+00:00",
-    "published_date": "2026-11-08",
-    "has_fulltext": true
-   },
-   {
     "id": "9125efd0-805c-51a8-90ba-f6fc266d976d",
     "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
     "simplified_title": "Three men charged over AI 'deepfake CEO' scam that stole over $129m",
@@ -1991,5 +2111,5 @@
    }
   ]
  },
- "total_stories": 30
+ "total_stories": 32
 }
