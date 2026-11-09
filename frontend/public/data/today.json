@@ -1,6 +1,6 @@
 {
- "date": "2026-11-09",
- "generated_at": "2026-11-09T07:23:03.660167+00:00",
+ "date": "2026-11-10",
+ "generated_at": "2026-11-09T19:23:04.140069+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -125,6 +125,73 @@
     "has_fulltext": true
    },
    {
+    "id": "66aeb220-5ad3-53e5-adf5-d006b9e1f93e",
+    "title": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
+    "simplified_title": "Shock poll puts Victorian Labor third behind One Nation",
+    "quick_summary": "A new poll has Victorian Labor's primary vote crashing to a record-low 18%, landing it third behind the Coalition and One Nation just weeks before the 28 November state election.",
+    "simplified_body": "A DemosAU/PremierNational poll, first published by the Herald Sun, shows Victorian Labor's primary vote has fallen seven points to 18% — an all-time low that puts the party third behind the Coalition (the Liberal-National alliance) on 33% and Pauline Hanson's One Nation on 21%. The Greens rose three points to 17%. On a two-party preferred basis (2PP, the final tally once minor-party votes are redistributed), the Coalition now leads Labor 56-44.\n\nThis matters for every Victorian voter heading to the ballot on 28 November. DemosAU's head of research says that if the result held, many seats would become contests between the Coalition and One Nation — and since Labor and Greens preferences would flow to the Liberals, the Coalition would likely win a clear majority. Labor's campaign is treating the 18% figure as an \"outlier\", noting other polls put its primary vote in the 20s, but MPs speaking privately describe the caucus as \"angry and deflated\".\n\nFor background: Australia uses preferential voting, so where losing parties' votes flow matters hugely. Several Labor MPs are questioning leader Ben Carroll's recent focus on crime — traditionally a Coalition strength — after announcements including a $204m youth rehabilitation plan and $70m for 200 police reservists. Both major parties have pledged \"Aidan's Law\", named after Aidan Becker, who was fatally stabbed at Mernda station.\n\nWhat's next? The Victorian Electoral Commission will run a two-candidate-preferred (2CP) count on election night but won't publish its predictions early, to avoid swaying voters. Other polls will keep rolling in before the 28 November vote.",
+    "why_it_matters": "If the trend holds, Victoria — long a Labor stronghold — could swing to a Coalition government, reshaping the nation's second-most populous state and signalling deeper trouble for Labor federally as well.",
+    "deep_analysis": "## Historical Context\n\nVictoria has been a Labor state for most of the past two decades, so a poll placing the party third on a record-low 18% primary vote is genuinely startling. Australia's preferential system means primary votes rarely decide seats on their own — where preferences flow is decisive. That's why DemosAU's analyst stresses that even a surging One Nation would struggle to win seats if Labor and Greens preferences pour into the Liberals instead. The sources also note the result sits against a backdrop of broader Labor weakness: federal polling shows Anthony Albanese's approval deeply negative and cost of living dominating voter concerns.\n\n## Multiple Perspectives\n\nLabor's campaign HQ dismisses the 18% as an \"outlier\", pointing to other surveys with the primary vote in the 20s — and the sources back this up: a Morgan poll had Labor at 22.5% and Lighthouse at 22%. Pollster George Hasanakos counters that he \"double, triple, quadruple checked\" his larger-sample result and stands by it. Internally, some MPs blame leader Ben Carroll directly, calling the recent pivot to crime a \"diabolically stupid strategy\" on an issue that favours the Coalition. Opposition leader Jess Wilson is leaning into \"getting tough on crime\", a framing Carroll has partly matched rather than contested.\n\nSeparately, Pauline Hanson rejected reports that a former campaign director continues to secretly work for One Nation in Victoria, saying he finished the day she sacked him.\n\n## What to Watch\n\nWatch whether more polls confirm or soften the 18% figure — if Labor's primary settles \"with a two in front of it\", the picture looks less catastrophic though still poor. Keep an eye on which seats become Coalition-versus-One Nation contests, and on preference flows, which the Victorian Electoral Commission's 2CP count will ultimately reveal. The 28 November result will also be read as a barometer for federal Labor.",
+    "concepts": [
+     {
+      "term": "primary vote",
+      "definition": "The first-choice votes a party receives before any preferences from eliminated candidates are counted.",
+      "context": "Labor's primary vote crashing to 18% is what put it in third place in the poll."
+     },
+     {
+      "term": "two-party preferred",
+      "definition": "A final two-horse tally that redistributes minor-party and independent votes to the two leading parties, showing who would win after preferences.",
+      "context": "The Coalition leads Labor 56-44 on this measure, a strong lead."
+     },
+     {
+      "term": "preferences",
+      "definition": "Under preferential voting, votes for losing candidates are passed to voters' next-ranked choice, which can decide close seats.",
+      "context": "Labor and Greens preferences flowing to the Liberals would help the Coalition win a majority."
+     },
+     {
+      "term": "outlier",
+      "definition": "A single result that sits far from other measurements and may not reflect the true trend.",
+      "context": "Labor's campaign HQ is treating the 18% figure this way, citing other polls in the 20s."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the pollster say One Nation would struggle to win many seats despite polling 21%?",
+     "options": [
+      "One Nation isn't running enough candidates",
+      "The Victorian Electoral Commission has banned the party",
+      "One Nation's primary vote is too low to count",
+      "Labor and Greens preferences would flow to the Liberals, not One Nation"
+     ],
+     "answer_index": 3,
+     "explanation": "Under preferential voting, Labor and Greens preferences would flow to the Liberals in Coalition-versus-One Nation contests, helping deliver a Coalition majority rather than One Nation wins."
+    },
+    "background_beginner": "Victoria is Australia's second-biggest state, and it holds a state election on 28 November 2026. The main contenders are Labor (currently governing, led by Premier Ben Carroll), the Coalition (a Liberal-National alliance led by Jess Wilson), the Greens, and Pauline Hanson's One Nation, a right-wing minor party. Australia uses preferential voting, where losing candidates' votes get passed to voters' next choice, so the final result often differs from the raw first-choice \"primary\" votes. Polls keep making headlines because Labor, long dominant in Victoria, is now slumping amid cost-of-living anger — a trend also hurting the federal Labor government under Prime Minister Anthony Albanese.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/eb1414dc0eeede52985082395d9f3ea36f782c63/1248_827_3346_2677/master/3346.jpg?width=1920&quality=85&auto=format&fit=max&s=cc04d4b30b624daa86f3571ed740349d",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "A new poll has Victorian Labor's primary vote crashing to a record-low 18%, landing it third behind the Coalition and One Nation just weeks before the 28 November state election.",
+    "tier": "LOCAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb"
+     },
+     {
+      "name": "The Conversation",
+      "url": "https://theconversation.com/poor-polls-continue-for-both-federal-and-victorian-labor-295756"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-09T19:26:24.189175+00:00",
+    "published_date": "2026-11-10",
+    "has_fulltext": true
+   },
+   {
     "id": "155007f0-3782-5773-8fc8-27ebfd46ba67",
     "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
     "simplified_title": "New Zealand election too close to call, results weeks away",
@@ -197,130 +264,67 @@
     "created_at": "2026-11-09T07:25:43.123647+00:00",
     "published_date": "2026-11-09",
     "has_fulltext": true
-   },
-   {
-    "id": "712359ff-060f-5cbd-9ada-9c5f18c0b8e5",
-    "title": "Chronic pain affects one in two women in midlife, report finds",
-    "simplified_title": "Chronic Pain Hits Half of Women in Midlife, Report Finds",
-    "quick_summary": "A new international report finds about half of middle-aged women live with chronic pain, which is often under-recognised and poorly treated.",
-    "simplified_body": "A recent report from the International Menopause Society (IMS) estimates that about half of all middle-aged women experience chronic pain — pain that lasts more than three months or keeps coming back. The report says women are up to 70 per cent more likely to have chronic pain than men, and calls the condition \"often under-recognised, underdiagnosed and inadequately treated\".\n\nThis matters for a huge number of women, particularly around menopause, when the body produces much less oestrogen and progesterone. Lower oestrogen can bring joint pain, stiffness and weaker muscles, while fluctuating hormones can trigger migraines. The report focuses on three common types: musculoskeletal (muscle and bone) pain, migraine and pelvic pain. Nearly three in four women report joint or muscle pain during perimenopause — the lead-up to menopause.\n\nExperts say the causes aren't fully understood and are \"multi-factorial\". Some research points to central sensitisation, where the brain becomes more likely to produce pain signals. Social factors play a part too — women often carry most caregiving duties, and stress can worsen pain for some people. Chronic Pain Australia's 2026 National Pain Report surveyed more than 6,000 Australians and found women experience an average of 4.6 different types of chronic pain.\n\nDoctors say women don't have to simply put up with it. The first step is seeing a GP (general practitioner). Menopausal hormone therapy can ease some symptoms for some women, but it's not the only option — sleep, exercise, a healthy diet and allied health workers like physiotherapists all help. Experts stress that earlier treatment leads to better outcomes.",
-    "why_it_matters": "Chronic pain affects a massive share of women yet is routinely missed or dismissed — and an Australian survey of over 6,000 people confirms many women juggle multiple pain types at once.",
-    "deep_analysis": "## Historical Context\n\nMenopause and the symptoms surrounding it have long been under-studied and under-discussed in medicine, which helps explain why chronic pain in midlife women has been, in the IMS president's words, \"highly neglected\". Pain is notoriously hard to measure and easy to downplay, and when it overlaps with hormonal change it has often been brushed off as an unavoidable part of ageing. The release of a dedicated IMS report, alongside Chronic Pain Australia's 2026 National Pain Report, reflects a growing push to take these symptoms seriously rather than treating them as background noise.\n\n## Multiple Perspectives\n\nClinicians in the article emphasise different angles. Obstetrician-gynaecologist Rossella Nappi highlights both hormones and lifestyle — exercise, diet and sleep. Pain scientist Jane Chalmers cautions that you can't separate a person's biology from their psychology and sociology, calling the \"why women?\" question one of the hardest in her field. Pharmacist Nicollette Ellis stresses looking at the whole body rather than treating each pain type in a \"silo\", and flags the extra stress of caregiving. GP Sharon Vasey focuses on practical steps and reassurance that women don't have to suffer. Rheumatology professor Karen Walker-Bone widens the lens to society — financial security to retire and fairer sharing of household labour.\n\n## What to Watch\n\nWatch whether the report translates into earlier diagnosis and better GP awareness, since delayed diagnosis is a recurring theme. Keep an eye on how menopausal hormone therapy is discussed and accessed, and whether allied health support (like physiotherapy) becomes more routine. The broader structural suggestions — retirement timing and equitable household labour — are harder to shift and worth tracking over time.",
-    "concepts": [
-     {
-      "term": "chronic pain",
-      "definition": "Pain that lasts more than three months or keeps recurring, rather than fading as an injury heals.",
-      "context": "The report estimates about half of all middle-aged women experience chronic pain."
-     },
-     {
-      "term": "menopause",
-      "definition": "The point marking the end of a woman's reproductive years, when the body produces much less oestrogen and progesterone.",
-      "context": "During menopause, hormone levels drop and can cause joint pain, stiffness and migraines."
-     },
-     {
-      "term": "central sensitisation",
-      "definition": "A state where the brain and nervous system become more likely to produce pain signals, amplifying pain.",
-      "context": "Some research suggests women may be more likely than men to experience central sensitisation."
-     },
-     {
-      "term": "perimenopause",
-      "definition": "The transition period leading up to menopause when hormone levels start fluctuating.",
-      "context": "Nearly three in four women report joint or muscle pain during perimenopause."
-     }
-    ],
-    "quiz": {
-     "question": "According to the report, why does chronic pain often emerge for women in midlife?",
-     "options": [
-      "It appears randomly with no known contributing factors",
-      "It is caused solely by a single faulty gene",
-      "Only because women exercise less than men",
-      "A mix of factors including fluctuating hormones, sleep loss and lifestyle changes"
-     ],
-     "answer_index": 3,
-     "explanation": "The report and experts describe chronic pain in midlife as multi-factorial — driven by hormonal shifts around menopause along with sleep, lifestyle, stress and social factors, not any single cause."
-    },
-    "background_beginner": "Chronic pain is pain that sticks around for more than three months or keeps returning. A new report from the International Menopause Society (a global group of doctors who study menopause) says it's especially common in women during midlife — roughly the years around menopause, when the body winds down its production of key hormones like oestrogen. That hormonal shift can bring joint aches, migraines and other pains. The topic keeps coming up because experts say this pain has long been overlooked, underdiagnosed and poorly treated. Groups like Chronic Pain Australia are now surveying thousands of people and urging GPs to take women's pain seriously and treat it earlier.",
-    "impact_score": 62,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/edc5acbbaa5f81f8b51a3a18fbeea6ce?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "A new international report finds about half of middle-aged women live with chronic pain, which is often under-recognised and poorly treated.",
-    "tier": "LOCAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/health/2026-11-08/half-of-middle-aged-women-live-with-chronic-pain/107341306"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-08T07:26:20.941710+00:00",
-    "published_date": "2026-11-08",
-    "has_fulltext": true
-   },
-   {
-    "id": "643ce47d-0e3e-53c1-ac4d-46f3a7f53d3d",
-    "title": "Safety a top priority for Vic premier after food delivery driver stabbing",
-    "simplified_title": "Melbourne delivery rider fatally stabbed, premier vows safety action",
-    "quick_summary": "A food delivery rider was fatally stabbed in Melbourne's CBD, prompting the Victorian premier to promise stronger safety protections for gig economy workers.",
-    "simplified_body": "Feng Jianming, a 47-year-old Chinese national and father of two, was fatally stabbed on Friday night while making a delivery for HungryPanda near Queen Victoria Market in Melbourne's central business district (CBD). Another delivery rider, aged 34, was injured. Homicide Squad detectives have arrested a 51-year-old man from Footscray over the incident.\n\nThe attack has hit Melbourne's delivery riders and international student community hard. Many gig economy workers — people who take on-demand jobs through apps rather than being permanent employees — are among the most vulnerable workers. At a vigil attended by hundreds, students spoke of feeling unsafe, with one saying she was considering moving back to Shanghai.\n\nVictorian Premier Ben Carroll said community safety was his top priority and vowed to make \"whatever changes are necessary\", working with Victoria Police and the Transport Workers Union. The Chinese Consulate-General in Melbourne said it had activated emergency consular protection measures and spoke with the premier, who passed on his condolences. HungryPanda said it was deeply saddened, and would cover the family's travel, funeral costs and extra financial support, while helping arrange their visas to Australia.\n\nHungryPanda plans to meet Melbourne riders next week to discuss safety concerns and has contacted the City of Melbourne, the Victorian government and police about practical measures. The company said the tragedy had sharpened attention on rider safety in public spaces. What changes actually follow — and whether they reassure the city's large international student and rider community — remains to be seen.",
-    "why_it_matters": "This touches on the safety of gig economy workers and international students, two large and vulnerable groups in Victoria, and could shape how the state government regulates workplace protections for app-based delivery riders.",
-    "deep_analysis": "## Historical Context\n\nFood delivery through apps has boomed in Australian cities over the past decade, with services like HungryPanda popular among the Chinese student community in Melbourne. Riders are typically classified as independent contractors in the gig economy rather than employees, which has long raised questions about what workplace protections they actually have. Debate over rider safety and conditions is not new, but a fatal attack brings it into much sharper focus.\n\n## Multiple Perspectives\n\nThe Victorian government, through Premier Ben Carroll, is framing this as a community safety priority and promising to work with police and the Transport Workers Union. HungryPanda is emphasising support for the grieving family, outreach to the injured rider, and plans to meet riders and authorities. The Chinese Consulate-General is pressing for the case to be handled fairly and lawfully, and for the rights of Chinese citizens to be safeguarded. Students and residents at the vigil voiced a different, rawer concern — that they feel unsafe in the CBD, with some citing drug use and questioning what their taxes buy them.\n\n## What to Watch\n\nKey things to watch: the outcome of the police investigation and charges against the arrested 51-year-old man; HungryPanda's promised meeting with Melbourne riders and any concrete safety measures that emerge; and whether the Victorian government follows its \"whatever changes are necessary\" pledge with real policy for gig economy worker protections.",
-    "concepts": [
-     {
-      "term": "gig economy",
-      "definition": "A labour market where people take on short-term, on-demand jobs — often through apps — as independent contractors rather than permanent employees.",
-      "context": "Delivery riders working for apps like HungryPanda are classified as gig economy workers, which affects what protections they receive."
-     },
-     {
-      "term": "CBD",
-      "definition": "Central business district — the main commercial and downtown area of a city.",
-      "context": "The stabbing happened in Melbourne's CBD near Queen Victoria Market."
-     },
-     {
-      "term": "consular protection measures",
-      "definition": "Steps a country's consulate takes to assist and protect its citizens who are abroad, especially during emergencies.",
-      "context": "The Chinese Consulate-General in Melbourne activated emergency consular protection measures after the attack on its citizen."
-     }
-    ],
-    "quiz": {
-     "question": "Why does the premier describe delivery riders as needing \"proper protections\"?",
-     "options": [
-      "They are all employed directly by the government",
-      "Gig economy workers are considered among the most vulnerable and often lack strong workplace safety protections",
-      "They are required to carry weapons for safety",
-      "They earn more than other workers"
-     ],
-     "answer_index": 1,
-     "explanation": "The premier noted that gig economy workers doing deliveries are often among the most vulnerable Victorians and need proper workplace safety protections in place."
-    },
-    "background_beginner": "Melbourne is Victoria's capital, and its central city hosts a large community of international students, many from China. Food delivery apps such as HungryPanda employ riders to bring meals to customers; these riders usually work as independent contractors in the \"gig economy\" rather than as regular staff. On Friday night, a 47-year-old rider, Feng Jianming, was fatally stabbed while on a delivery, and another rider was hurt. The case keeps coming up because it has sparked wider fears about safety in the city, the protection of vulnerable workers, and the wellbeing of international students who live and work there.",
-    "impact_score": 58,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/4a1b4e0fb10dca8f8ac54c35294d9ac9?impolicy=wcms_watermark_news&cropH=608&cropW=1080&xPos=0&yPos=140&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "A food delivery rider was fatally stabbed in Melbourne's CBD, prompting the Victorian premier to promise stronger safety protections for gig economy workers.",
-    "tier": "LOCAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-08/delivery-driver-death-jianming-feng/107360706"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-08T07:26:49.116229+00:00",
-    "published_date": "2026-11-08",
-    "has_fulltext": true
    }
   ],
   "ASIA": [
+   {
+    "id": "0e090fb7-33ce-5149-8552-30728f3d2165",
+    "title": "Bangladesh challenges ousted PM Hasina over return pledge",
+    "simplified_title": "Bangladesh dares ousted PM Hasina to seek extradition",
+    "quick_summary": "Bangladesh has challenged its ousted former prime minister, Sheikh Hasina, to formally seek extradition from India if she genuinely intends to return home to face a death sentence.",
+    "simplified_body": "Bangladesh's government on Monday (Nov 9) told ousted former Prime Minister Sheikh Hasina to seek extradition from India if she is serious about coming home. Hasina has vowed to return in December, even though a court sentenced her to death for crimes against humanity over a 2024 crackdown on protesters. Home Minister Salahuddin Ahmed said authorities were reviewing her request for a new passport, noting she was a convicted offender living abroad. Dhaka says it has already written to India asking for her extradition \"through due process\".\n\nThis affects Bangladesh's roughly 170 million people, who remain divided. Many want to see Hasina hanged, while others fear her return could rally her old supporters and spark fresh conflict between rival camps. Officials dismissed her passport bid as a \"political stunt\", with one minister calling her a \"thief\" and \"terrorist\" who should surrender.\n\nHasina's 15-year rule ended in 2024 when a mass uprising forced her out; she fled to long-time ally India and has not appeared in public since, though she has joined online news conferences by phone. She was convicted and sentenced in absentia (meaning while absent). Her continued presence in India has strained ties between Dhaka and New Delhi, which says the extradition request is under legal review. Her British lawyers, Matrix Chambers, have asked to renew her documents.\n\nWhat happens next is uncertain. The new government of Tarique Rahman — whose party won February elections that Hasina's banned Awami League was barred from contesting — says she would get due legal process if she returns. Police have arrested 12 people, said to be Awami League members, over petrol bomb attacks that caused no casualties.",
+    "why_it_matters": "A former leader under a death sentence openly vowing to return home is rare and destabilising, and the India–Bangladesh standoff over her fate affects stability across a region where Australia has growing trade and diaspora ties.",
+    "deep_analysis": "## Historical Context\n\nSheikh Hasina led Bangladesh for 15 years before a mass uprising ended her rule in 2024. Her government's attempt to crush the protests — the crackdown at the centre of her conviction — became the trigger for her downfall. She fled to India, a long-standing ally, and has stayed there since. In November 2025 a court sentenced her to death in absentia for crimes against humanity. Her Awami League party has since been barred from contesting elections, and a new government under Tarique Rahman took power after a February vote.\n\n## Multiple Perspectives\n\nThe Bangladeshi government frames the issue bluntly: Hasina is a convicted criminal who fled justice, and her passport application is, in the chief prosecutor's words, \"nothing but political stunt\". Ministers say she should surrender and face her sentence. Hasina, through emails to AFP and her British lawyers at Matrix Chambers, insists she intends to return while acknowledging she faces being hanged — though her lawyers' letter notably gave no detail on when or where she would travel. India sits awkwardly in the middle, saying the extradition request is under legal review while hosting her, which has strained Dhaka–New Delhi ties.\n\n## What to Watch\n\nWatch whether India acts on the extradition request or continues to stall. The passport review's outcome will signal how far Dhaka will go. Domestically, the key risk is unrest: police have already linked arrested petrol-bombing suspects to the banned Awami League, and both Hasina's supporters and opponents could escalate as December approaches.",
+    "concepts": [
+     {
+      "term": "extradition",
+      "definition": "The formal process by which one country hands over a person to another country to face criminal charges or serve a sentence.",
+      "context": "Bangladesh says it has asked India to extradite Hasina so she can face her death sentence at home."
+     },
+     {
+      "term": "in absentia",
+      "definition": "A legal term meaning a trial or sentencing happened while the accused person was absent.",
+      "context": "Hasina was convicted and sentenced to death without being present in court, as she was in India."
+     },
+     {
+      "term": "crimes against humanity",
+      "definition": "Serious offences, such as mass killing or persecution of civilians, considered grave enough to be prosecuted as international crimes.",
+      "context": "Hasina was sentenced for these over the 2024 crackdown on protesters."
+     }
+    ],
+    "quiz": {
+     "question": "Why has Bangladesh told Hasina to seek extradition from India?",
+     "options": [
+      "Because Bangladesh cannot legally try her otherwise",
+      "Because India refuses to let her leave the country",
+      "To force India to join an extradition treaty",
+      "To test whether she is genuinely willing to return and face her death sentence"
+     ],
+     "answer_index": 3,
+     "explanation": "The government argues that if Hasina truly intends to return, she should formally seek extradition and surrender to face justice — framing her passport bid as a 'political stunt' rather than a genuine intention."
+    },
+    "background_beginner": "Sheikh Hasina was Bangladesh's prime minister for 15 years until a mass public uprising forced her from power in 2024. Her government had tried to crush the protests, and that crackdown led a Bangladeshi court to sentence her to death for crimes against humanity in November 2025 — though she was tried while absent, having fled to neighbouring India. India is a long-time ally and has not handed her back, straining relations between the two countries. A new government, led by Tarique Rahman, now runs Bangladesh after February elections that Hasina's Awami League party was banned from. The story keeps resurfacing because Hasina keeps vowing to return, which divides Bangladeshis and unsettles the region.",
+    "impact_score": 62,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--DP6ZOZ8P--/c_crop,h_1125,w_2000,x_0,y_47/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/09/000_d6vz3ke.jpg?itok=BBIokGOF",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "Bangladesh has challenged its ousted former prime minister, Sheikh Hasina, to formally seek extradition from India if she genuinely intends to return home to face a death sentence.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/bangladesh-hasina-return-india-extradition-6535951"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-09T19:26:51.664719+00:00",
+    "published_date": "2026-11-10",
+    "has_fulltext": true
+   },
    {
     "id": "09a74199-2863-5342-9e66-c43635b2fd02",
     "title": "India: Delhi chokes on most polluted Diwali eve in 10 years",
@@ -438,69 +442,6 @@
     "reading_minutes": 2,
     "created_at": "2026-11-09T07:25:38.167939+00:00",
     "published_date": "2026-11-09",
-    "has_fulltext": true
-   },
-   {
-    "id": "30370311-f9df-5f16-8cc2-47dcef93f748",
-    "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
-    "simplified_title": "Two Uyghur men fear deportation from Thailand to China",
-    "quick_summary": "Human rights groups warn that two Uyghur men held in Thailand could be deported to China, where activists say their lives would be in grave danger.",
-    "simplified_body": "Two Uyghur men being held in Thailand fear they are about to be sent to China, where one says he would be treated \"like a slave\". They were recently moved to an immigration detention centre, and human rights groups worry Thai authorities may again bend to pressure from Beijing. The men pleaded their case to Thailand's National Human Rights Commission, and it's not yet clear whether China has made a formal extradition request.\n\nThe men are part of a group of more than 200 Uyghurs — a mostly Muslim Turkic minority from China's Xinjiang region — caught by Thai police in 2014 after fleeing China. Since then, women and children have gone to Turkey, but batches of men have been deported back to China, drawing criticism from the United Nations (UN) and US secretary of state Marco Rubio. Last year, Thailand forcibly returned 40 Uyghur men despite offers from the US and Canada to resettle them; the UN says their whereabouts are still unknown.\n\nBackground helps here: Uyghurs have faced decades of harsh treatment in China, including hundreds of thousands detained in camps the UN has called a potential crime against humanity. Beijing says its Xinjiang policies are about poverty relief and counter-terrorism. These two men had been serving seven-year sentences over an attempted escape from detention in 2020.\n\nActivists are urging Thailand to let the men travel to a safe third country instead. One campaigner, Marzeyya Kasem, questions the credibility of China's arrest warrants, noting her boyfriend was a minor when he left China. She believes Thailand is now trying to build a stronger legal basis after being criticised for last year's mass deportation.",
-    "why_it_matters": "The case tests whether countries will shield vulnerable people from deportation to a nation accused of crimes against humanity — a question that resonates in Australia, where refugee resettlement and the balance between human rights and trade ties with China are live debates.",
-    "deep_analysis": "## Historical Context\n\nUyghurs are a Turkic, largely Muslim minority mainly from China's Xinjiang region, where they've faced decades of discriminatory and oppressive treatment. This has included the incarceration of hundreds of thousands of people in detention camps that the UN has described as a potential crime against humanity, aimed at stamping out Uyghur cultural identity. Beijing rejects this framing, defending its Xinjiang policies as poverty alleviation and counter-terrorism. The particular group in this story was apprehended by Thai police in 2014 near the Malaysian border after fleeing China; since then women and children have been released to Turkey, while the men have been deported back to China in batches.\n\n## Multiple Perspectives\n\nActivists and Human Rights Watch's Asia director, Elaine Pearson, argue the men face grave danger and should be allowed to reach a safe third country, pointing to previous returnees who were \"forcibly disappeared\". The men themselves say they want to go \"anywhere else but China\". China's foreign ministry frames the cooperation with Thailand as lawful action against cross-border crimes such as smuggling, consistent with international practice. Thailand's security council chief says the men have outstanding arrest warrants in China, while the foreign ministry declined to comment. Campaigner Marzeyya Kasem questions the warrants' credibility, asking why China didn't issue an Interpol red notice back in 2014 if the men were genuinely wanted.\n\n## What to Watch\n\nKey unknowns: whether China has issued a formal extradition request, and whether Thailand proceeds despite international criticism. Watch for responses from the UN and the US — Marco Rubio has already criticised earlier deportations. Kasem's theory that Thailand is building a \"more credible legal basis\" this time suggests the outcome may hinge on how the warrants are presented and tested.",
-    "concepts": [
-     {
-      "term": "Uyghurs",
-      "definition": "A mostly Muslim, Turkic ethnic minority mainly from China's Xinjiang region who have faced long-running oppression from Chinese authorities.",
-      "context": "The two men at risk of deportation belong to this group."
-     },
-     {
-      "term": "extradition request",
-      "definition": "A formal demand from one country asking another to hand over a person so they can face legal proceedings.",
-      "context": "It's unclear whether China has made one for the two men."
-     },
-     {
-      "term": "Xinjiang",
-      "definition": "A region in north-west China that is the main homeland of the Uyghur people and the site of mass detention camps.",
-      "context": "The Uyghurs in the story originally fled from here."
-     },
-     {
-      "term": "crime against humanity",
-      "definition": "A serious, widespread or systematic attack on civilians that is condemned under international law.",
-      "context": "The UN has described China's treatment of Uyghurs as a potential one."
-     }
-    ],
-    "quiz": {
-     "question": "Why do activists oppose deporting the two Uyghur men to China?",
-     "options": [
-      "The men have committed no crime anywhere in the world",
-      "Thailand has no detention facilities available",
-      "They believe the men would face grave danger and could be forcibly disappeared",
-      "China has refused to accept them"
-     ],
-     "answer_index": 2,
-     "explanation": "Human rights groups say the men's lives would be in grave danger, pointing to earlier returnees whose whereabouts remain unknown after being forcibly disappeared, and want them sent to a safe third country instead."
-    },
-    "background_beginner": "Uyghurs are a mostly Muslim ethnic minority from Xinjiang in north-west China. For years, Chinese authorities have been accused of oppressing them, including detaining hundreds of thousands in camps — treatment the United Nations has called a possible crime against humanity. China says its policies are about fighting poverty and terrorism. Back in 2014, a group of over 200 Uyghurs fled China and were caught in Thailand. Since then, Thailand has faced a tug-of-war: human rights groups and Western governments want the Uyghurs protected, while China pressures Thailand to send them back. It keeps coming up because Thailand repeatedly deports men to China despite global criticism.",
-    "impact_score": 58,
-    "image_url": "https://i.guim.co.uk/img/media/35edbd25132584ead100a994fe3243e80a1ce3f1/0_0_4132_3306/master/4132.jpg?width=1920&quality=85&auto=format&fit=max&s=19cfbbdc1ef7ee89fa6690ed5ac93b7b",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "Human rights groups warn that two Uyghur men held in Thailand could be deported to China, where activists say their lives would be in grave danger.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-08T07:26:21.632778+00:00",
-    "published_date": "2026-11-08",
     "has_fulltext": true
    },
    {
@@ -632,77 +573,6 @@
   ],
   "EUROPE": [
    {
-    "id": "2f359eb0-5805-5e39-b3bb-5caa020d0e0f",
-    "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
-    "simplified_title": "Gunman kills six in Kraków market square attack",
-    "quick_summary": "A 25-year-old Polish man opened fire in Kraków's main square, killing six people and wounding 16, with three more bodies later found at his home.",
-    "simplified_body": "On Saturday at about 3pm, a 25-year-old Polish man opened fire with an automatic weapon from inside a car in Kraków's main market square, Poland's second-largest city. Six people were killed — four women and two men, including a British citizen — and 16 were wounded. Wearing military-style fatigues and a bulletproof vest, the gunman kept shooting at police even after being hit himself. He was shot and \"neutralised\" and is now in a serious condition in hospital. Hours later, Prime Minister Donald Tusk said three more people, likely the shooter's family, were found dead at his home around 150km away.\n\nThose affected reach well beyond Poland. Among the wounded were nationals from Britain, Austria, Germany, Portugal and Russia, plus two police officers — one in a critical condition after three gunshot wounds. Australia's Department of Foreign Affairs and Trade said it was not aware of any affected Australians. Kraków draws about 15 million tourists a year, most passing through the square.\n\nFor background: the interior minister said the suspect was fascinated with far-right ideologies and held \"very radical\" and \"ultra-nationalistic\" views. The defence minister called it an \"act of terror\", and Tusk said Poland had never seen such drastic terrorism before. The defence minister denied reports the man was a soldier. The motive remains unknown.\n\nPoland held two days of national mourning on Sunday and Monday, and Kraków will mourn until Wednesday. The mayor vowed the city stays open to visitors. Authorities promised a full investigation, while Tusk urged politicians not to exploit the tragedy and warned against online disinformation.",
-    "why_it_matters": "A deadly, seemingly ideologically driven mass shooting in a packed European tourist hub rattles a country that says it has never faced terrorism this severe — and Australia's foreign affairs department is already checking whether any Australians were caught up.",
-    "deep_analysis": "## Historical Context\n\nMass shootings of this scale are rare in Poland and across much of Europe, where firearms laws are generally strict. Tusk himself said the country had never seen \"such drastic cases of terrorism.\" Notably, earlier this year Euronews reported that legally owned firearms in Poland surpassed one million for the first time, with a record 50,700 gun permits issued in 2025 — nearly double the active permits registered in 2015. That sharp rise in gun ownership forms part of the backdrop, though the sources do not link it directly to this attack.\n\n## Multiple Perspectives\n\nPolish officials were united in framing the event as terrorism: the defence minister called it an \"act of terror,\" while stressing the man was never a soldier. The interior minister pointed to far-right, ultra-nationalistic views, though the motive officially remains unknown. International figures — the US ambassador, the European Commission's Kaja Kallas, and British tributes — expressed solidarity. Tusk struck a cautionary note, appealing to \"politicians of all stripes\" not to exploit the tragedy and warning about disinformation spreading online, a sign officials fear the attack could be politicised before facts are settled.\n\n## What to Watch\n\nKey open questions: the gunman's survival and what investigators learn about his motive and the deaths at his home; formal identification of the two unnamed victims; and whether the \"far-right\" characterisation is confirmed. Watch too for any policy debate over Poland's rapidly rising gun ownership, and for heightened security — Warsaw's mayor has already added barriers around the old town.",
-    "concepts": [
-     {
-      "term": "act of terror",
-      "definition": "A violent attack intended to cause fear or make a political or ideological statement, rather than an ordinary crime.",
-      "context": "Poland's defence minister used this label even as the official motive remained unknown."
-     },
-     {
-      "term": "far-right",
-      "definition": "Extreme political views on the right, often involving intense nationalism and hostility to minorities or outsiders.",
-      "context": "The interior minister said the suspect was fascinated with these ideologies."
-     },
-     {
-      "term": "ultra-nationalistic",
-      "definition": "Holding an extreme, aggressive form of national pride that can fuel hostility toward others.",
-      "context": "Officials described the suspect's views this way."
-     },
-     {
-      "term": "national mourning",
-      "definition": "An official period declared by a government to collectively grieve a tragedy, often with flags lowered and events paused.",
-      "context": "Poland observed two days of it on Sunday and Monday."
-     }
-    ],
-    "quiz": {
-     "question": "What did Polish officials say about the shooter's motive?",
-     "options": [
-      "It was a planned attack by an organised group",
-      "He was a serving Polish soldier acting under orders",
-      "It was confirmed as a robbery gone wrong",
-      "The motive remains officially unknown, though he reportedly held far-right views"
-     ],
-     "answer_index": 3,
-     "explanation": "Officials said the motive was unknown but that early investigation indicated far-right, ultra-nationalistic views. They stressed he acted alone and was never a soldier."
-    },
-    "background_beginner": "Kraków is Poland's second-largest city and a huge tourist drawcard, with around 15 million visitors a year, most passing through its historic main market square near St Mary's Basilica. On a Saturday afternoon, a 25-year-old Polish man drove into the square and opened fire, killing six people — including a British tourist — and wounding 16 more from several countries. Three more bodies, likely his family, were later found at his home. Polish leaders, including Prime Minister Donald Tusk, called it terrorism, something they say the country has never faced on this scale. The story keeps developing because the gunman survived, his motive is still unclear, and officials are investigating his reported far-right views.",
-    "impact_score": 74,
-    "image_url": "https://i.guim.co.uk/img/media/d3f69aa1c3d89942893e95f0fcd1082380136833/0_0_7000_4667/master/7000.jpg?width=1920&quality=85&auto=format&fit=max&s=21d958196d65ef5465d3df0595fba241",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "A 25-year-old Polish man opened fire in Kraków's main square, killing six people and wounding 16, with three more bodies later found at his home.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-08/deadly-shooting-in-krakow-market-poland/107360360"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-08T07:26:27.029111+00:00",
-    "published_date": "2026-11-08",
-    "has_fulltext": true
-   },
-   {
     "id": "9e69c882-6e54-5523-8b4d-5fec266a1ad4",
     "title": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
     "simplified_title": "Europe joins US-led Ukraine peace talks in Abu Dhabi",
@@ -766,75 +636,231 @@
     "has_fulltext": true
    },
    {
-    "id": "28c71630-02c8-5e22-9820-4232c3e84dca",
-    "title": "More than 140,000 rally as new protests against rising costs sweep France",
-    "simplified_title": "Cost-of-living protests sweep France for a fourth weekend",
-    "quick_summary": "Around 146,000 people rallied across France against rising living costs, with clashes and arrests reported in several cities.",
-    "simplified_body": "France saw its fourth straight weekend of mass protests on Saturday, with the Ministry of the Interior counting about 146,000 demonstrators nationwide, including 46,000 in Paris. Trade unions put the figure much higher, at over 250,000. Turnout was lower than previous weeks, but clashes still broke out between police and protesters in Paris, Lyon, Toulouse, Marseille and Bordeaux. Police used tear gas, and the Interior Ministry reported roughly 350 arrests. About 70,000 security personnel were deployed.\n\nThe movement affects workers, students, civil servants and pensioners who are angry about the rising cost of living. It began in September with students demanding better conditions and resources at French high schools, then widened into a broader push led by students but joined by people of all ages. Unions want wage rises and tax reforms. Prime Minister Sebastien Lecornu is due to meet unions on Monday, though organisers say only meeting their demands will stop the protests.\n\nThe separate \"Yellow Vest\" movement (the \"Gilets Jaunes\"), which first made headlines eight years ago protesting a fuel tax hike, declined to join the student rally and held a banned event near parliament; two of its leading figures were arrested. President Emmanuel Macron's government says it plans to lift the minimum wage and fund schools, but France's debt sits at 119% of its Gross Domestic Product (GDP).\n\nThe unrest comes ahead of France's presidential election in April. Polls put far-right candidate Marine Le Pen first and far-left candidate Jean-Luc Melenchon second. Note: the sources differ on recent turnout — Al Jazeera cites a 575,000-strong union rally days earlier, while DW cites 320,000–500,000 last Saturday.",
-    "why_it_matters": "France is the European Union's second-largest economy, so sustained unrest and a looming election there ripple through European markets and politics that Australia trades and partners with.",
-    "deep_analysis": "## Historical Context\n\nFrance has a long tradition of street protest shaping national policy. This current wave started in September 2026 over conditions in French high schools, then broadened into a wider cost-of-living movement led by students but backed by unions, workers and pensioners. It echoes the \"Yellow Vest\" (Gilets Jaunes) protests of eight years ago, which erupted over a proposed fuel tax and became known for violent clashes. Notably, the Yellow Vests have stayed separate this time, holding their own banned gathering rather than joining the student-led marches.\n\n## Multiple Perspectives\n\nThe government, through Interior Minister Laurent Nunez, framed its response around keeping order, warning it would be \"ready\" for rioters and looters, and pointing to real violence — October 17 saw France's worst rioting in years, with over a billion euros in damage. Macron's government says it intends to raise the minimum wage and fund schools, but insists it is fiscally constrained with debt at 119% of GDP. Unions and organisers counter that only meeting their demands on wages and tax reform will end the protests. The two sources also differ on scale: official counts (146,000) run well below union counts (250,000+), a common and disputed feature of French protest reporting.\n\n## What to Watch\n\nWatch Monday's meeting between Prime Minister Sebastien Lecornu and the unions for any concessions. Keep an eye on whether turnout keeps shrinking or reignites, and whether clashes escalate. Longer term, the April presidential election looms large, with polls favouring Marine Le Pen and Jean-Luc Melenchon — a sign discontent may be feeding support for the political extremes.",
+    "id": "df353268-88d7-51c8-8efa-13459c39d0f3",
+    "title": "Gunman dies in hospital after killing six and injuring 15 in Krakow shooting",
+    "simplified_title": "Kraków Gunman Dies After Killing Six In Rare Polish Attack",
+    "quick_summary": "A 24-year-old gunman who killed six people in Kraków's main square and apparently his own family has died in hospital, with prosecutors treating it as terrorism while still investigating his motive.",
+    "simplified_body": "On Saturday afternoon, a man drove into Kraków's busy Main Market Square, got out and started shooting at random. Police shot and arrested him within about three minutes, which officials say prevented an even bigger massacre. He later died in hospital early Monday. Six people were killed — four Polish nationals, a British man and an Austrian woman — and the bodies of his father, mother and sister were found at the family home, likely also killed by him.\n\nThis has shaken Poland, a country widely seen as safer than many European neighbours. The victims and injured came from several countries, including Britain, Austria, Germany, Portugal and Russia, so the shock spread well beyond Poland's borders. Two police officers were badly hurt, and two surgeons who happened to be eating nearby rushed in to treat the wounded before ambulances arrived.\n\nThe attacker, named in local media as Michał Oksiński, had no criminal record but held a firearms licence, as did his father. Several guns — including two AR-15 rifles — and hundreds of rounds were found in his car and home. A government minister first said he was inspired by far-right ideology and called him an \"ultra-nationalist\". Prosecutors have since walked that back, saying it is \"too early\" and they have no clear evidence linking him to any political movement. The attack is being treated as a terrorist offence.\n\nThe investigation continues, aiming to work out whether he acted alone or was inspired by a group. The government has promised to review gun permits rules. Poland held two days of national mourning, and flags flew at half-mast, including outside the European Commission in Brussels.",
+    "why_it_matters": "A random mass shooting in a packed tourist square is exactly the kind of event Australians picture when travelling in \"safe\" European cities, and it killed people from five countries, showing how quickly such violence reaches beyond its borders.",
+    "deep_analysis": "## Historical Context\n\nPoland has long been regarded as one of Europe's safer countries for gun violence, with strict licensing and comparatively few mass shootings. That reputation is part of why Prime Minister Donald Tusk said the country hadn't previously seen \"such drastic cases of terrorism\". The attack also lands after a troubling run: officials pointed to several school stabbings in October that left one woman dead, which they linked to extremist content online. Against that backdrop, a lone attacker with a legal firearms licence striking a crowded heritage site raises uncomfortable questions about how radicalisation and legal gun ownership can overlap.\n\n## Multiple Perspectives\n\nThere is a genuine, unresolved dispute over motive. Interior figures initially described the gunman as a far-right \"ultra-nationalist\", but the National Prosecutor's Office spokesperson, Przemysław Nowak, said there was no evidence tying him to any ideology, \"whether far right or far left\", and that no clearly recognisable political symbols were found. Poland's nationalist opposition, including Law & Justice leader Jarosław Kaczyński, called the far-right claim a \"blatant lie\" — so the motive has become politically charged. Justice Minister Waldemar Żurek has urged \"restraint\" while evidence, including emblems on the attacker's clothing and seized phones, is still being examined.\n\n## What to Watch\n\nKey questions: whether investigators conclude he acted alone or was inspired by a group; what the many patches and emblems and his electronic devices reveal; and whether a concrete ideology is ever established. Politically, watch the promised review of gun permit rules — both the shooter and his father were licensed holders — and whether it leads to real legislative change or fades. Also note how the motive debate plays into Poland's broader government-versus-opposition tensions.",
     "concepts": [
      {
-      "term": "Yellow Vest",
-      "definition": "A French protest movement, known in French as the Gilets Jaunes, that began eight years ago over a proposed fuel tax and became known for violent demonstrations.",
-      "context": "This weekend the Yellow Vests declined to join the student rally and held their own banned event near parliament."
+      "term": "terrorist offence",
+      "definition": "A crime treated under terrorism law, usually because it aims to cause fear or harm for political, ideological or religious reasons rather than ordinary criminal gain.",
+      "context": "Polish prosecutors opened a terrorism investigation even while saying they had not yet pinned down a motive."
      },
      {
-      "term": "cost of living",
-      "definition": "The everyday expense of basics like food, housing, energy and transport; when it rises faster than wages, people feel poorer.",
-      "context": "Rising living costs are the central grievance driving the French protests."
+      "term": "far-right ideology",
+      "definition": "A set of extreme nationalist or anti-immigrant political beliefs often linked to racism or ultra-nationalism.",
+      "context": "A minister initially blamed this, but prosecutors later said there was no clear evidence for it."
      },
      {
-      "term": "Gross Domestic Product (GDP)",
-      "definition": "The total value of goods and services a country produces; it's the standard yardstick for the size of an economy.",
-      "context": "France's debt is reported at 119% of its GDP, limiting the government's spending room."
+      "term": "firearms licence",
+      "definition": "An official permit allowing a person to legally own and carry guns, usually requiring background checks.",
+      "context": "The attacker and his father both held permits, prompting a government review of the rules."
+     },
+     {
+      "term": "national mourning",
+      "definition": "An official period declared by a government to honour the dead, often with flags lowered to half-mast.",
+      "context": "Poland declared two days of it after the Kraków attack."
      }
     ],
     "quiz": {
-     "question": "Why does the French government say it is struggling to simply meet the protesters' demands on wages and school funding?",
+     "question": "Why have Polish prosecutors urged caution about the gunman's motive?",
      "options": [
-      "Because the European Union has banned spending increases",
-      "Because the protests are illegal",
-      "Because the unions refuse to negotiate",
-      "Because its debt is already running at 119% of GDP, leaving little fiscal room"
+      "They have closed the investigation after his death",
+      "They say there is no clear evidence linking him to any particular ideology yet",
+      "They have ruled out terrorism entirely",
+      "They have confirmed he was part of an organised far-right group"
      ],
-     "answer_index": 3,
-     "explanation": "The sources say Macron's government intends to raise the minimum wage and fund schools but is in a tight fiscal spot, with debt at 119% of GDP in the EU's second-largest economy."
+     "answer_index": 1,
+     "explanation": "Although a minister first called him a far-right 'ultra-nationalist', prosecutors said it was 'too early' and they found no clear political symbols, so the investigation continues."
     },
-    "background_beginner": "France has been gripped by weeks of protests over the rising cost of living — the everyday price of food, housing and energy outpacing people's wages. The movement started in September 2026 with students demanding better high schools, then grew as trade unions, workers and pensioners joined in calling for higher pay and tax changes. President Emmanuel Macron's government says it wants to help but is short of money, as France carries heavy debt. The protests keep returning each weekend, sometimes turning violent, and they come just before a presidential election in April where polls favour the far-right's Marine Le Pen and the far-left's Jean-Luc Melenchon.",
-    "impact_score": 62,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aef808e-1794080910.jpg?resize=1920%2C1440",
+    "background_beginner": "On a Saturday afternoon, a young man drove into the main square of Kraków — one of Poland's biggest and most historic cities, usually full of tourists — and opened fire at random. Police stopped him within minutes, and he later died of his injuries. Six people were killed, along with his own family at their home. Poland is normally seen as a safe country with tight gun laws, so the attack came as a huge shock. It keeps coming up in the news because officials disagree over whether the gunman was driven by extreme politics, and because he legally owned guns — raising questions about permits and radicalisation.",
+    "impact_score": 68,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/48ea5b8cb35ce003d6ea0b41bd53e9ba?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
     "region": "Europe incl. UK, Russia-Ukraine",
     "region_code": "EUROPE",
-    "description": "Around 146,000 people rallied across France against rising living costs, with clashes and arrests reported in several cities.",
+    "description": "A 24-year-old gunman who killed six people in Kraków's main square and apparently his own family has died in hospital, with prosecutors treating it as terrorism while still investigating his motive.",
     "tier": "GLOBAL",
-    "category": "SOCIETY_CULTURE",
+    "category": "CRIME_SAFETY",
     "sources": [
      {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-09/krakow-shooter-dies-in-hospital/107366174"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "2f359eb0-5805-5e39-b3bb-5caa020d0e0f"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-09T19:26:28.785536+00:00",
+    "published_date": "2026-11-10",
+    "has_fulltext": true
+   },
+   {
+    "id": "e8ea5e7d-0226-5051-82b6-95dade766959",
+    "title": "Russell Brand jailed for more than 10 years for rape and sexual assault",
+    "simplified_title": "Russell Brand jailed for more than 10 years for rape",
+    "quick_summary": "Comedian and actor Russell Brand has been sentenced to 10 years and six months in prison for rape and three counts of sexual assault.",
+    "simplified_body": "British comedian and actor Russell Brand, 51, has been sentenced at London's Southwark Crown Court to 10 years and six months in prison. A jury last week found him guilty of raping one woman and sexually assaulting three others, with the offences committed between 2004 and 2009. He was cleared of two counts of rape and one count of attempted indecent assault. Brand pleaded not guilty throughout, insisting every encounter was consensual.\n\nFour women were the victims in the charges he was convicted of, and by UK law they are granted lifelong anonymity. Some gave victim impact statements, describing shame and trauma carried for 20 years. Judge Joel Bennathan called Brand a \"sexual predator\" who believed \"fame meant you could act how you liked\", and said his celebrity had protected him until 2023, when journalists published allegations that encouraged women to come forward.\n\nBrand rose to fame in the early 2000s as a stand-up comedian, TV presenter and later Hollywood actor, and was briefly married to pop star Katy Perry. He has battled drug and alcohol addiction, later moved to Florida, shifted towards conservative politics and said he underwent a religious conversion. His wife, Laura Gallacher, with whom he has three children, has stayed by his side throughout.\n\nUnder UK sentencing rules, sexual offenders can be released after serving two-thirds of a sentence, so Brand is likely to spend about seven years behind bars. The Metropolitan Police says he remains under investigation over two other alleged rapes, and the force has said more people may yet come forward.",
+    "why_it_matters": "The case shows that fame, wealth and the passage of time don't shield powerful men from being held to account for sexual violence — a message that resonates well beyond the UK, including here in Australia.",
+    "deep_analysis": "## Historical Context\n\nRussell Brand was one of Britain's most recognisable entertainers through the 2000s, building his act around frank stories of his sex life, alcoholism and heroin addiction before moving into television and Hollywood films. His celebrity, the judge noted, effectively \"protected\" him for years. That changed in 2023, when journalists collected and published allegations against him — a turning point the judge said \"empowered a number of women to come forward\". The pattern echoes the broader #MeToo reckoning, in which media investigations preceded criminal cases against high-profile men.\n\n## Multiple Perspectives\n\nThe prosecution and judge framed Brand as a \"manipulative sexual predator\" who exploited his fame and showed \"casual and arrogant disregard\" for women. Survivors described lasting trauma and shame. Brand's defence, led by barrister Ian Winter KC, argued he is \"a fundamentally different person today\", has recovered from addiction, and did significant charity work; Winter controversially described the rape as a \"short\" and \"momentary\" failure to respect consent. The judge accepted Brand's recent good character enough to reduce the sentence slightly, while stressing the loss to his children stemmed from his own offending.\n\nNote the sources differ on some details: ABC reports four women targeted between 2004 and 2009, while Al Jazeera and DW mention six accusers in total, with DW citing allegations going back as far as 1999. All agree he was convicted over four of those accusers.\n\n## What to Watch\n\nThe Metropolitan Police says Brand is under investigation over two further alleged rapes — one reportedly involving a then-16-year-old girl — and senior officers have said they wouldn't be surprised if more people came forward. Any appeal, and how UK authorities improve support for sexual assault victims, will also be worth following.",
+    "concepts": [
+     {
+      "term": "sexual predator",
+      "definition": "A person who repeatedly seeks out others to abuse or exploit them sexually; here used by the judge to describe Brand's pattern of behaviour.",
+      "context": "The judge repeatedly used this phrase to characterise how Brand used his fame to pursue women without consent."
+     },
+     {
+      "term": "lifelong anonymity",
+      "definition": "A legal protection in the UK that permanently prevents the public identification of people who report certain sexual offences.",
+      "context": "It explains why the four women in the case are not named in any of the reporting."
+     },
+     {
+      "term": "victim impact statements",
+      "definition": "Formal accounts, read in court, in which victims describe how a crime has affected them.",
+      "context": "Several of Brand's victims used these to tell the court about the lasting trauma and shame they experienced."
+     },
+     {
+      "term": "attempted indecent assault",
+      "definition": "A charge of trying, but not completing, an unlawful sexual touching of another person.",
+      "context": "Brand was acquitted of this charge along with two counts of rape."
+     }
+    ],
+    "quiz": {
+     "question": "Why will Russell Brand likely serve about seven years rather than the full 10.5-year sentence?",
+     "options": [
+      "UK rules allow sexual offenders to be released after serving two-thirds of a sentence",
+      "He received a presidential pardon",
+      "He successfully appealed part of the conviction",
+      "The judge reduced the sentence to seven years"
+     ],
+     "answer_index": 0,
+     "explanation": "Under UK sentencing laws, sexual offenders can be released under supervision after serving two-thirds of their sentence, which for Brand's 10.5 years works out to roughly seven years."
+    },
+    "background_beginner": "Russell Brand is a British comedian and actor who became famous in the early 2000s through edgy stand-up about his sex life and drug use, then hosted TV shows and starred in Hollywood films. He was briefly married to American pop singer Katy Perry. In 2023, journalists published allegations of sexual misconduct against him, which led several women to go to police. After a trial, a jury found him guilty of rape and sexual assault involving four women, and he has now been sentenced to more than 10 years in prison. The case keeps making headlines because of his fame, his denials, and ongoing police investigations.",
+    "impact_score": 68,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/5d862d02536c388e407041178330e69e?impolicy=wcms_watermark_news&cropH=1419&cropW=2523&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "Comedian and actor Russell Brand has been sentenced to 10 years and six months in prison for rape and three counts of sexual assault.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-10/russell-brand-sentenced/107365656"
+     },
+     {
       "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss"
      },
      {
       "name": "DW",
-      "url": "https://www.dw.com/en/france-sees-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf"
+      "url": "https://www.dw.com/en/russell-brand-sentenced-to-over-10-years-in-prison-for-rape-and-sexual-assault-convictions/a-79896124?maca=en-rss-en-all-1573-rdf"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
     "related_story_ids": [
-     "40889fac-dd61-5de5-988e-f67b65392c2d",
-     "5aa2f549-ba36-554e-b483-53d75a23f45a",
-     "64681fd5-c970-5213-a539-22ebbd387f36",
-     "a57bbdc4-9f13-5c6e-b135-ee085a776457",
-     "d92321ee-32e9-5d8e-9ae9-4845ceea9903"
+     "88144281-6598-5b3f-8ddd-7f3354fcd7bf"
     ],
-    "reading_minutes": 2,
-    "created_at": "2026-11-08T01:25:05.769659+00:00",
-    "published_date": "2026-11-08",
+    "reading_minutes": 5,
+    "created_at": "2026-11-09T19:26:23.294615+00:00",
+    "published_date": "2026-11-10",
     "has_fulltext": true
    }
   ],
   "MIDDLE_EAST_AFRICA": [
+   {
+    "id": "e9d4ed6b-b078-5857-852b-a332ad24d262",
+    "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+    "simplified_title": "Israel's president taps Netanyahu rival Eisenkot to form a government",
+    "quick_summary": "After a deadlocked election, Israel's president has given Netanyahu's strongest rival, Gadi Eisenkot, 28 days to try to build a governing coalition.",
+    "simplified_body": "Israel's president, Isaac Herzog, has chosen Gadi Eisenkot — the 66-year-old leader of the Yashar party and Prime Minister Benjamin Netanyahu's main rival — to try to form a new government. The move follows an election on 27 October that produced no clear winner. Netanyahu's bloc won the most seats (53), Eisenkot's opposition bloc took 48, and two Arab-majority parties won a record 19, leaving them as potential kingmakers. Eisenkot now has 28 days, with a possible 14-day extension, to find the 61 votes needed in the 120-seat parliament.\n\nThis matters for anyone watching the Middle East, because a change would unseat Netanyahu, Israel's longest-serving premier. Eisenkot, a former military chief, says Israel faces a \"state of emergency\" and a \"devastating diplomatic crisis,\" and he's calling for a national emergency government — but only with himself as prime minister. He has reached out to Netanyahu's Likud and far-right partners alike.\n\nFor a newcomer: Israel's voting system almost always produces coalitions, and it has never had a one-party government. Eisenkot's three paths — a deal with Netanyahu, backing from Arab-led parties, or an agreement with the ultra-Orthodox — all carry big risks. Some of his own partners, like Yisrael Beiteinu, refuse to govern with Arab parties, while the ultra-Orthodox demand military draft exemptions that Eisenkot's camp campaigned to end.\n\nWhat happens next is uncertain. Netanyahu has claimed, without clear evidence, that the vote was \"stolen,\" while the Central Elections Committee and Herzog say it was valid. If no one can form a government, Israel heads to fresh elections — something it did five times between 2019 and 2022.",
+    "why_it_matters": "A leadership change in Israel would reshape one of the world's most closely watched conflicts, affecting Gaza, the West Bank and Israel's ties with the United States — all issues Australia tracks closely through its own foreign policy and sizeable Jewish and Palestinian communities.",
+    "deep_analysis": "## Historical Context\n\nThis is the first Israeli election since Hamas's attack of 7 October 2023 and the devastating war in Gaza that followed, which The Conversation calls the \"most consequential election in Israel's history.\" Israel's system is built to produce coalitions — the country has never had a one-party government — so the president formally nominates whoever he thinks can assemble a majority, and that need not be the leader of the largest party. Eisenkot commanded the military as chief of staff from 2015 to 2019 and, during the 2006 war with Hezbollah, devised the \"Dahiya doctrine,\" which threatens massive force against civilian infrastructure in Hezbollah-controlled areas. The deadlock echoes 2019–2022, when repeated stalemates forced five elections in three years.\n\n## Multiple Perspectives\n\nEisenkot frames the moment as an emergency requiring \"creative and unconventional political steps\" and compromise from everyone, while opposing a Palestinian state and vowing to destroy Hamas's military wing. Netanyahu, who still leads the largest bloc, calls for a \"national unity\" government but also insists any alliance with Arab parties would be \"betrayal,\" and has claimed the vote was \"stolen\" without offering evidence. The two Arab-majority parties — the Joint List and Ra'am — won an unprecedented 19 seats and have endorsed Eisenkot, raising, as The Conversation notes, fundamental questions about Israeli democracy under the 2018 Nation-State Law. Netanyahu's Likud dismisses the opposition as the \"disaster bloc.\"\n\n## What to Watch\n\nWatch whether Eisenkot can bridge the gap between his anti-Arab-party partners (like Yisrael Beiteinu) and the Arab lists whose votes he needs. A 2021 experiment, when Ra'am joined Naftali Bennett's coalition, lasted just 12 months. Also watch the ultra-Orthodox Shas and United Torah Judaism parties, whose draft-exemption demands clash with Eisenkot's campaign, plus the US shift after Democrats won both chambers of Congress, and escalating West Bank settler violence.",
+    "concepts": [
+     {
+      "term": "Yashar party",
+      "definition": "The political party led by Gadi Eisenkot, which was only established last year; it heads the opposition bloc challenging Netanyahu.",
+      "context": "Eisenkot is a former military chief with limited political experience who entered politics in 2022."
+     },
+     {
+      "term": "kingmakers",
+      "definition": "Parties that don't lead the government themselves but hold enough seats to decide which larger bloc gets to govern.",
+      "context": "The two Arab-majority parties won a record 19 seats, giving them decisive influence over who forms a coalition."
+     },
+     {
+      "term": "ultra-Orthodox",
+      "definition": "Deeply religious Jewish communities whose parties hold significant power and demand exemptions from Israel's compulsory military service.",
+      "context": "Their draft exemptions are a core dispute, as Eisenkot's camp campaigned to end them."
+     },
+     {
+      "term": "national emergency government",
+      "definition": "A broad coalition meant to unite rival parties during a crisis; such governments are often fragile and prone to collapse.",
+      "context": "Eisenkot is calling for one in response to what he describes as a diplomatic and security crisis."
+     }
+    ],
+    "quiz": {
+     "question": "Why is Eisenkot's path to forming a government so difficult despite being chosen by the president?",
+     "options": [
+      "No single bloc won a 61-seat majority, and his potential partners disagree over working with Arab and ultra-Orthodox parties",
+      "Netanyahu has already resigned, leaving a leadership vacuum",
+      "His Yashar party won the most seats but refuses to govern",
+      "The president lacks the power to nominate a prime minister"
+     ],
+     "answer_index": 0,
+     "explanation": "The election produced no majority — Netanyahu's bloc took 53 seats and Eisenkot's 48 — so Eisenkot must build a coalition, but his partners clash over whether to include Arab-led or ultra-Orthodox parties."
+    },
+    "background_beginner": "Israel elects a 120-seat parliament, and no single party ever wins outright, so leaders must build coalitions of several parties to reach a 61-seat majority. Benjamin Netanyahu is Israel's longest-serving prime minister, leading a religious-nationalist camp. His main rival is Gadi Eisenkot, a former army chief who recently entered politics. An election on 27 October 2025 — the first since Hamas's 7 October 2023 attack and the Gaza war — left neither man with a majority. The president, Isaac Herzog, has now asked Eisenkot to try forming a government. It keeps coming up because Israel has repeatedly struggled with deadlocked elections, holding five between 2019 and 2022.",
+    "impact_score": 72,
+    "image_url": "https://i.guim.co.uk/img/media/cd9ad1555dbc0e718a2a38bcd564810e4bb0fc09/0_0_6504_4276/master/6504.jpg?width=1920&quality=85&auto=format&fit=max&s=f4866c6ca9df8757c8b97a4ecad691c0",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "After a deadlocked election, Israel's president has given Netanyahu's strongest rival, Gadi Eisenkot, 28 days to try to build a governing coalition.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+     },
+     {
+      "name": "The Conversation",
+      "url": "https://theconversation.com/can-gadi-eisenkot-turn-the-disaster-bloc-into-israels-next-government-295859"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "05af4703-b453-55ec-9232-90bb1e092bd1",
+     "5686cf98-4752-5462-b7ca-55f321702fa4",
+     "6978e6ac-06f7-5a2c-9250-def3dc7e8d5e",
+     "a928be3c-56a5-5dbb-b0f3-e01b7416e926",
+     "b95e0a5a-4171-5d6a-96b5-88fc09bfa872",
+     "c47d33e3-761d-5b7d-bb88-edcb7b5b305c"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-09T19:26:26.236512+00:00",
+    "published_date": "2026-11-10",
+    "has_fulltext": true
+   },
    {
     "id": "5cd8fe39-3780-5a5c-ac38-51d14439dbfb",
     "title": "Iran: US strikes ship after blockade breach",
@@ -909,80 +935,6 @@
     "has_fulltext": true
    },
    {
-    "id": "e9d4ed6b-b078-5857-852b-a332ad24d262",
-    "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-    "simplified_title": "Israel's president taps Netanyahu rival Eisenkot to form government",
-    "quick_summary": "Israel's president has asked opposition leader Gadi Eisenkot to try to form a new government after an inconclusive election left neither major bloc with a majority.",
-    "simplified_body": "Israel's president, Isaac Herzog, has chosen Gadi Eisenkot — Prime Minister Benjamin Netanyahu's strongest rival — to attempt to form a new government. The decision followed the 27 October election, which left neither man with a clear path to power. Eisenkot, who leads the Yashar party, now has 28 days to pull together the 61 votes needed in the Knesset (Israel's parliament), with a possible 14-day extension. \"Now is the time to form a national emergency government,\" he wrote on X.\n\nThe arithmetic is tricky. Netanyahu's right-wing bloc won 53 of the 120 seats, while Eisenkot's camp won 48 — so neither reached a majority. Two Arab-led alliances won an unprecedented 19 seats combined, making them potential kingmakers. But nearly every Jewish party in Eisenkot's bloc pledged before the vote not to govern with them. During consultations, Eisenkot still received 67 recommendations for the premiership to Netanyahu's 46.\n\nNo Israeli party has ever won an outright majority, so every government has been a coalition. The president doesn't have to pick the largest party's leader — just whoever he thinks can build a workable government. Eisenkot, a former military chief of staff, isn't a dove: he opposes a Palestinian state and vows to end Hamas's rule in Gaza, though he's promised to crack down on extremist West Bank settlers he calls \"Jewish terror\".\n\nIf Eisenkot falls short, Herzog can offer the job to someone else, and failure all round would mean fresh elections. Israel held five elections between 2019 and 2022 because of exactly this kind of deadlock, so a repeat is a real possibility.",
-    "why_it_matters": "A change at the top in Israel would reshape the politics of the Gaza war and the broader Middle East, a region Australia watches closely given its diplomatic ties and the conflict's impact on communities at home.",
-    "deep_analysis": "## Historical Context\n\nIsraeli governments have always been coalitions — no single party has ever won an outright majority of the Knesset's 120 seats. That makes the president's role important: after an election, he consults the parties and hands the first attempt at forming a government to whoever he judges most likely to succeed, not necessarily the leader of the largest party. The period from 2019 to 2022 showed how badly this can jam, with five separate elections as Netanyahu and his rivals repeatedly failed to cooperate. In 2020, a deadlock was broken by a unity deal in which Netanyahu and centrist rival Benny Gantz agreed to rotate the leadership.\n\n## Multiple Perspectives\n\nThe two sources broadly agree on the facts. The Guardian stresses Eisenkot's security record, noting he devised the \"Dahiya doctrine\" during the 2006 Hezbollah war — a strategy of using massive force against civilian infrastructure in militant-controlled areas — and frames him as \"no peacenik\". The BBC focuses more on the coalition maths, laying out three paths: a national unity government with Netanyahu, a right-wing coalition built on defectors from Eisenkot's bloc, or an Eisenkot government leaning on Arab-party support. Both flag the central tension: the Arab lists gave Eisenkot the numbers, yet nearly all Jewish parties in his bloc promised voters they wouldn't govern with them.\n\n## What to Watch\n\nThe clock is the headline: 28 days, plus a possible 14-day extension. Watch whether Eisenkot can either coax ultra-Orthodox parties across, win tacit backing from the Arab alliances despite pre-election pledges, or strike a unity or rotation deal with Netanyahu. If he can't assemble 61 votes, the mandate could pass to someone else — and if everyone fails, Israel heads back to the polls.",
-    "concepts": [
-     {
-      "term": "Knesset",
-      "definition": "Israel's parliament, which has 120 seats; a government needs the support of at least 61 members to hold a majority.",
-      "context": "Eisenkot must assemble 61 votes in the Knesset to form a government."
-     },
-     {
-      "term": "kingmakers",
-      "definition": "Smaller parties whose support is decisive in deciding which larger bloc can form a government.",
-      "context": "The Arab-led alliances' 19 seats make them potential kingmakers in the coalition talks."
-     },
-     {
-      "term": "coalition",
-      "definition": "A government formed by two or more parties working together because no single party holds a majority.",
-      "context": "No Israeli party has ever won an outright majority, so every government has been a coalition."
-     },
-     {
-      "term": "Hamas",
-      "definition": "The Islamist movement that has ruled Gaza; Eisenkot has vowed to end its rule and destroy its military wing.",
-      "context": "Eisenkot opposes a Palestinian state and vows to end Hamas's rule in Gaza."
-     }
-    ],
-    "quiz": {
-     "question": "Why was Eisenkot able to be given the first chance to form a government even though his bloc won fewer seats than Netanyahu's?",
-     "options": [
-      "The president can pick whoever he thinks can best build a coalition, not just the largest party's leader",
-      "The Arab parties legally control who becomes prime minister",
-      "Israeli law automatically gives the job to the former military chief of staff",
-      "Eisenkot's party won the most individual seats of any single party"
-     ],
-     "answer_index": 0,
-     "explanation": "No party ever wins a majority, so the president uses broad discretion to hand the mandate to whoever seems most able to build a coalition — here Eisenkot, who received 67 recommendations to Netanyahu's 46 despite his bloc holding fewer seats."
-    },
-    "background_beginner": "Israel elects a 120-seat parliament called the Knesset, and because no party ever wins outright, governments are always coalitions stitched together from several parties. Benjamin Netanyahu is Israel's longest-serving prime minister and leads a right-wing bloc; Gadi Eisenkot, a former military chief of staff, leads a centrist opposition party and is his main rival. In the 27 October election neither won a majority, so the president, Isaac Herzog, consults the parties and chooses who gets first crack at forming a government. This keeps coming up because Israeli politics is deeply split — between 2019 and 2022 the country held five elections over exactly this kind of deadlock.",
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/552_347_2266_1813/master/2266.jpg?width=1920&quality=85&auto=format&fit=max&s=c5394b217b58125d410d4e414d9bd258",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Israel's president has asked opposition leader Gadi Eisenkot to try to form a new government after an inconclusive election left neither major bloc with a majority.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "05af4703-b453-55ec-9232-90bb1e092bd1",
-     "5686cf98-4752-5462-b7ca-55f321702fa4",
-     "6978e6ac-06f7-5a2c-9250-def3dc7e8d5e",
-     "a928be3c-56a5-5dbb-b0f3-e01b7416e926",
-     "b95e0a5a-4171-5d6a-96b5-88fc09bfa872",
-     "c47d33e3-761d-5b7d-bb88-edcb7b5b305c"
-    ],
-    "reading_minutes": 2,
-    "created_at": "2026-11-08T07:26:26.603043+00:00",
-    "published_date": "2026-11-08",
-    "has_fulltext": true
-   },
-   {
     "id": "de1817c1-edbf-5bc7-bc41-750c40f2631a",
     "title": "South Africa elections: ANC marks its worst-ever performance",
     "simplified_title": "South Africa's ANC Slumps to Worst-Ever Election Result",
@@ -1048,70 +1000,66 @@
     "has_fulltext": true
    },
    {
-    "id": "7308cd9f-3015-5c23-9b39-94db15faaabb",
-    "title": "Houthis say at least 25 killed in Saudi air strike",
-    "simplified_title": "Deadly strikes near Yemen's capital as war flares again",
-    "quick_summary": "Houthi-run media say air strikes on a village near Sanaa killed at least 25 to 27 people, mostly women and children, as fighting across Yemen intensifies.",
-    "simplified_body": "Media run by Yemen's Houthi movement say air strikes hit al-Shariyah, a settlement near the capital Sanaa, killing civilians and injuring dozens more. Reports put the toll at least 25 (BBC) or at least 27 (Al Jazeera), with most casualties women and children. The two outlets even differ on location — BBC describes it as a town east of Sanaa, Al Jazeera a village to the north. The Houthis blame the Saudi-led coalition; Saudi Arabia and Yemen's internationally recognised government have not commented.\n\nThis matters for ordinary Yemenis caught in a war that had gone quiet for years and has now roared back. The Houthis say 55 civilians died over two days, including 30 in a market strike in Taiz province the day before — an attack each side blames on the other. The United Nations (UN) says more than 1,600 people have been killed and over 300,000 displaced since the fighting resumed.\n\nFor newcomers: a Saudi-led coalition has fought the Iran-backed Houthis for over a decade, backing Yemen's recognised government. A truce collapsed, tied to the recent Iran war, after Saudi Arabia struck Sanaa's airport to stop an Iranian plane landing. The Houthis hit back at Saudi airports, ships and oil sites, and full-scale fighting returned.\n\nBoth sides now claim gains. Yemen's government says it repelled Houthi assaults in Marib and is pushing into al-Jawf under its \"Dawn of Yemen\" operation. The Houthis claim six missile and drone strikes on Saudi targets, and leader Mahdi al-Mashat has vowed revenge for the latest deaths — so further escalation looks likely.",
-    "why_it_matters": "Yemen sits beside the Red Sea and the Strait of Hormuz, shipping routes vital to global oil and to Australian fuel imports, so a wider war there can ripple through to prices at home.",
-    "deep_analysis": "## Historical Context\n\nYemen's war pits a Saudi-led coalition, backing the internationally recognised government, against the Iran-backed Houthi movement (also known as Ansar Allah, Arabic for \"Supporters of God\"), which controls the capital Sanaa. The coalition has fought the Houthis for more than a decade. According to the sources, the conflict had been dormant for several years before reigniting as a result of the recent Iran war. The trigger was a Saudi strike on Sanaa's Houthi-controlled airport to stop an Iranian plane landing, after which the Houthis hit Abha airport in Saudi Arabia and began targeting Saudi ships using the Red Sea as an alternative oil export route to the Strait of Hormuz.\n\n## Multiple Perspectives\n\nThe two reports agree on the broad event but differ in detail. On the death toll from the al-Shariyah strike, BBC says at least 25 while Al Jazeera cites at least 27; they also disagree on whether the site lies east or north of Sanaa. On who is responsible, there are two competing narratives: the Houthis blame Saudi air strikes for 55 civilian deaths over two days, while Yemeni government officials hold the Houthis responsible for most casualties — a pattern seen in the earlier Taiz market strike too. As Al Jazeera's correspondent put it, \"two narratives are blaming each other\" while civilians pay the price. Crucially, Saudi Arabia and Yemen's government have not commented on the latest reported strikes, and Al Jazeera says it could not independently verify the claims from either side.\n\n## What to Watch\n\nWatch whether Saudi Arabia or the coalition responds to the al-Shariyah allegations. The government's \"Dawn of Yemen\" offensive in Marib and al-Jawf, and the Houthis' claimed missile and drone strikes on Riyadh airports and oil sites, suggest escalation rather than de-escalation. Mahdi al-Mashat's vow to \"avenge\" the attack is a signal to watch for reprisals, especially against Saudi oil infrastructure and Red Sea shipping.",
+    "id": "672db338-57bd-5042-91de-994bfaf00556",
+    "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
+    "simplified_title": "More Than 50,000 Flee Deadly Ethiopia Border Clashes",
+    "quick_summary": "Fighting over land and a flag in Ethiopia's Moyale border area has displaced more than 50,000 people, many fleeing into Kenya in desperate conditions.",
+    "simplified_body": "Violence has erupted in and around Moyale, a town straddling the Ethiopia–Kenya border. The fighting is rooted in a long-running dispute over land and administrative control between Ethiopia's Oromia and Somali regional administrations. Tensions escalated around 18 October over the raising of the Somali regional flag in the disputed area. Homes have been burned and gunfire can still be heard, pushing families across the border into Kenya.\n\nThe Kenya Red Cross says the number of displaced people has risen from around 36,000 to more than 50,000, including those in temporary camps and those staying with relatives or host families. No final figure has been independently confirmed. Many arrivals are women and children who fled without food, bedding or cooking gear. Crowded conditions have raised fears of diarrhoea and malaria, with newborns sleeping on bare floors.\n\nThe crisis is straining both sides. Kenyan families who opened their homes now feed 20 or 30 people instead of five or six. Kenya's acting commissioner for refugee affairs said there were no contingency food stocks because the crisis hit abruptly. The government is working with the UN High Commissioner for Refugees (UNHCR) to register arrivals, but no refugee camp has been set up because security must improve first.\n\nMoyale is a key trading point, and trucks carrying goods between Mombasa and Addis Ababa have been stranded for almost two weeks. Bank closures have disrupted the Ethiopian birr, and traders report prices up about 20 percent. Analysts warn the clashes expose deeper ethnic and political divisions. Officials want a ceasefire; Kenya is deploying more police and engaging Ethiopia's federal government to help end the fighting.",
+    "why_it_matters": "A local flag dispute has spiralled into a cross-border emergency displacing tens of thousands, showing how quickly regional tensions in the Horn of Africa can destabilise neighbouring countries and disrupt vital trade routes.",
+    "deep_analysis": "## Historical Context\n\nMoyale sits on the Ethiopia–Kenya border and has long been both a trading hub and a flashpoint. The current violence stems from a long-standing dispute over land and administrative control between Ethiopia's Oromia and Somali regional administrations — two of the country's ethnically defined federal regions. Ethiopia's system of ethnic federalism gives regions significant authority, but it also fuels competing claims over territory and who governs contested border districts. Tensions boiled over around 18 October when the Somali regional flag was raised in the disputed Moyale area, a symbolic act in a place where competing claims over territory and authority run deep.\n\n## Multiple Perspectives\n\nDisplaced people like Hawa Hassan describe fleeing burned homes and witnessing violence; for them the politics matter less than finding food and shelter. Humanitarian agencies — the Kenya Red Cross, UNHCR and Kenya's Department of Refugee Services — stress the scale and the risk of disease in crowded conditions, and are appealing for a ceasefire. Kenyan host communities, represented by figures like peace committee member Abdi Maalim, say their generosity is stretched to breaking point and want stronger border patrols. Security analyst Dr Abdiwahab Sheikh Abdisamad frames the clashes as more than a local land dispute, pointing to perceptions of Oromo expansionism and allegations of federal support for Oromia's leadership. Note that figures vary by source and reporting period: the Red Cross cites more than 50,000 displaced in total, while Kenya's police reference about 10,000 in temporary shelters — the article is explicit these are not directly comparable.\n\n## What to Watch\n\nWhether a ceasefire takes hold will determine if families can return home or if displacement grows further — gunfire was still being heard at the time of reporting. Watch the humanitarian supply situation, given there were no contingency food stocks. The economic knock-on effects matter too: stranded trucks, bank closures and roughly 20 percent price rises could spread hardship. Finally, watch whether Kenya's engagement with Ethiopia's federal government and extra police deployments ease cross-border security risks from armed groups and stray fire.",
     "concepts": [
      {
-      "term": "Houthi",
-      "definition": "An armed movement in Yemen, backed by Iran, that controls the capital Sanaa and much of the country's north.",
-      "context": "The article centres on strikes reported by Houthi-run media and the movement's vow to retaliate."
+      "term": "Oromia and Somali regional administrations",
+      "definition": "Two of Ethiopia's ethnically defined federal regions, whose competing claims over land and control around Moyale sparked the fighting.",
+      "context": "The article says the conflict is rooted in a long-standing dispute between these two administrations."
      },
      {
-      "term": "Saudi-led coalition",
-      "definition": "A group of countries led by Saudi Arabia fighting to support Yemen's internationally recognised government against the Houthis.",
-      "context": "The Houthis blame this coalition for the deadly strikes near Sanaa."
+      "term": "UN High Commissioner for Refugees (UNHCR)",
+      "definition": "The United Nations agency responsible for protecting and assisting refugees and displaced people worldwide.",
+      "context": "Kenya's government is working with UNHCR to register arrivals and assess their needs."
      },
      {
-      "term": "Strait of Hormuz",
-      "definition": "A narrow sea passage between the Persian Gulf and the open ocean through which a large share of the world's oil is shipped.",
-      "context": "Saudi Arabia reportedly turned to the Red Sea as an alternative oil export route to this strait."
+      "term": "Ethiopian birr",
+      "definition": "Ethiopia's national currency; its circulation was disrupted by bank closures during the crisis.",
+      "context": "The article notes bank closures disrupted the birr and traders reported price rises of about 20 percent."
      },
      {
-      "term": "Dawn of Yemen",
-      "definition": "A military operation launched by Yemen's internationally recognised government to retake territory held by Houthi fighters.",
-      "context": "Government forces say they are pushing into al-Jawf province as part of this operation."
+      "term": "contingency food stocks",
+      "definition": "Emergency food reserves kept aside to respond quickly to a sudden crisis.",
+      "context": "Kenya's refugee commissioner said there were none for this incident because it happened abruptly."
      }
     ],
     "quiz": {
-     "question": "Why is it hard to be certain who caused the civilian deaths in al-Shariyah and Taiz?",
+     "question": "Why is it misleading to directly compare the police figure of about 10,000 people with the Red Cross figure of more than 50,000?",
      "options": [
-      "Saudi Arabia admitted carrying out both strikes",
-      "Both sides blame each other and the claims could not be independently verified",
-      "The UN has confirmed the Houthis were responsible",
-      "No casualties were actually reported"
+      "The 10,000 figure refers to Kenyans only, and 50,000 to Ethiopians only",
+      "The Red Cross figure is from before the conflict started",
+      "The 10,000 figure counts only people in temporary shelters and public institutions, while the 50,000 also includes those staying with host families and relatives",
+      "The two figures count the same people but in different currencies"
      ],
-     "answer_index": 1,
-     "explanation": "The reports note two competing narratives — the Houthis blame Saudi strikes while the government blames the Houthis — and Al Jazeera says it could not independently verify the claims, with Saudi Arabia and the government not commenting."
+     "answer_index": 2,
+     "explanation": "The article explicitly states the 10,000 figure refers to people in temporary shelters and public institutions, not the total displaced, so it is not directly comparable with the broader 50,000 estimate that also counts those with host families."
     },
-    "background_beginner": "Yemen, on the southern tip of the Arabian Peninsula, has been torn by civil war for over a decade. On one side are the Houthis, an armed movement backed by Iran that holds the capital Sanaa; on the other is the internationally recognised government, propped up by a military coalition led by Saudi Arabia. The war had quietened for a few years but flared up again amid a recent war involving Iran, with the collapse of a fragile truce. Because Yemen lies beside the Red Sea — a major shipping and oil route — and because the Houthis and Saudis keep striking each other's territory, the conflict keeps drawing global attention and causing heavy civilian suffering.",
-    "impact_score": 68,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+    "background_beginner": "Moyale is a town split by the border between Ethiopia and Kenya, and it's an important trading route linking the two countries. Ethiopia is divided into ethnically based regions that each hold real power, and two of them — the Oromia and Somali regions — have long argued over who controls land around Moyale. In mid-October 2025 that argument turned violent after a regional flag was raised in a disputed area. Homes were burned, people were killed, and tens of thousands fled, many crossing into Kenya. The crisis keeps growing because the fighting hasn't stopped, aid is limited, and host communities are running out of resources to help newcomers.",
+    "impact_score": 62,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG-20261104-WA0022-1794236132.jpg?resize=1200%2C630",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Houthi-run media say air strikes on a village near Sanaa killed at least 25 to 27 people, mostly women and children, as fighting across Yemen intensifies.",
+    "description": "Fighting over land and a flag in Ethiopia's Moyale border area has displaced more than 50,000 people, many fleeing into Kenya in desperate conditions.",
     "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
+    "category": "SOCIETY_CULTURE",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo"
-     },
-     {
       "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes?traffic_source=rss"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
+    "source_count": 1,
+    "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-08T01:25:07.044167+00:00",
-    "published_date": "2026-11-08",
+    "reading_minutes": 5,
+    "created_at": "2026-11-09T19:26:58.470861+00:00",
+    "published_date": "2026-11-10",
     "has_fulltext": true
    },
    {
@@ -1586,74 +1534,76 @@
   ],
   "GLOBAL_SYSTEMS": [
    {
-    "id": "656e9d79-176e-5aa4-a858-9a9eb0b0fd2f",
-    "title": "COP31 is starting in Turkey. What's on the agenda?",
-    "simplified_title": "COP31 Climate Talks Open in Turkey, With Australia Steering",
-    "quick_summary": "Nearly 200 countries meet in Antalya for the UN's COP31 climate talks, with Turkey hosting and Australia running the negotiations on electrification, finance and moving away from fossil fuels.",
-    "simplified_body": "From 9 to 20 November, delegates from nearly every country are gathering in the Turkish city of Antalya for COP31 — the 31st Conference of the Parties, the United Nations' annual climate summit. In an unusual split, Turkey is the official host while Australia, through climate minister Chris Bowen, leads the negotiations. The big-ticket item is a proposed goal to have 35% of the world's final energy use come from electricity by 2035, up from around 20–23% today (sources differ on the exact figure).\n\nThis affects everyone, but especially vulnerable nations in the Global South and low-lying island states facing existential risk from rising seas. Negotiations run by consensus — every country must agree — which lets oil producers like Saudi Arabia block any deal to phase out coal, oil and gas. Awkwardly, Australia is a massive fossil fuel exporter, selling an expected $141bn worth of coal and gas this financial year, so campaigners question whether it can credibly push the world off fossil fuels.\n\nFor background: at COP21 in Paris in 2015, countries pledged to limit warming to 1.5 degrees Celsius. The UN now says that's no longer achievable, with warming heading for 1.7–1.8C even in optimistic scenarios. The United States has withdrawn from the Paris Agreement under President Trump.\n\nWhat's next? Turkey and Australia want an overarching \"cover decision\" agreed by all. Experts doubt a formal fossil fuel phase-out plan will survive, so attention is turning to smaller \"clubs\" — alliances of willing countries acting outside the slow UN process. Progress on electrification, climate finance and ocean protection would mark the summit a modest success.",
-    "why_it_matters": "Australia is in the global spotlight running these talks while remaining one of the world's biggest coal and gas exporters — a tension that puts Anthony Albanese's climate credibility squarely on the line.",
-    "deep_analysis": "## Historical Context\n\nThe UN climate process began with the framework convention signed in 1992. It took more than 30 years for fossil fuels to be named directly in an agreement — that happened at COP28 in Dubai in 2023, where countries agreed to \"transition away from fossil fuels\" but set no timeframe or policies. The 2015 Paris Agreement, celebrated worldwide, pledged to cap warming at 1.5C. A decade on, temperatures have already exceeded that for two years, and the UN's most optimistic estimate is now 1.7–1.8C. Before Paris, the planet was reportedly heading for 3–3.5C; if current commitments are fully met, that drops to around 2.6C — real progress, but far short of the goal.\n\n## Multiple Perspectives\n\nClimate expert David Victor argues the real work now happens in \"clubs\" — smaller coalitions like the 57-country meeting Colombia and the Netherlands convened in April. Pacific voices, such as Palau's Ilana Seid, insist COP's universality still matters because it holds authoritarian petrostates to account. Economists like Adair Turner call electrification \"the single most important thing\" for net zero. Critics, including over 500 mostly Australian scientists, say Australia approving 38 coal, oil and gas projects since 2022 — including extending Woodside's North West Shelf to 2070 — \"invites the charge of hypocrisy\". Oil producers such as Saudi Arabia simply block phase-out deals outright.\n\n## What to Watch\n\nWatch whether the electrification target lands and whether a \"cover decision\" survives consensus. Watch Albanese's leaders'-summit speech against a divided domestic backdrop, with the Coalition vowing to scrap net zero and One Nation rejecting the science. And watch climate finance: the $300bn-a-year pledge from Baku remains contested as rich nations, including Germany, trim their contributions.",
+    "id": "132e0c26-72e5-55a2-a948-48db8de5f636",
+    "title": "COP31 summit targets major electrification push as 1.5C goal slips away",
+    "simplified_title": "COP31 admits 1.5C goal is slipping, pushes electrification",
+    "quick_summary": "At the COP31 climate summit in Türkiye, co-hosted with Australia, nations have conceded the world will warm past 1.5C and are rallying behind a push to electrify more of the global energy system.",
+    "simplified_body": "The COP31 United Nations climate summit, being held in the Turkish city of Antalya and co-hosted by Türkiye and Australia, has become the first such meeting to concede that global warming will exceed 1.5 degrees Celsius above pre-industrial levels — the limit countries agreed to aim for at the Paris talks in 2015. The headline aim this year is a voluntary goal to lift the share of the world's final energy that comes from electricity to about one-third by 2035, a shift known as electrification.\n\nThis matters for billions of people already living with climate impacts. Australia's climate change minister Chris Bowen, who is presiding over the negotiations, pointed to glacial collapse in Nepal, heat deaths in Europe and an intensifying El Niño. Poorer and low-lying nations — including Australia's Pacific neighbours — want far more climate finance to adapt and survive, with the Marshall Islands warning it took eight years to fund a single sea wall.\n\nFor newcomers, COP is the annual UN climate conference where almost 200 countries negotiate. This year's push follows the \"Iran war\" started by US President Donald Trump, which disrupted oil supplies and pushed petrol prices up roughly 50%, spreading inflation. UN climate chief Simon Stiell said this \"fossil fuel cost chaos\" hit households hard. The United States refused to send a delegation for a second year running, though 20 Democratic members of Congress attended.\n\nWhat happens next depends on whether the electrification goal is endorsed and whether finance flows to vulnerable nations. Both host countries face criticism: Türkiye relies heavily on coal and gas, and Australia keeps approving coal and gas projects. Notably, phasing out fossil fuels is not formally on the agenda.",
+    "why_it_matters": "Australia is co-hosting and leading these talks while being called out by Pacific neighbours for expanding coal mining and extending the North West Shelf gas project — so what Canberra agrees to here directly tests its credibility at home and in the region.",
+    "deep_analysis": "## Historical Context\n\nAt the 2015 Paris climate talks, nearly every nation agreed to try to hold long-term warming to 1.5C above pre-industrial levels. Antalya is the first COP to openly concede that goal will be overshot. Bowen framed this with a glass-half-full note: before Paris the world was heading for warming approaching 4 degrees, and projections are now closer to 2.6 degrees. Scientists quoted in the coverage put near-term warming at at least 1.8C, with the Potsdam Institute's Johan Rockström calling the breach — happening within the Paris framework — \"a global failure.\" The electrification pitch builds on a 2023 summit pledge to triple renewable energy capacity by 2030.\n\n## Multiple Perspectives\n\nHigh-ambition nations and Pacific states (a 20-country coalition) insist overshoot \"should never become an excuse for inaction\" and demand accessible climate finance — the Least Developed Countries group of 44 nations calls this a matter of survival, not politics. The International Energy Agency's Fatih Birol backs electrification as an \"unmistakable signal to markets.\" Critics note the 35% target is unambitious: the IEA puts electricity's current share at 23% (the Guardian rounds to one-fifth) and already forecasts 30% by 2035 under existing policies. Meanwhile the Trump administration dismisses \"extremist climate policies\" and boasted of oil profits. At home, Australia's Labor government is off track on its targets and faces pressure from One Nation and the Coalition to scrap net zero.\n\n## What to Watch\n\nWatch whether the electrification goal survives into the final COP31 text, how much finance is pledged to small island states (currently just 0.2% of available climate finance), and progress on methane cuts in oil, gas and waste. Also watch the leaders' summit and whether host hypocrisy — Türkiye's coal reliance and Australia's fossil fuel exports — undercuts the message.",
     "concepts": [
      {
-      "term": "COP31",
-      "definition": "The 31st UN Conference of the Parties — the annual global summit where countries negotiate action on climate change.",
-      "context": "COP31 is the main event, hosted in Antalya, Turkey, from 9–20 November."
+      "term": "electrification",
+      "definition": "Shifting energy use away from burning fossil fuels toward electric technologies — like electric vehicles and heat pumps — which are often far more efficient.",
+      "context": "COP31's central goal is to lift electricity's share of the world's final energy to about one-third by 2035."
      },
      {
-      "term": "consensus",
-      "definition": "A decision rule where every participating country must agree before anything passes, giving any single nation an effective veto.",
-      "context": "Negotiations run by consensus, letting oil producers block phase-out deals."
+      "term": "pre-industrial levels",
+      "definition": "The climate baseline from before large-scale fossil fuel use (roughly the late 1800s), used to measure how much the planet has warmed.",
+      "context": "The 1.5C limit is measured against temperatures before the industrial era."
      },
      {
-      "term": "cover decision",
-      "definition": "An overarching summit agreement signed off by all participating countries at the close of talks.",
-      "context": "Turkey and Australia want a cover decision agreed by every nation."
+      "term": "El Niño",
+      "definition": "A recurring natural warming of the tropical Pacific Ocean that shifts weather worldwide; this year's is described as among the strongest on record.",
+      "context": "Bowen cited an intensifying El Niño as evidence climate impacts are already here."
      },
      {
-      "term": "clubs",
-      "definition": "Smaller alliances of willing governments and companies that act on climate solutions outside the slow, unanimous UN process.",
-      "context": "Attention is turning to clubs acting faster than the full summit can."
+      "term": "climate finance",
+      "definition": "Money flowing from richer nations to poorer ones to help them cut emissions and cope with climate damage.",
+      "context": "Vulnerable and low-lying nations want far more of it to adapt and survive."
      }
     ],
     "quiz": {
-     "question": "Why do climate advocates question Australia's role leading the COP31 negotiations?",
+     "question": "Why do critics call the 35% electrification target relatively unambitious?",
      "options": [
-      "Australia rejects the science of climate change",
-      "Australia has withdrawn from the Paris Agreement",
-      "Australia refuses to attend the talks in person",
-      "Australia is one of the world's biggest exporters of coal and gas"
+      "Because electricity's share is already forecast to reach about 30% by 2035 under existing policies",
+      "Because it would require banning all fossil fuels immediately",
+      "Because no countries have agreed to support it",
+      "Because it only applies to Australia and Türkiye"
      ],
-     "answer_index": 3,
-     "explanation": "Australia is the world's second-largest exporter of thermal coal and a major gas exporter, expecting $141bn in fossil fuel exports this financial year — so campaigners doubt it can credibly push the world off fossil fuels. The US (not Australia) withdrew from Paris."
+     "answer_index": 0,
+     "explanation": "The International Energy Agency puts electricity's current share at around 23% and already forecasts it rising to 30% by 2035 on existing policies, so a 35% goal is only a modest stretch."
     },
-    "background_beginner": "COP stands for \"Conference of the Parties\" — the yearly meeting where nearly every country gathers under the United Nations to try to slow climate change. It started with a 1992 treaty, and the famous 2015 Paris Agreement set a shared goal of limiting warming to 1.5 degrees. Each summit is numbered; this one is the 31st, held in Antalya, Turkey. It keeps making headlines because the planet keeps heating faster than promised, the talks require every country to agree (so progress is slow), and big fossil fuel producers resist deals. This year, Australia's climate minister Chris Bowen runs the negotiations while Turkey hosts.",
+    "background_beginner": "COP is the United Nations' yearly climate conference, where almost 200 countries meet to negotiate how to tackle global warming. It started gaining prominence after the 2015 Paris agreement, when nations promised to try to keep warming below 1.5 degrees Celsius. This year's summit, COP31, is being held in Antalya, Türkiye, and is unusually co-hosted — Türkiye hosts the venue while Australia runs the formal negotiations, led by minister Chris Bowen. The talks keep coming up because the planet keeps heating, disasters keep mounting, and rich and poor countries keep arguing over who should cut emissions fastest and who should pay to fix the damage.",
     "impact_score": 78,
-    "image_url": "https://static.dw.com/image/79659283_6.jpg",
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/60dd19b543fdc2f16a5d2ec73b321770?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "Nearly 200 countries meet in Antalya for the UN's COP31 climate talks, with Turkey hosting and Australia running the negotiations on electrification, finance and moving away from fossil fuels.",
+    "description": "At the COP31 climate summit in Türkiye, co-hosted with Australia, nations have conceded the world will warm past 1.5C and are rallying behind a push to electrify more of the global energy system.",
     "tier": "GLOBAL",
     "category": "ENVIRONMENT_CLIMATE",
     "sources": [
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-10/cop31-tingle-global-temperature-1-5c/107366402"
      },
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals"
+      "url": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31"
      },
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere"
+      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 5,
-    "created_at": "2026-11-08T07:26:41.312928+00:00",
-    "published_date": "2026-11-08",
+    "related_story_ids": [
+     "656e9d79-176e-5aa4-a858-9a9eb0b0fd2f"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-09T19:26:35.024284+00:00",
+    "published_date": "2026-11-10",
     "has_fulltext": true
    },
    {
@@ -1721,6 +1671,71 @@
     "reading_minutes": 3,
     "created_at": "2026-11-09T07:25:55.550214+00:00",
     "published_date": "2026-11-09",
+    "has_fulltext": true
+   },
+   {
+    "id": "fe50c437-7c3a-5d71-a63b-a4cdb5c925e7",
+    "title": "China extends suspension of new rare earth controls until January",
+    "simplified_title": "China Delays New Rare Earth Export Controls Until January",
+    "quick_summary": "China has extended a pause on its new rare earth export controls by two months, to January 10, as part of ongoing trade talks with the United States.",
+    "simplified_body": "On Monday (Nov 9), China announced a two-month extension of export-control waivers that were due to expire this month. The waivers now run until January 10. The Ministry of Commerce confirmed the move in a short statement but gave no further detail. It's part of a broader suspension of trade countermeasures and tariffs China announced the same day as it negotiates with Washington on a lasting trade deal.\n\nThis matters most for industries that rely on rare earths — a group of metals used in everything from electric cars and wind turbines to defence gear and electronics. China dominates their supply, so its export rules ripple through global manufacturing. The extension also covers controls on some industrial diamonds and lithium battery technology.\n\nFor background: China first brought in export controls on certain rare earths in April 2025, then widened them sharply in October 2025, adding the diamond and battery measures. Those measures were paused for a year last November after a summit in South Korea between Presidents Xi Jinping and Donald Trump. APEC, mentioned below, is the Asia-Pacific Economic Cooperation forum, a grouping of Pacific-rim economies.\n\nWhat's next: Trump is due to travel to Shenzhen in southern China later this month for an APEC leaders summit, where he's expected to meet Xi. The latest extension keeps part of their earlier deal alive while both sides try to lock in something more enduring.",
+    "why_it_matters": "Rare earths are vital to electric vehicles, renewables and defence manufacturing — sectors Australia is investing heavily in — so any wobble in China's export rules affects supply chains and prices worldwide.",
+    "deep_analysis": "## Historical Context\n\nChina's control over rare earths has been a recurring pressure point in its trade relationship with the United States. According to the article, Beijing introduced export controls on certain rare earths in April 2025, then dramatically widened their scope in October 2025 — adding new controls on some industrial-use diamonds and lithium battery technology. Those measures were paused for a year last November following a summit between Xi Jinping and Donald Trump in South Korea. Monday's announcement extends part of that arrangement rather than starting fresh.\n\n## Multiple Perspectives\n\nFor Beijing, these controls are a form of leverage: China dominates global rare earth processing, so the ability to turn restrictions on or off gives it a strong hand in negotiations. For Washington and manufacturers worldwide, the pause brings relief and a measure of certainty — but a two-month extension, with no detail given, is a short leash that keeps pressure on talks. The timing, just ahead of an APEC leaders summit where Trump and Xi are expected to meet, suggests both sides want to keep the atmosphere workable while a bigger deal is hammered out.\n\n## What to Watch\n\nThe clear near-term marker is January 10, when the extended waivers lapse. Watch the APEC leaders summit in Shenzhen later this month and any Xi–Trump meeting there for signals on whether a more \"enduring trade deal\" — as the article puts it — is taking shape. Also worth tracking is whether the diamond and lithium battery technology controls are treated the same way as the rare earth measures, since the statement gave no breakdown.",
+    "concepts": [
+     {
+      "term": "rare earths",
+      "definition": "A group of metals used in high-tech products like electric cars, wind turbines, electronics and defence equipment; China dominates their global supply.",
+      "context": "China controls much of the world's rare earth processing, giving its export rules outsized influence over global manufacturing."
+     },
+     {
+      "term": "export controls",
+      "definition": "Government rules that restrict or require approval to send certain goods or technologies out of the country.",
+      "context": "China has used export controls on rare earths as leverage in its trade negotiations with the United States."
+     },
+     {
+      "term": "APEC",
+      "definition": "Asia-Pacific Economic Cooperation, a forum of Pacific-rim economies that meets to discuss trade and the economy.",
+      "context": "Trump is expected to meet Xi at the APEC leaders summit in Shenzhen later this month."
+     },
+     {
+      "term": "tariffs",
+      "definition": "Taxes a government places on imported goods, often used as a bargaining tool in trade disputes.",
+      "context": "The rare earth extension is part of a broader suspension of trade countermeasures and tariffs by China."
+     }
+    ],
+    "quiz": {
+     "question": "Why does China's decision on rare earth export controls carry so much global weight?",
+     "options": [
+      "Rare earths are only used in Chinese-made cars",
+      "The controls apply to food exports",
+      "China dominates the global supply of rare earths, which are vital to many industries",
+      "China is the only country that uses rare earths"
+     ],
+     "answer_index": 2,
+     "explanation": "Rare earths are used in products from electric cars to defence gear, and because China dominates their supply, its export rules ripple through global manufacturing."
+    },
+    "background_beginner": "Rare earths are a set of metals needed to make things like electric vehicles, wind turbines, phones and military equipment. China processes most of the world's supply, which gives it real bargaining power. During trade tensions with the United States, Beijing introduced export controls in April 2025 and widened them that October, also covering some industrial diamonds and battery technology. After Presidents Xi Jinping and Donald Trump met in South Korea, the measures were paused. The topic keeps resurfacing because rare earths sit at the heart of the US–China trade relationship, so each pause, extension or deadline becomes a signal about how negotiations between the two giants are going.",
+    "impact_score": 68,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--SQyU9Nex--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-09T091406Z_2_LYNXNPEMA80PH_RTROPTP_3_CHINA-RAREEARTHS.JPG?itok=kkWefkzR",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "China has extended a pause on its new rare earth export controls by two months, to January 10, as part of ongoing trade talks with the United States.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/china-extends-suspensions-new-rare-earths-controls-6535736"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "4ed13ae6-d434-514c-9f99-c312147376ee"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-11-09T19:26:19.211827+00:00",
+    "published_date": "2026-11-10",
     "has_fulltext": true
    },
    {
@@ -1847,131 +1862,124 @@
     "has_fulltext": true
    },
    {
-    "id": "bd17aa8d-9556-5ef6-be3f-36ff376b2b7e",
-    "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
-    "simplified_title": "Victoria Barracks saved as government backs down on defence sell-off",
-    "quick_summary": "The Albanese government has reversed plans to sell Sydney's Victoria Barracks and three other heritage military sites after fierce public backlash, keeping them in public hands.",
-    "simplified_body": "The federal government has scrapped plans to sell four heritage-listed defence sites: Victoria Barracks in Sydney and Melbourne, Fort Queenscliff and RAAF Base Point Cook in Victoria. Instead, these sites will stay publicly owned, be transferred from Defence to the Finance Department, and have their historic features preserved for community use. The government will work with the Australian War Memorial to turn them into public spaces telling the story of Australia's military history.\n\nThe backdown affects veterans, communities near the bases and the budget. The sites were among 67 flagged in an independent estate audit as underused, not fit for purpose and costly to maintain. The Returned & Services League (RSL) of Australia called it a \"partial victory\", warning that more than 60 other sites are still earmarked for sale. The Coalition labelled it a \"humiliation\" for Defence Minister Richard Marles.\n\nVictoria Barracks Sydney was built with convict labour between 1840 and 1848 and originally housed the British army. Former prime ministers John Howard and Paul Keating opposed the sale, and some critics questioned whether selling it would leave Sydney more exposed to attack. Marles rejected that, saying no one seriously believes the site is \"central to the defence of Australia\".\n\nTwo other sites will be partially divested: HMAS Penguin keeps most of its land but hands the Angophora Forest to the Sydney Harbour Federation Trust, and the Stokes Hill fuel installation in the Northern Territory returns to the Larrakia people. Defence personnel will still vacate all 67 sites within two years, and the RSL wants remaining sales paused until a Senate inquiry reports back.",
-    "why_it_matters": "For a nation that prizes its military heritage, the fate of a 166-year-old barracks in the heart of Sydney struck a nerve across the political spectrum — and showed how quickly public pressure can shift a government's budget plans.",
-    "deep_analysis": "## Historical Context\n\nDefence is Australia's biggest landholder, with 70 major bases and 3.8 million hectares of land. Over the years, that estate has grown to include sites that are no longer genuinely useful for military purposes but still cost millions to maintain. An independent audit was tasked with finding this surplus property. The sources differ on timing and figures: The Guardian says the multi-year audit was completed in 2023 and aimed to recoup around $3bn, while ABC News puts the audit in February this year with a target of $1.8 billion. Both agree 67 sites were identified as underused and draining resources.\n\n## Multiple Perspectives\n\nThe government argues it cannot afford to spend hundreds of millions on sites it does not use, especially in a tight strategic and budget environment, and sees freed-up land as a chance to build new housing (a long-term target of 6,000 dwellings). Critics — including the Coalition, Greens, teal independents, One Nation, the RSL and former PMs — framed it as sacrificing heritage for a \"short-term cash grab\". Shadow minister James Paterson called the backflip a humiliation for Marles and vowed to fight for sites like HMAS Penguin, Lancer Barracks and Irwin Barracks. The RSL stresses that keeping sites public protects heritage but not defence capability, since personnel are still leaving.\n\n## What to Watch\n\nThe budget maths is the immediate question: Paterson says it is hard to see how the numbers add up without the lucrative Victoria Barracks sales, while Marles insists the \"financial part\" is \"unchanged\". Watch the Senate inquiry into the Management of Defence Estate Assets, the fate of the 60-plus remaining sites, and Paterson's proposed law requiring parliamentary approval before selling defence assets.",
+    "id": "26ce3270-984b-53a0-a844-63c2d14070a0",
+    "title": "Just to be clear, we do not buy tanks in the hope of using them | The Strategist",
+    "simplified_title": "Why Australia is buying $1.2 billion of new tanks",
+    "quick_summary": "Defence officials defended the army's A$1.2 billion purchase of 75 Abrams tanks, arguing they exist to deter war, not because they expect to use them.",
+    "simplified_body": "At a Senate committee hearing on government spending, the army's A$1.2 billion purchase of 75 M1A2 Abrams main battle tanks was questioned. Senator Fatima Payman asked why Defence was spending so much on a capability Australia hadn't used in combat for more than 50 years, not since the Vietnam War. Senior officials pushed back on that logic.\n\nChief of Army Lieutenant General Susan Coyle called tanks \"an incredibly potent capability\" and part of Australia's deterrence. Defence Secretary Meghan Quinn said the National Defence Strategy is built around strategic denial and deterrence — having credible military strength so potential adversaries think twice. \"We do not buy equipment in the hopes of using it,\" she said. The point is to deter conflict, and to be able to win if deterrence fails.\n\nFor a newcomer: deterrence means discouraging an enemy from attacking by showing you could fight back effectively. Australia has a long tank history — M3 Stuart light tanks in Papua in 1942–43, Matildas at Balikpapan in 1945, and Centurions in Vietnam, including the Battle of Binh Ba in 1969. The new Abrams aren't a brand-new capability; they upgrade a proven one. The purchase sits within Land 907, which also includes breaching vehicles, recovery vehicles and bridges.\n\nThe article notes that drones, loitering munitions and anti-tank missiles have made heavy armour more vulnerable, but argues they haven't made it irrelevant. Modern protection, artillery and electronic warfare still give armour an edge. As the 2026 National Defence Strategy steers the army towards littoral (coastal) manoeuvre and long-range strike, the author argues a credible armoured force still adds operational punch and deterrence.",
+    "why_it_matters": "This is directly about how your tax dollars are spent — A$1.2 billion on tanks — and how Australia thinks about defending itself in an increasingly tense region.",
+    "deep_analysis": "## Historical Context\n\nAustralia's use of tanks goes back further than many realise. M3 Stuart light tanks fought at Buna and Sanananda in Papua in 1942–43, Matildas supported infantry at Balikpapan in 1945, and Centurions backed Australian troops in Vietnam, notably at the Battle of Binh Ba in 1969. These campaigns, in jungle and close terrain, are used by the author to counter the idea that tanks don't suit Australia's region. The current Abrams buy is framed not as a new capability but as an upgrade to a long-established one.\n\n## Multiple Perspectives\n\nThe debate crystallised at the Senate hearing. Senator Fatima Payman's question reflects a value-for-money view: why spend A$1.2 billion on something unused in combat for over 50 years? Defence leaders counter with a deterrence logic — Lieutenant General Susan Coyle and Secretary Meghan Quinn argue capability exists to prevent war and win if it comes, not to be used. The article also acknowledges a genuine technical tension: drones, loitering munitions and anti-tank missiles have made heavy armour more vulnerable. The author's position, drawing on analyst William Leben and the Australian Army Research Centre, is that armour's value lies in what it enables for the combined-arms force, not the vehicle alone.\n\n## What to Watch\n\nWatch how the 2026 National Defence Strategy's emphasis on littoral manoeuvre and long-range strike reshapes the army, and whether heavy armour keeps its priority. Land 907's supporting elements — breaching vehicles, recovery vehicles, bridges and simulators — will show whether the full capability is funded, not just the tanks. Lessons from current conflicts about armour versus drones will keep testing the case.",
     "concepts": [
      {
-      "term": "heritage-listed",
-      "definition": "An official status protecting a building or site because of its historical, cultural or architectural importance, which limits what can be done to it.",
-      "context": "The four defence sites kept in public hands are heritage-listed, meaning their historic features must be preserved by law."
+      "term": "deterrence",
+      "definition": "Discouraging an enemy from attacking by making clear you have the capability and will to fight back effectively.",
+      "context": "Officials argued the tanks exist mainly as a deterrent, not for actual combat use."
      },
      {
-      "term": "estate audit",
-      "definition": "A systematic review of all the property an organisation owns to work out what is being used well and what is surplus or too costly to keep.",
-      "context": "An independent estate audit flagged 67 defence sites as underused, not fit for purpose and expensive to maintain."
+      "term": "National Defence Strategy",
+      "definition": "Australia's overarching plan guiding how the military is structured and resourced, built around strategic denial and deterrence.",
+      "context": "Defence Secretary Meghan Quinn cited it to explain why credible capability matters even if unused."
      },
      {
-      "term": "divested",
-      "definition": "Sold off or handed over, so the original owner no longer holds or controls the asset.",
-      "context": "Two sites, HMAS Penguin and Stokes Hill, will be partially divested rather than fully sold."
+      "term": "littoral",
+      "definition": "Relating to coastal and near-shore zones where land and sea operations overlap.",
+      "context": "The 2026 strategy directs the army to optimise for littoral manoeuvre, shaping how armour is used."
      },
      {
-      "term": "Senate inquiry",
-      "definition": "An investigation by a committee of the Australian Senate that gathers evidence and makes recommendations on a particular issue.",
-      "context": "The RSL wants remaining sales paused until the Senate inquiry into defence estate management reports back."
+      "term": "loitering munitions",
+      "definition": "Weapons that can hover or circle over an area before striking a target, sometimes called 'kamikaze drones'.",
+      "context": "Their spread has made heavy armour more vulnerable on the modern battlefield."
      }
     ],
     "quiz": {
-     "question": "Why does the RSL describe the government's decision as only a \"partial victory\"?",
+     "question": "According to Defence officials, what is the main reason Australia is buying the Abrams tanks?",
      "options": [
-      "Because the government refused to involve the Australian War Memorial",
-      "Because Victoria Barracks Melbourne was excluded from the deal",
-      "Because the heritage protections were removed from all sites",
-      "Because Defence personnel are still leaving the sites and 60-plus other sites remain earmarked for sale"
+      "To deploy them in combat as soon as possible",
+      "Because they are cheaper than lighter vehicles",
+      "To replace all other army equipment",
+      "To deter potential adversaries and be able to win if deterrence fails"
      ],
      "answer_index": 3,
-     "explanation": "The RSL welcomed keeping the four sites public but noted personnel are still being moved off them and more than 60 other sites are still slated for sale, so \"the job is only half done\"."
+     "explanation": "Officials like Meghan Quinn stressed that equipment is bought to deter war and win if deterrence fails — 'we do not buy equipment in the hopes of using it' — not because they expect to use it."
     },
-    "background_beginner": "Victoria Barracks in Sydney is a historic army base built with convict labour in the 1840s, right near the city centre. The Albanese government recently planned to sell it and dozens of other defence properties an audit had found were underused and costly, aiming to raise money and free up land for housing. The plan sparked an uproar from veterans, the Returned & Services League, and politicians on all sides — including former PMs — who said it betrayed Australia's military heritage. The topic keeps coming up because defence owns a huge amount of valuable land, the budget is tight, and deciding what to keep, sell or preserve pits history and national pride against cost savings.",
-    "impact_score": 58,
-    "image_url": "https://i.guim.co.uk/img/media/4de3f4de1a517d63098209ff6451d828346e519e/407_0_4066_3253/master/4066.jpg?width=1920&quality=85&auto=format&fit=max&s=fe0efe5b88a6c43b86332f90d5f10573",
+    "background_beginner": "Australia's army is spending A$1.2 billion to buy 75 Abrams tanks — large, heavily armoured vehicles. At a Senate hearing (where politicians question government spending), Senator Fatima Payman asked why the money was worth it, since Australia hasn't used tanks in combat since the Vietnam War. Senior Defence figures, including the Chief of Army and the Defence Secretary, answered that the point isn't to use them but to \"deter\" — to make any attacker think twice. This debate keeps coming up because defence budgets are huge, new threats like drones challenge old equipment, and Australia's region is seen as increasingly tense.",
+    "impact_score": 52,
+    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/4102256-e1794177628773.png",
     "region": "Australian defence, ADF, AUKUS, regional security",
     "region_code": "ADF",
-    "description": "The Albanese government has reversed plans to sell Sydney's Victoria Barracks and three other heritage military sites after fierce public backlash, keeping them in public hands.",
+    "description": "Defence officials defended the army's A$1.2 billion purchase of 75 Abrams tanks, arguing they exist to deter war, not because they expect to use them.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-08/federal-politics-pm-scraps-sale-of-victoria-barracks-defence/107360530"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "003fc913-02b9-5d18-878f-a1c4dd724cd8",
-     "fd54c12a-eb41-5430-a806-e17768c97176"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-08T07:26:25.198715+00:00",
-    "published_date": "2026-11-08",
-    "has_fulltext": true
-   },
-   {
-    "id": "2e736a69-b584-5fcb-82a5-b22df45197a5",
-    "title": "NT Catholic school parents warned of police presence amid terror probe",
-    "simplified_title": "NT Catholic schools get extra police after two teens charged",
-    "quick_summary": "Northern Territory Catholic schools have warned parents to expect more police around schools after two teenagers were charged with terrorism-related offences in under a week.",
-    "simplified_body": "Catholic Education Northern Territory (CENT) has emailed families from 18 schools across the territory telling them to expect \"an increased uniformed police presence\" around their schools. The warning follows two teenagers — a girl and, a week earlier, a boy — being charged with collecting or making documents likely to facilitate terrorist attacks. Neither can be named for legal reasons.\n\nThis affects thousands of parents, students and staff across the NT. Church leaders are urging calm, stressing the police presence is \"precautionary\" and that at no point were they aware of any real threat to safety. CENT director Paul Greaves clarified officers won't be patrolling schools but will be \"driving around\" or \"coming in\" to gather evidence.\n\nFor background: the matter is being handled by the Joint Counter Terrorism Team (JCTT). Australian Federal Police Acting Assistant Commissioner Adam Rice said authorities had identified \"a number of schools\" in the investigation. A JCTT spokesperson said material seized from a Top End home allegedly revealed a \"mixed ideological motivation, including glorification of mass casualty attacks at schools\".\n\nBishop of the NT Charles Gauci called for unity and support to reduce the risk of radicalisation, pointing to the challenges young people face online. Others urged caution: Jumbunna Institute director Lindon Coombes warned a uniformed officer can be \"triggering\" for some First Nations students, while National Justice Project chief George Newhouse said any extra police presence must be justified, limited and reviewed.",
-    "why_it_matters": "Two teenagers facing terrorism-related charges in a week has rattled school communities right across the Northern Territory, raising hard questions about youth radicalisation online and how to keep schools safe without making them feel like \"places of fear\".",
-    "deep_analysis": "## Historical Context\n\nCounter-terrorism investigations in Australia are typically run by Joint Counter Terrorism Teams (JCTTs), which bring together federal and state or territory police. The charge both teenagers face — collecting or making documents likely to facilitate terrorist attacks — targets preparatory conduct rather than a completed act, reflecting a broader shift towards early intervention. Authorities and community advocates in this story both acknowledge that online exposure to extremist material is a growing concern, and that preventing youth radicalisation is seen as a shared task for families, schools and communities, not police alone.\n\n## Multiple Perspectives\n\nChurch and education leaders are emphasising reassurance and transparency: CENT director Paul Greaves says nothing has been held back, and Bishop Charles Gauci frames the issue as a larger question about helping young people develop values and navigate social media. Police describe the presence as precautionary and tied to ongoing evidence-gathering. Community voices push back on reliance on uniformed officers — Jumbunna's Lindon Coombes notes police presence can have the opposite of a reassuring effect for some Aboriginal children, and the National Justice Project's George Newhouse argues trust and support matter more than simply \"more police\", with any added presence kept necessary and reviewable.\n\n## What to Watch\n\nBoth matters are before the NT Youth Justice Court, so legal outcomes will unfold over time. Watch whether more individuals or schools are drawn into the JCTT investigation, how long the increased police presence lasts, and whether authorities pair enforcement with the community, family and school engagement that advocates say is essential.",
-    "concepts": [
-     {
-      "term": "Joint Counter Terrorism Team",
-      "definition": "A combined unit of federal and local police that investigates suspected terrorism offences together.",
-      "context": "The investigation into the two teenagers is being handled by the Joint Counter Terrorism Team (JCTT)."
-     },
-     {
-      "term": "radicalisation",
-      "definition": "The process by which someone comes to adopt extreme beliefs, often after exposure to extremist material.",
-      "context": "Bishop Gauci called for support to reduce the risk of radicalisation among young people."
-     },
-     {
-      "term": "precautionary",
-      "definition": "Done as a safety measure in advance, rather than in response to a known, specific danger.",
-      "context": "Church leaders described the increased police presence as precautionary and not a sign of an imminent threat."
-     }
-    ],
-    "quiz": {
-     "question": "Why does CENT say there will be an increased police presence around schools?",
-     "options": [
-      "Because the schools requested permanent armed guards",
-      "As a precautionary and reassurance measure, and for ongoing evidence-gathering",
-      "Because police confirmed a specific, imminent attack was planned",
-      "Because the two teenagers were students who are still attending"
-     ],
-     "answer_index": 1,
-     "explanation": "CENT described the presence as precautionary and a reassurance measure, with officers 'driving around' or 'coming in' to gather evidence — not confirmation of a specific or imminent threat."
-    },
-    "background_beginner": "The Northern Territory is a part of Australia with a relatively small population and a large number of Aboriginal, or First Nations, residents. Catholic Education Northern Territory (CENT) runs a network of Catholic schools there. In recent days, two teenagers — a girl and a boy, who can't be named for legal reasons — have been charged with a terrorism-related offence: collecting or making documents likely to help a terrorist attack. Specialist federal and local police, working together as a Joint Counter Terrorism Team, are investigating. The story keeps coming up because it touches on fears about young people being radicalised online, how schools stay safe, and how to balance police presence with community trust.",
-    "impact_score": 58,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/10ab610ebda3a4fb93c375c8d5cf2ee6?impolicy=wcms_watermark_news&cropH=2592&cropW=4608&xPos=0&yPos=240&width=862&height=485&imformat=generic",
-    "region": "Australian defence, ADF, AUKUS, regional security",
-    "region_code": "ADF",
-    "description": "Northern Territory Catholic schools have warned parents to expect more police around schools after two teenagers were charged with terrorism-related offences in under a week.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-08/nt-catholic-schools-increased-police-terrorism-related-charges/107359480"
+      "name": "ASPI Strategist",
+      "url": "https://www.aspistrategist.org.au/just-to-be-clear-we-do-not-buy-tanks-in-the-hope-of-using-them/"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
     "reading_minutes": 3,
-    "created_at": "2026-11-08T07:26:53.635547+00:00",
-    "published_date": "2026-11-08",
+    "created_at": "2026-11-09T19:27:01.177003+00:00",
+    "published_date": "2026-11-10",
+    "has_fulltext": true
+   },
+   {
+    "id": "85ad3cfa-6554-5b3c-a1dd-74b166aa8327",
+    "title": "If ADF recruitment in PNG isn’t transparent, it will look corrupt | The Strategist",
+    "simplified_title": "Australia Must Prove Its PNG Army Recruitment Isn't Rigged",
+    "quick_summary": "Australia is recruiting 100 Papua New Guinean graduates into its defence force and risks corruption claims unless the selection process is made openly transparent.",
+    "simplified_body": "Australia plans to recruit 100 university students and graduates from Papua New Guinea (PNG) into the Australian Defence Force (ADF), with applications opening on 16 November. The scheme flows from the Pukpuk Treaty, a 2025 mutual defence pact allowing cross-border recruitment, and the pilot will cost A$65 million. Recruits aged 18 to 25 come from three universities, start on temporary visas, and must later apply for Australian citizenship.\n\nThese are some of the most lucrative jobs available to PNG graduates, offering Australian pay, prestige and a path to citizenship. But most applicants will be rejected. The three universities have produced about 8,300 graduates since 2023, so even on conservative estimates more than 1,900 people could be turned away. In PNG, where the formal economy absorbs few young people, an unclear selection process will be widely assumed to be corrupt, and that story could spread fast on WhatsApp, Facebook and TikTok.\n\nA big driver is \"wantok\" — a Tok Pisin term meaning \"one talk\", describing groups bound by kinship, language or region. Wantoks are PNG's main social safety net, and once a graduate lands a salaried job, relatives expect help, including placing family in government, police or military roles. Anyone involved in choosing recruits will face heavy pressure, and many will assume they gave in. A March incident, where PNG Defence Force recruits sparked bribery and favouritism allegations, shows the risk is real.\n\nThe author argues Australia should over-communicate: publish measurable criteria with weightings, name the decision-makers, and after each round release application numbers, provinces, universities and score cut-offs in both English and Tok Pisin.",
+    "why_it_matters": "For Australia, this pilot is meant to build goodwill with a close Pacific neighbour, but botched transparency could turn that goodwill into lasting resentment toward Australian institutions.",
+    "deep_analysis": "## Historical Context\n\nThe recruitment scheme stems from the Pukpuk Treaty, a 2025 mutual defence pact between Australia and Papua New Guinea that permits cross-border recruitment. Australia and PNG share deep historical ties, with Australia administering the territory before PNG's independence and remaining its largest aid partner. Defence cooperation has become a growing focus as both nations navigate heightened strategic competition in the Pacific. The scheme is genuinely novel: recruiting foreign nationals into the ADF with a built-in pathway to citizenship is unusual.\n\n## Multiple Perspectives\n\nFrom an Australian viewpoint, open selection on merit is the fair and obvious standard, and anything resembling nepotism looks like corruption. From the perspective of many Papua New Guineans, wantok obligations — helping kin find jobs — are not corruption but a core social duty in a country where the state often fails to deliver basic services. These two frameworks collide directly in this pilot. The March 2025 PNG Defence Force episode, where roughly 300 recruits were sent home amid bribery and favouritism allegations and the defence minister stepped aside, shows how quickly such disputes escalate; notably, Australian Brigadier Nick Foxall was brought in as an outsider free of wantok ties.\n\n## What to Watch\n\nWatch whether Canberra publishes clear, weighted selection criteria before applications open on 16 November, and whether it reports application numbers, provincial and university breakdowns, and score cut-offs after each round. Also watch how regional balancing across provinces is explained — the article warns this could itself be read as favouritism. Social media reaction on WhatsApp, Facebook and TikTok will be an early signal of whether the process is trusted. The first cohort is due to be sworn in by late 2027.",
+    "concepts": [
+     {
+      "term": "Pukpuk Treaty",
+      "definition": "A 2025 mutual defence pact between Australia and Papua New Guinea that allows recruitment of PNG nationals into the Australian Defence Force.",
+      "context": "It is the legal basis for the entire 100-person recruitment pilot."
+     },
+     {
+      "term": "wantok",
+      "definition": "A Tok Pisin term meaning 'one talk', describing a group bound by kinship, language or region who support one another as a social safety net.",
+      "context": "Wantok obligations create pressure to favour relatives, which outsiders may see as nepotism."
+     },
+     {
+      "term": "Tok Pisin",
+      "definition": "A pidgin language widely spoken as a lingua franca across Papua New Guinea.",
+      "context": "The author urges Australia to communicate selection criteria in both English and Tok Pisin."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the author argue Australia must be especially transparent about this recruitment?",
+     "options": [
+      "Because PNG law requires foreign governments to publish all hiring data",
+      "Because the ADF cannot legally recruit without public score cut-offs",
+      "Because in PNG an unclear process is likely to be assumed corrupt and spread rapidly on social media",
+      "Because wantok obligations are banned under the Pukpuk Treaty"
+     ],
+     "answer_index": 2,
+     "explanation": "The article stresses that in PNG, doubt will be read as corruption, and such narratives spread fast on WhatsApp, Facebook and TikTok — so Australia should over-communicate its criteria."
+    },
+    "background_beginner": "Papua New Guinea (PNG) is Australia's nearest neighbour and a former territory Australia once administered. The two countries work closely on aid and defence. In 2025 they signed the Pukpuk Treaty, a defence pact that lets Australia recruit PNG citizens into its military. Now Australia wants to hire 100 PNG university graduates into the Australian Defence Force, offering good pay and a path to citizenship — rare opportunities for young Papua New Guineans. The catch: thousands will apply and most will miss out. In PNG, strong family-and-community networks called \"wantoks\" expect members to help each other get jobs, so any unclear selection process risks being branded corrupt.",
+    "impact_score": 42,
+    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/20260929army8667695_0388-1-scaled.jpg",
+    "region": "Australian defence, ADF, AUKUS, regional security",
+    "region_code": "ADF",
+    "description": "Australia is recruiting 100 Papua New Guinean graduates into its defence force and risks corruption claims unless the selection process is made openly transparent.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "ASPI Strategist",
+      "url": "https://www.aspistrategist.org.au/if-adf-recruitment-in-png-isnt-transparent-it-will-look-corrupt/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-11-09T19:27:07.675690+00:00",
+    "published_date": "2026-11-10",
     "has_fulltext": true
    }
   ],
@@ -2052,64 +2060,132 @@
     "has_fulltext": true
    },
    {
-    "id": "9125efd0-805c-51a8-90ba-f6fc266d976d",
-    "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
-    "simplified_title": "Three men charged over AI 'deepfake CEO' scam that stole over $129m",
-    "quick_summary": "US prosecutors have charged three foreign nationals with using AI to impersonate company bosses and lawyers, tricking staff into wiring more than $129m.",
-    "simplified_body": "The United States Department of Justice (DoJ) has unsealed an indictment charging three foreign nationals — Jacob Soall, Sharon Hazan and Guy Sheetrit — with using artificial intelligence (AI) to impersonate corporate chief executive officers (CEOs) and lawyers to steal more than $129m. Soall and Hazan were arrested in Spain over the (northern) summer, and Sheetrit was arrested in the United Kingdom in September. The alleged fraud ran between 2024 and 2026.\n\nThe scheme targeted employees at companies around the world. Using AI to alter the voices and images of real executives and attorneys, the men allegedly posed as a boss who needed help with a sensitive financial transaction, told staff to contact lawyers at a large international law firm, then impersonated those lawyers and had the employees wire large sums. Victims included a Missouri hospital system (nearly $5m), a Rhode Island bank (about $2.7m), a California hospital system (about $3m), a Massachusetts mutual fund (over $4.6m), a Florida pet food company (about $5m) and a UK tech company (over $11m).\n\nMoney was wired to accounts in countries including the US, Spain, Portugal, Greece, the United Arab Emirates, Singapore, Austria, Slovakia and China, then converted into cryptocurrency to hide its origin before being split among the group. This is a modern twist on \"business email compromise\" fraud, where scammers pose as a trusted senior figure to rush a payment through.\n\nThe three have been charged with conspiracy to commit wire fraud, money-laundering conspiracy and aggravated identity theft. The FBI says it is adapting as criminals \"weaponize emerging technologies\"; the cases now head through the US courts.",
-    "why_it_matters": "AI voice and image fakes make the old \"the boss urgently needs a payment\" scam far more convincing, and Australian businesses are just as exposed as the overseas victims named here.",
-    "deep_analysis": "## Historical Context\n\nSo-called \"CEO fraud\" or business email compromise has been around for years: a scammer impersonates a senior figure and pressures a staff member into urgently wiring money. Traditionally this relied on spoofed emails and a sense of authority and urgency. What's new in this case is the alleged use of AI to clone the voices and images of real executives and attorneys, making the impersonation much harder to spot. The DoJ says the scheme ran from 2024 to 2026 and netted more than $129m — a scale that shows how damaging the tactic can be when it works.\n\n## Multiple Perspectives\n\nFor prosecutors and the FBI, the case is a showcase of criminals \"weaponizing\" new technology, and of law enforcement co-operating across borders — the arrests happened in Spain and the UK. US attorney Jamie McDonald framed AI as a technology with great potential that some will nonetheless turn to criminal ends. For businesses, the lesson is procedural: multi-person verification of payment requests matters more than ever when a familiar voice or face can be faked. For the accused, these are allegations in an unsealed indictment; they have been charged, not convicted, and are entitled to defend the case.\n\n## What to Watch\n\nWatch whether the men are extradited and how the cases progress through the US courts. Also watch the money trail — funds were allegedly moved through many countries and converted into cryptocurrency, so recovery for victims is uncertain. More broadly, expect regulators and companies to push harder on verification controls and staff training as AI impersonation scams spread.",
+    "id": "4047eec4-a8f9-5c73-8d1d-0ded3877eded",
+    "title": "Meta rolls out automated age checks for teens globally",
+    "simplified_title": "Meta Rolls Out AI Age Checks for Teens Worldwide",
+    "quick_summary": "Meta is expanding AI technology globally to spot suspected teenagers and lock them into restricted \"Teen Accounts\" even when they lie about their birthday.",
+    "simplified_body": "Meta, the company behind Instagram, Facebook and Threads, is rolling out automated age-estimation technology around the world starting this month. The artificial intelligence (AI) analyses how people behave and what they post to work out their likely age, then places anyone it suspects is a teenager into \"Teen Account\" protections — even if they signed up using a fake adult birthday. The feature begins on Instagram, with Facebook and Threads to follow later in the year.\n\nThis affects teenagers and their parents. Teen Accounts come with tighter rules: limited contacts, restricted content, a two-hour daily usage cap, muted notifications at night, and no access to \"social comparison\" features like seeing likes and reactions. Parents in the United States who set up Instagram for their teens will get notifications this month. Children under 13 are banned from the apps altogether.\n\nThe push follows mounting legal pressure. Child development experts argue platforms like Instagram can be addictive for young people and expose them to harmful content. In August, Meta agreed to pay $18bn to settle lawsuits from US state attorneys general, who alleged the company encouraged addictive behaviour and failed to verify users' ages. Australia passed a law last year banning under-16s from social media, though advocacy group Digital Freedom Project and Reddit are now challenging it in court.\n\nMeta says early results have been encouraging and is calling on rivals TikTok and YouTube to adopt the same practices. Expect the technology to keep expanding, and watch how courts rule on Australia's under-16 ban.",
+    "why_it_matters": "Australia has already banned under-16s from social media, and that law is now being challenged in court — so how Meta's age-checking tech performs here is a live local issue, not a distant one.",
+    "deep_analysis": "## Historical Context\n\nFor years, social media platforms have relied on users simply typing in their birthday to set age limits — a system almost comically easy to dodge. This left minors able to create accounts that looked like adult ones, bypassing parental controls and protections. Pressure built as child development experts and regulators argued these apps were addictive and exposed young people to harmful content. Meta's move to AI-based age estimation comes directly off the back of billion-dollar legal settlements, most notably an $18bn settlement in August with US state attorneys general, who accused the company of failing to verify ages and amplifying harmful material.\n\n## Multiple Perspectives\n\nMeta frames this as proactive protection, pointing to \"encouraged\" early results and challenging TikTok and YouTube to match it. Regulators and parents' groups broadly want stronger safeguards, and lawsuits suggest many feel the company acted only under pressure. But there's genuine disagreement about the approach: in Australia, the advocacy group Digital Freedom Project and Reddit have filed a lawsuit challenging the constitutionality of the under-16 ban and questioning the scientific rationale for keeping children entirely off platforms. So the debate isn't just \"should kids be protected\" but \"is total exclusion the right tool, and does the science support it?\"\n\n## What to Watch\n\nKeep an eye on how accurately the AI estimates ages — false positives (adults wrongly flagged as teens) and false negatives both matter. Watch the Australian court challenge to the under-16 ban, which could set a precedent. And see whether TikTok and YouTube follow Meta's lead, or whether governments force the issue with legislation first.",
     "concepts": [
      {
-      "term": "artificial intelligence (AI)",
-      "definition": "Computer technology that can generate or alter content such as voices and images, here allegedly used to convincingly fake real people.",
-      "context": "The men allegedly used AI to clone executives' voices and images to trick staff into paying."
+      "term": "age-estimation technology",
+      "definition": "Software that guesses a user's likely age by analysing their behaviour and posts, rather than trusting the birthday they typed in.",
+      "context": "Meta is rolling this out globally to catch teens who sign up with fake adult birthdays."
      },
      {
-      "term": "cryptocurrency",
-      "definition": "Digital money that can be moved quickly across borders, often used to obscure where funds came from.",
-      "context": "Stolen money was converted into cryptocurrency to hide its source before being split up."
+      "term": "Teen Account",
+      "definition": "A restricted type of account on Meta's platforms with extra protections like usage limits, muted night-time notifications and hidden like counts.",
+      "context": "Suspected teens are automatically placed into these protections."
      },
      {
-      "term": "aggravated identity theft",
-      "definition": "A serious US criminal charge for stealing and misusing someone's identity during another crime.",
-      "context": "The three were charged with aggravated identity theft alongside fraud and money-laundering."
+      "term": "social comparison",
+      "definition": "Features such as visible likes and reactions that can make users measure themselves against others, which experts link to social pressure.",
+      "context": "Teen Accounts are blocked from seeing these features by default."
+     },
+     {
+      "term": "attorneys general",
+      "definition": "The chief legal officers of US states, who can bring lawsuits on behalf of their residents.",
+      "context": "They sued Meta over harm to children, leading to an $18bn settlement."
      }
     ],
     "quiz": {
-     "question": "What made this alleged fraud different from a traditional 'fake boss' email scam?",
+     "question": "Why does Meta say it is introducing AI age-estimation rather than just relying on the birthday users enter?",
      "options": [
-      "The victims were all based in Australia",
-      "The scammers only ever targeted banks",
-      "No money was actually transferred",
-      "They used AI to clone executives' and lawyers' voices and images"
+      "Because entering a birthday is too slow for new users",
+      "Because the law requires all users to upload ID",
+      "Because adults wanted access to teen-only features",
+      "Because teens often enter a fake adult birthday to dodge restrictions"
      ],
      "answer_index": 3,
-     "explanation": "The key new element was using AI to alter and impersonate the voices and images of real executives and attorneys, making the impersonation far more convincing than a simple spoofed email."
+     "explanation": "The article explains teens often circumvent restrictions by creating a fake birthday, so the AI estimates age from behaviour and posts to catch them regardless of what birthday they entered."
     },
-    "background_beginner": "This story is about an alleged international fraud ring. US prosecutors say three men — Jacob Soall, Sharon Hazan and Guy Sheetrit — used artificial intelligence to fake the voices and images of company bosses and lawyers, then tricked employees into wiring large payments. It's a high-tech version of a long-running trick where crooks pretend to be a trusted senior person and rush a payment through. The case keeps coming up in the news because AI tools now make these fakes very believable, and the losses here topped $129m. The men were arrested in Spain and the UK and face charges in the United States.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/c3a832e799ac1dd8a85e6c73794399c038d7678b/0_0_3000_2001/master/3000.jpg?width=1920&quality=85&auto=format&fit=max&s=cff99d5ac47db08ecdfcdad19c4c980c",
+    "background_beginner": "Meta is the US company that owns Instagram, Facebook and Threads — some of the world's biggest social media apps. For years, critics, parents and child-safety experts have argued these platforms are addictive for young people and expose them to harmful content, while making it far too easy for kids to lie about their age at sign-up. That sparked lawsuits: in the US, state legal officials sued Meta, leading to an $18bn settlement in August. Australia went further, passing a law banning under-16s from social media, which is now being challenged in court. This keeps coming up because governments, parents and tech firms still disagree on how to keep children safe online.",
+    "impact_score": 68,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af1e872-1794238578.jpg?resize=1920%2C1440",
     "region": "AI and technology",
     "region_code": "AI_TECH",
-    "description": "US prosecutors have charged three foreign nationals with using AI to impersonate company bosses and lawyers, tricking staff into wiring more than $129m.",
+    "description": "Meta is expanding AI technology globally to spot suspected teenagers and lock them into restricted \"Teen Accounts\" even when they lie about their birthday.",
     "tier": "GLOBAL",
     "category": "SCIENCE_TECH",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-08T07:26:50.740122+00:00",
-    "published_date": "2026-11-08",
+    "reading_minutes": 3,
+    "created_at": "2026-11-09T19:26:57.528877+00:00",
+    "published_date": "2026-11-10",
+    "has_fulltext": true
+   },
+   {
+    "id": "dc2d0cc8-169b-501e-9511-0f1a68d09ed3",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "simplified_title": "Claude Code settings file is leaking secrets onto GitHub",
+    "quick_summary": "A quirk in how Claude Code saves approved commands has leaked database passwords, API tokens and other secrets into public GitHub repositories.",
+    "simplified_body": "Security researchers at Apiiro have found that Claude Code, an AI coding tool made by Anthropic, is accidentally exposing sensitive information on public GitHub (a popular website where developers store and share code). The problem comes from how the tool saves your choices. When you pick the \"Yes, and don't ask again\" option to let a shell command run automatically, that choice gets stored as a rule in a local file called \".claude/settings.local.json\". Sometimes the command is saved as a pattern, but often it's written in full, including any secrets tucked inside it.\n\nThis affects developers who use Claude Code and share their code publicly. On its own, the file sitting on your own machine isn't a big deal. The trouble is that it can get uploaded to a public repository (a storage folder for a project's code) by accident, and Claude Code itself will sometimes commit changes to the file without asking you first.\n\nFor a newcomer: a \".gitignore\" list tells Git which files to skip when uploading. Anthropic adds this settings file to the developer's global ignore list, which usually keeps it private. But that setting doesn't travel with the repo, so if a repo is cloned to another machine, or a folder becomes a repo later, the file can slip through.\n\nApiiro found over 100,000 cases where the local settings file had been uploaded publicly. Of those, about 1,100 files from 63 organisations actually contained secrets such as public API tokens, database passwords or private keys. Worryingly, even after a file is removed, the secrets can live on in forks (copies) of the original project.",
+    "why_it_matters": "Australian developers and businesses using AI coding tools could unknowingly expose passwords and keys that give attackers a direct way into databases and systems. It's a reminder that convenience features in AI tools can create real security holes.",
+    "deep_analysis": "## Historical Context\n\nAccidentally committing secrets to public code repositories is one of the oldest and most persistent problems in software development. Developers have long leaked API keys, passwords and private keys by pushing config files or environment settings to GitHub, which is why tools and scanners exist to catch them. What's new here is the role of an AI coding assistant: Claude Code's \"Yes, and don't ask again\" convenience feature writes commands — secrets and all — into a settings file, and the tool can commit that file on its own. Anthropic tried to guard against leaks by adding the file to the developer's global .gitignore, but as Apiiro's findings show, that protection doesn't hold once a repo moves machines.\n\n## Multiple Perspectives\n\nFrom a security researcher's view, this is a classic case of a safeguard that works in the common case but fails at the edges — the .gitignore protection isn't baked into the repo itself. From Anthropic's side, the documentation does flag the gitignore behaviour, suggesting it anticipated the risk. From a developer's standpoint, the real sting is automation: Claude Code committing changes without explicit input removes a moment where a human might have caught the problem. It's worth keeping the scale in proportion, though — of 100,000-plus uploaded files, only around 1,100 actually held secrets.\n\n## What to Watch\n\nWatch whether Anthropic changes how the settings file stores commands — for instance, defaulting to patterns rather than full commands, or tightening the automatic-commit behaviour. Also watch how the persistence-through-forks problem is handled, since removed secrets can linger in copies and generally need to be rotated (changed) rather than just deleted.",
+    "concepts": [
+     {
+      "term": "API tokens",
+      "definition": "Secret keys that let a program prove its identity and access a service, a bit like a password for software.",
+      "context": "The leaked files contained secrets such as public API tokens, database passwords and private keys."
+     },
+     {
+      "term": ".gitignore",
+      "definition": "A list that tells Git which files to leave out when code is uploaded, used to keep sensitive or unnecessary files private.",
+      "context": "Anthropic adds the settings file to the developer's global ignore list to help keep it private."
+     },
+     {
+      "term": "repository",
+      "definition": "A storage folder for a software project's code and history, often shared publicly on sites like GitHub.",
+      "context": "The file can get uploaded to a public repository by accident."
+     },
+     {
+      "term": "forks",
+      "definition": "Independent copies of a project that other users make, which keep their own version of the original's files.",
+      "context": "Even after a file is removed, the secrets can live on in forks of the original project."
+     }
+    ],
+    "quiz": {
+     "question": "Why can secrets leak publicly even though Anthropic adds the settings file to a global .gitignore list?",
+     "options": [
+      "Because Anthropic encrypts the secrets incorrectly",
+      "Because the .gitignore setting isn't reflected at the repo level, so the file can slip through when a repo is cloned or created later",
+      "Because users must manually upload the file every time",
+      "Because GitHub ignores all .gitignore files by default"
+     ],
+     "answer_index": 1,
+     "explanation": "The global .gitignore protection doesn't travel with the repository itself, so cloning to another machine or turning a folder into a repo later can let the sensitive file be uploaded."
+    },
+    "background_beginner": "Claude Code is an AI coding assistant made by Anthropic that helps developers write and run code. GitHub is a hugely popular website where programmers store, share and collaborate on code in \"repositories\". Developers often keep secrets — like passwords and access keys — in their projects, and a long-running headache is accidentally uploading those secrets to a public repo where anyone can see them. This story comes up because security researchers at a firm called Apiiro found that a convenience feature in Claude Code was saving commands (sometimes containing secrets) into a settings file that could end up on GitHub by mistake. It matters because exposed secrets can hand attackers the keys to real systems.",
+    "impact_score": 62,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "A quirk in how Claude Code saves approved commands has leaked database passwords, API tokens and other secrets into public GitHub repositories.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-09T19:26:56.302778+00:00",
+    "published_date": "2026-11-10",
     "has_fulltext": true
    }
   ]
  },
- "total_stories": 32
+ "total_stories": 33
 }
