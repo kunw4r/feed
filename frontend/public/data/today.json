@@ -1,8 +1,75 @@
 {
- "date": "2026-11-10",
- "generated_at": "2026-11-10T07:23:04.023375+00:00",
+ "date": "2026-11-11",
+ "generated_at": "2026-11-10T19:23:04.252339+00:00",
  "regions": {
   "OCEANIA": [
+   {
+    "id": "09b850e0-d843-5096-bc0d-92408ed8a6cb",
+    "title": "Coming off Ozempic-like drugs linked to heart problems, study suggests",
+    "simplified_title": "New safety questions swirl around Ozempic-style weight and diabetes drugs",
+    "quick_summary": "Fresh research links stopping GLP-1 diabetes drugs to worse heart outcomes, while US regulators flag a rare eye condition — though experts say both findings need more proof.",
+    "simplified_body": "Two separate pieces of research have put GLP-1 (glucagon-like peptide-1) drugs — the family that includes Ozempic — back in the spotlight. A large Italian study, published in The Lancet Regional Health — Europe, followed more than 80,000 people with type 2 diabetes. It found that those who started and then stopped GLP-1 medication had roughly double the rate of heart attack, stroke or death compared with those who kept taking it (about four in 100 versus two in 100). Separately, the United States Food and Drug Administration (FDA) is now requiring these drugs to carry a label warning about a rare eye condition called non-arteritic anterior ischemic optic neuropathy (NAION), which can cause sudden, often permanent vision loss.\n\nThis matters for the millions taking GLP-1s for diabetes or weight loss. But Australian experts urge caution. The heart study can't prove the drugs caused the harm — about 60 per cent of participants stopped, and people who quit medication are often sicker to begin with, which could explain the worse outcomes rather than the drug itself.\n\nGLP-1 drugs mimic a natural hormone to help control blood sugar and appetite. NAION is rare — two to 10 people per 100,000 — and its risk factors (diabetes, obesity, high blood pressure) are already common in people taking these drugs, making any link hard to untangle. Nobody yet knows how the drugs might cause it.\n\nResearchers say both studies are early pieces of a larger puzzle. Experts stress that anyone thinking of easing off a GLP-1 should do so with their doctor, not on their own, and that long-term monitoring and more research are needed.",
+    "why_it_matters": "GLP-1 drugs are hugely popular in Australia for diabetes and weight management, so clearer evidence on the risks of stopping — and rare side effects — directly affects how Aussies and their doctors use them.",
+    "deep_analysis": "## Historical Context\n\nGLP-1 receptor agonists arrived as diabetes treatments and have surged in popularity as weight-loss aids. The Italian study tracked more than 80,000 people with type 2 diabetes and no established cardiovascular disease between 2004 and 2024, mostly using liraglutide or dulaglutide rather than the newer semaglutide or tirzepatide. On the eye front, the first signal linking these drugs to NAION came in 2024 from Harvard University researchers, whose JAMA Ophthalmology study of diabetes and overweight patients found higher NAION rates among those on semaglutide.\n\n## Multiple Perspectives\n\nLead author Professor Antonio Ceriello found the near-doubling of cardiovascular risk \"surprising\" and theorised the drugs may offer \"direct protection\" for the heart that is lost when treatment stops. Australian experts push back on causation. Professor Clara Chow argues discontinuation may simply be \"a marker\" that patients were already sick, and notes the stopping group had high death rates from all causes. Associate Professor Brendon Neuen agrees sicker patients tend to fare worse, but says the takeaway is that long-term treatment matters for those it helps. On NAION, the Harvard study itself had limits — a single referral centre, unusually high baseline rates suggesting selection bias, and no clear mechanism.\n\n## What to Watch\n\nNeither finding proves cause and effect. Watch for research into whether stopping is genuinely riskier than never starting, and work on lower doses or reduced frequency for long-term use. The FDA's label change may prompt other regulators to review. And because the Italian study barely included semaglutide and excluded tirzepatide, expect scrutiny of whether these effects apply across the whole drug class.",
+    "concepts": [
+     {
+      "term": "GLP-1",
+      "definition": "A class of drugs (glucagon-like peptide-1 receptor agonists) that mimic a natural hormone to control blood sugar and appetite; includes Ozempic.",
+      "context": "These are the medications at the centre of both safety studies."
+     },
+     {
+      "term": "type 2 diabetes",
+      "definition": "A common condition where the body can't properly use insulin, leading to high blood sugar.",
+      "context": "The Italian study followed people with this condition specifically."
+     },
+     {
+      "term": "NAION",
+      "definition": "Non-arteritic anterior ischemic optic neuropathy, a rare condition where restricted blood flow to the optic nerve causes sudden, often permanent vision loss.",
+      "context": "The FDA now requires GLP-1 labels to warn about this rare eye condition."
+     },
+     {
+      "term": "Food and Drug Administration (FDA)",
+      "definition": "The United States government agency that regulates medicines and food safety.",
+      "context": "It ordered the new NAION warning on GLP-1 drug labels."
+     }
+    ],
+    "quiz": {
+     "question": "Why do Australian experts urge caution about the finding that stopping GLP-1 drugs is linked to worse heart outcomes?",
+     "options": [
+      "The study only included healthy young people",
+      "No one in the study stopped taking the medication",
+      "The drugs have been banned in Australia",
+      "The study can't prove the drugs caused the harm, and people who stop medication are often already sicker"
+     ],
+     "answer_index": 3,
+     "explanation": "Experts like Professor Chow note the study shows association, not causation — about 60 per cent stopped, and quitting may be a sign patients were already unwell rather than the cause of poor outcomes."
+    },
+    "background_beginner": "GLP-1 drugs, sold under names like Ozempic, Wegovy, Mounjaro and Zepbound, were developed to treat type 2 diabetes but became wildly popular for weight loss because they curb appetite. As millions of people started taking them, scientists and regulators began asking harder questions about long-term safety and what happens when people stop. Two recent developments keep the topic in the news: a large Italian study linking stopping the drugs to worse heart outcomes, and a US regulator (the FDA) warning about a rare eye condition. Neither is proven cause-and-effect, so researchers and doctors are still gathering evidence, which is why these drugs keep making headlines.",
+    "impact_score": 68,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/cc037df45612d47a1350efdd581b04c1?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Fresh research links stopping GLP-1 diabetes drugs to worse heart outcomes, while US regulators flag a rare eye condition — though experts say both findings need more proof.",
+    "tier": "LOCAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/health/2026-11-10/type-2-diabetes-heart-attack-stroke-glp1-stop/107342430"
+     },
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-11-10T19:25:47.593751+00:00",
+    "published_date": "2026-11-11",
+    "has_fulltext": true
+   },
    {
     "id": "b11bfac7-034d-5b20-85c3-115051eed0ac",
     "title": "Government moves to close legal loophole after AI Medicare hack",
@@ -68,69 +135,6 @@
     "reading_minutes": 4,
     "created_at": "2026-11-10T07:25:14.032580+00:00",
     "published_date": "2026-11-10",
-    "has_fulltext": true
-   },
-   {
-    "id": "f49b63b3-1b2a-5fac-bfe3-893344850ddc",
-    "title": "Australians are paying ‘extreme’ specialist fees. Here’s how the government can rein in costs",
-    "simplified_title": "Specialist Fees Are Soaring — How Government Could Rein Them In",
-    "quick_summary": "Australians are paying rapidly rising out-of-pocket fees to see medical specialists, and a new Grattan Institute analysis urges the government to train more specialists, fund free public clinics and crack down on the most extreme fees.",
-    "simplified_body": "Seeing a medical specialist in Australia keeps getting dearer, and a 2025 Grattan Institute report says the problem is worsening. Between 2010 and 2025, fees for specialist care outside hospitals grew 73% in real terms (adjusted for inflation) — far faster than fees for general practitioners (GPs) or other Medicare services. In the past year alone, specialist fees rose 4% faster than inflation. The median out-of-pocket fee for an initial psychiatry appointment is now A$351, and the priciest 5% of psychiatrists charge a median of $669.\n\nThis hits patients hard, especially outside big cities where specialists are scarce. Fewer than a quarter of initial specialist appointments are now bulk-billed, down from about a third a decade ago. Last year 2.2 million patients paid at least one \"extreme\" fee — more than four times the number a decade ago. The free option, a public clinic, can mean waiting months or even years.\n\nDoctors' groups blame Medicare rebates for not keeping up with inflation. While rebates have fallen in real terms, the report says fees have risen far faster, and practice costs actually grew slower than inflation. The report argues the specialist market is broken: patients often have nowhere else to go, rely on a GP's referral, and may not learn the price until the bill arrives.\n\nGovernments have started acting — passing laws to publish individual specialists' fees and funding some clinics — but these are the cheapest steps. Grattan recommends clear training targets, $500 million a year to expand public clinics, and a rule forcing specialists whose fees average more than triple the Medicare Benefits Schedule (MBS) fee to repay their Medicare rebates.",
-    "why_it_matters": "This is a direct hip-pocket issue for millions of Australians: with bulk-billing shrinking and public clinic waits stretching into years, more people are either paying extreme out-of-pocket fees or going without specialist care altogether.",
-    "deep_analysis": "## Historical Context\n\nAustralia's health system combines Medicare, a universal public insurance scheme, with a large private sector where specialists set their own fees. Medicare pays a set rebate based on the Medicare Benefits Schedule (MBS), and for out-of-hospital care patients usually get back 85% of the MBS fee — but doctors can charge whatever they like on top. For years, concern focused on GP bulk-billing; now the spotlight has shifted to specialists. The Grattan Institute's 2025 report *Special Treatment* documents fees growing 73% in real terms from 2010 to 2025, and in late 2025 Health Minister Mark Butler called specialist fees \"out of control\", prompting a parliamentary inquiry and departmental consultation.\n\n## Multiple Perspectives\n\nDoctors' groups argue the real culprit is government rebates failing to keep pace with inflation, forcing specialists to charge patients more. The Grattan analysis counters that while rebates have indeed fallen in real terms (the psychiatry initial-appointment rebate dropped $44 since 2012), out-of-pocket fees have risen far faster, and tax data show practice costs grew just 1.8% a year while profits grew. Grattan frames the issue as a broken market: patients can't easily shop around, lack price information, and often have no alternative specialist nearby. Its proposed penalty — repaying rebates if fees average more than triple the MBS fee — is pitched as targeting only the roughly 6% of specialists charging the most extreme fees, while protecting patients' own rebates.\n\n## What to Watch\n\nKey signals: whether the parliamentary inquiry recommends hard measures beyond fee transparency; whether the federal government sets enforceable training targets by specialty and funds new trainee places (the May budget merely rolled over existing funding); and whether the proposed $500 million-a-year public clinic investment materialises. Also watch how specialist colleges and doctors' groups respond to any cap-style rule, and whether state initiatives — like Victoria's funded children's clinics and GP-specialist advice systems — spread nationally.",
-    "concepts": [
-     {
-      "term": "bulk-billed",
-      "definition": "When a doctor charges only the Medicare rebate and the patient pays nothing out of pocket.",
-      "context": "Bulk-billing for initial specialist appointments has dropped to fewer than a quarter, down from about a third a decade ago."
-     },
-     {
-      "term": "Medicare Benefits Schedule (MBS)",
-      "definition": "The official list of medical services and the set fees the Australian government uses to calculate rebates.",
-      "context": "Grattan proposes penalising specialists whose fees average more than triple the MBS fee across a year."
-     },
-     {
-      "term": "out-of-pocket",
-      "definition": "The gap patients pay themselves after the Medicare rebate, on top of what the government covers.",
-      "context": "Out-of-pocket specialist costs have risen $37 on average since 2012 while rebates fell."
-     },
-     {
-      "term": "real terms",
-      "definition": "A value adjusted for inflation, so changes reflect genuine increases rather than rising prices generally.",
-      "context": "Specialist fees grew 73% in real terms between 2010 and 2025."
-     }
-    ],
-    "quiz": {
-     "question": "According to the Grattan analysis, why are specialist fees rising so sharply?",
-     "options": [
-      "Because the usual market checks on price are missing, so patients often have nowhere else to go",
-      "Because the government capped the number of patients specialists can see",
-      "Because Medicare rebates have risen too quickly",
-      "Because specialists' practice costs have grown much faster than inflation"
-     ],
-     "answer_index": 0,
-     "explanation": "The report argues the specialist market is broken: there are too few specialists in many areas, public clinic waits are long, and patients can't easily compare prices — so the normal pressure to keep prices down is absent. It specifically rejects rising practice costs as the cause."
-    },
-    "background_beginner": "In Australia, Medicare is the government scheme that helps pay for medical care. When you see a specialist — like a psychiatrist, dermatologist or paediatrician — Medicare pays a set rebate, but the specialist can charge more on top, leaving you with an \"out-of-pocket\" gap. Over recent years these gaps have grown rapidly, and fewer specialists offer \"bulk-billing\" (no charge beyond the rebate). The Grattan Institute, an independent think tank, has been tracking this and says fees are now \"out of control\". Health Minister Mark Butler agrees, and the government has launched an inquiry. The debate keeps resurfacing because rising fees and long public-clinic waits make specialist care harder for ordinary people to afford.",
-    "impact_score": 68,
-    "image_url": "https://images.theconversation.com/files/770439/original/file-20261106-78-6cnzsy.png?ixlib=rb-4.1.1&rect=0%2C50%2C1600%2C800&q=45&auto=format&w=1356&h=668&fit=crop",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Australians are paying rapidly rising out-of-pocket fees to see medical specialists, and a new Grattan Institute analysis urges the government to train more specialists, fund free public clinics and crack down on the most extreme fees.",
-    "tier": "LOCAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "The Conversation",
-      "url": "https://theconversation.com/australians-are-paying-extreme-specialist-fees-heres-how-the-government-can-rein-in-costs-294362"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-09T01:25:42.940150+00:00",
-    "published_date": "2026-11-09",
     "has_fulltext": true
    },
    {
@@ -264,80 +268,6 @@
     "has_fulltext": true
    },
    {
-    "id": "155007f0-3782-5773-8fc8-27ebfd46ba67",
-    "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
-    "simplified_title": "New Zealand election too close to call, results weeks away",
-    "quick_summary": "New Zealand's election was so tight that neither the right nor left bloc has a clear majority, with the outcome unknown until final results land on 27 November.",
-    "simplified_body": "New Zealand's 2026 election delivered a cliffhanger. On preliminary results, Prime Minister Christopher Luxon's centre-right National party and its partners — the libertarian ACT and populist New Zealand First — scraped a 67-seat majority. But some seats were won by tiny margins, and special votes (overseas ballots and votes cast outside a voter's home electorate) haven't been counted. Those votes tend to favour the left, so nothing is settled until official results arrive on 27 November.\n\nThis matters to every New Zealander, because it decides who governs during a sluggish economy and stubbornly high inflation. Luxon's coalition leads the left bloc — Labour, the Greens and Te Pāti Māori (the Māori party) — by just three seats. A newcomer, the centrist Opportunity party, cleared the 5% threshold to enter parliament for the first time and could become \"kingmaker\" if the numbers shift.\n\nNew Zealand uses mixed-member proportional (MMP) representation: you cast two votes, one for a local MP and one for a party. This election produced a record \"overhang\" — 11 extra seats — because National and Te Pāti Māori won more local seats than their party vote alone entitled them to, swelling parliament to 131 seats.\n\nUntil a deal is done, a caretaker government runs the country, with Luxon's ministers staying on but avoiding big, controversial decisions. Expect two weeks until special votes are announced, then possibly weeks of coalition negotiations. Commentators doubt a fresh election will be needed.",
-    "why_it_matters": "New Zealand's drawn-out, knife-edge result shows how proportional systems can leave a country in limbo — a live contrast for Australia, whose own preferential system usually delivers a result on election night.",
-    "deep_analysis": "## Historical Context\n\nNew Zealand adopted the mixed-member proportional (MMP) system in 1996, deliberately moving away from winner-takes-all to better reflect how people vote. Under MMP, small parties matter and coalitions are the norm. A telling precedent came in 2017, when the party with the most seats didn't form government — Jacinda Ardern's Labour got over the line with New Zealand First's support. That's a reminder that being the largest party, as National is now, doesn't guarantee power.\n\nSpecial votes have a track record too: they lean left, and in 2023 they handed Te Pāti Māori and the Greens three extra seats between them. In 2023, 600,000 special votes made up 21% of the total — a big enough chunk to reshape a tight result.\n\n## Multiple Perspectives\n\nNational's Luxon frames it optimistically — his party is the largest and has \"a pathway to forming the next government.\" Labour's Chris Hipkins hasn't conceded, arguing the final count could still deliver a four-party left coalition. Both leaders are, realistically, in no position to claim victory.\n\nAnalysts differ on how it'll land. One Conversation writer notes the right over-performed every pre-election poll, but expects the right's lead to shrink once final results come in. The oddity this time: National trails Labour by about 0.2 points in the party vote yet holds more seats, thanks to the record overhang from vote-splitting — which some see as MMP not working \"in the way it's designed to.\"\n\n## What to Watch\n\nThree electorates are on a knife-edge: Hamilton East (National ahead by 456), Wairarapa (National ahead by 139), and Te Tai Tokerau, where Te Pāti Māori leads the Greens by 436. Counterintuitively, the left is better off if Te Pāti Māori wins Te Tai Tokerau, since a Green win there would just swap a list seat. Watch whether National loses its two slim electorates, whether special votes erode the right's majority, and whether Opportunity's seven seats become decisive — its policies reportedly sit closer to the left.",
-    "concepts": [
-     {
-      "term": "special votes",
-      "definition": "Ballots cast overseas or outside a voter's home electorate, counted after election night; in New Zealand they have historically tended to favour left-leaning parties.",
-      "context": "About 600,000 were cast in 2023, roughly 21% of the total, enough to shift tight results."
-     },
-     {
-      "term": "mixed-member proportional (MMP)",
-      "definition": "A voting system where each person casts two votes — one for a local MP and one for a party — aiming for a parliament that mirrors each party's national vote share.",
-      "context": "New Zealand adopted MMP in 1996, and it typically produces coalition governments."
-     },
-     {
-      "term": "overhang",
-      "definition": "Extra parliamentary seats added when a party wins more local electorate seats than its party vote alone would entitle it to.",
-      "context": "This election produced a record 11 overhang seats, expanding parliament to 131."
-     },
-     {
-      "term": "caretaker government",
-      "definition": "The arrangement where the outgoing ministers stay in office to run day-to-day business, avoiding major decisions, until a new government is formed.",
-      "context": "Luxon's team continues governing under this convention until coalition talks conclude."
-     }
-    ],
-    "quiz": {
-     "question": "Why could the final results on 27 November change which bloc forms government?",
-     "options": [
-      "Because the party with the most votes automatically becomes government",
-      "Because New Zealand will hold a second, run-off election",
-      "Because the governor general gets to pick the winning coalition",
-      "Because special votes, which tend to favour the left, had not yet been counted"
-     ],
-     "answer_index": 3,
-     "explanation": "The preliminary result left the right with a wafer-thin majority, but uncounted special votes historically lean left and could erode that lead, potentially reshaping who can command a majority."
-    },
-    "background_beginner": "New Zealand elects its parliament using mixed-member proportional (MMP) voting, so governments are usually coalitions of several parties. The main players here are the centre-right National party, led by Prime Minister Christopher Luxon, and the centre-left Labour party, led by Chris Hipkins. Smaller parties — ACT, New Zealand First, the Greens, Te Pāti Māori (the Māori party) and newcomer Opportunity — often decide who governs. In the 2026 election, neither the right nor the left bloc won a clear majority, and large numbers of \"special votes\" (cast overseas or away from home) still need counting. The story keeps coming up because the result stays uncertain until final numbers land on 27 November.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/88907325b9c08c155e81021cba493cd15c10b579/458_0_4583_3667/master/4583.jpg?width=1920&quality=85&auto=format&fit=max&s=43a108e371e45e92dd08d4fa7b7f3a81",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "New Zealand's election was so tight that neither the right nor left bloc has a clear majority, with the outcome unknown until final results land on 27 November.",
-    "tier": "LOCAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
-     },
-     {
-      "name": "The Conversation",
-      "url": "https://theconversation.com/pre-election-polls-understated-right-in-nz-with-overhang-skewing-preliminary-results-295738"
-     },
-     {
-      "name": "The Conversation",
-      "url": "https://theconversation.com/nz-will-have-a-caretaker-government-for-weeks-what-that-means-and-how-it-works-295750"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "6711d278-fc57-5b85-a520-e21669abc629",
-     "769a9e24-dacb-5b79-8001-eb7582cc7db9"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-09T07:25:43.123647+00:00",
-    "published_date": "2026-11-09",
-    "has_fulltext": true
-   },
-   {
     "id": "565e4437-242d-5f3a-a3a9-a1fe384f0375",
     "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
     "simplified_title": "Sydney Teen Who Used AI to Plan Terror Attack Avoids Jail",
@@ -403,6 +333,142 @@
   ],
   "ASIA": [
    {
+    "id": "baa0d3c7-7976-5084-bf19-539b553d25bb",
+    "title": "China's trade surplus soars past US$1 trillion as AI boom powers exports",
+    "simplified_title": "China's trade surplus tops US$1 trillion as AI boom lifts exports",
+    "quick_summary": "China's trade surplus blew past US$1 trillion in the first 10 months of 2026, driven by a global rush to build AI infrastructure that's keeping demand for Chinese tech products red-hot.",
+    "simplified_body": "China's trade surplus — the gap between what it sells abroad and what it buys in — surged past US$1.04 trillion in the first 10 months of the year, hitting the milestone a month earlier than it did in 2025. Exports jumped 35.2 per cent in October compared with the same month last year, only slightly slower than September's 36.3 per cent and ahead of what economists had tipped. Much of that strength comes from a worldwide scramble to build artificial intelligence (AI) infrastructure, which is soaking up Chinese high-tech goods.\n\nThis matters because China is leaning harder on overseas buyers to prop up an economy that's struggling at home. Weak consumer spending and a long property slump mean factories are chasing sales abroad — Chinese carmakers, for instance, posted a 12th straight month of falling domestic sales while car exports kept growing. That lopsidedness risks sharpening trade tensions with partners like the European Union (EU).\n\nFor newcomers: a trade surplus isn't automatically \"winning\". When a country sells far more than it buys, trading partners can feel flooded with cheap imports and respond with tariffs or quotas. China's surplus hit a record US$1.2 trillion last year, and the EU has already pushed to limit Chinese hybrid vehicle exports.\n\nAnalysts reckon exports could accelerate further in the final quarter before slowing from early 2027, depending on how long the AI boom lasts. Trade frictions look set to stay elevated. China extended its truce with Washington by two months, and Presidents Xi Jinping and Donald Trump are expected to meet at next week's Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen.",
+    "why_it_matters": "China's export engine shapes global prices and trade politics, and as a major trading partner Australia feels the flow-on effects — from the demand for commodities that feed Chinese factories to any ripple from fresh tariff fights.",
+    "deep_analysis": "## Historical Context\n\nChina has run large trade surpluses for years, but the scale has grown dramatically — last year it hit a record US$1.2 trillion. The current figure of US$1.04 trillion for the first 10 months tops US$1 trillion for a second consecutive year, and it arrived a month earlier than the equivalent point in 2025. Behind the numbers sits a familiar story: a domestic economy weighed down by a protracted property slump that has battered household wealth and left consumers reluctant to spend, pushing Beijing to rely on foreign demand to keep factories humming.\n\n## Multiple Perspectives\n\nBeijing wants it both ways — to keep the world buying Chinese goods while showing it is buying more from others, a balance the article says is getting harder to sell. Trading partners see it differently: EU leaders have called for more trade curbs and struck a deal to limit Chinese hybrid vehicle exports. Economists add nuance. Trivium China's Joe Peissel warns the risk of additional tariffs and trade barriers will stay elevated into 2027 as Chinese manufacturers expand overseas. Macquarie analysts note the export outlook hinges on how long the AI boom lasts, expecting a fourth-quarter acceleration before a slowdown from early 2027.\n\n## What to Watch\n\nKeep an eye on the APEC summit in Shenzhen next week, where Xi and Trump are expected to meet for the third time this year. The US–China trade truce has been extended two months, but China says expanded US farm purchases depend on the agreed tariff cuts actually happening. Watch, too, for the EU hybrid-vehicle limits taking effect — factories may front-load shipments beforehand — and for any sign the AI investment boom is cooling.",
+    "concepts": [
+     {
+      "term": "trade surplus",
+      "definition": "The gap when a country sells more goods abroad than it buys in from overseas.",
+      "context": "China's trade surplus surged past US$1.04 trillion, topping US$1 trillion for a second year running."
+     },
+     {
+      "term": "AI infrastructure",
+      "definition": "The data centres, chips and hardware needed to run artificial intelligence systems.",
+      "context": "A global scramble to build AI infrastructure is driving strong demand for Chinese high-tech products."
+     },
+     {
+      "term": "property slump",
+      "definition": "A prolonged downturn in the housing market that erodes household wealth and confidence.",
+      "context": "China's property slump has made consumers reluctant to spend, pushing factories to chase export sales."
+     },
+     {
+      "term": "tariffs",
+      "definition": "Taxes a country charges on imported goods, often used to protect local industries or pressure a trading partner.",
+      "context": "Trading partners can respond to a flood of imports with tariffs or quotas."
+     }
+    ],
+    "quiz": {
+     "question": "Why is China relying more heavily on exports right now?",
+     "options": [
+      "The government has banned imports of foreign goods",
+      "Weak consumer spending and a property slump have dampened demand at home",
+      "Its factories have run out of domestic orders due to a strike",
+      "Other countries have agreed to buy unlimited Chinese goods"
+     ],
+     "answer_index": 1,
+     "explanation": "The article explains that subdued consumption and a protracted property slump have left demand weak at home, pushing China to lean on overseas buyers to support its economy."
+    },
+    "background_beginner": "China is the world's biggest exporter, selling huge volumes of goods — from electronics to cars — to the rest of the world. A \"trade surplus\" means it sells far more than it buys, and China's has grown to record levels. Lately a worldwide rush to build artificial intelligence (AI) systems has supercharged demand for Chinese high-tech products. The topic keeps coming up because such a big surplus unsettles trading partners like the United States and the European Union, who worry about being flooded with cheap imports and sometimes respond with tariffs. Meanwhile, China's own economy is sluggish at home, so it depends on these foreign sales, making the whole balance politically touchy.",
+    "impact_score": 72,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--JJHo1PSq--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-10T024234Z_1_LYNXNPEMA9082_RTROPTP_3_APEC-SUMMIT-CHINA-SHIPPING.JPG?itok=eVS9OXjO",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "China's trade surplus blew past US$1 trillion in the first 10 months of 2026, driven by a global rush to build AI infrastructure that's keeping demand for Chinese tech products red-hot.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/china-trade-surplus-1-trillion-ai-boom-exports-6537981"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-10T19:25:08.893631+00:00",
+    "published_date": "2026-11-11",
+    "has_fulltext": true
+   },
+   {
+    "id": "d29f47f3-5277-54a4-b776-b828206ff47d",
+    "title": "Malaysia's ex-PM Najib Razak arrives home in Kuala Lumpur to serve remainder of jail term under house arrest",
+    "simplified_title": "Malaysia's Ex-PM Najib Starts House Arrest After 1MDB Conviction",
+    "quick_summary": "Former Malaysian Prime Minister Najib Razak has been moved from prison to his Kuala Lumpur mansion to serve the rest of a corruption sentence under house arrest, after a court cleared the way on Tuesday.",
+    "simplified_body": "On Tuesday evening (Nov 10), a convoy pulled up at Najib Razak's home in the exclusive Taman Duta neighbourhood, carrying the 73-year-old former leader from Kajang Prison. A High Court order issued earlier that day allowed him to serve the remainder of his sentence under house arrest until Aug 23, 2028. His mansion was even declared a federal prison ahead of his return. He had briefly left jail on Nov 6 after his party paid a RM50 million (US$12.3 million) fine, but was taken back when the Attorney-General sought legal clarification.\n\nThis matters because Najib was jailed over the 1Malaysia Development Berhad (1MDB) scandal. He was convicted of abuse of power, criminal breach of trust and money laundering tied to SRC International, a former unit of 1MDB. His original 12-year sentence was halved to six years, and in September Malaysia's King granted a conditional pardon.\n\nThe 1MDB scandal, which came to light a decade ago, involved an estimated US$4.5 billion siphoned from the state fund Najib co-founded, drawing in figures from Goldman Sachs to Hollywood. The move sparked a rare clash between the royal palace and the Attorney-General's Office over how the pardon should be applied. Critics say Malaysian law makes no provision for house arrest and that the release undermines anti-corruption efforts.\n\nIn protest, Transport Minister Anthony Loke resigned \"effective immediately\". The house arrest covers only the first case; Najib is separately appealing a 15-year sentence from a December 2025 trial involving far larger sums, which he is due to start serving once house arrest ends.",
+    "why_it_matters": "The saga tests whether Malaysia's push to clean up corruption can survive royal pardons and political dealmaking — a reminder across our region that justice and politics often tangle at the top.",
+    "deep_analysis": "## Historical Context\n\nNajib Razak served as Malaysia's prime minister from 2009 to 2018. The 1MDB scandal — centred on a sovereign wealth fund he co-founded — brought down his government and became one of the world's biggest financial corruption cases when it surfaced a decade ago. Prosecutors say more than US$1 billion ended up in accounts linked to Najib. He was convicted at two separate trials, jailed in 2022, and had his first sentence halved on appeal before the Pardons Board and later the King intervened.\n\n## Multiple Perspectives\n\nThe palace and the government's legal office have clashed openly. King Sultan Ibrahim stressed that granting pardons is a royal prerogative under Article 42 of the Federal Constitution, and that the conditions had been met. The Attorney-General's Office insists it was not defying the pardon, only seeking clarity on whether Najib's first sentence was complete — which affects when his second sentence begins. Critics, including Transport Minister Anthony Loke who resigned in protest, argue the release undermines anti-corruption efforts and that the law makes no provision for house arrest. Najib's lawyers say he deserved the order, having served well beyond half his term.\n\n## What to Watch\n\nWatch the detailed terms of the house arrest, including whether family can live with him and how visitors are handled. The bigger question is Najib's appeal against his 15-year sentence from the second 1MDB trial, which he is due to begin serving around August 2028. The political fallout within Anwar Ibrahim's governing coalition, especially around the Melaka state elections, is also worth tracking.",
+    "concepts": [
+     {
+      "term": "conditional pardon",
+      "definition": "A royal decision to reduce or alter a prisoner's punishment, subject to specific conditions being met — here, paying a fine and serving the rest at home.",
+      "context": "Malaysia's King granted Najib a conditional pardon in September, letting him finish his sentence under house arrest rather than in jail."
+     },
+     {
+      "term": "house arrest",
+      "definition": "A punishment where a person is confined to their home instead of a prison, often with restrictions on visitors and movement.",
+      "context": "Najib's mansion was declared a federal prison so he could serve his remaining term under house arrest until 2028."
+     },
+     {
+      "term": "1Malaysia Development Berhad (1MDB)",
+      "definition": "A Malaysian state investment fund from which billions of dollars were allegedly stolen, sparking a global corruption scandal.",
+      "context": "Najib co-founded 1MDB, and his convictions stem from money misappropriated from the fund and its units."
+     },
+     {
+      "term": "criminal breach of trust",
+      "definition": "A crime where someone entrusted with property or funds dishonestly misuses them.",
+      "context": "Najib was convicted of criminal breach of trust over funds moved from SRC International into his private accounts."
+     }
+    ],
+    "quiz": {
+     "question": "Why did the Attorney-General briefly block Najib's move to house arrest on Nov 6?",
+     "options": [
+      "To dispute and defy the King's royal pardon",
+      "Because the RM50 million fine had not yet been paid",
+      "To add new charges from the 1MDB scandal",
+      "To seek court clarification on whether his first sentence was complete, affecting when his second begins"
+     ],
+     "answer_index": 3,
+     "explanation": "The Attorney-General's Office said it was not defying the pardon, but needed the court to clarify whether the discharge meant Najib had finished his first sentence — which determines when his separate 15-year sentence would start."
+    },
+    "background_beginner": "Najib Razak led Malaysia as prime minister from 2009 to 2018. During that time he co-founded a government investment fund called 1MDB, which was meant to boost the economy. Instead, investigators say billions of dollars went missing, with huge sums flowing into private accounts — including Najib's. The scandal became global news, touching banks like Goldman Sachs and even Hollywood. It helped topple his government, and he was later convicted in court and jailed. The story keeps coming up because his punishment keeps changing: his sentence was halved, the King granted a pardon, and now he's serving time at home rather than in prison — moves that have angered people who want corruption punished.",
+    "impact_score": 62,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s---M8ZLQPJ--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/10/fdz_3074.jpg?itok=UwreKGN7",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "Former Malaysian Prime Minister Najib Razak has been moved from prison to his Kuala Lumpur mansion to serve the rest of a corruption sentence under house arrest, after a court cleared the way on Tuesday.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-ex-pm-najib-razak-released-prison-house-arrest-royal-pardon-6538231"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do"
+     },
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-transport-minister-anthony-loke-resignation-take-effect-immediately-najib-house-arrest-6538901"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "4231d758-f16a-57a6-99a7-c80a8a701adc"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-11-10T19:25:12.104439+00:00",
+    "published_date": "2026-11-11",
+    "has_fulltext": true
+   },
+   {
     "id": "0e090fb7-33ce-5149-8552-30728f3d2165",
     "title": "Bangladesh challenges ousted PM Hasina over return pledge",
     "simplified_title": "Bangladesh dares ousted PM Hasina to seek extradition",
@@ -458,127 +524,6 @@
     "reading_minutes": 2,
     "created_at": "2026-11-09T19:26:51.664719+00:00",
     "published_date": "2026-11-10",
-    "has_fulltext": true
-   },
-   {
-    "id": "a3e5c2e2-2e1c-5971-ae87-6fa0c6f2043f",
-    "title": "Okinawa governor calls for review of US forces pact after murder of Japanese woman",
-    "simplified_title": "Okinawa governor demands review of US forces pact after murder",
-    "quick_summary": "Okinawa's governor is calling for a fundamental review of a long-criticised agreement governing US troops in Japan after a US Marine was indicted for allegedly murdering a Japanese woman.",
-    "simplified_body": "Okinawa governor Genta Koja said on Monday he would request a review of the Status of Forces Agreement (SOFA) — a 1960 pact that critics say gives the US military preferential treatment in Japan. His call follows the indictment last month of a US Marine suspected of murdering a 39-year-old Japanese woman at an Okinawa hotel, a case that sparked outrage across the island.\n\nThis matters to the roughly 54,000 US military personnel stationed in Japan, most of them on Okinawa, and to the island's residents. Crimes committed by US personnel have long strained relations between the two close security allies. Under the current agreement, US military authorities have the primary right to investigate and punish service members who offend while on official duty — something critics say has at times blocked Japanese indictments.\n\nOkinawa hosts the bulk of US forces in Japan, a legacy of World War II and the Cold War. Locals have repeatedly protested over crime, noise and suspected soil pollution around bases, which critics describe as virtually extraterritorial and immune to Japan's domestic laws. Koja, elected in September, wants Japanese requests to transfer suspects before indictment to be honoured promptly, and Japanese laws such as the aviation act applied to the US military.\n\nOkinawan lawmakers adopted a resolution last month seeking revisions to the pact, soon to be submitted to the US embassy. On Friday, Japan and the United States agreed on measures to prevent crimes by service members, and US officials extended a 30-day curfew for some troops to Dec 7. Koja also wants the swift return of US-held land in Okinawa's commercial centre.",
-    "why_it_matters": "The dispute shows how the fine print of military alliances plays out in everyday lives — a live issue for Australia too, which hosts rotating US forces under its own arrangements and watches regional security closely.",
-    "deep_analysis": "## Historical Context\n\nOkinawa sits at the heart of a decades-old tension. The island hosts the bulk of US forces in Japan, a legacy of its role in World War II and the Cold War, and the 1960 Status of Forces Agreement (SOFA) has governed how US personnel are treated ever since. As background, Okinawa makes up a small share of Japan's land but carries a disproportionate share of US bases, which has long fuelled local frustration over crime, noise and environmental concerns. The article notes that US military authorities hold the primary right to investigate and punish service members on official duty, an arrangement critics say has sometimes blocked Japanese indictments.\n\n## Multiple Perspectives\n\nGovernor Koja frames the alleged murder as \"an extremely heinous crime\" and wants a fundamental review, including prompt transfer of detained suspects before indictment and applying Japanese laws to the US military. Notably, he is the first Okinawa leader in 12 years to approve of a contentious base relocation plan — keeping the Futenma air base on the main island but moving it to a less populated spot — suggesting he is not simply anti-base but seeking a better deal. The central government and the US, for their part, agreed on Friday to preventive measures and extended a curfew, signalling they take the anger seriously while preserving the alliance.\n\n## What to Watch\n\nWatch whether the Okinawan resolution submitted to the US embassy prompts any genuine SOFA revisions — historically a hard sell. Also watch the promised return of US-held land in Okinawa's commercial centre under the 2013 agreement, which Koja says will boost the local economy, and whether the extended curfew (to Dec 7) eases tensions or merely delays the next flashpoint.",
-    "concepts": [
-     {
-      "term": "SOFA",
-      "definition": "The Status of Forces Agreement, a 1960 pact setting the legal terms for US military personnel stationed in Japan, including who has the right to investigate and punish them.",
-      "context": "Critics argue SOFA makes US bases virtually extraterritorial and immune to Japan's domestic laws."
-     },
-     {
-      "term": "extraterritorial",
-      "definition": "Being outside the reach of the local country's laws — treated as if on another nation's territory.",
-      "context": "Critics say the extraterritoriality of US bases has deterred Japanese authorities from investigating suspected soil pollution around them."
-     },
-     {
-      "term": "indicted",
-      "definition": "Formally charged with a crime by prosecutors, allowing the case to proceed to court.",
-      "context": "Prosecutors indicted the US Marine last month on suspicion of murder."
-     }
-    ],
-    "quiz": {
-     "question": "Why do critics object to the current Status of Forces Agreement?",
-     "options": [
-      "It requires Okinawa to host all of Japan's bases forever",
-      "It forces Japan to pay all US military salaries",
-      "It bans US personnel from living off-base",
-      "It gives US military authorities primary rights to investigate and punish service members on official duty, sometimes blocking Japanese indictments"
-     ],
-     "answer_index": 3,
-     "explanation": "The article explains that under the pact US military authorities have the primary right to investigate and punish service members on official duty, which critics say has sometimes blocked indictments by Japanese investigators."
-    },
-    "background_beginner": "Okinawa is a southern Japanese island that hosts most of the roughly 54,000 US military personnel stationed in Japan — a long-running arrangement dating back to World War II and the Cold War, when the two countries became close security allies. Because so many troops are concentrated there, crimes and accidents involving US personnel have repeatedly angered locals. A key sticking point is the 1960 Status of Forces Agreement, which sets the legal rules for US troops and, critics argue, shields them from full accountability under Japanese law. The issue flares up after each serious incident — most recently the alleged murder of a Japanese woman by a US Marine.",
-    "impact_score": 58,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--Ln34AtMT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/09/000_d6vc4nr.jpg?itok=7LzuTMi2",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "Okinawa's governor is calling for a fundamental review of a long-criticised agreement governing US troops in Japan after a US Marine was indicted for allegedly murdering a Japanese woman.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/japan-okinawa-review-united-states-forces-pact-murder-6535351"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-09T07:25:38.167939+00:00",
-    "published_date": "2026-11-09",
-    "has_fulltext": true
-   },
-   {
-    "id": "492285e6-6746-5411-94da-cfb9268fc6ba",
-    "title": "'Feeling guilty': Price hikes a tough sell in Japan despite inflation",
-    "simplified_title": "Why Japanese shops still hate raising prices",
-    "quick_summary": "After decades of falling prices, Japanese businesses and shoppers are struggling to accept price rises even as inflation finally takes hold.",
-    "simplified_body": "Two big Japanese brands have shown just how touchy price rises are in Japan. Clothing giant Uniqlo lifted the price of its basic socks last month, copped a backlash, and quickly reversed the decision. Family restaurant chain Saizeriya added 20 yen (about US$0.13) to its Milanese Doria and issued an almost grovelling apology, with its president vowing to \"look for any excuses to lower prices again\".\n\nThis matters for everyone in Japan because the country spent decades in deflation — a long stretch where prices generally fell — which trained shoppers to treat price hikes as taboo. Small, rural businesses feel it hardest: a ramen owner named Sachi said she'd rather \"persevere myself\" than upset loyal customers with a 200-yen rise. Households facing soaring grocery bills are also eating out less and buying fewer clothes.\n\nHere's the background a newcomer needs. In 2013, then-prime minister Shinzo Abe launched ultra-loose monetary policy to end deflation. Inflation only really returned in 2022 after the Ukraine war caused an energy shock, and costs climbed further when, the article says, conflict disrupted Middle East oil supplies. Last month the Bank of Japan — the country's central bank — declared its 2 per cent inflation target met after 13 years.\n\nWhat happens next? The Bank of Japan is now raising interest rates, with borrowing costs at a more than 30-year high and likely to rise again. University of Tokyo economist Tsutomu Watanabe reckons it'll take \"another three to four years\" for consumers to accept steady inflation, noting pay rises remain \"largely insufficient\".",
-    "why_it_matters": "Japan is a major trading partner and economic bellwether for Australia, so how it finally shakes off decades of deflation affects the broader region — and it's a reminder that beating inflation is as much about public mindset as it is about numbers.",
-    "deep_analysis": "## Historical Context\n\nJapan's price problem is the mirror image of what most of the world has faced lately. Since the mid-1990s, the country was stuck in deflation — a persistent fall in prices that, counterintuitively, is bad for an economy because people delay spending and wages stagnate. In 2013, then-prime minister Shinzo Abe rolled out aggressive monetary easing (often nicknamed \"Abenomics\") to break the cycle, and successive governments stuck with it. As background, this was one of the longest and most-watched economic experiments in the developed world. It took an external shock — the 2022 Ukraine war energy spike — to finally stir inflation in resource-poor Japan, followed by further supply-chain pressure the article links to Middle East conflict.\n\n## Multiple Perspectives\n\nBusiness owners are caught in a bind. Big brands like Uniqlo guard a reputation for affordability, while small operators like ramen owner Sachi fear losing the loyal regulars who keep them alive. Shoppers like Tokyo worker Kazuhiko Sato are cutting back, eating out less and leaning on imports. Economist Tsutomu Watanabe frames the deeper issue: unlike other Group of Seven (G7) economies where decent wage hikes have kept spending steady, Japan's pay rises remain thin, so companies' \"pricing power\" is still dictated by consumers. He calls Japan \"a convalescent\" recovering from decades of deflation.\n\n## What to Watch\n\nKeep an eye on three things: whether the Bank of Japan keeps lifting interest rates from their 30-year high; whether wage growth broadens beyond the eight straight months of real-wage gains already recorded; and whether consumer psychology shifts. Watanabe's three-to-four-year timeline is the key marker for when hikes might stop feeling taboo.",
-    "concepts": [
-     {
-      "term": "deflation",
-      "definition": "A sustained fall in general prices, which can stall an economy as people and businesses hold off spending.",
-      "context": "Japan spent decades in deflation, training shoppers to see price rises as unacceptable."
-     },
-     {
-      "term": "Bank of Japan",
-      "definition": "Japan's central bank, which sets monetary policy and interest rates.",
-      "context": "It declared its 2 per cent inflation target met and is now raising interest rates."
-     },
-     {
-      "term": "inflation",
-      "definition": "A general rise in prices over time, reducing what each unit of money can buy.",
-      "context": "Inflation only returned to Japan in 2022 after a global energy shock."
-     },
-     {
-      "term": "interest rates",
-      "definition": "The cost of borrowing money, raised by central banks to cool inflation.",
-      "context": "The Bank of Japan has pushed borrowing costs to a more than 30-year high."
-     }
-    ],
-    "quiz": {
-     "question": "Why do Japanese firms find it so hard to raise prices compared with other G7 countries?",
-     "options": [
-      "Decades of deflation left consumers averse to hikes while wage rises stay weak",
-      "The government legally caps price increases",
-      "Japanese businesses face no rising costs",
-      "There is no inflation anywhere in Japan"
-     ],
-     "answer_index": 0,
-     "explanation": "The article explains that decades of deflation made price rises feel taboo, and unlike other G7 economies, Japan's wage hikes remain insufficient to keep spending strong."
-    },
-    "background_beginner": "Japan is one of the world's biggest economies, but for about 30 years it was stuck in deflation — a rare situation where prices gradually fell instead of rising. That made shoppers expect cheap goods and treat price rises as almost offensive. Governments, starting with then-prime minister Shinzo Abe in 2013, tried for years to spark gentle inflation. It finally arrived around 2022 after global energy shocks pushed up costs. Now businesses, from giant Uniqlo to small ramen shops, must raise prices to survive but fear angering loyal customers. The Bank of Japan, the central bank, is also lifting interest rates, making this a recurring national tug-of-war.",
-    "impact_score": 55,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--AD42fkCx--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-08T064006Z_1_LYNXMPEM970DZ_RTROPTP_3_JAPAN-COMPANY-UNIQLO.JPG?itok=dgjl1y2N",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "After decades of falling prices, Japanese businesses and shoppers are struggling to accept price rises even as inflation finally takes hold.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/japan-inflation-price-hikes-uniqlo-saizeriya-6533786"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-09T07:26:15.009612+00:00",
-    "published_date": "2026-11-09",
     "has_fulltext": true
    }
   ],
@@ -937,6 +882,73 @@
   ],
   "MIDDLE_EAST_AFRICA": [
    {
+    "id": "41cc4d70-b7c2-57ae-a270-afac9a5dc797",
+    "title": "Witnesses recount struggle to save people buried in ‘horrifying’ Gaza landslide",
+    "simplified_title": "Deadly landslide hits Gaza tents as winter floods overwhelm camps",
+    "quick_summary": "A sand embankment collapsed onto tents in central Gaza during heavy rain, killing five people, as winter storms flooded tens of thousands of shelters and reignited a fight over aid.",
+    "simplified_body": "On Sunday, a sand bank overlooking a camp for displaced families south of Deir al-Balah collapsed during high winds and heavy rain, killing five people and crushing at least three tents. Witnesses described a \"horrifying\" scene, with rescuers smashing a huge boulder with hammers and digging through sand by flashlight to reach those buried. Among the dead were an eight-year-old, a six-year-old and their mother.\n\nThe disaster hit the most vulnerable people in Gaza. The United Nations (UN) says around 65% of the population, roughly 1.4 million people, now live in tents or makeshift shelters after two years of war. More than 26,000 households reported damage from the weekend's rainstorms, and aid groups say winter supplies inside Gaza have run out.\n\nThe war began after the Hamas-led attack on Israel on 7 October 2023, which killed around 1,200 people. A ceasefire took hold in October 2025, but the next stages have stalled. Hamas agreed to give up power and weapons in return for an Israeli troop withdrawal, yet Israel insists Hamas must fully disarm first. Reconstruction has barely begun.\n\nUS President Donald Trump's Board of Peace, set up to oversee his Gaza plan, called Israel's aid response \"insufficient\" and urged it to let supplies in immediately. OCHA, the UN's humanitarian agency, says over 150,000 tents are waiting outside Gaza. Israel's aid body Cogat says 91,000 tents and 8,200 trucks have entered, blames Hamas for hoarding, and bars \"dual use\" items. Both sides blame each other, so the deadlock — and the suffering — looks set to continue.",
+    "why_it_matters": "This shows how a stalled ceasefire translates directly into preventable deaths, with civilians caught between two sides blaming each other as winter sets in. Australia, which has pushed for humanitarian access and backed a two-state solution, has a stake in whether Gaza's reconstruction ever begins.",
+    "deep_analysis": "## Historical Context\n\nThe war in Gaza began after Hamas-led fighters attacked southern Israel on 7 October 2023, killing around 1,200 people and taking 251 hostages. Israel's military response, which the Hamas-run health ministry says has killed 74,645 people (figures the UN considers reliable), levelled much of the territory. A US-brokered ceasefire took effect in October 2025, under which Hamas agreed to give up governance and weapons in exchange for a phased Israeli withdrawal from the 60% of Gaza it still occupied. More than 1,600 people have been killed since that truce, according to the health ministry, while Israel says six of its soldiers have died.\n\n## Multiple Perspectives\n\nThe sources show a genuine three-way dispute. Israel's Cogat and foreign ministry say they have let in 91,000 tents and thousands of trucks, that reconstruction can't start until Hamas disarms, and that Hamas is \"hoarding aid\". Hamas rejects this as a \"distorted account\", blames Israeli restrictions on shelter materials, and cites an August statement from Egyptian, Qatari and Turkish mediators accusing Israel of violations. Caught in the middle, Trump's own Board of Peace criticised Israel's response as \"insufficient\" while also saying Hamas's failure to disarm \"compounded the difficulties\". UN agencies (OCHA, Unicef) focus on the practical bottleneck: supplies are exhausted inside Gaza and blocked at the border, and \"dual use\" rules bar even metal tent poles.\n\n## What to Watch\n\nWatch whether Israel actually lifts restrictions on the 150,000 tents OCHA says are waiting, and whether so-called \"dual use\" items like tent poles are released as winter deepens. The deeper question is whether the disarmament-versus-withdrawal deadlock breaks — because reconstruction, and any real protection against the next storm, depends on it.",
+    "concepts": [
+     {
+      "term": "displaced families",
+      "definition": "People forced to leave their homes, in this case by war, now living in temporary camps rather than permanent housing.",
+      "context": "The UN says around 65% of Gaza's population now lives in tents or makeshift shelters."
+     },
+     {
+      "term": "ceasefire",
+      "definition": "An agreement between warring sides to stop fighting, often as a step towards a longer peace deal.",
+      "context": "A ceasefire took hold in October 2025 but the next stages have stalled over disarmament and withdrawal."
+     },
+     {
+      "term": "Board of Peace",
+      "definition": "A US-backed body set up to oversee Donald Trump's Gaza peace plan.",
+      "context": "It called Israel's aid response insufficient and urged supplies be let in immediately."
+     },
+     {
+      "term": "dual use",
+      "definition": "Items that can serve both civilian and military purposes, which Israel restricts from entering Gaza.",
+      "context": "Metal tent poles were barred as dual use, so aid workers used wooden poles from food pallets."
+     }
+    ],
+    "quiz": {
+     "question": "Why do the articles say reconstruction and aid have stalled in Gaza despite the ceasefire?",
+     "options": [
+      "There is no money anywhere in the world to pay for it",
+      "Israel and Hamas disagree over disarmament and troop withdrawal, and blame each other",
+      "The United Nations refuses to send any supplies",
+      "Gaza's population has fully returned to rebuilt homes"
+     ],
+     "answer_index": 1,
+     "explanation": "The sources say Hamas agreed to disarm in exchange for an Israeli withdrawal, but Israel insists Hamas must fully disarm first, leaving the deal stalled with both sides blaming each other."
+    },
+    "background_beginner": "Gaza is a small, crowded strip of land where Palestinians live, governed until recently by Hamas, an armed group. The current war began on 7 October 2023 when Hamas-led fighters attacked southern Israel, and Israel responded with a two-year military campaign that destroyed much of Gaza and forced most people from their homes. A ceasefire began in October 2025, but the two sides can't agree on terms — Israel wants Hamas to disarm first, Hamas wants Israel to withdraw — so rebuilding hasn't started. Most people now live in tents, which is why each winter storm, like the one that caused this deadly landslide, keeps turning into a humanitarian emergency.",
+    "impact_score": 72,
+    "image_url": "https://i.guim.co.uk/img/media/844dff847068d45ef8b94194218bf736152bbfb1/0_0_4096_3072/master/4096.jpg?width=1920&quality=85&auto=format&fit=max&s=cc6b940580a90f43dd9d7fa3c0fbb5a9",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "A sand embankment collapsed onto tents in central Gaza during heavy rain, killing five people, as winter storms flooded tens of thousands of shelters and reignited a fight over aid.",
+    "tier": "GLOBAL",
+    "category": "SOCIETY_CULTURE",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-10T19:25:42.235893+00:00",
+    "published_date": "2026-11-11",
+    "has_fulltext": true
+   },
+   {
     "id": "e9d4ed6b-b078-5857-852b-a332ad24d262",
     "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
     "simplified_title": "Israel's president taps Netanyahu rival Eisenkot to form a government",
@@ -1076,133 +1088,143 @@
     "created_at": "2026-11-09T19:26:58.470861+00:00",
     "published_date": "2026-11-10",
     "has_fulltext": true
-   },
+   }
+  ],
+  "AMERICAS": [
    {
-    "id": "092cf373-2f4e-5c92-ac73-0b8996ee2009",
-    "title": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
-    "simplified_title": "Migrant boat sinks off Senegal, at least 34 dead",
-    "quick_summary": "A small migrant boat heading from West Africa toward Spain's Canary Islands sank off Senegal, killing at least 34 people with only one survivor found so far.",
-    "simplified_body": "A small boat carrying migrants sank off northwestern Senegal, killing at least 34 people, authorities said on Sunday. Only one survivor has been found, and an \"indeterminate number\" of people are still missing. The pirogue-type flat-bottomed boat capsized near Kebemer, roughly 180 kilometres north of the capital, Dakar. The Senegalese interior ministry first reported 21 bodies, but the toll was later confirmed at 34 by the Senegalese Press Agency (APS) and a rights group, Action for Human Rights and Friendship (ADHA). Accounts differ on timing: media reports say the boat capsized on Saturday, while migrant aid group Boza Fii says the sinking happened on Friday.\n\nThis affects West African communities, where thousands try each year to reach Europe along the dangerous Atlantic route. The bodies recovered so far are Senegalese, though not all nationalities are confirmed. President Bassirou Diomaye Faye said state resources were mobilised to find the missing and support families, and pledged to crack down on those organising the crossings.\n\nThe route runs from West Africa to Spain's Canary Islands, a group of Spanish islands in the Atlantic Ocean. Arrivals hit a record 46,000 in 2024 before falling as surveillance tightened. Senegal, Mauritania and Morocco have stepped up patrols, pushing boats further south and lengthening the already risky journey.\n\nOn the Canary island of El Hierro, home to about 11,400 people, authorities declared an emergency on Saturday after more than 3,300 people arrived on around 30 boats since the start of November. Senegalese police also intercepted 142 migrants on Friday on a similar boat bound for Spain.",
-    "why_it_matters": "These deaths are part of a long-running humanitarian crisis on one of the world's deadliest sea routes, and they show how tougher patrols can simply push desperate people onto longer, more dangerous crossings rather than stopping them.",
-    "deep_analysis": "## Historical Context\n\nThe Atlantic route from West Africa to Spain's Canary Islands has become one of the most-used and most dangerous migration paths to Europe. Thousands have died in recent years attempting the crossing in small boats. Arrivals peaked at a record 46,000 in 2024 before falling sharply as authorities increased surveillance and cooperation with African countries. This latest sinking off Senegal, killing at least 34, is the newest tragedy in that pattern.\n\n## Multiple Perspectives\n\nThe sources show some disagreement on the basic facts. On timing, media reports say the boat capsized on Saturday, while Saliou Diouf of the aid group Boza Fii told AFP the sinking occurred on Friday. On the death toll, the Senegalese interior ministry initially gave a provisional figure of 21 bodies and one survivor, which APS and the rights group ADHA later revised up to at least 34.\n\nThe Senegalese government frames the response around both compassion and enforcement: President Faye pledged support for families while vowing to fight the networks organising crossings. The El Hierro council, meanwhile, speaks from the receiving end, with its head Alpidio Armas describing hospital conditions as \"undesirable\" and arrivals as a \"sharp increase\" straining a small island community.\n\n## What to Watch\n\nWatch whether tighter patrols by Senegal, Mauritania and Morocco continue pushing boats further south toward Gambia, Guinea-Bissau and Guinea, lengthening the crossings. Also watch the search off Kebemer, where an \"indeterminate number\" remain missing, and whether El Hierro's declared emergency draws promised cooperation from higher-level Spanish institutions.",
+    "id": "c49a6d41-8153-5867-a53f-e3523b003263",
+    "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
+    "simplified_title": "Defense Secretary Pete Hegseth faces impeachment push over wars",
+    "quick_summary": "Republican congressman Thomas Massie has introduced eight articles of impeachment against US Defense Secretary Pete Hegseth over military operations in Iran, Venezuela and Yemen, though removing him remains highly unlikely.",
+    "simplified_body": "US Secretary of Defense Pete Hegseth is facing possible impeachment after Republican Congressman Thomas Massie introduced a resolution to remove him from office. Massie brought eight articles of impeachment accusing Hegseth of carrying out unlawful orders and breaching the US Constitution by waging war on Iran and Venezuela, running a bombing campaign in Yemen, and failing to protect civilians. Four articles concern Iran, two cover Venezuela and Caribbean boat strikes, one covers Yemen, and one relates to his treatment of Democratic Senator Mark Kelly. Hegseth calls it \"a farce, and a stunt\".\n\nThis matters for anyone watching the balance of power between the president and Congress. Several Iran articles rest on the War Powers Resolution, a 1973 law that limits a president's ability to wage war without Congress's approval. Massie says that while Trump issued the orders, Hegseth chose to carry them out, and someone must \"put their foot down\" on whether the Constitution is followed.\n\nA bit of background: the House of Representatives alone can impeach officials for \"Treason, Bribery, or other high Crimes and Misdemeanors\". A simple House majority impeaches; the Senate then holds a trial, and conviction needs a two-thirds supermajority. If impeached, Hegseth would be the first civilian military leader impeached in about 150 years, since William Belknap in 1876.\n\nWhat happens next is uncertain. Republicans narrowly control the House (218 to 214 Democrats, plus one Republican-aligned independent) until Democrats take over on January 3. Even if the House impeaches, the Senate's 53 Republicans make the 67 votes needed to convict very unlikely. Democrats say they will try again in the new Congress; Massie, who lost his primary and leaves Congress, urges Trump to replace Hegseth now.",
+    "why_it_matters": "This is a rare test of whether a US president can wage war without Congress's approval — a constitutional question that shapes how one of the world's most powerful militaries, a key Australian ally, is deployed around the globe.",
+    "deep_analysis": "## Historical Context\n\nImpeachment of a cabinet member is extraordinarily rare. The articles note that Hegseth would be only the second head of the US military to be impeached since William Belknap, who was impeached for bribery in 1876 — roughly 150 years ago. The mechanism itself is laid out in the US Constitution: the House holds \"the sole Power of Impeachment\", and officials can be removed for \"Treason, Bribery, or other high Crimes and Misdemeanors\". Several of Massie's articles lean on the War Powers Resolution of 1973, a law designed to stop presidents from waging prolonged war without congressional sign-off. Hegseth himself draws a direct line to recent history, comparing his situation to Trump's two impeachments and acquittals during his first term, when Trump became the only president impeached twice by a Democrat-held House and acquitted twice by a Republican-held Senate.\n\n## Multiple Perspectives\n\nThe two sides frame this very differently. Massie, a Republican, argues this is about the Constitution: \"Hegseth should not carry out illegal orders, and that's why we're impeaching him,\" and says he wants to \"litigate whether Congress has war powers or not\". He rejects official explanations — dismissing the Minab school strike as \"fog of war\" (there is \"no fog of war on the first day\") and calling the Maduro raid a plan \"to kidnap a foreign leader so we could take their oil\".\n\nHegseth casts it as pure politics — \"a political spectacle; a personal manifesto driven by ego and resentment\" from a \"disgruntled and defeated congressman\" — and insists the operations were \"lawful military operations\". He argues the proper remedy for a policy disagreement is \"legislation... debate... the next presidential election\", not a \"show trial\". Trump backs him fully, branding Massie a \"stone-cold loser\". Top Democrats, including House leader Hakeem Jeffries (a \"hard yes\") and Chuck Schumer, support the resolution.\n\n## What to Watch\n\nThe immediate question is procedural: House leaders could vote on the resolution, send it to committee, or \"table\" it indefinitely. Reports differ on the numbers — the House is split 218 Republicans, 214 Democrats and one Republican-aligned independent, so Massie needs a handful of Republicans. Watch the January 3 handover, when Democrats take the House and have signalled they will try again — though Massie himself, defeated in his primary by Trump-backed Ed Gallerein, will be gone. Even then, the Senate maths (53 Republicans now, roughly 54 Democrats expected next year, well short of 67) makes actual removal a long shot.",
     "concepts": [
      {
-      "term": "Canary Islands",
-      "definition": "A group of Spanish islands in the Atlantic Ocean, off the northwest coast of Africa, that migrants aim to reach to enter Europe.",
-      "context": "They are the destination for boats travelling the dangerous Atlantic route from West Africa."
+      "term": "impeachment",
+      "definition": "A constitutional process where the House of Representatives formally charges a senior official with serious wrongdoing; the Senate then holds a trial to decide whether to remove them.",
+      "context": "Impeachment is the central subject of the articles — a rarely-used check on officials accused of high crimes."
      },
      {
-      "term": "pirogue",
-      "definition": "A long, narrow, flat-bottomed traditional boat used for fishing and, increasingly, for migrant crossings.",
-      "context": "The boat that sank off Senegal was described as a pirogue-type flat-bottomed vessel."
+      "term": "War Powers Resolution",
+      "definition": "A 1973 US law that limits a president's ability to send forces into armed conflict without the approval of Congress.",
+      "context": "Several of the Iran impeachment articles rest on this law, making it central to the dispute over who can authorise war."
      },
      {
-      "term": "Atlantic route",
-      "definition": "The sea crossing migrants take from West Africa to Spain's Canary Islands, known for being especially deadly.",
-      "context": "Thousands have died on this route in recent years trying to reach Europe."
+      "term": "articles of impeachment",
+      "definition": "The formal written charges listing the specific alleged offences an official is accused of committing.",
+      "context": "Massie introduced eight of them, dividing the accusations across Iran, Venezuela, Yemen and the Senator Kelly matter."
+     },
+     {
+      "term": "high crimes and misdemeanors",
+      "definition": "The constitutional standard of serious offences for which a US official can be impeached and removed from office.",
+      "context": "This is the legal threshold Hegseth is accused of meeting, though what counts as one is contested between the sides."
      }
     ],
     "quiz": {
-     "question": "According to the articles, what effect have stepped-up patrols by Senegal, Mauritania and Morocco had on migrant crossings?",
+     "question": "Why is Hegseth's removal from office considered unlikely even if the House impeaches him?",
      "options": [
-      "They have redirected all migrants to overland routes instead",
-      "They have reduced the death toll on the Atlantic route to zero",
-      "They have forced boats to head further south, lengthening the dangerous crossing",
-      "They have completely stopped boats from leaving West Africa"
+      "The Supreme Court must approve any removal first",
+      "Cabinet members cannot legally be removed by impeachment",
+      "The President can veto an impeachment",
+      "Conviction requires a two-thirds Senate majority, which the numbers fall far short of"
      ],
-     "answer_index": 2,
-     "explanation": "The sources say increased patrols around departure points have pushed boats further south toward Gambia, Guinea-Bissau and Guinea, which prolongs the already hazardous journey rather than stopping it."
+     "answer_index": 3,
+     "explanation": "Impeachment by the House only needs a simple majority, but removal requires conviction by a two-thirds Senate supermajority (67 votes). With Republicans holding 53 seats and Democrats expected to have about 54 next year, neither side reaches 67."
     },
-    "background_beginner": "Every year, thousands of people from West African countries like Senegal, Gambia and Guinea try to reach Europe by boat, hoping for work and a better life. One of the main paths is the Atlantic route, which runs from the West African coast to Spain's Canary Islands — Spanish territory out in the Atlantic Ocean. The boats are often small, overcrowded fishing vessels called pirogues, and the open-ocean crossing is one of the deadliest in the world. The story keeps coming up because poverty, limited opportunities and smuggling networks keep driving people to attempt it, while European and African governments respond with patrols and crackdowns. Sinkings like this one off Senegal, killing dozens, are a recurring and tragic result.",
-    "impact_score": 62,
-    "image_url": "https://s.france24.com/media/display/8db004c0-db6f-11f1-9c7c-a575454bc579/w:1280/p:16x9/c9e8d80cbfc13f8f43d3833c67fbf17f6e5ccb25.jpg",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "A small migrant boat heading from West Africa toward Spain's Canary Islands sank off Senegal, killing at least 34 people with only one survivor found so far.",
+    "background_beginner": "Pete Hegseth is the US Secretary of Defense, the civilian in charge of the American military, appointed under President Donald Trump. Thomas Massie is a Republican congressman who has often clashed with Trump and is leaving Congress after losing his primary. The clash started when Massie introduced a resolution to impeach Hegseth, accusing him of carrying out unlawful orders in wars against Iran and Venezuela and a bombing campaign in Yemen, and of failing to protect civilians. It keeps coming up because it touches a long-running argument in American politics: whether a president can wage war without Congress's approval, and who should be held responsible when he does.",
+    "impact_score": 72,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-28T060119Z_128960789_RC25COAFE793_RTRMADP_3_ASEAN-PHILIPPINES-DEFENCE-1794315810.jpg?resize=1920%2C1440",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Republican congressman Thomas Massie has introduced eight articles of impeachment against US Defense Secretary Pete Hegseth over military operations in Iran, Venezuela and Yemen, though removing him remains highly unlikely.",
     "tier": "GLOBAL",
-    "category": "SOCIETY_CULTURE",
+    "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss"
      },
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-11/us-defense-secretary-pete-hegseth-fights-impeachment/107367736"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
     "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-09T07:25:39.861583+00:00",
-    "published_date": "2026-11-09",
+    "reading_minutes": 5,
+    "created_at": "2026-11-10T19:25:17.359796+00:00",
+    "published_date": "2026-11-11",
     "has_fulltext": true
    },
    {
-    "id": "c57ad799-99e0-5a41-a571-2494568567eb",
-    "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-    "simplified_title": "Train Crash Near Giza in Egypt Kills Seven, Injures Over 100",
-    "quick_summary": "Two trains collided south of Cairo on Sunday, killing at least seven people and injuring more than 100, prompting a government investigation.",
-    "simplified_body": "Two passenger trains collided on Sunday in the al-Ayyat district of Giza province, about 50km south of the Egyptian capital Cairo. A train bound for Fayoum crashed into the rear of a stationary train heading south to Aswan, sending several carriages off the rails and down an embankment. At least seven people died, including one of the drivers, and the Guardian reports at least 125 were injured, with more than 70 discharged after treatment.\n\nThe crash hit ordinary commuters and families travelling through Upper Egypt, a heavily used rail corridor. Rescuers and nearby villagers pulled survivors from mangled carriages, and the Egyptian Red Crescent (the national humanitarian aid organisation) gave medical and psychological support. Hospitals were put on heightened alert to handle the rush of patients with broken bones and head injuries.\n\nTrain crashes are sadly common in Egypt, where the railway system has a long history of poor maintenance and mismanagement, despite recent government modernisation plans. The site sits close to where the country's deadliest rail disaster happened in February 2002, when a fire swept through a Cairo-to-Luxor train. The two sources differ slightly on that toll: the BBC says more than 370 were officially reported killed, while the Guardian puts it at more than 300.\n\nPresident Abdel Fattah al-Sisi has ordered an investigation and promised to hold any negligent parties accountable, while the public prosecutor warned the death toll could rise. There were public calls on Sunday for the transport minister to resign. Trains between Giza and Upper Egypt were suspended while cranes cleared the wreckage.",
-    "why_it_matters": "It's a reminder of how deadly ageing rail infrastructure can be, and Australians travelling through Egypt — a popular tourist destination — rely on the same network that's involved in these recurring crashes.",
-    "deep_analysis": "## Historical Context\n\nEgypt runs one of the oldest and busiest rail networks in Africa and the Middle East, carrying millions of passengers along the Nile corridor between Cairo and Upper Egypt. It also has a troubled safety record. The country's worst disaster came in February 2002, when a fire tore through an overnight train on the Cairo–Luxor line; the sources differ on the toll, with the BBC citing more than 370 officially reported dead and the Guardian more than 300. The BBC notes two further crashes in the same al-Ayyat area in 2009 killed dozens, and the Guardian records a freight-train collision in the same district last September that injured a driver and his assistant.\n\n## Multiple Perspectives\n\nThe government's framing, via President al-Sisi, is accountability through investigation and punishing negligence. Survivors quoted by the Guardian describe chaos, dust and people trapped in mangled carriages, with ordinary villagers doing much of the early rescue work. Critics, meanwhile, were calling on Sunday for the transport minister to resign — a sign that for some Egyptians this reads less as an accident and more as a predictable result of chronic underinvestment. The Guardian frames the deeper cause plainly: a system with a \"history of mismanagement and poor maintenance\", even as the government has announced modernisation initiatives.\n\n## What to Watch\n\nThe death toll may still climb — the public prosecutor's office warned of this. Watch the outcome of the investigation and whether it points to signalling failure, driver error or maintenance gaps, given one train was stationary when struck. Also worth watching: whether political pressure on the transport minister grows, and whether promised modernisation money actually translates into safer track and signalling.",
+    "id": "292f4951-1d3b-5b7d-925a-883aedaf3c19",
+    "title": "US federal authorities could have prevented Epstein crimes, report finds",
+    "simplified_title": "Congress Report Says Officials Failed to Stop Epstein's Crimes",
+    "quick_summary": "A US congressional report concludes that federal failures let Jeffrey Epstein keep offending after 2005, as survivors describe how model agencies funnelled young women to him.",
+    "simplified_body": "The Republican-led US House Oversight Committee has released its final report into the \"decades-long\" mishandling of investigations into the late financier Jeffrey Epstein and his associate Ghislaine Maxwell. After a 15-month inquiry, it found that crimes committed after 2005 could have been prevented but for \"failures\" by investigators and prosecutors. In 2007 the US Attorney's Office (USAO) for Southern Florida struck a deal letting Epstein dodge federal prosecution rather than fully investigate allegations elsewhere.\n\nThe report also blamed \"institutional failures\" — staffing shortages, overworked staff, poor recordkeeping and lax security — for Epstein's 2019 death in a New York prison, while admitting testimony couldn't fully dispel theories around a gap in surveillance footage. It said the Department of Justice (DOJ) botched document releases, with weak redactions exposing survivors' personal details.\n\nSeparately, BBC Eye reporting shows how MC2 Model Management and other industry figures sent young women to Epstein even after his conviction. A survivor named Roza, 18 and newly arrived from Uzbekistan, says the agency sent her to photoshoots at Epstein's Florida home in 2009, where he went on to rape her. DOJ files show 10 MC2 models met or contacted Epstein after his conviction, and that he gave the agency $1m in 2005.\n\nWhat's next is contested. Democrats, who take control of Congress in January after the midterm elections, say the report is incomplete and accuse the DOJ of withholding over 2.5 million pages. The committee's review found nothing implicating President Donald Trump. A New York bill proposes giving police more power to pursue Epstein's alleged enablers.",
+    "why_it_matters": "It shows how wealth and powerful connections can bend a justice system meant to protect the vulnerable — a warning that resonates anywhere institutions are trusted to hold the rich to account, including Australia.",
+    "deep_analysis": "## Historical Context\n\nJeffrey Epstein was a wealthy financier whose abuse of young women spanned years. A pivotal moment came in 2007, when the US Attorney's Office in Southern Florida agreed to let him avoid federal prosecution — the deal the new report singles out as a turning point that allowed later crimes. Epstein was eventually arrested again in 2019 on sex trafficking charges and died in a New York prison while awaiting trial. His long-term associate Ghislaine Maxwell has also been central to the investigations. The congressional report caps a 15-month inquiry drawing on witness depositions, government files and financial records.\n\n## Multiple Perspectives\n\nThe Republican committee chairman, James Comer, frames Epstein as someone who \"operated with impunity,\" shielded by powerful connections and a failing justice system, and accuses Democrats of a \"witch hunt\" aimed at implicating President Trump. The committee says it found nothing implicating Trump, though his name appears thousands of times in the files — which the report stresses does not imply wrongdoing. The top Democrat, Robert Garcia, calls the report incomplete, citing zero public hearings and over 2.5 million withheld pages. Survivors like Roza and \"Simona\" say justice still feels absent, and lawyers and campaigners argue model agencies were active links in the abuse. Accused individuals — Fuller, Elkholy and Kates — deny knowing about or facilitating abuse.\n\n## What to Watch\n\nWatch whether the DOJ acts on the recommendation to re-interview witnesses and investigate associates. Democrats taking control of Congress in January could reopen or expand the inquiry. In New York, Senator Zellnor Myrie's proposed sex trafficking bill — which would hold enablers who \"knew or should have known\" accountable — is one to track, along with any response from the financial and model-industry figures named.",
     "concepts": [
      {
-      "term": "al-Ayyat",
-      "definition": "A district in Giza province, Egypt, roughly 50km south of Cairo, where the collision happened and where several earlier rail accidents have occurred.",
-      "context": "The crash occurred in the al-Ayyat district between two stations on a busy southbound line."
+      "term": "US Attorney's Office (USAO)",
+      "definition": "A federal prosecutor's office that brings criminal cases on behalf of the US government in a particular region.",
+      "context": "The report says the Southern Florida USAO cut a 2007 deal letting Epstein avoid federal prosecution."
      },
      {
-      "term": "Upper Egypt",
-      "definition": "The southern region of Egypt, upstream along the Nile, served by the rail corridor running from Cairo through cities like Aswan and Luxor.",
-      "context": "Trains between Giza and Upper Egypt were suspended while wreckage was cleared."
+      "term": "redactions",
+      "definition": "The blacking-out or removal of sensitive details from documents before they are made public.",
+      "context": "Weak redactions in released files exposed survivors' personal information."
      },
      {
-      "term": "Egyptian Red Crescent",
-      "definition": "Egypt's national humanitarian aid organisation, part of the global Red Cross and Red Crescent movement, which provides emergency relief.",
-      "context": "The Egyptian Red Crescent provided medical and psychological support to victims at the scene."
+      "term": "non-disclosure agreements",
+      "definition": "Legal contracts that bind people to secrecy about certain information or events.",
+      "context": "The panel said Epstein used these to silence survivors and urged a law against misusing them."
+     },
+     {
+      "term": "depositions",
+      "definition": "Formal, recorded out-of-court testimony given under oath for use in an investigation or trial.",
+      "context": "The report's findings rest partly on interviews and depositions with witnesses."
      }
     ],
     "quiz": {
-     "question": "What was the key circumstance of the collision, according to officials?",
+     "question": "According to the report, why could some of Epstein's post-2005 crimes have been prevented?",
      "options": [
-      "A moving train crashed into the rear of another train that was stationary on the same track",
-      "A fire broke out and spread between two parked trains",
-      "A freight train derailed and blocked a passenger service",
-      "Both trains were travelling at high speed in opposite directions"
+      "Witnesses refused to give any testimony",
+      "Federal investigators and prosecutors failed, and a 2007 deal let him avoid prosecution",
+      "Epstein had already been convicted and jailed for life",
+      "A new law blocked prosecutors from acting"
      ],
-     "answer_index": 0,
-     "explanation": "Officials said the Fayoum-bound train crashed into the rear of the Cairo-to-Aswan train, which an inspection indicated had been stationary on the same track."
+     "answer_index": 1,
+     "explanation": "The committee found that failures by investigators and prosecutors — including a 2007 agreement letting Epstein evade federal prosecution instead of fully investigating allegations — meant later crimes could have been prevented."
     },
-    "background_beginner": "Egypt has a large, heavily used passenger railway that links the capital, Cairo, with cities down the Nile in the south, such as Aswan and Luxor. Millions of people depend on it, but the network is old and has a long record of crashes blamed on poor maintenance and mismanagement. The worst was a 2002 fire that killed hundreds. On this occasion, two southbound trains collided near Giza when one ran into the back of another that had stopped on the track. The main players are Egypt's railway and transport authorities, President Abdel Fattah al-Sisi, and emergency services. It keeps coming up because serious rail accidents recur despite repeated promises to modernise the system.",
-    "impact_score": 58,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Two trains collided south of Cairo on Sunday, killing at least seven people and injuring more than 100, prompting a government investigation.",
+    "background_beginner": "Jeffrey Epstein was a rich American financier who sexually abused many young women over years. Despite early allegations, a 2007 deal let him avoid serious federal charges, and he kept offending. He was arrested again in 2019 on sex trafficking charges but died in prison before trial; his associate Ghislaine Maxwell was also prosecuted. Because he mixed with powerful, famous people, the case keeps returning to the news — people want to know who helped him and whether officials covered things up. Now a US congressional committee has published its findings on how authorities handled it, while survivors describe how model agencies were used to reach them.",
+    "impact_score": 72,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/0579/live/42e0a7e0-dd1f-11f1-8806-aded7f09be16.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "A US congressional report concludes that federal failures let Jeffrey Epstein keep offending after 2005, as survivors describe how model agencies funnelled young women to him.",
     "tier": "GLOBAL",
-    "category": "SOCIETY_CULTURE",
+    "category": "CRIME_SAFETY",
     "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo"
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o"
      },
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
     "related_story_ids": [],
     "reading_minutes": 2,
-    "created_at": "2026-11-09T01:25:15.147672+00:00",
-    "published_date": "2026-11-09",
+    "created_at": "2026-11-10T19:25:13.253019+00:00",
+    "published_date": "2026-11-11",
     "has_fulltext": true
-   }
-  ],
-  "AMERICAS": [
+   },
    {
     "id": "769c80e2-900c-53b9-ba61-c81793256345",
     "title": "Trump says immigration crackdown was 'too tough' and played part in midterms defeat",
@@ -1326,150 +1348,6 @@
     "reading_minutes": 2,
     "created_at": "2026-11-10T07:25:12.595276+00:00",
     "published_date": "2026-11-10",
-    "has_fulltext": true
-   },
-   {
-    "id": "ef6efe88-ef80-5bca-b508-7a3ceb4ead5c",
-    "title": "Top Democrat Hakeem Jeffries 'a hard yes' on impeaching Pete Hegseth",
-    "simplified_title": "Democrats line up to impeach Defence Secretary Pete Hegseth",
-    "quick_summary": "Top Democrat Hakeem Jeffries says he's \"a hard yes\" on impeaching US Defence Secretary Pete Hegseth, as his party prepares to take control of Congress in January.",
-    "simplified_body": "Hakeem Jeffries, the New York congressman tipped to become the next Speaker of the US House of Representatives, has declared himself \"a hard yes\" on impeaching Defence Secretary Pete Hegseth. He accuses Hegseth of abusing his power, undermining national security and engineering a \"reckless and costly war of choice in Iran\". Outgoing Republican congressman Thomas Massie plans to introduce a resolution with eight articles of impeachment, alleging Hegseth made war on Iran without the congressional approval required under the War Powers Resolution of 1973.\n\nThis matters for the roughly 1.3 million-strong US military Hegseth oversees, and for a Trump administration reeling from last week's midterm elections, which handed Democrats control of both chambers of Congress from January. President Donald Trump is defending Hegseth, calling the push \"very unfair\", while the Pentagon says it followed the law and won't be deterred by \"phony investigations\". Hegseth himself dismissed the effort as \"political theatre disguised as power\".\n\nImpeachment is a two-step process: the House votes by simple majority to charge an official with misconduct, then the Senate decides whether to remove them — but that needs a two-thirds vote. Democrats hold a 254-seat House majority, well past the 218 needed to impeach, yet fall far short of the Senate threshold, so removal would need Republican support. The House has only ever impeached two cabinet officials, and neither was convicted.\n\nWhat happens next is uncertain. Some analysts suggest Trump might fire Hegseth for a dramatic \"ratings bump\", or that Hegseth could resign before January. Democrats also plan broader probes into figures like new chief of staff Stephen Miller and DOGE. The White House is pushing back, with Trump urging investigations into Democrats instead.",
-    "why_it_matters": "A sitting US Defence Secretary facing impeachment over an unpopular war with Iran signals deep turmoil at the top of America's military — and instability in Washington ripples through to allies like Australia who rely on US defence partnerships.",
-    "deep_analysis": "## Historical Context\n\nImpeachment of cabinet officials is extraordinarily rare in the United States. The sources note the House has only ever impeached two cabinet officials, and neither was convicted by the required two-thirds Senate majority. The current push centres on the War Powers Resolution of 1973, a law meant to limit a president's — or in this case, a defence secretary's — ability to commit US forces to combat without congressional authorisation. Massie's resolution alleges Hegseth made war on Iran without that approval.\n\nHegseth's path to office was itself contested. The Senate confirmed him 51 votes to 50, with Vice-President JD Vance casting the tie-breaker — one of the narrowest margins possible, reflecting unease on both sides of the aisle about a former soldier and Fox News presenter running the world's largest military.\n\n## Multiple Perspectives\n\nDemocrats, led by Jeffries, frame this as accountability for abuse of power and an unpopular war. Colorado's Jason Crow calls Hegseth \"incompetent and corrupt\". Outgoing Republican Massie, a critic of both Trump and Hegseth, adds a rare cross-party dimension, citing strikes on Iran and Yemen, boat attacks in the Caribbean, and a political investigation.\n\nTrump and the Pentagon reject it all as \"political theatre\" and \"phony investigations\". Attorney General Todd Blanche warns Democrats could themselves face investigation over \"threatening\" rhetoric, and Trump has called for probes into Democratic donors. Analysts offer a third reading: Cornell's Tom Pepinsky suggests Trump might fire Hegseth for a \"ratings bump\", while Harvard's Stephen Ansolabehere wouldn't be surprised if Hegseth resigned first.\n\n## What to Watch\n\nWhether Massie actually introduces the resolution (flagged for as early as Monday), whether Trump moves against Hegseth before Republicans lose their Senate majority, and whether Democrats pivot to broader probes of Stephen Miller, Elon Musk and DOGE once sworn in on January 3.",
-    "concepts": [
-     {
-      "term": "impeachment",
-      "definition": "A rare process where the House of Representatives can vote to charge an official with misconduct, and the Senate can then vote to remove them from office.",
-      "context": "House Democrats are pushing to impeach Hegseth, but removal requires a two-thirds Senate vote they can't reach alone."
-     },
-     {
-      "term": "War Powers Resolution of 1973",
-      "definition": "A US law requiring congressional authorisation before committing American forces to armed conflict.",
-      "context": "Massie's resolution alleges Hegseth made war on Iran without this required approval."
-     },
-     {
-      "term": "articles of impeachment",
-      "definition": "The formal written charges of misconduct that the House votes on when seeking to impeach an official.",
-      "context": "Massie's resolution contains eight articles of impeachment against Hegseth."
-     },
-     {
-      "term": "DOGE",
-      "definition": "The Department of Government Efficiency, a federal initiative that cut large numbers of government jobs and sought access to sensitive data.",
-      "context": "Democrats signalled interest in questioning Elon Musk over his leadership of DOGE."
-     }
-    ],
-    "quiz": {
-     "question": "Why can't House Democrats remove Pete Hegseth from office on their own?",
-     "options": [
-      "They don't have the 218 votes needed to impeach him in the House",
-      "Only the President can remove a cabinet official",
-      "The Supreme Court must approve any impeachment first",
-      "Removal requires a two-thirds Senate vote, which needs Republican support"
-     ],
-     "answer_index": 3,
-     "explanation": "Democrats have a 254-seat House majority, easily past the 218 needed to impeach. But conviction and removal require a two-thirds Senate vote — a bar they can't clear without Republicans crossing over."
-    },
-    "background_beginner": "Pete Hegseth is the US Secretary of Defence — the civilian in charge of America's military — appointed by President Donald Trump. A former soldier and Fox News presenter, he was a controversial pick, scraping through his Senate confirmation by a single tie-breaking vote. His biggest flashpoint is US military action against Iran, a war many Americans dislike. After Trump's Republicans lost badly in the November midterm elections, Democrats are set to control Congress from January. Both Democrats and some Republicans, like Thomas Massie, now want to impeach Hegseth — formally charge him with misconduct — arguing he overstepped his powers. The fight keeps flaring because Washington is sharply divided and both sides are threatening investigations of each other.",
-    "impact_score": 68,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c025/live/b24c5e80-dbbc-11f1-b441-2b33b063138f.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "Top Democrat Hakeem Jeffries says he's \"a hard yes\" on impeaching US Defence Secretary Pete Hegseth, as his party prepares to take control of Congress in January.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-09/donald-trump-revamping-team-and-pete-hegeth-could-be-next/107358974"
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-09T07:25:43.787708+00:00",
-    "published_date": "2026-11-09",
-    "has_fulltext": true
-   },
-   {
-    "id": "8f52884d-e0ba-5ead-8f77-5300da669fd5",
-    "title": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
-    "simplified_title": "Pope Leo rebukes Milei's austerity on landmark Argentina visit",
-    "quick_summary": "Pope Leo XIV used the first papal visit to Argentina in nearly 40 years to publicly criticise President Javier Milei's harsh spending cuts, insisting the economy must serve people.",
-    "simplified_body": "Pope Leo XIV landed in Buenos Aires on Sunday and almost immediately took aim at President Javier Milei's austerity program (deep cuts to government spending). \"The economy must be at the service of the people, rather than people being at the service of the economy,\" he said, to rapturous applause. He defended the poor, pensioners and people affected by illness and disability — a veiled dig at the government's controversial cuts to disability assistance — and told Milei that strengthening democracy needs a \"willingness to listen\".\n\nThis matters most to ordinary Argentines doing it tough. The poverty rate climbed to 32.3 percent in September, and the thinktank Mate estimates retirees on the minimum pension have lost about 30 percent of their purchasing power. A home for roughly 400 disabled residents near Buenos Aires says the government stopped supplying medications and essentials a year ago.\n\nSome background: Argentina was home to the late Pope Francis, who Milei — a self-described libertarian who campaigned waving a chainsaw — once called an \"imbecile\" for his pro-poor teachings. This is the first visit by a pope since John Paul II in 1987; Francis never returned during his papacy. Leo, 71, is on a 12-day Latin America tour just three weeks after lung cancer surgery, and says he is \"retracing\" Francis's steps.\n\nOver three days Leo will visit a disabled home, a prison, and hold three open-air masses, with 7 million people expected to attend. Milei's ministers insist the pope won't comment on local politics — but his itinerary, including a protest-hit state aircraft factory, suggests otherwise.",
-    "why_it_matters": "When the leader of the world's 1.4 billion Catholics directly challenges a Trump-aligned leader's economic agenda, it's a flashpoint watched well beyond Argentina — including in Australia, where debates about welfare, pensions and the \"deserving\" use of public money are never far from the surface.",
-    "deep_analysis": "## Historical Context\n\nThis is the first papal visit to Argentina since Pope John Paul II in 1987 — nearly four decades. The gap is especially pointed because the previous pope, Francis, was Argentine yet never once returned home during his papacy, leaving many of the faithful disappointed. Francis built his reputation on pro-poor \"social justice\" teaching, which put him squarely at odds with Milei, who branded him an \"imbecile\" and worse. Pope Leo, who spent nearly two decades as a missionary on the continent, is explicitly framing this trip as \"retracing\" Francis's steps and upholding the Church's social doctrine.\n\nThe backdrop is also one of religious change. Catholic identification in Argentina has fallen to 57.7 percent (from around 90 percent in the 1960s), while evangelical churches are rising — a shift Milei has courted, recently inaugurating an evangelical temple.\n\n## Multiple Perspectives\n\nThe clash is partly ideological. Critics, including a disabled home's coordinator, cast Milei as a \"hyper-capitalist\" who values people by their productivity, against a pope who insists worth isn't measured by output. Milei's government downplays any tension, with one minister saying \"there's no way the pope is going to come here to comment on local politics.\"\n\nBut Milei retains a loyal base precisely because he dramatically reduced the runaway inflation he was elected to tame. His defenders frame the cuts to hospitals, universities and pensions as painful but necessary. The local Catholic bishops, Amnesty International and retiree marchers see it differently, denouncing treatment of social services as a mere \"budgetary constraint\". There's even a forward-looking fault line over artificial intelligence, which Leo wants \"disarmed\" and Milei wants deregulated.\n\n## What to Watch\n\nWatch the masses and the stops — especially the FAdeA state aircraft factory in Córdoba, where workers have protested Milei's cuts. How pointedly Leo speaks there, and how Milei responds given his cordial-so-far tone, will signal whether this stays diplomatic or becomes an open showdown over Argentina's direction and next year's re-election bid.",
-    "concepts": [
-     {
-      "term": "austerity",
-      "definition": "A government policy of sharply cutting public spending — on things like pensions, hospitals and welfare — usually to reduce debt or inflation.",
-      "context": "Milei's austerity program is the central target of Pope Leo's criticism."
-     },
-     {
-      "term": "pensioners",
-      "definition": "Retired people who live on a pension, often a fixed government payment that can lose value when prices rise.",
-      "context": "Leo defended pensioners, who Mate estimates have lost about 30% of their purchasing power."
-     },
-     {
-      "term": "libertarian",
-      "definition": "Someone who believes government should be as small as possible, leaving most decisions to free markets and individuals.",
-      "context": "Milei describes himself as a libertarian and campaigned waving a chainsaw to symbolise spending cuts."
-     },
-     {
-      "term": "poverty rate",
-      "definition": "The share of a population living below a set income level considered necessary for basic needs.",
-      "context": "Argentina's poverty rate climbed to 32.3 percent in September under Milei."
-     }
-    ],
-    "quiz": {
-     "question": "Why was Pope Leo's criticism of Milei's austerity seen as especially significant?",
-     "options": [
-      "Argentina was the home country of the late Pope Francis, whom Milei had insulted, and this was the first papal visit in nearly 40 years",
-      "Milei had publicly asked the Pope to endorse his cuts",
-      "The Pope ordered Milei to resign during the speech",
-      "The Catholic Church controls Argentina's budget"
-     ],
-     "answer_index": 0,
-     "explanation": "The visit carried extra weight because Argentina was Francis's homeland — a pope Milei had called an 'imbecile' — and no pontiff had visited since John Paul II in 1987, making Leo's defence of the poor pointed rather than routine."
-    },
-    "background_beginner": "Argentina is a largely Catholic South American country that, until recently, was known as the homeland of Pope Francis — the first Latin American pope. In late 2023 it elected Javier Milei, a self-described libertarian economist who promised to crush sky-high inflation by slashing government spending on pensions, hospitals, universities and disability support. Those cuts have been painful, pushing poverty up and angering many. Milei, an ally of Donald Trump, had a frosty history with Francis, even calling him names. Now a new pope, Leo XIV — who worked for decades as a missionary in the region — is touring the continent and defending the poor, reviving a long-running tension between the Church's social teaching and Milei's free-market agenda.",
-    "impact_score": 62,
-    "image_url": "https://s.france24.com/media/display/39bb378c-dbaf-11f1-8a96-1beafce15fea/w:1280/p:16x9/2026-11-08T200018Z-1909450093-RC2WJOAQHQ73-RTRMADP-3-POPE-LATAM-ARGENTINA.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "Pope Leo XIV used the first papal visit to Argentina in nearly 40 years to publicly criticise President Javier Milei's harsh spending cuts, insisting the economy must serve people.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "763c786a-9312-5696-963a-a7efb2a73b33"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-09T07:25:52.037142+00:00",
-    "published_date": "2026-11-09",
     "has_fulltext": true
    }
   ],
@@ -1615,73 +1493,6 @@
     "has_fulltext": true
    },
    {
-    "id": "906ddd44-31c5-51c5-ac78-4f03a66323c7",
-    "title": "Asian stocks steady as AI, Middle East jitters recede",
-    "simplified_title": "Asian markets bounce back after brutal AI sell-off week",
-    "quick_summary": "Asian share markets steadied on Monday after a wild week in which fears about artificial intelligence (AI) demand and US election results triggered some of their steepest falls in years.",
-    "simplified_body": "Share markets across Asia clawed back ground on Monday 9 November, after a rough week. Japan's Nikkei index, Taiwan's benchmark and South Korean shares all rose, and futures for the United States (US) S&P 500 pointed slightly higher. The two sources differ on the exact size of Monday's gains — for example, CNA puts Japan's Nikkei up 2.5 per cent while Al Jazeera says 3.45 per cent — but both agree the direction was up.\n\nThe rebound follows a savage few days. Doubts about demand for computer chips and the profitability of AI sent tech-heavy Asian markets tumbling, with Taiwan posting its heaviest weekly drop in two decades. The slide deepened after the Democratic Party's wins in the US midterm (mid-term congressional) elections sparked worries that Democrat-controlled legislatures could tighten regulation of AI and the data centres that power it. Al Jazeera reports a US$2.5 trillion sell-off on Wall Street on the Thursday.\n\nFor newcomers: huge sums have been poured into AI, so investors are nervous about whether the massive build-out will pay off. This week's earnings reports from tech firms including CoreWeave, Applied Materials and Cisco Systems will test that. Adding to the jitters, chipmaker Nvidia is investigating chief executive officer (CEO) Jensen Huang over a relationship with a woman accused of being a Chinese spy — though its board says it has no reason to believe secrets were compromised.\n\nWhat's next? A strong US jobs report (165,000 jobs added) has pushed market bets towards the US Federal Reserve (the central bank) raising interest rates in December, with a US consumer price index (CPI) reading due Tuesday. Analysts warn markets are \"far from being out of the woods yet\". Bitcoin and ether also fell on fears of tougher crypto rules.",
-    "why_it_matters": "The AI trade now drives a big chunk of global sharemarket value, so wild swings in Asia's tech-heavy exchanges — Australia's regional neighbours — ripple through super funds and markets worldwide.",
-    "deep_analysis": "## Historical Context\n\nMarkets have ridden an enormous wave of enthusiasm for artificial intelligence, with investors betting that spending on chips and data centres would translate into profits. That optimism has been fragile lately: the sources note the AI trade had already been \"crumbling in the face of rising interest rates\" before the latest shock. When doubts about chip demand collided with US political change, the result was a sharp, fast reversal — Taiwan's market suffered its heaviest weekly fall in two decades, a sign of just how concentrated the gains had become.\n\n## Multiple Perspectives\n\nThe two reports broadly agree on the story but differ on the figures, which is worth flagging. On Monday's rebound, CNA has Japan's Nikkei up 2.5 per cent and Taiwan around 2.5 per cent, while Al Jazeera reports 3.45 per cent and 5.72 per cent respectively, plus a modest Hang Seng gain. On the prior rout, Al Jazeera cites a US$2.5 trillion Wall Street sell-off and roughly 6 and 9 per cent plunges for Japan and South Korea; CNA frames it through a 4.6 per cent weekly slide in the broad MSCI Asia-Pacific index. Analyst Kyle Rodda strikes a cautious note, saying momentum \"remains skewed to the downside\" amid regulatory risk and an underwhelming earnings season.\n\n## What to Watch\n\nThree things. First, earnings from CoreWeave, Applied Materials and Cisco Systems, which will test whether AI ambitions can actually turn a profit. Second, US rates: a blowout jobs report lifted bets on a December hike to nearly 80 per cent, and Tuesday's CPI reading could cement that. Third, the Nvidia inquiry into CEO Jensen Huang — a potential source of further volatility for a company at the centre of the AI boom.",
-    "concepts": [
-     {
-      "term": "data centres",
-      "definition": "Large facilities full of computers and servers that store data and run heavy workloads — including the AI systems investors are worried about.",
-      "context": "Fears that Democrat-controlled legislatures might regulate AI and data centres more tightly helped trigger the sell-off."
-     },
-     {
-      "term": "interest rates",
-      "definition": "The cost of borrowing money, set largely by a central bank; higher rates tend to make risky assets like tech shares less attractive.",
-      "context": "The AI trade had been weakening partly due to rising interest rates, and strong jobs data has markets betting the US Federal Reserve will lift rates again in December."
-     },
-     {
-      "term": "consumer price index (CPI)",
-      "definition": "A measure of how much prices for everyday goods and services are rising — a key gauge of inflation.",
-      "context": "A US CPI reading due Tuesday could further cement expectations of a December rate hike."
-     },
-     {
-      "term": "futures",
-      "definition": "Financial contracts that let investors bet on where a market index will be in the future, often used as an early signal of how shares might open.",
-      "context": "Futures for the US S&P 500 pointed slightly higher, hinting Wall Street's calm might continue."
-     }
-    ],
-    "quiz": {
-     "question": "What combination of events triggered last week's sharp falls in Asian tech markets?",
-     "options": [
-      "A collapse in the US dollar and a crypto crash",
-      "Doubts about AI and chip demand, worsened by US midterm election results raising regulatory fears",
-      "A surprise cut to US interest rates and falling oil prices",
-      "A natural disaster disrupting chip factories in Taiwan"
-     ],
-     "answer_index": 1,
-     "explanation": "The sources say fears about AI profitability and chip demand turned into a rout after the Democratic Party's midterm wins sparked worries about tougher regulation of AI and data centres."
-    },
-    "background_beginner": "Over the past few years, companies and investors have poured enormous amounts of money into artificial intelligence (AI) — the technology behind chatbots and smart tools — and into the powerful computer chips and data centres that run it. Chipmakers like Nvidia and manufacturers in Taiwan, Japan and South Korea became some of the most valuable businesses on Earth. But because so much depends on AI paying off, markets get jumpy whenever doubts surface about demand or profits. Mix in big political events, like US elections that could change how AI is regulated, and you get sharp swings. This tug-of-war between AI hype and AI doubt keeps resurfacing, which is why these market moves make headlines.",
-    "impact_score": 72,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--0edFGJN_--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-09T014728Z_2_LYNXNPEMA8058_RTROPTP_3_JAPAN-YEN.JPG?itok=8zwBUG_v",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "Asian share markets steadied on Monday after a wild week in which fears about artificial intelligence (AI) demand and US election results triggered some of their steepest falls in years.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/business/asian-stocks-steady-ai-middle-east-jitters-recede-6535041"
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-09T07:25:55.550214+00:00",
-    "published_date": "2026-11-09",
-    "has_fulltext": true
-   },
-   {
     "id": "fe50c437-7c3a-5d71-a63b-a4cdb5c925e7",
     "title": "China extends suspension of new rare earth controls until January",
     "simplified_title": "China Delays New Rare Earth Export Controls Until January",
@@ -1744,69 +1555,6 @@
     "reading_minutes": 1,
     "created_at": "2026-11-09T19:26:19.211827+00:00",
     "published_date": "2026-11-10",
-    "has_fulltext": true
-   },
-   {
-    "id": "d10abd45-21f6-50df-bea0-c079aa00fb70",
-    "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
-    "simplified_title": "JLR Raids BYD Offices Over Alleged Defender Copycat SUV",
-    "quick_summary": "Jaguar Land Rover sent bailiffs to raid Chinese rival BYD's Dutch offices ahead of a court case over claims its Ti7 SUV copies the Land Rover Defender.",
-    "simplified_body": "Bailiffs acting for Jaguar Land Rover (JLR) raided the Dutch offices of Chinese carmaker BYD in Schiedam and Hoofddorp back in August, reportedly seizing digital records. According to the Sunday Times, JLR suspected BYD had reverse-engineered some of its technology and wanted to lock down the evidence before it could be destroyed. A court in The Hague is set to decide this week whether BYD has a case to answer over claims its Ti7 SUV infringes the intellectual property (IP) of the Land Rover Defender.\n\nThis matters for anyone watching the car market. The Ti7 is a seven-seat plug-in hybrid SUV that experts and Top Gear magazine have nicknamed the \"Chinese Defender clone\" since it launched in China last September. BYD plans to sell it in the UK from January at £47,995 — more than £20,000 cheaper than a Defender 110, which starts at £68,465. For a bestselling British car, that's a serious undercut.\n\nJLR is UK-based but owned by India's Tata Motors. This isn't its first copycat fight: it beat Jiangling Motor Corporation in court in 2019 after a three-year battle. Interestingly, JLR hasn't always taken the hard line — it formed a joint venture with Chery in 2012. Chery's separate Jaecoo model, dubbed the \"Temu Range Rover\", was actually the UK's bestselling car in October.\n\nBoth JLR and BYD declined to comment on the ongoing proceedings. The Hague ruling will shape whether BYD's cut-price SUV can roll into the UK as planned.",
-    "why_it_matters": "Cheap, capable Chinese SUVs like BYD's are reshaping global car markets — including Australia, where BYD is a fast-growing brand — and this case tests how far established makers can go to protect their designs.",
-    "deep_analysis": "## Historical Context\n\nLegal fights over \"copycat\" cars are nothing new, and JLR has been one of the more aggressive players. The article notes it won a three-year court battle against Jiangling Motor Corporation in 2019 to stop a copycat vehicle being sold. What's changed is the scale and speed of China's carmakers. BYD, once little known in the West, is now a serious global exporter of electric and plug-in hybrid vehicles, and it's pushing into Europe and the UK with sharply priced models. The Defender itself is a bestseller — JLR sold 29,500 to retail customers between July and September, up from 25,370 a year earlier — so there's a lot at stake commercially.\n\n## Multiple Perspectives\n\nJLR frames this as protecting its intellectual property, suspecting BYD reverse-engineered technology for the Ti7, and it moved fast with bailiffs to secure digital records before they could be destroyed. BYD, for its part, markets the Ti7's \"unapologetically boxy profile\" as a deliberate design choice that buyers love — not a copy. There's also a more complicated middle ground: JLR hasn't always litigated. It formed a joint venture with Chery in 2012 and even licensed its discontinued Freelander brand. Yet Chery's Jaecoo — the \"Temu Range Rover\" — still looks a lot like a JLR car and outsold everything in the UK in October, suggesting collaboration and imitation can blur.\n\n## What to Watch\n\nThe immediate thing to watch is The Hague ruling on whether BYD has a case to answer. If it goes against BYD, its planned January UK launch at £47,995 could stall. Also worth tracking: whether more established makers follow JLR's lead with similar IP claims, and how much the price gap — over £20,000 cheaper than a Defender — keeps pulling buyers toward Chinese brands regardless of the legal cloud.",
-    "concepts": [
-     {
-      "term": "intellectual property (IP)",
-      "definition": "Legal rights over creations like designs, inventions and branding, which stop others from copying them without permission.",
-      "context": "JLR claims BYD's Ti7 infringes the IP of the Land Rover Defender's design and technology."
-     },
-     {
-      "term": "reverse-engineered",
-      "definition": "Taking apart a finished product to work out how it was made or how its technology functions, so you can replicate it.",
-      "context": "JLR suspects BYD reverse-engineered some of its technology for use in the Ti7."
-     },
-     {
-      "term": "plug-in hybrid",
-      "definition": "A vehicle with both a petrol engine and a rechargeable battery that can be plugged in and run on electricity for a limited range.",
-      "context": "The BYD Ti7 is a seven-seat plug-in hybrid SUV."
-     },
-     {
-      "term": "joint venture",
-      "definition": "A business arrangement where two companies team up to work on a project while staying separate firms.",
-      "context": "JLR formed a joint venture with Chery in 2012, showing it hasn't always taken rivals to court."
-     }
-    ],
-    "quiz": {
-     "question": "Why did JLR move quickly to have bailiffs seize BYD's digital records?",
-     "options": [
-      "To secure potential evidence before it could be destroyed",
-      "To force BYD to lower the Ti7's price in the UK",
-      "To block BYD from selling any cars in the Netherlands",
-      "To take over BYD's Dutch offices permanently"
-     ],
-     "answer_index": 0,
-     "explanation": "The article says JLR wanted to secure the digital records before they could be destroyed, as it suspected BYD had reverse-engineered its technology."
-    },
-    "background_beginner": "Jaguar Land Rover (JLR) is a British carmaker, owned by India's Tata Motors, behind famous models like the Land Rover Defender and Range Rover. BYD is a huge Chinese company that builds electric and hybrid cars and is expanding fast around the world. The row started because BYD's new Ti7 SUV looks a lot like the boxy Defender, and some experts have called it a \"Chinese Defender clone\". JLR believes BYD may have copied its designs or technology, so it's taking the fight to court. These disputes keep cropping up because cheaper Chinese cars are undercutting established brands and winning buyers.",
-    "impact_score": 58,
-    "image_url": "https://i.guim.co.uk/img/media/df3641cd7932ef0f9d4ed70becb2641c5d68b0eb/334_0_1666_1333/master/1666.jpg?width=1920&quality=85&auto=format&fit=max&s=85b1cf36146d603b060c164b8a2c5b0b",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "Jaguar Land Rover sent bailiffs to raid Chinese rival BYD's Dutch offices ahead of a court case over claims its Ti7 SUV copies the Land Rover Defender.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-09T07:26:10.228713+00:00",
-    "published_date": "2026-11-09",
     "has_fulltext": true
    }
   ],
@@ -2001,78 +1749,154 @@
   ],
   "AI_TECH": [
    {
-    "id": "58601233-8eab-5958-9bc7-31547e599829",
-    "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-    "simplified_title": "Nvidia probes CEO's affair with suspected Chinese spy",
-    "quick_summary": "Nvidia has launched an independent investigation after reports its CEO Jensen Huang had a relationship with a woman US officials suspect was a Chinese spy, and he has admitted to staff he was unfaithful to his wife.",
-    "simplified_body": "Nvidia, the chip-maker at the heart of the artificial intelligence (AI) boom, says its board has started an independent investigation after news reports that its founder and chief executive officer (CEO), Jensen Huang, had been \"the target of a foreign intelligence effort\". The New York Times reported that United States (US) intelligence officials believe Alice Huang — a businesswoman of no relation to Jensen — was acting as a spy for Beijing. Separately, Jensen Huang told staff in a memo: \"I was unfaithful to my wife... There is no excuse for what I did.\" He says he'll cooperate fully with the review and keep leading the company.\n\nThis matters because Nvidia designs the chips that power AI systems for the likes of OpenAI and Meta, making it one of the most valuable companies on Earth and a key piece of the US-China technology rivalry. Three House of Representatives Republican committee leaders have asked Huang to brief Congress on Nvidia's \"security protocols against foreign adversary espionage\".\n\nFor background: Alice Huang, also known as Huang Le, is linked to Singapore-based data centre firm Megaspeed, which US authorities suspect of helping China get around export bans on advanced chips. Officials reportedly monitored her, then identified Jensen through \"unmasking\". China has called the espionage claims \"groundless speculation\". President Donald Trump played it down, calling Huang \"an honourable guy\".\n\nWhat's next? The board says it has no reason to believe secrets or national security were compromised, but will examine all available information. Sources disagree on Nvidia's exact value — figures given range from about US$4.5 trillion to US$5.4 trillion — and the shares wobbled amid a wider tech sell-off.",
-    "why_it_matters": "Nvidia's chips underpin the global AI race, so any security cloud over its boss ripples through markets and governments worldwide — including Australian super funds and tech firms exposed to the same AI-driven stocks.",
-    "deep_analysis": "## Historical Context\n\nNvidia began making graphics chips for gaming, but Jensen Huang's early bet that those chips could power artificial intelligence transformed the company into a trillion-dollar giant central to the AI boom. For years, Washington has restricted which advanced Nvidia processors can be sold to China, viewing cutting-edge chips as a national-security asset. That tension — between a hugely profitable company wanting to sell globally and a government wanting to limit China's access — is the backdrop to this story. Huang himself has lobbied the White House to ease export limits, arguing restrictions only push Beijing to build its own technology faster.\n\n## Multiple Perspectives\n\nThe responses split sharply. Nvidia's board stresses it has \"no reason to believe\" secrets or national security were compromised, and expresses confidence in Huang's leadership. Trump has repeatedly downplayed it, calling Huang \"honourable\" and suggesting \"he probably has an excuse\". Republican lawmakers are more alarmed, demanding a closed-door briefing on espionage protocols. China rejects the spying claims outright as \"groundless speculation\". Alice Huang did not respond to requests for comment, and Megaspeed says it takes the allegations seriously and has hired external legal advisers.\n\n## What to Watch\n\nWatch the independent investigation's findings and whether Huang does appear before Congress. Reporting notes a memo attributed to Secretary of State Marco Rubio circulated last spring, yet Huang was still invited to Trump's China delegation and a state dinner for Xi Jinping — so the politics of how the administration handled the intelligence will be scrutinised. Also watch Nvidia's share price and export-control policy, given the recent tech sell-off.",
+    "id": "9c0637c4-f196-5a71-874a-bf36100d732e",
+    "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+    "simplified_title": "Anthropic chases $1.4tn valuation in giant AI float",
+    "quick_summary": "Claude-maker Anthropic is heading to the stock market at a valuation of up to around $1.4tn, below the $2tn once expected as investors grow nervous about the AI boom.",
+    "simplified_body": "Anthropic, the company behind the Claude chatbot, has filed to list its shares on New York's Nasdaq exchange. It plans to sell 825 million shares at $70–$78 each in an initial public offering (IPO, the first time a company sells shares to the public), raising up to roughly $64bn. A further $26bn is coming from a separate private placement (a sale of shares to chosen big investors rather than the open market), with backers including Google, Nvidia, Microsoft and AMD. Trading is expected to start on 19 November under the symbol ANT.\n\nThis matters because Anthropic would be the first fully AI-focused company to go public, making it a test of how much faith investors still have in artificial intelligence (AI). The headline figure has shrunk: sources put the valuation at $1.3tn (BBC) to $1.4tn (Guardian and Al Jazeera), down from the $2tn some predicted in mid-2025.\n\nAnthropic is just five years old, co-founded in 2021 by siblings Dario and Daniela Amodei and five others, all formerly of rival OpenAI. Revenue is growing fast — now running at about $81bn a year — but the company is heavily loss-making and has committed enormous sums to computing power (\"compute\") from partners like Amazon and Google.\n\nWhat's next is a jittery debut. The Nasdaq fell sharply after US midterm elections handed Democrats control of Congress, raising the prospect of tighter AI rules and limits on data centres. Analysts are split on whether that sell-off was an overreaction or the start of a real reckoning over whether AI spending will ever pay off.",
+    "why_it_matters": "Anthropic's float is a litmus test for the entire AI boom that has driven global tech markets — including the tech-heavy funds many Australian super balances are exposed to — so a wobble here ripples well beyond Wall Street.",
+    "deep_analysis": "## Historical Context\n\nAnthropic was co-founded in 2021 by a group who left OpenAI, the company behind ChatGPT, and it has grown at a startling pace for a five-year-old firm. Its move to list was announced in June 2025, with OpenAI signalling it would follow. For comparison, the largest stock market listing to date is Elon Musk's SpaceX, which joined the market valued at nearly $1.8tn and raised $75bn — a figure Anthropic's roughly $100bn total raise (including a \"greenshoe\" over-allotment option) could exceed even at a smaller overall valuation.\n\n## Multiple Perspectives\n\nThe bullish view, voiced by analyst Fiona Cincotta, is that raising up to $64bn amid real volatility shows confidence that AI demand will hold up. The sceptical view centres on money: Anthropic reported a pre-tax loss of $80.7bn for the six months to June (BBC), yet has made compute commitments ranging from more than $70bn over the next year to, by Al Jazeera's tally, almost $900bn with partners. Chief executive Dario Amodei has himself warned that revenue must keep pace with compute spending or bankruptcy looms. Goldman Sachs, co-leading the float, forecasts $600bn in annual revenue by 2030. Sources also differ on the top-line valuation — $1.3tn versus $1.4tn — and the company has openly told investors advanced AI could pose \"catastrophic or existential risks to humanity\".\n\n## What to Watch\n\nWatch the 19 November debut and whether shares price at the top of the range. Watch the political backdrop: a Democrat-led Congress could tighten AI regulation and restrict data centre construction. And watch Nvidia, a cornerstone AI investor caught up in an alleged Chinese spying scandal, whose share moves have already rattled the sector.",
     "concepts": [
      {
-      "term": "foreign intelligence effort",
-      "definition": "An attempt by one country's spy services to gather secret or valuable information from another country, often through recruited individuals.",
-      "context": "Nvidia's board launched its investigation specifically because reports said Huang had been the target of such an effort."
+      "term": "IPO",
+      "definition": "Initial public offering — the first time a private company sells its shares to the general public on a stock exchange, raising money and letting outside investors buy in.",
+      "context": "Anthropic is raising up to about $64bn through its IPO on the Nasdaq exchange."
      },
      {
-      "term": "unmasking",
-      "definition": "A process where the hidden identity of a person caught up in surveillance is officially revealed to investigators.",
-      "context": "US officials reportedly used unmasking to confirm the American communicating with Alice Huang was Jensen Huang."
+      "term": "private placement",
+      "definition": "A sale of shares to a hand-picked group of large investors rather than to the open public market.",
+      "context": "A further $26bn is coming from a private placement backed by Google, Nvidia, Microsoft and AMD."
      },
      {
-      "term": "export controls",
-      "definition": "Government rules that limit or ban selling certain products, like advanced chips, to specific countries.",
-      "context": "Washington's export controls bar Nvidia from selling its top-tier chips to China over security fears."
+      "term": "greenshoe",
+      "definition": "An option that lets a company sell extra shares beyond the planned amount if demand is strong, boosting the total raised.",
+      "context": "A greenshoe over-allotment option could push Anthropic's total raise toward $100bn."
      },
      {
-      "term": "data centre",
-      "definition": "A large facility full of computers that store and process data, increasingly used to run AI systems.",
-      "context": "Alice Huang is linked to Megaspeed, a Singapore-based data centre firm that buys Nvidia chips."
+      "term": "compute",
+      "definition": "Shorthand for computing power — the vast data-centre processing capacity needed to build and run AI systems.",
+      "context": "The company has committed enormous sums to compute from partners like Amazon and Google."
      }
     ],
     "quiz": {
-     "question": "Why does this story carry weight beyond a personal scandal?",
+     "question": "Why has Anthropic's targeted valuation come in below the $2tn some once expected?",
      "options": [
-      "Nvidia is a small start-up seeking its first investors",
-      "Jensen Huang personally runs China's intelligence service",
-      "The investigation has already proven secrets were stolen",
-      "Nvidia makes the chips that power global AI and sits at the centre of US-China technology rivalry"
+      "Because Claude lost most of its users",
+      "Because the company decided to stay private instead",
+      "Because regulators banned the listing",
+      "Because investors have grown nervous about whether huge AI spending will pay off, worsened by a post-election market sell-off"
      ],
      "answer_index": 3,
-     "explanation": "Nvidia's chips underpin AI development worldwide and are a flashpoint in US-China tech competition, so questions about its CEO's security carry national and economic stakes. The board says it has no reason to believe secrets were compromised, and no wrongdoing has been proven."
+     "explanation": "Sources agree the lower $1.3tn–$1.4tn figure reflects investor jitters over the AI boom's financial sustainability, sharpened by the Nasdaq's drop after the US midterm elections."
     },
-    "background_beginner": "Nvidia is a US company that designs computer chips, and over the past few years its chips became the essential hardware for artificial intelligence — the technology behind tools like ChatGPT. That turned Nvidia into one of the world's most valuable companies, run by its long-time founder and CEO, Jensen Huang. Because advanced AI chips are so powerful, the US government controls which ones can be sold to China, making Nvidia a pawn in a bigger US-China tech contest. This keeps coming up because every move Nvidia makes — and now reports that Huang had a relationship with a woman suspected of spying for China — touches on money, politics and national security all at once.",
-    "impact_score": 72,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
+    "background_beginner": "Anthropic is a US artificial intelligence company that makes a chatbot called Claude, a rival to OpenAI's ChatGPT. It was started in 2021 by a group of former OpenAI staff, including siblings Dario and Daniela Amodei. AI companies have poured huge amounts of money into \"data centres\" — warehouses of powerful computers — betting that demand for AI will keep soaring. Anthropic is now \"floating\", meaning selling shares to the public for the first time so anyone can invest. It keeps making headlines because its value is enormous, it's still losing money, and its listing is seen as a key test of whether the whole AI boom is built on solid ground or hype.",
+    "impact_score": 78,
+    "image_url": "https://i.guim.co.uk/img/media/7595bf7c7d68e19dc13e69a53295d21b0cd839cc/394_0_3255_2605/master/3255.jpg?width=1920&quality=85&auto=format&fit=max&s=3579b2ba39cf89194e7b3f0b6f2f10fc",
     "region": "AI and technology",
     "region_code": "AI_TECH",
-    "description": "Nvidia has launched an independent investigation after reports its CEO Jensen Huang had a relationship with a woman US officials suspect was a Chinese spy, and he has admitted to staff he was unfaithful to his wife.",
+    "description": "Claude-maker Anthropic is heading to the stock market at a valuation of up to around $1.4tn, below the $2tn once expected as investors grow nervous about the AI boom.",
     "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
+    "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-09/nvidia-investigation-into-jensen-huang-chinese-spy-reports/107362376"
-     },
-     {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+      "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
     "related_story_ids": [
+     "073a5764-7eae-5d10-902a-5a2ab4c0a032",
+     "0da59b02-7964-59c9-bd4b-6036514dec0b",
+     "8c2b781d-7d14-577b-bf17-cd85475f7b64"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-10T19:25:22.749789+00:00",
+    "published_date": "2026-11-11",
+    "has_fulltext": true
+   },
+   {
+    "id": "566f8c6b-b1ce-5224-97fe-38aa14a58620",
+    "title": "Nvidia CEO's affair becomes a national security problem",
+    "simplified_title": "Nvidia CEO Admits Affair With Alleged Chinese Spy",
+    "quick_summary": "Nvidia boss Jensen Huang has admitted an affair with a woman US intelligence believes was spying for China, triggering a shareholder lawsuit, an FBI probe and a board investigation.",
+    "simplified_body": "Jensen Huang, chief executive of chipmaker Nvidia, has admitted in a company-wide message that he was \"unfaithful\" to his wife. The admission came two days after the Financial Times (FT) reported he had a romantic relationship with Alice Huang (no relation), a woman the US intelligence community believes was recruited to spy for China's Ministry of State Security. China has denied the claims, calling them \"nothing but smears\". Nvidia's board has opened an independent investigation, and President Donald Trump said the FBI is also looking into the matter.\n\nThis matters because Nvidia makes the advanced chips that are central to the United States' effort to stay ahead of China in the artificial intelligence (AI) race, and Huang has become the public face of that boom. Shareholders are affected too: Nvidia shares fell 4.3% on Monday, wiping roughly $190bn off its value, and a class action lawsuit now accuses the company of misleading investors about the national security risk.\n\nAlice Huang was chief executive of Megaspeed, a Singapore-based datacentre firm that buys Nvidia chips and rents out computing power to Chinese companies. The US has reportedly been investigating Megaspeed since late 2024 over suspicions it diverted chips to China in breach of US export restrictions. Megaspeed says it has complied fully with all laws. Jensen Huang says he had no idea the woman was a spy and will cooperate fully.\n\nExpect the board and FBI investigations to continue, more law firms to court shareholders, and ongoing scrutiny of how Nvidia's chips reach China. Alice Huang's whereabouts are unknown and she has made no public statement.",
+    "why_it_matters": "Nvidia's chips underpin the global AI boom, so questions about their security and about whether China is diverting them touch every market, Australia's included, where AI investment and data centres increasingly rely on Nvidia hardware.",
+    "deep_analysis": "## Historical Context\n\nJensen Huang co-founded Nvidia in 1993 and, over three decades, steered it into the world's most valuable chipmaker and the first company worth $5 trillion. In recent years he has become the most recognisable symbol of the AI boom. That prominence sits against a backdrop of intense US–China rivalry over advanced semiconductors: Washington has imposed export restrictions to stop its most powerful chips reaching China, which is exactly the kind of control Megaspeed is accused of circumventing. A New York-based short-selling firm, Culper Research, first flagged the \"uncomfortably close relationship\" between the two Huangs roughly six months ago, before intelligence officials' concerns became public.\n\n## Multiple Perspectives\n\nThe US intelligence view, as reported by the FT and New York Times, is that Alice Huang was a Chinese intelligence asset recruited to learn about American AI chips and push for them to be made available to China. China rejects this outright as \"smears\". Nvidia initially described Jensen Huang's contact with her as \"not unusual or unexpected\", part of a CEO's routine customer meetings — a characterisation the new shareholder lawsuit calls \"materially false and misleading\". Huang himself says he had \"absolutely no idea\" she was a spy and will cooperate. Megaspeed maintains it has acted fully within export laws. Trump, notably, said he thinks Huang \"will be in good shape\".\n\n## What to Watch\n\nWatch the outcomes of the three parallel probes — Nvidia's independent board investigation, the FBI inquiry, and the shareholder class action led by retail investor Mark Kistenmacher. Key unknowns include Alice Huang's whereabouts and current role at Megaspeed, whether chips were genuinely diverted to China, and how the saga affects Nvidia's share price and reputation. The reported detail that Megaspeed was previously a Chinese gaming firm, 7Road International, with ties to state-backed investors, is likely to draw further scrutiny.",
+    "concepts": [
+     {
+      "term": "export restrictions",
+      "definition": "Government rules limiting which products — here, advanced computer chips — can be sold to certain countries, used by the US to stop its most powerful AI chips reaching China.",
+      "context": "Megaspeed is suspected of diverting Nvidia chips to China in breach of these rules."
+     },
+     {
+      "term": "class action",
+      "definition": "A lawsuit where one person or small group sues on behalf of a much larger group of people with the same complaint — here, Nvidia shareholders.",
+      "context": "Investors allege Nvidia misled them about the national security risk."
+     },
+     {
+      "term": "Ministry of State Security",
+      "definition": "China's main civilian intelligence and security agency, responsible for foreign espionage.",
+      "context": "US intelligence believes Alice Huang was recruited to spy for this agency."
+     },
+     {
+      "term": "datacentre",
+      "definition": "A facility full of powerful computers that stores data and provides computing power, often rented out to other companies.",
+      "context": "Megaspeed buys Nvidia chips to run such a facility and rents capacity to firms in China."
+     }
+    ],
+    "quiz": {
+     "question": "Why does Jensen Huang's affair become a national security concern rather than just a private matter?",
+     "options": [
+      "Because Huang used company money to fund the relationship",
+      "Because the woman was a US government official",
+      "Because Nvidia makes AI chips central to the US–China race and the woman is alleged to be a Chinese spy",
+      "Because the affair breached Nvidia's internal conduct rules"
+     ],
+     "answer_index": 2,
+     "explanation": "The alarm comes from the combination: Nvidia's chips are critical to US AI leadership over China, and the woman is alleged to have been recruited as a Chinese intelligence asset to learn about those chips."
+    },
+    "background_beginner": "Nvidia is an American company that makes the specialised computer chips powering the artificial intelligence (AI) boom, and it has grown into one of the world's most valuable companies. Its co-founder and boss, Jensen Huang, is the industry's most famous face. The United States and China are locked in a race for AI leadership, and Washington restricts which advanced chips can be sold to China. This story erupted when reports claimed Huang had an affair with Alice Huang (no relation), a businesswoman US intelligence believes was spying for China through a firm suspected of smuggling Nvidia chips. It keeps coming up because it mixes espionage, huge money and national security.",
+    "impact_score": 72,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/huang-1152x648.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "Nvidia boss Jensen Huang has admitted an affair with a woman US intelligence believes was spying for China, triggering a shareholder lawsuit, an FBI probe and a board investigation.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/who-is-alice-huang-the-woman-linked-to-nvidias-ceo"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "58601233-8eab-5958-9bc7-31547e599829",
      "72597008-acc3-5015-8369-4d885c3f3663",
      "9e59aa4a-e3d3-5005-9839-eea8b53dbda6",
      "e829fe99-b7db-5487-836b-6675ace03fcc"
     ],
-    "reading_minutes": 4,
-    "created_at": "2026-11-09T01:25:18.750511+00:00",
-    "published_date": "2026-11-09",
+    "reading_minutes": 1,
+    "created_at": "2026-11-10T19:25:11.658065+00:00",
+    "published_date": "2026-11-11",
     "has_fulltext": true
    },
    {
@@ -2203,5 +2027,5 @@
    }
   ]
  },
- "total_stories": 33
+ "total_stories": 30
 }
