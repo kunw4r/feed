@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "generated_at": "2026-11-09T19:23:04.140069+00:00",
+ "generated_at": "2026-11-10T01:23:04.185250+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -122,6 +122,69 @@
     "reading_minutes": 4,
     "created_at": "2026-11-08T19:26:53.962090+00:00",
     "published_date": "2026-11-09",
+    "has_fulltext": true
+   },
+   {
+    "id": "b41c8759-91a1-5ee4-9033-aba5dad8d920",
+    "title": "Live: Qantas to cut 850 corporate jobs from mid-2027 as it outsources roles",
+    "simplified_title": "Qantas to cut 850 corporate jobs in Accenture outsourcing deal",
+    "quick_summary": "Qantas will cut around 850 corporate roles from mid-2027 as it hands parts of its back-office work to tech firm Accenture, with many jobs shifting to India.",
+    "simplified_body": "Qantas has announced it will cut around 850 roles over the coming years, with the first changes expected to land by mid-2027. Chief Executive Officer (CEO) Vanessa Hudson told staff by email that the airline has struck a multi-year partnership with Accenture, a global technology consulting firm. The first phase will hit the Finance, Procurement, and People and Marketing teams, with some of those jobs moved to Accenture's team, mostly in India.\n\nThe people most affected are Qantas's corporate (office-based, non-flying) staff. Hudson pointed to the pace of change in technology, saying \"AI is something none of us has seen in our lifetime\" and that \"standing still is not an option.\" Artificial Intelligence (AI) is software that can perform tasks that once needed a person. Qantas says it will try to redeploy as many staff as possible and will consult with affected workers and their union over the next few months.\n\nHere's the background: Qantas says it runs on technology built up over decades, including more than 1,000 legacy applications that were never designed to work together. It plans to invest more than $1 billion a year in technology and the largest fleet renewal in its history. The idea is to simplify corporate functions and cut duplication.\n\nWhat's next? The consultation process with staff and unions will shape the final outcomes, which haven't yet been decided. Investors liked the news early on — Qantas shares jumped 3.7% after the announcement.",
+    "why_it_matters": "Qantas is Australia's flagship airline, so cutting 850 local corporate jobs and shifting work offshore to India touches a national icon and reignites the debate about AI and outsourcing replacing Australian white-collar work.",
+    "deep_analysis": "## Historical Context\n\nQantas is Australia's largest airline and a long-standing national symbol. Big corporate restructures at the airline tend to draw outsized attention precisely because of that status, and outsourcing decisions at Qantas have historically been contentious with unions. This latest move ties job cuts explicitly to a technology overhaul: the airline says it is carrying decades of accumulated systems, including more than 1,000 legacy applications that were never built to work together. Modernising that kind of tangled back-end is a common pressure point for large, established companies.\n\n## Multiple Perspectives\n\nFrom management's view, CEO Vanessa Hudson frames the cuts as unavoidable modernisation — more than $1 billion a year in technology spending, the largest fleet renewal in the company's history, and a push to \"accelerate our use of AI.\" The investor view appears supportive, with shares up 3.7% on the news. For affected staff and their union, the picture is tougher: 850 roles are on the line, individual outcomes are undecided, and some work is heading to Accenture's team mostly in India. Hudson acknowledged the human impact directly, and the company says it will try to redeploy as many people as possible, but the consultation is only just beginning.\n\n## What to Watch\n\nWatch the union consultation over the coming months, since final outcomes haven't been set. Keep an eye on how many of the 850 staff are genuinely redeployed versus made redundant, and whether later phases widen beyond Finance, Procurement, and People and Marketing. More broadly, this is a test case for how AI and offshoring reshape corporate jobs at a major Australian employer.",
+    "concepts": [
+     {
+      "term": "Accenture",
+      "definition": "A large global technology and consulting firm that companies hire to run or redesign parts of their operations.",
+      "context": "Qantas struck a multi-year partnership with Accenture to handle parts of its corporate functions."
+     },
+     {
+      "term": "legacy applications",
+      "definition": "Older software systems a company has used for years that are often hard to update or connect to newer tools.",
+      "context": "Qantas says it runs on more than 1,000 legacy applications never designed to work together."
+     },
+     {
+      "term": "Procurement",
+      "definition": "The business function responsible for buying the goods and services a company needs.",
+      "context": "The first phase of job cuts affects Finance, Procurement, and People and Marketing."
+     },
+     {
+      "term": "redeploy",
+      "definition": "Moving staff into different roles within the company instead of making them redundant.",
+      "context": "Qantas said it will look to redeploy as many affected people as possible."
+     }
+    ],
+    "quiz": {
+     "question": "Why does Qantas say it is cutting the 850 corporate roles?",
+     "options": [
+      "To fund a new airport terminal",
+      "Because fuel prices have risen sharply",
+      "To modernise decades-old technology and accelerate its use of AI through a partnership with Accenture",
+      "Because passenger numbers have collapsed"
+     ],
+     "answer_index": 2,
+     "explanation": "CEO Vanessa Hudson linked the cuts to a technology overhaul and a multi-year Accenture partnership, citing legacy systems and the pace of AI change — not passenger numbers, fuel costs or a terminal build."
+    },
+    "background_beginner": "Qantas is Australia's biggest and best-known airline, often called \"the flying kangaroo.\" Like most large, long-running companies, it relies on a patchwork of older computer systems built up over decades. Its CEO, Vanessa Hudson, has now announced a deal with Accenture — a huge global tech and consulting firm — to modernise the airline's back-office work and lean more on artificial intelligence (software that can do tasks once done by people). The catch is that around 850 office jobs will go, with some work shifting overseas to India. Stories like this keep coming up because businesses everywhere are weighing cost savings and new technology against the loss of local jobs.",
+    "impact_score": 62,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/2097b84ddbe99f2507c5af40b06217fe?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=97&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Qantas will cut around 850 corporate roles from mid-2027 as it hands parts of its back-office work to tech firm Accenture, with many jobs shifting to India.",
+    "tier": "LOCAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 26,
+    "created_at": "2026-11-10T01:26:42.686251+00:00",
+    "published_date": "2026-11-10",
     "has_fulltext": true
    },
    {
@@ -263,6 +326,69 @@
     "reading_minutes": 3,
     "created_at": "2026-11-09T07:25:43.123647+00:00",
     "published_date": "2026-11-09",
+    "has_fulltext": true
+   },
+   {
+    "id": "565e4437-242d-5f3a-a3a9-a1fe384f0375",
+    "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
+    "simplified_title": "Sydney Teen Who Used AI to Plan Terror Attack Avoids Jail",
+    "quick_summary": "A Sydney teenager who admitted planning a terrorist attack after being radicalised online and using ChatGPT to strategise has been given a community corrections order instead of jail.",
+    "simplified_body": "A teenager in Sydney has admitted he planned a terrorist attack in 2024, telling the New South Wales (NSW) supreme court he was radicalised online and used ChatGPT, an artificial intelligence (AI) chatbot, to help form his plans. Known only as RK because of his age, he pleaded guilty to acts in preparation for a terrorist act. On Monday, Justice Stephen Campbell ordered him into a three-year community corrections order rather than jail.\n\nRK had just turned 14 when the offending happened. The court heard he first saw extremist material on TikTok, starting with historical videos before moving to content about the 11 September 2001 attacks, then increasingly violent religious material. He became focused on the Sydney Opera House as a possible target, used the messaging app Telegram to seek bomb-making instructions, and used ChatGPT to research security at the Opera House and to ask about the surviving Boston marathon bomber. Importantly, Campbell said RK had no concrete plans and never obtained any bomb-making material.\n\nRadicalisation means being drawn into holding extreme views, often step by step. The judge said RK had genuinely renounced violent extremism and that his deradicalisation was well advanced, helped by six sessions with a Muslim cleric. OpenAI, Telegram and YouTube were approached for comment; TikTok declined.\n\nThe Australian Security Intelligence Organisation (ASIO) deputy director general Claire McGuinness told a parliamentary inquiry last month that spotting online youth radicalisation had become very challenging, warning that once a young person engages, \"the algorithm takes over\" and content shifts quickly from fringe to dangerous.",
+    "why_it_matters": "It shows how everyday apps and AI tools can funnel Australian kids towards extremism, a problem ASIO says is now one of its hardest to detect and disrupt.",
+    "deep_analysis": "## Historical Context\n\nYouth radicalisation is not new, but the pathway described here reflects a modern shift. Where earlier generations of extremist recruiters relied on in-person networks or static websites, this case traces a journey through mainstream platforms — TikTok, YouTube — into more private, less moderated spaces like Telegram. The teenager's interest reportedly began with historical and political content about the crusaders and the events of 11 September 2001, then drifted into progressively more violent material. The Sydney Opera House, a national icon, surfacing as a potential target echoes a long pattern of extremists fixating on symbolic landmarks.\n\n## Multiple Perspectives\n\nThe court took a notably rehabilitative view. Justice Campbell accepted RK was radicalised but stressed his plans were never concrete, no materials were obtained, and his extremism was \"incipient and hesitant.\" That reasoning underpins the non-custodial sentence and the emphasis on deradicalisation.\n\nSecurity agencies frame it differently. ASIO's Claire McGuinness described a mechanical process in which engagement triggers an algorithm that \"tightens\" the feed, moving users from conservative to radical content. Her account places weight on platform design and recommendation systems, not just individual choice.\n\nThe technology companies — OpenAI, Telegram, YouTube — were approached for comment, and TikTok declined, leaving their responsibility for this pipeline largely unaddressed in the sources.\n\n## What to Watch\n\nWatch how courts balance rehabilitation against deterrence as more minors appear in terror-related matters. Watch, too, for regulatory pressure on AI tools and platforms: the detail that a 14-year-old used ChatGPT to research a target and a convicted bomber will sharpen debate over chatbot safeguards. ASIO's parliamentary warnings suggest policy moves on youth radicalisation may follow.",
+    "concepts": [
+     {
+      "term": "radicalised",
+      "definition": "Being gradually drawn into holding extreme political or religious views, often through repeated exposure to increasingly intense content.",
+      "context": "RK told the court he was radicalised online after first seeing extremist material on TikTok."
+     },
+     {
+      "term": "community corrections order",
+      "definition": "A sentence served in the community under conditions and supervision, rather than in prison.",
+      "context": "Instead of jail, RK was ordered into a three-year community corrections order."
+     },
+     {
+      "term": "ChatGPT",
+      "definition": "An artificial intelligence chatbot that answers questions and generates text based on a user's prompts.",
+      "context": "RK used ChatGPT to research security at the Opera House and the Boston marathon bomber."
+     },
+     {
+      "term": "ASIO",
+      "definition": "The Australian Security Intelligence Organisation, Australia's domestic spy agency responsible for identifying security threats.",
+      "context": "ASIO's deputy director general told a parliamentary inquiry that online youth radicalisation is hard to detect."
+     }
+    ],
+    "quiz": {
+     "question": "Why did Justice Campbell decide RK should receive a community corrections order rather than jail?",
+     "options": [
+      "Because the court could not prove RK had used the internet",
+      "Because RK had no concrete plans, obtained no bomb-making material, and his deradicalisation was well advanced",
+      "Because ChatGPT refused to give RK any information",
+      "Because RK was found not guilty of any offence"
+     ],
+     "answer_index": 1,
+     "explanation": "The judge accepted RK was radicalised but stressed his plans were never concrete, he obtained no materials, and he had genuinely renounced extremism, with deradicalisation well advanced."
+    },
+    "background_beginner": "This story centres on a Sydney teenager, called RK in court to protect his identity, who admitted planning a terrorist attack in 2024 when he was just 14. The main players are RK, the New South Wales supreme court, and ASIO — Australia's domestic security agency. It started when RK stumbled onto extremist videos on everyday apps like TikTok and YouTube, then slid into private chat apps and even used the AI chatbot ChatGPT to research targets. The topic keeps coming up because security officials say young people are increasingly being pulled towards extremism online, and it's very hard to spot early. The court chose rehabilitation over prison.",
+    "impact_score": 58,
+    "image_url": "https://i.guim.co.uk/img/media/560f38c53c59131a19338207e679804b1d3aa8c0/956_0_4778_3823/master/4778.jpg?width=1920&quality=85&auto=format&fit=max&s=4490194969c33ecced2af71027f8793f",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "A Sydney teenager who admitted planning a terrorist attack after being radicalised online and using ChatGPT to strategise has been given a community corrections order instead of jail.",
+    "tier": "LOCAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-10T01:26:46.047897+00:00",
+    "published_date": "2026-11-10",
     "has_fulltext": true
    }
   ],
@@ -636,6 +762,68 @@
     "has_fulltext": true
    },
    {
+    "id": "47d03ee2-05c5-548f-846c-b39b0a521fba",
+    "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+    "simplified_title": "France blames Iran for hacking supermarket fridges and freezers",
+    "quick_summary": "France says Iran's Revolutionary Guards hacked thousands of supermarket freezers in October, forcing temperatures above 50C and spoiling tonnes of food.",
+    "simplified_body": "On 11 and 12 October, hackers took control of the software that manages refrigeration in as many as 700 French supermarkets and shops, overriding the controls to push freezer temperatures from as low as -27C to well over 50C overnight. Thousands of tonnes of food had to be dumped, and in some stores the sudden heat even sparked fires that set off sprinklers. France's Foreign Minister Jean-Noël Barrot called it an attack of \"unprecedented scale and unprecedented aggression\" and confirmed the government blames the Islamic Revolutionary Guard Corps (IRGC) of Iran.\n\nThis mainly hit shoppers and major chains like Intermarché, Carrefour, Monoprix and Coopérative U, which lost whole inventories of perishable food. The attack targeted software from Danish engineering firm Danfoss that lets retailers manage cold units remotely. France summoned Iran's ambassador, opened a criminal investigation, and says it will push for Europe-wide sanctions.\n\nThe Paris prosecutor, Laure Beccuau, named the suspected group as Shahid Kaveh, a cyber warfare unit linked to the IRGC, pointing to the use of Farsi and IP addresses traced back to Iran. Iran hasn't responded officially, and some Iranian media call the claims baseless. Attribution is genuinely hard, as hackers can hide their locations.\n\nThe attacks haven't stopped. Similar refrigeration hacks hit supermarkets in 11 other European countries, a French blood bank, and reportedly some US military bases in August. Experts warn that a state group with time and money could next target water or electricity systems, so a tougher European response is likely to be discussed.",
+    "why_it_matters": "It shows how everyday infrastructure like supermarket fridges can be weaponised in geopolitical conflicts, a warning for food-security and cyber planners everywhere, including Australia, where major grocery chains also rely on remotely managed cold storage.",
+    "deep_analysis": "## Historical Context\n\nCyber-attacks on physical infrastructure aren't new, but they usually aim at headline targets like power grids or water plants. According to cybersecurity partner Gérôme Billois of Wavestone, Shahid Kaveh has been active since 2020 and was previously known mostly for attacks on water distribution systems in the US. What's striking here is the choice of \"easy equipment\" — commercial refrigeration — as a way to cause widespread, visible disruption. The backdrop is a tense year: commentators in Iran have argued the country should extend retaliation beyond the Middle East if the US and Israel resume the war they started earlier this year. Separately, the EU this year designated the IRGC a terrorist organisation after France dropped its long-held opposition.\n\n## Multiple Perspectives\n\nFrance is unequivocal: Barrot confirmed IRGC responsibility and the prosecutor cited a characteristic \"modus operandi\", Farsi usage and Iran-based IP addresses. Iran has not responded officially, and some Iranian outlets dismiss the claims as baseless. Independent experts urge caution — both The Guardian and BBC note attribution is extremely hard because hackers can mask their locations, and the French government hasn't explained exactly how it reached its conclusion. Billois says only Iran and Russia are really known for this kind of attack, and a pair of Russian-aligned hacktivist groups claimed responsibility, though few believed them. It also remains unclear whether the various incidents — the French blood bank, the broader European wave, and the US base malfunctions — are linked.\n\n## What to Watch\n\nWatch the EU's foreign affairs council, where Kaja Kallas says Europe will discuss a \"strong response\" if the attacks are attributed to Iran, and whether Europe-wide sanctions actually land. Also watch for escalation: experts warn a determined state actor could move from fridges to water or electricity. The separate €100m-plus cyber-attack on a Crédit Mutuel bank branch and the US military base incidents are worth tracking to see if a bigger pattern emerges.",
+    "concepts": [
+     {
+      "term": "Islamic Revolutionary Guard Corps (IRGC)",
+      "definition": "A powerful branch of Iran's armed forces that answers to the country's leadership and runs military, intelligence and cyber operations; the EU designated it a terrorist organisation this year.",
+      "context": "France blames a cyber unit linked to the IRGC for the supermarket freezer attacks."
+     },
+     {
+      "term": "Shahid Kaveh",
+      "definition": "A cluster of hackers thought to be directly employed by the Iranian regime, described as a cyber warfare unit affiliated with the IRGC and active since 2020.",
+      "context": "The Paris prosecutor named Shahid Kaveh as the group behind the attacks."
+     },
+     {
+      "term": "attribution",
+      "definition": "The process of working out who was actually behind a cyber-attack, which is notoriously difficult because hackers can disguise their locations and identities.",
+      "context": "Experts stress that attribution is extremely hard, and France hasn't said exactly how it blamed Iran."
+     }
+    ],
+    "quiz": {
+     "question": "Why do experts urge caution about France's conclusion that Iran was responsible?",
+     "options": [
+      "Because Iran has officially admitted to the attacks",
+      "Because attribution of cyber-attacks is extremely hard, as hackers can hide their locations",
+      "Because the food destroyed was not actually spoiled",
+      "Because supermarkets rarely use remote fridge software"
+     ],
+     "answer_index": 1,
+     "explanation": "Both articles note that attributing cyber-attacks is extremely difficult because hackers can mask where they are, and France hasn't explained exactly how it reached its conclusion."
+    },
+    "background_beginner": "Iran and several Western countries have long been at odds, and that rivalry increasingly plays out online. Iran's Islamic Revolutionary Guard Corps (IRGC) is a branch of its armed forces that runs military and cyber operations; this year the EU labelled it a terrorist organisation. In October, hackers hijacked the software that controls supermarket fridges and freezers across France, letting the food spoil. France blames a hacking unit called Shahid Kaveh, linked to the IRGC. The story keeps coming up because the attacks spread to other European countries, a blood bank and reportedly US military bases, and experts worry future targets could include water or power.",
+    "impact_score": 68,
+    "image_url": "https://i.guim.co.uk/img/media/aed983f049b0e852c755b8dc230e7c7ba34f9947/46_0_3538_2832/master/3538.jpg?width=1920&quality=85&auto=format&fit=max&s=30934898aa0f7f0bb78319ce16f6be55",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "France says Iran's Revolutionary Guards hacked thousands of supermarket freezers in October, forcing temperatures above 50C and spoiling tonnes of food.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-10T01:26:45.643742+00:00",
+    "published_date": "2026-11-10",
+    "has_fulltext": true
+   },
+   {
     "id": "df353268-88d7-51c8-8efa-13459c39d0f3",
     "title": "Gunman dies in hospital after killing six and injuring 15 in Krakow shooting",
     "simplified_title": "Kraków Gunman Dies After Killing Six In Rare Polish Attack",
@@ -778,6 +966,72 @@
     ],
     "reading_minutes": 5,
     "created_at": "2026-11-09T19:26:23.294615+00:00",
+    "published_date": "2026-11-10",
+    "has_fulltext": true
+   },
+   {
+    "id": "93478783-8f62-5e92-9922-4c3d6d1ab557",
+    "title": "Explosion at Turkish steel plant kills at least 16 people",
+    "simplified_title": "Explosion at Turkish steel plant kills at least 16 workers",
+    "quick_summary": "A crane collapsing into a furnace during maintenance triggered a deadly blast at the HABAS steel plant near Izmir in western Turkey.",
+    "simplified_body": "An explosion tore through the HABAS steel plant in Aliaga, about 60km north of Izmir in western Turkey, at 11:46am local time on Monday. Officials say an overhead crane carrying a replacement boiler toppled into a large industrial furnace during scheduled maintenance, setting off a huge fire and a towering column of smoke. One eyewitness said the ground shook so hard he thought an earthquake had struck. Death tolls differ slightly: Al Jazeera and Germany's DW report 16 dead and 13 injured, while the BBC says 17 died after one critically injured worker later passed away.\n\nEveryone killed or hurt was a worker at the plant, one of Turkey's leading steel producers. The timing may have limited the toll — a shift change meant roughly 200 of the usual 300 workers were present. President Recep Tayyip Erdogan has ordered an investigation, four prosecutors have been assigned, and the BBC reports at least five people have been arrested.\n\nHABAS was established in 1987 and can produce 4.5 million tonnes of steel a year. Workers' groups say the site has a long record of safety problems, with one leftist party claiming it was the third fatal incident there in three weeks and that seven employees have died at the plant over the past decade.\n\nOpposition figures have seized on the disaster, with the leftist Workers' Party of Turkey (TIP) calling it \"workplace homicide\" and union leaders demanding the labour minister resign. Search and rescue continued into Monday evening, with officials warning some people may still be under the rubble, so the final count could shift once debris is cleared.",
+    "why_it_matters": "The disaster has reignited a bitter national argument about Turkey's chronic rate of workplace deaths — a reminder, even for distant observers in Australia, of how industrial safety failures turn routine maintenance into mass tragedy.",
+    "deep_analysis": "## Historical Context\n\nTurkey has long struggled with industrial safety, and this blast lands in that wider pattern. An independent watchdog, the Turkish Health and Safety Labor Watch, describes workplace accidents as a \"chronic problem\" in the country. To put the scale in perspective, DW reports the group counted 226 workplace deaths across Turkey in just September this year — roughly two-thirds of what Germany, with a similar population, recorded across the whole of 2025. Against that backdrop, a single plant allegedly seeing its third fatal incident in three weeks fits a grim national trend rather than standing out as a freak event.\n\n## Multiple Perspectives\n\nAccounts converge on the basic cause — a crane falling into a furnace during maintenance — but differ on the toll. Al Jazeera and DW cite 16 dead and 13 injured, drawing on Erdogan's evening figures, while the BBC reports 17 after the health minister announced a critically injured worker had died. The company frames the accident as occurring during scheduled maintenance on an electric arc furnace. The government points to investigations, prosecutors and arrests. Opposition voices go much further: the TIP party and union leaders call it \"workplace homicide\" and a \"massacre\", arguing profit is being put ahead of workers' lives and demanding the labour minister resign.\n\n## What to Watch\n\nWatch whether the death toll rises further, as the Izmir mayor and governor both warned people may still be trapped under rubble. The investigation — with four prosecutors assigned and arrests already made — will test whether blame lands on individuals, the company's maintenance standards, or wider regulatory gaps. Also worth watching: whether the opposition's \"workplace homicide\" framing gains broader political traction given the documented national death toll.",
+    "concepts": [
+     {
+      "term": "furnace",
+      "definition": "A chamber that heats material to extremely high temperatures; in steelmaking it melts iron and scrap into liquid steel.",
+      "context": "A crane toppled into this during maintenance, triggering the blast."
+     },
+     {
+      "term": "boiler",
+      "definition": "A sealed vessel that heats water or other fluid, often to generate steam or power for industrial processes.",
+      "context": "The crane was carrying a replacement one when it collapsed."
+     },
+     {
+      "term": "workplace homicide",
+      "definition": "A campaigning term arguing that deaths at work caused by neglected safety are effectively killings, not accidents.",
+      "context": "Turkey's leftist TIP party used it to attack the government over the disaster."
+     }
+    ],
+    "quiz": {
+     "question": "What do officials say directly caused the explosion at the HABAS plant?",
+     "options": [
+      "A deliberate act of sabotage by workers",
+      "An overhead crane toppling into a furnace during maintenance",
+      "A gas leak ignited by a welding spark",
+      "An earthquake damaging the plant's structure"
+     ],
+     "answer_index": 1,
+     "explanation": "Officials, including the Izmir governor, said an overhead crane carrying a replacement boiler collapsed into a furnace during maintenance. The 'earthquake' was only how a frightened eyewitness described the shaking."
+    },
+    "background_beginner": "HABAS is a large steel company in Turkey, running a major plant at Aliaga near the port city of Izmir on the Aegean coast. Steelmaking involves melting metal in enormous, intensely hot furnaces, so these sites are inherently dangerous and need careful maintenance and safety rules. On a Monday, a crane fell into a furnace during maintenance and set off a deadly explosion and fire. The story keeps coming up because Turkey has a long-running problem with deaths at work — watchdog groups track hundreds of workplace fatalities each year — and disasters like this spark fierce political rows between the government, unions and opposition parties over who is to blame.",
+    "impact_score": 58,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af21195cf46-1794249109.jpg?resize=1920%2C1440",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "A crane collapsing into a furnace during maintenance triggered a deadly blast at the HABAS steel plant near Izmir in western Turkey.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/turkey-workers-killed-in-izmir-steel-plant-blast/a-79900748?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-10T01:27:09.762509+00:00",
     "published_date": "2026-11-10",
     "has_fulltext": true
    }
@@ -1534,6 +1788,73 @@
   ],
   "GLOBAL_SYSTEMS": [
    {
+    "id": "f4e92c62-8d94-5ebe-bb51-31ea66d6a67a",
+    "title": "Slight fall in carbon emissions from fossil fuels as Iran war drives renewables push",
+    "simplified_title": "Fossil fuel emissions dip slightly as Iran war boosts renewables",
+    "quick_summary": "Carbon emissions from fossil fuels are set to flatten slightly in 2026, pushed down by the Iran war and cheap renewables, but scientists warn it is too small and fragile to count as a real turning point.",
+    "simplified_body": "Scientists have forecast that carbon dioxide (CO2) emissions from burning oil, gas and coal will essentially flatline in 2026, falling about 0.4% compared with 2025. The main driver is a 2% drop in oil emissions, as high oil and gas prices following the war in Iran pushed drivers to economise and switch to electric vehicles. The findings, from the Global Carbon Budget, were presented at the COP31 (Conference of the Parties) climate talks hosted by Turkey.\n\nThis matters for everyone, because emissions must peak and fall fast to limit global heating. But the news is mixed. The fossil fuel dip was more than offset by emissions from deforestation and land clearing, driven by major fires in South-East Asia. So total carbon emissions actually rise, from 42.8 billion tonnes last year to a forecast 43.3 billion tonnes in 2026.\n\nHere's the background a newcomer needs. The \"carbon budget\" is the amount of CO2 the world can still emit before heating likely passes 1.5 degrees Celsius above pre-industrial levels. That budget is now about 150 billion tonnes — less than four years at current rates. Solar and wind, now much cheaper, are meeting over half of new electricity demand, and some researchers call the shift to EVs \"unstoppable\".\n\nWhat next? Authors stress a one-year drop is not a peak unless driven by lasting structural change. A fall in oil prices, India's growing coal use, or US president Donald Trump's enthusiasm for fossil fuels could reverse the trend. El Niño may also weaken natural carbon sinks like the Amazon early next year.",
+    "why_it_matters": "The world may be inching towards a peak in fossil fuel emissions, but it's nowhere near fast enough — and Australia, as co-president of COP31, is being singled out by some experts for pressing ahead with major coal and gas projects even as it leads the talks.",
+    "deep_analysis": "## Historical Context\n\nThe world has been burning fossil fuels at ever-rising rates for decades, and the question climate scientists keep asking is when global emissions will finally peak and start falling. The Global Carbon Budget is an annual stocktake, compiled by scientists from scores of universities, that tracks exactly this. The 1.5C target — the aspiration to limit warming to 1.5 degrees Celsius above pre-industrial levels — comes from the Paris Agreement, and the \"carbon budget\" is the running tally of how much room is left. The 2026 report lands at a telling moment: temperatures have already breached 1.5C for more than two years. There's an echo of history here too — experts note the 1970s Middle East oil shocks drove lasting innovations in fuel efficiency, and some see the Iran war playing a similar accelerating role, except this time renewables and EVs are already market-ready, with solar and battery costs down 90% since 2010.\n\n## Multiple Perspectives\n\nThe researchers themselves are cautiously encouraged but firm that a geopolitically-driven dip isn't a sustainable solution. Glen Peters puts it bluntly: a one-year drop isn't a peak unless structural change drives it. Pierre Friedlingstein and Pep Canadell echo that clean energy isn't yet growing fast enough. External critic Bill Hare of Climate Analytics is sharper, calling the 0.4% fall \"statistically indistinguishable from zero\" and a flatline rather than a decline — and he names Australia, Canada, the US and New Zealand for rolling back climate policy or expanding fossil fuels. More optimistic voices, like CSIRO-affiliated Gabrielle Kuiper, see \"unstoppable\" momentum on EVs. The country picture is uneven: China (32% of global emissions) is set to fall around 0.9%, the US down 1.3%, the EU down 1.5%, while India climbs 4.4% on coal.\n\n## What to Watch\n\nWatch whether China's flat-to-falling emissions hold or rebound next year — analysts say it's too early to call a peak. Watch oil prices: an easing could undo the EV-driven savings. Watch El Niño, which Canadell warns could sharply cut the Amazon's carbon absorption early next year, as it did by 66% in 2023/24. And watch COP31 itself for whether leaders, including host Turkey and co-president Australia, strengthen the earlier pledge to transition away from fossil fuels.",
+    "concepts": [
+     {
+      "term": "carbon budget",
+      "definition": "The total amount of carbon dioxide the world can still emit before global heating is likely to permanently pass a given threshold, such as 1.5C.",
+      "context": "The report says only about 150 billion tonnes remain before 1.5C — less than four years at current rates."
+     },
+     {
+      "term": "electric vehicles",
+      "definition": "Cars and other vehicles powered by batteries and electricity rather than petrol or diesel, producing no tailpipe emissions.",
+      "context": "High oil prices after the Iran war pushed more drivers towards electric vehicles, cutting oil emissions by 2%."
+     },
+     {
+      "term": "deforestation",
+      "definition": "The clearing or loss of forests, often for agriculture, which releases stored carbon and reduces the land's ability to absorb CO2.",
+      "context": "Rising emissions from deforestation and land clearing more than cancelled out the fossil fuel dip."
+     },
+     {
+      "term": "El Niño",
+      "definition": "A natural climate pattern that warms parts of the Pacific Ocean and can worsen droughts and bushfires in many regions.",
+      "context": "El Niño may weaken natural carbon sinks like the Amazon early next year, reducing how much CO2 plants absorb."
+     }
+    ],
+    "quiz": {
+     "question": "Why do scientists say the 2026 fall in fossil fuel emissions isn't yet a true turning point?",
+     "options": [
+      "Because the carbon budget has already been fully used up",
+      "Because every country reduced its emissions this year",
+      "Because total carbon emissions still rose and the dip is partly due to a temporary geopolitical shock rather than lasting structural change",
+      "Because renewables have completely replaced fossil fuels worldwide"
+     ],
+     "answer_index": 2,
+     "explanation": "The fossil fuel drop was tiny (0.4%), partly driven by the Iran war, and was more than offset by rising deforestation emissions — so total emissions still climbed to 43.3 billion tonnes. Experts stress a one-year dip isn't a peak without structural change."
+    },
+    "background_beginner": "Each year, scientists from universities around the world publish the Global Carbon Budget — a kind of annual report card on how much carbon dioxide humans are pumping into the atmosphere from burning oil, gas and coal, plus clearing land. It's closely watched because countries agreed under the Paris Agreement to try to limit global heating to 1.5 degrees Celsius above pre-industrial levels. The big recurring question is when global emissions will finally stop rising and start falling. This keeps coming up at the yearly United Nations climate summits, called COP (Conference of the Parties). The 2026 edition landed at COP31, hosted by Turkey, with Australia as co-president.",
+    "impact_score": 78,
+    "image_url": "https://i.guim.co.uk/img/media/8a696f61e55e37e1f678f34a5a5527f41f39e31c/9_0_3468_2775/master/3468.jpg?width=1920&quality=85&auto=format&fit=max&s=754f9deb55caa6ea0fc3676c491687a5",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "Carbon emissions from fossil fuels are set to flatten slightly in 2026, pushed down by the Iran war and cheap renewables, but scientists warn it is too small and fragile to count as a real turning point.",
+    "tier": "GLOBAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-10/fossil-fuel-emissions-to-fall-in-2026-due-to-iran-war/107329262"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-11-10T01:26:49.113575+00:00",
+    "published_date": "2026-11-10",
+    "has_fulltext": true
+   },
+   {
     "id": "132e0c26-72e5-55a2-a948-48db8de5f636",
     "title": "COP31 summit targets major electrification push as 1.5C goal slips away",
     "simplified_title": "COP31 admits 1.5C goal is slipping, pushes electrification",
@@ -2187,5 +2508,5 @@
    }
   ]
  },
- "total_stories": 33
+ "total_stories": 38
 }
