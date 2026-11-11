@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-10T19:23:04.252339+00:00",
+ "generated_at": "2026-11-11T01:23:03.550890+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -606,6 +606,72 @@
     "has_fulltext": true
    },
    {
+    "id": "8492b502-c110-5b5b-a118-f33cb53a4801",
+    "title": "US charges three men over terror plots, including planned assault on UK airbase",
+    "simplified_title": "US charges three men over Iran-linked terror plots and UK airbase attack",
+    "quick_summary": "US prosecutors have charged three Iran-linked men over a \"campaign of terror\" targeting Jewish communities in Europe and the US, plus a foiled attack on the British airbase RAF Fairford.",
+    "simplified_body": "US authorities have charged three men with helping orchestrate nearly 20 attacks on behalf of terrorist organisations linked to Iran. The targets allegedly included Jewish communities across Europe and the United States, and RAF (Royal Air Force) Fairford, a British airbase where US bombers and troops had been stationed. The charges, in a superseding (updated) indictment unsealed in a Manhattan court, name dual Iranian-Iraqi national Mohammad Baqer Saad Dawood al-Saadi, Iranian national Mohsen Mohajeri, and Iraqi national Mohammad Ali al-Hassani. Only al-Saadi, whom prosecutors call a commander of the Iraqi militia Kata'ib Hizballah, is in custody.\n\nThis matters because it links a mysterious September incident in England to Iran. Prosecutors say al-Saadi sent coded messages from a New York jail to coordinate payments and plotting, while the others operated from Iran. They allege al-Hassani paid people in the UK to scout the base, procure vans and fuel, and research chemicals and shrapnel. On 26 September, three vans were driven towards Fairford; at least two hit a security roadblock and a local farmer alerted police.\n\nThe plots are tied to the Islamic Revolutionary Guard Corps (IRGC) and Kata'ib Hizballah, both designated by the US as foreign terrorist organisations. The alleged attacks include arsons, explosives and the near-fatal stabbing of two Jewish men in London. RAF Fairford, 160km west of London, has launched US B-1 and B-52 bombers for strikes on Iran.\n\nIran strongly denies any involvement, calling the claims \"unfounded and malicious\". Several men have been arrested in the UK, with British prosecutors charging two under the National Security Act. The US has withdrawn its bombers from the base. Sources differ on arrest numbers (five, six or seven) and bail outcomes.",
+    "why_it_matters": "It shows how Iran's confrontation with the US and Israel is spilling into alleged attacks on Western soil, including a key airbase — a reminder for Australia, a close US ally, that these tensions reach well beyond the Middle East.",
+    "deep_analysis": "## Historical Context\n\nRAF Fairford, in Gloucestershire, has hosted US Air Force bombers for decades of Middle East conflicts. In recent months the US flew B-1 and B-52 bombers from there for strikes it described as \"defensive\" against Iran. That history made the base a flashpoint: in July, Iran declared that \"any base used for aggression against Iranian territory constitutes a legitimate target\". The charges follow a US-Israeli war with Iran, with al-Saadi himself framing the alleged plots as retaliation and calling himself a \"prisoner of war\".\n\n## Multiple Perspectives\n\nUS officials frame this as proof that the Iranian threat is \"very real\", with the FBI pointing to coded messages sent from detention. Iran's embassy in London \"categorically rejects and strongly condemns\" the claims as speculation. The accounts also diverge on basic facts: the ABC refers to a sixth suspect arrested, the BBC says seven men have been arrested, and DW cites five. On bail, the ABC reports the men were released, while DW says one UK suspect was remanded in custody — worth keeping in mind as the picture is still forming.\n\n## What to Watch\n\nWatch whether the two co-defendants in Iran can ever be brought to trial, since only al-Saadi is in US custody. The UK National Security Act cases and the London stabbing trial, due next year, will test the evidence in court. Also watch whether US bombers return to Fairford, and how Iran responds to being publicly named.",
+    "concepts": [
+     {
+      "term": "superseding",
+      "definition": "An updated version of a criminal indictment that replaces an earlier one, usually adding new charges or defendants.",
+      "context": "Prosecutors unsealed a superseding indictment, expanding on earlier charges against al-Saadi to name two more men."
+     },
+     {
+      "term": "Islamic Revolutionary Guard Corps",
+      "definition": "A powerful branch of Iran's armed forces, designated by the US as a foreign terrorist organisation.",
+      "context": "The alleged plots were said to be carried out on behalf of an Iran-aligned network including this group."
+     },
+     {
+      "term": "Kata'ib Hizballah",
+      "definition": "An Iran-backed Iraqi armed militia that the US has designated a foreign terrorist organisation.",
+      "context": "Prosecutors describe al-Saadi, the man in custody, as a commander of this group."
+     }
+    ],
+    "quiz": {
+     "question": "What made the RAF Fairford base a likely target, according to the sources?",
+     "options": [
+      "It housed Iranian prisoners of war",
+      "US bombers had flown from it to strike Iran",
+      "It stored Iran's seized weapons",
+      "It was the largest airbase in Europe"
+     ],
+     "answer_index": 1,
+     "explanation": "The base had been used to launch US B-1 and B-52 bombers for strikes on Iran, and Iran had warned that any base used against it was a legitimate target."
+    },
+    "background_beginner": "Iran and the United States have long been adversaries, and tensions spiked further after a US-Israeli war with Iran. The US and its allies back Israel, while Iran supports armed groups across the Middle East, including the Islamic Revolutionary Guard Corps and the Iraqi militia Kata'ib Hizballah. In September 2026, suspicious vans were spotted near RAF Fairford, a British airbase the US had used to launch bombers against Iran, sparking a major security incident. US prosecutors now allege a network of Iran-linked operatives planned that attack and others against Jewish communities in Europe and America. Iran denies everything, so the story keeps resurfacing as courts weigh the evidence.",
+    "impact_score": 68,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/05137c162cb1d4d60d79fb9eed406ccd?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "US prosecutors have charged three Iran-linked men over a \"campaign of terror\" targeting Jewish communities in Europe and the US, plus a foiled attack on the British airbase RAF Fairford.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-11/us-charges-3-men-with-plotting-terror-attacks/107371492"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-11T01:25:08.139681+00:00",
+    "published_date": "2026-11-11",
+    "has_fulltext": true
+   },
+   {
     "id": "47d03ee2-05c5-548f-846c-b39b0a521fba",
     "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
     "simplified_title": "France blames Iran for hacking supermarket fridges and freezers",
@@ -1092,6 +1158,64 @@
   ],
   "AMERICAS": [
    {
+    "id": "7cee5e9b-be3c-57b9-b963-1f6ab351d4ed",
+    "title": "Trump administration seeks to cut food aid for more than six million people",
+    "simplified_title": "Trump plan would cut food aid for 6.3 million people",
+    "quick_summary": "The Trump administration has proposed tightening eligibility rules for America's biggest food aid program, which would remove about 6.3 million people from it.",
+    "simplified_body": "The United States Department of Agriculture (USDA) has put forward a proposed rule that would change who qualifies for the Supplemental Nutrition Assistance Program (SNAP), the country's largest federal food aid program for low-income families. The change would scrap \"automatic\" eligibility, where households that already qualify for another program — Temporary Assistance for Needy Families (TANF) — are signed up for SNAP without a separate check. The USDA says this would cut about 17 percent of recipients, roughly 6.3 million people.\n\nMore than 36 million people currently use SNAP, with an individual getting around $190 a month and a household about $356 in groceries. The flow-on effects would also strip free school lunches from 1.8 million children, since they'd no longer qualify through SNAP. Democratic lawmakers, including Representative Angie Craig and Senator Cory Booker, have slammed the move, with Booker calling it \"despicable\" while grocery prices stay high.\n\nTo qualify for SNAP directly, households must earn less than 130 percent of the federal poverty level. TANF rules vary by state and can stretch up to 200 percent, so some families currently come in through that wider door — the one this rule would close. The administration argues it's targeting aid to the genuinely needy and reducing fraud.\n\nThis builds on earlier Trump moves: 5.5 million people already lost access under the July 2025 \"Big Beautiful Bill,\" and in November 2025 SNAP funding was briefly withheld during a month-long government shutdown before the Supreme Court said that wasn't legal. The new rule is open for public comment for 30 days before any decision.",
+    "why_it_matters": "Food aid for millions of struggling Americans is on the line, and it's a sharp example of how a government can use welfare rules as both policy and political leverage — the kind of safety-net debate Australians will recognise from our own arguments over welfare eligibility and mutual obligation.",
+    "deep_analysis": "## Historical Context\n\nSNAP, long known as \"food stamps,\" is the backbone of America's anti-hunger safety net, reaching more than 36 million people. \"Categorical eligibility\" — the automatic linking of SNAP to TANF — was designed to simplify administration so families didn't have to clear the same hurdles twice. Winding it back has been a recurring conservative goal, and this proposal sits in a longer sequence of Trump-era changes: the July 2025 Big Beautiful Bill expanded work requirements and cut off certain immigrants, removing 5.5 million people, and shifted costs onto states.\n\n## Multiple Perspectives\n\nThe administration frames this as targeting aid to the \"truly needy\" and curbing fraud, arguing benefits had been handed out too freely — though Trump's claim about Biden-era spending was made without evidence. Democrats counter that SNAP is efficient when left to work as designed, and that tightening it during a cost-of-living squeeze deepens hardship. There's also a states-versus-federal thread: states struggled with the administrative load and extra costs pushed onto them, and 21 states were later threatened with funding cuts over refusing to share beneficiary data.\n\n## What to Watch\n\nThe 30-day public comment period is the immediate hurdle — large rule changes often draw legal challenges, and the Supreme Court has already pushed back once on SNAP funding. Watch whether the 1.8 million children's free-school-lunch flow-on effect becomes a political flashpoint, and how states respond to yet another administrative burden.",
+    "concepts": [
+     {
+      "term": "Supplemental Nutrition Assistance Program (SNAP)",
+      "definition": "The largest United States federal food aid program, giving low-income families money for groceries.",
+      "context": "More than 36 million people rely on it, with individuals receiving about $190 a month."
+     },
+     {
+      "term": "Temporary Assistance for Needy Families (TANF)",
+      "definition": "A separate US welfare program with state-by-state rules; qualifying for it currently makes a household automatically eligible for SNAP.",
+      "context": "The proposed rule would scrap this automatic link, which is the main driver of the cuts."
+     },
+     {
+      "term": "federal poverty level",
+      "definition": "A government income benchmark used to decide who qualifies for assistance programs.",
+      "context": "SNAP requires households to earn under 130 percent of it, while TANF can stretch to 200 percent."
+     }
+    ],
+    "quiz": {
+     "question": "Why would the proposed rule remove about 6.3 million people from SNAP?",
+     "options": [
+      "It cuts the monthly benefit amount to zero for most households",
+      "It bans all immigrants from receiving any food aid",
+      "It ends automatic SNAP eligibility for households that qualify through TANF",
+      "It lowers the direct SNAP income limit below 130 percent of the poverty level"
+     ],
+     "answer_index": 2,
+     "explanation": "The cuts come from scrapping \"categorical eligibility\" — the automatic SNAP sign-up for households that already qualify for TANF, which can reach up to 200 percent of the poverty level."
+    },
+    "background_beginner": "SNAP, once called \"food stamps,\" is the main way the United States government helps low-income people afford groceries, reaching over 36 million people. President Donald Trump's administration argues too many recipients don't really need the help and wants to tighten the rules and cut spending. This has become a running fight: earlier in 2025 a big law removed millions from the program, and funding was briefly frozen during a government shutdown until the Supreme Court stepped in. Democrats say the cuts hurt struggling families, especially with high grocery prices. The latest move would end a shortcut that automatically enrols people already on another welfare program, and it's now open for public comment.",
+    "impact_score": 72,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-11-01T203214Z_1898224243_RC29MHA6XIC5_RTRMADP_3_USA-SHUTDOWN-HUNGER-1767129322.jpg?resize=1920%2C1440",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "The Trump administration has proposed tightening eligibility rules for America's biggest food aid program, which would remove about 6.3 million people from it.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-11T01:25:05.266796+00:00",
+    "published_date": "2026-11-11",
+    "has_fulltext": true
+   },
+   {
     "id": "c49a6d41-8153-5867-a53f-e3523b003263",
     "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
     "simplified_title": "Defense Secretary Pete Hegseth faces impeachment push over wars",
@@ -1286,6 +1410,75 @@
     "reading_minutes": 2,
     "created_at": "2026-11-10T07:25:12.377460+00:00",
     "published_date": "2026-11-10",
+    "has_fulltext": true
+   },
+   {
+    "id": "84275bda-d5a5-528f-9d51-56c23aaada30",
+    "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+    "simplified_title": "Weight-loss drugs get warning about rare blinding eye condition",
+    "quick_summary": "The US drug regulator is making makers of Ozempic, Wegovy, Mounjaro and Zepbound add labels warning about a rare eye condition that can cause sudden, permanent vision loss.",
+    "simplified_body": "The US Food and Drug Administration (FDA) has ordered the makers of popular GLP-1 drugs — Ozempic, Wegovy, Mounjaro and Zepbound — to add a warning label about a rare eye disorder called nonarteritic anterior ischemic optic neuropathy, or NAION. It happens when blood flow to the optic nerve is restricted, starving the nerve of oxygen, which can cause sudden, painless loss of vision in one eye. That loss can be permanent, and there is no known treatment to reverse it.\n\nThis affects the millions of people taking these medicines for type 2 diabetes, obesity and heart disease. The FDA says its review found an \"increased risk of rare NAION events\" in people on the drugs, but stresses the condition is rare. The American Academy of Ophthalmology says any added risk \"appears small\" and that the drugs have not been proven to cause NAION. Novo Nordisk, which makes Wegovy, says the data \"do not establish a cause-and-effect relationship\".\n\nPart of the difficulty is that people taking GLP-1 drugs often already have risk factors for NAION — like diabetes, high blood pressure and high cholesterol — separate from the medication. NAION is the most common cause of acute optic nerve injury in people over 50. No one yet knows how, or even whether, the drugs trigger it.\n\nThe warning follows a 2024 Harvard study in JAMA Ophthalmology that found higher NAION rates in semaglutide users. Expect more research in larger, more diverse groups. In the meantime, the clear advice is: don't stop your medication without speaking to your doctor, and if you notice sudden, painless vision loss in one eye, see an ophthalmologist promptly.",
+    "why_it_matters": "GLP-1 drugs like Ozempic and Wegovy are hugely popular in Australia too, so a new safety warning — even for a rare risk — is worth knowing about if you or someone you know takes one.",
+    "deep_analysis": "## Historical Context\n\nGLP-1 receptor agonist drugs began as treatments for type 2 diabetes but exploded in popularity for weight loss, with semaglutide (sold as Ozempic and Wegovy) becoming a household name. As use has scaled up, regulators have steadily added safety warnings — the drugs already carry labels for conditions like pancreatitis and gallbladder disease, and common side effects of semaglutide include nausea, vomiting and stomach pain. The possible link to NAION is newer: the first study suggesting it came from Harvard researchers in 2024, published in JAMA Ophthalmology.\n\n## Multiple Perspectives\n\nThe FDA, after reviewing case reports and other studies, concluded there is an increased risk of rare NAION events and is requiring the warning. The American Academy of Ophthalmology takes a more cautious line, saying any added risk appears small and causation isn't established — while still advising patients to watch for sudden vision loss. Manufacturer Novo Nordisk agrees the data don't prove cause and effect. Researchers themselves are hedged: Harvard's Dr Joseph Rizzo called his own findings \"significant but tentative\". The sources also differ on the numbers — the BBC describes a study of 17,000 patients finding semaglutide users four times more likely to be diagnosed, while Ars Technica details the 2024 JAMA study of 710 diabetes and 979 overweight/obesity patients. On background rates, the European Medicines Agency's safety arm cited up to 1 in 10,000 semaglutide users, while the Academy puts general-population NAION at two to 10 per 100,000.\n\n## What to Watch\n\nWatch for larger, more diverse studies that could confirm or weaken the link, and for any explanation of a biological mechanism — currently unknown. Also watch whether other regulators follow the FDA. The core limitation remains: people on these drugs already carry NAION risk factors, so untangling the drug's role from underlying illness is genuinely hard.",
+    "concepts": [
+     {
+      "term": "GLP-1 drugs",
+      "definition": "A class of medicines originally for type 2 diabetes, now widely used for weight loss, that includes Ozempic, Wegovy, Mounjaro and Zepbound.",
+      "context": "These drugs are at the centre of the new FDA warning."
+     },
+     {
+      "term": "NAION",
+      "definition": "Nonarteritic anterior ischemic optic neuropathy — a rare condition where restricted blood flow to the optic nerve causes sudden, often permanent, painless vision loss in one eye.",
+      "context": "The eye condition the FDA is requiring warning labels about."
+     },
+     {
+      "term": "optic nerve",
+      "definition": "The nerve that carries visual signals from the eye to the brain; damage to it can cause vision loss.",
+      "context": "NAION occurs when blood flow to this nerve is cut off."
+     },
+     {
+      "term": "semaglutide",
+      "definition": "The active ingredient in Ozempic and Wegovy, one of the most common GLP-1 medicines.",
+      "context": "Studies linking GLP-1 drugs to NAION focused on this ingredient."
+     }
+    ],
+    "quiz": {
+     "question": "Why is it hard to be sure GLP-1 drugs cause NAION?",
+     "options": [
+      "Because the drugs are too new to study at all",
+      "Because there is a proven treatment that masks the symptoms",
+      "Because people taking the drugs often already have risk factors for NAION, like diabetes and high blood pressure",
+      "Because NAION only affects people under 50"
+     ],
+     "answer_index": 2,
+     "explanation": "Patients on GLP-1 drugs frequently have underlying conditions — diabetes, high blood pressure, high cholesterol — that themselves raise NAION risk, making it difficult to separate the drug's effect from the illness."
+    },
+    "background_beginner": "GLP-1 drugs are medicines such as Ozempic, Wegovy, Mounjaro and Zepbound. They started as treatments for type 2 diabetes but became enormously popular for weight loss, used by millions of people. Because so many people now take them, regulators like the US Food and Drug Administration keep examining their safety and adding warnings as new risks come up. The latest concern is a rare eye condition, NAION, that can cause sudden, permanent vision loss. It keeps coming up because researchers have spotted a possible link, but proving the drugs actually cause it is tricky — the people taking them often already have health problems that raise the risk on their own.",
+    "impact_score": 68,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/35c3/live/a6b43310-dd22-11f1-ab46-9fae224bbf6f.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "The US drug regulator is making makers of Ozempic, Wegovy, Mounjaro and Zepbound add labels warning about a rare eye condition that can cause sudden, permanent vision loss.",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o"
+     },
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "09b850e0-d843-5096-bc0d-92408ed8a6cb"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-11T01:25:09.096452+00:00",
+    "published_date": "2026-11-11",
     "has_fulltext": true
    },
    {
@@ -2027,5 +2220,5 @@
    }
   ]
  },
- "total_stories": 30
+ "total_stories": 33
 }
