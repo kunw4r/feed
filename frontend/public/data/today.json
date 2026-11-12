@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "generated_at": "2026-11-11T19:23:03.868373+00:00",
+ "generated_at": "2026-11-12T01:23:04.467945+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -208,6 +208,64 @@
     "reading_minutes": 4,
     "created_at": "2026-11-10T19:25:47.593751+00:00",
     "published_date": "2026-11-11",
+    "has_fulltext": true
+   },
+   {
+    "id": "c2c0142f-93a0-5df7-bcfc-149aaa9f9d67",
+    "title": "How cancer patients became lost in a Queensland hospital crisis",
+    "simplified_title": "Townsville Hospital Failed to Tell Patients They Had Cancer",
+    "quick_summary": "An investigation found Townsville Hospital failed to tell some patients they had aggressive cancers or book them for urgent care, with delays contributing to at least one death.",
+    "simplified_body": "An investigation into the Townsville Hospital and Health Service (THHS), North Queensland's largest public hospital, has found it failed to tell some patients they had aggressive cancers needing urgent treatment. A report of more than 200 pages, released this week, detailed four cases where patients with suspected or confirmed cancer were not followed up. In some, the hospital only realised its mistake when general practitioners (GPs) referred patients back after forgotten biopsy results.\n\nThe failings had serious consequences. Investigators confirmed one patient diagnosed with bladder cancer in 2023 died before receiving reasonable treatment, as referral delays contributed to their deterioration. Another patient, now in palliative care, waited 549 days for a first specialist appointment and 782 days for a biopsy, by which time they had high-grade cancer that had spread. The report noted a second patient's death in 2025 involved gaps in care, but did not directly blame hospital delays.\n\nInvestigators pointed to workforce shortages as a key cause, alongside human error, paper-based admin, poorly formed policies and non-compliance. They said the hospital needed two more full-time urologists to cover its service area of more than 148,000 square kilometres. Doctors say the warning signs were there for years, with waiting lists \"blowing out\" across departments.\n\nQueensland Health has accepted, in principle, all 27 recommendations the investigators made. Health Minister Tim Nicholls visited Townsville and said the failings should not have happened, noting there had been a change in executive leadership at THHS. The Australian Medical Association (AMA) Queensland is pushing for a broader workforce plan, warning the state could be 6,000 doctors short by 2032.",
+    "why_it_matters": "This is a stark case of a major Australian public hospital letting cancer patients slip through the cracks, with at least one death linked to delays — and it points to a wider regional doctor shortage that could affect communities across Queensland.",
+    "deep_analysis": "## Historical Context\n\nPublic hospitals in regional Australia have long struggled to attract and retain specialists, and the Townsville case fits that pattern. Investigators who reviewed the report say warning signs about poor resourcing had been evident for years, and local GPs noticed urology patients waiting unusually long times well before the official investigation. The report frames the crisis not as a one-off error but as the result of structural problems: a hospital covering more than 148,000 square kilometres while short on urologists, relying on paper-based administration and inconsistent policies.\n\n## Multiple Perspectives\n\nInvestigators concluded that workforce shortages, human error, weak policies and non-compliance combined to create the care gaps. Townsville GP and RACGP rural chair Michael Clements had hoped the investigation would highlight a need for greater hospital funding, but said it did not — and he argues the system simply isn't meeting community need. AMA Queensland president Nick Yim links the Townsville shortfall to a statewide problem, citing government figures that Queensland could be 6,000 doctors short by 2032. Health Minister Tim Nicholls acknowledged the failings \"should not have happened\" and pointed to a change in executive leadership. These views broadly agree on the problem but differ in emphasis: frontline doctors stress funding and workforce, while the minister stresses accountability and the 27 accepted recommendations.\n\n## What to Watch\n\nKey things to watch are whether Queensland Health moves from accepting the 27 recommendations \"in principle\" to actually implementing them, whether the two additional urologists are recruited, and whether a broader state workforce plan materialises. The second patient death in 2025, not directly attributed to delays, may also attract further scrutiny.",
+    "concepts": [
+     {
+      "term": "urology",
+      "definition": "The branch of medicine dealing with the urinary system and male reproductive organs, including conditions like prostate and bladder cancer.",
+      "context": "The report said the hospital needed two more full-time urologists to cover its vast service area."
+     },
+     {
+      "term": "palliative care",
+      "definition": "Medical care focused on relieving symptoms and improving quality of life for people with serious or terminal illness, rather than curing it.",
+      "context": "One patient who waited 549 days for a first appointment now remains in palliative care with cancer that has spread."
+     },
+     {
+      "term": "biopsy",
+      "definition": "A procedure where a sample of tissue is removed from the body and examined to check for disease such as cancer.",
+      "context": "Some patients were not recalled for their biopsy results, leaving both them and their GP unaware of a positive cancer diagnosis."
+     }
+    ],
+    "quiz": {
+     "question": "According to the report, what was identified as a key contributor to the urology care gaps at Townsville Hospital?",
+     "options": [
+      "Patients failing to attend their appointments",
+      "A cyber attack on the hospital's systems",
+      "A shortage of hospital beds",
+      "Workforce shortages, human error and paper-based admin"
+     ],
+     "answer_index": 3,
+     "explanation": "Investigators identified workforce shortages as a key contributor, along with human error, paper-based admin, ill-formed policies and policy non-compliance. The hospital needed two more full-time urologists for its large service area."
+    },
+    "background_beginner": "Townsville Hospital and Health Service runs North Queensland's largest public hospital. An official investigation has found it failed to tell some patients they had aggressive cancers or to book them for urgent specialist care, especially in urology (the area of medicine covering the urinary system and prostate). The problems came to light when local family doctors (GPs) referred patients back after noticing forgotten test results and very long waits. The report, released this week, blames staff shortages, human error and old-fashioned paper record-keeping. It matters because at least one patient's death was linked to delays, and doctors warn similar pressures are building across Queensland's health system.",
+    "impact_score": 62,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/37495579c6c4a39bdedde1a95ca2333c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=642&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "An investigation found Townsville Hospital failed to tell some patients they had aggressive cancers or book them for urgent care, with delays contributing to at least one death.",
+    "tier": "LOCAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-12/townsville-hospital-lost-high-risk-patients-how-investigation/107373470"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-12T01:24:45.993449+00:00",
+    "published_date": "2026-11-12",
     "has_fulltext": true
    },
    {
@@ -825,6 +883,73 @@
     "created_at": "2026-11-11T01:25:08.139681+00:00",
     "published_date": "2026-11-11",
     "has_fulltext": true
+   },
+   {
+    "id": "eebd04f0-13a1-5b21-800e-dbd5e174bf55",
+    "title": "US Army soldier suspected of spying for Russia arrested in UK",
+    "simplified_title": "US Army soldier arrested in UK over alleged Russian spying",
+    "quick_summary": "British counter-terror police have arrested a 41-year-old US Army soldier near Gloucester on suspicion of spying for Russia.",
+    "simplified_body": "A senior US Army soldier, aged 41, was arrested near Gloucester, England, on Tuesday on suspicion of spying for Russia. British counter-terror police made the arrest under the National Security Act 2023 — section one, which covers obtaining or disclosing protected information, and section three, which covers assisting a foreign intelligence service. Police said the country the allegations relate to is Russia, and that officers are searching two locations in Gloucestershire.\n\nThe arrest matters because the soldier was based at Imjin Barracks in Innsworth, which is the headquarters of Nato's Allied Rapid Reaction Corps (ARRC), a key operational base for the alliance. US authorities, the US military and the FBI (Federal Bureau of Investigation) were closely involved. The man is in custody at a London police station and can be held without charge for up to 14 days.\n\nFor newcomers: the Gloucestershire area is thick with sensitive military and intelligence sites. Nearby Cheltenham hosts GCHQ, the UK's signals intelligence agency, and RAF Fairford — an airbase used by both UK and US planes — sits not far away. An \"insider threat\" means someone trusted with sensitive information who allegedly misuses it.\n\nWhat happens next is unclear. Police stress the investigation is ongoing and the serious allegations are unproven. FBI director Kash Patel called the case of \"utmost concern\", while US Army counterintelligence chief Brig Gen Sean Stinchon said it was \"a sobering reminder that insider threats are real and persistent\".",
+    "why_it_matters": "An alleged spy working inside a Nato headquarters raises fresh worries about Russian infiltration of the alliance — something that matters to Australia as a close intelligence partner of both the US and UK through the Five Eyes network.",
+    "deep_analysis": "## Historical Context\n\nEspionage cases involving Western militaries and Russia are not new, and counterintelligence agencies treat \"insider threats\" — trusted personnel who allegedly leak secrets — as a persistent risk. This case stands out because the suspect is a US soldier arrested on British soil, under the UK's National Security Act 2023. That Act, a relatively recent law, created specific offences for obtaining or disclosing protected information (section one) and for assisting a foreign intelligence service (section three), and it allows police to hold suspects without charge for up to 14 days.\n\n## Multiple Perspectives\n\nUK and US authorities have presented a united front. Deputy Assistant Commissioner Vicki Evans called it a \"significant arrest\" born of close UK–US collaboration. The FBI's Kash Patel framed it as a matter of \"utmost concern\" to the US and allies, while Brig Gen Sean Stinchon emphasised the resolve of the counterintelligence community. Importantly, police say the investigation is ongoing and the allegations remain unproven — the soldier has not been charged, and is unnamed. Police also stated the case is not linked to any other ongoing investigation.\n\n## What to Watch\n\nKey questions remain: whether charges follow within the 14-day custody window, and what, if anything, was allegedly passed to Russia. The soldier's reported posting at Imjin Barracks — home of Nato's Allied Rapid Reaction Corps — will prompt scrutiny of what sensitive material he could access. Watch, too, for any assessment of damage to the alliance and whether the two Gloucestershire searches yield further leads.",
+    "concepts": [
+     {
+      "term": "National Security Act 2023",
+      "definition": "A UK law creating offences such as obtaining or disclosing protected information and assisting a foreign intelligence service, and allowing suspects to be held without charge for up to 14 days.",
+      "context": "The soldier was arrested under sections one and three of this Act."
+     },
+     {
+      "term": "Allied Rapid Reaction Corps (ARRC)",
+      "definition": "A Nato rapid-deployment command whose headquarters is at Imjin Barracks, serving as a strategic operational base for the alliance.",
+      "context": "The suspect was reportedly based at the barracks hosting this corps."
+     },
+     {
+      "term": "insider threat",
+      "definition": "The risk posed by a trusted person who allegedly misuses their access to sensitive information.",
+      "context": "US officials described the case as a reminder that insider threats are real and persistent."
+     },
+     {
+      "term": "GCHQ",
+      "definition": "The UK's signals intelligence agency, headquartered in Cheltenham.",
+      "context": "One of several sensitive intelligence sites clustered near the arrest location."
+     }
+    ],
+    "quiz": {
+     "question": "Why is the location of the suspect's posting considered especially significant?",
+     "options": [
+      "He was stationed at RAF Fairford",
+      "He worked at a London police station",
+      "He worked at GCHQ's headquarters in Cheltenham",
+      "He was based at Imjin Barracks, headquarters of Nato's Allied Rapid Reaction Corps"
+     ],
+     "answer_index": 3,
+     "explanation": "The BBC understands the soldier was based at Imjin Barracks, which serves as the headquarters of Nato's Allied Rapid Reaction Corps — a strategic operational base, making alleged access to secrets particularly sensitive."
+    },
+    "background_beginner": "Spying between Russia and Western countries has gone on for decades, and militaries guard against \"insiders\" — trusted staff who might leak secrets. In this case, British counter-terror police arrested a 41-year-old US Army soldier near Gloucester, England, on suspicion of spying for Russia. He was reportedly based at a barracks that hosts a Nato command headquarters, and the surrounding area holds several military and intelligence sites, including the UK's GCHQ signals-intelligence agency. The FBI, US military and UK police are all involved. Cases like this keep surfacing because alliances such as Nato rely on keeping sensitive information secure, and any alleged breach raises alarm among partner nations.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "British counter-terror police have arrested a 41-year-old US Army soldier near Gloucester on suspicion of spying for Russia.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-12T01:24:45.621021+00:00",
+    "published_date": "2026-11-12",
+    "has_fulltext": true
    }
   ],
   "MIDDLE_EAST_AFRICA": [
@@ -1176,6 +1301,77 @@
    }
   ],
   "AMERICAS": [
+   {
+    "id": "a0aceb71-7ca9-5641-a964-d01039a87e49",
+    "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
+    "simplified_title": "Democrat Scott Colom wins historic Mississippi Senate upset",
+    "quick_summary": "Democrat Scott Colom has narrowly beaten Republican incumbent Cindy Hyde-Smith to become Mississippi's first Black US senator in over 140 years.",
+    "simplified_body": "Democrat Scott Colom, a 43-year-old local prosecutor, has won Mississippi's United States Senate race, defeating incumbent (sitting) Republican Senator Cindy Hyde-Smith by a sliver. Figures from CBS cited by the BBC put it at 49.2% to 48.7%, with an independent on 2.1% — a lead of around 4,500 votes. It makes Colom Mississippi's first Black senator since the Reconstruction era that followed the US Civil War, and ends a Republican winning streak in the state's Senate races dating back to 1982.\n\nThe result matters because it hands Democrats a bigger cushion in the 100-seat Senate — now 55 seats, with Alaska still undecided — on top of winning the House of Representatives in the November 3 midterm elections (the national votes held midway through a president's term). Democrats flipped Republican strongholds including Texas, South Carolina, Kansas and Iowa. Exit polls blame voter anger over the economy, President Donald Trump's tariffs and the war with Iran.\n\nFor background: Mississippi is deeply conservative — Trump won it by more than 22 points in 2024 (DW says nearly 23). The count dragged on for over a week as officials tallied more than 100,000 mail-in ballots plus provisional ballots, which are votes set aside until a person's eligibility is confirmed. Hyde-Smith had earlier blocked Colom's nomination by former President Joe Biden to be a federal judge, citing his stance on transgender issues.\n\nHyde-Smith posted a concession video and rang Colom to concede. Colom, who campaigned across all 82 counties backing a higher minimum wage and rural hospitals, will be sworn in next January. The new Congress will include a record seven Black senators.",
+    "why_it_matters": "A Democrat winning in one of America's reddest states — for the first time since the 1980s — signals a sharp national backlash against Trump's economic and foreign policy, and strengthens Democrats' hold on the US Senate.",
+    "deep_analysis": "## Historical Context\n\nMississippi has been dominated by white conservatives for generations, and its Senate seats had stayed Republican since 1982 — the last time a Democrat won one, when John Stennis beat Haley Barbour, who later became governor. Colom's win is framed two ways in the sources: the BBC and Al Jazeera emphasise the first Black senator from the state in more than 140 years (reaching back to Reconstruction, the period after the Civil War when Black Americans briefly held office in the South). DW adds that he is the first *new* Democratic senator Mississippi has chosen since 1947. Both can be true: they describe different milestones.\n\n## Multiple Perspectives\n\nColom cast himself as a candidate for \"rural, suburban and urban America,\" leaning on economic frustration and nicknaming his opponent \"Cindy High Prices\" over her support for Trump's tariffs. The NAACP in Jackson celebrated the result as proof that grassroots organising can beat better-funded campaigns. Hyde-Smith's camp had attacked Colom as a puppet of liberal donor George Soros, and initially expressed confidence that counting would favour her — Al Jazeera, written earlier, notes she stayed out of public view before later conceding gracefully in a video. The sources differ slightly on Trump's 2024 margin (more than 22 points versus nearly 23).\n\n## What to Watch\n\nThe Alaska Senate race remains uncalled, which will set the final Democratic majority (currently 55). Mississippi has no mandatory recount law, so a legal challenge is not automatic. Watch whether Democrats treat the US South as genuinely winnable going forward, and how a 55-seat majority reshapes the agenda when Colom is sworn in next January.",
+    "concepts": [
+     {
+      "term": "incumbent",
+      "definition": "The person currently holding a political office and seeking to keep it in an election.",
+      "context": "Cindy Hyde-Smith was the sitting senator defending her seat against Colom."
+     },
+     {
+      "term": "provisional ballots",
+      "definition": "Votes set aside and only counted once officials confirm the voter was actually eligible.",
+      "context": "Thousands were cast in Mississippi by people who couldn't confirm their registration at polling sites."
+     },
+     {
+      "term": "midterm",
+      "definition": "US elections held midway through a president's four-year term that can reshape control of Congress.",
+      "context": "These November 3 midterms delivered broad losses for Trump's Republicans."
+     },
+     {
+      "term": "concession",
+      "definition": "When a losing candidate publicly accepts defeat, often contacting the winner.",
+      "context": "Hyde-Smith posted a concession video and phoned Colom to acknowledge the result."
+     }
+    ],
+    "quiz": {
+     "question": "Why is Colom's victory considered such a major upset?",
+     "options": [
+      "He is the youngest senator ever elected",
+      "He defeated a Democratic incumbent in a primary",
+      "He won a deeply Republican state Trump carried by over 22 points, ending a GOP Senate streak since 1982",
+      "He ran without any campaign funding"
+     ],
+     "answer_index": 2,
+     "explanation": "The shock is that a Democrat won in strongly conservative Mississippi — which Trump won by more than 22 points — breaking a Republican hold on the state's Senate seats dating to 1982."
+    },
+    "background_beginner": "The United States Senate is the upper house of Congress, with 100 seats; controlling it shapes what laws and nominations pass. Mississippi is one of the most conservative US states and has sent Republicans to the Senate for decades. In the November 2026 midterm elections — votes held halfway through President Donald Trump's term — Democrats did unexpectedly well, blamed on anger over the economy, Trump's tariffs and a war with Iran. Scott Colom, a local Democratic prosecutor, narrowly beat sitting Republican Senator Cindy Hyde-Smith. The story keeps coming up because it was extremely close, took over a week to count, and makes Colom the state's first Black senator in more than 140 years.",
+    "impact_score": 72,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af4c0e14dde-1794425057.jpg?resize=1920%2C1440",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Democrat Scott Colom has narrowly beaten Republican incumbent Cindy Hyde-Smith to become Mississippi's first Black US senator in over 140 years.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-12T01:25:03.915795+00:00",
+    "published_date": "2026-11-12",
+    "has_fulltext": true
+   },
    {
     "id": "7cee5e9b-be3c-57b9-b963-1f6ab351d4ed",
     "title": "Trump administration seeks to cut food aid for more than six million people",
@@ -1907,6 +2103,78 @@
   ],
   "AI_TECH": [
    {
+    "id": "dd230e72-b0e4-50f3-ba24-21b21abf485f",
+    "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+    "simplified_title": "Nvidia Board Weighs Ousting CEO Jensen Huang Over Affairs",
+    "quick_summary": "Nvidia's board is reportedly preparing urgent talks about removing co-founder and chief executive Jensen Huang following revelations of two affairs, one allegedly involving a suspected Chinese spy.",
+    "simplified_body": "Nvidia's board is reportedly set to hold urgent talks about the future of co-founder and chief executive Jensen Huang, who has led the chipmaker for more than three decades. The talks follow revelations that Huang had an affair with Kimberly Powell, the company's vice-president of healthcare and an 18-year veteran, who reported to him. This comes days after Huang admitted in a note to staff that he had been unfaithful to his wife in a separate relationship with Alice Huang, an executive at a customer company who US intelligence reportedly believes was recruited by China's Ministry of State Security (its spy agency).\n\nThe news affects a vast number of people because Nvidia is a $4.2 trillion company and the dominant supplier of chips for artificial intelligence (AI). Shares dropped about 8 percent in after-hours trading after the reports. Shareholders have already sued Nvidia and Huang in a proposed class action, accusing them of hiding the relationship and its risks.\n\nFor newcomers: Huang built Nvidia from a gaming-chip maker into the world's leading AI chip supplier, and he has become an influential voice in US President Donald Trump's circle on AI policy and export controls. Trump said on Monday the Federal Bureau of Investigation (FBI) was investigating the espionage allegations. Beijing has rejected the spying claims.\n\nWhat's next is uncertain. Nvidia has hired a former federal prosecutor to lead an investigation, and on Sunday the board backed Huang to stay. But Bloomberg reports the board is now working with an outside firm to find possible successors and weighing an interim chief executive. Senior Republicans and Democrats have called for congressional investigations. This is a developing story.",
+    "why_it_matters": "Nvidia's AI chips power much of the technology underpinning businesses and research worldwide, including in Australia, so turmoil at the top of a $4.2 trillion company ripples through markets and the entire AI industry.",
+    "deep_analysis": "## Historical Context\n\nJensen Huang co-founded Nvidia and has run it for more than three decades, steering it from a maker of gaming chips into the dominant supplier of chips for artificial intelligence. That transformation has made the company worth $4.2 trillion and given Huang outsized influence — including, the sources note, as a voice in President Trump's circle on US AI policy and export controls. Founder-led tech companies often treat the founder as inseparable from the business, which is exactly why a board moving against one is such a dramatic step.\n\n## Multiple Perspectives\n\nThe reporting here is layered and still unfolding. The Wall Street Journal led reports that the board could oust Huang; the New York Times reported the affair with Kimberly Powell; the Financial Times earlier reported the relationship with Alice Huang. Huang himself acknowledged being unfaithful but did not name anyone, and when asked about Powell told the NYT, \"I don't think you should be talking to me directly,\" before ending the call. US intelligence reportedly views Alice Huang as a Chinese intelligence asset, while Beijing has rejected the espionage allegation. Shareholders see concealed risk and have sued; the board initially backed Huang on Sunday but is now reportedly weighing successors.\n\n## What to Watch\n\nThe Wednesday board meeting is the immediate flashpoint — whether Huang stays, is replaced by an interim chief, or departs. Watch the former federal prosecutor's investigation, the FBI probe, the shareholder class action, and any congressional inquiries. Given Nvidia's size, share-price moves and any succession naming will matter well beyond the company. The sources stress this is a developing story, so details may shift.",
+    "concepts": [
+     {
+      "term": "Ministry of State Security",
+      "definition": "China's main civilian intelligence and security agency, responsible for foreign espionage and counter-intelligence.",
+      "context": "US intelligence reportedly believes one woman Huang was involved with was recruited by this agency; Beijing has rejected the claim."
+     },
+     {
+      "term": "class action",
+      "definition": "A lawsuit brought by one or more people on behalf of a larger group who have suffered the same alleged harm.",
+      "context": "Shareholders sued Nvidia and Huang, accusing them of concealing a relationship and the risks it posed to the company."
+     },
+     {
+      "term": "interim CEO",
+      "definition": "A temporary chief executive who runs a company while the board searches for a permanent replacement.",
+      "context": "Bloomberg reported Nvidia's board was considering appointing one while looking for a long-term successor to Huang."
+     },
+     {
+      "term": "export controls",
+      "definition": "Government rules restricting which goods or technologies, such as advanced chips, can be sold to particular countries.",
+      "context": "Huang had become an influential voice in Trump's circle on US AI policy and export controls."
+     }
+    ],
+    "quiz": {
+     "question": "Why are the affair revelations seen as a serious risk to Nvidia rather than just a personal matter?",
+     "options": [
+      "Because the company was being taken private",
+      "Because one woman involved was reportedly identified by US intelligence as a Chinese spy asset, raising national-security and espionage concerns",
+      "Because Nvidia had recently stopped making chips",
+      "Because Huang had already resigned earlier in the year"
+     ],
+     "answer_index": 1,
+     "explanation": "The scandal escalated beyond a personal affair because US intelligence reportedly believed one woman was recruited by China's spy agency, triggering an FBI probe, a board investigation and calls for congressional inquiries."
+    },
+    "background_beginner": "Nvidia is a US technology company that makes computer chips. Co-founder Jensen Huang has run it for over 30 years, growing it from a gaming-chip maker into the world's leading supplier of chips for artificial intelligence (AI) — software that can generate text, images and more. That success made Nvidia worth about $4.2 trillion and made Huang a powerful figure, even advising President Trump on AI policy. The story keeps coming up because Huang has admitted to an affair, and reports link him to two women — one allegedly tied to Chinese intelligence, the other a senior Nvidia executive. US authorities are now investigating, and the board is reportedly considering replacing him.",
+    "impact_score": 78,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "Nvidia's board is reportedly preparing urgent talks about removing co-founder and chief executive Jensen Huang following revelations of two affairs, one allegedly involving a suspected Chinese spy.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "58601233-8eab-5958-9bc7-31547e599829",
+     "72597008-acc3-5015-8369-4d885c3f3663",
+     "9e59aa4a-e3d3-5005-9839-eea8b53dbda6",
+     "e829fe99-b7db-5487-836b-6675ace03fcc"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-11-12T01:24:47.968789+00:00",
+    "published_date": "2026-11-12",
+    "has_fulltext": true
+   },
+   {
     "id": "9c0637c4-f196-5a71-874a-bf36100d732e",
     "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
     "simplified_title": "Anthropic chases $1.4tn valuation in giant AI float",
@@ -2117,5 +2385,5 @@
    }
   ]
  },
- "total_stories": 31
+ "total_stories": 35
 }
