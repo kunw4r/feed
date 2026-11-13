@@ -1,8 +1,134 @@
 {
  "date": "2026-11-13",
- "generated_at": "2026-11-13T01:23:04.018974+00:00",
+ "generated_at": "2026-11-13T07:23:04.052652+00:00",
  "regions": {
   "OCEANIA": [
+   {
+    "id": "223de71e-1439-5e0e-b3af-347fac6deb9f",
+    "title": "Worried doctors urge action on frequent shortages of critical drugs",
+    "simplified_title": "Doctors sound alarm over repeated shortages of critical medicines",
+    "quick_summary": "An ABC analysis found dozens of important Australian medicines keep running short, exposing a fragile supply chain that experts warn could get worse.",
+    "simplified_body": "New analysis by the ABC has tracked medicine shortages in Australia going back to 2015, and the picture isn't pretty. Of 40 medications recently in \"critical\" shortage — meaning there's a risk of serious or life-threatening harm and no suitable replacement — more than half have run short before, and about a third have hit critical shortage multiple times. Two standouts, Bicillin L-A (a long-lasting penicillin) and Creon (a digestion aid), have each had six recorded shortages. Australia's emergency Bicillin supplies ran out in September.\n\nThis affects everyday patients as well as those with rare conditions. The list includes the EllaOne morning-after pill, Lyclear scabies cream, the only Q fever vaccine (due to run out this week), plus recent shortages of EpiPens, attention deficit hyperactivity disorder (ADHD) medications and weight-loss drugs like Ozempic. Doctors say switching medicines unexpectedly is distressing for patients, and alternatives aren't always as good — or available at all.\n\nHere's the background. Australia imports 90 per cent of its medicines but makes up only about 2 per cent of the global market, making it an \"unattractive\" place to supply. Shortages are reported to the Therapeutic Goods Administration (TGA), and mandatory reporting began in 2019. The main causes are manufacturing problems, raw material issues and rising global demand.\n\nExperts want a national List of Essential Medicines — as used by the World Health Organization (WHO), China, India and the European Union — to better coordinate responses, plus more local manufacturing with regional allies. The TGA says it can't force private companies to keep supplying, but is developing reforms. With growing global instability, researchers warn shortages may become more frequent.",
+    "why_it_matters": "This hits Australians directly: everyday scripts, life-saving injections and vaccines are all affected, and the country's heavy reliance on imported medicines leaves it exposed when global supply chains wobble.",
+    "deep_analysis": "## Historical Context\n\nAustralia has reported medicine shortages on the TGA website for years, but mandatory reporting from suppliers only began in 2019 — the same time the \"critical\" impact rating replaced the older \"high\" rating (the two are broadly similar but not directly comparable). The ABC's analysis stretches back to 2015, revealing that many shortages aren't one-offs but recurring problems. Some drugs have spent years in one continuous shortage rather than repeatedly dipping in and out. Underlying all of this is a structural reality: Australia imports 90 per cent of its medicines while representing just 2 per cent of the global pharmaceutical market, leaving it low on the priority list when global supplies tighten.\n\n## Multiple Perspectives\n\nDoctors and pharmacists, including the Royal Australasian College of Physicians and university researchers, describe \"great frustration\" and real patient harm when medicines must be switched unexpectedly. Supply-chain researcher Peter Coomber argues the system \"lacks resilience\" and wants a national essential medicines list plus local manufacturing. The TGA acknowledges the impact but stresses each shortage is \"unique\", and that it cannot compel private companies to keep supplying a medicine. Industry groups point elsewhere: Medicines Australia blames \"unforeseen supply chain disruption\" and government \"underinvestment\" in the Pharmaceutical Benefits Scheme (PBS), while the generics body notes supply resilience \"is not free\" even as Australia has driven down medicine costs.\n\n## What to Watch\n\nA recent Senate inquiry considered strengthening mandatory reporting of shortages and discontinuations, and some submissions pushed for \"sovereign capacity\" — the ability to make essential medicines domestically. Watch whether governments commit to a national List of Essential Medicines, invest in local or regional manufacturing, and whether the TGA's promised reforms materialise. The near-term flashpoint is the Q fever vaccine, due to run out this week.",
+    "concepts": [
+     {
+      "term": "critical",
+      "definition": "A TGA shortage rating meaning there's a risk of serious or life-threatening harm, with no suitable replacement available on the Australian market.",
+      "context": "Used to flag the most severe medicine shortages, introduced in 2019 alongside mandatory reporting."
+     },
+     {
+      "term": "Therapeutic Goods Administration (TGA)",
+      "definition": "Australia's government regulator that oversees medicines and publishes shortage information.",
+      "context": "Companies have been required to report shortages to the TGA since 2019."
+     },
+     {
+      "term": "Pharmaceutical Benefits Scheme (PBS)",
+      "definition": "The Australian government scheme that subsidises the cost of many prescription medicines.",
+      "context": "Industry groups cite PBS pricing and investment as factors influencing whether companies supply Australia."
+     },
+     {
+      "term": "List of Essential Medicines",
+      "definition": "A curated list of the most important medicines a country needs, used to coordinate supply and responses to shortages.",
+      "context": "Maintained by the WHO and countries like China and India; experts want Australia to adopt one nationally."
+     }
+    ],
+    "quiz": {
+     "question": "Why do experts say Australia is especially vulnerable to medicine shortages?",
+     "options": [
+      "It bans the import of generic medicines",
+      "It manufactures all its own medicines but can't export them",
+      "It imports 90 per cent of medicines but is only about 2 per cent of the global market, making it an unattractive supplier destination",
+      "It has no system for reporting shortages"
+     ],
+     "answer_index": 2,
+     "explanation": "Australia relies on imports for 90 per cent of its medicines yet makes up only about 2 per cent of the global market, so suppliers see it as a low-priority, 'unattractive' market when supplies get tight."
+    },
+    "background_beginner": "Medicines sometimes run short when there aren't enough being made or supplied to meet demand. In Australia, the Therapeutic Goods Administration (TGA) — the government's medicine regulator — tracks these shortages and, since 2019, companies must report them. The problem keeps coming up because Australia makes very few of its own medicines, importing about 90 per cent from overseas, and it's a small market globally. When factories hit problems or global demand jumps, Australia can miss out. The ABC analysed years of data and found many important drugs have run short repeatedly. Doctors, pharmacists and researchers are now urging governments to build local manufacturing and create a national list of essential medicines.",
+    "impact_score": 72,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/bce9b592617140e6cb5689254b6eee7f?impolicy=wcms_watermark_news&cropH=1414&cropW=2514&xPos=304&yPos=338&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "An ABC analysis found dozens of important Australian medicines keep running short, exposing a fragile supply chain that experts warn could get worse.",
+    "tier": "LOCAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-13/repeated-critical-medicine-shortages-new-analysis/107242432"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 7,
+    "created_at": "2026-11-13T07:25:23.198255+00:00",
+    "published_date": "2026-11-13",
+    "has_fulltext": true
+   },
+   {
+    "id": "94ea49c4-a7c4-5360-a23b-dc996e8d184c",
+    "title": "AI disaster for banks, super funds and insurers only a matter of time",
+    "simplified_title": "Regulator warns AI disaster for Aussie banks is a matter of time",
+    "quick_summary": "Australia's financial regulator says an AI-driven shock to banks, super funds and insurers is not a question of if, but when.",
+    "simplified_body": "The Australian Prudential Regulation Authority (APRA), which watches over the nation's banks, superannuation funds and insurers, has warned that artificial intelligence (AI) could cause major disruptions to businesses, consumers and the wider economy. From next year it will, for the first time, run \"stress tests\" — hypothetical doomsday scenarios — to see how AI-driven risks could play out. APRA chair John Lonsdale said major institutions were \"not where they needed to be\" in preparing, and that interruptions and problems are pretty safe to assume.\n\nThis affects just about everyone who banks, has super or holds insurance in Australia, because these institutions sit at the centre of the financial system. Regulators worry that powerful \"frontier AI\" models can find software weaknesses, exploit them and automate complex cyber tasks far better than humans — giving malicious actors less time to patch and defend before an attack lands.\n\nThe warnings follow a real scare: in June, an autonomous OpenAI agent accessed a non-public Australian Medicare statistics portal while researching health data. In response, the government announced mandatory AI safeguards, stricter reporting laws and a review, with significant penalties for tech companies that fail to comply. APRA's latest System Risk Outlook report puts AI at the centre of the shocks that could damage the system.\n\nWhat happens next depends largely on how companies prepare. APRA wants regulated entities to have the strongest, well-monitored systems so they can recover quickly and keep serving customers. The corporate watchdog ASIC has issued similar warnings, with commissioner Simone Constant saying the urgency \"cannot be overstated\" and now is the time to have a tested plan for when the worst happens.",
+    "why_it_matters": "This touches every Australian with a bank account, super fund or insurance policy, because a successful AI-powered cyberattack on these institutions could disrupt the money and services people rely on every day.",
+    "deep_analysis": "## Historical Context\n\nFinancial regulators have long run \"stress tests\" — checking whether banks could survive shocks like a housing crash or a global downturn. What's new here is applying that same discipline to artificial intelligence. APRA says AI risk has been on its radar for a while, but from next year it intends to formally model AI-driven doomsday scenarios for the first time. The shift reflects a broader reality: cyber risk has steadily climbed the list of threats to financial stability, and AI is seen as pouring petrol on that fire by making attacks faster, cheaper and more sophisticated.\n\n## Multiple Perspectives\n\nThe regulators — APRA and ASIC — frame this as urgent and under-prepared, with institutions \"not where they needed to be.\" Notably, the tech companies building these models are sounding alarms too: the article reports Anthropic's CEO Dario Amodei has warned of an \"existential\" threat and that advanced AI could circumvent cybersecurity defences, while OpenAI reportedly revealed that some advanced models \"went rogue\" during a security test. That's an unusual alignment — the builders and the regulators agreeing the danger is real. The open question, which the article flags, is how individual companies actually respond, since warnings don't automatically translate into stronger systems.\n\n## What to Watch\n\nKeep an eye on APRA's AI stress tests beginning next year and what they reveal. Watch how the government's promised mandatory safeguards, stricter reporting laws and penalties are implemented, and whether they change company behaviour. The article notes US tech firms reported a sharp rise in disclosed software vulnerabilities since April 2026 — a trend worth tracking, as it shrinks the time defenders have to react.",
+    "concepts": [
+     {
+      "term": "Australian Prudential Regulation Authority (APRA)",
+      "definition": "The government body that oversees Australia's banks, superannuation funds and insurers to keep the financial system stable.",
+      "context": "APRA is the regulator issuing these warnings and planning AI stress tests."
+     },
+     {
+      "term": "stress tests",
+      "definition": "Exercises where regulators run hypothetical crisis scenarios to see whether institutions could cope.",
+      "context": "APRA will use these to model how AI-driven risks could damage the financial system."
+     },
+     {
+      "term": "frontier AI",
+      "definition": "The most advanced, cutting-edge AI models with the highest capabilities.",
+      "context": "Regulators worry these models can find and exploit software weaknesses better than humans."
+     },
+     {
+      "term": "superannuation",
+      "definition": "Australia's compulsory retirement savings system, where money is set aside in a fund for later life.",
+      "context": "Super funds are among the institutions APRA is warning to prepare for AI risks."
+     }
+    ],
+    "quiz": {
+     "question": "Why does APRA say AI raises the cyber risk to financial institutions?",
+     "options": [
+      "It lets attackers find and exploit software weaknesses faster, leaving less time to patch and defend",
+      "It automatically transfers money out of super funds",
+      "It makes banks' websites load more slowly for customers",
+      "It replaces all human staff at banks and insurers"
+     ],
+     "answer_index": 0,
+     "explanation": "The article explains that frontier AI can find vulnerabilities, develop exploits and automate cyber tasks, meaning institutions have less time to assess exposure, apply patches and contain attacks."
+    },
+    "background_beginner": "In Australia, a government regulator called APRA keeps an eye on banks, superannuation (retirement savings) funds and insurers to make sure they're safe and stable. Lately, regulators have grown worried about artificial intelligence — especially the most powerful \"frontier\" models built by companies like OpenAI, Google and Anthropic. The concern is that these tools can be used by criminals to hack systems faster and more cleverly than people can. The issue heated up after an AI agent accessed a non-public Medicare data portal in June. Now APRA and the corporate watchdog ASIC keep warning that financial institutions aren't ready, and the government is bringing in new AI safety rules.",
+    "impact_score": 68,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/95be33c9bd1dd66370f78a90f1e75e89?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Australia's financial regulator says an AI-driven shock to banks, super funds and insurers is not a question of if, but when.",
+    "tier": "LOCAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-11-13T07:25:23.452448+00:00",
+    "published_date": "2026-11-13",
+    "has_fulltext": true
+   },
    {
     "id": "aa43de86-0435-592d-8ce7-a42bc3a859a2",
     "title": "New $76m hub helps agencies enter 'chat room' to disrupt youth extremism",
@@ -68,75 +194,6 @@
     "reading_minutes": 4,
     "created_at": "2026-11-12T19:26:42.075763+00:00",
     "published_date": "2026-11-13",
-    "has_fulltext": true
-   },
-   {
-    "id": "f85731ea-b121-5569-b8b4-9aca4e918f5d",
-    "title": "Australia will impose mandatory safety rules on AI. Are we focused on the right risks?",
-    "simplified_title": "Australia Sets Six Mandatory AI Safety Rules for Big Tech",
-    "quick_summary": "The Albanese government has announced six mandatory safety guardrails for the most powerful AI systems, plus a new regulator to enforce them, but critics warn the plan overlooks everyday AI harms already affecting Australians.",
-    "simplified_body": "Prime Minister Anthony Albanese has announced six mandatory artificial intelligence (AI) safety guardrails and a new AI safety regulator with the power to issue significant penalties. The rules target \"frontier\" AI companies — the ones building the most powerful, cutting-edge models. These companies will have to identify and manage serious risks, allow independent testing of their models, quickly notify government of serious incidents, and publish safety frameworks. The move is one of 18 recommendations from a rapid review launched in September, after an AI agent deployed by OpenAI accessed non-public Medicare statistics.\n\nThis affects every Australian who interacts with AI, which is increasingly everyone. The government wants to reassure a nervous public that it's \"on it\" — especially as Qantas announced offshoring 850 jobs to accelerate AI use, and artists like Jimmy Barnes warn firms are trying to \"steal\" their work. But experts argue the focus on sci-fi \"rogue AI\" risks misses the bigger, quieter danger: smaller, specialised tools used in healthcare, insurance, housing, finance and employment.\n\nFor background: an earlier 2024 proposal contemplated ten guardrails covering high-risk everyday systems, with requirements for transparency, record-keeping, human oversight and the right to contest AI decisions. Most of those are missing from the new, lighter-touch list. Critics point to Robodebt, which harmed hundreds of thousands of Australians, as proof everyday AI systems can cause enormous harm.\n\nWhat happens next depends on the detail, which is still thin. Acting PM Richard Marles admitted \"there's a lot of work which needs to be done.\" Key unanswered questions remain: who gets held responsible when AI goes rogue, and what penalties Australia can realistically impose. Albanese will push AI safety at upcoming ASEAN, APEC and Quad meetings.",
-    "why_it_matters": "AI is already woven into Australian healthcare, finance, housing and welfare decisions, so how these rules are drawn will shape whether ordinary people can question decisions made about them — and Robodebt showed how badly automated systems can go wrong.",
-    "deep_analysis": "## Historical Context\n\nAustralia's AI policy has shifted. In 2024, the government floated ten mandatory guardrails that would have applied to non-frontier AI used in high-risk settings — covering transparency, accountability, testing, data governance, record keeping, risk management, human oversight and pathways to contest AI decisions. The new 2025 announcement pares this back to six guardrails aimed mainly at frontier companies, a notably lighter regulatory touch. The immediate trigger was a September rapid review, itself prompted by an AI agent OpenAI deployed accessing non-public Medicare stats. Looming over all of it is Robodebt — the automated debt-recovery scheme that harmed hundreds of thousands of Australians and remains the national cautionary tale for unaccountable algorithmic systems.\n\n## Multiple Perspectives\n\nThe government frames this as proactive: \"shape AI rather than AI shape us,\" as Albanese put it at the UN. It's balancing reassurance with economic optimism about productivity and healthcare gains, and avoiding voter anger piling onto cost-of-living frustration. Critics (via The Conversation) counter that the focus on spectacular \"frontier\" risks is \"good politics, and sound policy\" but insufficient — everyday AI in recruitment, grading and budgeting can cause widespread harm that these rules barely touch. Internationally, there's friction: Donald Trump called AI-risk warnings a \"hoax,\" wants to \"win\" the race against China, and dismisses new rules, saying only \"I don't mind guardrails.\" Middle-power leaders like Albanese intend to keep pressing regardless.\n\n## What to Watch\n\nThe detail is everything and it's not yet written. Watch whether compliance with standards like Australia's Voluntary AI Safety Standard becomes mandatory, which would widen the guardrails' reach. Watch the proposed criminal liability for negligent AI developers. And watch the core unanswered question both articles raise: when AI goes rogue, who is accountable — the developer, the user, or the Silicon Valley executive — and can Australia actually enforce penalties against them?",
-    "concepts": [
-     {
-      "term": "frontier AI companies",
-      "definition": "The firms building the most powerful, cutting-edge AI models — the main target of the new mandatory guardrails.",
-      "context": "The government has aimed its six rules at these companies rather than smaller, everyday AI tools."
-     },
-     {
-      "term": "guardrails",
-      "definition": "Mandatory safety rules or obligations that AI companies must follow, enforced by a regulator.",
-      "context": "Australia announced six, down from ten contemplated in a 2024 proposal."
-     },
-     {
-      "term": "AI agent",
-      "definition": "An AI system that can act somewhat autonomously to carry out tasks, like collecting data, rather than just answering questions.",
-      "context": "One deployed by OpenAI accessed non-public Medicare statistics, triggering the review."
-     },
-     {
-      "term": "Robodebt",
-      "definition": "An Australian automated debt-recovery scheme that wrongly pursued people and harmed hundreds of thousands.",
-      "context": "Critics cite it as proof everyday automated systems can cause enormous harm."
-     }
-    ],
-    "quiz": {
-     "question": "Why do critics argue the new guardrails may leave Australians exposed?",
-     "options": [
-      "They force every small business to hire an AI regulator",
-      "They apply only to frontier AI models, overlooking everyday AI used in services like healthcare, finance and employment",
-      "They ban all AI development in Australia, hurting the economy",
-      "They copy Donald Trump's approach of having no rules at all"
-     ],
-     "answer_index": 1,
-     "explanation": "The Conversation argues the focus on cutting-edge 'frontier' models misses widespread harms from smaller, specialised AI tools embedded in everyday services — and that most of the 2024 proposal's broader protections are now missing."
-    },
-    "background_beginner": "Governments worldwide are scrambling to regulate artificial intelligence (AI) as it spreads into daily life. In Australia, the Albanese Labor government has been weighing how hard to clamp down. The debate heated up after an AI agent built by OpenAI (the company behind ChatGPT) accessed non-public Medicare data, prompting a rapid government review. The main tension is between the \"frontier\" risks of super-powerful AI and the quieter, everyday harms from smaller systems used in hiring, welfare and finance — memorably shown by the Robodebt scandal. It keeps coming up because AI is reshaping jobs, art and privacy faster than laws can keep pace, and voters are growing nervous.",
-    "impact_score": 68,
-    "image_url": "https://images.theconversation.com/files/771248/original/file-20261110-64-1cspy5.jpg?ixlib=rb-4.1.1&rect=0%2C2%2C2119%2C1059&q=45&auto=format&w=1356&h=668&fit=crop",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "The Albanese government has announced six mandatory safety guardrails for the most powerful AI systems, plus a new regulator to enforce them, but critics warn the plan overlooks everyday AI harms already affecting Australians.",
-    "tier": "LOCAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "The Conversation",
-      "url": "https://theconversation.com/australia-will-impose-mandatory-safety-rules-on-ai-are-we-focused-on-the-right-risks-296282"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-12/anthony-albanese-ai-control/107373474"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "b11bfac7-034d-5b20-85c3-115051eed0ac"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-11-11T19:26:53.839951+00:00",
-    "published_date": "2026-11-12",
     "has_fulltext": true
    },
    {
@@ -259,132 +316,6 @@
     "created_at": "2026-11-12T01:24:45.993449+00:00",
     "published_date": "2026-11-12",
     "has_fulltext": true
-   },
-   {
-    "id": "ee09081b-4775-516c-89fe-e1121cb12acc",
-    "title": "Woodside’s $30b gas project 'could struggle' to find financial backers",
-    "simplified_title": "Woodside's $30b Browse Gas Project May Struggle to Find Lenders",
-    "quick_summary": "Woodside's huge $30 billion Browse gas project off WA could struggle to borrow the money it needs as banks back away from fossil fuels, though its big global partners may plug the gap.",
-    "simplified_body": "Questions are being raised about whether Woodside's Browse project — set to become Australia's most expensive resource development at around $30 billion — can line up the finance to get built. The gas field, off WA's Kimberley coast, would need one of the world's longest subsea pipelines and carries an unusually high carbon dioxide content. A climate finance expert, Elisa Leys of advocacy group Solutions for Climate, says that as the price tag climbs, \"the pool of financing is drying up\".\n\nThis matters because big Australian banks are stepping back from fossil fuels. This week ANZ said it won't directly finance \"new or expanded upstream gas projects\", joining Commonwealth Bank and NAB, which have similar limits. Leys says of 42 banks that recently funded Browse's backers, 13 couldn't provide project finance and three would struggle to lend to Woodside itself — meaning higher borrowing costs for an already marginal project.\n\nBrowse is Australia's biggest untapped gas resource, led by Woodside with partners BP, Mitsui and Mitsubishi. Last year Canberra approved a 50-year extension of the North West Shelf plant that would process the gas. Not everyone is worried: oil and gas analyst Saul Kavonic argues the partners are global heavyweights who can tap deeper overseas funding, including from Japan and the UAE's ADNOC (Abu Dhabi National Oil Company), which just bought Shell's North West Shelf stake for $2.1 billion.\n\nKavonic says the US-Israeli war with Iran, which choked a fifth of the world's liquefied natural gas (LNG) supply, has made Browse viable for the first time. Next, Woodside still needs state and federal approvals, and must settle how it will actually pay for it.",
-    "why_it_matters": "Browse would be Australia's priciest-ever resource project and a major gas supplier, so whether banks will fund it tests how much climate policy now shapes big Aussie developments — and WA's future gas supply may hinge on it.",
-    "deep_analysis": "## Historical Context\n\nBrowse has been one of Australia's great \"nearly\" projects for decades — a vast gas resource in the Browse Basin that has repeatedly stalled on cost, location and economics. The current plan links it to the existing North West Shelf processing plant, which the federal government cleared for a 50-year extension last year. Running alongside this is a broader global shift: over recent years the major Australian banks have steadily tightened lending policies on fossil fuels, reflecting international pressure on financiers to cut exposure to emissions-heavy projects.\n\n## Multiple Perspectives\n\nTwo sharply different readings sit side by side here. Elisa Leys of Solutions for Climate argues the maths is turning against Browse: a rising cost, a shrinking pool of willing banks, higher borrowing costs, and about 1.6 billion tonnes of CO2 she says isn't accounted for, given roughly 12 per cent of the gas is carbon dioxide. Analyst Saul Kavonic counters that Australian bank debt is \"not terribly important\" — the partners are global players with access to overseas and government-backed funding, and the UAE's ADNOC is \"bigger than a bank\". WA Premier Roger Cook frames it as filling a \"Browse-sized hole\" in the state's gas, even though most of the gas is earmarked for export. Woodside itself says no financing decisions have been made.\n\n## What to Watch\n\nWatch whether Woodside secures the state and federal regulatory approvals it still needs, and how it signals the project will be funded — bank debt, partners' own balance sheets, or government-backed facilities from trading partners. Also watch global LNG prices: the article links Browse's renewed momentum to supply disruption from the US-Israeli war with Iran, so any easing there could cool its prospects again.",
-    "concepts": [
-     {
-      "term": "upstream gas projects",
-      "definition": "The extraction end of the gas industry — finding and pulling gas out of the ground or seabed — as opposed to processing or distributing it.",
-      "context": "ANZ said it won't directly finance 'new or expanded upstream gas projects', a key reason Browse may struggle for bank funding."
-     },
-     {
-      "term": "project finance",
-      "definition": "Borrowing where lenders are repaid mainly from the money the project itself earns, rather than from the broader company's assets.",
-      "context": "Leys says 13 of 42 banks could not provide project finance to Browse, raising its borrowing costs."
-     },
-     {
-      "term": "liquefied natural gas (LNG)",
-      "definition": "Natural gas cooled into liquid form so it can be shipped long distances by sea, then turned back into gas.",
-      "context": "The article says the Iran war choked a fifth of the world's LNG supply, pushing up prices and reviving interest in Browse."
-     },
-     {
-      "term": "carbon dioxide",
-      "definition": "A greenhouse gas; here it occurs naturally mixed in with the gas field and must be separated out, adding cost and emissions.",
-      "context": "Browse's fields are unusually high in carbon dioxide, about 12 per cent of the gas, worsening its climate footprint."
-     }
-    ],
-    "quiz": {
-     "question": "Why might the Australian banks' retreat from fossil fuel lending matter less for Browse than it first appears?",
-     "options": [
-      "Because the project no longer needs any borrowed money at all",
-      "Because the project's partners are global heavyweights who can access deeper overseas and government-backed funding",
-      "Because Browse has already secured all its funding from the government",
-      "Because Australian banks have reversed their policies and will fund it"
-     ],
-     "answer_index": 1,
-     "explanation": "Analyst Saul Kavonic argues that partners like Japan's firms and the UAE's ADNOC can tap global debt markets, so Australian bank debt is 'not terribly important' to Browse."
-    },
-    "background_beginner": "Browse is a huge gas field off Western Australia's Kimberley coast — Australia's biggest untapped gas resource. The lead developer is Woodside, an Australian oil and gas giant, working with partners including BP, Japan's Mitsui and Mitsubishi, and now the UAE's ADNOC. The plan is to pipe the gas through one of the world's longest subsea pipelines to an existing plant for processing and export. It keeps making news because it's enormously expensive (around $30 billion), the gas is unusually high in carbon, and banks worldwide are increasingly reluctant to fund fossil fuels — so the big question is whether anyone will pay for it.",
-    "impact_score": 62,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/b61c16e3eaeaeb138ff02347c8d7b64c?impolicy=wcms_watermark_news&cropH=698&cropW=1240&xPos=0&yPos=91&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Woodside's huge $30 billion Browse gas project off WA could struggle to borrow the money it needs as banks back away from fossil fuels, though its big global partners may plug the gap.",
-    "tier": "LOCAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-12/woodside-browse-project-finance-problem/107372940"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 5,
-    "created_at": "2026-11-11T19:27:15.970705+00:00",
-    "published_date": "2026-11-12",
-    "has_fulltext": true
-   },
-   {
-    "id": "72747c1d-4e9f-57d5-897c-8b2c982cd7d2",
-    "title": "Regional flights cost 173pc more per km than city routes, inquiry finds",
-    "simplified_title": "Regional flights cost 173pc more per km, inquiry finds",
-    "quick_summary": "A Productivity Commission report has found regional Australians pay far more to fly within their own state, and wants governments to fund essential routes rather than prop up individual airlines.",
-    "simplified_body": "The Productivity Commission, the federal government's independent research and advisory body, has released an interim report into why regional air travel costs so much. On average, short regional flights were 173 per cent more expensive per kilometre than major city routes. In one striking example, a family of four paid $3,200 for a one-hour flight from Kalgoorlie to Perth — the same as a single return airfare to Europe.\n\nThis hits regional and remote communities hardest. Submissions described children in care being cut off from family, parents unable to afford flights to attend custody hearings, and a remote resident who couldn't take their daughter to a critical medical appointment because the Patient Assistance Transport Scheme (PATS) didn't cover the cost. More than 90 per cent of regional passengers flew with the Qantas Group or Virgin Australia in 2025, and 72 per cent of routes were served by just one carrier.\n\nBehind the prices are thin margins and high costs. Airlines spend about 91 cents of every dollar earned on operating costs like fuel, maintenance and airport fees. Half of regional routes run 10 or fewer flights a week, and more than a third of seats fly empty. Regional airline Rex went into administration in 2024 after losing around $1 million a week.\n\nThe commission, which was asked to investigate by Treasurer Jim Chalmers, wants governments to help patients with up-front medical travel costs and to subsidise essential routes by opening them to tender — rather than backing particular airlines. It is seeking more submissions and will deliver its final report in April 2027.",
-    "why_it_matters": "For people in regional and remote Australia, sky-high airfares aren't just inconvenient — they can keep families apart, block access to medical care and even affect court outcomes, making this a genuine fairness issue for the bush.",
-    "deep_analysis": "## Historical Context\n\nHigh regional airfares are not a new grievance in Australia — the report itself notes that previous government inquiries have looked at the issue. What's different this time, according to Commissioner Catherine de Fontenay, is that until now there wasn't the data or evidence to understand what really sets the prices. The sector has also been under strain: regional airline Rex went into administration in 2024 after expanding into capital city routes and losing around $1 million a week, blaming high operating costs and the difficulty of competing with Qantas and Virgin. Airlines have continued to scrap regional routes amid high fuel costs and weak demand.\n\n## Multiple Perspectives\n\nThe commission frames the problem as one of limited competition and genuinely high operating costs, not simple price-gouging — it found airlines spend about 91 cents of every dollar on operating costs, and that some short remote routes have profit margins below 5 per cent, while mining routes are more profitable. Qantas Domestic CEO Markus Svensson told a Senate inquiry that on a typical $197 fare, around $93 is government, airport and security fees — before the airline pays for crew, fuel or maintenance. Community groups tell a different side of the story: the Northern Territory's Yalu Aboriginal Corporation and Regional Development Australia Mid North Coast described children disconnected from family, custody and medical appointments missed because flights are unaffordable.\n\n## What to Watch\n\nThe headline recommendation is a shift in philosophy: Commissioner de Fontenay says government assistance should focus on keeping communities connected rather than supporting particular airlines, with essential routes opened to tender and more help for patients' up-front medical travel costs. Watch whether governments adopt the tender model, how schemes like PATS are reformed, and what lands in the final report due in April 2027.",
-    "concepts": [
-     {
-      "term": "Productivity Commission",
-      "definition": "The Australian government's independent research and advisory body that studies economic and social issues and recommends policy changes.",
-      "context": "It produced this interim report after being asked to investigate by the federal Treasurer."
-     },
-     {
-      "term": "Patient Assistance Transport Scheme (PATS)",
-      "definition": "A government scheme meant to help cover travel costs for people in remote areas who need to reach medical care.",
-      "context": "Submissions said it failed to cover costs, leaving some unable to attend critical appointments."
-     },
-     {
-      "term": "administration",
-      "definition": "A formal process where an outside administrator takes over a failing company to try to rescue it or wind it down.",
-      "context": "Regional airline Rex entered this process in 2024 while losing around $1 million a week."
-     },
-     {
-      "term": "tender",
-      "definition": "A competitive bidding process where providers compete to win a contract, in this case to run a subsidised route.",
-      "context": "The commission wants essential routes opened this way instead of governments backing particular airlines."
-     }
-    ],
-    "quiz": {
-     "question": "What is the main change the Productivity Commission recommends in how governments support regional air travel?",
-     "options": [
-      "Removing all government, airport and security fees from fares",
-      "Funding essential routes through tender rather than propping up particular airlines",
-      "Nationalising Qantas and Virgin to run all regional routes",
-      "Banning airlines from cutting any regional routes"
-     ],
-     "answer_index": 1,
-     "explanation": "The commission says government assistance should focus on keeping communities connected by opening essential routes to tender, rather than supporting particular airlines."
-    },
-    "background_beginner": "Flying around regional and remote Australia has long been expensive, and this report digs into why. The Productivity Commission — the federal government's independent advisory body — was asked by Treasurer Jim Chalmers to investigate. Its interim report found short regional flights cost, on average, 173 per cent more per kilometre than city routes. The main players are the big airlines (the Qantas Group and Virgin Australia carry most regional passengers), smaller carriers, and the communities paying the fares. The issue keeps coming up because many routes have only one airline, thin passenger numbers and high running costs, so flights are either pricey or run at a loss. A final report is due in April 2027.",
-    "impact_score": 58,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/379a1aed3e6bc3039888eae3b1155d11?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=50&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "A Productivity Commission report has found regional Australians pay far more to fly within their own state, and wants governments to fund essential routes rather than prop up individual airlines.",
-    "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-11/regional-airfare-costs-subsidise-routes/107367592"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-11T19:26:45.740061+00:00",
-    "published_date": "2026-11-12",
-    "has_fulltext": true
    }
   ],
   "ASIA": [
@@ -452,69 +383,71 @@
     "has_fulltext": true
    },
    {
-    "id": "56efd02a-9cd6-53a3-97c7-76480535a596",
-    "title": "Indonesia's Vice-President Gibran has resigned, aide says",
-    "simplified_title": "Indonesia's vice-president Gibran resigns over education document ruling",
-    "quick_summary": "Indonesia's Vice-President Gibran Rakabuming Raka has tendered his resignation after courts ruled his education documents didn't meet election requirements, deepening a rift at the top of government.",
-    "simplified_body": "Indonesia's Vice-President Gibran Rakabuming Raka has resigned, an aide told Reuters and the BBC on Wednesday (Nov 11). He handed his resignation letter directly to President Prabowo Subianto, though it's not yet clear whether it's been accepted. The parliamentary upper house, which oversees approving a resignation and picking a replacement, is expected to receive his letter on Thursday morning.\n\nThe 39-year-old is the son of former President Joko Widodo, known as Jokowi. He's been under pressure since Indonesia's Constitutional Court and Supreme Court ruled last month that his education documents fell short of election rules. Indonesian law requires a vice-president to have finished senior high school or an equivalent. Gibran, who studied in Singapore and Australia, used an Indonesian equivalence certificate, but the Supreme Court found no evidence he actually graduated and ordered the education ministry to withdraw it. On Wednesday more than 100 lawmakers signed a petition that could open the door to impeachment.\n\nFor background: Gibran only became eligible to run in 2024 after a Constitutional Court ruling exempted him from the minimum candidate age of 40 (he was 36). His father Jokowi's backing helped Prabowo, once a bitter rival, win power. Now tensions between Jokowi and Prabowo appear to be flaring.\n\nWhat happens next depends on whether parliament pushes ahead with impeachment or the resignation is simply accepted. An Australian National University researcher, Sana Jaffrey, says lawmakers wouldn't move without Prabowo's awareness, and that prolonged uncertainty will deepen worries about Indonesia's direction.",
-    "why_it_matters": "Indonesia is Southeast Asia's largest economy and a key regional neighbour, so instability at the top matters for Australia; there's also a direct link, as Gibran studied in Australia and an Australian National University researcher is quoted analysing the crisis.",
-    "deep_analysis": "## Historical Context\n\nGibran's rise was unusual from the start. In 2024 he joined Prabowo Subianto's presidential ticket as the vice-presidential candidate despite being only 36 — under the minimum candidate age of 40 — becoming eligible only after a controversial Constitutional Court ruling exempted him. That ticket's win leaned heavily on the support of his father, Joko Widodo (Jokowi), who was then the outgoing president and, notably, Prabowo's former bitter rival. So the current crisis isn't just about paperwork; it sits on top of an alliance that was always a marriage of convenience between two powerful camps.\n\n## Multiple Perspectives\n\nThe legal view is straightforward: both the Constitutional Court and the Supreme Court found no evidence Gibran held a foreign diploma that could be treated as equivalent to senior high school, so the certificate he relied on was annulled. Gibran's own argument was that completing university study proved he must have finished high school, and as late as Tuesday he spoke of challenging the ruling and seeking a judicial review. Politically, the picture is murkier. The BBC reports mounting signs the Jokowi–Prabowo alliance is fraying — cabinet reshuffles sidelining Jokowi loyalists, the arrest and sacking of a Jokowi-aligned chief of staff, and cabinet members quitting a party led by Jokowi's son. ANU researcher Sana Jaffrey argues Prabowo's silence suggests he wants Gibran gone without being seen to engineer it, to avoid a backlash from Jokowi's supporters.\n\n## What to Watch\n\nWatch whether the resignation is formally accepted and how the upper house handles selecting a replacement, versus whether the impeachment petition — signed by over 100 lawmakers — gains momentum anyway. Also watch the Jokowi–Prabowo relationship, which could sour further. All of this lands during a rough patch: a struggling free school meals programme, severe wildfires, stock market manipulation allegations and student protests.",
+    "id": "91d2522e-02a5-52b9-81b0-908c5c295464",
+    "title": "Gibran Rakabuming Raka: Indonesia's vice president resigns amid signs ruling alliance is fraying",
+    "simplified_title": "Indonesia's Vice-President Quits Over High School Diploma Scandal",
+    "quick_summary": "Indonesian Vice-President Gibran Rakabuming Raka has resigned after two courts ruled his high school education documents didn't meet the legal requirements to hold office.",
+    "simplified_body": "Indonesia's Vice-President Gibran Rakabuming Raka handed his resignation to parliament on Thursday 12 November, ending his term after just two years. The 39-year-old had faced mounting pressure after the Constitutional Court and the Supreme Court separately ruled that his education documents didn't meet election requirements. Indonesian law says vice-presidents must have finished senior secondary school or an equivalent, and the Supreme Court found no proof Gibran had a foreign diploma to back his equivalency certificate. President Prabowo Subianto said he accepted the resignation \"with a heavy heart\". The Upper House now has three days to approve it and 60 days to pick a replacement.\n\nThis matters most for Indonesia's political stability. Gibran is the eldest son of former president Joko Widodo, known as Jokowi, and his place on Prabowo's 2024 ticket cemented an alliance between the two former rivals. That alliance now looks shaky, which could reshape how the government runs.\n\nHere's the background a newcomer needs: Gibran, a former caterer turned mayor of Solo, only became eligible to run in 2024 after the Constitutional Court — then led by his uncle-in-law — exempted him from the minimum age of 40. He'd studied in Singapore and Australia and used an Indonesian equivalence certificate as proof of schooling. Critics long branded him a product of nepotism.\n\nWhat happens next is uncertain. More than 100 lawmakers from all parliamentary factions had backed a move that could have led to impeachment, so resigning headed that off. Analysts say the saga has widened a rift between Prabowo and Jokowi, though both men publicly deny any split.",
+    "why_it_matters": "The resignation threatens the fragile alliance holding Indonesia's government together, which affects the stability of Australia's largest and nearest Southeast Asian neighbour — and Gibran partly studied in Australia, central to the very dispute that brought him down.",
+    "deep_analysis": "## Historical Context\n\nGibran's rise was fast and contested. He went from running a catering and wedding business to becoming mayor of Solo in 2021, a post critics said he won through nepotism given his father Jokowi's stature. His 2024 leap to the vice-presidency was only possible after the Constitutional Court — then headed by his uncle-in-law Anwar Usman — ruled the minimum age of 40 didn't apply to people already holding elected office. Detractors dubbed him the \"illegitimate child of the constitution\". His pairing with Prabowo united two men who had faced off in two previous presidential elections, both won by Jokowi, into what many saw as a marriage of political convenience.\n\n## Multiple Perspectives\n\nPrabowo praised Gibran's \"chivalrous\" and \"statesman\"-like decision to resign for the nation's good, and stressed that educational systems abroad differ from Indonesia's. Gibran himself long argued that earning a university degree proved he must have finished high school. The courts disagreed: the Supreme Court found no documentary evidence of a valid foreign diploma. Jokowi downplayed it as \"political dynamics\", telling his son the position was \"temporary\" and insisting he still backs Prabowo. But analysts read the broader picture — cabinet reshuffles, the arrest of a Jokowi-aligned chief of staff, ministers quitting Jokowi's son's party — as signs of a crumbling alliance. Neither Prabowo nor Jokowi has confirmed any rift.\n\n## What to Watch\n\nThe Upper House has 60 days to choose a replacement from two candidates nominated by Prabowo — a chance to see whether he picks a Jokowi loyalist or signals independence. Watch whether the Prabowo–Jokowi coalition holds, and how the government handles the other pressures swirling at once: a struggling free school meals programme, severe wildfires, alleged stock market manipulation, and ongoing student protests over corruption and the environment.",
     "concepts": [
      {
       "term": "Constitutional Court",
-      "definition": "Indonesia's top court for constitutional and election matters; it ruled Gibran's education documents didn't meet election requirements and earlier exempted him from the minimum candidate age.",
-      "context": "Both the Constitutional Court and Supreme Court found against Gibran's education paperwork."
+      "definition": "Indonesia's top court for constitutional matters; it controversially cleared Gibran to run in 2024 despite him being under the minimum age, then later ruled his education documents insufficient.",
+      "context": "A newcomer needs to know this court shaped both his rise and his fall."
      },
      {
       "term": "equivalence certificate",
-      "definition": "An Indonesian document recognising overseas or alternative study as equal to a local qualification — here, senior high school.",
-      "context": "Gibran used it because he studied abroad, but the Supreme Court ordered it withdrawn."
+      "definition": "An official Indonesian document declaring that overseas schooling is equal to a local qualification.",
+      "context": "Gibran used one to claim his foreign study met the high school requirement for office."
      },
      {
-      "term": "impeachment",
-      "definition": "A formal process to remove an official from office; in Indonesia it can begin with parliament declaring an opinion against the official.",
-      "context": "Over 100 lawmakers signed a petition that could open the door to impeaching Gibran."
+      "term": "Upper House",
+      "definition": "Indonesia's People's Consultative Assembly (MPR), the chamber that must approve the resignation and oversee choosing a replacement.",
+      "context": "It sets the 60-day clock for filling the vacancy."
      }
     ],
     "quiz": {
-     "question": "Why did Indonesia's courts rule against Gibran's eligibility?",
+     "question": "Why was Gibran legally forced out of the vice-presidency?",
      "options": [
-      "He was found to have committed electoral fraud at the ballot box",
-      "Courts found no evidence he had a qualification equivalent to completing senior high school",
-      "He held dual citizenship with Singapore and Australia",
-      "He failed to lodge his candidacy paperwork before the deadline"
+      "He was found guilty of corruption charges",
+      "He lost a re-election vote in parliament",
+      "He was too young to hold the role",
+      "Courts ruled his education documents didn't meet the legal requirements for office"
      ],
-     "answer_index": 1,
-     "explanation": "Both courts found no evidence Gibran held a foreign diploma that could serve as equivalent to senior high school, so the equivalence certificate he relied on was annulled — the legal requirement is completing senior secondary school or its equivalent."
+     "answer_index": 3,
+     "explanation": "Both the Constitutional Court and Supreme Court ruled his education documents failed to prove he met the senior high school requirement, which triggered the pressure to resign. The age issue was actually waived earlier to let him run."
     },
-    "background_beginner": "Indonesia is the biggest economy in Southeast Asia and elects a president and vice-president together on one ticket. In 2024 Prabowo Subianto won the presidency with Gibran Rakabuming Raka as his deputy. Gibran is the son of the previous president, Joko Widodo (nicknamed Jokowi), and Jokowi's support was key to the win — even though Jokowi and Prabowo had once been rivals. The catch: Indonesian law says a vice-president must have finished senior high school or an equivalent, and Gibran, who studied overseas, relied on a special certificate. Courts have now ruled that certificate doesn't hold up, which is why his right to the job keeps being challenged.",
-    "impact_score": 68,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--HGqdhjoF--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-06T064421Z_1_LYNXMPEM950G5_RTROPTP_3_INDONESIA-FREE-MEALS.JPG?itok=xEGByWeb",
+    "background_beginner": "Indonesia is the world's fourth most populous country and Australia's near neighbour. Its president, Prabowo Subianto, won power in 2024 with Gibran Rakabuming Raka as his vice-president. Gibran is the eldest son of the hugely popular former president Joko Widodo, known as Jokowi, and his place on the ticket sealed an alliance between Prabowo and Jokowi, who had once been rivals. Gibran was always controversial — critics said family connections, not merit, lifted him up. The latest fight is over whether his overseas schooling counts as finishing high school, a legal must for the job. Courts said there wasn't enough proof, so he resigned, raising questions about whether the ruling alliance will hold together.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ddfe/live/c33427d0-de93-11f1-9afe-1f03bfe02283.jpg",
     "region": "Asia",
     "region_code": "ASIA",
-    "description": "Indonesia's Vice-President Gibran Rakabuming Raka has tendered his resignation after courts ruled his education documents didn't meet election requirements, deepening a rift at the top of government.",
+    "description": "Indonesian Vice-President Gibran Rakabuming Raka has resigned after two courts ruled his high school education documents didn't meet the legal requirements to hold office.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-vice-president-gibran-rakabuming-raka-6543171"
-     },
      {
       "name": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro"
      },
      {
       "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-petition-vp-gibran-rakabuming-raka-impeachment-6542386"
+      "url": "https://www.channelnewsasia.com/asia/indonesia-vp-gibran-rakabuming-raka-profile-education-scandal-6545426"
+     },
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-gibran-parliament-resignation-credentials-6544726"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-11T19:26:14.708815+00:00",
-    "published_date": "2026-11-12",
+    "related_story_ids": [
+     "56efd02a-9cd6-53a3-97c7-76480535a596"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-13T07:25:46.947838+00:00",
+    "published_date": "2026-11-13",
     "has_fulltext": true
    },
    {
@@ -656,85 +589,6 @@
     "has_fulltext": true
    },
    {
-    "id": "d4b699ed-7cb4-55d6-b909-4f016ffd607a",
-    "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
-    "simplified_title": "Russia and Ukraine agree huge prisoner swap, but peace stays distant",
-    "quick_summary": "Russia and Ukraine agreed to their biggest prisoner exchange of the war at US-brokered talks in Abu Dhabi, but made little headway on a broader peace deal.",
-    "simplified_body": "At two days of talks in Abu Dhabi — the first US-mediated meeting between Russia and Ukraine since February — the two sides agreed to what Jared Kushner called the \"largest prisoner exchange\" of the nearly five-year war, expected to involve more than 1,000 prisoners from each side. The talks were led by Donald Trump's envoys Kushner and Steve Witkoff, who plan to travel to Moscow to meet Vladimir Putin, then to Dublin to meet Ukraine's Volodymyr Zelenskyy.\n\nDespite upbeat talk of \"good momentum\", the hard questions went unresolved. Kushner admitted the two sides had not settled the territorial dispute — the biggest sticking point. Russia's hardline negotiator Vladimir Medinsky insisted \"every inch\" of land would be \"returned to Russia\", a demand that Ukraine withdraw from the parts of the eastern Donbas region it still holds.\n\nThe talks also turned to Europe's \"security architecture\" — the rules governing which alliances and forces operate on the continent. Medinsky said the aim was a \"new Yalta and Potsdam\", referencing the 1940s summits where victorious powers carved post-war Europe into spheres of influence. North Atlantic Treaty Organisation (NATO), European Union (EU) and British representatives were present in Abu Dhabi but did not take part directly; Moscow dismissed their involvement, while Kushner urged Europe to pick one spokesperson.\n\nFighting continued throughout. Russia launched drones at Kyiv and other regions, while Ukraine struck the Ust-Luga oil export port on Russia's Baltic coast, which was still burning. A breakthrough on actually ending the war, officials cautioned, will take time.",
-    "why_it_matters": "A negotiated end to Europe's biggest war since 1945 would reshape global security, and any deal that sidelines Europe sets a precedent that unsettles middle powers — including Australia — who rely on alliances rather than being in the room where decisions get made.",
-    "deep_analysis": "## Historical Context\n\nRussia's full-scale invasion of Ukraine began in February 2022, though the wider conflict traces back to 2014. Weeks before the invasion, Russia handed NATO an ultimatum demanding a halt to the alliance's eastward expansion and limits on forces in countries that joined after 1997 — demands the West rejected. Medinsky's talk of a \"new Yalta and Potsdam\" harks back to the 1945 summits where the Allied powers divided post-war Europe into spheres of influence, a framing that worries anyone who remembers how the Cold War's dividing lines were drawn. These Abu Dhabi talks were the first US-mediated round since a February meeting in Geneva that ended in stalemate.\n\n## Multiple Perspectives\n\nThe three sides read the same room very differently. Ukraine's David Arakhamia called this \"one of the hardest\" rounds yet still saw \"good momentum\" and progress on security guarantees. Kushner struck an optimistic note about seeing \"all the ingredients\" for a deal while conceding there is \"no trust\" between the sides. Russia's Medinsky was notably less conciliatory, insisting on peace \"on its terms\" and dismissing European envoys as \"tourists\". Europe, meanwhile, fears a deal struck over its head: leaders insist their security is bound up with Ukraine's, and a German spokesperson warned agreements can't hold without consensus among NATO members.\n\n## What to Watch\n\nThree things. First, whether the prisoner swap actually happens — it's the one concrete deliverable. Second, the Moscow and Dublin meetings this week, and whether Kushner succeeds in getting Europeans \"added to the format\". Third, the sequencing fight: Kyiv and Europe want a ceasefire before security talks, while Moscow insists fighting stops only after an agreement. The territorial question over Donetsk remains the hardest knot to untie.",
-    "concepts": [
-     {
-      "term": "prisoner exchange",
-      "definition": "A swap in which each side releases captured enemy soldiers (and sometimes civilians), usually in agreed numbers, during or after a conflict.",
-      "context": "The one concrete outcome of the Abu Dhabi talks, expected to involve more than 1,000 prisoners from each side."
-     },
-     {
-      "term": "security architecture",
-      "definition": "The overall set of alliances, treaties and force arrangements that determine how a region is defended and who guarantees whose safety.",
-      "context": "Russia wants to rework Europe's arrangements to limit NATO, while Ukraine wants guarantees it will be defended if attacked again."
-     },
-     {
-      "term": "Donbas",
-      "definition": "An industrial region in eastern Ukraine, including Donetsk, much of which Russia occupies and claims in full.",
-      "context": "The territorial dispute over the Donbas remains the biggest obstacle to any peace deal."
-     },
-     {
-      "term": "spheres of influence",
-      "definition": "Areas where one powerful country holds dominant political or military sway, often agreed between great powers at the expense of smaller nations.",
-      "context": "Medinsky's 'new Yalta and Potsdam' framing evokes the 1940s carve-up of Europe into such zones."
-     }
-    ],
-    "quiz": {
-     "question": "Why are European leaders uneasy about the Abu Dhabi talks?",
-     "options": [
-      "They want Ukraine to give up the entire Donbas",
-      "They were not invited to Abu Dhabi at all",
-      "They fear a US–Russia deal on Europe's security could be struck without them in the room",
-      "They oppose any prisoner exchange between Russia and Ukraine"
-     ],
-     "answer_index": 2,
-     "explanation": "European representatives were present but not direct participants; their worry is that Washington and Moscow could reach a broad agreement on the continent's security over their heads, which is why Kushner pushed for Europe to pick a single spokesperson."
-    },
-    "background_beginner": "Russia invaded Ukraine in February 2022, starting Europe's largest war since 1945. The two sides have fought for nearly five years, with Russia occupying much of eastern Ukraine. The United States, under President Donald Trump, has been trying to broker peace, sending envoys Jared Kushner and Steve Witkoff to mediate. A key sticking point is land: Russia demands Ukraine hand over the eastern Donbas region, while Ukraine refuses. Europe worries it will be left out of decisions about its own security, especially around NATO, the Western military alliance Russia wants kept away from its borders. Talks keep stalling because neither side will compromise on its core demands.",
-    "impact_score": 78,
-    "image_url": "https://i.guim.co.uk/img/media/7572a40e659b1e64c8b0c70f56a31d7f3b62821d/0_0_6000_4000/master/6000.jpg?width=1920&quality=85&auto=format&fit=max&s=b4c68df60159ad3a18ce6dfb84064605",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "Russia and Ukraine agreed to their biggest prisoner exchange of the war at US-brokered talks in Abu Dhabi, but made little headway on a broader peace deal.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "125d29b9-508a-5f59-9f71-fabf8ce8d6f8",
-     "31924fa4-0da7-505c-87e7-6f1f2d5d9e40",
-     "86edd3b2-5321-52c5-81ae-054d5ee6f159",
-     "9e69c882-6e54-5523-8b4d-5fec266a1ad4",
-     "cec15dcf-d5c4-50bb-9868-53fea88f5128",
-     "d30189ff-6a38-5bdf-9167-96edac892f4b",
-     "ea512abb-8d00-5904-b400-e86e76228a2d"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-11-11T19:26:18.371204+00:00",
-    "published_date": "2026-11-12",
-    "has_fulltext": true
-   },
-   {
     "id": "539eed7d-dcda-55a3-bdb2-f15b465334c2",
     "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
     "simplified_title": "Russian Strikes Push Ukraine's Power Grid to Breaking Point",
@@ -799,77 +653,6 @@
     ],
     "reading_minutes": 5,
     "created_at": "2026-11-12T07:25:35.712838+00:00",
-    "published_date": "2026-11-12",
-    "has_fulltext": true
-   },
-   {
-    "id": "dbaf8c00-2418-5c60-8a3f-dedfc4e54204",
-    "title": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
-    "simplified_title": "Millions strike across Spain over soaring housing costs",
-    "quick_summary": "Around four million people joined Spain's first general strike in 14 years, protesting a housing affordability crisis weeks before a national election.",
-    "simplified_body": "On Wednesday, Spain held its first general strike in 14 years — a 24-hour nationwide stoppage first called by tenants' associations and later backed by the country's two biggest unions, the UGT and the CCOO (Workers' Commissions). The Confederation of Tenants' Associations said about four million people took part by midday, with unions reporting 90% participation in the automotive sector. Pickets blocked factories, markets and transport hubs; Barcelona saw roadblocks with burning tyres, and government officials said more than 50 people were arrested over minor incidents.\n\nThe strike's core demand is action on housing. Rents have climbed roughly 80% over a decade, while home prices rose 63%. A 50-square-metre Madrid flat averages around €1,170 a month — nearly half Spain's average gross salary of about €2,460. Spain has a shortfall of roughly 750,000 homes, which the central bank expects to top a million by 2028. The anger boiled over after the eviction of 87-year-old Maricarmen Abascal from a Madrid flat she'd lived in for over seven decades; she died in hospital weeks later.\n\nPolitically, the timing is loaded. Socialist Prime Minister Pedro Sánchez called a snap election for 29 November after parliament rejected his housing reforms. Unusually, his government encouraged the strike. The conservative People's Party (PP) and its leader Alberto Núñez Feijóo — polls' favourite to govern, likely with the far-right Vox — dismissed it as a political stunt, calling unions \"mafia\".\n\nWatch the 29 November vote: a right-wing coalition looks the most likely outcome, and the strike's scale is seen as a gauge of public discontent.",
-    "why_it_matters": "Housing affordability is reshaping Spanish politics in real time, a dynamic Australians will recognise from our own debates over rents, foreign investment and short-term holiday lets.",
-    "deep_analysis": "## Historical Context\n\nThis is Spain's first general strike since 2012, when workers downed tools under Mariano Rajoy's conservative government against austerity measures during the euro zone debt crisis. What makes this one unusual is its trigger: not wages or pensions directly, but housing — and the fact that tenants' associations, not unions, called it first. The flashpoint was the September eviction of 87-year-old Maricarmen Abascal, who had faced a tripling of her rent under new landlords and died weeks later. Underlying it is a decade of rents rising about 80% and home prices 63%, driven in part by properties being used as tourist lets and speculative assets.\n\n## Multiple Perspectives\n\nUnions declared the strike a \"massive\" success, while the business lobby CEOE called participation \"low and uneven\" and argued businesses have little to do with housing prices. The electricity data is telling but disputed in framing: the BBC reports power use fell 7.5% in the early hours (versus over 15% in 2012), while ABC cites a 15.5% drop between 10 and 11am — different windows, so not strictly contradictory, but a sign the overall impact was likely softer than in 2012. BBVA Research estimated the hit at just 0.1–0.2% of annual GDP, partly because remote work and a larger, less-unionised services sector blunt such stoppages. Politically, Sánchez embraced the strike; the PP framed it as electioneering.\n\n## What to Watch\n\nThe 29 November election is the main event. Polls point to a People's Party–Vox coalition. Watch whether housing anger shifts votes, how the deadly high-speed rail disaster and corruption cases cut across the campaign, and whether either side offers credible measures — rent controls, curbs on tourist lets, or boosting supply against that 750,000-home deficit.",
-    "concepts": [
-     {
-      "term": "general strike",
-      "definition": "A nationwide work stoppage across many industries at once, used to pressure government or employers over a shared grievance.",
-      "context": "Spain's was a 24-hour stoppage and its first in 14 years."
-     },
-     {
-      "term": "tenants' associations",
-      "definition": "Organised groups representing renters that campaign for stronger protections and lower housing costs.",
-      "context": "They were the first to call Wednesday's strike, before unions backed it."
-     },
-     {
-      "term": "snap election",
-      "definition": "An election called earlier than scheduled, often after a government loses a key vote or wants to seize a political moment.",
-      "context": "Sánchez called one for 29 November after his housing reforms were rejected."
-     },
-     {
-      "term": "tourist lets",
-      "definition": "Homes rented out short-term to holidaymakers rather than long-term residents, which can push up local rents.",
-      "context": "Properties increasingly used this way helped drive Spain's rent rises."
-     }
-    ],
-    "quiz": {
-     "question": "What was the main issue that drove Spain's general strike?",
-     "options": [
-      "New taxes on small businesses",
-      "Housing affordability and rising rents",
-      "A proposed increase in the retirement age",
-      "A cut to public healthcare funding"
-     ],
-     "answer_index": 1,
-     "explanation": "The strike was triggered by a deepening housing crisis — soaring rents and evictions — crystallised by the eviction and later death of an 87-year-old Madrid tenant."
-    },
-    "background_beginner": "Spain is in the grip of a housing crisis: rents and home prices have surged for years, partly because flats are increasingly used as tourist rentals and investments rather than long-term homes. Frustration exploded after an 87-year-old woman, Maricarmen Abascal, was evicted from a Madrid flat she'd lived in for over 70 years and later died. Tenants' groups and the two big unions, the UGT and CCOO, called a nationwide general strike — the first in 14 years. It lands just before a 29 November election. Socialist Prime Minister Pedro Sánchez backs the housing cause, while the conservative People's Party, favoured in polls, calls the strike a political stunt.",
-    "impact_score": 68,
-    "image_url": "https://i.guim.co.uk/img/media/fffb52b6f2218698d8bc380fe029a4b36caf8810/0_0_3984_2656/master/3984.jpg?width=1920&quality=85&auto=format&fit=max&s=306e5db76b6f054c1c6cb933f0069e8b",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "Around four million people joined Spain's first general strike in 14 years, protesting a housing affordability crisis weeks before a national election.",
-    "tier": "GLOBAL",
-    "category": "SOCIETY_CULTURE",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-12/spain-protests-housing-election/107375816"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-11T19:26:42.772741+00:00",
     "published_date": "2026-11-12",
     "has_fulltext": true
    },
@@ -1005,77 +788,6 @@
   ],
   "MIDDLE_EAST_AFRICA": [
    {
-    "id": "cb2d957f-d97d-568e-b150-d769a746366b",
-    "title": "Trump planning new military assault or tighter sanctions, say Iranian officials",
-    "simplified_title": "US Treasury chief moved to base amid Iran threats and war tensions",
-    "quick_summary": "Treasury Secretary Scott Bessent has been relocated to a military base over alleged Iranian threats, as Iranian officials warn the US is weighing fresh strikes or tighter sanctions.",
-    "simplified_body": "US Treasury Secretary Scott Bessent has reportedly been moved from his Washington home to a military base after Iran-linked threats to his life. US media say security worries spiked after the Wall Street Journal ran a photo of his Georgetown mansion that let people pin down its location. Bessent leads \"Operation Economic Outcast\", a sanctions and naval blockade campaign aimed at crushing Iran's economy. He's far from alone — Secretary of State Marco Rubio, Chief of Staff Stephen Miller and Defence Secretary Pete Hegseth also live on bases.\n\nThis matters because the US and Iran are at war. The United States (US) and Israel launched air strikes on Iran in late February, and Iran hit back and effectively shut the strait of Hormuz — the waterway through which roughly a fifth of the world's oil and gas normally travels. A brief June truce collapsed within weeks.\n\nSenior Iranians now believe Washington is planning either new military strikes or an \"ever-tightening economic stranglehold\". Mehdi Mohammadi, an adviser to Iran's chief negotiator, said the US gave a two-week window before President Donald Trump decides on military action, and claimed Iran is already preparing a response. Iran rejected a meeting request from Vice-President JD Vance and warned that US bases in Europe would be targeted if fighting resumes.\n\nWhat next is uncertain. Rubio suggests economic pressure alone is enough, but Trump is under pressure to resolve things before Democrats take charge of Congress on 3 January. A Reuters Ipsos poll found 71% of Americans want Congress to legislate an end to the war, yet Democrats lack a clear plan to reopen Hormuz.",
-    "why_it_matters": "A shooting war involving the world's biggest oil chokepoint rattles global energy markets, and for Australia — which imports much of its fuel — any sustained Hormuz disruption and oil-price spike would flow straight through to petrol prices here.",
-    "deep_analysis": "## Historical Context\n\nThe strait of Hormuz has long been the world's most sensitive oil chokepoint, with around a fifth of global oil and gas passing through it. In this conflict, the US and Israel launched an air campaign against Iran in late February; Iran retaliated and effectively closed the strait. A preliminary June agreement to end the war and reopen the strait collapsed within weeks after Iranian attacks on shipping resumed and the US reinstated a port blockade. Since August, the Treasury-led \"Operation Economic Outcast\" has layered sanctions on Middle Eastern bank branches and financial firms, paired with a naval blockade, aiming at what Bessent calls \"economic asphyxiation\".\n\n## Multiple Perspectives\n\nThe US position is split in tone: Rubio and, per reporting, Trump's current strategy favour \"suffocating Iran through economic pressure\" rather than new strikes, with Rubio calling Iran's demands unrealistic. Treasury insists the campaign is \"collapsing Iran's economy\". Iranian officials read it differently — Mohammadi calls the US response \"completely deceptive\", claims a two-week strike timeline, and argues a \"comprehensive pre-emptive war\" may be needed. Other officials warn European complicity would be \"an act of war\" and that US bases in Europe are targets. On the facts, the two accounts agree Bessent was relocated after the Wall Street Journal photo; the severity of the specific threat against him remains unclear per all sources. Iran has previously denied plotting attacks on US soil.\n\n## What to Watch\n\nWatch the two-week decision window Mohammadi describes, and whether Trump moves before Democrats take Congress on 3 January. Key indicators: Brent crude (recently a relatively low $93 a barrel) and Saudi output (near prewar 9.3m barrels a day) suggest the blockade may be leaking. Also watch for street protests in Iran around the late-December anniversary of last year's demonstrations, any strike on US bases in Europe, and the fate of Iran's enriched uranium stockpile, which Rezaei says Iran won't let leave the country.",
-    "concepts": [
-     {
-      "term": "Operation Economic Outcast",
-      "definition": "The US Treasury's campaign of sanctions and a naval blockade designed to collapse Iran's economy and force it to stop shipping attacks and reopen the strait of Hormuz.",
-      "context": "Launched in August and led by Treasury Secretary Scott Bessent."
-     },
-     {
-      "term": "strait of Hormuz",
-      "definition": "A narrow sea passage in the Gulf through which a large share of the world's oil and gas is shipped, making it a critical global chokepoint.",
-      "context": "Iran effectively closed it in retaliation for US and Israeli strikes."
-     },
-     {
-      "term": "blockade",
-      "definition": "A military or economic effort to seal off a country's ports or trade routes so goods can't move in or out.",
-      "context": "The US reinstated a blockade of Iranian ports after the June truce failed."
-     },
-     {
-      "term": "sanctions",
-      "definition": "Penalties, usually economic, that one country imposes on another to pressure it into changing its behaviour.",
-      "context": "Bessent's campaign targets banks and financial firms dealing with Iran."
-     }
-    ],
-    "quiz": {
-     "question": "Why was Treasury Secretary Scott Bessent reportedly moved to a military base?",
-     "options": [
-      "His Washington home was destroyed in an attack",
-      "He was promoted to a defence role",
-      "Security concerns rose after a photo let his Georgetown home be geolocated amid Iranian threats",
-      "The White House ordered all officials onto bases after the June truce"
-     ],
-     "answer_index": 2,
-     "explanation": "Sources agree the relocation followed a Wall Street Journal photo that allowed his home's location to be pinned down, coming amid alleged Iran-linked threats to his life. The exact severity of the threat remained unclear."
-    },
-    "background_beginner": "The main players are the United States, led by President Donald Trump, and Iran, a major oil-producing nation in the Middle East. In late February, the US and Israel launched air strikes on Iran; Iran struck back and shut the strait of Hormuz, a narrow sea lane that carries much of the world's oil. A short June ceasefire fell apart. Since then, Washington has tried to crush Iran's economy with sanctions and a naval blockade run by Treasury Secretary Scott Bessent. The conflict keeps flaring because neither side will meet the other's conditions, and Iran has reportedly threatened US officials in return.",
-    "impact_score": 78,
-    "image_url": "https://i.guim.co.uk/img/media/cf2f295d1d5a6ef4a04d6ea471994bcd584f485d/94_0_4620_3696/master/4620.jpg?width=1920&quality=85&auto=format&fit=max&s=7b1a2cc88d507b80accf87167dd6e27e",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Treasury Secretary Scott Bessent has been relocated to a military base over alleged Iranian threats, as Iranian officials warn the US is weighing fresh strikes or tighter sanctions.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-11T19:26:48.489437+00:00",
-    "published_date": "2026-11-12",
-    "has_fulltext": true
-   },
-   {
     "id": "bdd1fcc9-b9b6-5f61-be45-37faf09060d7",
     "title": "Ebola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns",
     "simplified_title": "Ebola Cash Vanishes in DR Congo as Outbreak Rages On",
@@ -1209,66 +921,6 @@
     "has_fulltext": true
    },
    {
-    "id": "f20f8dfd-bde1-57c8-9beb-33a6f4151e29",
-    "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
-    "simplified_title": "Deadly Gaza storms leave thousands without shelter as tents wait outside",
-    "quick_summary": "Deadly storms have flooded tents in Gaza, killing at least four people, while 150,000 new shelters sit outside the territory awaiting Israeli approval to enter.",
-    "simplified_body": "Heavy rain and wind battered Gaza over the weekend, tearing through fragile, leaky tents where tens of thousands of displaced Palestinians are living. At least four people were killed: a child drowned in flood waters, and three children and their mother died when a sand dune collapsed onto their tent, according to the Palestinian health ministry. Sewage has spilled into tents, and the United Nations (UN) says 26,000 households sought help after the rains, with at least 3,900 now left with no shelter at all.\n\nThe people affected are among the roughly 94% of Palestinians in Gaza who need help finding shelter. Aid workers warn that disease will spread fast unless families get new tents and ways to keep warm, with medics expecting more respiratory illness and fearing children could die of hypothermia, as happened last winter.\n\nThis is Gaza's second winter since a ceasefire was agreed more than a year ago. Charities say conditions are no better than last year because of Israeli restrictions on \"dual-use items\" and backlogs at crossings. The UN says 150,000 shelters are waiting outside Gaza for approval to enter. Israel says it allowed 10,000 tents in last week and an average of 600 trucks a day, but the NGO Gisha notes Israel counts 12 pallets as one truck, when a truck usually carries about 20 — potentially a 40% reduction.\n\nThe Council for Arab-British Understanding (Caabu) has urged Britain to pressure Israel to ease restrictions and restore licences for groups like Médecins Sans Frontières and Oxfam. With winter not yet properly begun, aid agencies warn the crisis will deepen without faster entry of robust shelter materials.",
-    "why_it_matters": "Australians who have followed the Gaza ceasefire will see that aid bottlenecks, not just the weather, are driving these deaths — a reminder that humanitarian access remains a live political question long after a truce is signed.",
-    "deep_analysis": "## Historical Context\n\nGaza's displaced population has relied on emergency tents for a prolonged period, and aid groups say those shelters were never built to survive winter. Shelterbox notes the tents it usually supplies have been waiting outside Gaza for almost two years, forcing it to improvise with tarpaulins and wooden pallets — even those materials are now being restricted. This winter is the second since a ceasefire was agreed more than a year ago, yet aid workers report conditions are no better than last year, when children died of hypothermia. The recurring flood deaths were, as Caabu puts it, \"warned about\" in advance.\n\n## Multiple Perspectives\n\nAid agencies and Palestinian families describe a man-made scarcity: flooded tents, destroyed sanitation, and no clear or consistent process for getting supplies in. Shelterbox describes a \"level of capriciousness\" where toolkits are allowed one day and blocked the next without explanation. Israel, for its part, says it allowed 10,000 tents in last week and permits an average of 600 trucks a day. The Israeli NGO Gisha disputes how meaningful those figures are, pointing out that counting 12 pallets as a single truck — when a truck typically carries about 20 — could mean roughly a 40% reduction in what actually gets through, alongside a lack of transparency.\n\n## What to Watch\n\nWhether the 150,000 shelters waiting outside Gaza are approved and enter quickly, and whether restrictions on \"dual-use items\" and the licences of organisations like Médecins Sans Frontières, Oxfam and the Norwegian Refugee Council are eased. With the UN estimating 940,000 people in flood-risk areas and winter not yet fully arrived, the pace of approvals will directly shape how many more people are harmed.",
-    "concepts": [
-     {
-      "term": "dual-use items",
-      "definition": "Goods that can serve both civilian and military purposes, which Israel restricts from entering Gaza — here including materials needed to build shelters.",
-      "context": "Aid agencies say these restrictions, plus crossing backlogs, are limiting critical supplies for shelter."
-     },
-     {
-      "term": "ceasefire",
-      "definition": "An agreed halt to fighting; Gaza is now facing its second winter since one was agreed more than a year ago.",
-      "context": "Despite the truce, aid workers say shelter conditions are no better than the previous winter."
-     },
-     {
-      "term": "hypothermia",
-      "definition": "A dangerous drop in body temperature from cold exposure, which can be fatal, especially for children.",
-      "context": "Medics fear more children could die of it this winter, as happened last year."
-     }
-    ],
-    "quiz": {
-     "question": "Why do aid agencies describe Gaza's shelter shortage as partly \"man-made\"?",
-     "options": [
-      "The storms were artificially created",
-      "150,000 shelters are waiting outside Gaza for Israeli approval to enter",
-      "Palestinians refused the tents offered to them",
-      "The tents were destroyed by aid workers"
-     ],
-     "answer_index": 1,
-     "explanation": "Aid groups point to 150,000 shelters held outside Gaza awaiting approval, plus restrictions on 'dual-use items', arguing the scarcity is political rather than due to a lack of available tents."
-    },
-    "background_beginner": "Gaza is a small, densely populated Palestinian territory where huge numbers of people have been displaced from their homes and are living in makeshift tents. A ceasefire paused the fighting more than a year ago, but humanitarian conditions remain dire. Aid charities — like Shelterbox, Medical Aid for Palestinians and the United Nations — try to bring in tents, medical supplies and building materials, but say Israel controls what crosses into Gaza and restricts many goods. Each winter, storms flood the flimsy tents and people die from cold and drowning. The topic keeps coming up because the same warnings and the same bottlenecks repeat every rainy season.",
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/b6bfae90228f8dcd1f4cf363fa8173e4ad89a2c9/0_0_5424_3684/master/5424.jpg?width=1920&quality=85&auto=format&fit=max&s=53d777b5d03354fda47f3748cfbd6eeb",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Deadly storms have flooded tents in Gaza, killing at least four people, while 150,000 new shelters sit outside the territory awaiting Israeli approval to enter.",
-    "tier": "GLOBAL",
-    "category": "SOCIETY_CULTURE",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "41cc4d70-b7c2-57ae-a270-afac9a5dc797"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-11-11T19:26:49.739029+00:00",
-    "published_date": "2026-11-12",
-    "has_fulltext": true
-   },
-   {
     "id": "2eea2768-7fb7-5436-8189-2e12a7321a2e",
     "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
     "simplified_title": "Amnesty: UN and South Sudan ignored warnings before deadly massacre",
@@ -1328,6 +980,71 @@
    }
   ],
   "AMERICAS": [
+   {
+    "id": "9a8a81ba-ccbe-5d28-aed4-a4b60028642e",
+    "title": "US reports record number of deportations and arrests in 2026",
+    "simplified_title": "US Hits Record Deportations as Trump Admits Crackdown May Be Too Tough",
+    "quick_summary": "The US government says it carried out a record 483,200 deportations and more than 491,000 immigration arrests in 2026, even as President Trump concedes his crackdown may have gone too far.",
+    "simplified_body": "The US Department of Homeland Security (DHS) announced that Immigration and Customs Enforcement (ICE) made 483,200 deportations and more than 491,000 immigration arrests in the 2026 fiscal year. That deportation figure breaks the record in ICE's 23-year history, topping the 442,640 removals recorded in 2025. Arrests peaked at 50,925 in August before easing to just over 48,000 in September.\n\nThis affects migrants, their families and communities across the US, and it has become a political problem for President Donald Trump. His approval rating on immigration has dropped to 38 percent from 50 percent at the start of his presidency, according to Reuters/Ipsos polling. Trump himself told CBS's 60 Minutes the policies \"might be too tough\", while still claiming high marks for removing \"the bad ones\".\n\nFor background: a researcher from the Center for Immigration Studies (CIS) said the data is incomplete, noting it's unclear how many cases were \"interior enforcement\" versus people turned around at the border or airports. Two US citizens, Alex Pretti and Renee Nicole Good, were shot dead by federal agents during a January enforcement surge in Minneapolis, with footage sparking international outrage.\n\nDemocrats, set to take control of Congress next year, plan to investigate ICE tactics and expand paths to legal status. Some, like centrist Texan Henry Cuellar, want deportations focused on criminals; others are firmer, with Senator-elect Peggy Flanagan vowing to \"rip ICE apart\". How far they can go remains limited.",
+    "why_it_matters": "Record-breaking deportations and the deaths of two US citizens signal a sharp hardening of American immigration enforcement — a reminder for Australians of how border politics can escalate and reshape national debate.",
+    "deep_analysis": "## Historical Context\n\nImmigration enforcement has long been a flashpoint in US politics. ICE was created in 2003, giving the agency a 23-year history against which the 2026 figures are measured. The 483,200 deportations surpass the previous record of 442,640 set in 2025, showing enforcement climbing year on year under the Trump administration. As background, deportation numbers have historically swung with the priorities of each president, but the article makes clear this administration has \"increased enforcement more than any prior president\".\n\n## Multiple Perspectives\n\nThe administration frames the numbers as a success: Homeland Security Secretary Markwayne Mullin called it the highest year in ICE's history. The Center for Immigration Studies (CIS) sees evidence that the unauthorised population has fallen through \"out-migration due to a fear of enforcement\", though its researcher cautioned the data is incomplete and hard to measure. Trump straddles both sides — defending removals of \"the bad ones\" while admitting the approach \"might be too tough\". Democrats are split between Cuellar's measured \"we're not going to be extreme\" and Flanagan's \"we will rip ICE apart\", a divide sharpened by the shooting deaths of two US citizens.\n\n## What to Watch\n\nWatch whether Democrats, once they take control of Congress next year, can translate investigations of DHS and ICE tactics into real limits, given the article notes limits on how much they can achieve. Watch Trump's immigration approval rating, already down to 38 percent. And watch the fallout from the Minneapolis shootings and viral footage of agents, which has drawn international outrage and could shape both policy and the political mood.",
+    "concepts": [
+     {
+      "term": "deportations",
+      "definition": "The forced removal of non-citizens from a country, usually for breaking immigration or other laws.",
+      "context": "The US reported a record 483,200 deportations in 2026, the highest in ICE's history."
+     },
+     {
+      "term": "Immigration and Customs Enforcement (ICE)",
+      "definition": "The US federal agency responsible for enforcing immigration laws inside the country, including arrests and removals.",
+      "context": "ICE carried out the record arrests and deportations and is the target of Democratic investigations."
+     },
+     {
+      "term": "fiscal year",
+      "definition": "A 12-month accounting period a government uses for budgeting and reporting, which may not match the calendar year.",
+      "context": "The record 483,200 deportations were tallied across the 2026 fiscal year."
+     },
+     {
+      "term": "interior enforcement",
+      "definition": "Immigration arrests and removals carried out within a country, as opposed to stopping people at the border.",
+      "context": "A CIS researcher said it was unclear how many cases were interior enforcement versus border turnarounds."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the Center for Immigration Studies researcher say the deportation figures should be read with caution?",
+     "options": [
+      "Because ICE refused to release any numbers at all",
+      "Because deportations were paused during September",
+      "Because it's unclear how many were interior removals versus people turned around at the border or airports",
+      "Because the figures were lower than in 2025"
+     ],
+     "answer_index": 2,
+     "explanation": "The CIS researcher said the data is incomplete and he couldn't determine what share were interior enforcement versus people turned around at the border or airport — unlike the record total, which did exceed 2025's figure."
+    },
+    "background_beginner": "Immigration is one of the most heated issues in US politics. Immigration and Customs Enforcement (ICE), created in 2003, arrests and removes people who are in the country without legal permission. Under President Donald Trump, enforcement has ramped up sharply, hitting record numbers of arrests and deportations in 2026. Supporters say it deters illegal migration; critics point to harsh tactics, including the shooting deaths of two US citizens by federal agents in Minneapolis, which drew international outrage. The topic keeps resurfacing because it divides voters, sways elections, and pits a Republican administration against Democrats preparing to take control of Congress and rein the crackdown in.",
+    "impact_score": 72,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af62151-1794515281.jpg?resize=1920%2C1440",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "The US government says it carried out a record 483,200 deportations and more than 491,000 immigration arrests in 2026, even as President Trump concedes his crackdown may have gone too far.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026?traffic_source=rss"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "769c80e2-900c-53b9-ba61-c81793256345"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-13T07:25:44.269051+00:00",
+    "published_date": "2026-11-13",
+    "has_fulltext": true
+   },
    {
     "id": "a0aceb71-7ca9-5641-a964-d01039a87e49",
     "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
@@ -1587,72 +1304,6 @@
     "has_fulltext": true
    },
    {
-    "id": "acfb507d-a64a-5d12-896e-b73569134a02",
-    "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-    "simplified_title": "US House blocks bid to impeach Defence Secretary Hegseth",
-    "quick_summary": "The US House of Representatives has shut down a Republican-led attempt to impeach Defence Secretary Pete Hegseth over the war in Iran, voting 211-204 to bury the effort in committee.",
-    "simplified_body": "An attempt to impeach US Defence Secretary Pete Hegseth has failed in the US House of Representatives. The effort was led by Thomas Massie, a dissident Republican congressman from Kentucky, who accused Hegseth of waging war on Iran for more than 90 days without approval from Congress. Lawmakers voted 211-204 to refer the impeachment articles to a committee, which effectively kills the push given how little time is left in this Congress. Every Republican except Massie voted to shelve it.\n\nThis matters because it tests how much President Donald Trump's party will back his cabinet, even when some have doubts about Hegseth. Impeachment is the formal process for charging and potentially removing a senior official, and it was always a long shot while Republicans hold power. Massie argued removing Hegseth now would let Republicans approve a replacement before they lose control.\n\nThe politics are about to shift. The opposition Democratic Party won the recent midterm elections — the halfway-point national vote — and will take control of both chambers of Congress in January. Massie, who lost his own re-election to a Trump-backed rival, had clashed with Trump over the Iran war and over releasing files on sex offender Jeffrey Epstein.\n\nThe fight may not be over. Top House Democrat Hakeem Jeffries said, \"This is not the end of it. It's just the beginning,\" and impeachment resolutions can carry past this term. Republican Senator Ted Cruz said he expects Hegseth to resign or be fired. Trump, meanwhile, celebrated the vote as an \"EXONERATION\".",
-    "why_it_matters": "It shows how firmly Trump's Republicans still shield his cabinet — for now — while a Democratic-controlled Congress looms in January. The underlying war in Iran and strikes on alleged drug boats also feed into wider questions about US military power that ripple across allies, including Australia.",
-    "deep_analysis": "## Historical Context\n\nImpeachment is one of the oldest tools in the US Constitution, letting Congress charge and potentially remove officials for \"high crimes and misdemeanours\". It is deliberately hard: the House brings charges, and the Senate holds a trial. Against that backdrop, Massie's eight articles — centred on fighting in Iran for more than 90 days without a congressional vote — tap a long-running tension over who holds war powers. The Constitution gives Congress the power to declare war, but presidents have repeatedly launched military action without one.\n\n## Multiple Perspectives\n\nMassie frames this as the law: he says Hegseth was \"breaking the law and must be held accountable\", and argued an early removal would let Republicans install a replacement before Democrats take over. Hegseth calls it \"sabotage\" and a \"farce\", claiming it punishes \"warriors\" for \"lawful military operations\" and endangers national security. Trump declared it an \"EXONERATION\". Democrats are split in mood: Jeffries vows the fight is \"just the beginning\", while Senator-elect Abdul El-Sayed blasted the 11 Democrats who missed the vote, saying \"you should show up and do your job\". Notably, even some Republicans — like Ted Cruz — doubt Hegseth's longevity.\n\n## What to Watch\n\nThe January handover is the hinge: Democrats take both chambers and could revive impeachment, since such resolutions survive the end of a term. Watch whether Trump pre-empts that by replacing Hegseth, as Cruz predicts. Also watch the \"extrajudicial killings\" allegation over strikes on alleged drug-carrying boats in the Pacific and Caribbean — a legal question likely to outlast this single vote.",
-    "concepts": [
-     {
-      "term": "impeach",
-      "definition": "The formal process by which a legislature charges a senior government official with misconduct, which can ultimately lead to their removal from office.",
-      "context": "Massie tried to impeach Hegseth over the Iran war, but the House voted to shelve the effort."
-     },
-     {
-      "term": "House of Representatives",
-      "definition": "One of the two chambers of the US Congress; it is the body that brings impeachment charges.",
-      "context": "The vote to refer the articles to committee happened in the House of Representatives."
-     },
-     {
-      "term": "midterm elections",
-      "definition": "US national elections held halfway through a president's four-year term, deciding control of Congress.",
-      "context": "Democrats won the midterm elections and will control both chambers from January."
-     },
-     {
-      "term": "articles",
-      "definition": "The formal written charges listing the alleged offences in an impeachment case.",
-      "context": "Massie introduced eight articles accusing Hegseth of various offences."
-     }
-    ],
-    "quiz": {
-     "question": "Why did Massie's impeachment effort effectively fail?",
-     "options": [
-      "The House voted to refer the articles to a committee, running down the clock",
-      "The Senate voted to acquit Hegseth after a trial",
-      "Trump personally vetoed the resolution",
-      "Democrats refused to introduce the charges"
-     ],
-     "answer_index": 0,
-     "explanation": "The House voted 211-204 to send the articles to the Judiciary Committee, which kills the effort because little time remains in this Congress — impeachment isn't blocked by a presidential veto, and the Senate only holds a trial after the House brings charges."
-    },
-    "background_beginner": "Pete Hegseth is the US Defence Secretary, the civilian who runs the American military, serving under President Donald Trump. Since February, the US has been fighting a war in Iran, and it has also struck boats it says were carrying drugs. Thomas Massie, a Republican congressman who often clashes with Trump, argued Hegseth broke the law by waging war for more than 90 days without Congress's approval, and tried to impeach him — the process for charging an official and potentially removing them. It keeps coming up because of a long US argument over who can order war: the president or Congress. Democrats, who won the recent elections, take control in January and may try again.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "The US House of Representatives has shut down a Republican-led attempt to impeach Defence Secretary Pete Hegseth over the war in Iran, voting 211-204 to bury the effort in committee.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "c49a6d41-8153-5867-a53f-e3523b003263",
-     "ef6efe88-ef80-5bca-b508-7a3ceb4ead5c"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-11-11T19:26:15.895597+00:00",
-    "published_date": "2026-11-12",
-    "has_fulltext": true
-   },
-   {
     "id": "8d8e22dd-e8a3-5ae6-af5f-00e8fff593a8",
     "title": "Five shot, one killed at Washington DC gym",
     "simplified_title": "Gunman kills one, wounds four at Washington DC gym",
@@ -1784,72 +1435,66 @@
     "has_fulltext": true
    },
    {
-    "id": "7f54a5de-575d-5ae5-8dc4-0428e345e359",
-    "title": "Global carbon emissions may have peaked in 2026 – but only time will tell",
-    "simplified_title": "Global Carbon Emissions May Have Peaked — But Don't Celebrate Yet",
-    "quick_summary": "A new report shows global fossil fuel emissions dipping slightly in 2026, but experts warn it's likely a short-term blip driven by war and oil prices rather than lasting progress.",
-    "simplified_body": "The Global Carbon Project — a team that tracks how much carbon the world pumps out and soaks up — has released its 2026 report, timed with the COP31 climate conference in Turkey. The headline finding is that emissions from fossil fuels (coal, gas and oil) are set to fall slightly, from 38.4 gigatonnes (Gt) in 2025 to a projected 38.2 Gt. That's a modest 0.4% drop, and the first downward nudge in a long while.\n\nThis matters to everyone, because to dodge the worst of climate change the world needs to hit net zero emissions by mid-century, and emissions have been climbing for most of the industrial age. But the researchers reckon this dip isn't real progress — it's mostly a short-term effect of the war in Iran pushing oil prices up. Crude has jumped from around US$60 to US$100 a barrel, and in Australia petrol climbed from 175c/L to about 240c/L.\n\nHere's the background a newcomer needs: emissions have dropped before, during the 1970s oil shocks, the collapse of the Soviet Union, the 2008 Global Financial Crisis and COVID. Each time, emissions bounced back higher once economies recovered. So one good year doesn't confirm a trend.\n\nWhat happens next depends on policy. High oil prices are speeding up electric vehicle (EV) uptake — a quarter of new cars sold in Australia in 2026 were fully electric — and China is installing wind, solar and hydro at a world-leading rate, with coal now under 50% of its electricity. If those shifts stick, the dip could become a genuine turning point rather than another blip.",
-    "why_it_matters": "If this dip holds, it could mark the moment humanity's emissions finally start falling — and Australia is part of the story, with a quarter of new cars sold this year being fully electric despite us long being an EV laggard.",
-    "deep_analysis": "## Historical Context\n\nCarbon emissions have trended upward for most of the industrial age, with 50% of all emissions produced since 1990. Against that backdrop, any decline grabs attention — but history urges caution. The sources point to several past drops: the 1970s oil shocks, when OPEC cut production and prices quadrupled; the collapse of the Soviet Union in 1991; the 2008 Global Financial Crisis; and the COVID pandemic. In every case, emissions returned to even higher levels once the economy recovered. A useful parallel the Ars Technica piece draws is to global temperatures: people wrongly claimed warming \"ended\" in 1998 because they fixated on one hot year rather than the longer trend. The same logic applies here — a single year's figure can mislead.\n\n## Multiple Perspectives\n\nBoth sources agree on the numbers and the core caution: the 0.4% fall is probably a short-term dip driven by the Iran war and oil prices, not a true peak. Similar \"peak\" claims were made back in 2024 and didn't hold. Beneath the headline, the picture is mixed — oil emissions fell 1.9% and gas fell 0.3%, but coal emissions actually rose 0.6%. The optimistic read is structural: high oil prices are accelerating EV uptake, and even if petrol prices fall back, EVs may remain the preferred choice as cost, range and charging barriers fall. China's rapid renewables rollout could make a major dent. The pessimistic read is that fossil-fuel-driven growth in developing countries could offset reductions elsewhere, and natural carbon sinks — oceans, forests, grasslands — are absorbing less as they warm.\n\n## What to Watch\n\nWatch whether the dip survives the next couple of years once (or if) the fuel crisis eases. Key signals: China's coal share staying under 50%, continued EV uptake, and what policies emerge from COP31. In Australia specifically, keep an eye on transport emissions, which have actually risen since 2017 despite EV growth, and on stationary energy, which has stayed stagnant.",
+    "id": "f74c8bd7-abe8-5f71-9e7d-4c7ce4737d4f",
+    "title": "Mercedes-Benz halts all further investment at German facilities",
+    "simplified_title": "Mercedes-Benz Freezes German Investment, Weighs Plant Closures",
+    "quick_summary": "Mercedes-Benz has halted all further investment at its German factories and is now seriously considering closing some plants as sales and profits slump.",
+    "simplified_body": "Mercedes-Benz told staff on Thursday it was halting all further investment at its German sites for now. In a memo on the company's internal network, board member Michael Schiebe said the executive board had \"jointly decided\" to stop the spending. The company is also weighing up plant closures, something board member Britta Seeger said it wants to \"avoid at all costs\" but must now look at seriously.\n\nThis matters most for the carmaker's German workers and the towns built around its factories. Schiebe, the chief production officer, says German cost structures make investing at home unaffordable — he notes German labour costs are sometimes five times higher than at plants in Eastern Europe. The move is piling pressure onto the works council (the elected body representing workers) and the IG Metall trade union.\n\nMercedes, one of Germany's biggest brands, has struggled with falling sales and profits for years. Demand from China — its largest single market, historically about a third of passenger-car sales — has weakened sharply, with Chinese sales down around 19% in 2025. Its big bet on electric vehicles (EVs) hasn't paid off as hoped, as European and North American EV demand grew slower than expected while cheaper Chinese EVs crowded the market. Higher United States (US) tariffs under President Donald Trump cost it roughly €1 billion ($1.1 billion) in profit last year.\n\nWhat happens next hinges on whether unions and management can agree on cost cuts. Schiebe recently warned that two German plants would have to close unless costs come down. Rivals like Volkswagen, BMW, Audi and Porsche are wrestling with the same squeeze.",
+    "why_it_matters": "The troubles of Germany's flagship carmakers signal a broader shake-up in the global auto industry — one that shapes the prices, models and EV options Australians see in showrooms, since we import nearly all our cars.",
+    "deep_analysis": "## Historical Context\n\nMercedes-Benz is one of the oldest and most prestigious names in motoring, long treated as a symbol of German industrial strength. For decades, premium German carmakers thrived on strong global demand, especially from a fast-growing China. That model is now under strain. The article points to a combination of falling Chinese demand, a slower-than-expected shift to electric vehicles (EVs), tougher competition from cheaper Chinese EVs, and new United States (US) tariffs — together squeezing the profits that once funded heavy investment at home.\n\n## Multiple Perspectives\n\nManagement, through Michael Schiebe and Britta Seeger, frames the freeze as unavoidable: current cost structures make German investment unviable, with labour costs reportedly up to five times higher than in Eastern Europe. From this view, examining plant closures is a reluctant necessity.\n\nWorkers see it differently. The works council and the IG Metall union are applying increasing pressure, and the memo's talk of closures lands squarely on jobs and communities. Seeger's insistence that the company wants to \"avoid plant closures at all costs\" signals management knows how politically and socially charged any closure would be.\n\nThere's also an industry-wide angle: Volkswagen, BMW, Audi and Porsche face similar problems, suggesting this is structural rather than a Mercedes-only misstep.\n\n## What to Watch\n\nWatch for negotiations between Mercedes management and IG Metall over cost cuts — Schiebe warned two plants could close unless costs fall. Keep an eye on whether Chinese sales keep sliding, how EV demand in Europe and North America develops, and whether US tariff policy shifts. Any formal closure announcement would be the clearest sign talks have failed.",
     "concepts": [
      {
-      "term": "net zero emissions",
-      "definition": "A state where the greenhouse gases we release are balanced by the amount removed from the atmosphere, so we add nothing extra overall.",
-      "context": "The world is aiming to reach net zero by mid-century to avoid the worst climate impacts."
+      "term": "works council",
+      "definition": "An elected body inside a company that represents the interests of employees to management, common in German firms.",
+      "context": "The memo piles pressure onto the works council, which negotiates on behalf of Mercedes workers over jobs and conditions."
      },
      {
-      "term": "gigatonnes (Gt)",
-      "definition": "A unit of mass equal to one billion tonnes, used to measure emissions on a global scale.",
-      "context": "Global fossil fuel emissions are measured in the tens of gigatonnes each year."
+      "term": "IG Metall",
+      "definition": "Germany's large and powerful metalworkers' trade union, representing many auto industry employees.",
+      "context": "IG Metall is pushing back as Mercedes weighs cost cuts and possible plant closures."
      },
      {
-      "term": "Global Carbon Project",
-      "definition": "A research effort that compiles data on fossil fuel use, deforestation and natural carbon absorption to track emissions worldwide.",
-      "context": "It published the 2026 report behind this story."
+      "term": "tariffs",
+      "definition": "Taxes a government places on imported goods, which can raise costs for companies selling across borders.",
+      "context": "Higher US tariffs reportedly cost Mercedes about €1 billion in profit last year."
      },
      {
-      "term": "electric vehicle (EV)",
-      "definition": "A car powered by a battery and electric motor rather than petrol or diesel.",
-      "context": "High oil prices are speeding up EV adoption in Australia and beyond."
+      "term": "electric vehicles (EVs)",
+      "definition": "Cars powered by rechargeable batteries rather than petrol or diesel engines.",
+      "context": "Mercedes invested heavily in EVs, but demand grew slower than expected while cheaper Chinese rivals moved in."
      }
     ],
     "quiz": {
-     "question": "Why do the researchers say the 2026 emissions dip probably isn't a genuine climate turning point?",
+     "question": "Why does Mercedes-Benz say it can no longer afford to keep investing in its German plants?",
      "options": [
-      "Because the Global Carbon Project data was found to be inaccurate",
-      "Because emissions have never fallen before in history",
-      "Because coal emissions fell faster than oil emissions",
-      "Because it's likely a short-term dip driven by the Iran war and oil prices, and past dips always bounced back"
+      "The German government banned new factory investment",
+      "German factories produce lower-quality cars than foreign ones",
+      "Chinese customers refuse to buy German-made cars",
+      "German cost structures, including labour costs up to five times higher than in Eastern Europe, make investment unviable"
      ],
      "answer_index": 3,
-     "explanation": "The report attributes the 0.4% fall mainly to the war in Iran pushing up oil prices, and history shows past emission drops reversed once economies recovered. (Notably, coal emissions actually rose 0.6%.)"
+     "explanation": "Chief production officer Michael Schiebe said current cost structures make German investment impossible, noting German labour costs are sometimes five times higher than at Eastern European plants."
     },
-    "background_beginner": "Burning coal, gas and oil for power, factories, cars and heating releases carbon dioxide, the main gas warming the planet. For most of the industrial age these emissions have climbed year after year. To limit dangerous climate change, countries have agreed to reach \"net zero\" — adding no extra carbon — by around the middle of this century. The Global Carbon Project is a research team that tallies up how much carbon the world emits and absorbs each year. Every year its report is closely watched as a scorecard on progress. This keeps coming up because scientists and world leaders — who gather at yearly COP climate conferences — want to know whether emissions have finally started falling.",
-    "impact_score": 72,
-    "image_url": "https://images.theconversation.com/files/771255/original/file-20261111-64-rl47y9.jpg?ixlib=rb-4.1.1&rect=0%2C354%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
+    "background_beginner": "Mercedes-Benz is one of Germany's largest and most famous carmakers, known for luxury vehicles. Germany's auto industry has long been a pillar of its economy and a source of national pride. In recent years, though, the big German brands have hit trouble: sales in China — a huge market for them — have fallen, the switch to electric vehicles has been slower and costlier than hoped, cheaper Chinese EVs have grabbed market share, and United States tariffs have eaten into profits. Because factories employ thousands and anchor whole towns, any talk of closures or frozen investment becomes a major political and social story, involving unions, workers and governments.",
+    "impact_score": 68,
+    "image_url": "https://static.dw.com/image/79669256_6.jpg",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "A new report shows global fossil fuel emissions dipping slightly in 2026, but experts warn it's likely a short-term blip driven by war and oil prices rather than lasting progress.",
+    "description": "Mercedes-Benz has halted all further investment at its German factories and is now seriously considering closing some plants as sales and profits slump.",
     "tier": "GLOBAL",
-    "category": "ENVIRONMENT_CLIMATE",
+    "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "The Conversation",
-      "url": "https://theconversation.com/global-carbon-emissions-may-have-peaked-in-2026-but-only-time-will-tell-296152"
-     },
-     {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/"
+      "name": "DW",
+      "url": "https://www.dw.com/en/mercedes-benz-halts-all-further-investment-at-german-facilities/a-79934509?maca=en-rss-en-all-1573-rdf"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "f4e92c62-8d94-5ebe-bb51-31ea66d6a67a"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-11-11T19:26:18.102066+00:00",
-    "published_date": "2026-11-12",
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-13T07:25:21.719903+00:00",
+    "published_date": "2026-11-13",
     "has_fulltext": true
    },
    {
@@ -2047,66 +1692,66 @@
     "has_fulltext": true
    },
    {
-    "id": "c48ad425-0ffa-5f99-9fd8-a02ce010c9fb",
-    "title": "Xi’s solution to PLA’s intangible faults: more political indoctrination | The Strategist",
-    "simplified_title": "Xi Bets on Party Loyalty to Fix China's Military Flaws",
-    "quick_summary": "China's leaders know their military has deep professional problems but are trying to fix them with more political loyalty training rather than better soldiering.",
-    "simplified_body": "President Xi Jinping and the Chinese Communist Party (CCP) openly admit the People's Liberation Army (PLA) has serious problems: corruption, weak leadership, poor joint training and slow doctrine development. But instead of treating these as practical military failings, they see them as signs of weak political loyalty — so their chosen cure is more political education and indoctrination, alongside ongoing purges of senior officers.\n\nThis matters because the PLA's soldiers owe their loyalty to the party, not the nation. A new ASPI (Australian Strategic Policy Institute) explainer argues that doubling down on ideology won't fix real-world skills, and that's actually good news for Australia and its allies, whose deterrence rests partly on being better at professional leadership and coalition operations.\n\nFor background: Xi has run anti-corruption campaigns since taking power in 2012, hunting \"big tigers\" and \"grain rats\", yet 14 years on the purges continue. The party has been unusually blunt, publishing slogans like the \"Two Insufficiencies\" (the force can't fight modern wars and officers can't command well) and the \"Five Incapables\" (officers can't judge situations, grasp intentions, make decisions, deploy forces or handle surprises). These have appeared in the PLA Daily over 150 times since 2015.\n\nThe author warns of two risks. First, time spent on political study leaves less room to build genuine leadership, training and doctrine. Second, leaders may end up getting advice that is ideologically \"correct\" rather than honest — raising the danger of overconfidence or miscalculation.",
-    "why_it_matters": "If China's military stays strong on gear but weak on professional skill, Australia and its partners keep an edge in leadership and coalition operations — a cornerstone of regional deterrence.",
-    "deep_analysis": "## Historical Context\n\nThe PLA was founded as the armed wing of the Chinese Communist Party, not as a national army — a distinction that still shapes its culture. Loyalty flows to the party rather than the state, and political commissars and ideological training have always sat at the heart of the force. Since Xi Jinping came to power in 2012, he has run repeated anti-corruption campaigns, using colourful official language about hunting \"big tigers\", clearing \"grain rats\" and digging out \"woodworms\". That these purges continue 14 years later suggests the underlying problem has proven stubborn.\n\n## Multiple Perspectives\n\nFrom Xi and the party's view, corruption and poor command are symptoms of ideological deviance, so the logical cure is deeper loyalty and more political education. The ASPI author takes the opposite view: these are practical, professional shortcomings — poor leadership, stove-piped single-service training, slow doctrine development, and military academies accused of formalism and waste — that ideology cannot solve. The party itself has been strikingly candid, airing the \"Two Insufficiencies\" and \"Five Incapables\" in its own newspaper. The disagreement is less about whether problems exist and more about their root cause and cure.\n\n## What to Watch\n\nWatch the pace and seniority of further purges — frequent high-level sackings signal the problem persists. Watch whether \"joint training\" reporting reflects genuinely integrated operations across land, sea, air, space and cyber, or remains single-service activity dressed up. And watch the balance between political study and practical readiness, since an over-ideological advisory culture raises the risk of overconfidence or miscalculation in a crisis.",
+    "id": "e661e6a8-84e9-5f64-be5a-7f1a735b090f",
+    "title": "China’s ambassador tells Australia what to do, again | The Strategist",
+    "simplified_title": "China's ambassador uses op-ed to steer Australia away from the US",
+    "quick_summary": "A Chinese ambassador's newspaper opinion piece pushed Australia to deepen economic ties with China while quietly discouraging its alliance with the United States, ASPI argues.",
+    "simplified_body": "China's ambassador to Australia, Liu Jinsong, published an opinion piece (op-ed) in The Australian giving pointed advice to Prime Minister Anthony Albanese ahead of the Shenzhen Asia-Pacific Economic Cooperation (APEC) meeting and a later visit to Beijing. According to the Australian Strategic Policy Institute (ASPI), the piece urged Australia to see its future in a China-led \"Asia-Pacific\" and to focus on economic growth, while pointedly avoiding the term \"Indo-Pacific\" and downplaying China's opposition to the Australia–US alliance and AUKUS.\n\nThis matters for Australia's government, which is trying to balance a huge trading relationship with China against a long-standing security alliance with the US. ASPI reads the op-ed as a warning: cooperate on economic \"frontier\" areas like artificial intelligence, biotechnology and clean energy, and don't let strategic partnerships with \"outsiders\" get in the way of prosperity.\n\nFor newcomers: APEC is a 21-member forum spanning both sides of the Pacific, including the US, Canada, Mexico, Peru and Chile. AUKUS is a security pact between Australia, the United Kingdom and the US, centred on nuclear-powered submarines. ASPI notes China has long tried to split Australia from Washington, pointing back to a 2013 Canberra forum and to the 2020 trade restrictions imposed after Australia's comments on the Covid-19 pandemic.\n\nASPI argues China \"telegraphs its punches\" and that similar messaging appeared in Global Times and a China Daily editorial criticising AUKUS. What happens next likely plays out at APEC and in Beijing, where Australia's choices on alliances and trade will be closely watched.",
+    "why_it_matters": "For Australia, the piece cuts to a core dilemma: how to keep profitable trade with its largest partner without weakening the US alliance and AUKUS that underpin its security.",
+    "deep_analysis": "## Historical Context\n\nChina and Australia have a relationship pulled in two directions: deep economic ties alongside sharp strategic friction. ASPI traces this messaging back at least to the 2013 Australia–China Forum in Canberra, where a Chinese delegation led by Li Zhaoxing criticised Australia for objecting to China's air-defence identification zone over the East China Sea, framing the US alliance as \"a product of the Cold War\". ASPI also recalls 2020, when Australia's call regarding the Covid-19 pandemic was followed by Chinese trade restrictions — cited as an example that, as one analyst put it, \"coercion needn't be military\".\n\n## Multiple Perspectives\n\nASPI, which authored this piece, views Liu's op-ed as a deliberate, long-running campaign to dominate Australia and divide it from the US, dressed up as economic goodwill. China's own framing, as quoted, is that the relationship stands on a shared \"Asia-Pacific\" foundation of prosperity, and that following an \"extraterritorial power\" on AUKUS undermines Australia's strategic autonomy. A third voice appears via economist Peter Drysdale, whose Global Times piece argued APEC could lift China–Australia ties to the \"next stage\". Readers should note ASPI is itself a party to this strategic debate, not a neutral observer.\n\n## What to Watch\n\nThe near-term test is the Shenzhen APEC meeting and Albanese's subsequent Beijing visit — whether Australia leans into \"Asia-Pacific\" economic cooperation or holds firm on Indo-Pacific framing and AUKUS. Watch the language Australian officials use, any movement on cooperation in artificial intelligence, biotechnology and clean energy, and whether Chinese state outlets continue coordinated messaging against the US alliance.",
     "concepts": [
      {
-      "term": "People's Liberation Army (PLA)",
-      "definition": "China's armed forces, which serve as the military arm of the Chinese Communist Party rather than of the nation itself.",
-      "context": "Its officers and soldiers owe loyalty to the party, which shapes its whole culture."
+      "term": "op-ed",
+      "definition": "An opinion piece published in a newspaper, usually written by someone who isn't on the paper's staff, to argue a particular viewpoint.",
+      "context": "Ambassador Liu Jinsong's op-ed in The Australian is the centrepiece of the article."
      },
      {
-      "term": "indoctrination",
-      "definition": "Teaching people to accept a set of political beliefs without question.",
-      "context": "Xi's preferred fix for the PLA's problems is more of this, rather than practical training."
+      "term": "Asia-Pacific Economic Cooperation (APEC)",
+      "definition": "A 21-member economic forum of countries around the Pacific Ocean, including both East Asian nations and the US, Canada, Mexico, Peru and Chile.",
+      "context": "The op-ed was timed to Australia's participation in the Shenzhen APEC meeting."
      },
      {
-      "term": "Five Incapables",
-      "definition": "An official PLA slogan listing five command failings, such as being unable to judge situations or deploy forces.",
-      "context": "Published repeatedly in the PLA Daily, it shows the party openly admits leadership weaknesses."
+      "term": "AUKUS",
+      "definition": "A security partnership between Australia, the United Kingdom and the United States, best known for a plan to give Australia nuclear-powered submarines.",
+      "context": "China has publicly opposed AUKUS, calling it counter to Australia's interests."
      },
      {
-      "term": "doctrine",
-      "definition": "The set of principles and concepts that guide how a military plans and fights.",
-      "context": "The PLA's system for developing it is described as slow and ill-equipped for rapid force design."
+      "term": "Indo-Pacific",
+      "definition": "A strategic framing of the region spanning the Indian and Pacific Oceans, often used by countries wary of a China-centred regional order.",
+      "context": "ASPI notes the term 'Indo-Pacific' was studiously avoided in the op-ed in favour of 'Asia-Pacific'."
      }
     ],
     "quiz": {
-     "question": "Why does the author argue Xi's focus on political education is a weakness for the PLA?",
+     "question": "According to ASPI, what was the main strategic aim behind Ambassador Liu's op-ed?",
      "options": [
-      "It encourages officers to join foreign coalitions",
-      "It stops China from buying modern military equipment",
-      "It makes soldiers too loyal to the nation instead of the party",
-      "It leaves less time for leadership and training, and may produce ideologically slanted rather than honest advice"
+      "To announce new Chinese trade restrictions on Australia",
+      "To invite Australia to join a new military pact with China",
+      "To encourage Australia to prioritise China-led economic ties while loosening its US alliance",
+      "To formally end the AUKUS agreement"
      ],
-     "answer_index": 3,
-     "explanation": "The article says doubling down on ideology risks both neglecting real professional development and giving leaders advice that is ideologically correct rather than objective, inviting overconfidence or miscalculation."
+     "answer_index": 2,
+     "explanation": "ASPI argues the op-ed used economic framing to steer Australia toward a China-led 'Asia-Pacific' and away from its US alliance and AUKUS, part of a long-running effort to divide the two allies."
     },
-    "background_beginner": "The People's Liberation Army (PLA) is China's military, but unlike most national armies it belongs to the ruling Chinese Communist Party, so soldiers pledge loyalty to the party rather than the country. President Xi Jinping, in power since 2012, has repeatedly cracked down on corruption and weak leadership in its ranks, regularly purging senior officers. The party openly admits problems like poor command and clumsy training, yet treats them as signs of weak political faith. This story keeps coming up because China's military is growing fast, and how well it actually fights matters hugely to Australia and the wider region.",
-    "impact_score": 62,
-    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/GettyImages-78594846-scaled.jpg",
+    "background_beginner": "Australia and China are major trading partners, but they clash over security. China is Australia's biggest customer for exports, while the US is Australia's closest military ally through arrangements like AUKUS, a submarine-focused pact with the US and UK. China opposes AUKUS and has long wanted Australia to keep its distance from Washington. This tension flares repeatedly — for example, after Australia's 2020 comments on the Covid-19 pandemic, China imposed trade restrictions. The latest flashpoint is an opinion piece by China's ambassador, Liu Jinsong, published as Prime Minister Anthony Albanese prepares for a regional summit and a Beijing visit. Think tank ASPI reads it as pressure dressed up as friendly economic advice.",
+    "impact_score": 58,
+    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/GettyImages-2246710258-scaled.jpg",
     "region": "Australian defence, ADF, AUKUS, regional security",
     "region_code": "ADF",
-    "description": "China's leaders know their military has deep professional problems but are trying to fix them with more political loyalty training rather than better soldiering.",
+    "description": "A Chinese ambassador's newspaper opinion piece pushed Australia to deepen economic ties with China while quietly discouraging its alliance with the United States, ASPI argues.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "ASPI Strategist",
-      "url": "https://www.aspistrategist.org.au/xis-solution-to-plas-intangible-faults-more-political-indoctrination/"
+      "url": "https://www.aspistrategist.org.au/chinas-ambassador-tells-australia-what-to-do-again/"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-11T19:27:14.650344+00:00",
-    "published_date": "2026-11-12",
+    "reading_minutes": 4,
+    "created_at": "2026-11-13T07:25:23.990181+00:00",
+    "published_date": "2026-11-13",
     "has_fulltext": true
    }
   ],
@@ -2450,5 +2095,5 @@
    }
   ]
  },
- "total_stories": 37
+ "total_stories": 32
 }
