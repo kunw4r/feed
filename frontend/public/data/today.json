@@ -1,8 +1,71 @@
 {
- "date": "2026-11-13",
- "generated_at": "2026-11-13T07:23:04.052652+00:00",
+ "date": "2026-11-14",
+ "generated_at": "2026-11-13T19:23:04.489413+00:00",
  "regions": {
   "OCEANIA": [
+   {
+    "id": "b5421d0c-5cf9-5c9b-92f5-34b2a77d3354",
+    "title": "Vanessa delivers pizza after work to pay rent. Many Australians are ‘scrambling’ as cracks appear in the economy",
+    "simplified_title": "Cracks Appear in Australia's Economy as Households Scramble",
+    "quick_summary": "Australians are more worried about the economy than any time since 2022, with rising mortgage arrears, job cuts and financial stress biting hard even as spending holds up.",
+    "simplified_body": "Fresh data this week showed Australians are more worried about the economy than at any point since 2022, and businesses reported their worst conditions since 2020. Steady price rises, interest rate hikes and recent job cuts have economists openly talking about the risk of recession. The Reserve Bank (RBA) this month lifted its cash rate to the highest level since 2008, and governor Michele Bullock said she couldn't yet see the economy \"cracking\". Yet consumer confidence has slumped to levels usually seen in recessions.\n\nOrdinary households are feeling the squeeze. Sydney worker Vanessa Freitas, a professional who has moved at least 14 times since arriving from Brazil, now delivers pizza at night to help cover rent. The national debt helpline took a record 190,000 calls in the year to August, with people skipping meals, medical appointments and prescriptions to keep up repayments. The Commonwealth Bank (CBA) reported the share of customers behind on their mortgage hit a 12-year high, while ANZ's arrears reached a five-year high.\n\nFor background, Australia has had five years of strong inflation, which the RBA doesn't expect to return to a normal 2.5% until mid-2028. Unemployment has crept up to 4.7% and is tipped to reach 5%. Big employers including National Australia Bank, Canva and Qantas have announced thousands of job cuts.\n\nThe Australian Prudential Regulation Authority (APRA) warned \"substantial\" job losses could snowball into a more severe shock. AMP expects Australia to avoid recession, with most people facing longer job searches and slower wage growth rather than mass unemployment.",
+    "why_it_matters": "This hits millions of Australian households directly — mortgage holders, renters and workers facing a slowing jobs market — and shapes how people feel about whether the \"Australian dream\" of a secure home is still within reach.",
+    "deep_analysis": "## Historical Context\n\nAustralia has lived through five years of strong inflation, which the RBA says won't return to a normal 2.5% until mid-2028. The cash rate is now at its highest since 2008, around the time of the global financial crisis. Economic worry is back to 2022 levels — but there's a key difference: in 2022 unemployment was still below 4%, whereas it's now 4.7% and climbing. AMP's Diana Mousina notes conditions are still better than the 1990s, a decade Australians remember for severe recession and high joblessness.\n\n## Multiple Perspectives\n\nThere's a real split in how the economy is being read. The RBA points to continued household spending — strong in electronics and eating out — and expects growth of at least 1% next year. CBA data backed up that spending strength. But Westpac surveys show consumer confidence at recession-like lows, so how people feel doesn't match the economy's outward numbers. Banks are cautious: ANZ's Nuno Matos expects arrears to \"get worse before they get better\" but not reach a historically bad place. Housing advocates like Chels Hood Withey argue the deeper problem is that rents and mortgages are crushing families, and want housing treated as a human right with more public housing. AMP expects recession to be avoided altogether.\n\n## What to Watch\n\nKeep an eye on the unemployment rate — AMP tips 5% by July. Watch whether the high-profile job cuts at NAB, Canva and Qantas spread, because APRA warned \"substantial\" job losses could snowball into a more severe financial shock. Mortgage arrears figures from the big banks are the clearest early-warning signal, alongside debt helpline demand. Falling house prices have helped affordability so far, but that can reverse quickly if the jobs market deteriorates.",
+    "concepts": [
+     {
+      "term": "cash rate",
+      "definition": "The interest rate the Reserve Bank sets, which flows through to the rates banks charge on loans like mortgages.",
+      "context": "The RBA lifted its cash rate to the highest level since 2008, pushing up mortgage repayments."
+     },
+     {
+      "term": "arrears",
+      "definition": "Payments that are overdue — here, mortgage repayments borrowers have fallen behind on.",
+      "context": "ANZ's arrears reached a five-year high as more customers fell behind on repayments."
+     },
+     {
+      "term": "consumer confidence",
+      "definition": "A measure of how optimistic or pessimistic households feel about their finances and the economy.",
+      "context": "Consumer confidence has slumped to levels usually seen in recessions, even as spending continues."
+     },
+     {
+      "term": "recession",
+      "definition": "A sustained period of economic decline, typically marked by falling output and rising unemployment.",
+      "context": "Economists are openly talking about the risk of recession, though AMP expects Australia to avoid one."
+     }
+    ],
+    "quiz": {
+     "question": "Why do economists describe a mismatch in Australia's economy right now?",
+     "options": [
+      "Household spending and growth continue, yet consumer confidence has slumped to recession-like lows",
+      "House prices are rising while rents fall",
+      "Unemployment is falling while wages rise sharply",
+      "Inflation has already returned to the RBA's normal target"
+     ],
+     "answer_index": 0,
+     "explanation": "The economy shows outward strength — spending in electronics and dining out, expected growth of at least 1% — but how Australians feel (consumer confidence) has dropped to levels usually seen during recessions."
+    },
+    "background_beginner": "Australia's economy is managed partly by the Reserve Bank of Australia (RBA), the central bank that sets the \"cash rate\" — an interest rate that influences what banks charge on home loans. After the Covid pandemic, prices rose quickly (inflation), so the RBA lifted interest rates to cool things down. That makes mortgages more expensive and squeezes household budgets. Rents have also climbed sharply, and housing affordability has been a long-running national debate. Recently, big companies have announced job cuts, pushing unemployment up. The tension keeps coming up because people feel financially stressed even while official figures suggest the economy is still growing — and everyone's watching whether it tips into recession.",
+    "impact_score": 72,
+    "image_url": "https://i.guim.co.uk/img/media/6ca0297f1472184ef23018db174dc5a5724253d6/0_1450_3087_2470/master/3087.jpg?width=1920&quality=85&auto=format&fit=max&s=e890d63805af6d23d1940ae19a10a743",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Australians are more worried about the economy than any time since 2022, with rising mortgage arrears, job cuts and financial stress biting hard even as spending holds up.",
+    "tier": "LOCAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/14/vanessa-delivers-pizza-after-work-to-pay-rent-many-australians-are-scrambling-as-cracks-appear-in-the-economy"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 5,
+    "created_at": "2026-11-13T19:26:41.035281+00:00",
+    "published_date": "2026-11-14",
+    "has_fulltext": true
+   },
    {
     "id": "223de71e-1439-5e0e-b3af-347fac6deb9f",
     "title": "Worried doctors urge action on frequent shortages of critical drugs",
@@ -197,189 +260,131 @@
     "has_fulltext": true
    },
    {
-    "id": "695df047-fbf1-57cb-aaa4-51536082e36b",
-    "title": "Who controls trespass footage? Here’s what the High Court’s answer means for animals – and press freedom",
-    "simplified_title": "High Court blocks abattoir from owning secret animal cruelty footage",
-    "quick_summary": "Australia's High Court ruled a slaughterhouse can't use copyright to control secretly filmed animal cruelty footage, but still ordered the activists who trespassed to destroy their copies.",
-    "simplified_body": "The High Court of Australia has ruled that an abattoir cannot use copyright law to control who sees video allegedly showing animal cruelty that was illegally filmed on its property. The footage was captured by people acting for Farm Transparency International, an animal advocacy group, who trespassed seven times on Game Meats Company's Victorian slaughterhouse in 2024 to install and retrieve hidden cameras. The trial judge noted the footage showed goats that appeared conscious when their throats were cut. However, because the activists broke the law to get it, the court ordered them to delete their copies.\n\nThis matters for whistleblowers, journalists and anyone who relies on leaked material to expose wrongdoing. Game Meats had won a lower court finding that it would hold copyright over the video through a \"constructive trust\". Owning that copyright would have let it sue anyone holding or sharing the footage — including the federal Department of Agriculture, Fisheries and Forestry, Channel Seven, or the public. The High Court refused, warning this could silence the free speech of people who never trespassed.\n\nFor newcomers: farmed animal welfare in Australia is largely self-regulated, with industry bodies writing the codes of conduct that govern slaughter. Many big scandals — live export, the 2015 greyhound live-baiting case, 2023 footage of pigs being gassed — were exposed by activists rather than regulators. Here, Farm Transparency sent its footage to the department, got no reply after two weeks, then gave it to Channel Seven and posted it online.\n\nOn its face, the ruling leaves journalists free to publish. But that protection only works if footage reaches third parties before a court steps in — and here the slaughterhouse moved fast enough that it never circulated widely. The judges pointed to regulators as the proper channel, a view critics say ignores how reform of lawful-but-routine practices actually happens.",
-    "why_it_matters": "For Australians, this sets a national precedent on the clash between press freedom and property rights — protecting journalists and whistleblowers who publish, while leaving those who gather evidence by trespass exposed.",
-    "deep_analysis": "## Historical Context\n\nFarmed animal welfare regulation in Australia has long leaned on self-regulation. Industry bodies dominate the creation of the codes of conduct that govern slaughter, and export abattoirs are overseen by the Department of Agriculture, Fisheries and Forestry — the same body responsible for the industry's productivity. The Productivity Commission flagged this as a potential conflict of interest back in 2016, recommending an independent animal welfare body.\n\nInto that gap have stepped activists. Many of the country's biggest animal welfare scandals — live export, the 2015 greyhound live-baiting scandal, and 2023 footage of pigs being gassed before slaughter — were exposed not by regulators but by activists who either tipped off journalists or published footage themselves. This case tested whether copyright law could be used to shut that pipeline down.\n\n## Multiple Perspectives\n\nGame Meats called control of the images \"the prize in this litigation\" and argued, in commercial terms, that publishing footage of animal slaughter could turn customers away. The lower court had granted it a copyright trust to achieve that control.\n\nChief Justice Stephen Gageler and Justice Jacqueline Gleeson noted such a trust would affect the public's freedom of expression. The Human Rights Law Centre and Alliance for Journalists' Freedom, intervening as friends of the court, argued it \"could significantly impinge upon the freedoms and interests of third parties.\" The author argues that if truthful information harms a business only because informed people choose differently, that is democracy working, not harm — and that treating accurate public-interest information as a \"harm\" deserves wider debate.\n\n## What to Watch\n\nThe ruling protects third parties who publish, but the author warns this only works if footage reaches them before a court intervenes — something that failed here. Watch whether future cases test that timing gap, whether calls for an independent animal welfare regulator gain traction, and how courts weigh commercial harm against the public's right to know in similar whistleblower disputes.",
+    "id": "74902acd-f0aa-5b7f-97d8-921babbb2ef3",
+    "title": "There are new caps for uni places in 2027. What does this mean for domestic students?",
+    "simplified_title": "New 2027 uni place caps: what they mean for local students",
+    "quick_summary": "The federal government has set caps on domestic university places for 2027, but the latest figures show no overall cut and extra places for new starters, which should ease the squeeze on offers.",
+    "simplified_body": "The federal government has brought in caps on how many domestic (local) students universities can enrol, and the latest figures for 2027 were released on Thursday. Several Sydney universities had already trimmed their new student intakes because of these limits. The good news for current Year 12 students is that the newest numbers suggest fewer applicants will miss out on their first-preference course or get no offer at all.\n\nThis matters most to school leavers applying for uni in 2027 and the universities juggling demand. Federal Education Minister Jason Clare introduced the caps because he disliked what he called \"hunger games\" competition, where popular universities soaked up students he thinks should have gone elsewhere. The caps aim to spread students more evenly.\n\nA bit of background: local places are funded partly by taxpayers and partly by students, who pay upfront or defer through HECS-HELP (the government loan scheme). Before 2026 there was a \"soft cap\" — a fixed public subsidy — but popular universities took extra students paid only by student contributions, known as \"over-enrolment\". The new system gives each public university an annual allocation (620,718 full-time equivalent places for 2027), plus up to 5% more, with fines beyond that.\n\nThere's a catch: the 2027 cap is about 1,000 places below what the Australian Tertiary Education Commission reckoned would be delivered in 2026, risking a dip in numbers. To soften this, the government set separate \"commencing student limits\" for new starters — lifted nationally by 26,000 to nearly 270,000, including 4,400 extra in Sydney. Watch 2028, though: universities can only plan around caps 12 months at a time.",
+    "why_it_matters": "For Australian Year 12 students stressing over ATARs and offers, the 2027 caps won't force big changes to entry cut-offs, so your shot at a preferred course is much the same — but the system could shift again in 2028.",
+    "deep_analysis": "## Historical Context\n\nAustralia's higher education funding has long wrestled with how to balance taxpayer cost against student demand. For years before 2026, a \"soft cap\" set each university a fixed public subsidy for Commonwealth supported places, but universities could stretch beyond it by taking students funded only by student contributions. When demand bounced back after the COVID slump, many universities leaned on this \"over-enrolment\" — so much so that the Australian Tertiary Education Commission estimates nearly 10% of 2026 places were over-enrolments. Meanwhile, other universities sat under-enrolled, which hurt their funding. New legislation passed federal parliament in October to replace this patchwork with firm annual allocations.\n\n## Multiple Perspectives\n\nThe government, through Minister Jason Clare, frames the caps as ending \"hunger games\" competition that let popular universities pull in students who should have gone elsewhere. From a student's point of view, the worry was tighter limits meaning missed offers — but the article's author argues the latest commencing caps were deliberately set high, so ATAR cut-offs shouldn't need big changes. There's a tension, though: the author notes that if the commission were serious about cutting over-enrolment, it would have set lower commencing caps for the biggest over-enrollers — yet none did, and some rose. So the policy's stated goal (reducing over-enrolment) and its actual settings pull in different directions, while the broader national aim of lifting tertiary qualifications sits awkwardly with a cap about 1,000 places below 2026's estimated delivery.\n\n## What to Watch\n\nThe key uncertainty is 2028. The author stresses universities can only plan around caps 12 months at a time, so a different decision next year could tighten things. Watch whether the government funds more fully-funded places (hard, given limited public money mostly drawn from the existing budget), and whether places actually land in the courses and locations students want.",
     "concepts": [
      {
-      "term": "constructive trust",
-      "definition": "A legal mechanism a court can impose to give one party ownership of something — here, the copyright over the video — even though they didn't create it.",
-      "context": "The full Federal Court used it to declare Game Meats would hold copyright over the footage, which the High Court then refused."
+      "term": "HECS-HELP",
+      "definition": "The Australian government loan scheme that lets students defer their contribution to course costs and repay it later through the tax system.",
+      "context": "Local places are funded partly by taxpayers and partly by students, who pay upfront or defer through HECS-HELP."
      },
      {
-      "term": "copyright",
-      "definition": "A legal right giving the owner control over who can copy, hold or share a creative work such as a video.",
-      "context": "Owning it would have let the slaughterhouse sue anyone holding or sharing the footage, including the department, Channel Seven or the public."
+      "term": "over-enrolment",
+      "definition": "When a university takes on more students than its subsidised allocation, funding the extras through student contributions alone.",
+      "context": "Popular universities took extra students paid only by student contributions, known as over-enrolment."
      },
      {
-      "term": "Farm Transparency International",
-      "definition": "An animal advocacy group that seeks to force industry transparency and educate consumers about routine practices in animal agriculture.",
-      "context": "Its people trespassed seven times to install and retrieve hidden cameras at a Victorian slaughterhouse."
+      "term": "commencing student limits",
+      "definition": "Separate caps on the number of students a university can take who are just starting a course, as opposed to total enrolments.",
+      "context": "The government set separate commencing student limits for new starters."
      },
      {
-      "term": "abattoir",
-      "definition": "A facility where animals are slaughtered for meat; also called a slaughterhouse.",
-      "context": "The case centred on whether the abattoir could use copyright law to control footage filmed on its property."
+      "term": "Commonwealth supported",
+      "definition": "Places where the government pays part of the cost as a subsidy, with the student covering the rest.",
+      "context": "The new system gives each public university an annual allocation of Commonwealth supported places."
      }
     ],
     "quiz": {
-     "question": "What was the key distinction in how the High Court treated the footage?",
+     "question": "Why does the article say the 2027 commencing student limits are actually good news for prospective students?",
      "options": [
-      "It ordered the trespassing activists to delete their copies, but refused to give the abattoir copyright that could silence third parties",
-      "It ruled all animal cruelty footage is automatically public property",
-      "It let the abattoir own the copyright but allowed activists to keep copies",
-      "It banned Channel Seven from ever publishing the footage"
+      "Because tuition fees have been scrapped for 2027",
+      "Because they were set high enough that ATAR cut-offs shouldn't need big changes",
+      "Because universities can now plan around caps for five years",
+      "Because medicine and research places were doubled"
      ],
-     "answer_index": 0,
-     "explanation": "The court ordered the activists who trespassed to destroy their copies, but refused to grant the slaughterhouse copyright ownership because that could impinge on the free speech of people — like journalists — who had no part in the trespass."
+     "answer_index": 1,
+     "explanation": "The tertiary education commission set commencing caps relatively high to give universities flexibility, meaning ATAR cut-offs and entry requirements shouldn't need to be significantly altered — reassuring for 2027 applicants."
     },
-    "background_beginner": "In Australia, slaughterhouses (abattoirs) are meant to stun animals unconscious before killing them, but the rules are mostly written by the meat industry itself and overseen by a government department that also promotes the industry's success. Because official regulators rarely expose problems, animal advocacy groups like Farm Transparency International secretly film inside facilities and release the footage to shock the public into demanding change. This clashes with the businesses being filmed, who argue the activists are trespassing and that the footage damages them. The dispute keeps coming up because it pits private property and commercial interests against press freedom and the public's right to know what happens to the animals they eat.",
-    "impact_score": 62,
-    "image_url": "https://images.theconversation.com/files/771271/original/file-20261111-64-dxlxl5.jpg?ixlib=rb-4.1.1&rect=0%2C816%2C4892%2C2446&q=45&auto=format&w=1356&h=668&fit=crop",
+    "background_beginner": "In Australia, most university places for local students are paid for partly by the federal government and partly by students (often through a deferred loan called HECS-HELP). The federal Education Minister, Jason Clare, recently introduced limits — or \"caps\" — on how many local students each university can enrol, starting in 2026. He wanted to stop popular universities from grabbing students he felt should study elsewhere. The topic keeps coming up because Year 12 students worry these caps could shrink the number of offers available, making it harder to get into their preferred course. The new body overseeing this is the Australian Tertiary Education Commission.",
+    "impact_score": 58,
+    "image_url": "https://images.theconversation.com/files/771788/original/file-20261113-64-ajos9q.jpg?ixlib=rb-4.1.1&rect=0%2C775%2C6000%2C3000&q=45&auto=format&w=1356&h=668&fit=crop",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "Australia's High Court ruled a slaughterhouse can't use copyright to control secretly filmed animal cruelty footage, but still ordered the activists who trespassed to destroy their copies.",
+    "description": "The federal government has set caps on domestic university places for 2027, but the latest figures show no overall cut and extra places for new starters, which should ease the squeeze on offers.",
     "tier": "LOCAL",
     "category": "SOCIETY_CULTURE",
     "sources": [
      {
       "name": "The Conversation",
-      "url": "https://theconversation.com/who-controls-trespass-footage-heres-what-the-high-courts-answer-means-for-animals-and-press-freedom-296149"
+      "url": "https://theconversation.com/there-are-new-caps-for-uni-places-in-2027-what-does-this-mean-for-domestic-students-296592"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
     "reading_minutes": 4,
-    "created_at": "2026-11-12T07:25:36.136677+00:00",
-    "published_date": "2026-11-12",
-    "has_fulltext": true
-   },
-   {
-    "id": "c2c0142f-93a0-5df7-bcfc-149aaa9f9d67",
-    "title": "How cancer patients became lost in a Queensland hospital crisis",
-    "simplified_title": "Townsville Hospital Failed to Tell Patients They Had Cancer",
-    "quick_summary": "An investigation found Townsville Hospital failed to tell some patients they had aggressive cancers or book them for urgent care, with delays contributing to at least one death.",
-    "simplified_body": "An investigation into the Townsville Hospital and Health Service (THHS), North Queensland's largest public hospital, has found it failed to tell some patients they had aggressive cancers needing urgent treatment. A report of more than 200 pages, released this week, detailed four cases where patients with suspected or confirmed cancer were not followed up. In some, the hospital only realised its mistake when general practitioners (GPs) referred patients back after forgotten biopsy results.\n\nThe failings had serious consequences. Investigators confirmed one patient diagnosed with bladder cancer in 2023 died before receiving reasonable treatment, as referral delays contributed to their deterioration. Another patient, now in palliative care, waited 549 days for a first specialist appointment and 782 days for a biopsy, by which time they had high-grade cancer that had spread. The report noted a second patient's death in 2025 involved gaps in care, but did not directly blame hospital delays.\n\nInvestigators pointed to workforce shortages as a key cause, alongside human error, paper-based admin, poorly formed policies and non-compliance. They said the hospital needed two more full-time urologists to cover its service area of more than 148,000 square kilometres. Doctors say the warning signs were there for years, with waiting lists \"blowing out\" across departments.\n\nQueensland Health has accepted, in principle, all 27 recommendations the investigators made. Health Minister Tim Nicholls visited Townsville and said the failings should not have happened, noting there had been a change in executive leadership at THHS. The Australian Medical Association (AMA) Queensland is pushing for a broader workforce plan, warning the state could be 6,000 doctors short by 2032.",
-    "why_it_matters": "This is a stark case of a major Australian public hospital letting cancer patients slip through the cracks, with at least one death linked to delays — and it points to a wider regional doctor shortage that could affect communities across Queensland.",
-    "deep_analysis": "## Historical Context\n\nPublic hospitals in regional Australia have long struggled to attract and retain specialists, and the Townsville case fits that pattern. Investigators who reviewed the report say warning signs about poor resourcing had been evident for years, and local GPs noticed urology patients waiting unusually long times well before the official investigation. The report frames the crisis not as a one-off error but as the result of structural problems: a hospital covering more than 148,000 square kilometres while short on urologists, relying on paper-based administration and inconsistent policies.\n\n## Multiple Perspectives\n\nInvestigators concluded that workforce shortages, human error, weak policies and non-compliance combined to create the care gaps. Townsville GP and RACGP rural chair Michael Clements had hoped the investigation would highlight a need for greater hospital funding, but said it did not — and he argues the system simply isn't meeting community need. AMA Queensland president Nick Yim links the Townsville shortfall to a statewide problem, citing government figures that Queensland could be 6,000 doctors short by 2032. Health Minister Tim Nicholls acknowledged the failings \"should not have happened\" and pointed to a change in executive leadership. These views broadly agree on the problem but differ in emphasis: frontline doctors stress funding and workforce, while the minister stresses accountability and the 27 accepted recommendations.\n\n## What to Watch\n\nKey things to watch are whether Queensland Health moves from accepting the 27 recommendations \"in principle\" to actually implementing them, whether the two additional urologists are recruited, and whether a broader state workforce plan materialises. The second patient death in 2025, not directly attributed to delays, may also attract further scrutiny.",
-    "concepts": [
-     {
-      "term": "urology",
-      "definition": "The branch of medicine dealing with the urinary system and male reproductive organs, including conditions like prostate and bladder cancer.",
-      "context": "The report said the hospital needed two more full-time urologists to cover its vast service area."
-     },
-     {
-      "term": "palliative care",
-      "definition": "Medical care focused on relieving symptoms and improving quality of life for people with serious or terminal illness, rather than curing it.",
-      "context": "One patient who waited 549 days for a first appointment now remains in palliative care with cancer that has spread."
-     },
-     {
-      "term": "biopsy",
-      "definition": "A procedure where a sample of tissue is removed from the body and examined to check for disease such as cancer.",
-      "context": "Some patients were not recalled for their biopsy results, leaving both them and their GP unaware of a positive cancer diagnosis."
-     }
-    ],
-    "quiz": {
-     "question": "According to the report, what was identified as a key contributor to the urology care gaps at Townsville Hospital?",
-     "options": [
-      "Patients failing to attend their appointments",
-      "A cyber attack on the hospital's systems",
-      "A shortage of hospital beds",
-      "Workforce shortages, human error and paper-based admin"
-     ],
-     "answer_index": 3,
-     "explanation": "Investigators identified workforce shortages as a key contributor, along with human error, paper-based admin, ill-formed policies and policy non-compliance. The hospital needed two more full-time urologists for its large service area."
-    },
-    "background_beginner": "Townsville Hospital and Health Service runs North Queensland's largest public hospital. An official investigation has found it failed to tell some patients they had aggressive cancers or to book them for urgent specialist care, especially in urology (the area of medicine covering the urinary system and prostate). The problems came to light when local family doctors (GPs) referred patients back after noticing forgotten test results and very long waits. The report, released this week, blames staff shortages, human error and old-fashioned paper record-keeping. It matters because at least one patient's death was linked to delays, and doctors warn similar pressures are building across Queensland's health system.",
-    "impact_score": 62,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/37495579c6c4a39bdedde1a95ca2333c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=642&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "An investigation found Townsville Hospital failed to tell some patients they had aggressive cancers or book them for urgent care, with delays contributing to at least one death.",
-    "tier": "LOCAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-12/townsville-hospital-lost-high-risk-patients-how-investigation/107373470"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-12T01:24:45.993449+00:00",
-    "published_date": "2026-11-12",
+    "created_at": "2026-11-13T19:27:22.388583+00:00",
+    "published_date": "2026-11-14",
     "has_fulltext": true
    }
   ],
   "ASIA": [
    {
-    "id": "98619bc3-8520-5b0c-90b0-fdb129fc2417",
-    "title": "Chinese President Xi Jinping says Taiwan 'reunification' must happen as history cannot be stopped",
-    "simplified_title": "Xi Says Taiwan 'Reunification' With China Cannot Be Stopped",
-    "quick_summary": "Chinese President Xi Jinping declared that uniting Taiwan with China is an unstoppable \"historical mission\" he intends to achieve peacefully.",
-    "simplified_body": "In a speech at Beijing's Great Hall of the People on Thursday (12 November), Chinese President Xi Jinping said \"the tide of history cannot be stopped\" and that the \"complete reunification\" of Taiwan with China \"must be realised, and it will certainly be realised\". He pledged to pursue this peacefully, offering a \"one country, two systems\" model, and notably made no mention of using force — though China has never renounced that option.\n\nThis matters to Taiwan's 23 million people, who largely reject Beijing's claim. China views the self-governed island as its own territory, but no major Taiwanese party supports the \"one country, two systems\" offer. President Lai Ching-te and his ruling Democratic Progressive Party (DPP) champion Taiwan's separate identity, and Beijing brands Lai a \"separatist\" and refuses to talk to him.\n\nXi's remarks came on the 160th birthday of Sun Yat-sen, who helped lead a 1911 revolt that ended imperial rule and created the Republic of China. In 1949, a communist revolution forced the defeated Republic of China government to flee to Taiwan, where it remains. Sun is honoured as a hero by both sides, though Taiwan last month urged people to avoid Beijing's commemorations, accusing China of distorting his legacy.\n\nThe timing is pointed. The speech lands a week before the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, where Xi is due to meet US President Donald Trump, and about two weeks before important local elections in Taiwan. Watch whether Beijing escalates its daily military activity around the island.",
-    "why_it_matters": "Any conflict over Taiwan would ripple through the global economy and regional security, including Australia's, given the island's central role in semiconductor supply and its position along vital trade routes.",
-    "deep_analysis": "## Historical Context\n\nThe split between China and Taiwan dates to 1949, when the communist revolution forced the defeated Republic of China government to flee to the island, while the People's Republic of China was established on the mainland. Both governments trace lineage to the 1911 revolution that Sun Yat-sen helped lead, ending centuries of rule by emperors and empresses. That shared heritage is exactly why Sun's anniversary became a stage for Xi's message — Beijing claims him as \"the forerunner of the 1949 communist revolution\", while in Taiwan he is the official \"father of the nation\". The two sides even dispute World War II credit, with Taiwan noting the People's Republic did not yet exist when the Republic of China fought alongside the allies.\n\n## Multiple Perspectives\n\nBeijing frames unification as an \"unwavering historical mission\" and offers \"one country, two systems\" autonomy under the \"one-China principle\". Taiwan rejects this: no major party backs that model, and President Lai Ching-te insists only Taiwan's people can decide their future. Notably, Xi emphasised peaceful means and omitted any mention of force this time — but observers will note China has never renounced force, and its military operates around the island daily and is extending into the Pacific.\n\n## What to Watch\n\nThe speech sits between two flashpoints: the APEC summit in Shenzhen, where Xi meets Trump, and Taiwan's local elections. Watch the tone of the Xi–Trump meeting, any shift in China's military posture, and how the elections register Taiwanese sentiment.",
+    "id": "ac0f6d3a-c668-54c6-82c2-c94d54b949f5",
+    "title": "Japan's Sanae Takaichi to attend APEC in first China trip as PM",
+    "simplified_title": "Japan's PM Takaichi to visit China for APEC amid tensions",
+    "quick_summary": "Japanese Prime Minister Sanae Takaichi will make her first trip to China as leader next week to attend an Asia-Pacific summit, despite badly strained ties with Beijing.",
+    "simplified_body": "Tokyo announced on Friday that Prime Minister Sanae Takaichi will visit the Philippines and China from 16 to 19 November to attend summit meetings. In China she will join the APEC (Asia-Pacific Economic Cooperation) summit in Shenzhen, where she plans to raise trade, investment, regional economic integration, energy resilience and the digital economy. It will be her first visit to China since she became prime minister in October last year.\n\nThis matters because relations between the two neighbours are especially tense. After Takaichi suggested that Tokyo might step in if Taiwan were attacked, China reacted furiously — warning its citizens against travelling to Japan and imposing trade restrictions that have reportedly cut supplies of vital rare earth minerals to Japanese firms. Beijing claims Taiwan as its own territory.\n\nFor background: Japan and China are major trading partners but long-time rivals, and Taiwan is one of the most sensitive issues between Beijing, Tokyo and Washington. APEC is a 21-member forum for Asia-Pacific economies, while ASEAN (Association of Southeast Asian Nations) is an 11-nation Southeast Asian bloc. Before Shenzhen, Takaichi heads to Manila for ASEAN-related talks.\n\nAll eyes will be on whether she meets Chinese President Xi Jinping, though analysts say a one-on-one summit is very unlikely. Beijing has refused ministerial talks with her government, yet signals are mixed: China's top diplomat Wang Yi recently said ties were \"waiting to be normalised again\". A Quad meeting — Australia, India, Japan and the United States — is also being arranged on the sidelines in Manila.",
+    "why_it_matters": "The trip is a test of whether two of Asia's biggest economies can steady a dangerous rift. Australia has a direct stake, with a Quad leaders' meeting alongside Japan, India and the US being arranged on the sidelines.",
+    "deep_analysis": "## Historical Context\n\nJapan and China are deeply intertwined economically but carry a long history of political rivalry, shaped by wartime memory and competing regional ambitions. Taiwan sits at the centre of the friction: Beijing regards the self-governed island as part of its territory and treats any suggestion of foreign intervention as a red line. Takaichi's comment that Tokyo might intervene in an attack on Taiwan landed squarely on that nerve, triggering travel warnings and trade restrictions, including reported cuts to rare earth mineral supplies that Japanese industry relies on.\n\n## Multiple Perspectives\n\nTakaichi is trying to hold two positions at once — last month calling China an \"important neighbour\" and pledging a stable relationship, while also vowing to \"firmly assert\" Japan's positions and demand \"responsible behaviour\". Beijing's signals are mixed: it has refused ministerial-level talks with her government, yet Xi Jinping sent condolences over former PM Yasuo Fukuda's death, and Wang Yi has spoken of ties \"waiting to be normalised again\". Analysts reading these tea leaves still think a formal Takaichi–Xi bilateral is very unlikely at Shenzhen.\n\n## What to Watch\n\nWatch for any informal contact between Takaichi and Xi, even a brief exchange, as a thaw signal. Keep an eye on whether rare earth and travel restrictions ease. And note the Quad meeting being arranged in Manila — Australia, India, Japan and the US — which frames Japan's balancing act between engaging Beijing and aligning with regional partners.",
     "concepts": [
      {
-      "term": "one country, two systems",
-      "definition": "Beijing's proposed model offering Taiwan a degree of autonomy while being part of China — a framework no major Taiwanese party supports.",
-      "context": "China has repeatedly offered this arrangement, but Taiwan's main parties reject it outright."
+      "term": "APEC",
+      "definition": "Asia-Pacific Economic Cooperation — a forum of Asia-Pacific economies that meets to discuss trade, investment and economic cooperation.",
+      "context": "Takaichi is attending the APEC summit in Shenzhen, China."
      },
      {
-      "term": "Republic of China",
-      "definition": "The government created after the 1911 revolution that, after being defeated in 1949, fled to Taiwan where it still governs today.",
-      "context": "Taiwan is formally still the Republic of China, distinct from the mainland's People's Republic of China."
+      "term": "ASEAN",
+      "definition": "Association of Southeast Asian Nations — an 11-nation Southeast Asian bloc that holds regular summit meetings.",
+      "context": "She heads to Manila first for ASEAN-related talks before China."
      },
      {
-      "term": "one-China principle",
-      "definition": "Beijing's position that both sides of the Taiwan Strait belong to a single country, China.",
-      "context": "Xi said China is willing to talk to Taiwan only while upholding this principle."
+      "term": "rare earth minerals",
+      "definition": "A group of metals essential for electronics, batteries and high-tech manufacturing; China is a dominant global supplier.",
+      "context": "China's trade restrictions reportedly cut supplies of these to Japanese firms."
      },
      {
-      "term": "Democratic Progressive Party (DPP)",
-      "definition": "Taiwan's ruling party, which champions the island's separate identity from China.",
-      "context": "President Lai Ching-te leads the DPP, and Beijing labels him a 'separatist'."
+      "term": "Quad",
+      "definition": "An informal grouping of Australia, India, Japan and the United States that coordinates on regional security and strategy.",
+      "context": "A Quad leaders' meeting is being arranged on the sidelines of ASEAN."
      }
     ],
     "quiz": {
-     "question": "What was notably absent from Xi Jinping's speech on Taiwan?",
+     "question": "Why are relations between Japan and China especially tense ahead of this visit?",
      "options": [
-      "Any claim that Taiwan is part of China",
-      "Any reference to 'one country, two systems'",
-      "Any mention of Sun Yat-sen",
-      "Any mention of using force to achieve unification"
+      "Japan refused to attend the APEC summit",
+      "China banned all Japanese exports permanently",
+      "Japan withdrew from the Quad grouping",
+      "Takaichi suggested Tokyo might intervene if Taiwan were attacked, which Beijing claims as its territory"
      ],
      "answer_index": 3,
-     "explanation": "Xi pledged peaceful 'reunification' and made no mention of the use of force, which China has never actually renounced for Taiwan."
+     "explanation": "The tension stems from Takaichi's suggestion that Tokyo may intervene in any attack on Taiwan, which China claims as its own, prompting travel warnings and trade restrictions."
     },
-    "background_beginner": "China and Taiwan have been governed separately since 1949, when the losing side of a civil war — the Republic of China government — fled to the island of Taiwan, while the communists founded the People's Republic of China on the mainland. Beijing considers Taiwan part of its territory and wants \"reunification\"; Taiwan's roughly 23 million people largely see themselves as self-governing, and their ruling party stresses a separate identity. The dispute flares repeatedly because China keeps pressing its claim, including through daily military activity near the island, while Taiwan, the United States and others resist pressure. It's a central flashpoint in US–China relations.",
-    "impact_score": 72,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--sWHR89UW--/c_crop,h_1125,w_2000,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/12/2026-11-12t050734z_1111458631_rc21moamoy4n_rtrmadp_3_china-politics.jpg?itok=ERUfYFMt",
+    "background_beginner": "Sanae Takaichi became Japan's prime minister in October last year. China and Japan are neighbouring giants — big trading partners but long-standing political rivals. The flashpoint is Taiwan, a self-governed island that China claims as its own; Beijing bristles at any hint that outside countries might defend it. Takaichi angered China by suggesting Japan could step in if Taiwan were attacked, prompting Beijing to warn its citizens off travelling to Japan and to squeeze trade, including rare earth minerals Japanese factories need. Now she's heading to China for the APEC summit, a regional economic gathering, so people are watching closely for any sign of thaw — or further chill.",
+    "impact_score": 62,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--5NXjzcCt--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Japan_Takaichi_943_8.jpg?itok=thPSwB0F",
     "region": "Asia",
     "region_code": "ASIA",
-    "description": "Chinese President Xi Jinping declared that uniting Taiwan with China is an unstoppable \"historical mission\" he intends to achieve peacefully.",
+    "description": "Japanese Prime Minister Sanae Takaichi will make her first trip to China as leader next week to attend an Asia-Pacific summit, despite badly strained ties with Beijing.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/china-xi-jinping-taiwan-reunification-history-6544911"
+      "url": "https://www.channelnewsasia.com/east-asia/japan-sanae-takaichi-first-china-trip-apec-summit-6548471"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-12T07:25:31.968057+00:00",
-    "published_date": "2026-11-12",
+    "reading_minutes": 2,
+    "created_at": "2026-11-13T19:27:14.128766+00:00",
+    "published_date": "2026-11-14",
     "has_fulltext": true
    },
    {
@@ -589,71 +594,70 @@
     "has_fulltext": true
    },
    {
-    "id": "539eed7d-dcda-55a3-bdb2-f15b465334c2",
-    "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-    "simplified_title": "Russian Strikes Push Ukraine's Power Grid to Breaking Point",
-    "quick_summary": "Intensified Russian attacks on Ukraine's energy grid have forced long, unpredictable blackouts that are making daily life barely sustainable as winter sets in.",
-    "simplified_body": "Since October, Russia has stepped up strikes on Ukraine's power grid, forcing rolling planned blackouts across the country. In Kyiv, the worst-hit city, some families are enduring outages of up to 20 hours a day, leaving homes with no light, heat, running water or internet. One Kyiv mum, Daryna Kulchytska, describes racing to feed her kids and finish work before the power clicks off at night. Ukraine has hit back by striking Russian oil refineries.\n\nThe cuts affect millions of ordinary Ukrainians, who now face a cold, dark winter. Officials worry life becomes unsustainable if power can't be kept on for at least four hours a day — and some warn that line is close. Energy workers face huge danger too: there have been almost daily attacks on power facilities since August, claiming several lives a week.\n\nRussia has long targeted Ukraine's infrastructure, but officials say the scale is new. Maxim Timchenko, CEO of DTEK, Ukraine's largest private energy company, says the attacks have \"doubled in power and in scale\" and use new weapons. These include \"waiter drones\" that cling to pylons until detonated, and ballistic and cruise missiles. One major power station was reduced to rubble by a missile strike.\n\nPresident Volodymyr Zelensky says Ukraine still has enough generating capacity — the problem is delivering it when so many power lines and substations are damaged. Repairs are painfully slow because workers get only one or two productive hours a day between air raids; one wrecked plant may not be fixed before next summer. Many families are choosing to leave Kyiv, or Ukraine altogether, to escape the cold.",
-    "why_it_matters": "A modern nation's power grid is being deliberately dismantled in winter, turning electricity into a weapon of survival — a stark reminder for Australians of how fragile critical infrastructure can be under sustained attack.",
-    "deep_analysis": "## Historical Context\n\nRussia's full-scale invasion of Ukraine has repeatedly targeted energy infrastructure, and power cuts have become a feature of recent winters. What's described here is a sharper escalation: the blackouts began earlier this year than last winter and are already lasting longer. DTEK's CEO says the attacks have doubled in power and scale compared with last year, and are using a wider range of weapons — ballistic and cruise missiles, plus \"waiter drones\" that hide on cables until detonated. One of Ukraine's largest power stations has been knocked completely offline by a ballistic missile strike described as the most devastating of the campaign.\n\n## Multiple Perspectives\n\nFor families like Daryna's, the story is about endurance — no light, water or heat, children suffering nightmares, and an agonising choice between staying near loved ones or fleeing somewhere warmer. Twelve-year-old Kyryll captures the toll bluntly: \"All the fun got sucked out with the electricity.\" Yet there's defiance too — many Ukrainians say they'd rather live without power than without freedom from Russia. For energy workers, it's a mission carried out under constant threat, with air raids forcing them to down tools every 15–30 minutes. From the leadership, Zelensky frames it as a logistics problem — capacity exists, but delivery is broken. The article presents these as complementary, not conflicting, accounts.\n\n## What to Watch\n\nThe key threshold officials cite is maintaining at least four hours of power a day; some privately warn Ukraine is close to failing it. Watch whether repairs can keep pace with attacks given workers manage only one or two productive hours daily — one plant isn't expected back before next summer. Also watch migration out of Kyiv and Ukraine as the cold deepens, and whether overstretched air defences can protect enough of the grid through winter.",
+    "id": "c98a3c68-9de0-5af7-8f4c-194b567f93c6",
+    "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+    "simplified_title": "Germany gives its spies new powers to strike back at foreign threats",
+    "quick_summary": "Germany's parliament has passed a major reform letting its intelligence services actively fight espionage, sabotage and cyberattacks rather than just gather information.",
+    "simplified_body": "Germany's parliament, the Bundestag, has approved a big overhaul of the laws governing its intelligence agencies. In a vote of 309 to 190, with 71 abstaining, lawmakers agreed to let the BND (the foreign intelligence service) and the BfV (the domestic Federal Office for the Protection of the Constitution) take action, not just collect information. The BND can now run covert operations abroad, including sabotage and striking back at state-sponsored hackers. The BfV can dismantle weapons, block data during cyberattacks, delete or falsify malicious data, and — with prior approval — covertly enter homes.\n\nThis affects anyone concerned about the balance between security and civil liberties in Germany. The government, led by Interior Minister Alexander Dobrindt, says the reform is needed because of rising \"hybrid threats\" — a mix of espionage, sabotage and disinformation — particularly from Russia, China and Iran. It points to an August incident where a drone carrying an explosive was found at Leipzig Airport near Ukrainian cargo planes; authorities blame Russia.\n\nFor historical reasons, Germany has long kept its police and spies strictly separate, a lesson from the Nazi-era Gestapo secret police that operated without judicial limits. Critics like the Left Party's Clara Bünger warn the new law erodes that \"separation principle\" and risks creating a new secret police. Supporters, including the BKA (Federal Criminal Police Office) chief Holger Münch, argue today's blurred line between criminals and states makes the old division outdated.\n\nAn independent oversight board is to be set up to monitor the agencies, and they will not be allowed to use force against people. Expect continued debate, and likely legal challenges, over where security ends and overreach begins.",
+    "why_it_matters": "Germany is Europe's biggest economy and a key NATO member, so how it responds to Russian and Chinese \"hybrid threats\" shapes the wider Western security posture that Australia, as a close ally, watches closely.",
+    "deep_analysis": "## Historical Context\n\nAfter World War II, the Allied powers that defeated Nazi Germany insisted that the country's police and intelligence services stay institutionally separate with different powers. This \"separation principle\" was a direct response to the Gestapo, the Nazi Secret State Police, which operated largely outside judicial constraints and became the regime's central instrument of terror — used to oppress and murder Jews, Sinti and Roma, homosexuals, communists, social democrats and others. Because of this history, German intelligence has traditionally focused on gathering information rather than acting on it. The new law marks a deliberate shift away from that long-standing restraint.\n\n## Multiple Perspectives\n\nSupporters, including Interior Minister Alexander Dobrindt of the CSU, call it a \"reform of the century\" and insist it does not create a secret police. He wants to turn the BfV and BND into \"real intelligence services\" while, he argues, preserving the separation principle in essence. BKA President Holger Münch backs the determination, citing a 24% rise in crime from abroad in the first half of 2026 and a solve rate under 5%. Historian Sönke Neitzel calls the separation principle \"nonsense\" for today's threats. Critics disagree sharply: the Left Party's Clara Bünger calls the law \"a monster\" that erodes the police–intelligence divide and grants the secret service executive and police powers. The governing CDU/CSU and SPD voted it through; the SPD's Sonja Eichwede says it makes democracy \"robust and resilient.\"\n\n## What to Watch\n\nWatch how the promised independent oversight board is set up and whether it has real teeth. Expect legal challenges testing whether covert home entry and expanded digital surveillance — including monitoring encrypted communications, online searches, AI-supported analysis and biometric image matching — survive constitutional scrutiny. Also watch whether Germany actually carries out any of the new offensive cyber or sabotage operations abroad, and how Russia, China and Iran respond.",
     "concepts": [
      {
-      "term": "power grid",
-      "definition": "The network of power stations, substations and lines that generates electricity and delivers it to homes and businesses.",
-      "context": "Russia's strikes have damaged so much of this network that Ukraine can generate power but struggles to deliver it."
+      "term": "hybrid threats",
+      "definition": "A blend of tactics such as espionage, sabotage, cyberattacks and disinformation used by a hostile power, often without open or declared warfare.",
+      "context": "Germany's government says the reform is needed to counter rising hybrid threats from Russia, China and Iran."
      },
      {
-      "term": "rolling planned blackouts",
-      "definition": "Deliberately scheduled power cuts rotated across different areas to share limited electricity supply.",
-      "context": "Ukraine introduced these in October as attacks on the grid intensified, leaving some Kyiv homes without power for up to 20 hours."
+      "term": "separation principle",
+      "definition": "The German rule keeping police and intelligence services institutionally separate with different powers, so spies gather information while police investigate.",
+      "context": "Critics warn the new law erodes the separation principle, a lesson drawn from the Nazi era."
      },
      {
-      "term": "substations",
-      "definition": "Facilities that transform and route electricity between power stations and local networks.",
-      "context": "Many of these have been hit, which is why delivering electricity to homes has become the central problem."
+      "term": "espionage",
+      "definition": "The practice of spying to obtain secret information, typically on behalf of a government against a rival state.",
+      "context": "The agencies' new powers are aimed at combating espionage, terrorism and sabotage from foreign powers."
      },
      {
-      "term": "waiter drones",
-      "definition": "Drones that attach themselves to pylons and cables and stay hidden until remotely detonated.",
-      "context": "Russia is reportedly using these to damage grid infrastructure undetected."
+      "term": "BND",
+      "definition": "The Bundesnachrichtendienst, Germany's foreign intelligence service, responsible for gathering intelligence abroad.",
+      "context": "The BND will now be able to conduct covert operations abroad, including sabotage."
      }
     ],
     "quiz": {
-     "question": "According to Ukrainian officials and Zelensky, what is the main reason for the blackouts?",
+     "question": "Why has Germany historically kept its police and intelligence services strictly separate?",
      "options": [
-      "Ukraine doesn't have enough power stations to generate electricity",
-      "Fuel shortages have shut down all power plants",
-      "Ukraine is rationing power to export it abroad",
-      "There is enough generating capacity, but damaged lines and substations make delivery hard"
+      "As a lesson from the Nazi-era Gestapo, which acted without judicial limits",
+      "To make cooperation with the United States easier",
+      "Because the European Union requires it of all members",
+      "To save money by avoiding duplicate agencies"
      ],
-     "answer_index": 3,
-     "explanation": "Zelensky says Ukraine still has enough generating capacity; the problem is getting electricity to homes and businesses when so many power lines and substations have been hit."
+     "answer_index": 0,
+     "explanation": "The 'separation principle' came from Allied decisions after World War II, responding to how the Gestapo secret police operated outside judicial constraints as an instrument of Nazi terror."
     },
-    "background_beginner": "Russia launched a full-scale invasion of Ukraine, and the two countries have been at war ever since. One of Russia's tactics is attacking Ukraine's energy system — the power stations, lines and substations that keep electricity flowing. Knocking out power during winter leaves homes without heat, light, running water and internet, piling pressure on ordinary people. Ukraine, led by President Volodymyr Zelensky, defends its grid with air defences and hits back by striking Russian oil refineries. The topic keeps coming up because each winter Russia intensifies these strikes, and this year the attacks are reportedly bigger and started earlier, forcing long, unpredictable blackouts for millions.",
-    "impact_score": 72,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg",
+    "background_beginner": "Germany has two main spy agencies: the BND, which looks outward at foreign intelligence, and the BfV, which watches for threats at home. Ever since the Nazi era — when the Gestapo secret police terrorised and murdered people without legal limits — Germany has kept its police and spies deliberately separate and mostly stopped intelligence from taking direct action. Lately, the government says countries like Russia, China and Iran are using \"hybrid threats\" such as hacking, sabotage and disinformation against Germany. A suspected Russian drone bomb at Leipzig Airport in August 2026 added urgency. The debate keeps resurfacing because expanding spy powers bumps against hard-won protections rooted in Germany's dark 20th-century history.",
+    "impact_score": 68,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg",
     "region": "Europe incl. UK, Russia-Ukraine",
     "region_code": "EUROPE",
-    "description": "Intensified Russian attacks on Ukraine's energy grid have forced long, unpredictable blackouts that are making daily life barely sustainable as winter sets in.",
+    "description": "Germany's parliament has passed a major reform letting its intelligence services actively fight espionage, sabotage and cyberattacks rather than just gather information.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o"
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/cyber-attacks-and-hybrid-warfare-germany-gives-sweeping-powers-to-its-police-and-intelligence-services/a-79941507?maca=en-rss-en-all-1573-rdf"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "42354814-eb79-5ad0-91e2-45843c4d5b20",
-     "86edd3b2-5321-52c5-81ae-054d5ee6f159",
-     "cec15dcf-d5c4-50bb-9868-53fea88f5128",
-     "fb9180f1-fa27-5646-8dfe-683b66906451"
-    ],
-    "reading_minutes": 5,
-    "created_at": "2026-11-12T07:25:35.712838+00:00",
-    "published_date": "2026-11-12",
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-13T19:26:42.212863+00:00",
+    "published_date": "2026-11-14",
     "has_fulltext": true
    },
    {
@@ -717,76 +721,158 @@
     "created_at": "2026-11-13T01:25:39.743380+00:00",
     "published_date": "2026-11-13",
     "has_fulltext": true
-   },
+   }
+  ],
+  "MIDDLE_EAST_AFRICA": [
    {
-    "id": "eebd04f0-13a1-5b21-800e-dbd5e174bf55",
-    "title": "US Army soldier suspected of spying for Russia arrested in UK",
-    "simplified_title": "US Army soldier arrested in UK over alleged Russian spying",
-    "quick_summary": "British counter-terror police have arrested a 41-year-old US Army soldier near Gloucester on suspicion of spying for Russia.",
-    "simplified_body": "A senior US Army soldier, aged 41, was arrested near Gloucester, England, on Tuesday on suspicion of spying for Russia. British counter-terror police made the arrest under the National Security Act 2023 — section one, which covers obtaining or disclosing protected information, and section three, which covers assisting a foreign intelligence service. Police said the country the allegations relate to is Russia, and that officers are searching two locations in Gloucestershire.\n\nThe arrest matters because the soldier was based at Imjin Barracks in Innsworth, which is the headquarters of Nato's Allied Rapid Reaction Corps (ARRC), a key operational base for the alliance. US authorities, the US military and the FBI (Federal Bureau of Investigation) were closely involved. The man is in custody at a London police station and can be held without charge for up to 14 days.\n\nFor newcomers: the Gloucestershire area is thick with sensitive military and intelligence sites. Nearby Cheltenham hosts GCHQ, the UK's signals intelligence agency, and RAF Fairford — an airbase used by both UK and US planes — sits not far away. An \"insider threat\" means someone trusted with sensitive information who allegedly misuses it.\n\nWhat happens next is unclear. Police stress the investigation is ongoing and the serious allegations are unproven. FBI director Kash Patel called the case of \"utmost concern\", while US Army counterintelligence chief Brig Gen Sean Stinchon said it was \"a sobering reminder that insider threats are real and persistent\".",
-    "why_it_matters": "An alleged spy working inside a Nato headquarters raises fresh worries about Russian infiltration of the alliance — something that matters to Australia as a close intelligence partner of both the US and UK through the Five Eyes network.",
-    "deep_analysis": "## Historical Context\n\nEspionage cases involving Western militaries and Russia are not new, and counterintelligence agencies treat \"insider threats\" — trusted personnel who allegedly leak secrets — as a persistent risk. This case stands out because the suspect is a US soldier arrested on British soil, under the UK's National Security Act 2023. That Act, a relatively recent law, created specific offences for obtaining or disclosing protected information (section one) and for assisting a foreign intelligence service (section three), and it allows police to hold suspects without charge for up to 14 days.\n\n## Multiple Perspectives\n\nUK and US authorities have presented a united front. Deputy Assistant Commissioner Vicki Evans called it a \"significant arrest\" born of close UK–US collaboration. The FBI's Kash Patel framed it as a matter of \"utmost concern\" to the US and allies, while Brig Gen Sean Stinchon emphasised the resolve of the counterintelligence community. Importantly, police say the investigation is ongoing and the allegations remain unproven — the soldier has not been charged, and is unnamed. Police also stated the case is not linked to any other ongoing investigation.\n\n## What to Watch\n\nKey questions remain: whether charges follow within the 14-day custody window, and what, if anything, was allegedly passed to Russia. The soldier's reported posting at Imjin Barracks — home of Nato's Allied Rapid Reaction Corps — will prompt scrutiny of what sensitive material he could access. Watch, too, for any assessment of damage to the alliance and whether the two Gloucestershire searches yield further leads.",
+    "id": "8e8be91f-27fb-5ce2-b5a0-91e45cfe7184",
+    "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+    "simplified_title": "Iran claims strike on US radar in Bahrain; US says it shot down drones",
+    "quick_summary": "Iran says it destroyed a US radar in Bahrain in retaliation, while the US says it simply shot down two Iranian drones and took no damage.",
+    "simplified_body": "Iran's Islamic Revolutionary Guard Corps (IRGC) says it targeted and destroyed a United States early-warning radar on the island of Bahrain. The IRGC called it payback for a US strike on a communications tower in Sirik, an Iranian area overlooking the Strait of Hormuz, and warned it would act \"without constraint\" if attacks continued. Hours later, US Central Command denied any radar was destroyed, saying it had intercepted two Iranian \"one-way attack drones\" with no casualties or damage. It is Iran's first direct attack on US military sites in months.\n\nThis matters for anyone who relies on global oil and gas, because the Strait of Hormuz is a key transit point for those supplies. Iran is trying to control the waterway and has been attacking ships it deems unauthorised, while the US Navy enforces its own blockade of Iranian vessels and has escorted tankers through the strait.\n\nFor background: the war, started by US and Israeli strikes on 28 February, is in a fragile de-escalation, with both sides holding off major attacks during recent elections. President Donald Trump says he will only attack \"if necessary\", claiming Gulf states like Saudi Arabia have urged restraint. Pakistan-mediated peace talks in April failed.\n\nWhat's next is uncertain. Trump is expected to meet China's Xi Jinping and Russia's Vladimir Putin at an APEC summit in China next week to discuss ending the war. Meanwhile Iran's Assembly of Experts has called for a review of its membership of the nuclear non-proliferation treaty, and UN inspectors say they are increasingly worried about losing access to Iran's nuclear sites.",
+    "why_it_matters": "Any flare-up around the Strait of Hormuz can push up global oil and diesel prices, which flows through to fuel costs for Australian drivers and businesses, and a wider Middle East war would reshape the security picture for US allies, including Australia.",
+    "deep_analysis": "## Historical Context\n\nThe current war began on 28 February with US and Israeli strikes, according to DW. Since then the fighting has moved in and out of pauses, with the latest de-escalation driven partly by both sides holding elections. Pakistan tried to mediate peace talks between the US and Iran in April, but those failed to reach a conclusion. Iran has long held a prohibition on nuclear weapons based on a fatwa issued by the late supreme leader Ali Khamenei — a religious ruling whose relevance is now being openly questioned in the wake of US attacks. That makes this week's call by the Assembly of Experts to review the nuclear non-proliferation treaty a genuinely new development.\n\n## Multiple Perspectives\n\nThe two sides tell very different stories about the same event. Iran's IRGC says it destroyed a US early-warning radar in Bahrain; US Central Command flatly denies this, saying it shot down two drones with no damage or casualties. The sources don't resolve which account is accurate. Politically, Trump says Gulf states urged restraint and frames higher diesel prices as \"a small price to pay\" to stop Iran getting a nuclear weapon. His vice-president JD Vance, however, has blamed the war for Republican midterm losses — and Iran had reportedly seen Vance as the most trustworthy figure near Trump before Trump told him to drop the negotiations. In the UK, a YouGov poll for the Council for Arab-British Understanding (Caabu) found 65% oppose resuming the war and only 14% back it.\n\n## What to Watch\n\nThe APEC leaders' summit in China next week, where Trump is expected to discuss ending the war with Xi Jinping and Vladimir Putin, is the big near-term signal. Watch too whether Iran formally shifts its nuclear doctrine after the Assembly of Experts' statement, and whether UN inspectors regain access to the Isfahan facility — the inspectorate says it doesn't even know the facility's exact location or whether it holds nuclear material.",
     "concepts": [
      {
-      "term": "National Security Act 2023",
-      "definition": "A UK law creating offences such as obtaining or disclosing protected information and assisting a foreign intelligence service, and allowing suspects to be held without charge for up to 14 days.",
-      "context": "The soldier was arrested under sections one and three of this Act."
+      "term": "Islamic Revolutionary Guard Corps (IRGC)",
+      "definition": "A powerful branch of Iran's armed forces, separate from the regular army, that answers to the country's leadership and is behind the claimed strike.",
+      "context": "\"Iran's Islamic Revolutionary Guard Corps (IRGC) says it targeted and destroyed a United States early-warning radar on the island of Bahrain.\""
      },
      {
-      "term": "Allied Rapid Reaction Corps (ARRC)",
-      "definition": "A Nato rapid-deployment command whose headquarters is at Imjin Barracks, serving as a strategic operational base for the alliance.",
-      "context": "The suspect was reportedly based at the barracks hosting this corps."
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage between Iran and the Arabian Peninsula through which a large share of the world's oil and gas is shipped.",
+      "context": "\"the Strait of Hormuz is a key transit point for those supplies.\""
      },
      {
-      "term": "insider threat",
-      "definition": "The risk posed by a trusted person who allegedly misuses their access to sensitive information.",
-      "context": "US officials described the case as a reminder that insider threats are real and persistent."
+      "term": "nuclear non-proliferation treaty",
+      "definition": "An international agreement meant to stop the spread of nuclear weapons; Iran is now reviewing whether to stay in it.",
+      "context": "\"Iran's Assembly of Experts has called for a review of its membership of the nuclear non-proliferation treaty.\""
      },
      {
-      "term": "GCHQ",
-      "definition": "The UK's signals intelligence agency, headquartered in Cheltenham.",
-      "context": "One of several sensitive intelligence sites clustered near the arrest location."
+      "term": "Assembly of Experts",
+      "definition": "An elected body of senior Iranian clerics responsible for choosing the supreme leader and weighing religious-legal matters.",
+      "context": "\"Iran's Assembly of Experts has called for a review of its membership of the nuclear non-proliferation treaty.\""
      }
     ],
     "quiz": {
-     "question": "Why is the location of the suspect's posting considered especially significant?",
+     "question": "Why do the two sides give conflicting accounts of what happened in Bahrain?",
      "options": [
-      "He was stationed at RAF Fairford",
-      "He worked at a London police station",
-      "He worked at GCHQ's headquarters in Cheltenham",
-      "He was based at Imjin Barracks, headquarters of Nato's Allied Rapid Reaction Corps"
+      "Both sides deny any incident took place",
+      "Iran says it destroyed a US radar, while the US says it only shot down two drones with no damage",
+      "The US says it attacked Iran first, which Iran denies",
+      "Both agree the radar was destroyed but disagree on casualties"
      ],
-     "answer_index": 3,
-     "explanation": "The BBC understands the soldier was based at Imjin Barracks, which serves as the headquarters of Nato's Allied Rapid Reaction Corps — a strategic operational base, making alleged access to secrets particularly sensitive."
+     "answer_index": 1,
+     "explanation": "Iran's IRGC claimed it destroyed a US early-warning radar, but US Central Command denied this, saying it intercepted two Iranian drones with no casualties or damage — so the accounts directly clash."
     },
-    "background_beginner": "Spying between Russia and Western countries has gone on for decades, and militaries guard against \"insiders\" — trusted staff who might leak secrets. In this case, British counter-terror police arrested a 41-year-old US Army soldier near Gloucester, England, on suspicion of spying for Russia. He was reportedly based at a barracks that hosts a Nato command headquarters, and the surrounding area holds several military and intelligence sites, including the UK's GCHQ signals-intelligence agency. The FBI, US military and UK police are all involved. Cases like this keep surfacing because alliances such as Nato rely on keeping sensitive information secure, and any alleged breach raises alarm among partner nations.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c66f/live/939c6190-dd44-11f1-9ac0-6b8f7fc58221.png",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "British counter-terror police have arrested a 41-year-old US Army soldier near Gloucester on suspicion of spying for Russia.",
+    "background_beginner": "This is about a war between the United States (with Israel) and Iran, which the sources say began on 28 February with US and Israeli strikes. A flashpoint is the Strait of Hormuz, a narrow waterway that carries much of the world's oil and gas; Iran wants to control it, while the US Navy blocks Iranian ships. The latest clash is over Bahrain, a Gulf island that hosts US forces: Iran says it destroyed a US radar there, the US says it just downed two drones. It keeps coming up because the fighting pauses and restarts, peace talks keep failing, and there are fears Iran may pursue a nuclear weapon.",
+    "impact_score": 72,
+    "image_url": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=1920&quality=85&auto=format&fit=max&s=c4cf9d151a65a461d1107f9b66f70eb2",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Iran says it destroyed a US radar in Bahrain in retaliation, while the US says it simply shot down two Iranian drones and took no damage.",
     "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
+    "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
      },
      {
       "name": "DW",
-      "url": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf"
+      "url": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-12T01:24:45.621021+00:00",
-    "published_date": "2026-11-12",
+    "related_story_ids": [
+     "5308dde1-05e0-5095-8f85-5cb1b422b338",
+     "557dcd33-1a01-5f2b-9c3c-7cf791cbb8b1",
+     "5cd8fe39-3780-5a5c-ac38-51d14439dbfb",
+     "7827fbef-2c69-5fe5-a84c-09826397aff5",
+     "a1953172-37fc-55b9-a715-9bbde7c2c360",
+     "adabd6c4-a1b8-5204-9a50-3b162f5bf191",
+     "ca667764-ae44-53f5-8c27-fb4c51bd5fe3",
+     "cb2d957f-d97d-568e-b150-d769a746366b",
+     "d025b221-113a-5b01-bf00-95483374ddb9",
+     "d83687dc-daf6-5e1c-87b9-7f98e012cce1",
+     "dfb86a2d-f459-5921-b7af-108cd7ffcf2b",
+     "e5a91d18-7570-53b7-8a3e-97e5a67f9670"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-13T19:26:42.234618+00:00",
+    "published_date": "2026-11-14",
     "has_fulltext": true
-   }
-  ],
-  "MIDDLE_EAST_AFRICA": [
+   },
+   {
+    "id": "229676cc-1d75-51a7-8748-e4d936cc2b01",
+    "title": "Gazans desperate to create shelter from rubble in 'miserable' conditions",
+    "simplified_title": "Winter floods swamp Gaza tents as aid dispute drags on",
+    "quick_summary": "The first heavy winter rains have flooded Gaza's crowded tent camps, killing several people and leaving hundreds of thousands without dry shelter while Israel and Hamas blame each other for the lack of aid.",
+    "simplified_body": "The first heavy rains of winter have torn through Gaza's sprawling tent camps, flooding shelters, soaking bedding and mixing floodwater with sewage. Reports of the death toll differ: the ABC says a woman and three children were killed by a collapsing sand bank, while DW reports at least six people died, including children, citing the UN children's agency UNICEF. Estimates of damaged tents also vary, from more than 40,000 to around 70,000, but both agree over 200,000 people are now without safe, dry accommodation. Families are pulling steel bars and sheeting out of ruined buildings just to prop up their tents.\n\nThis hits roughly two million Gazans, most displaced several times during the war. Aid groups say winter clothing covers less than 1 per cent of what's needed, and hundreds of thousands of children risk hypothermia and illness. The United Nations says about 150,000 tents are sitting outside Gaza waiting for approval to enter; Israel rejects that claim.\n\nFor background: following the Hamas attacks on Israel on 7 October 2023, the war destroyed most of Gaza's housing. A US-brokered ceasefire began in October 2025, and President Donald Trump set up the Board of Peace to oversee recovery. Israel controls about two-thirds of the territory behind a military line called the Yellow Line. Israel says Hamas steals aid and that every \"dual-use item\" could help it rearm; Hamas accuses Israel of blocking supplies.\n\nWhat next: the Board of Peace has called it an \"immediate humanitarian emergency\" and pressed both sides. But reconstruction stays stalled while negotiators fail to agree on Hamas disarming and Israel withdrawing. With a long wet winter ahead, conditions look set to worsen before they improve.",
+    "why_it_matters": "A ceasefire exists on paper, yet two million people face a deadly winter in flooded tents with aid blocked by a political stalemate. The crisis was reported firsthand to Australia's ABC, giving local audiences a direct window into the human cost.",
+    "deep_analysis": "## Historical Context\n\nThe war in Gaza began after Hamas attacked Israel on 7 October 2023. The fighting destroyed most of Gaza's homes and infrastructure, displacing the bulk of its roughly two million people, many of them several times over. According to Gaza's Health Ministry, more than 74,600 people have been killed. A US-brokered ceasefire took effect in October 2025, but local health authorities say more than 1,600 Palestinians have been killed and over 5,800 injured in continued Israeli strikes since then. This is Gaza's fourth winter of war and its second since the ceasefire was declared.\n\n## Multiple Perspectives\n\nThe two sources broadly agree on the scale of suffering but differ on specifics: the ABC cites four deaths (a woman and three children) and 40,000-plus damaged tents, while DW cites at least six deaths and around 70,000 flooded tents. On responsibility, the accounts diverge sharply. Israel, via caretaker PM Netanyahu's office and its COGAT agency, says it has let in 91,000 tents and over 8,200 aid trucks, and blames Hamas for stealing aid and exploiting \"dual-use\" items. The UN and groups like Save the Children and UNFPA say Israeli restrictions and the Yellow Line are keeping most land and 150,000 tents out of reach — a claim Israel rejects. The Board of Peace criticised both sides. One analyst, Nathan Brown, argues the deadlock stems from Israel's insistence that Hamas disarm first.\n\n## What to Watch\n\nWatch whether the Board of Peace's tougher public stance translates into more supplies actually crossing the Yellow Line. Watch the disarmament-and-withdrawal negotiations, which are blocking the estimated $71.4 billion, decade-long reconstruction. And watch public health: contaminated stormwater basins like Sheikh Radwan raise the risk of disease outbreaks among already vulnerable children and pregnant women.",
+    "concepts": [
+     {
+      "term": "ceasefire",
+      "definition": "An agreement to stop fighting. The US-brokered Gaza ceasefire began in October 2025, but strikes and deaths have continued despite it.",
+      "context": "The deal that was meant to bring stability but has not stopped Israeli strikes or enabled full recovery."
+     },
+     {
+      "term": "Board of Peace",
+      "definition": "A committee set up by US President Donald Trump to oversee the ceasefire, Gaza's postwar governance and its reconstruction.",
+      "context": "It labelled the flooding an 'immediate humanitarian emergency' and criticised both Israel and Hamas."
+     },
+     {
+      "term": "Yellow Line",
+      "definition": "A military demarcation line marking the roughly two-thirds of Gaza that Israel controls, behind which Palestinian access is restricted.",
+      "context": "Aid groups say it keeps most of Gaza's land off-limits, leaving nowhere to relocate flooded families."
+     },
+     {
+      "term": "dual-use item",
+      "definition": "A good that can serve both civilian and military purposes, which Israel says Hamas could exploit to rearm.",
+      "context": "Israel uses this argument to justify restricting what enters Gaza, which aid groups say worsens the crisis."
+     }
+    ],
+    "quiz": {
+     "question": "Why do aid agencies say Gaza's shelter crisis is worsening despite the ceasefire?",
+     "options": [
+      "Gazans are refusing the shelters being offered to them",
+      "The rains destroyed newly built permanent housing",
+      "A sudden population boom has outstripped all housing",
+      "Tents are waiting outside Gaza unapproved while a political deadlock stalls reconstruction"
+     ],
+     "answer_index": 3,
+     "explanation": "The UN says around 150,000 tents sit outside Gaza awaiting approval, and reconstruction is stalled because Israel and Hamas can't agree on disarmament and withdrawal — a stalemate the Board of Peace has criticised."
+    },
+    "background_beginner": "Gaza is a small, densely populated coastal strip home to about two million Palestinians. War broke out after Hamas — the group governing Gaza, classified as a terrorist organisation by the US, EU and others — attacked Israel on 7 October 2023. Israel's response destroyed most homes, leaving huge numbers living in tents. A US-brokered ceasefire began in October 2025, and President Donald Trump set up a 'Board of Peace' to manage recovery. But Israel and Hamas can't agree on terms, so aid and rebuilding keep stalling. The topic keeps resurfacing because civilians, especially children, keep suffering — now from winter floods — while the two sides blame each other.",
+    "impact_score": 72,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/9a1f41495c4b005fe6fcd2c3185e045a?impolicy=wcms_watermark_news&cropH=2266&cropW=4028&xPos=275&yPos=418&width=862&height=485&imformat=generic",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "The first heavy winter rains have flooded Gaza's crowded tent camps, killing several people and leaving hundreds of thousands without dry shelter while Israel and Hamas blame each other for the lack of aid.",
+    "tier": "GLOBAL",
+    "category": "SOCIETY_CULTURE",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-13/scramble-for-materials-shelter-gaza-flood-storms/107377866"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "41cc4d70-b7c2-57ae-a270-afac9a5dc797"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-11-13T19:26:52.941914+00:00",
+    "published_date": "2026-11-14",
+    "has_fulltext": true
+   },
    {
     "id": "bdd1fcc9-b9b6-5f61-be45-37faf09060d7",
     "title": "Ebola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns",
@@ -856,127 +942,6 @@
     "created_at": "2026-11-12T19:26:37.475599+00:00",
     "published_date": "2026-11-13",
     "has_fulltext": true
-   },
-   {
-    "id": "6cdd6b61-63f5-5209-90fa-812e98f356ca",
-    "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-    "simplified_title": "Israeli Strike Hits Gaza's Nasser Hospital, Killing At Least Five",
-    "quick_summary": "An Israeli airstrike on a building at Nasser Hospital in southern Gaza has killed at least five Palestinians and injured twenty, according to Gaza's Civil Defence agency.",
-    "simplified_body": "Early on Thursday, a single missile struck a building at Nasser Hospital, the largest in southern Gaza. Eyewitnesses said it was fired from a warplane that briefly flew overhead and hit wards housing surgical and intensive care units. At least five people were killed and twenty injured, a Civil Defence official told the BBC, with a surgeon reported among the dead. One spokesperson earlier put the toll at six.\n\nThe Israel Defense Forces (IDF) and Israel Security Agency (ISA) said they struck a senior Hamas member and other militants who were allegedly using the hospital as a command centre. They said precision munitions and aerial surveillance were used to reduce harm to civilians. Hamas denies storing weapons or running command rooms in hospitals.\n\nUnder international law, hospitals have protected status, but they've been repeatedly hit during the Gaza war. That war began with the Hamas-led attack on southern Israel on 7 October 2023, which killed about 1,200 people and saw 251 taken hostage. Since then, more than 74,645 people have been killed in Gaza, according to the Hamas-run health ministry, whose figures the United Nations (UN) considers reliable. The BBC is barred by Israel from reporting independently inside Gaza.\n\nStrikes have continued despite a ceasefire agreed in October last year, with more than 1,600 people killed since then. Israel and Hamas each accuse the other of breaking the truce. The humanitarian situation has also worsened, with heavy rains reportedly flooding tens of thousands of tents sheltering displaced families.",
-    "why_it_matters": "Attacks on hospitals raise serious questions about whether a fragile ceasefire can hold and whether protections for medical sites under international law are being upheld — issues Australia and other nations weigh when forming their response to the conflict.",
-    "deep_analysis": "## Historical Context\n\nThe current war was triggered by the Hamas-led attack on southern Israel on 7 October 2023, which killed about 1,200 people and resulted in 251 hostages being taken. Since then, Gaza's Hamas-run health ministry says more than 74,645 people have been killed. Nasser Hospital, the largest in southern Gaza, has been struck before — a double Israeli strike in August 2025 killed at least 20 people, including journalists and health workers. Despite a ceasefire agreed in October last year, strikes have continued, with more than 1,600 people reportedly killed since.\n\n## Multiple Perspectives\n\nThe accounts differ sharply. Gaza's Civil Defence agency describes a single missile hitting surgical and intensive care wards, killing at least five (one earlier figure said six) and injuring twenty. Israel's military and security agency say they targeted a senior Hamas member and militants allegedly using the hospital as a command centre, and that steps were taken to limit civilian harm. Local activists have circulated claims the strike may have targeted a senior Hamas security figure hiding inside. Israel accuses Hamas of using hospitals militarily; Hamas denies this. Independent verification is difficult, as the BBC is prevented by Israel from reporting from inside Gaza.\n\n## What to Watch\n\nWatch whether the ceasefire survives, given both sides accuse each other of violations. Also watch the worsening humanitarian situation, with heavy rains reportedly flooding tens of thousands of tents housing displaced families, and whether further details about this strike are independently confirmed by bodies such as the International Committee of the Red Cross (ICRC).",
-    "concepts": [
-     {
-      "term": "Civil Defence",
-      "definition": "The Gaza agency that carries out rescue and recovery work after strikes; it operates under the Hamas-run interior ministry and has been supported by the Red Cross.",
-      "context": "A Civil Defence official reported the death toll and injuries at Nasser Hospital."
-     },
-     {
-      "term": "ceasefire",
-      "definition": "An agreement to stop fighting; the one referenced was agreed in October last year, though strikes have continued and both sides accuse each other of breaking it.",
-      "context": "The strike occurred despite a ceasefire agreement in October last year."
-     },
-     {
-      "term": "precision munitions",
-      "definition": "Weapons designed to hit a specific target accurately, intended to limit wider damage and civilian harm.",
-      "context": "Israel said it used precision munitions and aerial surveillance to reduce harm to civilians."
-     },
-     {
-      "term": "protected status",
-      "definition": "A protection under international law that shields certain sites, like hospitals, from attack during war.",
-      "context": "Hospitals have protected status under international law but have been repeatedly targeted in the Gaza war."
-     }
-    ],
-    "quiz": {
-     "question": "Why do Israel and Gaza's Civil Defence give conflicting accounts of the strike?",
-     "options": [
-      "Both sides agree on exactly what happened",
-      "Israel says it targeted militants using the hospital as a command centre, while Gaza describes civilian wards being hit, and independent verification is difficult",
-      "The BBC confirmed Israel's version from inside Gaza",
-      "Hamas admitted to storing weapons in the hospital"
-     ],
-     "answer_index": 1,
-     "explanation": "Israel says it struck militants allegedly using the hospital militarily, Gaza's Civil Defence describes a strike on surgical and intensive care wards, and the BBC is prevented by Israel from reporting independently inside Gaza, making verification hard."
-    },
-    "background_beginner": "Since 7 October 2023, Israel and Hamas — the armed group that controls Gaza — have been at war. It began when Hamas-led fighters attacked southern Israel, killing about 1,200 people and taking 251 hostages. Israel's military response in Gaza has killed tens of thousands, according to Gaza's health ministry. A recurring flashpoint is attacks on hospitals: Israel says Hamas hides fighters and weapons inside them, which Hamas denies, while aid groups and the United Nations stress hospitals are meant to be protected under international law. A ceasefire was agreed in late 2025, but strikes have continued, keeping the conflict in the headlines.",
-    "impact_score": 72,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "An Israeli airstrike on a building at Nasser Hospital in southern Gaza has killed at least five Palestinians and injured twenty, according to Gaza's Civil Defence agency.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-12T07:25:32.170935+00:00",
-    "published_date": "2026-11-12",
-    "has_fulltext": true
-   },
-   {
-    "id": "2eea2768-7fb7-5436-8189-2e12a7321a2e",
-    "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
-    "simplified_title": "Amnesty: UN and South Sudan ignored warnings before deadly massacre",
-    "quick_summary": "Amnesty International says UN peacekeepers and South Sudanese officials had warnings but failed to prevent a March attack on a village that killed more than 200 people.",
-    "simplified_body": "A new Amnesty International report, published on Thursday, says both the United Nations (UN) peacekeeping mission and South Sudan's government knew an attack on a village in Abiemnom was likely, but didn't act strongly enough to stop it. On March 1, between 1,000 and 1,500 armed men from neighbouring Mayom County shot residents, burned homes and looted a hospital. Authorities put the death toll at more than 200, including 130 town residents, 76 security personnel and seven foreign nationals.\n\nThe findings land at a tense moment for South Sudan, which is due to hold elections on December 22. The UN mission, known as UNMISS (United Nations Mission in South Sudan), says it did its best with limited resources, sheltering around 2,500 people at a protected base and repeatedly asking the national army to send reinforcements. Facing budget cuts, it focused on protecting civilians who had already fled to its base. Only after the attack did it send 40 more police.\n\nSouth Sudan became the world's newest country in 2011. A brutal civil war broke out and lasted five years before a 2018 peace agreement ended it. That peace is fragile, and many worry a rushed election could, as the International Crisis Group's Murithi Mutiga warned, be \"a final blow\" to the deal. In April, the UN Security Council (UNSC) renewed UNMISS's mandate but cut its authorised troop ceiling from 17,000 to 12,000.\n\nAmnesty is calling for an independent investigation into the killings and a separate review of how the peacekeepers responded. South Sudanese authorities did not reply to two letters from Amnesty. With elections weeks away, pressure is mounting to keep the vote peaceful and protect vulnerable communities.",
-    "why_it_matters": "The report raises hard questions about whether shrinking UN peacekeeping budgets leave civilians exposed — a debate Australia, a long-time UN contributor and advocate for the \"responsibility to protect\", follows closely.",
-    "deep_analysis": "## Historical Context\n\nSouth Sudan gained independence from Sudan in 2011, becoming the world's youngest nation. Hopes for stability quickly collapsed when civil war erupted in 2013, pitting forces loyal to rival leaders against each other and killing hundreds of thousands over five years. A 2018 peace agreement officially ended that war, but implementation has been slow and the underlying rivalries and local-level violence never fully disappeared. UNMISS has operated throughout, with protecting civilians as a core part of its mandate.\n\n## Multiple Perspectives\n\nAmnesty argues both the government and UNMISS had \"sufficient information and time\" to prevent the massacre, pointing to a similar deadly attack in April 2025 that should have prompted stronger preparation. UNMISS, through spokesperson Priyanka Chowdhury, counters that budget cuts forced it to concentrate its roughly three dozen local peacekeepers on immediately protecting the 2,500 people sheltering at its base, and that it had repeatedly pressed the national army to send forces. The government itself did not respond to Amnesty's letters. These accounts don't fully contradict each other — the dispute is less about the facts than about whether the response was adequate given the resources available.\n\n## What to Watch\n\nThe December 22 election is the key flashpoint. African Union envoy Jakaya Kikwete has urged the UNSC to help ensure a peaceful vote, while analysts warn a rushed poll could unravel the 2018 peace. Watch whether an independent investigation into the Abiemnom killings materialises, and how the reduced UNMISS troop ceiling of 12,000 affects its ability to protect civilians if violence spreads around the election.",
-    "concepts": [
-     {
-      "term": "UNMISS",
-      "definition": "The United Nations Mission in South Sudan, a peacekeeping operation whose core tasks include protecting civilians.",
-      "context": "The report focuses on whether UNMISS did enough to prevent the March attack."
-     },
-     {
-      "term": "UNSC",
-      "definition": "The UN Security Council, the body that sets and renews peacekeeping mandates and troop numbers.",
-      "context": "The UNSC renewed UNMISS's mandate in April but cut its authorised troop ceiling."
-     },
-     {
-      "term": "2018 peace agreement",
-      "definition": "The deal that formally ended five years of civil war in South Sudan.",
-      "context": "Analysts fear a rushed December election could undo this fragile agreement."
-     }
-    ],
-    "quiz": {
-     "question": "According to the report, what was a key reason UNMISS gave for not reinforcing its peacekeepers before the attack?",
-     "options": [
-      "The national army refused to allow reinforcements into the area",
-      "It did not believe any attack was likely",
-      "Budget cuts meant it concentrated its limited capacity on civilians already sheltering at its base",
-      "It was ordered to stand down by the UN Security Council"
-     ],
-     "answer_index": 2,
-     "explanation": "UNMISS said that, facing budget cuts, it focused its available capacity on immediately protecting the roughly 2,500 civilians sheltering at its base, while repeatedly asking the national army for more forces."
-    },
-    "background_beginner": "South Sudan is the world's newest country, splitting from Sudan in 2011. Soon after, it fell into a civil war that killed vast numbers of people before a 2018 peace agreement ended the fighting. That peace remains shaky, and outbreaks of local violence still happen. The United Nations runs a peacekeeping mission there, called UNMISS, whose main job is protecting civilians. Amnesty International, a global human rights group, investigates abuses and pressures governments and institutions to act. This story keeps coming up because the country is now heading toward a December election that many fear could reignite conflict, putting ordinary villagers and peacekeepers under renewed strain.",
-    "impact_score": 58,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8c941bcc3a1-1787597851.jpg?resize=1920%2C1440",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Amnesty International says UN peacekeepers and South Sudanese officials had warnings but failed to prevent a March attack on a village that killed more than 200 people.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-12T07:25:31.648122+00:00",
-    "published_date": "2026-11-12",
-    "has_fulltext": true
    }
   ],
   "AMERICAS": [
@@ -1043,140 +1008,6 @@
     "reading_minutes": 3,
     "created_at": "2026-11-13T07:25:44.269051+00:00",
     "published_date": "2026-11-13",
-    "has_fulltext": true
-   },
-   {
-    "id": "a0aceb71-7ca9-5641-a964-d01039a87e49",
-    "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
-    "simplified_title": "Democrat Scott Colom wins historic Mississippi Senate upset",
-    "quick_summary": "Democrat Scott Colom has narrowly beaten Republican incumbent Cindy Hyde-Smith to become Mississippi's first Black US senator in over 140 years.",
-    "simplified_body": "Democrat Scott Colom, a 43-year-old local prosecutor, has won Mississippi's United States Senate race, defeating incumbent (sitting) Republican Senator Cindy Hyde-Smith by a sliver. Figures from CBS cited by the BBC put it at 49.2% to 48.7%, with an independent on 2.1% — a lead of around 4,500 votes. It makes Colom Mississippi's first Black senator since the Reconstruction era that followed the US Civil War, and ends a Republican winning streak in the state's Senate races dating back to 1982.\n\nThe result matters because it hands Democrats a bigger cushion in the 100-seat Senate — now 55 seats, with Alaska still undecided — on top of winning the House of Representatives in the November 3 midterm elections (the national votes held midway through a president's term). Democrats flipped Republican strongholds including Texas, South Carolina, Kansas and Iowa. Exit polls blame voter anger over the economy, President Donald Trump's tariffs and the war with Iran.\n\nFor background: Mississippi is deeply conservative — Trump won it by more than 22 points in 2024 (DW says nearly 23). The count dragged on for over a week as officials tallied more than 100,000 mail-in ballots plus provisional ballots, which are votes set aside until a person's eligibility is confirmed. Hyde-Smith had earlier blocked Colom's nomination by former President Joe Biden to be a federal judge, citing his stance on transgender issues.\n\nHyde-Smith posted a concession video and rang Colom to concede. Colom, who campaigned across all 82 counties backing a higher minimum wage and rural hospitals, will be sworn in next January. The new Congress will include a record seven Black senators.",
-    "why_it_matters": "A Democrat winning in one of America's reddest states — for the first time since the 1980s — signals a sharp national backlash against Trump's economic and foreign policy, and strengthens Democrats' hold on the US Senate.",
-    "deep_analysis": "## Historical Context\n\nMississippi has been dominated by white conservatives for generations, and its Senate seats had stayed Republican since 1982 — the last time a Democrat won one, when John Stennis beat Haley Barbour, who later became governor. Colom's win is framed two ways in the sources: the BBC and Al Jazeera emphasise the first Black senator from the state in more than 140 years (reaching back to Reconstruction, the period after the Civil War when Black Americans briefly held office in the South). DW adds that he is the first *new* Democratic senator Mississippi has chosen since 1947. Both can be true: they describe different milestones.\n\n## Multiple Perspectives\n\nColom cast himself as a candidate for \"rural, suburban and urban America,\" leaning on economic frustration and nicknaming his opponent \"Cindy High Prices\" over her support for Trump's tariffs. The NAACP in Jackson celebrated the result as proof that grassroots organising can beat better-funded campaigns. Hyde-Smith's camp had attacked Colom as a puppet of liberal donor George Soros, and initially expressed confidence that counting would favour her — Al Jazeera, written earlier, notes she stayed out of public view before later conceding gracefully in a video. The sources differ slightly on Trump's 2024 margin (more than 22 points versus nearly 23).\n\n## What to Watch\n\nThe Alaska Senate race remains uncalled, which will set the final Democratic majority (currently 55). Mississippi has no mandatory recount law, so a legal challenge is not automatic. Watch whether Democrats treat the US South as genuinely winnable going forward, and how a 55-seat majority reshapes the agenda when Colom is sworn in next January.",
-    "concepts": [
-     {
-      "term": "incumbent",
-      "definition": "The person currently holding a political office and seeking to keep it in an election.",
-      "context": "Cindy Hyde-Smith was the sitting senator defending her seat against Colom."
-     },
-     {
-      "term": "provisional ballots",
-      "definition": "Votes set aside and only counted once officials confirm the voter was actually eligible.",
-      "context": "Thousands were cast in Mississippi by people who couldn't confirm their registration at polling sites."
-     },
-     {
-      "term": "midterm",
-      "definition": "US elections held midway through a president's four-year term that can reshape control of Congress.",
-      "context": "These November 3 midterms delivered broad losses for Trump's Republicans."
-     },
-     {
-      "term": "concession",
-      "definition": "When a losing candidate publicly accepts defeat, often contacting the winner.",
-      "context": "Hyde-Smith posted a concession video and phoned Colom to acknowledge the result."
-     }
-    ],
-    "quiz": {
-     "question": "Why is Colom's victory considered such a major upset?",
-     "options": [
-      "He is the youngest senator ever elected",
-      "He defeated a Democratic incumbent in a primary",
-      "He won a deeply Republican state Trump carried by over 22 points, ending a GOP Senate streak since 1982",
-      "He ran without any campaign funding"
-     ],
-     "answer_index": 2,
-     "explanation": "The shock is that a Democrat won in strongly conservative Mississippi — which Trump won by more than 22 points — breaking a Republican hold on the state's Senate seats dating to 1982."
-    },
-    "background_beginner": "The United States Senate is the upper house of Congress, with 100 seats; controlling it shapes what laws and nominations pass. Mississippi is one of the most conservative US states and has sent Republicans to the Senate for decades. In the November 2026 midterm elections — votes held halfway through President Donald Trump's term — Democrats did unexpectedly well, blamed on anger over the economy, Trump's tariffs and a war with Iran. Scott Colom, a local Democratic prosecutor, narrowly beat sitting Republican Senator Cindy Hyde-Smith. The story keeps coming up because it was extremely close, took over a week to count, and makes Colom the state's first Black senator in more than 140 years.",
-    "impact_score": 72,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af4c0e14dde-1794425057.jpg?resize=1920%2C1440",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "Democrat Scott Colom has narrowly beaten Republican incumbent Cindy Hyde-Smith to become Mississippi's first Black US senator in over 140 years.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-12T01:25:03.915795+00:00",
-    "published_date": "2026-11-12",
-    "has_fulltext": true
-   },
-   {
-    "id": "4c05936a-4873-5b38-af2f-0fc5635b0825",
-    "title": "Why the US, Mexico and Guatemala may lose their measles-free status",
-    "simplified_title": "US, Mexico and Guatemala Risk Losing Measles-Free Status",
-    "quick_summary": "Health experts are meeting in Washington this week to decide whether the US, Mexico and Guatemala should lose their measles elimination status after a major resurgence of the virus across the Americas.",
-    "simplified_body": "International health experts have gathered in Washington, DC, this week to decide which countries in the Americas still have their \"measles elimination status\" — a designation meaning the virus hasn't spread uncontrolled at home for at least 12 months. The Pan American Health Organization's (PAHO) Regional Monitoring and Re-Verification Commission (RVC) is reviewing reports from all 35 PAHO member states, with the United States, Mexico, Guatemala, Peru and Bolivia all at risk. Canada already lost its status last November.\n\nThis matters because the US is enduring its largest and deadliest measles outbreak in nearly 30 years, having held elimination status since 2000. Between January and October 2026, PAHO recorded 57,666 confirmed cases across 17 countries and territories. Losing the status wouldn't trigger immediate consequences, but experts call it \"a stain on your health programme\" and warn it piles pressure on public-health systems that must trace contacts, test, isolate patients and run vaccination drives.\n\nHere's the background a newcomer needs: the Americas became the first region in the world to eliminate endemic measles transmission in 2016, after decades of vaccination campaigns. A country only loses the designation if the same virus strain keeps spreading uninterrupted for 12 months — not simply because cases appear. Investigators use genetic sequencing to check whether infections are the same strain or separate introductions, say from travellers.\n\nThe commission wraps up on Friday and will advise PAHO Director Jarbas Barbosa, who makes the final call, with an announcement expected early next week. Experts widely expect the US to lose its status. Brazil lost its designation in 2019 but won it back in 2024 after a strong vaccination campaign — though some doubt the US will respond as robustly.",
-    "why_it_matters": "A reversal in a country as wealthy as the US shows how quickly hard-won public-health gains can unravel when vaccination rates slip — a cautionary tale for Australia, which also relies on high measles vaccine coverage to keep the virus at bay.",
-    "deep_analysis": "## Historical Context\n\nMeasles was once a near-universal childhood illness before vaccines became widespread. Decades of vaccination campaigns across the Americas culminated in 2016, when the region became the first in the world to eliminate endemic measles transmission. The US itself reached elimination in 2000. \"Elimination\" is a technical milestone — it doesn't mean zero cases, but that no single strain has circulated unbroken for 12 months. The current review by PAHO's Regional Monitoring and Re-Verification Commission covers epidemiological data from 2025 and the first half of 2026, against the backdrop of the worst US outbreak in nearly three decades.\n\n## Multiple Perspectives\n\nExperts quoted are unanimous that losing status would be a setback but divided on its meaning. Matt Ferrari of Penn State called it \"a disappointment, not a shock\" and a \"heart-wrenching\" backslide, yet argued the announcement could usefully \"galvanise action\" by giving officials shared language. Edwin Asturias of the University of Colorado framed it as \"a stain on your health programme\" and doubts the US will mount a Brazil-style recovery. The US Centers for Disease Control and Prevention (CDC) director Erica Schwartz struck a different tone, saying the loss \"would not change the agency's approach\" — the CDC would keep \"working with the states.\" That gap, between seeing the loss as a wake-up call versus business as usual, is the real tension here.\n\n## What to Watch\n\nThe commission adjourns Friday and makes recommendations to PAHO Director Jarbas Barbosa, with an official announcement expected early next week. Watch whether the US, Mexico, Guatemala, Peru and Bolivia are named, and crucially what follows — Brazil's 2019 loss and 2024 recovery shows status can be regained with a strategic vaccination campaign. The question is political will and whether federal, state and local responses align.",
-    "concepts": [
-     {
-      "term": "measles elimination status",
-      "definition": "An official designation meaning a country has not had the measles virus spread uncontrolled domestically for at least 12 months.",
-      "context": "The US has held this status since 2000 but risks losing it after a sustained outbreak."
-     },
-     {
-      "term": "endemic measles transmission",
-      "definition": "When the same measles virus strain keeps circulating continuously within a country rather than being brought in from elsewhere.",
-      "context": "The Americas became the first region to eliminate this in 2016."
-     },
-     {
-      "term": "genetic sequencing",
-      "definition": "A laboratory technique that reads a virus's genetic code to tell whether infections are the same strain or separate introductions.",
-      "context": "Investigators use it to decide whether an outbreak counts against a country's status."
-     },
-     {
-      "term": "Pan American Health Organization's (PAHO)",
-      "definition": "A regional public-health body that is part of the World Health Organization and oversees measles elimination verification in the Americas.",
-      "context": "PAHO reported 57,666 confirmed cases across 17 countries between January and October 2026."
-     }
-    ],
-    "quiz": {
-     "question": "What determines whether a country loses its measles elimination status?",
-     "options": [
-      "The total population size of the affected country",
-      "The same virus strain spreading uninterrupted for at least 12 months",
-      "Any reported measles cases or deaths within the year",
-      "A single traveller bringing measles across the border"
-     ],
-     "answer_index": 1,
-     "explanation": "Under PAHO's criteria, cases or deaths alone don't cause loss of status. A country loses it only when the same virus strain circulates uninterrupted for at least 12 months — limited outbreaks from travel exposure don't count."
-    },
-    "background_beginner": "Measles is a highly contagious virus that vaccines can prevent. The Pan American Health Organization (PAHO), part of the World Health Organization, tracks whether countries in the Americas have kept measles under control. In 2016 the Americas became the first region in the world to \"eliminate\" the disease, meaning it was no longer spreading unchecked at home. To keep that label, a country must avoid the same virus strain circulating for 12 months straight. Lately measles has come roaring back — the US is having its worst outbreak in nearly 30 years, largely tied to falling vaccination rates. That's why an expert panel keeps meeting each year to decide which countries get to keep their measles-free status.",
-    "impact_score": 68,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260928__C9JZ88E__v1__HighRes__UsAmericasHealthPaho-1794431111.jpg?resize=1920%2C1440",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "Health experts are meeting in Washington this week to decide whether the US, Mexico and Guatemala should lose their measles elimination status after a major resurgence of the virus across the Americas.",
-    "tier": "GLOBAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-12T07:25:34.857465+00:00",
-    "published_date": "2026-11-12",
     "has_fulltext": true
    },
    {
@@ -1372,66 +1203,134 @@
   ],
   "GLOBAL_SYSTEMS": [
    {
-    "id": "57eb982f-2f7e-5866-87de-893786e588be",
-    "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
-    "simplified_title": "AI datacentres plan huge on-site gas power despite climate risks",
-    "quick_summary": "Developers want to build 181GW of on-site gas-fired power stations to run AI datacentres while they wait for grid connections, raising fears of long-term fossil-fuel lock-in.",
-    "simplified_body": "New research reveals that developers of artificial intelligence (AI) datacentres across the United States (US), the United Kingdom (UK) and mainland Europe plan to build fossil fuel plants on-site, adding up to 181 gigawatts (GW) of gas-fired capacity. That's almost four times Great Britain's total peak electricity demand. The research by BloombergNEF says 90% of these on-site gas stations are planned in the US, where they could emit about 345m metric tonnes of carbon dioxide equivalent a year — roughly the yearly emissions of 72.8m fossil fuel cars.\n\nThis affects anyone who cares about climate targets, because datacentres are hungry for power to run servers, cool equipment and keep facilities going. Developers are turning to gas because connecting to national grids is slow, a race the report calls \"speed to power\". BloombergNEF's Mark Daly warns that although companies call the gas supply temporary, the economics may keep them running — creating a longer-term fossil-fuel lock-in risk.\n\nFor background: the report landed as leaders gathered in Turkey for the 31st UN climate summit (Cop31), while several European leaders instead headed to Dublin for the EU's first dedicated AI summit. In the UK, more than 100 inquiries were made in 2024-5 to connect datacentres to gas. The chancellor, John Healey, has backed letting datacentres run temporary on-site fossil fuel stations as part of a \"datacentre covenant\".\n\nBy 2035, AI datacentre electricity demand is predicted to almost quadruple to 2,354 terawatt-hours — about 7% of global demand. The report argues faster grid connections, with cleaner generation added alongside, are the more sustainable path. Campaigners like Global Action Plan's Oliver Hayes call private gas stations a climate \"red line\".",
-    "why_it_matters": "The AI boom could lock in decades of new fossil-fuel emissions just as nations gather to cut them, and the same \"speed to power\" pressures driving gas plants overseas are relevant wherever datacentre developers face slow grid connections.",
-    "deep_analysis": "## Historical Context\n\nDatacentres have always needed reliable power, but the rise of AI has sharply increased demand because training and running large models requires vast numbers of servers plus heavy cooling. Traditionally, big power users connect to the national electricity grid. The problem now is timing: demand is growing faster than grids can be upgraded, leaving developers waiting years for a connection. That gap is what the report calls \"speed to power\" — and gas turbines can be installed quickly on-site, making them an attractive shortcut.\n\n## Multiple Perspectives\n\nDevelopers frame on-site gas as a temporary bridge until grid access arrives. BloombergNEF's Mark Daly counters that once a gas plant is built and paid for, the economics can encourage operators to keep running it, risking long-term \"fossil-fuel lock-in\". The report itself argues grid connection is the more sustainable option, and that faster connections plus cleaner generation are key to limiting emissions. Campaigners go further: Global Action Plan's Oliver Hayes calls private gas stations a climate \"red line\" and criticised the chancellor, John Healey, for backing them. Meanwhile governments are weighing economic competitiveness — the UK is fast-tracking sites through its nationally significant infrastructure project regime.\n\n## What to Watch\n\nWatch whether the planned 181GW actually gets built or stays on paper, and whether \"temporary\" gas plants are switched off once grid connections arrive. Keep an eye on outcomes from Cop31 in Turkey and the EU's AI summit in Dublin, which pull in different directions. In the UK, the \"datacentre covenant\" and sites like Wapseys Wood and Quest Park will test how the policy plays out in practice.",
+    "id": "899891b8-9f79-5c74-88e9-ceb7c25c275a",
+    "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
+    "simplified_title": "Scientists warn 1.5°C warming limit could hit by 2029",
+    "quick_summary": "Two new reports released at the COP31 climate summit warn that global warming is accelerating and the world could blow past the key 1.5°C threshold as early as 2029.",
+    "simplified_body": "At the United Nations (UN) COP31 climate change conference in Antalya, Turkey, two fresh reports delivered a blunt reality check. Climate Action Tracker, a nonprofit that analyses climate policies, found the planet is still on track to warm nearly 5° Fahrenheit (about 2.8°C) by 2100. Separately, the European Union (EU) Copernicus climate change service reported that warming has sped up significantly since the 2015 Paris climate agreement.\n\nWhen Paris was adopted, scientists expected the global average temperature to pass the pact's long-term threshold of 2.7° Fahrenheit (1.5°C) above pre-industrial levels around 2045. A decade of summits later, Copernicus now projects that benchmark could be crossed as soon as 2029. The EU scientists said ever-growing greenhouse gas concentrations from human activity remain the main driver.\n\nThe 1.5°C line matters because it is the tougher goal governments set in Paris to limit the worst damage. Current warming has already triggered deadly floods, wildfires and glacier collapses. Swedish activist Greta Thunberg, attending the talks for the first time since 2021, said the \"climate crisis is a matter of life and death\" and that those in power are \"completely detached from reality\".\n\nSarah Heck, a policy analyst at Climate Analytics, said governments have failed to meaningfully improve the outlook for end-of-century warming. With the threshold now looming within a few years, the pressure at COP31 is on whether countries will strengthen their emissions pledges — or keep falling short.",
+    "why_it_matters": "Crossing 1.5°C sooner means more intense heatwaves, floods and bushfires — a direct worry for Australia, which already sits on the front line of climate extremes.",
+    "deep_analysis": "## Historical Context\n\nThe 2015 Paris climate agreement set a long-term goal of keeping global warming well below 2°C above pre-industrial levels, with an aspirational tougher target of 1.5°C (2.7° Fahrenheit). At the time, scientists expected the world to cross that 1.5°C line around 2045. The COP (\"Conferences of the Parties\") meetings are the annual UN gatherings where governments are meant to ratchet up their commitments. A decade of these summits later, the Copernicus service now projects the threshold could be crossed as early as 2029 — a dramatic acceleration that the EU scientists attribute to ever-rising greenhouse gas concentrations.\n\n## Multiple Perspectives\n\nThe two reports broadly agree that warming is running ahead of expectations and that policy has not kept pace. Climate Action Tracker frames the problem through long-term projections — nearly 5° Fahrenheit by 2100 — while Copernicus focuses on how much faster the nearer-term threshold is arriving. Greta Thunberg casts it as an immediate life-and-death emergency, accusing leaders of being detached from reality. Sarah Heck of Climate Analytics takes an institutional angle, arguing governments have simply failed to improve the end-of-century outlook. The through-line is a gap between the upbeat \"green-tech\" tone at the conference and the scientific warnings.\n\n## What to Watch\n\nWatch whether COP31 produces stronger national emissions pledges, since the reports make clear current policies fall short. Keep an eye on whether the 1.5°C threshold is treated as a single-year breach or a sustained long-term average — a distinction that shapes how \"crossed\" is defined. And watch the political response to voices like Thunberg's returning to the talks.",
     "concepts": [
      {
-      "term": "speed to power",
-      "definition": "The race to get electricity flowing to a datacentre as fast as possible, even if that means building your own gas plant rather than waiting for the grid.",
-      "context": "BloombergNEF says 'speed to power' is now a top priority for AI datacentre developers facing slow grid connections."
+      "term": "Paris climate agreement",
+      "definition": "A 2015 international pact in which countries agreed to limit global warming, with a tougher aspirational goal of keeping it to 1.5°C above pre-industrial levels.",
+      "context": "The article uses the Paris agreement's threshold as the benchmark warming is now expected to cross much sooner than planned."
      },
      {
-      "term": "fossil-fuel lock-in",
-      "definition": "When new fossil fuel infrastructure gets built and keeps running for years, locking in emissions long after it was meant to be temporary.",
-      "context": "Experts warn the economics of gas plants could keep them running, creating a longer-term fossil-fuel lock-in risk."
+      "term": "Copernicus",
+      "definition": "The European Union's climate change monitoring service, which tracks and reports on global temperatures and warming trends.",
+      "context": "Copernicus produced the bulletin projecting the 1.5°C threshold could be crossed as soon as 2029."
      },
      {
-      "term": "gas-fired capacity",
-      "definition": "The maximum amount of electricity that gas-burning power stations can generate, measured here in gigawatts.",
-      "context": "Plans add up to 181GW of gas-fired capacity, almost four times Great Britain's total peak electricity demand."
+      "term": "greenhouse gas",
+      "definition": "Gases released by human activity that trap heat in the atmosphere and drive global warming.",
+      "context": "EU scientists named rising greenhouse gas concentrations as the main driver of the accelerating warming."
      },
      {
-      "term": "datacentre covenant",
-      "definition": "A UK policy arrangement allowing datacentres to build and run temporary on-site fossil fuel power while awaiting grid connection.",
-      "context": "The chancellor backed temporary on-site fossil fuel stations as part of a so-called datacentre covenant."
+      "term": "pre-industrial",
+      "definition": "The period before widespread industrial emissions, used as the baseline against which modern warming is measured.",
+      "context": "The 1.5°C and 2°C targets are both defined as temperature rises above pre-industrial levels."
      }
     ],
     "quiz": {
-     "question": "Why are AI datacentre developers planning to build their own on-site gas power stations?",
+     "question": "Why is the shift from 2045 to 2029 significant in the Copernicus report?",
      "options": [
-      "Because long delays in securing grid connections push them to find faster power",
-      "Because governments have banned datacentres from using the grid",
-      "Because gas is cleaner than connecting to the national grid",
-      "Because gas power produces no carbon emissions"
+      "It proves greenhouse gases are no longer the main cause",
+      "It shows the Paris agreement has already been cancelled",
+      "It means temperatures will stop rising after 2029",
+      "It suggests global warming has accelerated faster than earlier projections"
      ],
-     "answer_index": 0,
-     "explanation": "The report says developers turn to on-site gas because of delays connecting to national grids — a race it calls 'speed to power'. Gas is not cleaner and does emit carbon; grids aren't banned."
+     "answer_index": 3,
+     "explanation": "The threshold once expected around 2045 is now projected for as soon as 2029, which the EU scientists say shows warming has accelerated, driven mainly by rising greenhouse gas emissions."
     },
-    "background_beginner": "Datacentres are large buildings full of computers that power the internet and, increasingly, artificial intelligence (AI) tools. AI uses enormous amounts of electricity, so companies are racing to build more datacentres. Normally these plug into the national electricity grid, but upgrading grids is slow, so developers are waiting years for a connection. To get going sooner, many now plan to build their own gas-burning power stations on-site. The worry is that gas burning releases greenhouse gases that heat the planet, and \"temporary\" plants may end up running for years. This keeps coming up because the AI boom and climate goals are pulling against each other, and governments are caught in the middle.",
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/822a68edf6ef4a66a93f5946bbe1be09e4138679/195_0_5000_4000/master/5000.jpg?width=1920&quality=85&auto=format&fit=max&s=9bc88c93241c5f01d7bba6ed37d92441",
+    "background_beginner": "Every year, countries meet at a United Nations summit called a COP (\"Conference of the Parties\") to work out how to tackle climate change. Back in 2015, they signed the Paris agreement, promising to try to keep global warming to 1.5°C above the temperatures of the pre-industrial era, because beyond that the damage — floods, fires, melting ice — gets much worse. The latest summit, COP31, is being held in Antalya, Turkey. Scientists keep sounding the alarm because, despite a decade of these meetings, emissions keep rising and the planet is warming faster than planned. Activists like Greta Thunberg argue leaders aren't acting fast enough.",
+    "impact_score": 82,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "Developers want to build 181GW of on-site gas-fired power stations to run AI datacentres while they wait for grid connections, raising fears of long-term fossil-fuel lock-in.",
+    "description": "Two new reports released at the COP31 climate summit warn that global warming is accelerating and the world could blow past the key 1.5°C threshold as early as 2029.",
     "tier": "GLOBAL",
     "category": "ENVIRONMENT_CLIMATE",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations"
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-12T07:26:06.720437+00:00",
-    "published_date": "2026-11-12",
+    "reading_minutes": 1,
+    "created_at": "2026-11-13T19:26:40.674987+00:00",
+    "published_date": "2026-11-14",
+    "has_fulltext": true
+   },
+   {
+    "id": "34b8ef30-194a-5ef1-bbd8-94c9b8a41005",
+    "title": "Is Claude-maker Anthropic going public just as the AI bubble bursts?",
+    "simplified_title": "Anthropic plans huge IPO as AI market gets the jitters",
+    "quick_summary": "Claude-maker Anthropic is pushing ahead with a massive share float just as doubts about the AI boom rattle markets and wipe trillions off tech stocks.",
+    "simplified_body": "Anthropic, the company behind the Claude AI assistant, says it plans an initial public offering (IPO) — its first sale of shares to the public — later this month, offering 825 million shares at US$70 to US$78 each. That lands right in the middle of a wobbly stretch for AI stocks: after record highs early in 2026, tech shares have swung wildly, and last week the \"Magnificent Seven\" big tech firms shed more than US$1 trillion in value in a single day.\n\nThis matters to anyone with super or savings tied to global shares, because the AI trade now props up a big chunk of the market. Wall Street is asking whether the enormous spending will ever pay off. Investment bank Goldman Sachs reckons the hyperscalers (the giant cloud firms like Alphabet, Microsoft and Meta) need about US$300 billion in yearly AI revenue just to break even — and are currently about US$230 billion short.\n\nFor newcomers: Anthropic once eyed a valuation above US$2 trillion but now thinks it's worth around US$1.2–1.3 trillion. The catch is it currently earns about US$52 billion, so whether that price makes sense hinges on hitting a forecast US$600 billion in revenue by 2030. Analysts are split — one calls it \"a once-in-a-generation company\", another questions the timing.\n\nWhat's next is uncertain. Some see last week's drop as a \"healthy correction\"; others warn of a crash as soon as 2027 or 2028. Watch for slowing AI revenue, pricier debt, and new rules curbing power-hungry data centres.",
+    "why_it_matters": "If the AI boom turns to bust, the pain won't stay in Silicon Valley — Australian super funds and index investors hold these same global tech giants, so a sharp correction would show up in ordinary retirement balances.",
+    "deep_analysis": "## Historical Context\n\nEconomist Gary Smith, in his upcoming book \"AI Mania: Blather, Bluster, and the Bubble of All Bubbles\", lines the AI boom up alongside earlier frenzies around railroads, automobiles, television and the internet. The cautionary tale everyone reaches for is the dot-com crash of 2000, when the tech-heavy Nasdaq index lost nearly 80% of its value. The lesson cuts both ways, though: as background, bubbles have often run far longer than sceptics expect, which makes calling the exact top notoriously hard.\n\nThe current spending is staggering. On top of roughly US$800 billion in capital expenditure this year, Goldman Sachs estimates the AI hyperscalers plan a further US$1.2 trillion in 2027 and US$1.4 trillion in 2028.\n\n## Multiple Perspectives\n\nThe bears and bulls genuinely disagree here. Dennis Dick of the Stock Trader Network says investors have shifted from excitement to \"show me the money\", and finds Anthropic's timing head-scratching given it earns about US$52 billion against a proposed US$1.2–1.3 trillion valuation. Joachim Klement of Panmure Liberum goes further, telling Bloomberg his \"core conviction\" is the bubble bursts in 2027 or 2028.\n\nOn the other side, Quilter's Kit Rees calls last week's sell-off a \"healthy correction\" and argues we're in \"the very early innings\" of the build-out. Vivek Seth of Shaires Holdings is openly bullish, branding Anthropic \"a once-in-a-generation company\" whose float will set a \"market-clearing valuation\".\n\n## What to Watch\n\nRees suggests watching for maturing signs rather than fleeing: slowing AI-related revenue, or less appetite to fund AI plans through debt or equity. There are early hints — borrowing costs for firms like CoreWeave and Oracle have soared, and CNBC reported the cost of insuring Nvidia's debt rose 76% in a month. Yet Oracle, Meta, Microsoft and Alphabet have still announced US$67 billion in new AI bonds since late last month. Also worth watching: data-centre regulation, after New York and Texas temporarily paused new approvals over power and water use.",
+    "concepts": [
+     {
+      "term": "initial public offering (IPO)",
+      "definition": "The first time a private company sells its shares to the general public, letting anyone buy a stake and turning it into a listed company.",
+      "context": "Anthropic plans its IPO later this month, offering 825 million shares at US$70–78 each."
+     },
+     {
+      "term": "hyperscalers",
+      "definition": "The giant cloud-computing companies that run enormous data centres, such as Alphabet, Microsoft and Meta.",
+      "context": "Goldman Sachs estimates the hyperscalers need about US$300 billion in yearly AI revenue to break even."
+     },
+     {
+      "term": "valuation",
+      "definition": "The total estimated worth of a company, used to judge whether its share price is fair.",
+      "context": "Anthropic now thinks its valuation is around US$1.2–1.3 trillion, down from an earlier target above US$2 trillion."
+     },
+     {
+      "term": "healthy correction",
+      "definition": "A market drop seen as a normal, even useful, cooling-off rather than the start of a crash.",
+      "context": "Kit Rees called last week's rout a healthy correction rather than a bursting bubble."
+     }
+    ],
+    "quiz": {
+     "question": "Why do some analysts question Anthropic's proposed US$1.2–1.3 trillion valuation?",
+     "options": [
+      "Its current revenue of about US$52 billion is far below the US$600 billion forecast for 2030 that the valuation relies on",
+      "It has no institutional backing",
+      "It has already lost 80% of its value like the Nasdaq in 2000",
+      "It is not allowed to list shares in the United States"
+     ],
+     "answer_index": 0,
+     "explanation": "The valuation hinges on hitting a forecast US$600 billion in revenue by 2030, but the company currently earns about US$52 billion — which is why sceptics call it overvalued."
+    },
+    "background_beginner": "Anthropic is an American AI company that makes Claude, a chatbot and AI assistant, and is one of the biggest names in the field alongside OpenAI (maker of ChatGPT). Building these AI systems requires vast, costly data centres full of chips made by firms like Nvidia, and cloud giants such as Microsoft, Alphabet and Meta are pouring hundreds of billions into the effort. The big question driving the news is whether all that spending will ever earn its money back, or whether it's a \"bubble\" — a boom where prices race ahead of real value. It keeps coming up because investors, including everyday savers through their super, are exposed to these stocks.",
+    "impact_score": 72,
+    "image_url": "https://static.dw.com/image/79429800_6.jpg",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "Claude-maker Anthropic is pushing ahead with a massive share float just as doubts about the AI boom rattle markets and wipe trillions off tech stocks.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "073a5764-7eae-5d10-902a-5a2ab4c0a032",
+     "0da59b02-7964-59c9-bd4b-6036514dec0b",
+     "8c2b781d-7d14-577b-bf17-cd85475f7b64",
+     "9c0637c4-f196-5a71-874a-bf36100d732e"
+    ],
+    "reading_minutes": 5,
+    "created_at": "2026-11-13T19:26:45.945588+00:00",
+    "published_date": "2026-11-14",
     "has_fulltext": true
    },
    {
@@ -1835,78 +1734,6 @@
     "has_fulltext": true
    },
    {
-    "id": "dd230e72-b0e4-50f3-ba24-21b21abf485f",
-    "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
-    "simplified_title": "Nvidia Board Weighs Ousting CEO Jensen Huang Over Affairs",
-    "quick_summary": "Nvidia's board is reportedly preparing urgent talks about removing co-founder and chief executive Jensen Huang following revelations of two affairs, one allegedly involving a suspected Chinese spy.",
-    "simplified_body": "Nvidia's board is reportedly set to hold urgent talks about the future of co-founder and chief executive Jensen Huang, who has led the chipmaker for more than three decades. The talks follow revelations that Huang had an affair with Kimberly Powell, the company's vice-president of healthcare and an 18-year veteran, who reported to him. This comes days after Huang admitted in a note to staff that he had been unfaithful to his wife in a separate relationship with Alice Huang, an executive at a customer company who US intelligence reportedly believes was recruited by China's Ministry of State Security (its spy agency).\n\nThe news affects a vast number of people because Nvidia is a $4.2 trillion company and the dominant supplier of chips for artificial intelligence (AI). Shares dropped about 8 percent in after-hours trading after the reports. Shareholders have already sued Nvidia and Huang in a proposed class action, accusing them of hiding the relationship and its risks.\n\nFor newcomers: Huang built Nvidia from a gaming-chip maker into the world's leading AI chip supplier, and he has become an influential voice in US President Donald Trump's circle on AI policy and export controls. Trump said on Monday the Federal Bureau of Investigation (FBI) was investigating the espionage allegations. Beijing has rejected the spying claims.\n\nWhat's next is uncertain. Nvidia has hired a former federal prosecutor to lead an investigation, and on Sunday the board backed Huang to stay. But Bloomberg reports the board is now working with an outside firm to find possible successors and weighing an interim chief executive. Senior Republicans and Democrats have called for congressional investigations. This is a developing story.",
-    "why_it_matters": "Nvidia's AI chips power much of the technology underpinning businesses and research worldwide, including in Australia, so turmoil at the top of a $4.2 trillion company ripples through markets and the entire AI industry.",
-    "deep_analysis": "## Historical Context\n\nJensen Huang co-founded Nvidia and has run it for more than three decades, steering it from a maker of gaming chips into the dominant supplier of chips for artificial intelligence. That transformation has made the company worth $4.2 trillion and given Huang outsized influence — including, the sources note, as a voice in President Trump's circle on US AI policy and export controls. Founder-led tech companies often treat the founder as inseparable from the business, which is exactly why a board moving against one is such a dramatic step.\n\n## Multiple Perspectives\n\nThe reporting here is layered and still unfolding. The Wall Street Journal led reports that the board could oust Huang; the New York Times reported the affair with Kimberly Powell; the Financial Times earlier reported the relationship with Alice Huang. Huang himself acknowledged being unfaithful but did not name anyone, and when asked about Powell told the NYT, \"I don't think you should be talking to me directly,\" before ending the call. US intelligence reportedly views Alice Huang as a Chinese intelligence asset, while Beijing has rejected the espionage allegation. Shareholders see concealed risk and have sued; the board initially backed Huang on Sunday but is now reportedly weighing successors.\n\n## What to Watch\n\nThe Wednesday board meeting is the immediate flashpoint — whether Huang stays, is replaced by an interim chief, or departs. Watch the former federal prosecutor's investigation, the FBI probe, the shareholder class action, and any congressional inquiries. Given Nvidia's size, share-price moves and any succession naming will matter well beyond the company. The sources stress this is a developing story, so details may shift.",
-    "concepts": [
-     {
-      "term": "Ministry of State Security",
-      "definition": "China's main civilian intelligence and security agency, responsible for foreign espionage and counter-intelligence.",
-      "context": "US intelligence reportedly believes one woman Huang was involved with was recruited by this agency; Beijing has rejected the claim."
-     },
-     {
-      "term": "class action",
-      "definition": "A lawsuit brought by one or more people on behalf of a larger group who have suffered the same alleged harm.",
-      "context": "Shareholders sued Nvidia and Huang, accusing them of concealing a relationship and the risks it posed to the company."
-     },
-     {
-      "term": "interim CEO",
-      "definition": "A temporary chief executive who runs a company while the board searches for a permanent replacement.",
-      "context": "Bloomberg reported Nvidia's board was considering appointing one while looking for a long-term successor to Huang."
-     },
-     {
-      "term": "export controls",
-      "definition": "Government rules restricting which goods or technologies, such as advanced chips, can be sold to particular countries.",
-      "context": "Huang had become an influential voice in Trump's circle on US AI policy and export controls."
-     }
-    ],
-    "quiz": {
-     "question": "Why are the affair revelations seen as a serious risk to Nvidia rather than just a personal matter?",
-     "options": [
-      "Because the company was being taken private",
-      "Because one woman involved was reportedly identified by US intelligence as a Chinese spy asset, raising national-security and espionage concerns",
-      "Because Nvidia had recently stopped making chips",
-      "Because Huang had already resigned earlier in the year"
-     ],
-     "answer_index": 1,
-     "explanation": "The scandal escalated beyond a personal affair because US intelligence reportedly believed one woman was recruited by China's spy agency, triggering an FBI probe, a board investigation and calls for congressional inquiries."
-    },
-    "background_beginner": "Nvidia is a US technology company that makes computer chips. Co-founder Jensen Huang has run it for over 30 years, growing it from a gaming-chip maker into the world's leading supplier of chips for artificial intelligence (AI) — software that can generate text, images and more. That success made Nvidia worth about $4.2 trillion and made Huang a powerful figure, even advising President Trump on AI policy. The story keeps coming up because Huang has admitted to an affair, and reports link him to two women — one allegedly tied to Chinese intelligence, the other a senior Nvidia executive. US authorities are now investigating, and the board is reportedly considering replacing him.",
-    "impact_score": 78,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "Nvidia's board is reportedly preparing urgent talks about removing co-founder and chief executive Jensen Huang following revelations of two affairs, one allegedly involving a suspected Chinese spy.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "58601233-8eab-5958-9bc7-31547e599829",
-     "72597008-acc3-5015-8369-4d885c3f3663",
-     "9e59aa4a-e3d3-5005-9839-eea8b53dbda6",
-     "e829fe99-b7db-5487-836b-6675ace03fcc"
-    ],
-    "reading_minutes": 1,
-    "created_at": "2026-11-12T01:24:47.968789+00:00",
-    "published_date": "2026-11-12",
-    "has_fulltext": true
-   },
-   {
     "id": "17ff7871-01b5-5209-bfa5-2c4c4d2c7b26",
     "title": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
     "simplified_title": "Microsoft 365 Outage Knocks Out Outlook and Teams Worldwide",
@@ -1973,69 +1800,6 @@
     "has_fulltext": true
    },
    {
-    "id": "40669ebd-f2b0-51f7-b243-bd6a93c1624c",
-    "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-    "simplified_title": "TSMC to Put $1 Billion into Anthropic and OpenAI",
-    "quick_summary": "Chipmaking giant TSMC plans to invest $1 billion split between AI developers OpenAI and Anthropic, deepening the web of ties linking the AI industry.",
-    "simplified_body": "Taiwan Semiconductor Manufacturing Company (TSMC), the world's top contract chipmaker, has had its board approve plans to invest up to $1 billion in two leading AI developers. The money is split evenly: up to $500 million in OpenAI preferred stock set aside for big investors, and another $500 million to buy Anthropic common shares at the price expected when Anthropic lists publicly. The news was reported by Reuters.\n\nThis matters because TSMC isn't just any investor. Its factories physically make most of the chips designed by Nvidia for AI data centres, along with most of Apple's custom chips for iPhones, Macs and a planned AI computing server. By buying stakes in the companies that drive demand for those chips, TSMC is tying itself even more tightly to the AI boom that has already made its contract manufacturing business very profitable.\n\nFor newcomers: an initial public offering (IPO) is when a private company first sells shares to the public. \"Preferred stock\" is a class of shares, often reserved for large investors, that sits ahead of common shares. A \"fab\" is a chip fabrication plant — the factory where chips are actually built.\n\nWhat happens next is uncertain. The Wall Street Journal reported the move may give markets \"a shot of confidence as the artificial-intelligence trade shows signs of strain.\" But analysts also warned that this kind of circular financing — where investors, suppliers and customers are all funding each other — makes it hard to judge the real demand for AI hardware and services.",
-    "why_it_matters": "The deal shows how tightly knitted the AI industry's money has become, and because so much of the world's advanced chipmaking runs through Taiwan, the health of this trade ripples out to markets and tech supply chains everywhere, Australia included.",
-    "deep_analysis": "## Historical Context\n\nTSMC built its reputation as a \"foundry\" — a company that manufactures chips designed by others rather than designing its own. That model has made it indispensable: its fabs physically produce the vast majority of Nvidia's AI data centre chips and most of Apple's custom silicon. Over the past few years, the rush to build AI data centres has poured enormous demand into TSMC's business. Now, rather than simply selling to that boom, TSMC is buying equity stakes in the companies at its centre.\n\n## Multiple Perspectives\n\nThere are two readings of this move. The optimistic one, reflected by The Wall Street Journal, is that a cash-rich, respected manufacturer putting money into OpenAI and Anthropic could give jittery markets \"a shot of confidence as the artificial-intelligence trade shows signs of strain.\" The more cautious reading, also raised in the Journal, is that this is yet more \"circular financing\" — investors, suppliers and customers funding one another in a loop that makes it genuinely hard to tell how much real, independent demand exists for AI hardware and services. When a supplier invests in its own customers, strong \"demand\" can partly be money going in circles.\n\n## What to Watch\n\nWatch Anthropic's expected IPO, since TSMC's $500 million purchase is pegged to that listing price. Keep an eye on whether other suppliers follow TSMC's lead, which would deepen the circular-financing concern. More broadly, TSMC's geographic spread matters: most fabs are in Taiwan, but it also runs fabs in Japan and China, is expanding a US cluster in Arizona, and is building a new fab in Germany — a hedge against the risks of concentration.",
-    "concepts": [
-     {
-      "term": "IPO",
-      "definition": "Initial public offering — the first time a private company sells its shares to the general public, usually to raise money and let early investors cash in.",
-      "context": "TSMC plans to buy Anthropic common shares at the price expected when the company lists publicly through an IPO."
-     },
-     {
-      "term": "preferred stock",
-      "definition": "A class of company shares, often reserved for large investors, that typically ranks ahead of ordinary (common) shares for things like payouts.",
-      "context": "TSMC's $500 million OpenAI investment is in preferred stock set aside for big investors."
-     },
-     {
-      "term": "fab",
-      "definition": "Short for fabrication plant — the highly specialised factory where semiconductor chips are physically manufactured.",
-      "context": "TSMC operates fabs in Taiwan, Japan, China, the US and soon Germany."
-     },
-     {
-      "term": "circular financing",
-      "definition": "When investors, suppliers and customers in an industry all fund each other, making it hard to tell how much genuine outside demand there really is.",
-      "context": "Analysts warned this kind of circular financing makes real AI demand difficult to evaluate."
-     }
-    ],
-    "quiz": {
-     "question": "Why did analysts, as cited by The Wall Street Journal, express caution about TSMC's investment?",
-     "options": [
-      "Circular financing among investors, suppliers and customers makes real AI demand hard to judge",
-      "TSMC is losing money on its chipmaking business",
-      "OpenAI and Anthropic have both cancelled their products",
-      "Taiwan has banned chip exports"
-     ],
-     "answer_index": 0,
-     "explanation": "The Journal reported that when suppliers, customers and investors all fund each other, it becomes difficult to evaluate the genuine market demand for AI hardware and services — a loop sometimes called circular financing."
-    },
-    "background_beginner": "TSMC (Taiwan Semiconductor Manufacturing Company) is the world's biggest \"contract\" chipmaker — it builds the chips that other companies design, including most of Nvidia's AI chips and Apple's custom silicon. OpenAI (maker of ChatGPT) and Anthropic (maker of Claude) are two of the leading artificial intelligence developers, and their tools run on vast data centres packed with those chips. The AI boom has made TSMC very profitable. Now TSMC plans to invest directly in both AI firms. This keeps coming up because the whole industry's money is increasingly interlinked, and people are debating whether AI demand is as strong as it looks or partly inflated by companies funding each other.",
-    "impact_score": 68,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "Chipmaking giant TSMC plans to invest $1 billion split between AI developers OpenAI and Anthropic, deepening the web of ties linking the AI industry.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-12T07:26:03.127088+00:00",
-    "published_date": "2026-11-12",
-    "has_fulltext": true
-   },
-   {
     "id": "2525e4e6-9a2b-5af8-a9a5-00566279fc49",
     "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
     "simplified_title": "Parents Protest Google's AI Push Into Schools",
@@ -2095,5 +1859,5 @@
    }
   ]
  },
- "total_stories": 32
+ "total_stories": 28
 }
