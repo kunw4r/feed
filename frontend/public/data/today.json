@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated_at": "2026-11-12T19:23:04.351128+00:00",
+ "generated_at": "2026-11-13T01:23:04.018974+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -874,6 +874,68 @@
     "has_fulltext": true
    },
    {
+    "id": "b39fc133-5e7e-5c81-a919-21ce46144084",
+    "title": "UK economy grows at fastest rate for more than two years",
+    "simplified_title": "UK Economy Grows at Fastest Pace in Over Two Years",
+    "quick_summary": "The UK economy expanded by 0.7% between July and September, its strongest growth in more than two years, driven largely by AI-linked spending.",
+    "simplified_body": "The UK economy grew by 0.7% in the three months to September, its fastest rate in more than two years and a big jump on the previous quarter. Official figures from the Office for National Statistics (ONS) showed the economy was far more resilient than forecasters expected, despite higher energy prices stemming from the war involving Iran. The services sector — the largest part of the economy, covering things like consultancy and computer programming as well as hotels and restaurants — did the heavy lifting.\n\nThis matters for households, businesses and the government. Computer programming recorded its fastest growth in three years, boosted by cloud computing and artificial intelligence (AI) spending. Prime Minister Andy Burnham called it \"welcome news\", while Chancellor John Healey said it showed \"remarkable resilience\". Even so, the ONS warns households may not feel better off, as prices could soon rise faster than wages.\n\nFor background: the UK's growth has averaged less than 0.1% in the same July–September periods since the pandemic, and forecasters had pencilled in just 0.1–0.3% this time. The figure puts the UK on course to be the second fastest-growing economy in the G7, the group of major economies that also includes the United States, Canada, Japan, Germany, Italy and France.\n\nWhat's next is less rosy. Economists at PwC warn growth will likely slow unless energy markets stabilise, with a sharp rise in energy bills forecast for January. High energy costs have been stoked by the Middle East conflict and Russia's invasion of Ukraine. The AI \"data centre boom\", some caution, could also turn to bust.",
+    "why_it_matters": "Strong growth in a major economy like the UK ripples through global markets and trade, and Australian investors and exporters watch the G7 closely as a gauge of where the world economy is heading.",
+    "deep_analysis": "## Historical Context\n\nThe UK has struggled with sluggish growth since the pandemic, averaging less than 0.1% in the July–September quarter across recent years. Against that backdrop, a 0.7% expansion is striking — a figure not exceeded outside the pandemic since 2017. Forecasters, including the Office for Budget Responsibility (OBR), had expected far weaker numbers, roughly 0.1–0.3%, so the result reset a lot of the gloom surrounding Britain's economy. Adding to the brighter picture, sterling recently reached its highest value since the Brexit referendum.\n\n## Multiple Perspectives\n\nGovernment figures are upbeat: the Prime Minister called it \"welcome news\" and the Chancellor framed it as proof of resilience and a reason for renewed confidence. Independent economists are more measured. The ONS chief economist noted growth might have been even stronger without the Middle East war, and warned households may not feel better off as prices could outpace wages. PwC cautions that growth will likely slow unless energy markets settle, and some observers flag that the AI-driven boom could \"turn to bust\". There's also debate over how much credit government policy deserves when AI investment has been the main driver — the Chancellor argued ministers can \"help or hinder\" business confidence.\n\n## What to Watch\n\nThe final quarter of the year looks tougher. Consumer confidence has already dipped as petrol and energy prices climb, and a sharp rise in energy bills is forecast for January. Construction and private house building remain depressed. The big unknown is the Gulf conflict: any durable settlement could ease oil prices, energy bills, borrowing costs and mortgage rates. Watch whether AI and tech investment holds up, and whether energy markets stabilise.",
+    "concepts": [
+     {
+      "term": "services sector",
+      "definition": "The part of the economy that provides non-physical goods and work, such as consultancy, computer programming, hotels and restaurants, rather than manufacturing physical products.",
+      "context": "It is the largest part of the UK economy and did most of the heavy lifting in this quarter's growth."
+     },
+     {
+      "term": "G7",
+      "definition": "A group of seven major advanced economies — the UK, United States, Canada, Japan, Germany, Italy and France — whose leaders and finance officials coordinate on economic matters.",
+      "context": "The UK is on course to be the second fastest-growing economy in this group."
+     },
+     {
+      "term": "artificial intelligence (AI)",
+      "definition": "Computer systems designed to perform tasks that normally require human intelligence; here, spending on AI and related tech has helped drive economic growth.",
+      "context": "AI-linked spending, along with cloud computing, boosted computer programming to its fastest growth in three years."
+     }
+    ],
+    "quiz": {
+     "question": "What was the main driver behind the UK's surprisingly strong quarterly growth?",
+     "options": [
+      "Strong services growth, especially AI and tech-linked spending",
+      "A boom in manufacturing exports",
+      "A surge in construction and house building",
+      "Falling energy prices across the economy"
+     ],
+     "answer_index": 0,
+     "explanation": "The articles state the services sector did the heavy lifting, with computer programming's fastest growth in three years driven by cloud computing and AI-linked spending. Construction remained depressed and energy prices actually rose."
+    },
+    "background_beginner": "Every few months, the UK government's statistics agency, the Office for National Statistics (ONS), measures how much the economy has grown or shrunk — a figure called Gross Domestic Product, or GDP. Growth signals a healthier economy with more activity, jobs and spending. For years since the pandemic, the UK's growth has been weak, so the numbers get close attention from politicians, businesses and investors. Lately, spending on artificial intelligence and technology has become a big topic because it's helping push growth higher. At the same time, wars in the Middle East and Ukraine have pushed up energy prices, which can drag the economy down — so each new GDP update sparks fresh debate.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "The UK economy expanded by 0.7% between July and September, its strongest growth in more than two years, driven largely by AI-linked spending.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-13T01:25:39.743380+00:00",
+    "published_date": "2026-11-13",
+    "has_fulltext": true
+   },
+   {
     "id": "eebd04f0-13a1-5b21-800e-dbd5e174bf55",
     "title": "US Army soldier suspected of spying for Russia arrested in UK",
     "simplified_title": "US Army soldier arrested in UK over alleged Russian spying",
@@ -1398,6 +1460,130 @@
     "reading_minutes": 4,
     "created_at": "2026-11-12T07:25:34.857465+00:00",
     "published_date": "2026-11-12",
+    "has_fulltext": true
+   },
+   {
+    "id": "783190bf-3902-5cc7-8337-d1fa2123be80",
+    "title": "What we know about Brooklyn building collapse that killed eight people",
+    "simplified_title": "Eight killed as Brooklyn building collapses into construction pit",
+    "quick_summary": "A three-storey Brooklyn apartment building collapsed into a neighbouring construction site, killing eight people and injuring 18 more.",
+    "simplified_body": "On Wednesday afternoon, a three-storey building from the 1930s at 1321 Flatbush Avenue in Brooklyn, New York, suddenly collapsed into an excavation pit next door, where construction crews were preparing foundations for a new development. Witnesses heard a loud \"boom\" and saw dust fill the air. Eight people were killed — six adults and two children — and 18 more were injured, including four firefighters. One person remains in a critical condition.\n\nThe victims were residents and workers, described by Mayor Zohran Mamdani as \"friends and neighbours\" and immigrants from countries including Mexico, Colombia, Ecuador, Guatemala, Guinea and Trinidad. Two construction workers were among the dead. One, 22-year-old Ecuadoran Gabriel Siguencia, was working overtime to support his wife and son back home. The youngest victim was reportedly aged nine. A six-months pregnant woman was pulled alive from the rubble.\n\nThe cause is not yet clear. Officials say developers had active permits for excavation and foundation work. France 24 reports the construction site had been issued a stop-work order in April over dangerous demolition conditions, yet work continued, earning a $10,000 fine. No link has been established between those violations and the collapse. The head of the New York Department of Buildings said no building-code violations had been reported at the collapsed building itself beforehand.\n\nMore than 250 firefighters searched overnight using drones, sniffer dogs and cranes before declaring the recovery complete on Thursday. Brooklyn District Attorney Eric Gonzalez and the mayor have promised a thorough investigation into whether criminal conduct contributed, and are now checking around 100 other sites linked to the same developers. Some locals voiced anger at gentrification and development in the mostly Black neighbourhood of Flatbush.",
+    "why_it_matters": "One of the deadliest building collapses in recent New York history raises hard questions about construction safety and oversight — a concern that resonates anywhere rapid development sits beside old housing, including Australia's booming cities.",
+    "deep_analysis": "## Historical Context\n\nBuilding collapses in dense cities often trace back to a mix of ageing structures and nearby construction work. The collapsed building dated from the 1930s and stood right beside an active excavation pit, where crews were digging foundations for a new 64-unit development with a ground-floor grocery store. Excavation near old buildings can undermine their foundations if not carefully managed, which is one reason stop-work orders and permits exist. France 24 reports a stop-work order was issued in April over dangerous demolition conditions, but work continued. For long-time residents like Patricia Starek, who lived through 9/11 in Flatbush, the sudden surge of helicopters and emergency crews stirred deep fears about the basic assumption that floors and stairs stay put beneath you.\n\n## Multiple Perspectives\n\nCity officials, led by Mayor Zohran Mamdani, have emphasised accountability, promising to investigate every entity involved and to hold anyone responsible \"fully accountable\". The Department of Buildings notes no code violations were reported at the collapsed building itself, while confirming the developer — identified as Robert Fischman — has ties to at least 100 other sites now being checked. Residents, meanwhile, pointed to development pressure: businessman Winston Bowen told AFP it was \"all about making money. They didn't care about the danger.\" Grieving families focused on the human cost — a worker's hysterical widow, a man searching hospitals for two nephews. Sources broadly agree on the facts; the open question is causation, which remains officially undetermined.\n\n## What to Watch\n\nThe key unknowns are what caused the collapse and whether the earlier stop-work order or excavation work played a role. Watch for the Department of Buildings' findings, the District Attorney's decision on whether to file criminal charges, and the results of the sweep across the roughly 100 linked construction sites. Victim identifications and any regulatory reforms on excavation near occupied buildings will also follow.",
+    "concepts": [
+     {
+      "term": "excavation",
+      "definition": "Digging into the ground, often to prepare and lay the foundations of a new building.",
+      "context": "Crews were excavating next to the old building to prepare foundations for a new development."
+     },
+     {
+      "term": "stop-work order",
+      "definition": "An official instruction forcing a construction site to halt work, usually over a safety or code concern.",
+      "context": "France 24 reports one was issued in April over dangerous demolition conditions, but work continued."
+     },
+     {
+      "term": "gentrification",
+      "definition": "When wealthier people and new development move into a lower-income neighbourhood, often displacing long-time residents.",
+      "context": "Some Flatbush locals voiced anger about it after the collapse."
+     }
+    ],
+    "quiz": {
+     "question": "What do officials say about the cause of the Brooklyn building collapse?",
+     "options": [
+      "It was ruled an accidental gas explosion",
+      "The cause is not yet clear and is still being investigated",
+      "The building's 1930s age was officially blamed",
+      "It was confirmed to be caused by the neighbouring excavation work"
+     ],
+     "answer_index": 1,
+     "explanation": "Officials repeatedly said the cause was not immediately clear. While there were active excavation permits and an earlier stop-work order, no link to the collapse has been established, and investigations continue."
+    },
+    "background_beginner": "Flatbush is a diverse, mostly Black neighbourhood in Brooklyn, one of New York City's boroughs, home to many immigrant communities. On a Wednesday afternoon, an old three-storey apartment building there suddenly collapsed into a pit next door where workers were digging foundations for a new building. Eight people died and 18 were hurt. New York's mayor, Zohran Mamdani, and local prosecutors are now investigating whether anyone broke the law or ignored safety rules. The story keeps coming up because it touches ongoing tensions over rapid city development, construction safety near ageing homes, and the risks faced by immigrant construction workers.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4351/live/bf5dd100-decb-11f1-86d5-71a9f29d1c99.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "A three-storey Brooklyn apartment building collapsed into a neighbouring construction site, killing eight people and injuring 18 more.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o"
+     },
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/americas/20261112-eight-killed-including-two-children-in-new-york-building-collapse"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-11-13T01:25:41.075591+00:00",
+    "published_date": "2026-11-13",
+    "has_fulltext": true
+   },
+   {
+    "id": "e86112a1-7248-59f8-9886-b60885b614b1",
+    "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+    "simplified_title": "Cancer Society Now Urges Routine Prostate Screening For All Men",
+    "quick_summary": "The American Cancer Society has reversed its earlier stance and now recommends all men get routine PSA blood tests for prostate cancer, starting at age 50 (or 45 for higher-risk men).",
+    "simplified_body": "The American Cancer Society (ACS) has updated its prostate cancer screening guidelines and, for the first time, is recommending that all men get routinely tested using a prostate-specific antigen (PSA) blood test. Under the new guidance released on a Thursday, men at average risk should have a PSA test every two years from age 50 to 69.\n\nMen at higher risk are advised to start earlier, at 45. That includes all Black men, who have higher rates of prostate cancer and are told to test yearly. Non-Black men should also test yearly from 45 if a close relative was diagnosed before age 65, or if more than one relative has had the disease. If only one relative was diagnosed at 65 or older, testing starts at 45 but only every two years. Men aged 70 to 74 should talk to their doctor about continuing, and those 75 and up aren't recommended to screen.\n\nThis is a real shift. The previous ACS guidelines, from 2010, made no universal recommendation and instead suggested men at 50 use \"shared-decision making\" with their doctor. That older approach was similar to advice from the US Preventive Services Task Force (USPSTF), a federal panel that reviews medical evidence.\n\nThe USPSTF is currently working on its own updated prostate recommendation. The article notes the panel was recently overhauled by Health Secretary Robert F. Kennedy Jr., and reports that new members have conflicts of interest — so it's unclear how federal advice will land next.",
+    "why_it_matters": "Prostate cancer screening guidance shapes what doctors recommend to millions of men, and major shifts like this often ripple into how screening is discussed in countries like Australia too.",
+    "deep_analysis": "## Historical Context\n\nFor years, prostate screening has been one of the most debated topics in preventive medicine. The core tension is that the PSA test can catch cancers early, but it also flags many slow-growing cancers that may never cause harm — leading to anxiety, further tests and treatments with real side effects. That is why the ACS's 2010 guidelines, and similar advice from the USPSTF, leaned on \"shared-decision making\" rather than blanket testing. The new ACS recommendation to screen all men marks a clear departure from that cautious era.\n\n## Multiple Perspectives\n\nSupporters of broader screening point to the clear fact that earlier detection can save lives, and that higher-risk groups — notably Black men, who face higher rates — benefit from starting sooner. Sceptics of universal screening have long worried about overdiagnosis and overtreatment, which is exactly what the older shared-decision approach tried to balance. Adding uncertainty, the article notes the federal USPSTF panel was recently overhauled by Health Secretary Robert F. Kennedy Jr., with reports of conflicts of interest among new members — so the credibility of forthcoming federal guidance is itself contested.\n\n## What to Watch\n\nThe big open question is what the USPSTF's updated recommendation will say, and whether it aligns with or diverges from the ACS. Watch for how professional bodies and insurers respond, and whether concerns about the reshaped federal panel affect public trust in whatever guidance emerges.",
+    "concepts": [
+     {
+      "term": "PSA",
+      "definition": "Prostate-specific antigen — a substance measured by a blood test used to screen for prostate cancer; higher levels can signal a problem.",
+      "context": "The central tool in the new screening guidelines."
+     },
+     {
+      "term": "shared-decision making",
+      "definition": "An approach where a patient and doctor weigh the pros and cons together rather than following a blanket rule.",
+      "context": "This was the older ACS approach the new guidelines move away from."
+     },
+     {
+      "term": "USPSTF",
+      "definition": "US Preventive Services Task Force — a federal panel that reviews evidence and issues recommendations on preventive care.",
+      "context": "Its separate prostate recommendation is being updated amid questions about the panel's makeup."
+     }
+    ],
+    "quiz": {
+     "question": "What is the main change in the American Cancer Society's new prostate cancer guidelines?",
+     "options": [
+      "It banned the PSA test entirely",
+      "It now recommends routine PSA testing for all men rather than case-by-case decisions",
+      "It raised the starting age for screening to 75",
+      "It only applies to men over 80"
+     ],
+     "answer_index": 1,
+     "explanation": "The key shift is that the ACS now recommends all men get routinely screened with a PSA test, departing from its 2010 guidance that relied on shared-decision making with no universal recommendation."
+    },
+    "background_beginner": "Prostate cancer is one of the most common cancers in men, and doctors can look for it with a simple blood test called a PSA test. The American Cancer Society (ACS) is a major non-profit that issues health guidelines many doctors follow. For over a decade, experts argued about whether every man should be tested, because the test can catch harmless cancers and lead to unnecessary treatment. Earlier guidance left the choice up to each man and his doctor. Now the ACS has flipped to recommending routine testing for all men, reigniting a long-running debate about the right balance between catching cancer early and avoiding over-treatment.",
+    "impact_score": 62,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "The American Cancer Society has reversed its earlier stance and now recommends all men get routine PSA blood tests for prostate cancer, starting at age 50 (or 45 for higher-risk men).",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-13T01:25:12.050448+00:00",
+    "published_date": "2026-11-13",
     "has_fulltext": true
    },
    {
@@ -2076,6 +2262,72 @@
     "has_fulltext": true
    },
    {
+    "id": "17ff7871-01b5-5209-bfa5-2c4c4d2c7b26",
+    "title": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
+    "simplified_title": "Microsoft 365 Outage Knocks Out Outlook and Teams Worldwide",
+    "quick_summary": "A global Microsoft 365 outage left tens of thousands of users unable to access Outlook, Teams and Copilot before the company began slowly restoring service.",
+    "simplified_body": "On Thursday, Microsoft hit a major global outage across its Microsoft 365 suite of software, including the Outlook email client, the Teams messaging app, Word, Excel, PowerPoint, and the AI assistant Copilot. The outage tracking site Downdetector showed reports peaking at nearly 130,000 to 140,000 around 18:00 UTC (Coordinated Universal Time, also written GMT). Many users said they couldn't send, receive or even load their emails.\n\nThis affected ordinary workers and businesses that rely on these tools every day, so a glitch quickly becomes lost productivity. The ripple reached further, too: both OpenAI and Anthropic reported the outage was breaking the Microsoft 365 connector that links their chatbots, ChatGPT and Claude, to Microsoft services. Electric truck maker Workhorse Group even pushed back its quarterly results, citing the disruption.\n\nMicrosoft explained that a batch of its servers became \"unexpectedly unavailable\" after failing automated health checks, which dumped extra load onto the servers still running and overwhelmed them — a cascading failure. The company pointed to recent configuration updates as a likely cause and paused all deployments while it investigated. This followed an Azure cloud outage the previous month.\n\nBy 11:06pm UTC, Microsoft said a portion of affected servers had returned to service and stayed stable, and it had shifted traffic to alternative pathways. It warned recovery would be gradual as users reconnect, and did not say when everything would be fully restored.",
+    "why_it_matters": "When a single provider like Microsoft stumbles, workplaces everywhere grind to a halt — a reminder for Aussie businesses leaning on cloud services to keep a backup option handy, as one RMIT expert urged.",
+    "deep_analysis": "## Historical Context\n\nBig cloud outages have become a recurring feature of modern work. Microsoft itself reported an Azure cloud platform outage just the previous month that hit its productivity software and industries worldwide. RMIT University associate professor Mark Gregory drew a direct comparison to the configuration issue that brought down Optus's network in Australia in 2023 — a reminder that these \"network layer\" failures aren't unique to one company. The pattern is familiar: a small change, a cascade, and a long hunt for the root cause.\n\n## Multiple Perspectives\n\nMicrosoft framed the event as a technical fault — servers failing automated health checks and straining the rest — and stressed it was \"aggressively pursuing all pathways to reduce impact.\" Independent trackers like Downdetector gave the scale, with reports peaking near 130,000–140,000 (the exact peak varies slightly between sources). Gregory offered the critical view: companies should invest more in testing environments before pushing configuration changes live, and businesses should keep backup options — he noted many people keep a Gmail account for exactly this reason. AI firms OpenAI and Anthropic framed it as an upstream problem hitting their Microsoft connectors.\n\n## What to Watch\n\nMicrosoft didn't state when services would be fully restored, so the immediate question is how smoothly the gradual recovery goes as users reconnect. Longer term, watch whether Microsoft confirms the configuration update as the root cause, and whether a second major outage in as many months prompts customers to rethink their reliance on a single provider.",
+    "concepts": [
+     {
+      "term": "configuration updates",
+      "definition": "Changes to the settings that control how servers and networks operate; a faulty one can ripple across a whole system.",
+      "context": "Microsoft pointed to recent configuration updates as the likely cause of its servers becoming unavailable."
+     },
+     {
+      "term": "health checks",
+      "definition": "Automated tests a system runs to confirm its servers are working properly; servers that fail can be pulled out of service.",
+      "context": "Microsoft's servers became unavailable after failing automated health checks, overloading the rest."
+     },
+     {
+      "term": "connector",
+      "definition": "A piece of software that links one service to another so they can share data, such as joining a chatbot to Microsoft's apps.",
+      "context": "OpenAI and Anthropic said the outage broke the Microsoft 365 connector linking their chatbots to Microsoft services."
+     }
+    ],
+    "quiz": {
+     "question": "According to Microsoft, what caused the servers still running to become overwhelmed?",
+     "options": [
+      "A sudden surge in overall internet traffic worldwide",
+      "A power failure at Microsoft's main data centre",
+      "A batch of servers going unavailable, shifting their load onto the rest",
+      "A cyberattack targeting Outlook and Teams"
+     ],
+     "answer_index": 2,
+     "explanation": "Microsoft said the elevated load wasn't from an overall traffic increase but from many servers being unexpectedly unavailable, which shifted their load onto the remaining infrastructure and overwhelmed it."
+    },
+    "background_beginner": "Microsoft 365 is a bundle of software that millions of workplaces use every day — Outlook for email, Teams for chat and calls, plus Word, Excel and PowerPoint — all run partly through Microsoft's \"cloud\" servers rather than just your own computer. When those servers have a problem, huge numbers of people lose access at once. On Thursday, one such outage hit globally, with tens of thousands reporting issues. These disruptions keep cropping up because so many businesses depend on a handful of cloud providers, so a single technical fault — often a configuration change gone wrong — can spread far and wide before engineers track it down.",
+    "impact_score": 72,
+    "image_url": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=1920&quality=85&auto=format&fit=max&s=e1205e1648cbbe0e93dadc7a43e0aa38",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "A global Microsoft 365 outage left tens of thousands of users unable to access Outlook, Teams and Copilot before the company began slowly restoring service.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-13T01:25:15.492229+00:00",
+    "published_date": "2026-11-13",
+    "has_fulltext": true
+   },
+   {
     "id": "40669ebd-f2b0-51f7-b243-bd6a93c1624c",
     "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
     "simplified_title": "TSMC to Put $1 Billion into Anthropic and OpenAI",
@@ -2198,5 +2450,5 @@
    }
   ]
  },
- "total_stories": 33
+ "total_stories": 37
 }
