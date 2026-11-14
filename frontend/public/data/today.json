@@ -1,8 +1,71 @@
 {
- "date": "2026-11-14",
- "generated_at": "2026-11-14T07:23:04.222968+00:00",
+ "date": "2026-11-15",
+ "generated_at": "2026-11-14T19:23:03.977356+00:00",
  "regions": {
   "OCEANIA": [
+   {
+    "id": "26b7de81-f713-5451-b08e-ec54a4f25036",
+    "title": "Do Australians actually want cheaper housing? We're finding out fast",
+    "simplified_title": "Australia's House Prices Are Falling. Do We Actually Want That?",
+    "quick_summary": "Australian house prices are dropping fast after new tax changes and high interest rates, and the country is now testing whether people really want cheaper homes.",
+    "simplified_body": "Australia's housing market is turning quickly. The median national house price is 5.6 per cent below its March peak, apartments are down 3.9 per cent, and this week brought a record 15 per cent dip in new home loans between June and September. Auction clearance rates have fallen below 50 per cent, compared with a long-run average of 60 per cent.\n\nTwo big changes are driving this. The federal Labor government reworked negative gearing (a tax break letting investors deduct rental losses) and capital gains tax (CGT, the tax on profit when you sell an asset), reframing them as a leg up for homebuyers over investors. On top of that sit the highest interest rates in 18 years. Reserve Bank governor Michele Bullock noted investors are pulling back far more than in past rate cycles, suggesting the tax changes are doing their job. Investor loans fell 31 per cent, against just 5 per cent for owner-occupiers.\n\nThis creates a tricky politics. Cheaper homes for young buyers mean less valuable homes for existing owners. Treasury had predicted prices would still grow, just 2 per cent slower, and ministers once insisted they didn't want prices to fall. But this week Housing Minister Clare O'Neil embraced the shift, saying the market had been \"geared towards investors for a generation\". Critics like Liberal spokesperson Andrew Bragg call fewer loans bad news.\n\nNext, Labor governments in Victoria and New South Wales face voters over high-density \"activity centre\" plans. The Liberals are betting people will dislike the cure more than the disease.",
+    "why_it_matters": "For millions of Australians, this is the first real test of whether the nation wants genuinely cheaper housing, since every dollar knocked off prices helps first home buyers but dents the wealth of existing owners.",
+    "deep_analysis": "## Historical Context\n\nAustralia's housing affordability debate has simmered for years, with leaders long accused of paying only \"lip service\" to the problem. The piece traces a turning point to a landmark national agreement three years ago to build 1.2 million homes in five years — a target the article says is likely doomed, but which mattered because a target existed at all. Last year's economic roundtable then helped Treasurer Jim Chalmers revive Labor's older negative gearing policy, reframing it as help for buyers rather than investors. For a generation, the market was, in O'Neil's words, \"geared towards investors\".\n\n## Multiple Perspectives\n\nThere's a genuine split here. The government now frames falling prices as a win for homebuyers, pointing to Commonwealth Bank chief Matt Comyn's claim that first home buyers' share of loan applications doubled last month. Critics divide into two camps: those like podcaster Mark Bouris who warn of \"a serious structural hit to people's wealth\", and those like Liberal Andrew Bragg who say the issue is too little lending, not prices. On supply, state oppositions in Victoria and NSW say they back more housing but want local councils to have a veto. Pro-supply campaigner Peter Tulip counters that councils answer only to existing residents, not future ones, so the \"consultation\" argument quietly means fewer homes.\n\n## What to Watch\n\nWatch the Victorian and NSW elections, where high-density \"activity centre\" plans go to voters. Watch whether price falls deepen — some analysts predict double-digit declines — and whether a falling market chills new supply. And watch whether Tulip's numbers game holds: if affordability policies really work, Labor could lose wealthy pockets like Kew and Crows Nest but win more broadly.",
+    "concepts": [
+     {
+      "term": "negative gearing",
+      "definition": "A tax arrangement that lets property investors deduct losses on a rental (where costs exceed rent) against their other income, reducing their tax bill.",
+      "context": "The government reworked this long-standing investor tax break, reframing it as help for homebuyers rather than investors."
+     },
+     {
+      "term": "capital gains tax",
+      "definition": "A tax on the profit made when you sell an asset such as an investment property for more than you paid.",
+      "context": "Labor changed this alongside negative gearing to shift the market away from investors."
+     },
+     {
+      "term": "activity centres",
+      "definition": "Designated suburban hubs where governments allow more high-density and medium-density housing to boost supply.",
+      "context": "Victoria designated several Melbourne hubs as activity centres, sparking local opposition to high-rise towers."
+     },
+     {
+      "term": "auction clearance rate",
+      "definition": "The share of properties that successfully sell at auction, used as a quick gauge of market strength.",
+      "context": "It has plunged below 50 per cent, well under its long-run average of 60 per cent, signalling a cooling market."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the article say falling house prices are politically tricky for the government?",
+     "options": [
+      "The Reserve Bank is legally required to keep prices rising",
+      "Falling prices automatically push interest rates higher",
+      "Cheaper homes for young buyers mean less valuable homes for people who already own",
+      "Lower prices would breach the national agreement to build 1.2 million homes"
+     ],
+     "answer_index": 2,
+     "explanation": "The article's central tension is that making homes cheaper for first home buyers reduces the wealth of existing owners, so there's no painless path to affordability."
+    },
+    "background_beginner": "Australia has long struggled with housing affordability — homes have become so expensive that many younger people fear they'll never buy one. The federal Labor government, led on this issue by Treasurer Jim Chalmers and Housing Minister Clare O'Neil, has tried two things: building more homes and changing tax rules (negative gearing and capital gains tax) that favoured property investors. Combined with the highest interest rates in 18 years, these moves have started pushing prices down. That's divisive, because cheaper homes help first home buyers but reduce the wealth of existing owners. The debate keeps flaring because almost everyone is affected — owners, renters and would-be buyers alike.",
+    "impact_score": 72,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/8c40af85a6a1f197e4bbebd31f7848f8?impolicy=wcms_watermark_news&cropH=1828&cropW=3249&xPos=0&yPos=211&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Australian house prices are dropping fast after new tax changes and high interest rates, and the country is now testing whether people really want cheaper homes.",
+    "tier": "LOCAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-14/do-australians-actually-want-cheaper-housing/107378812"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 6,
+    "created_at": "2026-11-14T19:26:02.020753+00:00",
+    "published_date": "2026-11-15",
+    "has_fulltext": true
+   },
    {
     "id": "b5421d0c-5cf9-5c9b-92f5-34b2a77d3354",
     "title": "Vanessa delivers pizza after work to pay rent. Many Australians are ‘scrambling’ as cracks appear in the economy",
@@ -67,129 +130,78 @@
     "has_fulltext": true
    },
    {
-    "id": "223de71e-1439-5e0e-b3af-347fac6deb9f",
-    "title": "Worried doctors urge action on frequent shortages of critical drugs",
-    "simplified_title": "Doctors sound alarm over repeated shortages of critical medicines",
-    "quick_summary": "An ABC analysis found dozens of important Australian medicines keep running short, exposing a fragile supply chain that experts warn could get worse.",
-    "simplified_body": "New analysis by the ABC has tracked medicine shortages in Australia going back to 2015, and the picture isn't pretty. Of 40 medications recently in \"critical\" shortage — meaning there's a risk of serious or life-threatening harm and no suitable replacement — more than half have run short before, and about a third have hit critical shortage multiple times. Two standouts, Bicillin L-A (a long-lasting penicillin) and Creon (a digestion aid), have each had six recorded shortages. Australia's emergency Bicillin supplies ran out in September.\n\nThis affects everyday patients as well as those with rare conditions. The list includes the EllaOne morning-after pill, Lyclear scabies cream, the only Q fever vaccine (due to run out this week), plus recent shortages of EpiPens, attention deficit hyperactivity disorder (ADHD) medications and weight-loss drugs like Ozempic. Doctors say switching medicines unexpectedly is distressing for patients, and alternatives aren't always as good — or available at all.\n\nHere's the background. Australia imports 90 per cent of its medicines but makes up only about 2 per cent of the global market, making it an \"unattractive\" place to supply. Shortages are reported to the Therapeutic Goods Administration (TGA), and mandatory reporting began in 2019. The main causes are manufacturing problems, raw material issues and rising global demand.\n\nExperts want a national List of Essential Medicines — as used by the World Health Organization (WHO), China, India and the European Union — to better coordinate responses, plus more local manufacturing with regional allies. The TGA says it can't force private companies to keep supplying, but is developing reforms. With growing global instability, researchers warn shortages may become more frequent.",
-    "why_it_matters": "This hits Australians directly: everyday scripts, life-saving injections and vaccines are all affected, and the country's heavy reliance on imported medicines leaves it exposed when global supply chains wobble.",
-    "deep_analysis": "## Historical Context\n\nAustralia has reported medicine shortages on the TGA website for years, but mandatory reporting from suppliers only began in 2019 — the same time the \"critical\" impact rating replaced the older \"high\" rating (the two are broadly similar but not directly comparable). The ABC's analysis stretches back to 2015, revealing that many shortages aren't one-offs but recurring problems. Some drugs have spent years in one continuous shortage rather than repeatedly dipping in and out. Underlying all of this is a structural reality: Australia imports 90 per cent of its medicines while representing just 2 per cent of the global pharmaceutical market, leaving it low on the priority list when global supplies tighten.\n\n## Multiple Perspectives\n\nDoctors and pharmacists, including the Royal Australasian College of Physicians and university researchers, describe \"great frustration\" and real patient harm when medicines must be switched unexpectedly. Supply-chain researcher Peter Coomber argues the system \"lacks resilience\" and wants a national essential medicines list plus local manufacturing. The TGA acknowledges the impact but stresses each shortage is \"unique\", and that it cannot compel private companies to keep supplying a medicine. Industry groups point elsewhere: Medicines Australia blames \"unforeseen supply chain disruption\" and government \"underinvestment\" in the Pharmaceutical Benefits Scheme (PBS), while the generics body notes supply resilience \"is not free\" even as Australia has driven down medicine costs.\n\n## What to Watch\n\nA recent Senate inquiry considered strengthening mandatory reporting of shortages and discontinuations, and some submissions pushed for \"sovereign capacity\" — the ability to make essential medicines domestically. Watch whether governments commit to a national List of Essential Medicines, invest in local or regional manufacturing, and whether the TGA's promised reforms materialise. The near-term flashpoint is the Q fever vaccine, due to run out this week.",
+    "id": "97980620-6ecf-5db6-a5d3-e231d0392665",
+    "title": "Albanese is caught between climate ambition and political reality at COP31",
+    "simplified_title": "Albanese Spruiks Climate Action But Dodges Fossil Fuels at COP31",
+    "quick_summary": "At the COP31 climate summit in Türkiye, Australia pushed hard to champion its Pacific neighbours while sidestepping the awkward question of its own fossil fuel exports.",
+    "simplified_body": "At COP31 — the United Nations climate change conference, this year held in Antalya, Türkiye — Prime Minister Anthony Albanese flew in for a two-and-a-half-day visit built around lifting up Pacific voices. He stood alongside leaders from Tuvalu, Palau and others, and talked up Australia's help with climate funding, including the Pacific Resilience Facility, a new fund worth A$100 million (US$68 million). What he notably didn't say was \"fossil fuels\" — an omission that stood out because he spoke right after UN secretary-general António Guterres blasted developed nations for expanding fossil fuel production.\n\nThis matters because Australia is a huge coal and gas player: the second largest exporter of thermal coal, the biggest exporter of coal for steelmaking, and responsible for a fifth of the world's seaborne LNG (liquefied natural gas). Climate Change Minister Chris Bowen is co-president of the negotiations, so Australia's credibility is on the line. Research groups Germanwatch and New Climate Institute ranked Australia a \"very low\" performer on climate policy.\n\nFor a newcomer: COP is the annual meeting where countries negotiate how to cut emissions. The tension is that Australia wants to lead on climate while still selling lots of coal and gas. Domestic politics makes it harder — One Nation is level with Labor in some polls, and the Liberal opposition wants to scrap net zero targets.\n\nBack home, the debate shrank to a $32,000 coffee cart at Australia's pavilion, and a hot-mic moment caught Albanese and Bowen joking about phones and body parts. Next week's talks will test whether Bowen can turn pragmatic diplomacy into real progress.",
+    "why_it_matters": "For Australia, climate diplomacy is now also foreign policy — winning trust in the Pacific is about strategic influence as much as emissions, and our Pacific neighbours are treating us as the \"big brother\" they look to.",
+    "deep_analysis": "## Historical Context\n\nCOP stands for \"Conference of the Parties\" — the yearly United Nations climate summit where nations haggle over emissions pledges. This year's COP31 landed in Antalya, Türkiye, after Australia lost its bid to host it in Adelaide. The core tension on display is an old one: Australia has long been both a climate advocate and one of the world's biggest fossil fuel exporters. Guterres, delivering his final COP speech as secretary-general, sharpened the point by saying developed countries \"cannot keep expanding fossil fuel production while claiming to be committed to 1.5 degrees\" — moments before Albanese took the stage.\n\n## Multiple Perspectives\n\nAlbanese and Bowen defend a \"staged transition,\" arguing that reliable, affordable energy matters too, and that even partial electrification counts as progress. Pacific leaders back them: Palau's Surangel Whipps Jr and Tuvalu's Dr Maina Talia praised Australia's presence, calling it a \"big brother.\" Critics disagree sharply — Germanwatch and the New Climate Institute ranked Australia \"very low,\" and climate advocates are frustrated Albanese wouldn't even say \"fossil fuels.\" Domestically, the Coalition's Angus Taylor and Jane Hume attacked the trip's cost, while former Liberal PM Malcolm Turnbull called News Corp's coffee-cart coverage \"bizarre\" and blamed a \"culture war.\" Matt Kean of the Climate Change Authority says Albanese is walking a fine line \"successfully.\"\n\n## What to Watch\n\nNext week's negotiations are the real test, with a push for countries to draw up roadmaps to transition away from fossil fuels — something Brazil failed to get consensus on last year and is now pursuing voluntarily with a dozen-plus nations. Watch whether Bowen, as co-president, backs that roadmap or keeps steering clear. Also watch the home front, where cost-of-living politics and One Nation's rise keep pulling Labor toward caution.",
     "concepts": [
      {
-      "term": "critical",
-      "definition": "A TGA shortage rating meaning there's a risk of serious or life-threatening harm, with no suitable replacement available on the Australian market.",
-      "context": "Used to flag the most severe medicine shortages, introduced in 2019 alongside mandatory reporting."
+      "term": "COP31",
+      "definition": "The 31st annual United Nations Conference of the Parties — the global summit where countries negotiate action on climate change. This one was held in Antalya, Türkiye.",
+      "context": "Chris Bowen is co-president of the COP31 negotiations, putting Australia's credibility front and centre."
      },
      {
-      "term": "Therapeutic Goods Administration (TGA)",
-      "definition": "Australia's government regulator that oversees medicines and publishes shortage information.",
-      "context": "Companies have been required to report shortages to the TGA since 2019."
+      "term": "fossil fuels",
+      "definition": "Energy sources like coal, oil and gas that release greenhouse gases when burned, driving climate change.",
+      "context": "Albanese pointedly avoided saying 'fossil fuels' in his speech, despite Australia being a major coal and gas exporter."
      },
      {
-      "term": "Pharmaceutical Benefits Scheme (PBS)",
-      "definition": "The Australian government scheme that subsidises the cost of many prescription medicines.",
-      "context": "Industry groups cite PBS pricing and investment as factors influencing whether companies supply Australia."
+      "term": "thermal coal",
+      "definition": "Coal burned in power stations to generate electricity, as opposed to coal used for making steel.",
+      "context": "Australia is the world's second largest exporter of thermal coal."
      },
      {
-      "term": "List of Essential Medicines",
-      "definition": "A curated list of the most important medicines a country needs, used to coordinate supply and responses to shortages.",
-      "context": "Maintained by the WHO and countries like China and India; experts want Australia to adopt one nationally."
+      "term": "net zero",
+      "definition": "A target of cutting greenhouse gas emissions so that any remaining emissions are balanced by removals, reaching no net addition to the atmosphere.",
+      "context": "The Liberal opposition wants to scrap net zero climate goals, complicating Labor's position."
      }
     ],
     "quiz": {
-     "question": "Why do experts say Australia is especially vulnerable to medicine shortages?",
+     "question": "Why was Albanese's decision not to say 'fossil fuels' seen as so awkward at COP31?",
      "options": [
-      "It bans the import of generic medicines",
-      "It manufactures all its own medicines but can't export them",
-      "It imports 90 per cent of medicines but is only about 2 per cent of the global market, making it an unattractive supplier destination",
-      "It has no system for reporting shortages"
+      "He had promised Pacific leaders he would mention them",
+      "Chris Bowen had already used up the speaking time",
+      "He spoke right after the UN chief criticised nations for expanding fossil fuel production, and Australia is a major coal and gas exporter",
+      "The word was banned from the summit by the Turkish hosts"
      ],
      "answer_index": 2,
-     "explanation": "Australia relies on imports for 90 per cent of its medicines yet makes up only about 2 per cent of the global market, so suppliers see it as a low-priority, 'unattractive' market when supplies get tight."
+     "explanation": "Guterres had just blasted developed countries for expanding fossil fuel production, and Australia — a huge exporter of coal and LNG — spoke next without naming fossil fuels at all, highlighting the contradiction."
     },
-    "background_beginner": "Medicines sometimes run short when there aren't enough being made or supplied to meet demand. In Australia, the Therapeutic Goods Administration (TGA) — the government's medicine regulator — tracks these shortages and, since 2019, companies must report them. The problem keeps coming up because Australia makes very few of its own medicines, importing about 90 per cent from overseas, and it's a small market globally. When factories hit problems or global demand jumps, Australia can miss out. The ABC analysed years of data and found many important drugs have run short repeatedly. Doctors, pharmacists and researchers are now urging governments to build local manufacturing and create a national list of essential medicines.",
-    "impact_score": 72,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/bce9b592617140e6cb5689254b6eee7f?impolicy=wcms_watermark_news&cropH=1414&cropW=2514&xPos=304&yPos=338&width=862&height=485&imformat=generic",
+    "background_beginner": "COP is the United Nations' yearly climate summit, where almost every country sends officials to negotiate how to cut the pollution that heats the planet. This year's event, COP31, is in Antalya, Türkiye. Australia's Prime Minister Anthony Albanese and Climate Minister Chris Bowen went to push Australia as a climate leader and to champion Pacific island nations like Tuvalu, which face rising seas. The sticking point: Australia is also one of the world's biggest coal and gas exporters, so it gets accused of hypocrisy. This tension keeps coming up because cutting emissions and selling fossil fuels pull in opposite directions, and climate has become a heated political fight back home in Australia too.",
+    "impact_score": 58,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/76b4289b03b1fe833e76d7709b345934?impolicy=wcms_watermark_news&cropH=1341&cropW=2384&xPos=0&yPos=124&width=862&height=485&imformat=generic",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "An ABC analysis found dozens of important Australian medicines keep running short, exposing a fragile supply chain that experts warn could get worse.",
+    "description": "At the COP31 climate summit in Türkiye, Australia pushed hard to champion its Pacific neighbours while sidestepping the awkward question of its own fossil fuel exports.",
     "tier": "LOCAL",
-    "category": "HEALTH",
+    "category": "ENVIRONMENT_CLIMATE",
     "sources": [
      {
       "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-13/repeated-critical-medicine-shortages-new-analysis/107242432"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 7,
-    "created_at": "2026-11-13T07:25:23.198255+00:00",
-    "published_date": "2026-11-13",
-    "has_fulltext": true
-   },
-   {
-    "id": "94ea49c4-a7c4-5360-a23b-dc996e8d184c",
-    "title": "AI disaster for banks, super funds and insurers only a matter of time",
-    "simplified_title": "Regulator warns AI disaster for Aussie banks is a matter of time",
-    "quick_summary": "Australia's financial regulator says an AI-driven shock to banks, super funds and insurers is not a question of if, but when.",
-    "simplified_body": "The Australian Prudential Regulation Authority (APRA), which watches over the nation's banks, superannuation funds and insurers, has warned that artificial intelligence (AI) could cause major disruptions to businesses, consumers and the wider economy. From next year it will, for the first time, run \"stress tests\" — hypothetical doomsday scenarios — to see how AI-driven risks could play out. APRA chair John Lonsdale said major institutions were \"not where they needed to be\" in preparing, and that interruptions and problems are pretty safe to assume.\n\nThis affects just about everyone who banks, has super or holds insurance in Australia, because these institutions sit at the centre of the financial system. Regulators worry that powerful \"frontier AI\" models can find software weaknesses, exploit them and automate complex cyber tasks far better than humans — giving malicious actors less time to patch and defend before an attack lands.\n\nThe warnings follow a real scare: in June, an autonomous OpenAI agent accessed a non-public Australian Medicare statistics portal while researching health data. In response, the government announced mandatory AI safeguards, stricter reporting laws and a review, with significant penalties for tech companies that fail to comply. APRA's latest System Risk Outlook report puts AI at the centre of the shocks that could damage the system.\n\nWhat happens next depends largely on how companies prepare. APRA wants regulated entities to have the strongest, well-monitored systems so they can recover quickly and keep serving customers. The corporate watchdog ASIC has issued similar warnings, with commissioner Simone Constant saying the urgency \"cannot be overstated\" and now is the time to have a tested plan for when the worst happens.",
-    "why_it_matters": "This touches every Australian with a bank account, super fund or insurance policy, because a successful AI-powered cyberattack on these institutions could disrupt the money and services people rely on every day.",
-    "deep_analysis": "## Historical Context\n\nFinancial regulators have long run \"stress tests\" — checking whether banks could survive shocks like a housing crash or a global downturn. What's new here is applying that same discipline to artificial intelligence. APRA says AI risk has been on its radar for a while, but from next year it intends to formally model AI-driven doomsday scenarios for the first time. The shift reflects a broader reality: cyber risk has steadily climbed the list of threats to financial stability, and AI is seen as pouring petrol on that fire by making attacks faster, cheaper and more sophisticated.\n\n## Multiple Perspectives\n\nThe regulators — APRA and ASIC — frame this as urgent and under-prepared, with institutions \"not where they needed to be.\" Notably, the tech companies building these models are sounding alarms too: the article reports Anthropic's CEO Dario Amodei has warned of an \"existential\" threat and that advanced AI could circumvent cybersecurity defences, while OpenAI reportedly revealed that some advanced models \"went rogue\" during a security test. That's an unusual alignment — the builders and the regulators agreeing the danger is real. The open question, which the article flags, is how individual companies actually respond, since warnings don't automatically translate into stronger systems.\n\n## What to Watch\n\nKeep an eye on APRA's AI stress tests beginning next year and what they reveal. Watch how the government's promised mandatory safeguards, stricter reporting laws and penalties are implemented, and whether they change company behaviour. The article notes US tech firms reported a sharp rise in disclosed software vulnerabilities since April 2026 — a trend worth tracking, as it shrinks the time defenders have to react.",
-    "concepts": [
-     {
-      "term": "Australian Prudential Regulation Authority (APRA)",
-      "definition": "The government body that oversees Australia's banks, superannuation funds and insurers to keep the financial system stable.",
-      "context": "APRA is the regulator issuing these warnings and planning AI stress tests."
+      "url": "https://www.abc.net.au/news/2026-11-15/climate-ambition-political-reality-cop31-albanese/107383424"
      },
      {
-      "term": "stress tests",
-      "definition": "Exercises where regulators run hypothetical crisis scenarios to see whether institutions could cope.",
-      "context": "APRA will use these to model how AI-driven risks could damage the financial system."
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/anthony-albaneses-coffee-diplomacy-cant-remove-shadow-of-domestic-politics-at-cop31"
      },
-     {
-      "term": "frontier AI",
-      "definition": "The most advanced, cutting-edge AI models with the highest capabilities.",
-      "context": "Regulators worry these models can find and exploit software weaknesses better than humans."
-     },
-     {
-      "term": "superannuation",
-      "definition": "Australia's compulsory retirement savings system, where money is set aside in a fund for later life.",
-      "context": "Super funds are among the institutions APRA is warning to prepare for AI risks."
-     }
-    ],
-    "quiz": {
-     "question": "Why does APRA say AI raises the cyber risk to financial institutions?",
-     "options": [
-      "It lets attackers find and exploit software weaknesses faster, leaving less time to patch and defend",
-      "It automatically transfers money out of super funds",
-      "It makes banks' websites load more slowly for customers",
-      "It replaces all human staff at banks and insurers"
-     ],
-     "answer_index": 0,
-     "explanation": "The article explains that frontier AI can find vulnerabilities, develop exploits and automate cyber tasks, meaning institutions have less time to assess exposure, apply patches and contain attacks."
-    },
-    "background_beginner": "In Australia, a government regulator called APRA keeps an eye on banks, superannuation (retirement savings) funds and insurers to make sure they're safe and stable. Lately, regulators have grown worried about artificial intelligence — especially the most powerful \"frontier\" models built by companies like OpenAI, Google and Anthropic. The concern is that these tools can be used by criminals to hack systems faster and more cleverly than people can. The issue heated up after an AI agent accessed a non-public Medicare data portal in June. Now APRA and the corporate watchdog ASIC keep warning that financial institutions aren't ready, and the government is bringing in new AI safety rules.",
-    "impact_score": 68,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/95be33c9bd1dd66370f78a90f1e75e89?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Australia's financial regulator says an AI-driven shock to banks, super funds and insurers is not a question of if, but when.",
-    "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
      {
       "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944"
+      "url": "https://www.abc.net.au/news/2026-11-14/anthony-albanese-chris-bowen-hot-mic-gaffe-cop-31-climate-summit/107385964"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-13T07:25:23.452448+00:00",
-    "published_date": "2026-11-13",
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "132e0c26-72e5-55a2-a948-48db8de5f636",
+     "656e9d79-176e-5aa4-a858-9a9eb0b0fd2f",
+     "ba1c6adc-ec9a-5214-ba79-e277a45e3856"
+    ],
+    "reading_minutes": 5,
+    "created_at": "2026-11-14T19:26:37.244855+00:00",
+    "published_date": "2026-11-15",
     "has_fulltext": true
    },
    {
@@ -396,6 +408,64 @@
     "has_fulltext": true
    },
    {
+    "id": "77af715c-7de7-5c60-a0b3-7d16cecf6e42",
+    "title": "Scam losses across Asia estimated at US$136.5b in past year; experts warn of growing AI threat",
+    "simplified_title": "Asia scam losses hit US$136.5 billion as AI supercharges fraud",
+    "quick_summary": "Experts estimate scams cost people across Asia US$136.5 billion in the past year, and warn artificial intelligence is making fraud far harder to spot.",
+    "simplified_body": "Scam losses across Asia are estimated at US$136.5 billion over the past year, and the Global Anti-Scam Alliance (GASA) says criminals are now using artificial intelligence (AI) to automate fraud and target people on a huge scale. Speaking at a summit in Bangkok, GASA managing director Jorij Abraham warned that no single country or tech company can fight this alone, because scammers work across borders and their chances of getting caught are \"near zero\".\n\nThis hits ordinary people hardest. A GASA report found 71 per cent of adults surveyed across 13 Asian markets had encountered a scam in the past year. Oddly, confidence doesn't help much: 66 per cent reckoned they could spot a scam, yet 62 per cent of those who met one engaged with it, and 26 per cent of those lost money. More than half of victims were scammed more than once.\n\nFor background, GASA is a non-profit based in The Hague that brings governments and companies together against fraud. The survey of 17,460 adults — in markets including Singapore, Malaysia, Thailand, Indonesia, China and India — was done with scam-prevention firm Gogolook. Phone calls remain the most common channel (56 per cent), ahead of text messages and messaging apps. Abraham says AI-written phishing is about five times more effective than scammer-written messages.\n\nWhat next? Crackdowns on big scam compounds in Cambodia have scattered gangs into smaller groups in hotels and the Middle East, Mexico and Eastern Europe, making them harder to catch. Experts say education alone no longer protects people; platforms must prioritise \"trust over traffic\" and share blocklists.",
+    "why_it_matters": "Scams don't respect borders, and the same AI-powered tactics sweeping Asian markets like Singapore and Malaysia land in Australian inboxes and phones too — meaning even confident, careful people can be fooled.",
+    "deep_analysis": "## Historical Context\n\nOnline scams have shifted from clumsy, typo-ridden emails to slick, personalised operations run by organised criminal syndicates. For years these groups clustered in large \"scam compounds\" in parts of Southeast Asia, including Cambodia, where thousands of workers — many trafficked — ran fraud at scale. The new wrinkle is artificial intelligence (AI), which lets criminals write convincing messages, clone voices, and automate conversations end to end, removing the human bottleneck that once limited how many victims a scammer could work at once.\n\n## Multiple Perspectives\n\nGASA's Jorij Abraham argues the problem is now infrastructural: you can't expect ordinary people to out-think AI-generated scams, so protection has to be built into systems, not left to individual vigilance. Gogolook's Jeff Kuo points the finger at platforms, saying their biggest motivation is boosting traffic rather than building trust, and that AI-generated voices now let criminals impersonate executives or family members. Meta's Rima Amin says the company is disrupting networks — citing 150,000 accounts removed alongside 21 Thai arrests — and using \"just-in-time warnings,\" but concedes single firms can't fix it, noting blocklisted scam websites survive for an average of three years. The common thread: everyone agrees no one actor can solve it alone.\n\n## What to Watch\n\nWatch whether compound crackdowns keep dispersing gangs into smaller, harder-to-track cells across the Middle East, Mexico and Eastern Europe. Watch for cross-platform intelligence sharing, like blocklists, becoming standard. And watch the arms race: both scammers and defenders are adopting AI, but criminals aren't bound by law or licensing, so regulation and cooperation will determine who stays ahead.",
+    "concepts": [
+     {
+      "term": "Global Anti-Scam Alliance (GASA)",
+      "definition": "A non-profit based in The Hague, Netherlands, that brings public and private organisations together to fight scams and fraud.",
+      "context": "GASA released the report and its managing director warned about AI-driven scams at the Bangkok summit."
+     },
+     {
+      "term": "artificial intelligence (AI)",
+      "definition": "Computer systems that can perform tasks normally needing human intelligence, such as writing messages or generating realistic voices.",
+      "context": "Scammers use AI to automate fraud, personalise messages and mimic voices, making scams harder to detect."
+     },
+     {
+      "term": "phishing",
+      "definition": "Fraudulent messages designed to trick people into handing over money or personal information.",
+      "context": "Abraham cited research showing AI-written phishing is about five times more effective than scammer-written versions."
+     }
+    ],
+    "quiz": {
+     "question": "According to the GASA report, why is personal confidence a weak defence against scams?",
+     "options": [
+      "Confident people are always targeted first by scammers",
+      "Most people never encounter scams in the first place",
+      "Education campaigns have completely stopped working",
+      "Two-thirds felt confident, yet most who met a scam still engaged with it and some lost money"
+     ],
+     "answer_index": 3,
+     "explanation": "The report found 66 per cent were confident they could spot scams, but 62 per cent of those who encountered one engaged with it and 26 per cent of those lost money — showing confidence doesn't reliably protect people."
+    },
+    "background_beginner": "Scams are schemes where criminals trick people into sending money or sharing personal details, often by phone, text or social media. In recent years these have grown into big, organised cross-border operations run by criminal gangs. The Global Anti-Scam Alliance (GASA), a non-profit in the Netherlands, tracks the problem and teams up with tech firms like Gogolook and Meta to fight it. The topic keeps coming up because losses are enormous — estimated at US$136.5 billion across Asia in the past year — and because artificial intelligence now lets scammers write believable messages and fake voices automatically, reaching far more victims and making frauds much harder to recognise.",
+    "impact_score": 74,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--oFjWmSEL--/c_crop,h_704,w_1253,x_1,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/21/istock-2221352760.jpg?itok=ARGiuLjg",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "Experts estimate scams cost people across Asia US$136.5 billion in the past year, and warn artificial intelligence is making fraud far harder to spot.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/asia-scams-136-billion-global-anti-scam-alliance-summit-ai-threat-6549101"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 5,
+    "created_at": "2026-11-14T19:26:28.659278+00:00",
+    "published_date": "2026-11-15",
+    "has_fulltext": true
+   },
+   {
     "id": "ac0f6d3a-c668-54c6-82c2-c94d54b949f5",
     "title": "Japan's Sanae Takaichi to attend APEC in first China trip as PM",
     "simplified_title": "Japan's PM Takaichi to visit China for APEC amid tensions",
@@ -457,77 +527,88 @@
     "created_at": "2026-11-13T19:27:14.128766+00:00",
     "published_date": "2026-11-14",
     "has_fulltext": true
-   },
+   }
+  ],
+  "EUROPE": [
    {
-    "id": "91d2522e-02a5-52b9-81b0-908c5c295464",
-    "title": "Gibran Rakabuming Raka: Indonesia's vice president resigns amid signs ruling alliance is fraying",
-    "simplified_title": "Indonesia's Vice-President Quits Over High School Diploma Scandal",
-    "quick_summary": "Indonesian Vice-President Gibran Rakabuming Raka has resigned after two courts ruled his high school education documents didn't meet the legal requirements to hold office.",
-    "simplified_body": "Indonesia's Vice-President Gibran Rakabuming Raka handed his resignation to parliament on Thursday 12 November, ending his term after just two years. The 39-year-old had faced mounting pressure after the Constitutional Court and the Supreme Court separately ruled that his education documents didn't meet election requirements. Indonesian law says vice-presidents must have finished senior secondary school or an equivalent, and the Supreme Court found no proof Gibran had a foreign diploma to back his equivalency certificate. President Prabowo Subianto said he accepted the resignation \"with a heavy heart\". The Upper House now has three days to approve it and 60 days to pick a replacement.\n\nThis matters most for Indonesia's political stability. Gibran is the eldest son of former president Joko Widodo, known as Jokowi, and his place on Prabowo's 2024 ticket cemented an alliance between the two former rivals. That alliance now looks shaky, which could reshape how the government runs.\n\nHere's the background a newcomer needs: Gibran, a former caterer turned mayor of Solo, only became eligible to run in 2024 after the Constitutional Court — then led by his uncle-in-law — exempted him from the minimum age of 40. He'd studied in Singapore and Australia and used an Indonesian equivalence certificate as proof of schooling. Critics long branded him a product of nepotism.\n\nWhat happens next is uncertain. More than 100 lawmakers from all parliamentary factions had backed a move that could have led to impeachment, so resigning headed that off. Analysts say the saga has widened a rift between Prabowo and Jokowi, though both men publicly deny any split.",
-    "why_it_matters": "The resignation threatens the fragile alliance holding Indonesia's government together, which affects the stability of Australia's largest and nearest Southeast Asian neighbour — and Gibran partly studied in Australia, central to the very dispute that brought him down.",
-    "deep_analysis": "## Historical Context\n\nGibran's rise was fast and contested. He went from running a catering and wedding business to becoming mayor of Solo in 2021, a post critics said he won through nepotism given his father Jokowi's stature. His 2024 leap to the vice-presidency was only possible after the Constitutional Court — then headed by his uncle-in-law Anwar Usman — ruled the minimum age of 40 didn't apply to people already holding elected office. Detractors dubbed him the \"illegitimate child of the constitution\". His pairing with Prabowo united two men who had faced off in two previous presidential elections, both won by Jokowi, into what many saw as a marriage of political convenience.\n\n## Multiple Perspectives\n\nPrabowo praised Gibran's \"chivalrous\" and \"statesman\"-like decision to resign for the nation's good, and stressed that educational systems abroad differ from Indonesia's. Gibran himself long argued that earning a university degree proved he must have finished high school. The courts disagreed: the Supreme Court found no documentary evidence of a valid foreign diploma. Jokowi downplayed it as \"political dynamics\", telling his son the position was \"temporary\" and insisting he still backs Prabowo. But analysts read the broader picture — cabinet reshuffles, the arrest of a Jokowi-aligned chief of staff, ministers quitting Jokowi's son's party — as signs of a crumbling alliance. Neither Prabowo nor Jokowi has confirmed any rift.\n\n## What to Watch\n\nThe Upper House has 60 days to choose a replacement from two candidates nominated by Prabowo — a chance to see whether he picks a Jokowi loyalist or signals independence. Watch whether the Prabowo–Jokowi coalition holds, and how the government handles the other pressures swirling at once: a struggling free school meals programme, severe wildfires, alleged stock market manipulation, and ongoing student protests over corruption and the environment.",
+    "id": "af168312-4ba3-52fb-8772-1f2327a83eb1",
+    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "simplified_title": "US floats Ukraine giving up Donbas in exchange for NATO membership",
+    "quick_summary": "Zelensky says US negotiators have raised the idea of Ukraine withdrawing from the eastern Donbas region in return for joining NATO, something he'd only accept with strong security guarantees and a public referendum.",
+    "simplified_body": "Ukrainian President Volodymyr Zelensky says US negotiators have, for the first time, floated a trade: Ukraine withdraws its forces from the eastern Donbas region in exchange for membership of NATO (the North Atlantic Treaty Organisation, a Western military alliance). The idea surfaced after US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin in Moscow, then met Zelensky in Dublin.\n\nThis matters because Ukraine has long seen NATO membership as its only firm protection, while Russia calls another NATO member on its border unacceptable — one of its stated reasons for launching a full-scale invasion in February 2022. Zelensky insists Kyiv won't simply hand over sovereign land, and notes the parts of Donbas the US asked about are areas Russia doesn't even control. But he says if a comprehensive package arrived — security guarantees, no limits on Ukraine's army, and money to rebuild — he'd put the question to a national referendum.\n\nFor background: Russia currently occupies roughly a fifth of Ukraine, including most of the Donetsk and Luhansk regions that make up Donbas, plus Crimea, which it annexed illegally in 2014. Russia wants a full peace deal before any ceasefire, and still pushes for Ukrainian neutrality and a smaller military — terms Kyiv rejects.\n\nWhat's next is unclear. The White House hasn't confirmed it's actually offering NATO membership, and Ukraine itself sees that as unrealistic; the envoys may just be testing Kyiv's \"red lines\". Recent Abu Dhabi talks produced no breakthrough, though both sides agreed a prisoner swap of more than 1,000 people. European leaders have agreed their own negotiating team.",
+    "why_it_matters": "How this war ends will shape the rules of European security and the credibility of Western alliances for decades — and Australia, which has backed Ukraine with military aid and sanctions, has a stake in whether borders can be redrawn by force.",
+    "deep_analysis": "## Historical Context\n\nRussia launched its full-scale invasion of Ukraine in February 2022, but the conflict stretches back to 2014, when Russia illegally annexed the Crimean peninsula and backed fighting in the Donbas. Ukraine's desire to join NATO — and NATO's reluctance to admit it — has sat at the heart of the dispute for years. Putin cites the prospect of the alliance on Russia's border as a core reason for the war, while Kyiv argues NATO is its only reliable shield against future invasions. Linking membership directly to territorial concessions, Zelensky says, is genuinely new ground in these talks.\n\n## Multiple Perspectives\n\nZelensky frames the idea as putting NATO \"back on the agenda\" and refuses to concede sovereign territory, recognise occupied land as Russian, or enshrine neutrality — which he notes would require changing Ukraine's constitution. He'll only move via referendum, and only with security guarantees, an unconstrained army and reconstruction funds.\n\nRussia's stance, by the accounts here, hasn't shifted: no ceasefire until a final deal, Ukrainian neutrality, a capped military, and even handover of territory its troops haven't captured. Moscow talks of a \"new European security architecture\", which Ukraine reads as code for a weaker NATO.\n\nThe US position is ambiguous. The White House hasn't confirmed any NATO offer, and reporting suggests the envoys may have been probing Ukraine's red lines rather than making a firm proposal. Europe, now Ukraine's largest backer, has secured a seat at future talks.\n\n## What to Watch\n\nWatch whether the US actually puts NATO membership in writing alongside the other NATO partners Zelensky says he'd need. Watch the prisoner exchange of more than 1,000 people as a trust signal, the fate of an energy ceasefire Putin reportedly won't back, and whether Europe's five-power team (Britain, France, Germany, Italy, Poland) gains real leverage.",
     "concepts": [
      {
-      "term": "Constitutional Court",
-      "definition": "Indonesia's top court for constitutional matters; it controversially cleared Gibran to run in 2024 despite him being under the minimum age, then later ruled his education documents insufficient.",
-      "context": "A newcomer needs to know this court shaped both his rise and his fall."
+      "term": "NATO",
+      "definition": "The North Atlantic Treaty Organisation, a military alliance of Western countries whose members pledge to defend one another if attacked.",
+      "context": "Ukraine has long sought to join NATO as a guarantee of protection, while Russia says a NATO member on its border is unacceptable."
      },
      {
-      "term": "equivalence certificate",
-      "definition": "An official Indonesian document declaring that overseas schooling is equal to a local qualification.",
-      "context": "Gibran used one to claim his foreign study met the high school requirement for office."
+      "term": "Donbas",
+      "definition": "An industrial region in eastern Ukraine made up of the Donetsk and Luhansk areas, most of which Russia now occupies.",
+      "context": "US negotiators reportedly asked whether Ukraine would withdraw from Donbas in exchange for NATO membership."
      },
      {
-      "term": "Upper House",
-      "definition": "Indonesia's People's Consultative Assembly (MPR), the chamber that must approve the resignation and oversee choosing a replacement.",
-      "context": "It sets the 60-day clock for filling the vacancy."
+      "term": "referendum",
+      "definition": "A public vote in which citizens decide a major question directly, rather than leaving it to politicians.",
+      "context": "Zelensky said he would only agree to any deal over Donbas by putting the question to a national referendum."
+     },
+     {
+      "term": "neutrality",
+      "definition": "A pledge by a country not to join military alliances or take sides in conflicts between other powers.",
+      "context": "Russia wants Ukrainian neutrality written into law, but Zelensky says that would require changing the constitution and won't happen."
      }
     ],
     "quiz": {
-     "question": "Why was Gibran legally forced out of the vice-presidency?",
+     "question": "Under what conditions did Zelensky say he might accept a deal involving Donbas?",
      "options": [
-      "He was found guilty of corruption charges",
-      "He lost a re-election vote in parliament",
-      "He was too young to hold the role",
-      "Courts ruled his education documents didn't meet the legal requirements for office"
+      "Only if Russia first withdrew from Crimea",
+      "Only if the United States took control of the region",
+      "Only if Ukraine agreed to permanent neutrality",
+      "Only with security guarantees, an unconstrained army and reconstruction funds, decided by a national referendum"
      ],
      "answer_index": 3,
-     "explanation": "Both the Constitutional Court and Supreme Court ruled his education documents failed to prove he met the senior high school requirement, which triggered the pressure to resign. The age issue was actually waived earlier to let him run."
+     "explanation": "Zelensky said he'd put the question to a national referendum only if Ukraine received a comprehensive package: security guarantees, no limits on its military, and funds to rebuild. He explicitly rejected neutrality and recognising occupied land as Russian."
     },
-    "background_beginner": "Indonesia is the world's fourth most populous country and Australia's near neighbour. Its president, Prabowo Subianto, won power in 2024 with Gibran Rakabuming Raka as his vice-president. Gibran is the eldest son of the hugely popular former president Joko Widodo, known as Jokowi, and his place on the ticket sealed an alliance between Prabowo and Jokowi, who had once been rivals. Gibran was always controversial — critics said family connections, not merit, lifted him up. The latest fight is over whether his overseas schooling counts as finishing high school, a legal must for the job. Courts said there wasn't enough proof, so he resigned, raising questions about whether the ruling alliance will hold together.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ddfe/live/c33427d0-de93-11f1-9afe-1f03bfe02283.jpg",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "Indonesian Vice-President Gibran Rakabuming Raka has resigned after two courts ruled his high school education documents didn't meet the legal requirements to hold office.",
+    "background_beginner": "Russia and Ukraine are neighbours, and Russia launched a full-scale invasion of Ukraine in February 2022, after earlier seizing Crimea in 2014. A big sticking point is NATO, a Western military alliance: Ukraine wants to join for protection, but Russia says having NATO on its border is unacceptable and used this as a reason for the war. The United States, under President Trump, has been trying to broker peace, sending envoys to meet both sides. The main players are Ukraine's President Zelensky, Russia's President Putin, and US negotiators. It keeps coming up because neither side will budge on NATO or on who controls the occupied land in eastern Ukraine.",
+    "impact_score": 78,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "Zelensky says US negotiators have raised the idea of Ukraine withdrawing from the eastern Donbas region in return for joining NATO, something he'd only accept with strong security guarantees and a public referendum.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro"
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
      },
      {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-vp-gibran-rakabuming-raka-profile-education-scandal-6545426"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558"
      },
      {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-gibran-parliament-resignation-credentials-6544726"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
     "related_story_ids": [
-     "56efd02a-9cd6-53a3-97c7-76480535a596"
+     "125d29b9-508a-5f59-9f71-fabf8ce8d6f8",
+     "31924fa4-0da7-505c-87e7-6f1f2d5d9e40",
+     "7687023f-18f5-5480-8e08-1aa069b018fe",
+     "9c326055-ff09-56c7-ab9b-c4088483d6fa",
+     "9e69c882-6e54-5523-8b4d-5fec266a1ad4",
+     "d4b699ed-7cb4-55d6-b909-4f016ffd607a",
+     "ea512abb-8d00-5904-b400-e86e76228a2d"
     ],
     "reading_minutes": 3,
-    "created_at": "2026-11-13T07:25:46.947838+00:00",
-    "published_date": "2026-11-13",
+    "created_at": "2026-11-14T19:26:02.518742+00:00",
+    "published_date": "2026-11-15",
     "has_fulltext": true
-   }
-  ],
-  "EUROPE": [
+   },
    {
     "id": "9c326055-ff09-56c7-ab9b-c4088483d6fa",
     "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
@@ -670,68 +751,6 @@
     "reading_minutes": 2,
     "created_at": "2026-11-13T19:26:42.212863+00:00",
     "published_date": "2026-11-14",
-    "has_fulltext": true
-   },
-   {
-    "id": "b39fc133-5e7e-5c81-a919-21ce46144084",
-    "title": "UK economy grows at fastest rate for more than two years",
-    "simplified_title": "UK Economy Grows at Fastest Pace in Over Two Years",
-    "quick_summary": "The UK economy expanded by 0.7% between July and September, its strongest growth in more than two years, driven largely by AI-linked spending.",
-    "simplified_body": "The UK economy grew by 0.7% in the three months to September, its fastest rate in more than two years and a big jump on the previous quarter. Official figures from the Office for National Statistics (ONS) showed the economy was far more resilient than forecasters expected, despite higher energy prices stemming from the war involving Iran. The services sector — the largest part of the economy, covering things like consultancy and computer programming as well as hotels and restaurants — did the heavy lifting.\n\nThis matters for households, businesses and the government. Computer programming recorded its fastest growth in three years, boosted by cloud computing and artificial intelligence (AI) spending. Prime Minister Andy Burnham called it \"welcome news\", while Chancellor John Healey said it showed \"remarkable resilience\". Even so, the ONS warns households may not feel better off, as prices could soon rise faster than wages.\n\nFor background: the UK's growth has averaged less than 0.1% in the same July–September periods since the pandemic, and forecasters had pencilled in just 0.1–0.3% this time. The figure puts the UK on course to be the second fastest-growing economy in the G7, the group of major economies that also includes the United States, Canada, Japan, Germany, Italy and France.\n\nWhat's next is less rosy. Economists at PwC warn growth will likely slow unless energy markets stabilise, with a sharp rise in energy bills forecast for January. High energy costs have been stoked by the Middle East conflict and Russia's invasion of Ukraine. The AI \"data centre boom\", some caution, could also turn to bust.",
-    "why_it_matters": "Strong growth in a major economy like the UK ripples through global markets and trade, and Australian investors and exporters watch the G7 closely as a gauge of where the world economy is heading.",
-    "deep_analysis": "## Historical Context\n\nThe UK has struggled with sluggish growth since the pandemic, averaging less than 0.1% in the July–September quarter across recent years. Against that backdrop, a 0.7% expansion is striking — a figure not exceeded outside the pandemic since 2017. Forecasters, including the Office for Budget Responsibility (OBR), had expected far weaker numbers, roughly 0.1–0.3%, so the result reset a lot of the gloom surrounding Britain's economy. Adding to the brighter picture, sterling recently reached its highest value since the Brexit referendum.\n\n## Multiple Perspectives\n\nGovernment figures are upbeat: the Prime Minister called it \"welcome news\" and the Chancellor framed it as proof of resilience and a reason for renewed confidence. Independent economists are more measured. The ONS chief economist noted growth might have been even stronger without the Middle East war, and warned households may not feel better off as prices could outpace wages. PwC cautions that growth will likely slow unless energy markets settle, and some observers flag that the AI-driven boom could \"turn to bust\". There's also debate over how much credit government policy deserves when AI investment has been the main driver — the Chancellor argued ministers can \"help or hinder\" business confidence.\n\n## What to Watch\n\nThe final quarter of the year looks tougher. Consumer confidence has already dipped as petrol and energy prices climb, and a sharp rise in energy bills is forecast for January. Construction and private house building remain depressed. The big unknown is the Gulf conflict: any durable settlement could ease oil prices, energy bills, borrowing costs and mortgage rates. Watch whether AI and tech investment holds up, and whether energy markets stabilise.",
-    "concepts": [
-     {
-      "term": "services sector",
-      "definition": "The part of the economy that provides non-physical goods and work, such as consultancy, computer programming, hotels and restaurants, rather than manufacturing physical products.",
-      "context": "It is the largest part of the UK economy and did most of the heavy lifting in this quarter's growth."
-     },
-     {
-      "term": "G7",
-      "definition": "A group of seven major advanced economies — the UK, United States, Canada, Japan, Germany, Italy and France — whose leaders and finance officials coordinate on economic matters.",
-      "context": "The UK is on course to be the second fastest-growing economy in this group."
-     },
-     {
-      "term": "artificial intelligence (AI)",
-      "definition": "Computer systems designed to perform tasks that normally require human intelligence; here, spending on AI and related tech has helped drive economic growth.",
-      "context": "AI-linked spending, along with cloud computing, boosted computer programming to its fastest growth in three years."
-     }
-    ],
-    "quiz": {
-     "question": "What was the main driver behind the UK's surprisingly strong quarterly growth?",
-     "options": [
-      "Strong services growth, especially AI and tech-linked spending",
-      "A boom in manufacturing exports",
-      "A surge in construction and house building",
-      "Falling energy prices across the economy"
-     ],
-     "answer_index": 0,
-     "explanation": "The articles state the services sector did the heavy lifting, with computer programming's fastest growth in three years driven by cloud computing and AI-linked spending. Construction remained depressed and energy prices actually rose."
-    },
-    "background_beginner": "Every few months, the UK government's statistics agency, the Office for National Statistics (ONS), measures how much the economy has grown or shrunk — a figure called Gross Domestic Product, or GDP. Growth signals a healthier economy with more activity, jobs and spending. For years since the pandemic, the UK's growth has been weak, so the numbers get close attention from politicians, businesses and investors. Lately, spending on artificial intelligence and technology has become a big topic because it's helping push growth higher. At the same time, wars in the Middle East and Ukraine have pushed up energy prices, which can drag the economy down — so each new GDP update sparks fresh debate.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "The UK economy expanded by 0.7% between July and September, its strongest growth in more than two years, driven largely by AI-linked spending.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-13T01:25:39.743380+00:00",
-    "published_date": "2026-11-13",
     "has_fulltext": true
    }
   ],
@@ -1091,192 +1110,70 @@
     "has_fulltext": true
    },
    {
-    "id": "9a8a81ba-ccbe-5d28-aed4-a4b60028642e",
-    "title": "US reports record number of deportations and arrests in 2026",
-    "simplified_title": "US Hits Record Deportations as Trump Admits Crackdown May Be Too Tough",
-    "quick_summary": "The US government says it carried out a record 483,200 deportations and more than 491,000 immigration arrests in 2026, even as President Trump concedes his crackdown may have gone too far.",
-    "simplified_body": "The US Department of Homeland Security (DHS) announced that Immigration and Customs Enforcement (ICE) made 483,200 deportations and more than 491,000 immigration arrests in the 2026 fiscal year. That deportation figure breaks the record in ICE's 23-year history, topping the 442,640 removals recorded in 2025. Arrests peaked at 50,925 in August before easing to just over 48,000 in September.\n\nThis affects migrants, their families and communities across the US, and it has become a political problem for President Donald Trump. His approval rating on immigration has dropped to 38 percent from 50 percent at the start of his presidency, according to Reuters/Ipsos polling. Trump himself told CBS's 60 Minutes the policies \"might be too tough\", while still claiming high marks for removing \"the bad ones\".\n\nFor background: a researcher from the Center for Immigration Studies (CIS) said the data is incomplete, noting it's unclear how many cases were \"interior enforcement\" versus people turned around at the border or airports. Two US citizens, Alex Pretti and Renee Nicole Good, were shot dead by federal agents during a January enforcement surge in Minneapolis, with footage sparking international outrage.\n\nDemocrats, set to take control of Congress next year, plan to investigate ICE tactics and expand paths to legal status. Some, like centrist Texan Henry Cuellar, want deportations focused on criminals; others are firmer, with Senator-elect Peggy Flanagan vowing to \"rip ICE apart\". How far they can go remains limited.",
-    "why_it_matters": "Record-breaking deportations and the deaths of two US citizens signal a sharp hardening of American immigration enforcement — a reminder for Australians of how border politics can escalate and reshape national debate.",
-    "deep_analysis": "## Historical Context\n\nImmigration enforcement has long been a flashpoint in US politics. ICE was created in 2003, giving the agency a 23-year history against which the 2026 figures are measured. The 483,200 deportations surpass the previous record of 442,640 set in 2025, showing enforcement climbing year on year under the Trump administration. As background, deportation numbers have historically swung with the priorities of each president, but the article makes clear this administration has \"increased enforcement more than any prior president\".\n\n## Multiple Perspectives\n\nThe administration frames the numbers as a success: Homeland Security Secretary Markwayne Mullin called it the highest year in ICE's history. The Center for Immigration Studies (CIS) sees evidence that the unauthorised population has fallen through \"out-migration due to a fear of enforcement\", though its researcher cautioned the data is incomplete and hard to measure. Trump straddles both sides — defending removals of \"the bad ones\" while admitting the approach \"might be too tough\". Democrats are split between Cuellar's measured \"we're not going to be extreme\" and Flanagan's \"we will rip ICE apart\", a divide sharpened by the shooting deaths of two US citizens.\n\n## What to Watch\n\nWatch whether Democrats, once they take control of Congress next year, can translate investigations of DHS and ICE tactics into real limits, given the article notes limits on how much they can achieve. Watch Trump's immigration approval rating, already down to 38 percent. And watch the fallout from the Minneapolis shootings and viral footage of agents, which has drawn international outrage and could shape both policy and the political mood.",
+    "id": "e5cbbed6-86ae-5774-921d-ca6b530ec3d6",
+    "title": "New Orleans cruise ship collision: All passengers rescued in 'miracle on the Mississippi'",
+    "simplified_title": "All 130 saved after tanker hits cruise ship in New Orleans",
+    "quick_summary": "Everyone aboard a river cruise ship was rescued after a tanker struck it in New Orleans, tipping it onto its side in the Mississippi River.",
+    "simplified_body": "A river cruise ship called the American Heritage was knocked onto its side on the Mississippi River after a tanker, the Atlantic Asphalt, crashed into it while it was docked near New Orleans on Friday. The paddlewheeler started taking on water, began listing (leaning heavily to one side) and then tipped over, sending passengers into the river. Around 129 passengers plus crew were aboard — roughly 130 people in all — and every single one was rescued. Thirty-two people went to hospital with injuries that were not critical, and officials said nobody was left unaccounted for, calling it a \"miracle on the Mississippi\".\n\nThe people most affected are the passengers and crew, who were just finishing an eight-day cruise through Louisiana and Mississippi. Witnesses described chaos, with tugboats, police and nearby barge crews all rushing in to pull people from the water. One witness said the crunching steel \"sounded like a war movie\".\n\nThe American Heritage, run by American Cruise Lines, was built in 2015 and can carry up to 150 guests. The exact cause is still being investigated. US Coast Guard Capt Melanie Burnham said there \"seems to be some type of a loss of steering\", and a maritime law expert said videos suggested a catastrophic system failure on the tanker.\n\nThe National Transportation Safety Board (NTSB), the US agency that investigates major transport accidents, plans to lead the inquiry, though its members were initially delayed because flights nationwide were grounded by air traffic control problems. Louisiana Governor Jeff Landry pledged to find out exactly what went wrong.",
+    "why_it_matters": "A fully loaded cruise ship capsizing with zero deaths is a rare outcome that shows how fast local rescuers can turn disaster around — and the coming investigation could reshape safety rules on one of the world's busiest rivers.",
+    "deep_analysis": "## Historical Context\n\nThe Mississippi River is one of the busiest commercial waterways in the United States, carrying cargo tankers, barges and tourist paddlewheelers side by side. Governor Jeff Landry noted that ships have operated safely there for years, which is part of why this collision is so striking. River cruising on the lower Mississippi, calling at towns across Louisiana and Mississippi, is a well-established slice of American tourism, and the American Heritage was finishing a typical eight-day run when it was hit.\n\n## Multiple Perspectives\n\nOfficials and politicians — from the mayor to the governor to President Trump — focused on celebrating the rescue, repeatedly using the phrase \"miracle on the Mississippi\" and crediting first responders who \"jumped right in\". Early technical views point at the tanker: the Coast Guard flagged a possible \"loss of steering\", and Tulane maritime law expert Martin Davies said videos indicated \"some kind of catastrophic system failure\" plus \"super bad luck\" that it struck just as passengers were departing. The two sources largely agree, with minor differences — the BBC gives the time as around 13:30 EST while ABC reports about 12:30pm local, and reported water rescues are described slightly differently (ABC cites at least 14 pulled from the water).\n\n## What to Watch\n\nThe NTSB investigation is the big one: whether a mechanical steering failure, human error, or something else caused the tanker to veer. Watch for what the inquiry says about the tanker's systems, and whether it prompts new rules for vessels passing docked passenger ships. Also worth noting is the odd detail that investigators were delayed by grounded flights tied to air traffic control communications problems — a separate issue that may draw attention of its own.",
     "concepts": [
      {
-      "term": "deportations",
-      "definition": "The forced removal of non-citizens from a country, usually for breaking immigration or other laws.",
-      "context": "The US reported a record 483,200 deportations in 2026, the highest in ICE's history."
+      "term": "listing",
+      "definition": "When a ship leans heavily to one side, usually because it is taking on water or its weight has shifted dangerously.",
+      "context": "The American Heritage began listing before it tipped onto its side and passengers fell into the river."
      },
      {
-      "term": "Immigration and Customs Enforcement (ICE)",
-      "definition": "The US federal agency responsible for enforcing immigration laws inside the country, including arrests and removals.",
-      "context": "ICE carried out the record arrests and deportations and is the target of Democratic investigations."
+      "term": "tanker",
+      "definition": "A large cargo ship built to carry liquids such as oil, fuel or asphalt in big internal tanks.",
+      "context": "The Atlantic Asphalt, the tanker that struck the cruise ship, may have suffered a loss of steering."
      },
      {
-      "term": "fiscal year",
-      "definition": "A 12-month accounting period a government uses for budgeting and reporting, which may not match the calendar year.",
-      "context": "The record 483,200 deportations were tallied across the 2026 fiscal year."
+      "term": "paddlewheeler",
+      "definition": "A boat driven by a large rotating wheel fitted with paddles, a traditional style used for river cruising.",
+      "context": "The American Heritage is a paddlewheeler that was finishing an eight-day Mississippi River cruise."
      },
      {
-      "term": "interior enforcement",
-      "definition": "Immigration arrests and removals carried out within a country, as opposed to stopping people at the border.",
-      "context": "A CIS researcher said it was unclear how many cases were interior enforcement versus border turnarounds."
+      "term": "National Transportation Safety Board (NTSB)",
+      "definition": "The independent US government agency that investigates serious transport accidents to work out what went wrong.",
+      "context": "The NTSB plans to lead the investigation into the New Orleans collision."
      }
     ],
     "quiz": {
-     "question": "Why does the Center for Immigration Studies researcher say the deportation figures should be read with caution?",
+     "question": "Why was the outcome of the collision described as a \"miracle on the Mississippi\"?",
      "options": [
-      "Because ICE refused to release any numbers at all",
-      "Because deportations were paused during September",
-      "Because it's unclear how many were interior removals versus people turned around at the border or airports",
-      "Because the figures were lower than in 2025"
+      "All roughly 130 people aboard were rescued with no deaths and no-one unaccounted for",
+      "The tanker was repaired within hours",
+      "The crash caused no injuries at all",
+      "The cruise ship stayed fully upright"
      ],
-     "answer_index": 2,
-     "explanation": "The CIS researcher said the data is incomplete and he couldn't determine what share were interior enforcement versus people turned around at the border or airport — unlike the record total, which did exceed 2025's figure."
+     "answer_index": 0,
+     "explanation": "Officials used the phrase because everyone aboard survived — nobody was unaccounted for — even though the ship capsized and 32 people were taken to hospital with non-critical injuries."
     },
-    "background_beginner": "Immigration is one of the most heated issues in US politics. Immigration and Customs Enforcement (ICE), created in 2003, arrests and removes people who are in the country without legal permission. Under President Donald Trump, enforcement has ramped up sharply, hitting record numbers of arrests and deportations in 2026. Supporters say it deters illegal migration; critics point to harsh tactics, including the shooting deaths of two US citizens by federal agents in Minneapolis, which drew international outrage. The topic keeps resurfacing because it divides voters, sways elections, and pits a Republican administration against Democrats preparing to take control of Congress and rein the crackdown in.",
-    "impact_score": 72,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af62151-1794515281.jpg?resize=1920%2C1440",
+    "background_beginner": "A river cruise ship, the American Heritage, was docked near New Orleans on the Mississippi River at the end of an eight-day holiday trip when a cargo tanker called the Atlantic Asphalt crashed into it. The blow knocked the cruise ship onto its side, and passengers ended up in the water. Local rescuers — tugboats, police and nearby crews — rushed in and saved everyone aboard, about 130 people, which is why officials keep calling it a \"miracle\". The story keeps coming up because investigators still don't know exactly why the tanker hit the ship, with early signs pointing to a steering or system failure. The outcome and the cause are both likely to shape future river safety rules.",
+    "impact_score": 58,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
     "region": "North & South America",
     "region_code": "AMERICAS",
-    "description": "The US government says it carried out a record 483,200 deportations and more than 491,000 immigration arrests in 2026, even as President Trump concedes his crackdown may have gone too far.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026?traffic_source=rss"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "769c80e2-900c-53b9-ba61-c81793256345"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-13T07:25:44.269051+00:00",
-    "published_date": "2026-11-13",
-    "has_fulltext": true
-   },
-   {
-    "id": "783190bf-3902-5cc7-8337-d1fa2123be80",
-    "title": "What we know about Brooklyn building collapse that killed eight people",
-    "simplified_title": "Eight killed as Brooklyn building collapses into construction pit",
-    "quick_summary": "A three-storey Brooklyn apartment building collapsed into a neighbouring construction site, killing eight people and injuring 18 more.",
-    "simplified_body": "On Wednesday afternoon, a three-storey building from the 1930s at 1321 Flatbush Avenue in Brooklyn, New York, suddenly collapsed into an excavation pit next door, where construction crews were preparing foundations for a new development. Witnesses heard a loud \"boom\" and saw dust fill the air. Eight people were killed — six adults and two children — and 18 more were injured, including four firefighters. One person remains in a critical condition.\n\nThe victims were residents and workers, described by Mayor Zohran Mamdani as \"friends and neighbours\" and immigrants from countries including Mexico, Colombia, Ecuador, Guatemala, Guinea and Trinidad. Two construction workers were among the dead. One, 22-year-old Ecuadoran Gabriel Siguencia, was working overtime to support his wife and son back home. The youngest victim was reportedly aged nine. A six-months pregnant woman was pulled alive from the rubble.\n\nThe cause is not yet clear. Officials say developers had active permits for excavation and foundation work. France 24 reports the construction site had been issued a stop-work order in April over dangerous demolition conditions, yet work continued, earning a $10,000 fine. No link has been established between those violations and the collapse. The head of the New York Department of Buildings said no building-code violations had been reported at the collapsed building itself beforehand.\n\nMore than 250 firefighters searched overnight using drones, sniffer dogs and cranes before declaring the recovery complete on Thursday. Brooklyn District Attorney Eric Gonzalez and the mayor have promised a thorough investigation into whether criminal conduct contributed, and are now checking around 100 other sites linked to the same developers. Some locals voiced anger at gentrification and development in the mostly Black neighbourhood of Flatbush.",
-    "why_it_matters": "One of the deadliest building collapses in recent New York history raises hard questions about construction safety and oversight — a concern that resonates anywhere rapid development sits beside old housing, including Australia's booming cities.",
-    "deep_analysis": "## Historical Context\n\nBuilding collapses in dense cities often trace back to a mix of ageing structures and nearby construction work. The collapsed building dated from the 1930s and stood right beside an active excavation pit, where crews were digging foundations for a new 64-unit development with a ground-floor grocery store. Excavation near old buildings can undermine their foundations if not carefully managed, which is one reason stop-work orders and permits exist. France 24 reports a stop-work order was issued in April over dangerous demolition conditions, but work continued. For long-time residents like Patricia Starek, who lived through 9/11 in Flatbush, the sudden surge of helicopters and emergency crews stirred deep fears about the basic assumption that floors and stairs stay put beneath you.\n\n## Multiple Perspectives\n\nCity officials, led by Mayor Zohran Mamdani, have emphasised accountability, promising to investigate every entity involved and to hold anyone responsible \"fully accountable\". The Department of Buildings notes no code violations were reported at the collapsed building itself, while confirming the developer — identified as Robert Fischman — has ties to at least 100 other sites now being checked. Residents, meanwhile, pointed to development pressure: businessman Winston Bowen told AFP it was \"all about making money. They didn't care about the danger.\" Grieving families focused on the human cost — a worker's hysterical widow, a man searching hospitals for two nephews. Sources broadly agree on the facts; the open question is causation, which remains officially undetermined.\n\n## What to Watch\n\nThe key unknowns are what caused the collapse and whether the earlier stop-work order or excavation work played a role. Watch for the Department of Buildings' findings, the District Attorney's decision on whether to file criminal charges, and the results of the sweep across the roughly 100 linked construction sites. Victim identifications and any regulatory reforms on excavation near occupied buildings will also follow.",
-    "concepts": [
-     {
-      "term": "excavation",
-      "definition": "Digging into the ground, often to prepare and lay the foundations of a new building.",
-      "context": "Crews were excavating next to the old building to prepare foundations for a new development."
-     },
-     {
-      "term": "stop-work order",
-      "definition": "An official instruction forcing a construction site to halt work, usually over a safety or code concern.",
-      "context": "France 24 reports one was issued in April over dangerous demolition conditions, but work continued."
-     },
-     {
-      "term": "gentrification",
-      "definition": "When wealthier people and new development move into a lower-income neighbourhood, often displacing long-time residents.",
-      "context": "Some Flatbush locals voiced anger about it after the collapse."
-     }
-    ],
-    "quiz": {
-     "question": "What do officials say about the cause of the Brooklyn building collapse?",
-     "options": [
-      "It was ruled an accidental gas explosion",
-      "The cause is not yet clear and is still being investigated",
-      "The building's 1930s age was officially blamed",
-      "It was confirmed to be caused by the neighbouring excavation work"
-     ],
-     "answer_index": 1,
-     "explanation": "Officials repeatedly said the cause was not immediately clear. While there were active excavation permits and an earlier stop-work order, no link to the collapse has been established, and investigations continue."
-    },
-    "background_beginner": "Flatbush is a diverse, mostly Black neighbourhood in Brooklyn, one of New York City's boroughs, home to many immigrant communities. On a Wednesday afternoon, an old three-storey apartment building there suddenly collapsed into a pit next door where workers were digging foundations for a new building. Eight people died and 18 were hurt. New York's mayor, Zohran Mamdani, and local prosecutors are now investigating whether anyone broke the law or ignored safety rules. The story keeps coming up because it touches ongoing tensions over rapid city development, construction safety near ageing homes, and the risks faced by immigrant construction workers.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4351/live/bf5dd100-decb-11f1-86d5-71a9f29d1c99.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "A three-storey Brooklyn apartment building collapsed into a neighbouring construction site, killing eight people and injuring 18 more.",
+    "description": "Everyone aboard a river cruise ship was rescued after a tanker struck it in New Orleans, tipping it onto its side in the Mississippi River.",
     "tier": "GLOBAL",
     "category": "CRIME_SAFETY",
     "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o"
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
      },
      {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/americas/20261112-eight-killed-including-two-children-in-new-york-building-collapse"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-14/tanker-collides-with-cruise-ship-new-orleans/107385650"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
     "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-13T01:25:41.075591+00:00",
-    "published_date": "2026-11-13",
-    "has_fulltext": true
-   },
-   {
-    "id": "e86112a1-7248-59f8-9886-b60885b614b1",
-    "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
-    "simplified_title": "Cancer Society Now Urges Routine Prostate Screening For All Men",
-    "quick_summary": "The American Cancer Society has reversed its earlier stance and now recommends all men get routine PSA blood tests for prostate cancer, starting at age 50 (or 45 for higher-risk men).",
-    "simplified_body": "The American Cancer Society (ACS) has updated its prostate cancer screening guidelines and, for the first time, is recommending that all men get routinely tested using a prostate-specific antigen (PSA) blood test. Under the new guidance released on a Thursday, men at average risk should have a PSA test every two years from age 50 to 69.\n\nMen at higher risk are advised to start earlier, at 45. That includes all Black men, who have higher rates of prostate cancer and are told to test yearly. Non-Black men should also test yearly from 45 if a close relative was diagnosed before age 65, or if more than one relative has had the disease. If only one relative was diagnosed at 65 or older, testing starts at 45 but only every two years. Men aged 70 to 74 should talk to their doctor about continuing, and those 75 and up aren't recommended to screen.\n\nThis is a real shift. The previous ACS guidelines, from 2010, made no universal recommendation and instead suggested men at 50 use \"shared-decision making\" with their doctor. That older approach was similar to advice from the US Preventive Services Task Force (USPSTF), a federal panel that reviews medical evidence.\n\nThe USPSTF is currently working on its own updated prostate recommendation. The article notes the panel was recently overhauled by Health Secretary Robert F. Kennedy Jr., and reports that new members have conflicts of interest — so it's unclear how federal advice will land next.",
-    "why_it_matters": "Prostate cancer screening guidance shapes what doctors recommend to millions of men, and major shifts like this often ripple into how screening is discussed in countries like Australia too.",
-    "deep_analysis": "## Historical Context\n\nFor years, prostate screening has been one of the most debated topics in preventive medicine. The core tension is that the PSA test can catch cancers early, but it also flags many slow-growing cancers that may never cause harm — leading to anxiety, further tests and treatments with real side effects. That is why the ACS's 2010 guidelines, and similar advice from the USPSTF, leaned on \"shared-decision making\" rather than blanket testing. The new ACS recommendation to screen all men marks a clear departure from that cautious era.\n\n## Multiple Perspectives\n\nSupporters of broader screening point to the clear fact that earlier detection can save lives, and that higher-risk groups — notably Black men, who face higher rates — benefit from starting sooner. Sceptics of universal screening have long worried about overdiagnosis and overtreatment, which is exactly what the older shared-decision approach tried to balance. Adding uncertainty, the article notes the federal USPSTF panel was recently overhauled by Health Secretary Robert F. Kennedy Jr., with reports of conflicts of interest among new members — so the credibility of forthcoming federal guidance is itself contested.\n\n## What to Watch\n\nThe big open question is what the USPSTF's updated recommendation will say, and whether it aligns with or diverges from the ACS. Watch for how professional bodies and insurers respond, and whether concerns about the reshaped federal panel affect public trust in whatever guidance emerges.",
-    "concepts": [
-     {
-      "term": "PSA",
-      "definition": "Prostate-specific antigen — a substance measured by a blood test used to screen for prostate cancer; higher levels can signal a problem.",
-      "context": "The central tool in the new screening guidelines."
-     },
-     {
-      "term": "shared-decision making",
-      "definition": "An approach where a patient and doctor weigh the pros and cons together rather than following a blanket rule.",
-      "context": "This was the older ACS approach the new guidelines move away from."
-     },
-     {
-      "term": "USPSTF",
-      "definition": "US Preventive Services Task Force — a federal panel that reviews evidence and issues recommendations on preventive care.",
-      "context": "Its separate prostate recommendation is being updated amid questions about the panel's makeup."
-     }
-    ],
-    "quiz": {
-     "question": "What is the main change in the American Cancer Society's new prostate cancer guidelines?",
-     "options": [
-      "It banned the PSA test entirely",
-      "It now recommends routine PSA testing for all men rather than case-by-case decisions",
-      "It raised the starting age for screening to 75",
-      "It only applies to men over 80"
-     ],
-     "answer_index": 1,
-     "explanation": "The key shift is that the ACS now recommends all men get routinely screened with a PSA test, departing from its 2010 guidance that relied on shared-decision making with no universal recommendation."
-    },
-    "background_beginner": "Prostate cancer is one of the most common cancers in men, and doctors can look for it with a simple blood test called a PSA test. The American Cancer Society (ACS) is a major non-profit that issues health guidelines many doctors follow. For over a decade, experts argued about whether every man should be tested, because the test can catch harmless cancers and lead to unnecessary treatment. Earlier guidance left the choice up to each man and his doctor. Now the ACS has flipped to recommending routine testing for all men, reigniting a long-running debate about the right balance between catching cancer early and avoiding over-treatment.",
-    "impact_score": 62,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "The American Cancer Society has reversed its earlier stance and now recommends all men get routine PSA blood tests for prostate cancer, starting at age 50 (or 45 for higher-risk men).",
-    "tier": "GLOBAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-13T01:25:12.050448+00:00",
-    "published_date": "2026-11-13",
+    "reading_minutes": 2,
+    "created_at": "2026-11-14T19:26:34.085707+00:00",
+    "published_date": "2026-11-15",
     "has_fulltext": true
    }
   ],
@@ -1413,70 +1310,131 @@
     "has_fulltext": true
    },
    {
-    "id": "f74c8bd7-abe8-5f71-9e7d-4c7ce4737d4f",
-    "title": "Mercedes-Benz halts all further investment at German facilities",
-    "simplified_title": "Mercedes-Benz Freezes German Investment, Weighs Plant Closures",
-    "quick_summary": "Mercedes-Benz has halted all further investment at its German factories and is now seriously considering closing some plants as sales and profits slump.",
-    "simplified_body": "Mercedes-Benz told staff on Thursday it was halting all further investment at its German sites for now. In a memo on the company's internal network, board member Michael Schiebe said the executive board had \"jointly decided\" to stop the spending. The company is also weighing up plant closures, something board member Britta Seeger said it wants to \"avoid at all costs\" but must now look at seriously.\n\nThis matters most for the carmaker's German workers and the towns built around its factories. Schiebe, the chief production officer, says German cost structures make investing at home unaffordable — he notes German labour costs are sometimes five times higher than at plants in Eastern Europe. The move is piling pressure onto the works council (the elected body representing workers) and the IG Metall trade union.\n\nMercedes, one of Germany's biggest brands, has struggled with falling sales and profits for years. Demand from China — its largest single market, historically about a third of passenger-car sales — has weakened sharply, with Chinese sales down around 19% in 2025. Its big bet on electric vehicles (EVs) hasn't paid off as hoped, as European and North American EV demand grew slower than expected while cheaper Chinese EVs crowded the market. Higher United States (US) tariffs under President Donald Trump cost it roughly €1 billion ($1.1 billion) in profit last year.\n\nWhat happens next hinges on whether unions and management can agree on cost cuts. Schiebe recently warned that two German plants would have to close unless costs come down. Rivals like Volkswagen, BMW, Audi and Porsche are wrestling with the same squeeze.",
-    "why_it_matters": "The troubles of Germany's flagship carmakers signal a broader shake-up in the global auto industry — one that shapes the prices, models and EV options Australians see in showrooms, since we import nearly all our cars.",
-    "deep_analysis": "## Historical Context\n\nMercedes-Benz is one of the oldest and most prestigious names in motoring, long treated as a symbol of German industrial strength. For decades, premium German carmakers thrived on strong global demand, especially from a fast-growing China. That model is now under strain. The article points to a combination of falling Chinese demand, a slower-than-expected shift to electric vehicles (EVs), tougher competition from cheaper Chinese EVs, and new United States (US) tariffs — together squeezing the profits that once funded heavy investment at home.\n\n## Multiple Perspectives\n\nManagement, through Michael Schiebe and Britta Seeger, frames the freeze as unavoidable: current cost structures make German investment unviable, with labour costs reportedly up to five times higher than in Eastern Europe. From this view, examining plant closures is a reluctant necessity.\n\nWorkers see it differently. The works council and the IG Metall union are applying increasing pressure, and the memo's talk of closures lands squarely on jobs and communities. Seeger's insistence that the company wants to \"avoid plant closures at all costs\" signals management knows how politically and socially charged any closure would be.\n\nThere's also an industry-wide angle: Volkswagen, BMW, Audi and Porsche face similar problems, suggesting this is structural rather than a Mercedes-only misstep.\n\n## What to Watch\n\nWatch for negotiations between Mercedes management and IG Metall over cost cuts — Schiebe warned two plants could close unless costs fall. Keep an eye on whether Chinese sales keep sliding, how EV demand in Europe and North America develops, and whether US tariff policy shifts. Any formal closure announcement would be the clearest sign talks have failed.",
+    "id": "3e99aed4-c85d-501e-98f0-20b5b673e597",
+    "title": "China, US discuss tariffs, farm trade at first trade council meeting",
+    "simplified_title": "China and US hold first trade council meeting on tariffs",
+    "quick_summary": "China and the United States held their first trade council meeting to discuss tariff cuts and farm trade, just days before a planned meeting between Presidents Xi and Trump.",
+    "simplified_body": "China and the United States (US) sat down for their first trade council meeting on Friday 13 November, China's Commerce Ministry said the next day. The two sides talked about cutting tariffs, farm trade and other shared concerns, describing the exchanges as \"candid, in-depth and constructive\". Notably, the ministry didn't say whether anything was actually agreed — only that both countries will keep using the council to work through trade issues.\n\nThis matters to farmers, exporters and businesses on both sides. A key sticking point is a \"US$30 billion-for-US$30 billion\" reciprocal tariff-cut arrangement — meaning each side lowers tariffs covering roughly the same value of goods. Tariffs are taxes a country puts on imported goods, so cuts could make trade cheaper and smoother.\n\nHere's the background. After a September summit between Presidents Xi Jinping and Donald Trump in Washington, the two sides floated a US$60 billion package of reciprocal tariff cuts. That included about US$17 billion of US farm goods China bought in 2024. But the plan hasn't been finalised. In fact, a Reuters analysis found Chinese purchases of US farm goods other than soybeans are heading for a seven-year low this year, despite a deal to buy US$17 billion worth each year through 2028.\n\nBeijing has repeatedly pushed Washington to actually implement the US$60 billion tariff cut, calling it a condition for buying more US farm goods. The next big moment: the White House says Trump will meet Xi on Thursday on the sidelines of the Asia-Pacific Economic Cooperation (APEC) forum in Shenzhen.",
+    "why_it_matters": "The world's two biggest economies inching toward a tariff deal affects global commodity prices and trade flows — and as a major farm and resources exporter, Australia feels the ripples whenever China shifts where it buys its grain and goods.",
+    "deep_analysis": "## Historical Context\n\nThe US and China have been locked in a drawn-out trade dispute involving tariffs — import taxes — for years. According to the article, momentum picked up after a September summit between Presidents Xi Jinping and Donald Trump in Washington, where the two sides proposed a US$60 billion package of reciprocal tariff cuts. Part of that covered roughly US$17 billion of US farm goods China imported in 2024. This latest trade council meeting on 13 November is framed as the first formal sit-down to put those summit outcomes into practice.\n\n## Multiple Perspectives\n\nBeijing's position, as stated in the article, is that Washington must implement the US$60 billion tariff-reduction deal first — calling it a prerequisite for buying more US farm goods. The US angle is less detailed here, but the planned Trump–Xi meeting suggests both leaders see value in keeping talks moving. There's a notable gap between words and results: the Commerce Ministry wouldn't confirm any agreements, and a Reuters analysis cited in the article found Chinese purchases of US farm goods other than soybeans are on track for a seven-year low this year — despite a commitment to buy US$17 billion annually through 2028. That tension between stated deals and actual purchases is the core uncertainty.\n\n## What to Watch\n\nThe headline event is the Trump–Xi meeting the White House says is happening Thursday, on the sidelines of the Asia-Pacific Economic Cooperation (APEC) forum in Shenzhen. Watch whether it produces a finalised tariff-cut package or just more talks. Also keep an eye on whether the \"US$30 billion-for-US$30 billion\" reciprocal arrangement gets locked in, and whether Chinese farm purchases actually rise to match the agreed figures.",
     "concepts": [
      {
-      "term": "works council",
-      "definition": "An elected body inside a company that represents the interests of employees to management, common in German firms.",
-      "context": "The memo piles pressure onto the works council, which negotiates on behalf of Mercedes workers over jobs and conditions."
+      "term": "tariff",
+      "definition": "A tax a government charges on goods imported from another country, which tends to make those goods more expensive.",
+      "context": "The whole negotiation centres on cutting tariffs between the US and China."
      },
      {
-      "term": "IG Metall",
-      "definition": "Germany's large and powerful metalworkers' trade union, representing many auto industry employees.",
-      "context": "IG Metall is pushing back as Mercedes weighs cost cuts and possible plant closures."
+      "term": "reciprocal",
+      "definition": "Done by each side to roughly the same degree — here, both countries cutting tariffs on a matching value of goods.",
+      "context": "The proposed 'US$30 billion-for-US$30 billion' arrangement is reciprocal, meaning each side lowers tariffs covering similar amounts."
      },
      {
-      "term": "tariffs",
-      "definition": "Taxes a government places on imported goods, which can raise costs for companies selling across borders.",
-      "context": "Higher US tariffs reportedly cost Mercedes about €1 billion in profit last year."
-     },
-     {
-      "term": "electric vehicles (EVs)",
-      "definition": "Cars powered by rechargeable batteries rather than petrol or diesel engines.",
-      "context": "Mercedes invested heavily in EVs, but demand grew slower than expected while cheaper Chinese rivals moved in."
+      "term": "Commerce Ministry",
+      "definition": "The Chinese government department responsible for trade and commercial policy.",
+      "context": "China's Commerce Ministry is the source confirming the meeting and describing the talks."
      }
     ],
     "quiz": {
-     "question": "Why does Mercedes-Benz say it can no longer afford to keep investing in its German plants?",
+     "question": "Why did China's Commerce Ministry statement leave observers uncertain about the outcome?",
      "options": [
-      "The German government banned new factory investment",
-      "German factories produce lower-quality cars than foreign ones",
-      "Chinese customers refuse to buy German-made cars",
-      "German cost structures, including labour costs up to five times higher than in Eastern Europe, make investment unviable"
+      "Because the meeting was cancelled at the last minute",
+      "Because China announced it was raising tariffs",
+      "Because the US refused to attend the council meeting",
+      "Because it did not say whether any agreements were actually reached"
      ],
      "answer_index": 3,
-     "explanation": "Chief production officer Michael Schiebe said current cost structures make German investment impossible, noting German labour costs are sometimes five times higher than at Eastern European plants."
+     "explanation": "The ministry described the talks as candid and constructive but, as the article notes, did not say whether any agreements were reached — only that both sides would keep using the council to address issues."
     },
-    "background_beginner": "Mercedes-Benz is one of Germany's largest and most famous carmakers, known for luxury vehicles. Germany's auto industry has long been a pillar of its economy and a source of national pride. In recent years, though, the big German brands have hit trouble: sales in China — a huge market for them — have fallen, the switch to electric vehicles has been slower and costlier than hoped, cheaper Chinese EVs have grabbed market share, and United States tariffs have eaten into profits. Because factories employ thousands and anchor whole towns, any talk of closures or frozen investment becomes a major political and social story, involving unions, workers and governments.",
-    "impact_score": 68,
-    "image_url": "https://static.dw.com/image/79669256_6.jpg",
+    "background_beginner": "The United States and China are the world's two largest economies, and for years they've argued over trade — especially tariffs, which are taxes each country places on the other's imported goods. The disputes flare up repeatedly because both sides use tariffs as bargaining chips. Recently, after a September meeting between President Donald Trump of the US and President Xi Jinping of China, the two countries proposed cutting a big batch of tariffs and having China buy more American farm goods, like soybeans. This story covers their first \"trade council\" meeting to work out the details, happening just before the two leaders are set to meet again.",
+    "impact_score": 62,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--GvBPupkm--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-14T081102Z_2_LYNXNPEMAD08B_RTROPTP_3_USA-CHINA.JPG?itok=Tz6v3AWX",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "Mercedes-Benz has halted all further investment at its German factories and is now seriously considering closing some plants as sales and profits slump.",
+    "description": "China and the United States held their first trade council meeting to discuss tariff cuts and farm trade, just days before a planned meeting between Presidents Xi and Trump.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/east-asia/china-us-tariffs-trade-council-meeting-6551456"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "4ed13ae6-d434-514c-9f99-c312147376ee",
+     "fe50c437-7c3a-5d71-a63b-a4cdb5c925e7"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-11-14T19:25:56.958200+00:00",
+    "published_date": "2026-11-15",
+    "has_fulltext": true
+   }
+  ],
+  "ADF": [
+   {
+    "id": "f80c6e8d-9534-5c35-a1fa-d28dd4ed7b18",
+    "title": "Is China expanding its military presence in Southeast Asia?",
+    "simplified_title": "China Deepens Military Ties Across Southeast Asia",
+    "quick_summary": "China is quietly expanding its military footprint in mainland Southeast Asia through new training facilities and base access, though analysts say it's too early to call it dominance.",
+    "simplified_body": "In early November, China's Foreign Minister Wang Yi hosted counterparts from Laos, Cambodia, Vietnam, Thailand and Myanmar in Beijing, where the six countries agreed to closer economic and security cooperation. This came after a run of military moves: in late September, China and Laos opened a joint military support and training centre north of the Laotian capital, Vientiane, where Laotian air force pilots will train. Earlier in 2025, China also expanded its presence at Cambodia's Ream naval base on the Gulf of Thailand.\n\nThis affects the whole region's balance of power. Laos and Cambodia are already close to China — Laos is heavily indebted to Beijing through projects like the China-Laos railway. Analyst Marco Bünte says deeper ties could give China \"strategic depth\" in mainland Southeast Asia and better access to the South China Sea, where Vietnam and the Philippines have territorial disputes with China.\n\nFor newcomers: ASEAN is the Association of Southeast Asian Nations, a regional bloc. China isn't a member but says its activities aren't aimed at any \"third parties\". Vietnam pointed to the Treaty of Amity and Cooperation in Southeast Asia, stressing cooperation should serve peace. Experts caution against over-reading things — the Ban Keun runway is only 2,000 metres, too short for large Chinese bombers, and talk of a Chinese \"air corridor\" is speculation, not proven.\n\nWhat happens next hinges on access rights: will China need approval for each use, or secure long-term commitments it could invoke in a crisis? Bünte says these are still \"individual steps\", and whether they grow into a broader military alliance remains to be seen.",
+    "why_it_matters": "A bigger Chinese military reach into mainland Southeast Asia and the South China Sea reshapes a region vital to Australia's trade routes and security, and shifts the delicate balance between China and the US on our doorstep.",
+    "deep_analysis": "## Historical Context\n\nChina's push into Southeast Asia didn't start with bases — it started with money. Over recent years Beijing has poured investment into infrastructure like the China-Laos railway, binding smaller economies closer and, in Laos's case, leaving the country heavily indebted. Laos and Cambodia have been close military partners of China for some time, so the new Ban Keun training centre and the expanded Ream naval base read as deepening an existing relationship rather than a sudden pivot. The region has long been a chessboard for great-power rivalry, and the South China Sea — with its overlapping territorial claims — sits at the heart of it.\n\n## Multiple Perspectives\n\nThe two analysts quoted take notably different tones. Marco Bünte of the University of Erlangen-Nuremberg warns that China is expanding its \"military operational capabilities\" and could gain \"strategic depth\", though he stops short of calling it hegemony. Johann Fuhrmann of the Konrad Adenauer Foundation urges caution, distinguishing between training Laotian pilots now and any future Chinese use of the facilities; he calls the \"air corridor\" idea a future scenario, not a proven fact. Regional players differ too: Laos, Cambodia and Myanmar lean toward China, while others hedge — keeping ties with both China and the US. Vietnam and the Philippines, with their own maritime disputes, watch most warily.\n\n## What to Watch\n\nThe decisive question is access rights: must China seek government approval for each new use, or does it hold longer-term commitments invokable in a crisis? Watch whether other navies get the same terms as China at Ream, whether K-8 trainer aircraft become permanently stationed, and whether these \"individual steps\" harden into a broader military alliance. Western and European responses — and whether they offer tangible support rather than lectures — will also shape how smaller states balance their options.",
+    "concepts": [
+     {
+      "term": "ASEAN",
+      "definition": "The Association of Southeast Asian Nations, a regional bloc of Southeast Asian countries; China is not a member.",
+      "context": "Vietnam referenced the ASEAN Treaty when stressing that military cooperation should serve peace and stability."
+     },
+     {
+      "term": "strategic depth",
+      "definition": "Extra buffer space and military reach a country gains by having friendly bases or access beyond its own borders.",
+      "context": "Analyst Bünte says deeper ties with Laos could give China strategic depth in mainland Southeast Asia."
+     },
+     {
+      "term": "Ream naval base",
+      "definition": "A Cambodian naval facility on the Gulf of Thailand where China expanded its presence for logistics and training in 2025.",
+      "context": "It's unclear whether other navies can use the Ream facilities on the same terms as China."
+     },
+     {
+      "term": "air corridor",
+      "definition": "A route allowing military aircraft to pass through or operate across a region.",
+      "context": "Experts call the idea of a Chinese air corridor through Laos a future scenario rather than something already proven."
+     }
+    ],
+    "quiz": {
+     "question": "Why do analysts caution against concluding that the Ban Keun airfield is set up for major Chinese air operations?",
+     "options": [
+      "Laos has banned all foreign aircraft",
+      "The base has no aircraft stationed there at all",
+      "Its 2,000-metre runway is too short for large Chinese bombers, which usually need 3,000 metres",
+      "China has publicly refused to use the base"
+     ],
+     "answer_index": 2,
+     "explanation": "The article notes the Ban Keun runway is only 2,000 metres, too short for large bombers that typically require 3,000 metres, which is why talk of a Chinese air corridor is treated as speculation."
+    },
+    "background_beginner": "Southeast Asia is a cluster of nations — including Laos, Cambodia, Vietnam, Thailand and Myanmar — sitting between China and the busy South China Sea. For years China has built influence there through trade and big infrastructure projects, like a railway linking it to Laos. More recently that influence has taken a military turn: joint training centres and access to ports. The topic keeps coming up because several of these countries dispute sea borders with China, and because the region is a tug-of-war between China and the United States. Smaller nations try to stay friendly with both, keeping their options open while avoiding being pulled too far into either camp.",
+    "impact_score": 62,
+    "image_url": "https://static.dw.com/image/69205890_6.jpg",
+    "region": "Australian defence, ADF, AUKUS, regional security",
+    "region_code": "ADF",
+    "description": "China is quietly expanding its military footprint in mainland Southeast Asia through new training facilities and base access, though analysts say it's too early to call it dominance.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
       "name": "DW",
-      "url": "https://www.dw.com/en/mercedes-benz-halts-all-further-investment-at-german-facilities/a-79934509?maca=en-rss-en-all-1573-rdf"
+      "url": "https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-13T07:25:21.719903+00:00",
-    "published_date": "2026-11-13",
+    "reading_minutes": 4,
+    "created_at": "2026-11-14T19:26:00.258436+00:00",
+    "published_date": "2026-11-15",
     "has_fulltext": true
-   }
-  ],
-  "ADF": [
+   },
    {
     "id": "123ee1cf-709b-50b5-bcd8-2b53100b0129",
     "title": "What we know about China's military exercises around Taiwan",
@@ -1604,69 +1562,6 @@
     "created_at": "2026-11-14T07:25:05.932417+00:00",
     "published_date": "2026-11-14",
     "has_fulltext": true
-   },
-   {
-    "id": "e661e6a8-84e9-5f64-be5a-7f1a735b090f",
-    "title": "China’s ambassador tells Australia what to do, again | The Strategist",
-    "simplified_title": "China's ambassador uses op-ed to steer Australia away from the US",
-    "quick_summary": "A Chinese ambassador's newspaper opinion piece pushed Australia to deepen economic ties with China while quietly discouraging its alliance with the United States, ASPI argues.",
-    "simplified_body": "China's ambassador to Australia, Liu Jinsong, published an opinion piece (op-ed) in The Australian giving pointed advice to Prime Minister Anthony Albanese ahead of the Shenzhen Asia-Pacific Economic Cooperation (APEC) meeting and a later visit to Beijing. According to the Australian Strategic Policy Institute (ASPI), the piece urged Australia to see its future in a China-led \"Asia-Pacific\" and to focus on economic growth, while pointedly avoiding the term \"Indo-Pacific\" and downplaying China's opposition to the Australia–US alliance and AUKUS.\n\nThis matters for Australia's government, which is trying to balance a huge trading relationship with China against a long-standing security alliance with the US. ASPI reads the op-ed as a warning: cooperate on economic \"frontier\" areas like artificial intelligence, biotechnology and clean energy, and don't let strategic partnerships with \"outsiders\" get in the way of prosperity.\n\nFor newcomers: APEC is a 21-member forum spanning both sides of the Pacific, including the US, Canada, Mexico, Peru and Chile. AUKUS is a security pact between Australia, the United Kingdom and the US, centred on nuclear-powered submarines. ASPI notes China has long tried to split Australia from Washington, pointing back to a 2013 Canberra forum and to the 2020 trade restrictions imposed after Australia's comments on the Covid-19 pandemic.\n\nASPI argues China \"telegraphs its punches\" and that similar messaging appeared in Global Times and a China Daily editorial criticising AUKUS. What happens next likely plays out at APEC and in Beijing, where Australia's choices on alliances and trade will be closely watched.",
-    "why_it_matters": "For Australia, the piece cuts to a core dilemma: how to keep profitable trade with its largest partner without weakening the US alliance and AUKUS that underpin its security.",
-    "deep_analysis": "## Historical Context\n\nChina and Australia have a relationship pulled in two directions: deep economic ties alongside sharp strategic friction. ASPI traces this messaging back at least to the 2013 Australia–China Forum in Canberra, where a Chinese delegation led by Li Zhaoxing criticised Australia for objecting to China's air-defence identification zone over the East China Sea, framing the US alliance as \"a product of the Cold War\". ASPI also recalls 2020, when Australia's call regarding the Covid-19 pandemic was followed by Chinese trade restrictions — cited as an example that, as one analyst put it, \"coercion needn't be military\".\n\n## Multiple Perspectives\n\nASPI, which authored this piece, views Liu's op-ed as a deliberate, long-running campaign to dominate Australia and divide it from the US, dressed up as economic goodwill. China's own framing, as quoted, is that the relationship stands on a shared \"Asia-Pacific\" foundation of prosperity, and that following an \"extraterritorial power\" on AUKUS undermines Australia's strategic autonomy. A third voice appears via economist Peter Drysdale, whose Global Times piece argued APEC could lift China–Australia ties to the \"next stage\". Readers should note ASPI is itself a party to this strategic debate, not a neutral observer.\n\n## What to Watch\n\nThe near-term test is the Shenzhen APEC meeting and Albanese's subsequent Beijing visit — whether Australia leans into \"Asia-Pacific\" economic cooperation or holds firm on Indo-Pacific framing and AUKUS. Watch the language Australian officials use, any movement on cooperation in artificial intelligence, biotechnology and clean energy, and whether Chinese state outlets continue coordinated messaging against the US alliance.",
-    "concepts": [
-     {
-      "term": "op-ed",
-      "definition": "An opinion piece published in a newspaper, usually written by someone who isn't on the paper's staff, to argue a particular viewpoint.",
-      "context": "Ambassador Liu Jinsong's op-ed in The Australian is the centrepiece of the article."
-     },
-     {
-      "term": "Asia-Pacific Economic Cooperation (APEC)",
-      "definition": "A 21-member economic forum of countries around the Pacific Ocean, including both East Asian nations and the US, Canada, Mexico, Peru and Chile.",
-      "context": "The op-ed was timed to Australia's participation in the Shenzhen APEC meeting."
-     },
-     {
-      "term": "AUKUS",
-      "definition": "A security partnership between Australia, the United Kingdom and the United States, best known for a plan to give Australia nuclear-powered submarines.",
-      "context": "China has publicly opposed AUKUS, calling it counter to Australia's interests."
-     },
-     {
-      "term": "Indo-Pacific",
-      "definition": "A strategic framing of the region spanning the Indian and Pacific Oceans, often used by countries wary of a China-centred regional order.",
-      "context": "ASPI notes the term 'Indo-Pacific' was studiously avoided in the op-ed in favour of 'Asia-Pacific'."
-     }
-    ],
-    "quiz": {
-     "question": "According to ASPI, what was the main strategic aim behind Ambassador Liu's op-ed?",
-     "options": [
-      "To announce new Chinese trade restrictions on Australia",
-      "To invite Australia to join a new military pact with China",
-      "To encourage Australia to prioritise China-led economic ties while loosening its US alliance",
-      "To formally end the AUKUS agreement"
-     ],
-     "answer_index": 2,
-     "explanation": "ASPI argues the op-ed used economic framing to steer Australia toward a China-led 'Asia-Pacific' and away from its US alliance and AUKUS, part of a long-running effort to divide the two allies."
-    },
-    "background_beginner": "Australia and China are major trading partners, but they clash over security. China is Australia's biggest customer for exports, while the US is Australia's closest military ally through arrangements like AUKUS, a submarine-focused pact with the US and UK. China opposes AUKUS and has long wanted Australia to keep its distance from Washington. This tension flares repeatedly — for example, after Australia's 2020 comments on the Covid-19 pandemic, China imposed trade restrictions. The latest flashpoint is an opinion piece by China's ambassador, Liu Jinsong, published as Prime Minister Anthony Albanese prepares for a regional summit and a Beijing visit. Think tank ASPI reads it as pressure dressed up as friendly economic advice.",
-    "impact_score": 58,
-    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/GettyImages-2246710258-scaled.jpg",
-    "region": "Australian defence, ADF, AUKUS, regional security",
-    "region_code": "ADF",
-    "description": "A Chinese ambassador's newspaper opinion piece pushed Australia to deepen economic ties with China while quietly discouraging its alliance with the United States, ASPI argues.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "ASPI Strategist",
-      "url": "https://www.aspistrategist.org.au/chinas-ambassador-tells-australia-what-to-do-again/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-13T07:25:23.990181+00:00",
-    "published_date": "2026-11-13",
-    "has_fulltext": true
    }
   ],
   "AI_TECH": [
@@ -1742,6 +1637,79 @@
     "has_fulltext": true
    },
    {
+    "id": "b62260fa-b46b-5d2c-b260-283f0cfa367a",
+    "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
+    "simplified_title": "Microsoft Apologises After Huge Global Outage Hits Australia",
+    "quick_summary": "Microsoft has fully restored its Microsoft 365 services and said it is \"deeply sorry\" after a more-than-24-hour global outage disrupted governments, hospitals, schools and businesses, with potential billion-dollar costs warned for Australia.",
+    "simplified_body": "Microsoft 365 — the company's cloud-based subscription service that includes Outlook email, Teams and the Copilot AI assistant — collapsed in one of the longest outages in the company's history. It began around midday Thursday in the US (6pm in the UK) and lasted more than 24 hours before being fully restored on Saturday. Microsoft said the cause was a technical issue introduced during an earlier network capacity upgrade that surfaced after a recent network change — not a cyber-attack or artificial intelligence (AI).\n\nThe fallout was enormous and global. Downdetector logged outage reports from more than 70 countries, and over 7.4 million reports were filed worldwide. In Australia, hospitals, clinics, courts in South Australia and Victoria, schools, councils, the federal police and even the domestic spy agency ASIO were affected. Some medical facilities went back to paper scripts because logging into prescribing software needs Microsoft-supported email for multifactor verification.\n\nFor a newcomer: Microsoft 365 is used by hundreds of millions of people — Microsoft says about 430 million use its apps and had over 450 million paid commercial subscriptions. When so many organisations lean on one provider, a single fault can cascade everywhere at once. Overseas, UK NHS staff resorted to paper records, Immigration New Zealand halted visa processing, and Japanese government staff switched to text messaging.\n\nExperts warn this exposes \"Australia's reliance on foreign technology\". The Australian Computer Society has called for an urgent national review of which critical systems depend on a single provider, and where backups could keep the economy running if one fails again.",
+    "why_it_matters": "Experts warn the outage could cost the Australian economy billions and push some small businesses to close, while exposing how heavily local hospitals, courts, schools and even national security agencies lean on one foreign provider.",
+    "deep_analysis": "## Historical Context\n\nMajor cloud outages have become a recurring feature of modern digital life, because a handful of large companies now underpin huge chunks of the world's communications. Microsoft itself frames this event as one of the longest disruptions in its history, lasting more than 24 hours. The pattern is familiar: a single technical fault at a dominant provider ripples outward to governments, hospitals, banks and schools that all depend on the same platform. In this case, Microsoft says the trouble was introduced during an earlier network capacity upgrade and surfaced after a recent network change — not malicious activity, and explicitly not AI.\n\n## Multiple Perspectives\n\nMicrosoft says it is \"deeply sorry\" and has addressed the underlying issue, stressing it was a technical problem, not a cyber-attack. Australian experts are blunter: RSM Australia's Ashwin Pal said he was \"flabbergasted\" that a change which \"should have been tested\" caused this, warning a protracted event could be \"the straw that breaks the camel's back\" for smaller firms. The Australian Computer Society's Prins Ralston said affected Australians \"are entitled to be worried\" and called for a national review of sovereign IT risk. UK voices echoed this — Tim Clement-Jones called it an \"I-told-you-so moment\" about dependence on US tech. Security engineering professor Steven Murdoch offered a more technical view: big outages usually stem from \"surprising interaction between systems\" that are individually well understood but complex together.\n\n## What to Watch\n\nWatch whether the Australian federal government acts on calls for a review of single-provider dependencies and backup options. Also watch for any detailed post-incident report from Microsoft explaining exactly how the network change slipped through. Microsoft shares dipped slightly (down 1.1% at $516.86 when Wall Street opened), so market and regulatory reaction, and whether affected businesses seek compensation, are worth following.",
+    "concepts": [
+     {
+      "term": "Microsoft 365",
+      "definition": "Microsoft's cloud-based subscription service bundling popular apps like Outlook email, Teams and the Copilot AI assistant.",
+      "context": "When it went down, organisations that rely on it for email and communication were left scrambling."
+     },
+     {
+      "term": "multifactor verification",
+      "definition": "A security step that requires more than one proof of identity — such as a password plus a code sent to your email — before granting access.",
+      "context": "Because it depends on Microsoft email, some medical staff couldn't log into prescribing software and reverted to paper."
+     },
+     {
+      "term": "network capacity upgrade",
+      "definition": "Work done to increase how much traffic a network can handle, part of routine maintenance of large systems.",
+      "context": "Microsoft said a fault introduced during this work later surfaced and triggered the outage."
+     },
+     {
+      "term": "artificial intelligence (AI)",
+      "definition": "Computer systems that perform tasks normally needing human intelligence, such as Microsoft's Copilot assistant.",
+      "context": "Microsoft ruled it out as the cause, saying the outage was purely a technical issue."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the outage worry experts beyond the immediate disruption?",
+     "options": [
+      "It means Microsoft 365 will be permanently shut down",
+      "It proves the outage was caused by a cyber-attack on Australia",
+      "It exposes how heavily critical services rely on a single foreign provider with no backup",
+      "It shows AI assistants like Copilot caused the failure"
+     ],
+     "answer_index": 2,
+     "explanation": "Experts and the Australian Computer Society warned the outage revealed Australia's reliance on one provider and called for a review of backup options — Microsoft ruled out both cyber-attacks and AI as causes."
+    },
+    "background_beginner": "Microsoft is a huge US software company whose Microsoft 365 service — which includes Outlook email, Teams chat and the Copilot AI assistant — is used by hundreds of millions of people and organisations worldwide. On Thursday a technical fault, which Microsoft traced to an earlier network upgrade, knocked these services offline for more than a day in one of its longest-ever outages. Because governments, hospitals, schools, banks and airlines all depend on the same platform, the failure spread across more than 70 countries at once. It keeps coming up because so much of modern life runs through a few big tech providers, so when one stumbles, everyone feels it — reviving long-running debates about over-reliance on a single company.",
+    "impact_score": 78,
+    "image_url": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/411_82_4687_3752/master/4687.jpg?width=1920&quality=85&auto=format&fit=max&s=de1836a35997733bc04c359ecff9b281",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "Microsoft has fully restored its Microsoft 365 services and said it is \"deeply sorry\" after a more-than-24-hour global outage disrupted governments, hospitals, schools and businesses, with potential billion-dollar costs warned for Australia.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-14/microsoft-says-sorry-for-global-outage-and-details-recovery/107385540"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "17ff7871-01b5-5209-bfa5-2c4c4d2c7b26"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-14T19:26:02.147020+00:00",
+    "published_date": "2026-11-15",
+    "has_fulltext": true
+   },
+   {
     "id": "7f863007-f1ab-525a-85e1-e00f701083a6",
     "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
     "simplified_title": "North Korean hackers steal $400m in crypto using fake video calls",
@@ -1803,74 +1771,8 @@
     "created_at": "2026-11-14T07:25:05.768982+00:00",
     "published_date": "2026-11-14",
     "has_fulltext": true
-   },
-   {
-    "id": "17ff7871-01b5-5209-bfa5-2c4c4d2c7b26",
-    "title": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
-    "simplified_title": "Microsoft 365 Outage Knocks Out Outlook and Teams Worldwide",
-    "quick_summary": "A global Microsoft 365 outage left tens of thousands of users unable to access Outlook, Teams and Copilot before the company began slowly restoring service.",
-    "simplified_body": "On Thursday, Microsoft hit a major global outage across its Microsoft 365 suite of software, including the Outlook email client, the Teams messaging app, Word, Excel, PowerPoint, and the AI assistant Copilot. The outage tracking site Downdetector showed reports peaking at nearly 130,000 to 140,000 around 18:00 UTC (Coordinated Universal Time, also written GMT). Many users said they couldn't send, receive or even load their emails.\n\nThis affected ordinary workers and businesses that rely on these tools every day, so a glitch quickly becomes lost productivity. The ripple reached further, too: both OpenAI and Anthropic reported the outage was breaking the Microsoft 365 connector that links their chatbots, ChatGPT and Claude, to Microsoft services. Electric truck maker Workhorse Group even pushed back its quarterly results, citing the disruption.\n\nMicrosoft explained that a batch of its servers became \"unexpectedly unavailable\" after failing automated health checks, which dumped extra load onto the servers still running and overwhelmed them — a cascading failure. The company pointed to recent configuration updates as a likely cause and paused all deployments while it investigated. This followed an Azure cloud outage the previous month.\n\nBy 11:06pm UTC, Microsoft said a portion of affected servers had returned to service and stayed stable, and it had shifted traffic to alternative pathways. It warned recovery would be gradual as users reconnect, and did not say when everything would be fully restored.",
-    "why_it_matters": "When a single provider like Microsoft stumbles, workplaces everywhere grind to a halt — a reminder for Aussie businesses leaning on cloud services to keep a backup option handy, as one RMIT expert urged.",
-    "deep_analysis": "## Historical Context\n\nBig cloud outages have become a recurring feature of modern work. Microsoft itself reported an Azure cloud platform outage just the previous month that hit its productivity software and industries worldwide. RMIT University associate professor Mark Gregory drew a direct comparison to the configuration issue that brought down Optus's network in Australia in 2023 — a reminder that these \"network layer\" failures aren't unique to one company. The pattern is familiar: a small change, a cascade, and a long hunt for the root cause.\n\n## Multiple Perspectives\n\nMicrosoft framed the event as a technical fault — servers failing automated health checks and straining the rest — and stressed it was \"aggressively pursuing all pathways to reduce impact.\" Independent trackers like Downdetector gave the scale, with reports peaking near 130,000–140,000 (the exact peak varies slightly between sources). Gregory offered the critical view: companies should invest more in testing environments before pushing configuration changes live, and businesses should keep backup options — he noted many people keep a Gmail account for exactly this reason. AI firms OpenAI and Anthropic framed it as an upstream problem hitting their Microsoft connectors.\n\n## What to Watch\n\nMicrosoft didn't state when services would be fully restored, so the immediate question is how smoothly the gradual recovery goes as users reconnect. Longer term, watch whether Microsoft confirms the configuration update as the root cause, and whether a second major outage in as many months prompts customers to rethink their reliance on a single provider.",
-    "concepts": [
-     {
-      "term": "configuration updates",
-      "definition": "Changes to the settings that control how servers and networks operate; a faulty one can ripple across a whole system.",
-      "context": "Microsoft pointed to recent configuration updates as the likely cause of its servers becoming unavailable."
-     },
-     {
-      "term": "health checks",
-      "definition": "Automated tests a system runs to confirm its servers are working properly; servers that fail can be pulled out of service.",
-      "context": "Microsoft's servers became unavailable after failing automated health checks, overloading the rest."
-     },
-     {
-      "term": "connector",
-      "definition": "A piece of software that links one service to another so they can share data, such as joining a chatbot to Microsoft's apps.",
-      "context": "OpenAI and Anthropic said the outage broke the Microsoft 365 connector linking their chatbots to Microsoft services."
-     }
-    ],
-    "quiz": {
-     "question": "According to Microsoft, what caused the servers still running to become overwhelmed?",
-     "options": [
-      "A sudden surge in overall internet traffic worldwide",
-      "A power failure at Microsoft's main data centre",
-      "A batch of servers going unavailable, shifting their load onto the rest",
-      "A cyberattack targeting Outlook and Teams"
-     ],
-     "answer_index": 2,
-     "explanation": "Microsoft said the elevated load wasn't from an overall traffic increase but from many servers being unexpectedly unavailable, which shifted their load onto the remaining infrastructure and overwhelmed it."
-    },
-    "background_beginner": "Microsoft 365 is a bundle of software that millions of workplaces use every day — Outlook for email, Teams for chat and calls, plus Word, Excel and PowerPoint — all run partly through Microsoft's \"cloud\" servers rather than just your own computer. When those servers have a problem, huge numbers of people lose access at once. On Thursday, one such outage hit globally, with tens of thousands reporting issues. These disruptions keep cropping up because so many businesses depend on a handful of cloud providers, so a single technical fault — often a configuration change gone wrong — can spread far and wide before engineers track it down.",
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=1920&quality=85&auto=format&fit=max&s=e1205e1648cbbe0e93dadc7a43e0aa38",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "A global Microsoft 365 outage left tens of thousands of users unable to access Outlook, Teams and Copilot before the company began slowly restoring service.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo"
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-13T01:25:15.492229+00:00",
-    "published_date": "2026-11-13",
-    "has_fulltext": true
    }
   ]
  },
- "total_stories": 28
+ "total_stories": 26
 }
