@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "generated_at": "2026-11-14T19:23:03.977356+00:00",
+ "generated_at": "2026-11-15T01:23:04.433433+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -462,6 +462,69 @@
     "related_story_ids": [],
     "reading_minutes": 5,
     "created_at": "2026-11-14T19:26:28.659278+00:00",
+    "published_date": "2026-11-15",
+    "has_fulltext": true
+   },
+   {
+    "id": "b3c506e0-5056-5fdc-8218-3677c5672668",
+    "title": "ASEAN countries sign world's first region-wide digital economy pact, laying foundation for collaboration",
+    "simplified_title": "ASEAN signs world's first region-wide digital economy deal",
+    "quick_summary": "Southeast Asian nations have signed a legally binding Digital Economy Framework Agreement to make cross-border digital trade easier across the region.",
+    "simplified_body": "On Saturday 14 November, member states of the Association of Southeast Asian Nations (ASEAN) signed the world's first region-wide, legally binding Digital Economy Framework Agreement (DEFA). Singapore Deputy Prime Minister Gan Kim Yong, who is also Minister for Energy, Trade and Industry (Trade), said the deal took several years to negotiate and should come into force \"sometime early next year\". It covers cross-border data flows, end-to-end digital trade, protection of source code, cybersecurity and artificial intelligence.\n\nThe agreement is meant to help businesses of all sizes — including small- and medium-sized enterprises (SMEs) — expand and scale across the region. It aims to make sectors like e-commerce, payments, logistics and supply chains work together more smoothly. Practical wins include using electronic documents instead of paper to speed up trade and cut costs, plus digital payments for business-to-business deals and the idea of an ASEAN-wide digital identity system.\n\nEach country sits at a different stage of readiness, so DEFA is built to be flexible. It sets basic rules for data to flow across borders, but allows exceptions for concerns such as privacy, business confidentiality and national security. Gan said the design means the bloc won't be held back by its slowest member, and countries not ready today can join later.\n\nLooking ahead, ASEAN has begun a feasibility study for a Green Economy Framework Agreement (GEFA), with discussions hoped to launch next year. The bloc is also progressing a free trade agreement (FTA) with Canada towards a \"substantial conclusion\" and is exploring other FTAs with partners.",
+    "why_it_matters": "A single digital rulebook across Southeast Asia could make it cheaper and faster for firms to trade online in a market on Australia's doorstep, shaping the region Australian businesses increasingly rely on.",
+    "deep_analysis": "## Historical Context\n\nASEAN is a bloc of Southeast Asian nations that has long worked to knit its economies closer together, traditionally through agreements on physical goods and tariffs. The Digital Economy Framework Agreement marks a shift into the online world — it is described as the bloc's first standalone digital economy agreement, and the world's first region-wide, legally binding deal of its kind. Gan Kim Yong noted it took \"several years\" to negotiate, reflecting how tricky it is to get many countries at different stages of development to agree on shared digital rules.\n\n## Multiple Perspectives\n\nGan framed the agreement as ambitious yet acceptable to all members — a balance that required building in exceptions for privacy laws, business confidentiality and national security. On competition, he acknowledged many businesses, especially SMEs, worry about facing more rivals across the region. His counter is that ASEAN economies are largely complementary, and that firms face far greater competition from outside the bloc; easier, cheaper imports could actually make businesses more competitive. The key challenge he flags is helping SMEs build the skills and systems to actually use the agreement.\n\n## What to Watch\n\nWatch for DEFA coming into force, expected early next year, and for government efforts to raise private-sector awareness so firms actually tap into it. Keep an eye on the proposed ASEAN-wide digital identification system and new digital payment arrangements. Beyond digital, there's the planned Green Economy Framework Agreement (GEFA), with discussions hoped to launch next year, plus the ASEAN-Canada free trade agreement moving towards a \"substantial conclusion\" and other potential FTAs under discussion.",
+    "concepts": [
+     {
+      "term": "Digital Economy Framework Agreement (DEFA)",
+      "definition": "ASEAN's first standalone, legally binding deal setting shared rules for the digital economy, covering things like cross-border data flows and digital trade.",
+      "context": "Signed on 14 November and expected to come into force early next year."
+     },
+     {
+      "term": "cross-border data flows",
+      "definition": "The movement of digital data between countries, which businesses need for online trade but which raises privacy and security questions.",
+      "context": "DEFA sets basic rules allowing data to transfer, subject to some exceptions."
+     },
+     {
+      "term": "small- and medium-sized enterprises (SMEs)",
+      "definition": "Smaller businesses that often lack the resources of large firms to expand internationally.",
+      "context": "A key group DEFA aims to help scale across the region, though some worry about more competition."
+     },
+     {
+      "term": "Green Economy Framework Agreement (GEFA)",
+      "definition": "A proposed ASEAN agreement focused on the green economy, currently at the feasibility study stage.",
+      "context": "The bloc hopes to launch discussions on it next year."
+     }
+    ],
+    "quiz": {
+     "question": "Why did ASEAN build flexibility and exceptions into the DEFA?",
+     "options": [
+      "Because only Singapore wanted to sign it",
+      "Because it was designed to exclude smaller businesses",
+      "Because members are at different stages of readiness and have concerns like privacy and national security",
+      "Because the agreement is not legally binding"
+     ],
+     "answer_index": 2,
+     "explanation": "Gan said members have different states of readiness and specific concerns — privacy, business confidentiality and national security — so exceptions were built in and countries can join later when ready."
+    },
+    "background_beginner": "ASEAN, the Association of Southeast Asian Nations, is a group of Southeast Asian countries that cooperate on trade and economic matters. For years they've worked to make it easier to do business across borders, mostly with physical goods. As online shopping, digital payments and data-driven services have boomed, the bloc wanted shared rules for the digital world too. That's why they negotiated the Digital Economy Framework Agreement, signed in November 2026 after several years of talks. Singapore's Deputy Prime Minister Gan Kim Yong has been a key voice explaining it. The topic keeps coming up because digital trade is growing fast, and countries want common rules so businesses — big and small — can operate smoothly across the whole region.",
+    "impact_score": 68,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--iXCd_8zJ--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/14/gkyasean-1.png?itok=USMOYucO",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "Southeast Asian nations have signed a legally binding Digital Economy Framework Agreement to make cross-border digital trade easier across the region.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/asean-digital-economy-framework-agreement-6551526"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-11-15T01:24:31.201090+00:00",
     "published_date": "2026-11-15",
     "has_fulltext": true
    },
@@ -1110,6 +1173,64 @@
     "has_fulltext": true
    },
    {
+    "id": "d09954ac-3fac-536c-ac29-be4c86defe04",
+    "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+    "simplified_title": "Nearly Half of US GLP-1 Users Don't Follow the Script",
+    "quick_summary": "A new CDC study finds about 27 million US adults used GLP-1 drugs in 2025, and nearly half of them altered how they took the medication, often because of cost.",
+    "simplified_body": "Researchers at the Centers for Disease Control and Prevention (CDC) surveyed more than 8,000 US adults between July and August 2025 and found roughly one in 10 (9.8 percent) had used a GLP-1 medication that year — about 27 million people. GLP-1 stands for glucagon-like peptide-1 receptor agonist, a class of peptide-based drugs used for diabetes, weight loss and a growing list of linked conditions like heart disease and obstructive sleep apnoea. The study was published in the CDC's Morbidity and Mortality Weekly Report.\n\nThe headline finding: nearly half of users (44 percent) said they took the drug differently from how it was prescribed. People skipped doses, delayed refills, or used smaller amounts than directed. More than half of those changing their use pointed to cost or availability as the reason, which matters because taking these potent drugs in unintended ways raises questions about safety and whether they still work.\n\nCost hit younger users hardest. Among adults aged 14–39 who modified their use, 58 percent blamed cost, compared with just 20 percent of those 65 or older. There's also a market twist: at least 23 percent of all users relied on compounded versions — copies mixed by pharmacies rather than the approved branded product — and another 9 percent weren't sure whether theirs was compounded.\n\nWhat happens next isn't spelled out, but the data suggests affordability and access to approved versions remain the big sticking points shaping how these hugely popular drugs are actually used.",
+    "why_it_matters": "GLP-1 drugs are reshaping how chronic conditions like diabetes and obesity are treated worldwide, and these findings show cost — not medical advice — is driving how millions actually take them, a tension Australians weighing their own pricey weight-loss and diabetes prescriptions will recognise.",
+    "deep_analysis": "## Historical Context\n\nGLP-1 receptor agonists began life as diabetes treatments, mimicking a gut hormone that helps regulate blood sugar and appetite. Their striking effect on weight turned them into a cultural and commercial phenomenon, and as the article notes, their approved uses have since broadened to conditions including cardiovascular disease and obstructive sleep apnoea. That rapid rise in demand is the backdrop to this study: when a drug becomes both highly effective and wildly popular, real-world use can drift well beyond what trials and prescriptions assumed.\n\n## Multiple Perspectives\n\nFrom a public-health view, the CDC data is a flag: nearly half of users deviating from their prescription — skipping doses, stretching refills, using less — raises genuine questions about safety and efficacy, since these are potent medicines. From users' perspective, the behaviour looks rational rather than reckless: more than half who modified use cited cost or availability, and younger people felt the squeeze most sharply (58 percent of those 14–39 versus 20 percent of over-65s). The prominence of compounded versions — at least 23 percent of users, plus 9 percent unsure — points to a supply-and-price gap that the approved market hasn't fully met.\n\n## What to Watch\n\nWatch whether cost and access barriers ease, and whether modified or compounded use carries measurable safety or effectiveness consequences. The large share of users who don't even know if their drug is compounded is worth tracking, as is how regulators and insurers respond to such widespread off-script use of a booming drug class.",
+    "concepts": [
+     {
+      "term": "GLP-1 medication",
+      "definition": "A class of peptide-based drugs (glucagon-like peptide-1 receptor agonists) used to treat diabetes, support weight loss, and manage related chronic conditions.",
+      "context": "The study estimated about 27 million US adults used one in 2025."
+     },
+     {
+      "term": "compounded version",
+      "definition": "A copy of a drug mixed by a pharmacy rather than supplied as the approved, branded product, often used when the official version is costly or scarce.",
+      "context": "At least 23 percent of users relied on compounded versions of the drug."
+     },
+     {
+      "term": "Morbidity and Mortality Weekly Report",
+      "definition": "A regular publication from the US Centers for Disease Control and Prevention that shares public-health data and findings.",
+      "context": "The GLP-1 study was published in it this week."
+     }
+    ],
+    "quiz": {
+     "question": "What reason did most people give for using their GLP-1 drug differently than prescribed?",
+     "options": [
+      "They preferred a different brand",
+      "Cost or availability",
+      "Their doctor told them to change the dose",
+      "The drug stopped working"
+     ],
+     "answer_index": 1,
+     "explanation": "More than half of those who modified their use cited cost or availability, and cost was the biggest barrier for younger users in particular (58 percent of those aged 14–39)."
+    },
+    "background_beginner": "GLP-1 drugs are a group of medicines that copy a natural gut hormone to help control blood sugar and curb appetite. They started out treating type 2 diabetes but became hugely popular for weight loss, and are now used for some heart and sleep conditions too. Because they work well and demand is high, they're also expensive and sometimes hard to get, which has pushed some people toward cheaper \"compounded\" copies made by pharmacies. The US Centers for Disease Control and Prevention (CDC) — the country's main public-health agency — keeps studying how people actually use them. The topic keeps coming up because these drugs are reshaping medicine, markets and public-health debates all at once.",
+    "impact_score": 68,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-2560x1440.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "A new CDC study finds about 27 million US adults used GLP-1 drugs in 2025, and nearly half of them altered how they took the medication, often because of cost.",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-15T01:24:30.758503+00:00",
+    "published_date": "2026-11-15",
+    "has_fulltext": true
+   },
+   {
     "id": "e5cbbed6-86ae-5774-921d-ca6b530ec3d6",
     "title": "New Orleans cruise ship collision: All passengers rescued in 'miracle on the Mississippi'",
     "simplified_title": "All 130 saved after tanker hits cruise ship in New Orleans",
@@ -1710,6 +1831,69 @@
     "has_fulltext": true
    },
    {
+    "id": "b4b070d7-a9bf-5b93-94e0-e6c9a2de75cc",
+    "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+    "simplified_title": "SpaceX Catches Returning Starship With Giant Tower Arms",
+    "quick_summary": "SpaceX guided its Starship upper stage back from orbit and caught it mid-air using the launch tower's mechanical arms.",
+    "simplified_body": "On Saturday evening at Starbase in Texas, SpaceX pulled off a striking feat: its Starship upper stage fell back through the clouds, flew horizontally, then fired three of its Raptor rocket engines to swing upright before being snagged by two arms on the launch tower. The margins were tiny — the rocket's only grip was two nubs sticking out about a foot on each side. Less than a minute after it came into view, it was caught.\n\nThis matters because it's a big step toward a massive, rapidly reusable rocket. Starships are huge and carry enormous energy as they return from orbit, so catching one — rather than letting it land on legs or splash into the sea — pushes SpaceX's reuse ambitions further than before. The company had already dazzled the world by landing rockets on barges and returning humans to space with Crew Dragon, its crewed capsule.\n\nFor background: humans have flown reusable spacecraft to orbit before. In the 1970s, NASA (the US National Aeronautics and Space Administration) built the Space Shuttles. Their solid rocket boosters were fished out of the ocean and reused, the large orange external tank was thrown away each flight, and the orbiters spent up to two weeks in space before landing on a runway. SpaceX's approach — catching the rocket with what look like outsized chopsticks — is a very different design.\n\nThis flight, nearly a quarter of a century after SpaceX was founded, suggests rapid reuse is firmly on the horizon. The article doesn't spell out the next steps, but the successful catch follows a handful of practice splashdowns into the Indian Ocean.",
+    "why_it_matters": "Cheaper, rapidly reusable heavy-lift rockets could reshape access to space worldwide — including for Australian satellite launches and research that rely on affordable rides to orbit.",
+    "deep_analysis": "## Historical Context\n\nReusable orbital spacecraft aren't new. In the 1970s, buoyed by the Moon landings, NASA designed and built several Space Shuttles. Those vehicles recovered their solid rocket boosters from the ocean and flew their orbiters back to a runway after up to two weeks in space, though the large orange external tank was discarded each flight. SpaceX, founded nearly 25 years ago, has already shown reuse works in other ways — landing boosters on barges and ferrying humans with Crew Dragon. The tower catch of the Starship upper stage is framed as the next leap beyond those earlier milestones.\n\n## Multiple Perspectives\n\nThe article is written largely in admiration, describing the catch as \"breathtaking\" and like \"stepping into the future.\" From an engineering view, the achievement is about narrow margins and solved problems — three Raptor engines firing at the last moment, two foot-long nubs as the only purchase. As background, it's worth noting that reuse debates have long weighed the promise of lower costs against the complexity and risk of recovering huge, high-energy vehicles. The Shuttle's mixed record is a reminder that reusability on paper doesn't automatically mean cheap or simple.\n\n## What to Watch\n\nThe catch followed a handful of practice runs into the Indian Ocean, suggesting an incremental test campaign. The piece says rapid reuse is \"firmly on the horizon\" but doesn't detail timelines or how quickly a caught Starship could be reflown. Worth watching: whether catches become routine, how fast turnaround gets, and whether this method scales reliably for both the booster and the upper stage.",
+    "concepts": [
+     {
+      "term": "Starship upper stage",
+      "definition": "The top section of SpaceX's giant Starship rocket, which reaches orbit and then returns to Earth.",
+      "context": "This is the part that was caught by the tower arms after flying in space."
+     },
+     {
+      "term": "Raptor rocket engines",
+      "definition": "The engines SpaceX built to power Starship; three of them fired to flip the returning ship upright.",
+      "context": "They ignited at the last moment to swing the rocket from horizontal to vertical for the catch."
+     },
+     {
+      "term": "Crew Dragon",
+      "definition": "SpaceX's capsule that carries astronauts to and from space.",
+      "context": "Mentioned as an earlier SpaceX achievement, returning humans to space."
+     },
+     {
+      "term": "solid rocket boosters",
+      "definition": "Powerful rockets that gave the Space Shuttle extra thrust at launch and were recovered from the sea.",
+      "context": "Used as a historical example of earlier reusable spaceflight hardware."
+     }
+    ],
+    "quiz": {
+     "question": "Why is catching the Starship upper stage described as such a hard engineering problem?",
+     "options": [
+      "It had to land on a runway like the Space Shuttle",
+      "It carried no engines to control its descent",
+      "Its only grip on the tower arms was two small nubs, giving very narrow margins",
+      "It had never been to orbit before the catch"
+     ],
+     "answer_index": 2,
+     "explanation": "The article stresses the tiny margins: the rocket's only purchase on the arms was two nubs protruding about a foot on each side, after three Raptor engines flipped it upright."
+    },
+    "background_beginner": "SpaceX is a private rocket company founded nearly 25 years ago, known for making spaceflight cheaper by reusing hardware instead of throwing it away. Its biggest project is Starship, a huge rocket built in two parts (a booster and an upper stage) at its Starbase site in Texas. The goal is \"rapid reuse\" — flying the same rocket again and again with little refurbishment. Earlier, SpaceX landed boosters on floating barges and flew astronauts with its Crew Dragon capsule. This story keeps coming up because each Starship test flight pushes a new limit, and catching the returning ship with the launch tower's arms is a major step toward that reuse goal.",
+    "impact_score": 72,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "SpaceX guided its Starship upper stage back from orbit and caught it mid-air using the launch tower's mechanical arms.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-15T01:24:34.563192+00:00",
+    "published_date": "2026-11-15",
+    "has_fulltext": true
+   },
+   {
     "id": "7f863007-f1ab-525a-85e1-e00f701083a6",
     "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
     "simplified_title": "North Korean hackers steal $400m in crypto using fake video calls",
@@ -1774,5 +1958,5 @@
    }
   ]
  },
- "total_stories": 26
+ "total_stories": 29
 }
