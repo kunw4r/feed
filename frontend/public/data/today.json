@@ -1,6 +1,6 @@
 {
- "date": "2026-11-15",
- "generated_at": "2026-11-15T07:23:04.179272+00:00",
+ "date": "2026-11-16",
+ "generated_at": "2026-11-15T19:23:03.553625+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -64,6 +64,69 @@
     "reading_minutes": 6,
     "created_at": "2026-11-14T19:26:02.020753+00:00",
     "published_date": "2026-11-15",
+    "has_fulltext": true
+   },
+   {
+    "id": "b53aeac4-b00d-5f12-842a-0a30a168008d",
+    "title": "How sensitive data from Centrelink and other Australian agencies may have been fed to Palantir software",
+    "simplified_title": "Australian Agencies' Sensitive Data May Be Feeding Palantir Software",
+    "quick_summary": "Documents reveal at least 10 Australian government agencies share sensitive personal data with a fraud taskforce that may feed it into controversial US firm Palantir's software, often without the data-owning departments knowing.",
+    "simplified_body": "Freedom of information (FoI) documents show that sensitive personal data from Centrelink customers, taxpayers and childcare workers may be ending up in software made by the US company Palantir. At least 10 federal agencies share data with a fraud taskforce set up in 2022 to target rorts in welfare, childcare and the National Disability Insurance Scheme (NDIS). The data can be fed into Palantir's software by the Australian Criminal Intelligence Commission (ACIC) — sometimes without the departments that supplied it knowing whether Palantir is being used.\n\nThis affects ordinary Australians whose details — names, dates of birth, addresses, bank account information, income and asset details, and even \"surveillance material\" — flow into the system. The taskforce is led by the National Disability Insurance Agency (NDIA) and Services Australia, with the intelligence work run by the ACIC.\n\nPalantir, co-founded by Trump-aligned billionaire Peter Thiel, is controversial because its clients include the Israeli military and US Immigration and Customs Enforcement (ICE). The company says it has no access to the data clients enter. The Greens leader David Shoebridge wants Palantir contracts banned. The Australian government has spent nearly $80m on Palantir contracts since May.\n\nThe documents also show a planned ethics and human oversight framework was judged \"too difficult to implement\" and downgraded to an \"ethics guide\" in October last year. Independent researcher Dr Gabrielle Josling, who lodged the FoI requests, has asked the Australian National Audit Office to review the taskforce. Coles and Westpac have reportedly declined to renew Palantir contracts, so pressure on the firm may keep building.",
+    "why_it_matters": "If you've ever dealt with Centrelink, the tax office or childcare subsidies, your personal details could be flowing into surveillance software whose use the data-owning agencies can't even confirm — raising real questions about privacy and oversight for millions of Australians.",
+    "deep_analysis": "## Historical Context\n\nThe fraud fusion taskforce was established in 2022 to target fraud in government payments across the NDIS, childcare and welfare. A 2024 memorandum of understanding between taskforce agencies originally required an ethics and human oversight framework, described in the documents as \"an important part of effective risk management\". That requirement was later judged \"too difficult to implement\" and became an \"ethics guide\" in October last year, with defined assessments and performance monitoring abandoned. Guardian Australia first reported on Palantir's use by the ACIC in September.\n\n## Multiple Perspectives\n\nThe ACIC frames Palantir as just one of \"a suite of analytical tools\" used on specific cases to disrupt organised crime defrauding government programs. Palantir insists it is \"just a software company\" with no access to client data. Services Australia says each disclosure is weighed case by case, and the ATO says it shared taxpayer data only where \"lawfully able\" — and never tax file numbers. On the other side, Greens leader David Shoebridge argues Palantir should be banned given how its software is used by the IDF and ICE. Researcher Dr Gabrielle Josling warns the taskforce lacks a way to learn from data-quality problems and governance weaknesses. Notably, agencies like the ATO and Centrelink said they weren't aware whether Palantir was actually used on their data.\n\n## What to Watch\n\nWatch whether the Australian National Audit Office takes up Josling's call for a review. Keep an eye on whether more companies or governments follow Coles, Westpac and pressure on the UK's NHS in dropping Palantir, and whether Shoebridge's push for a ban gains traction. The trajectory of the $80m-plus in government contracts since May is also worth tracking.",
+    "concepts": [
+     {
+      "term": "Palantir",
+      "definition": "A controversial US technology company, co-founded by Trump-aligned billionaire Peter Thiel, that makes data-analysis and surveillance software; its clients include the Israeli military and US immigration enforcement.",
+      "context": "The firm says it has no access to the data its clients enter, but critics want its Australian government contracts banned."
+     },
+     {
+      "term": "Australian Criminal Intelligence Commission (ACIC)",
+      "definition": "The federal agency that runs the intelligence arm of the fraud taskforce and can feed shared data into Palantir's software.",
+      "context": "It gathers data from at least 10 agencies but wouldn't say whether it tells them when their data is put into Palantir."
+     },
+     {
+      "term": "freedom of information (FoI)",
+      "definition": "A legal process letting people request documents held by government agencies.",
+      "context": "The documents exposing the data-sharing were released under FoI requests lodged by an independent researcher."
+     },
+     {
+      "term": "National Disability Insurance Scheme (NDIS)",
+      "definition": "Australia's government scheme funding supports for people with disability.",
+      "context": "The taskforce was set up partly to target fraud in NDIS payments."
+     }
+    ],
+    "quiz": {
+     "question": "What is the main privacy concern raised in the documents?",
+     "options": [
+      "Agencies that supplied sensitive data often didn't know whether it was fed into Palantir's software",
+      "Palantir publicly sold Australians' personal data",
+      "The taskforce was shut down for breaking the law",
+      "Centrelink deleted customer records by mistake"
+     ],
+     "answer_index": 0,
+     "explanation": "The documents show data from at least 10 agencies could be put into Palantir's software by the ACIC, yet agencies like the ATO and Centrelink weren't aware whether Palantir was actually used on their data."
+    },
+    "background_beginner": "Palantir is a US tech company, co-founded by billionaire Peter Thiel, that builds powerful software for sifting through huge amounts of data. It's controversial because its customers include the Israeli military and US immigration enforcement. In Australia, a government \"fraud fusion taskforce\" was set up in 2022 to catch people rorting welfare, childcare and disability payments. To do that, many agencies — like the tax office, Centrelink and corporate regulators — share people's personal details with the Australian Criminal Intelligence Commission, which can load that data into Palantir's software. The story keeps coming up because privacy advocates and the Greens worry about how this sensitive data is handled, who oversees it, and whether safeguards are strong enough.",
+    "impact_score": 68,
+    "image_url": "https://i.guim.co.uk/img/media/7ca1181a4138e0412b2c6313ada9da4dd8a1edde/0_0_5000_4000/master/5000.jpg?width=1920&quality=85&auto=format&fit=max&s=6873ef9864271f6bb8370ae723635de4",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Documents reveal at least 10 Australian government agencies share sensitive personal data with a fraud taskforce that may feed it into controversial US firm Palantir's software, often without the data-owning departments knowing.",
+    "tier": "LOCAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/personal-data-centrelink-ato-ndis-palantir"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 5,
+    "created_at": "2026-11-15T19:26:18.024605+00:00",
+    "published_date": "2026-11-16",
     "has_fulltext": true
    },
    {
@@ -270,147 +333,9 @@
     "created_at": "2026-11-14T19:26:37.244855+00:00",
     "published_date": "2026-11-15",
     "has_fulltext": true
-   },
-   {
-    "id": "8f32d4d4-7f3d-5273-8de5-182f6bc34dd4",
-    "title": "Hundreds take to water for Newcastle coal port protest despite attempt by NSW police to stop them",
-    "simplified_title": "Hundreds paddle at Newcastle coal port after police fail to stop protest",
-    "quick_summary": "About 600 kayakers paddled into the world's biggest coal port in Newcastle to protest coal exports, after a court overruled a police attempt to block the event, with no arrests made.",
-    "simplified_body": "On Saturday, around 600 members of the climate group Rising Tide paddled kayaks and other craft into the Port of Newcastle, unfurling a sign reading \"coal exports = climate chaos\". Hundreds more gathered onshore at Horseshoe Beach. The \"Paddle for the Planet\" event went ahead after a last-minute New South Wales (NSW) supreme court win, and no arrests were made. The Port of Newcastle paused shipping between 10am and 2pm.\n\nThe protest targets Newcastle, the world's largest coal port, and demands funding to help coal workers move into new jobs. Rising Tide accused Prime Minister Anthony Albanese of being \"hypocritical\" for urging climate action at the COP31 summit in Türkiye while his federal Labor government and NSW premier Chris Minns's state Labor government keep approving new coal and gas projects. Organisers want an end to Newcastle coal exports by 2030.\n\nEarlier in the week, Newcastle council — backed by Minns — banned Rising Tide from using council-owned land for protests. The event dodged the ban by using land managed by Transport for NSW. The group had applied for a \"form 1\", a permit that stops participants being charged, two months ahead. Police refused, so the matter went to court, where justice Edward Muston ruled the public interest in political expression outweighed police safety concerns.\n\nRising Tide plans a larger on-water \"People's Blockade\" at the end of February 2027, a fortnight before the NSW election on 13 March. Past protests saw mass arrests, so how the land ban affects future events remains unclear.",
-    "why_it_matters": "Newcastle is the world's biggest coal port and this clash over the right to protest fossil fuels is shaping up as a live issue heading into the March 2027 NSW election.",
-    "deep_analysis": "## Historical Context\n\nRising Tide has run annual demonstrations at Newcastle, forming flotillas of kayaks that slow or halt coal ships on the Hunter River. Tensions with authorities have escalated. During the 2024 protest, the Minns government tried to impose a maritime exclusion zone around the port, but the supreme court ruled it invalid just as the event began; 173 protesters were charged, with charges against 125 later withdrawn in August. At the 2025 blockade, police charged 129 people who entered the water and blocked three coal ships; those cases remain before the courts. This year's dispute centred on a \"form 1\" permit that police declined, pushing the matter back to court.\n\n## Multiple Perspectives\n\nPolice, represented by Assistant Commissioner David Waddell, cited serious safety concerns for large numbers of people on the water and resourcing pressures; a cap of 785 vessels was set. Police minister Yasmin Catley branded Rising Tide \"bad faith actors\" after they defied directions in 2024 and 2025. Premier Minns argued the council could not distance itself from illegal activity at the protests. Rising Tide says it is exercising a democratic right to protest a genuine emergency. Greens MP Sue Higginson argues climate must be an election issue and criticised Minns's legislative changes allowing the Mount Pleasant coalmine to expand despite a High Court ruling that global emissions must be considered in approvals. In an opinion piece, Bob Brown compared the council land ban to a 1988 Hobart market ban on LGBTI campaigners that backfired and boosted support.\n\n## What to Watch\n\nWatch the larger February 2027 \"People's Blockade\" and whether the council land ban holds up or sparks further legal challenges over the right to peaceful protest. The NSW election on 13 March 2027 will test whether coal and climate sway voters, and the Mount Pleasant mine legislation is set to be debated in NSW parliament.",
-    "concepts": [
-     {
-      "term": "Rising Tide",
-      "definition": "A climate activism group that organises large on-water protests against coal exports at Newcastle.",
-      "context": "The group has run annual demonstrations and plans a larger blockade in February 2027."
-     },
-     {
-      "term": "form 1",
-      "definition": "A permit-style notice protest organisers can submit to police so participants aren't charged under the Summary Offences Act.",
-      "context": "Police refused Rising Tide's application, sending the dispute to the supreme court."
-     },
-     {
-      "term": "COP31",
-      "definition": "A United Nations global climate summit where world leaders discuss cutting emissions.",
-      "context": "Protesters called Albanese 'hypocritical' for urging climate action there while approving new coal projects at home."
-     },
-     {
-      "term": "Port of Newcastle",
-      "definition": "A major shipping port in New South Wales, described as the world's largest coal port.",
-      "context": "Shipping was paused between 10am and 2pm during the paddle-out."
-     }
-    ],
-    "quiz": {
-     "question": "Why was the 'Paddle for the Planet' protest able to go ahead despite official opposition?",
-     "options": [
-      "The Minns government lifted the council land ban at the last minute",
-      "Police granted Rising Tide a form 1 permit two months in advance",
-      "The supreme court ruled the public interest in political expression outweighed police concerns, and the event avoided council-owned land",
-      "The Port of Newcastle invited protesters onto its land"
-     ],
-     "answer_index": 2,
-     "explanation": "Justice Edward Muston sided with the protesters on public-interest grounds, and because the event was held on Transport for NSW land, not council land, it wasn't subject to the council ban."
-    },
-    "background_beginner": "Newcastle, in New South Wales, is home to the world's biggest coal port, where coal mined in the Hunter Valley is shipped overseas and burned, adding to global warming. A climate group called Rising Tide has run growing annual protests there since the early 2020s, paddling kayaks into the harbour to slow coal ships. Governments led by Prime Minister Anthony Albanese (federal) and Premier Chris Minns (NSW) keep approving new coal and gas projects, which protesters say contradicts their climate promises. Authorities have tried exclusion zones, mass arrests and protest bans to stop the events. The clashes keep returning because the fight over coal, the right to protest, and climate policy is far from settled.",
-    "impact_score": 58,
-    "image_url": "https://i.guim.co.uk/img/media/f2490c86c8b994219fa18caf7193ee29b488d3b0/0_0_5967_3978/master/5967.jpg?width=1920&quality=85&auto=format&fit=max&s=d92e1348c7d34899ecde3c2bb951a41b",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "About 600 kayakers paddled into the world's biggest coal port in Newcastle to protest coal exports, after a court overruled a police attempt to block the event, with no arrests made.",
-    "tier": "LOCAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/14/rising-tide-protest-newcastle-coal-port-blockade-nsw-police-ntwnfb"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-14/rising-tide-paddle-protest-newcastle-coal-exports/107386226"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/14/chris-minns-trumpian-disdain-climate-coalmining-rising-tide-protest-ban-ntwnfb"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-14T07:25:38.592179+00:00",
-    "published_date": "2026-11-14",
-    "has_fulltext": true
    }
   ],
   "ASIA": [
-   {
-    "id": "561f520f-aa0d-52f7-9d4a-843d30c692d6",
-    "title": "Trump, Xi, Putin to hold historic meeting in China: White House",
-    "simplified_title": "Trump, Xi and Putin set for first-ever three-way summit in China",
-    "quick_summary": "The White House says Trump, Xi and Putin will hold an unprecedented three-way meeting in Shenzhen next week, though China hasn't officially confirmed it.",
-    "simplified_body": "The White House said on Friday that United States President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping will hold the first-ever three-way, or trilateral, meeting of their three nations next Thursday. It would take place on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, in southern China. US officials say Trump wants to talk about reducing nuclear arsenals and raise Iran, but not Russia's war in Ukraine.\n\nThis matters because it would put the leaders of the world's three most powerful rivals in one room. For Putin, who has faced years of diplomatic isolation since invading Ukraine in 2022, simply standing alongside the others is a win. China is the awkward host: it's close to Russia but doesn't want to be openly tied to the Ukraine war, which could damage its ties with the European Union.\n\nWorth knowing: the sources don't fully agree. US network CNA reports the White House confirmed the meeting. German broadcaster DW says China, Russia and the US had not officially confirmed it, with Beijing only admitting the three were \"in communication\". Media have dubbed the idea a \"new Yalta\", after the 1945 wartime meeting where big powers carved up global influence — a comparison analysts call inaccurate. China and Russia declared a \"no limits\" partnership in 2022, and Beijing has supplied Russia with energy purchases and \"dual-use\" goods.\n\nWhat's next depends on whether China publicly agrees to host. Trump is due to leave Washington on Monday, stop in the Philippines for an Association of Southeast Asian Nations (ASEAN) summit, then head to Shenzhen. A separate one-on-one Trump–Putin meeting is not scheduled.",
-    "why_it_matters": "A sit-down between the US, Russia and China would reshape global diplomacy, and the deliberate exclusion of Ukraine and Europe sets a worrying precedent — one Australia, as a close US ally watching the Asia-Pacific, will be following closely.",
-    "deep_analysis": "## Historical Context\n\nThe \"new Yalta\" label being thrown around refers to the 1945 meeting where the United States, United Kingdom and Soviet Union met in Crimea to settle the post-war balance of power. The comparison captures an anxiety: that a handful of big powers might again decide the world's fate over the heads of everyone else. Analysts quoted by DW call the parallel inaccurate and say it doesn't reflect today's dynamics. Putin first floated the trilateral idea last month in a call with Trump, and according to The Wall Street Journal he wanted it to cover ending the Ukraine war — notably the one topic US officials now say won't be on the Shenzhen agenda.\n\n## Multiple Perspectives\n\nThe sources diverge on something basic: whether the meeting is actually happening. CNA reports the White House confirmed it outright. DW reports no official confirmation from Beijing, Moscow or Washington, with China only acknowledging \"communication\". That gap is worth holding in mind.\n\nEach leader has different incentives. For Putin, a photo alongside his rivals ends his isolation. For Trump, officials frame it around curbing nuclear weapons. China is the reluctant host: analysts Alicja Bachulska (ECFR) and Aurelio Insisa (MERICS) argue Beijing gains little, fears the optics of \"Yalta 2.0\" or a \"G3\" club, and has shown no real appetite for nuclear disarmament. A US commission (USCC) called China a \"decisive enabler\" of Russia's war, while noting deep mistrust still limits the partnership.\n\n## What to Watch\n\nWatch for official Chinese confirmation — its absence is telling. Watch whether Ukraine creeps into the talks despite US assurances it won't, which DW warns could inflame China–EU relations. And watch the separate US track with Kyiv and Moscow, which officials say is where Ukraine is actually being handled.",
-    "concepts": [
-     {
-      "term": "trilateral",
-      "definition": "Involving three parties — here, a meeting between the leaders of the US, Russia and China together.",
-      "context": "It would be the first-ever meeting of all three leaders at once."
-     },
-     {
-      "term": "Asia-Pacific Economic Cooperation (APEC)",
-      "definition": "A forum of economies around the Pacific Rim that meets to discuss trade and the economy; this year's summit is in Shenzhen.",
-      "context": "The three-way meeting would happen on the sidelines of this larger summit."
-     },
-     {
-      "term": "no limits",
-      "definition": "The label China and Russia gave their partnership accord declared in early 2022, signalling unusually close ties.",
-      "context": "It shows how deep the Beijing–Moscow relationship has become."
-     },
-     {
-      "term": "dual-use",
-      "definition": "Goods that have both civilian and military applications, such as high-tech components that could end up in weapons.",
-      "context": "China has supplied these to Russia while officially staying neutral on the war."
-     }
-    ],
-    "quiz": {
-     "question": "Why is China described as being in an awkward position as potential host of the summit?",
-     "options": [
-      "It is at war with both the US and Russia",
-      "It wants to avoid being openly tied to Russia's war in Ukraine, which could harm its image and its ties with the EU",
-      "It refuses to let Putin enter the country",
-      "It does not have diplomatic relations with Russia"
-     ],
-     "answer_index": 1,
-     "explanation": "The sources note Beijing is broadly aligned with Russia but doesn't want to be explicitly linked to the Ukraine war, fearing damage to its global image and its efforts to rebalance ties with the European Union."
-    },
-    "background_beginner": "The three main players are the leaders of the world's most powerful nations: Donald Trump of the United States, Vladimir Putin of Russia and Xi Jinping of China. The US and China are long-time rivals, while Russia and China have grown very close, declaring a \"no limits\" partnership in 2022 just before Russia invaded Ukraine. Since that invasion, Putin has been largely shut out by Western leaders. The idea of all three meeting together — reportedly floated by Putin — keeps making headlines because it's never happened before and could hint at a new carve-up of global power, raising fears for countries like Ukraine left out of the room.",
-    "impact_score": 78,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--CsdFO2-E--/c_crop,h_437,w_777,x_54,y_94/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/us_ukraine_china_30908.jpg?itok=amZZjLOf",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "The White House says Trump, Xi and Putin will hold an unprecedented three-way meeting in Shenzhen next week, though China hasn't officially confirmed it.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/trump-xi-putin-trilateral-summit-apec-6551001"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-14T01:25:24.762080+00:00",
-    "published_date": "2026-11-14",
-    "has_fulltext": true
-   },
    {
     "id": "77af715c-7de7-5c60-a0b3-7d16cecf6e42",
     "title": "Scam losses across Asia estimated at US$136.5b in past year; experts warn of growing AI threat",
@@ -531,6 +456,64 @@
     "created_at": "2026-11-15T01:24:31.201090+00:00",
     "published_date": "2026-11-15",
     "has_fulltext": true
+   },
+   {
+    "id": "16204d0c-8acd-5d71-8a9f-0b8b874842d8",
+    "title": "ASEAN, China reach provisional agreement on 80% of South China Sea code, says Philippines",
+    "simplified_title": "ASEAN and China agree on 80% of South China Sea rulebook",
+    "quick_summary": "ASEAN and China have provisionally agreed on about 80 per cent of a long-awaited Code of Conduct to manage tensions in the disputed South China Sea, but talks remain unfinished.",
+    "simplified_body": "The Association of Southeast Asian Nations (ASEAN) and China have reached provisional agreement on roughly 80 per cent of the negotiating text for a South China Sea Code of Conduct, Philippine Foreign Secretary Theresa Lazaro said on Sunday. Speaking after the first day of the 49th ASEAN Leaders' Summit in Manila, she stressed there is \"no conclusion yet\", and said another five to six months would be needed to finish. The Philippines, which chairs ASEAN this year, lifted the agreed text from about 50 to 80 per cent, and Singapore takes over the chair in 2027 to try to wrap it up.\n\nThis matters for the several nations with overlapping claims in the waterway — the Philippines, Malaysia, Vietnam and Brunei — where Beijing's expansive claims clash with theirs. The South China Sea is one of the world's major shipping routes, and the Philippines and China have repeatedly clashed there. The code aims to set rules to manage disputes at sea, not to settle who owns what.\n\nFor background: the code builds on the 2002 Declaration on the Conduct of Parties in the South China Sea (DOC), with the new rules adding more substantive provisions. Leaders also discussed Myanmar, agreeing to \"calibrated engagement\" tied to progress on the Five-Point Consensus — the peace plan agreed after Myanmar's February 2021 military coup. Myanmar's military leaders have been barred from top ASEAN meetings since 2021.\n\nNegotiations are expected to continue into 2027 under Singapore's chairmanship. The summit runs until Tuesday, with China's Premier Li Qiang attending and US President Donald Trump joining an ASEAN-US summit on Tuesday evening. Leaders also pushed for stronger action on transboundary haze from forest fires.",
+    "why_it_matters": "The South China Sea carries a huge share of global trade, so rules that lower the risk of clashes between China and its neighbours affect shipping, regional stability and the trade routes Australia relies on in its own backyard.",
+    "deep_analysis": "## Historical Context\n\nTalks on a South China Sea Code of Conduct have dragged on for years. The 2002 Declaration on the Conduct of Parties (DOC) was meant to calm tensions but was non-binding and vague, which is why ASEAN and China have long sought a firmer code. Progress has been slow: the Philippines raised the share of agreed text from around 50 per cent to 80 per cent during its 2026 chairmanship, overseeing nine rounds of negotiations and two senior officials' meetings, with Malaysia and China co-chairing. On Myanmar, the Five-Point Consensus dates to April 2021, following the February 2021 coup, and the country's military leadership has been shut out of high-level meetings since for failing to deliver on it.\n\n## Multiple Perspectives\n\nThe Philippines, this year's chair, frames the 80 per cent figure as substantial progress and expresses confidence Singapore can finish in 2027. Lazaro is candid, though, that differing positions among ASEAN members and China prevented a deal this year. ASEAN and China agree the code should manage differences and enable practical maritime cooperation — not settle territorial claims — a framing that lets both sides move forward without conceding sovereignty. On Myanmar, Marcos stresses the human cost of displacement and conflict, while ASEAN members differ on how fast to restore the country's representation, with some wanting concrete proof that bombings and displacement have stopped first.\n\n## What to Watch\n\nWhether Singapore can conclude negotiations in 2027 is the key test, along with how the unresolved 20 per cent — likely the hardest issues — is handled. Watch Myanmar's response to the \"calibrated, progress-based\" approach and whether its foreign minister is allowed back. Also watch the summit's partner meetings, including Premier Li Qiang's attendance and Trump's ASEAN-US summit on Tuesday, plus progress on ratifying the new transboundary haze centre to be based in Indonesia.",
+    "concepts": [
+     {
+      "term": "Code of Conduct",
+      "definition": "A set of rules ASEAN and China are negotiating to manage tensions and conduct in the disputed South China Sea, without settling who owns the contested waters.",
+      "context": "The article's central subject — about 80 per cent of its text is now provisionally agreed."
+     },
+     {
+      "term": "Declaration on the Conduct of Parties in the South China Sea (DOC)",
+      "definition": "A non-binding 2002 agreement meant to calm disputes, which will form the foundation for the new, more substantive Code of Conduct.",
+      "context": "Negotiators agreed the 2002 declaration would underpin the proposed code."
+     },
+     {
+      "term": "Five-Point Consensus",
+      "definition": "ASEAN's April 2021 peace plan for Myanmar, calling for an end to violence, dialogue, humanitarian aid and a special envoy, agreed after the February 2021 coup.",
+      "context": "ASEAN ties any restoration of Myanmar's representation to progress on this plan."
+     }
+    ],
+    "quiz": {
+     "question": "What is the main purpose of the South China Sea Code of Conduct, according to ASEAN and China?",
+     "options": [
+      "To replace all shipping routes through the region",
+      "To settle who legally owns the disputed waters",
+      "To expel China from the South China Sea",
+      "To manage differences at sea and enable practical maritime cooperation"
+     ],
+     "answer_index": 3,
+     "explanation": "Lazaro said the parties agreed the code would serve as a platform for practical maritime cooperation and a mechanism to manage differences at sea, rather than settle competing territorial claims."
+    },
+    "background_beginner": "The South China Sea is a busy, resource-rich stretch of ocean that several countries claim at once. China claims most of it, while the Philippines, Vietnam, Malaysia and Brunei — members of ASEAN, a bloc of ten Southeast Asian nations — claim overlapping parts. Clashes between ships, especially between the Philippines and China, happen regularly, raising fears of a bigger conflict. For years ASEAN and China have tried to agree a \"Code of Conduct\" — shared rules to keep things calm. Because it's one of the world's busiest trade routes and touches big powers like China and the United States, the dispute keeps returning to the headlines.",
+    "impact_score": 62,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--n-6j-eGN--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/15/asean_leaders_summit_maria_theresa_lazaro-3.jpg?itok=uaHqfYNE",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "ASEAN and China have provisionally agreed on about 80 per cent of a long-awaited Code of Conduct to manage tensions in the disputed South China Sea, but talks remain unfinished.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/asean-philippines-south-china-sea-myanmar-haze-6553056"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 5,
+    "created_at": "2026-11-15T19:25:45.093333+00:00",
+    "published_date": "2026-11-16",
+    "has_fulltext": true
    }
   ],
   "EUROPE": [
@@ -614,80 +597,74 @@
     "has_fulltext": true
    },
    {
-    "id": "9c326055-ff09-56c7-ab9b-c4088483d6fa",
-    "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-    "simplified_title": "Europe pushes for a seat at Ukraine peace talks",
-    "quick_summary": "Zelensky has welcomed a US pledge to bring European delegates into the next round of Russia-Ukraine peace talks, though Russia has not firmly agreed.",
-    "simplified_body": "US envoys Jared Kushner and Steve Witkoff spent Thursday shuttling between Moscow and Dublin, meeting Russia's President Vladimir Putin and then Ukraine's President Volodymyr Zelensky. Kushner said he had pressed Putin to let European Union (EU) delegates join the next round of peace talks, and that Putin was \"willing to give it a try\". Russia quickly muddied that, saying no final decision had been made. The two sides did agree to their largest prisoner swap since the war began, though no numbers or timing were given.\n\nThis matters most to Ukraine and the EU, who have long worried the current US government is softening towards the Kremlin and might cut a deal over their heads. European leaders at a Dublin summit agreed Europe would negotiate as a team: the EU institutions plus the \"E5\" of Britain, France, Germany, Italy and Poland. Kushner mocked Europe for lacking a single spokesperson.\n\nRussia launched its full-scale invasion of Ukraine in February 2022, and roughly one-fifth of the country is now under Russian occupation. Moscow has revived hardline demands from 2021 for a new European \"security architecture\" — effectively rolling back NATO (North Atlantic Treaty Organization) and blocking Ukraine from joining. The EU's foreign policy chief, Kaja Kallas, calls this a \"trap\" to distract from securing a ceasefire first.\n\nWatch whether Russia actually lets Europeans into the room, and a possible Putin-Trump-Xi meeting in Shenzhen, China. Kallas doubts there is real Russian momentum towards peace.",
-    "why_it_matters": "The talks could reshape European security for a generation, and the outcome shapes the rules-based order Australia relies on and the precedent for how big powers treat smaller neighbours.",
-    "deep_analysis": "## Historical Context\n\nRussia's full-scale invasion of Ukraine began in February 2022, and about one-fifth of Ukraine is now under Russian occupation. Just two months before that invasion, in December 2021, Moscow floated \"draft treaties\" demanding NATO stop expanding eastward and pull military infrastructure out of central and eastern European states that joined after the Soviet Union dissolved. The West rejected these as an ultimatum. According to BBC's Rosenberg, the Kremlin has now pulled those same demands back out of the \"filing cabinet\", which is why \"European security architecture\" has suddenly reappeared in the talks.\n\n## Multiple Perspectives\n\nThe US, via Kushner, frames bringing Europe in as progress and has been \"working very, very closely\" with Europeans. Zelensky welcomes it, tying it to Ukraine's ambition to join the EU. European leaders insist they are central to any settlement: Germany's Friedrich Merz says a European security framework \"already exists\" and needs no renegotiation. Russia is dismissive — negotiator Vladimir Medinsky says it is \"unclear what there is to discuss\" with Europe, and the Kremlin says it will only decide once it understands Europe's \"real intentions\". Kallas warns the whole security debate is a trap, insisting there is \"one aggressor and one victim\".\n\n## What to Watch\n\nWhether Russia genuinely admits European delegates to the next round — the sources disagree on how firm Putin's agreement is. Who speaks for Europe: leaders settled on the EU institutions plus the E5, though formats like the E3 and the \"coalition of the willing\" (including the UK and Norway) remain in play. And a possible Putin-Trump-Xi meeting in Shenzhen, which Russian media are hyping as a new \"Big Three\". Meanwhile Russia faces battlefield losses, economic strain and Ukrainian drone strikes on its oil refineries.",
+    "id": "6f38d9da-4f1a-5288-9cb3-867c07735062",
+    "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+    "simplified_title": "Estonia to Shut All Russia Border Crossings After Drone-Maker Attack",
+    "quick_summary": "Estonia will close all three of its border crossings with Russia from 1 December after a suspected Russian-ordered sabotage attack on a drone-making defence company.",
+    "simplified_body": "On Saturday morning, eight people were detained during an attempted attack on Threod Systems, an Estonian defence company that makes long-range attack and reconnaissance drones. Estonia's internal security service, Kapo, said the attack aimed to cause an explosion and set the building alight, but the company's security team responded and no injuries or damage were reported. Authorities said the operation was ordered by Russia's GRU military intelligence service. In response, Estonia will close all three of its border crossings with Russia — Narva, Koidula and Luhamaa — from 1 December.\n\nThis affects travellers and trade along one of the few remaining open borders between a European Union (EU) and North Atlantic Treaty Organisation (NATO) member and Russia. Prime Minister Kristen Michal said the closure is meant to cut the risk of further attacks and signal that strikes on Estonia's defence industry are unacceptable, linking the sabotage to Estonia's support for Ukraine.\n\nEstonia, a strong ally of Ukraine, says this is the second attempted attack on one of its defence firms that it has blamed on Russia, after an August arson at Milrem Robotics. Latvia said several of its citizens and non-citizens were among those arrested. European intelligence services have repeatedly warned Russia is recruiting people online to carry out sabotage across the EU and NATO.\n\nAuthorities have not said how long the border will stay shut. Five of the detained are facing requests to remain in custody. Russia did not immediately comment, though it denied involvement in the earlier Milrem case.",
+    "why_it_matters": "It's a sharp escalation in what Estonian leaders call Russia's \"shadow war\" against Europe, showing how sabotage, not just troops, is now testing NATO's edges — a reminder for Australia of how far the fallout from the Ukraine war reaches.",
+    "deep_analysis": "## Historical Context\n\nEstonia regained independence when the Soviet Union (USSR) collapsed, and joined both the EU and NATO in 2004. It shares a land border with Russia and has long been wary of its larger neighbour. Since Russia's full-scale invasion of Ukraine, Estonia has been one of Kyiv's most vocal backers. Until now it was one of the few EU states still keeping crossings with Russia open. This weekend's incident is described as the second attributed attack on an Estonian defence firm this year, following an arson at Milrem Robotics in August — which Kapo in September called a deliberate, pre-planned attack carried out on behalf of Russian special services.\n\n## Multiple Perspectives\n\nEstonian leaders are unified and blunt. PM Michal frames the sabotage as part of Russia's \"broader hybrid war\" to weaken support for Ukraine, while Foreign Minister Tsahkna stresses the closure also curbs sanctions circumvention. MP Marko Mihkelson argues Europe must answer with \"asymmetric measures\" rather than mere diplomatic protests. Latvia's interior minister thanked Estonia and noted Latvian nationals were arrested, pointing to people willing to commit crimes in Russia's interest since the USSR's collapse. Russia offered no immediate comment this time, but in the earlier Milrem case the Kremlin called the accusation \"baseless\" and unrelated to reality. Note a minor source discrepancy: DW names the PM \"Karsten Michal,\" while the Guardian and Al Jazeera give \"Kristen Michal.\"\n\n## What to Watch\n\nKey unknowns: how long the border stays closed (authorities haven't said), whether the five custody requests lead to charges, and how Russia responds. Watch whether neighbouring Finland, Latvia and Lithuania — whom Tsahkna briefed — follow with similar steps, and whether this recruitment-for-sabotage pattern spreads to other defence and drone firms with Ukraine links across the EU and NATO.",
     "concepts": [
      {
-      "term": "security architecture",
-      "definition": "The overall set-up of treaties, alliances and arrangements that govern how a region keeps itself safe. Russia wants to redraw Europe's to its own benefit.",
-      "context": "Moscow has revived hardline demands from 2021 for a new European 'security architecture'."
+      "term": "GRU",
+      "definition": "Russia's military intelligence service, which Estonian authorities say ordered the attack.",
+      "context": "Estonia blames the sabotage attempt on operatives acting for the GRU."
      },
      {
-      "term": "ceasefire",
-      "definition": "An agreement to stop fighting, usually as a first step before deeper peace negotiations.",
-      "context": "Kallas calls this a 'trap' to distract from securing a ceasefire first."
+      "term": "Threod Systems",
+      "definition": "An Estonian defence company that manufactures long-range attack and reconnaissance drones.",
+      "context": "It was the target of Saturday's attempted explosion-and-arson attack."
      },
      {
-      "term": "prisoner swap",
-      "definition": "An exchange in which each side releases captured soldiers or civilians held by the other.",
-      "context": "The two sides did agree to their largest prisoner swap since the war began."
+      "term": "Kapo",
+      "definition": "Estonia's internal security service, responsible for counter-intelligence and domestic security.",
+      "context": "Kapo said the attack aimed to cause an explosion and set the building on fire."
      },
      {
-      "term": "E5",
-      "definition": "A grouping of five major European countries — Britain, France, Germany, Italy and Poland — proposed to help represent Europe in the talks.",
-      "context": "the 'E5' of Britain, France, Germany, Italy and Poland."
+      "term": "NATO",
+      "definition": "The North Atlantic Treaty Organisation, a military alliance of Western nations including Estonia.",
+      "context": "Estonia is a NATO member, making attacks on it part of wider East-West tensions."
      }
     ],
     "quiz": {
-     "question": "Why does Kaja Kallas call Russia's demand for a new European security architecture a 'trap'?",
+     "question": "Why did Estonia say it was closing its border crossings with Russia?",
      "options": [
-      "Because it would force Ukraine to join NATO immediately",
-      "Because it secretly benefits the United States",
-      "Because it is designed to shift attention away from securing a ceasefire first",
-      "Because it would cost Europe too much money"
+      "To comply with a new United Nations sanctions resolution",
+      "To reduce the risk of further attacks and cut Russia's ability to conduct hostile activities",
+      "Because Russia had formally declared war on Estonia",
+      "To protest a Russian trade tariff on Estonian goods"
      ],
-     "answer_index": 2,
-     "explanation": "Kallas argues the security debate is meant to divert attention from Russia's aggression and delay a ceasefire, which she says should come first — followed by a peace agreement, and only then wider security talks."
+     "answer_index": 1,
+     "explanation": "Estonian leaders said the closure was meant to reduce the risk of further sabotage attacks, curb Russia's hostile activities, and help prevent sanctions circumvention — not because of tariffs, a declared war, or a UN order."
     },
-    "background_beginner": "Russia launched a full-scale invasion of its neighbour Ukraine in February 2022, and the war is still going. The main players are Ukraine (led by President Zelensky), Russia (led by President Putin), the United States, and the European Union. The US has been trying to broker a deal, sending envoys to meet both sides. Ukraine and its European allies want a stop to the fighting and a seat at any negotiating table, while Russia wants to redraw Europe's security rules in its favour and keep territory it has seized. It keeps coming up because each round of talks stalls over these competing demands.",
-    "impact_score": 78,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
+    "background_beginner": "Estonia is a small country in northern Europe that borders Russia and was once part of the Soviet Union. Since gaining independence, it has joined the European Union and NATO (a Western military alliance) and strongly supports Ukraine against Russia's invasion. Tensions keep flaring because Estonia accuses Russia of running a \"shadow war\" — using sabotage, arson and online recruitment rather than open combat — to scare European countries into dropping their backing for Ukraine. The main players here are the Estonian government, its security service Kapo, the targeted drone-maker Threod Systems, and Russia's GRU military intelligence, which Estonia blames for the attack.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/db670a252dcaad75a700570546b55d36e01d182f/312_0_3120_2496/master/3120.jpg?width=1920&quality=85&auto=format&fit=max&s=0ee8c8f31ebac3388a3b31c26673c1f5",
     "region": "Europe incl. UK, Russia-Ukraine",
     "region_code": "EUROPE",
-    "description": "Zelensky has welcomed a US pledge to bring European delegates into the next round of Russia-Ukraine peace talks, though Russia has not firmly agreed.",
+    "description": "Estonia will close all three of its border crossings with Russia from 1 December after a suspected Russian-ordered sabotage attack on a drone-making defence company.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo"
-     },
-     {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+      "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
      },
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "125d29b9-508a-5f59-9f71-fabf8ce8d6f8",
-     "31924fa4-0da7-505c-87e7-6f1f2d5d9e40",
-     "7687023f-18f5-5480-8e08-1aa069b018fe",
-     "9e69c882-6e54-5523-8b4d-5fec266a1ad4",
-     "d4b699ed-7cb4-55d6-b909-4f016ffd607a"
-    ],
+    "related_story_ids": [],
     "reading_minutes": 2,
-    "created_at": "2026-11-14T07:25:11.230463+00:00",
-    "published_date": "2026-11-14",
+    "created_at": "2026-11-15T19:25:46.576121+00:00",
+    "published_date": "2026-11-16",
     "has_fulltext": true
    },
    {
@@ -763,6 +740,82 @@
    }
   ],
   "MIDDLE_EAST_AFRICA": [
+   {
+    "id": "413d5b31-4022-5db0-b7b0-709a7558fc15",
+    "title": "Iran launches drone attacks against US military base in Bahrain",
+    "simplified_title": "Iran drones hit US base in Bahrain as peace talks stall",
+    "quick_summary": "Iran launched its second drone attack in three days on a US military base in Bahrain, denting already-stalled peace talks and raising fears of a wider Gulf conflict.",
+    "simplified_body": "Iran launched a drone attack on a United States military base in Bahrain on Sunday, the second such strike in three days. Iran's Islamic Revolutionary Guard Corps (IRGC) said it fired six drones at a US air-defence radar at the al-Riffa (also written Al-Rifaa) base in retaliation for US strikes inside Iran. Bahrain said its air defences shot the drones down before they hit anything. The first attack, on Friday, was Iran's first strike on a Gulf country since September; the US said it downed two drones with no injuries or damage.\n\nThis matters for anyone who relies on Gulf oil and gas. Iran and the US are locked in a stand-off over the Strait of Hormuz, the narrow waterway through which roughly a fifth of the world's oil and gas usually flows. Iran insists it controls the strait and attacks \"unauthorised\" shipping, while the US escorts tankers to keep exports moving. Bahrain, which hosts major US naval facilities, called the attacks \"heinous aggression\", and Jordan, Egypt, Saudi Arabia and Qatar voiced solidarity.\n\nThe conflict began in February with joint US and Israeli attacks on Iran. A preliminary deal to end the war in June collapsed within weeks. Iran also claimed mines sank an oil supertanker carrying 2 million barrels in the strait, though there was no independent verification.\n\nDiplomacy looks shaky. Donald Trump said the US no longer wants a deal and told Vice-President JD Vance, who had been chasing talks, to focus on domestic politics instead. Meanwhile in Yemen, Iran-aligned Houthi rebels advanced after government forces pulled back toward Aden.",
+    "why_it_matters": "The Strait of Hormuz carries about a fifth of the world's oil and gas, so sustained fighting there can push global fuel prices up — something Australian motorists and businesses feel at the bowser and in freight costs.",
+    "deep_analysis": "## Historical Context\n\nThe current war began in February with joint US and Israeli attacks on Iran, according to the reporting. A preliminary agreement to end the fighting and reopen the Strait of Hormuz was reached in June but collapsed within weeks once Iranian attacks on shipping resumed and the US reinstated a naval blockade of Iranian ports. Iran had repeatedly targeted Bahrain until a lull in September. That pause ended on Friday, and Sunday's strike signals what the Guardian describes as a \"tit-for-tat\" pattern of response to recent US strikes on Iranian territory, including Qeshm Island.\n\n## Multiple Perspectives\n\nThe two sides give sharply different accounts. The IRGC claims it struck US radar facilities; the US military denies damage was done, saying it shot down the drones with no injuries. On the sunken supertanker, Iran's Revolutionary Guards claim mines caused \"massive explosions and fire\", while the US military recently said it had cleared all mines from the main routes — and there was no immediate independent verification. Bahrain rejects Tehran's \"flimsy pretexts\" and holds Iran fully responsible. Politically, Trump says Washington is no longer seeking a deal, while JD Vance — who blamed Republican midterm losses on the war — had wanted to restart negotiations.\n\n## What to Watch\n\nWatch whether the strikes stay limited or escalate, and whether independent sources confirm the supertanker's sinking. Iran's negotiators had floated reopening the strait within two days if the US met seven conditions, reportedly including lifting the naval blockade and releasing frozen assets — so any movement on those terms is key. In Yemen, the Houthi advance toward Aden and the Bab el-Mandeb strait could threaten another vital oil route.",
+    "concepts": [
+     {
+      "term": "Islamic Revolutionary Guard Corps (IRGC)",
+      "definition": "A powerful branch of Iran's armed forces, separate from the regular military, that reports to the country's top leadership and runs many of its overseas and strategic operations.",
+      "context": "The IRGC said it fired six drones at the US radar facility in Bahrain."
+     },
+     {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage at the mouth of the Gulf through which a large share of the world's oil and gas is shipped, making it a strategic chokepoint.",
+      "context": "Iran and the US are locked in a stand-off over control of the Strait of Hormuz."
+     },
+     {
+      "term": "naval blockade",
+      "definition": "A military operation that uses warships to stop ships entering or leaving a country's ports, used to apply pressure without a full-scale invasion.",
+      "context": "The US reinstated a naval blockade of Iranian ports after the June deal collapsed."
+     },
+     {
+      "term": "Houthi",
+      "definition": "An armed movement in Yemen that is aligned with Iran and has been fighting a long war against Yemen's internationally recognised government and its backers.",
+      "context": "Iran-aligned Houthi rebels advanced after government forces pulled back toward Aden."
+     }
+    ],
+    "quiz": {
+     "question": "Why is the stand-off over the Strait of Hormuz so significant globally?",
+     "options": [
+      "It is the only route between Europe and Asia",
+      "Roughly a fifth of the world's oil and gas usually flows through it",
+      "It is where the June peace deal was signed",
+      "It is the headquarters of the IRGC"
+     ],
+     "answer_index": 1,
+     "explanation": "The sources note that about a fifth of the world's oil and gas supply usually passes through the Strait of Hormuz, so disruption there affects global energy supplies and prices."
+    },
+    "background_beginner": "Iran and the United States are long-time adversaries, and since February this year they have been at war, which began with joint US and Israeli attacks on Iran. Much of the tension centres on the Strait of Hormuz, a narrow waterway at the mouth of the Gulf that carries a huge share of the world's oil and gas. Iran wants to control it; the US escorts tankers to keep oil flowing. Bahrain, a small Gulf kingdom, hosts major US naval bases, which makes it a target for Iran. Attempts to negotiate peace — including a deal in June — keep breaking down, so flare-ups like these drone strikes keep recurring.",
+    "impact_score": 72,
+    "image_url": "https://i.guim.co.uk/img/media/c9a9b87c3847ee7bd6150c9e02a046225f99032c/0_0_4200_3000/master/4200.jpg?width=1920&quality=85&auto=format&fit=max&s=7a554ec4418c0bf69ed18b2978d2f447",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Iran launched its second drone attack in three days on a US military base in Bahrain, denting already-stalled peace talks and raising fears of a wider Gulf conflict.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "5cd8fe39-3780-5a5c-ac38-51d14439dbfb",
+     "8e8be91f-27fb-5ce2-b5a0-91e45cfe7184",
+     "adabd6c4-a1b8-5204-9a50-3b162f5bf191",
+     "ca667764-ae44-53f5-8c27-fb4c51bd5fe3",
+     "cb2d957f-d97d-568e-b150-d769a746366b",
+     "d025b221-113a-5b01-bf00-95483374ddb9",
+     "d83687dc-daf6-5e1c-87b9-7f98e012cce1",
+     "e5a91d18-7570-53b7-8a3e-97e5a67f9670"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-15T19:25:48.659707+00:00",
+    "published_date": "2026-11-16",
+    "has_fulltext": true
+   },
    {
     "id": "5c06ddaf-5c74-5a53-9432-3220c2d757c5",
     "title": "Netanyahu says only a unity government can guarantee Israel’s security",
@@ -890,210 +943,78 @@
     "created_at": "2026-11-15T07:26:12.858598+00:00",
     "published_date": "2026-11-15",
     "has_fulltext": true
-   },
-   {
-    "id": "211f842a-da82-51f4-9cb5-9c7c50a38236",
-    "title": "South Africa: After suffering its worst election, what's next for the ANC?",
-    "simplified_title": "ANC Suffers Worst-Ever Result in South African Local Elections",
-    "quick_summary": "South Africa's long-dominant African National Congress won under 31% of the vote in local elections, a result its own leaders called \"catastrophic.\"",
-    "simplified_body": "The African National Congress (ANC), the party that has governed South Africa since apartheid ended in 1994, has recorded its worst-ever electoral result, winning under 31% of the vote in the country's local government elections. Party leaders themselves described the outcome as \"catastrophic.\" The ANC remains the largest single party nationally, but its grip on power is clearly slipping.\n\nThis matters for ordinary South Africans because the frustration driving the result is about everyday life: high unemployment, poor service delivery of water, electricity and housing, and years of graft (corruption), sometimes at the very top of government. Voters told reporters they feel promises of jobs were broken and that \"people are losing hope.\" Researcher Tasnim Essop says the collapse didn't happen overnight — it reflects a slow erosion of trust.\n\nFor newcomers: the ANC led the liberation struggle against apartheid, the old system of racial segregation, and long enjoyed near-automatic loyalty. That loyalty is fading. The Democratic Alliance (DA) strengthened its hold on several big cities, while the uMkhonto weSizwe (MK) party, launched by former President Jacob Zuma in late 2023, did well in KwaZulu-Natal. Smaller community groups also made gains.\n\nWhat happens next? The ANC's National Executive Committee will hold a special meeting to confront its failures, and the party must prepare for coalition negotiations — often with its rivals, as after the 2024 general elections. President Cyril Ramaphosa says elected councillors must now \"prove themselves worthy.\" Whether the ANC can rebuild trust depends on actually delivering better services.",
-    "why_it_matters": "The decline of a liberation-era giant like the ANC shows how quickly voter loyalty can unravel when basic services fail — a reminder relevant anywhere, including Australia, where governments are judged on delivery over history.",
-    "deep_analysis": "## Historical Context\n\nThe ANC has dominated South African politics since 1994, when the end of apartheid brought majority rule and the party's liberation credentials — tied to figures like Nelson Mandela — translated into overwhelming electoral support. For decades, voting ANC was less a policy choice than an act of loyalty to the movement that ended racial segregation. This latest local election, with the party below 31%, marks how far that automatic loyalty has eroded. Researcher Tasnim Essop stresses this is a slow decline, not a sudden shock, built on years of unmet needs around water, electricity, housing and jobs.\n\n## Multiple Perspectives\n\nVoters interviewed expressed frustration and despair, pointing to broken job promises and rising unemployment. Essop frames the shift as \"vote fluidity\" — people willing to move between parties rather than stay loyal — but cautions against declaring \"liberation politics are dead,\" noting many parties still draw legitimacy from that history. The ANC itself acknowledges it must \"listen to the people\" and \"confront its shortcomings.\" President Cyril Ramaphosa casts the result as a challenge to all parties, not just his own. Rivals read it differently: the DA sees validation in urban gains, and Zuma's new MK party sees a foothold in KwaZulu-Natal.\n\n## What to Watch\n\nKey questions: Can the ANC's special National Executive Committee meeting produce real reform rather than words? Coalition negotiations loom, potentially forcing the ANC to govern alongside rivals, as happened after the 2024 general elections — an uneasy arrangement to watch. Longer term, the test is delivery: whether councils can improve basic services enough to win back trust, or whether \"vote fluidity\" keeps fragmenting South African politics across ever more parties.",
-    "concepts": [
-     {
-      "term": "service delivery",
-      "definition": "The provision of basic public services such as water, electricity and housing, usually by local government.",
-      "context": "Poor service delivery was a major reason voters turned away from the ANC."
-     },
-     {
-      "term": "graft",
-      "definition": "Corruption involving the dishonest use of public office for private gain.",
-      "context": "The article cites years of graft, sometimes at the highest levels of government, as fuelling voter anger."
-     },
-     {
-      "term": "coalition negotiations",
-      "definition": "Talks between parties to form a joint government when no single party holds a majority.",
-      "context": "The ANC must prepare for coalition negotiations, often with its biggest rivals."
-     },
-     {
-      "term": "vote fluidity",
-      "definition": "Voters' growing willingness to switch support between parties rather than staying loyal to one.",
-      "context": "Essop describes vote fluidity entering South African politics as liberation-era loyalty fades."
-     }
-    ],
-    "quiz": {
-     "question": "What does the article identify as the main driver behind the ANC's poor election result?",
-     "options": [
-      "The sudden collapse of the Democratic Alliance",
-      "Foreign interference in the vote count",
-      "Frustration over unemployment, poor service delivery and corruption",
-      "A ban on the ANC campaigning in cities"
-     ],
-     "answer_index": 2,
-     "explanation": "The article attributes the result to growing frustration over skyrocketing unemployment, poor service delivery, local governance failures and years of graft and corruption."
-    },
-    "background_beginner": "South Africa's African National Congress (ANC) is the party that led the fight against apartheid — the old system of racial segregation — and has governed the country since Nelson Mandela's election in 1994. For years it won easily thanks to its liberation history. But many South Africans have grown angry over high unemployment, unreliable water and electricity, and corruption. In recent local elections the ANC fell below 31% of the vote, its worst result ever. Rival parties like the Democratic Alliance and former President Jacob Zuma's new MK party gained ground. The story keeps coming up because it signals the end of one party's long dominance.",
-    "impact_score": 62,
-    "image_url": "https://static.dw.com/image/79853213_6.jpg",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "South Africa's long-dominant African National Congress won under 31% of the vote in local elections, a result its own leaders called \"catastrophic.\"",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/after-suffering-its-worst-election-result-what-s-next-for-the-anc-and-for-south-africa/a-79929902?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "637e7fca-39d1-58cb-be79-5a96e227375b",
-     "be051c32-b74a-546a-9f69-d8bb285a9609",
-     "de1817c1-edbf-5bc7-bc41-750c40f2631a"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-11-14T01:25:14.036002+00:00",
-    "published_date": "2026-11-14",
-    "has_fulltext": true
    }
   ],
   "AMERICAS": [
    {
-    "id": "ae0b92b7-b05f-5c95-81da-fcdac25c5314",
-    "title": "US loses measles-free status after continued spread of the disease: Report",
-    "simplified_title": "US stripped of measles-free status after a year of spread",
-    "quick_summary": "The Americas branch of the World Health Organization has reportedly revoked the United States' measles-elimination status after the virus spread uninterrupted for more than a year.",
-    "simplified_body": "The Pan American Health Organization (PAHO), the Americas branch of the World Health Organization (WHO), has reportedly stripped the United States of its measles-elimination status, ending a 26-year run. According to the Wall Street Journal, PAHO decided the US had failed to stop continuous spread of the highly contagious virus for 12 months or longer — the threshold that marks local transmission rather than cases brought in from overseas. The US first earned elimination status in 2000.\n\nThis lands amid the worst measles resurgence the country has seen in decades. The sources differ on the exact toll: CNA reports around 7,500 infections and 13 deaths since 2025, while Al Jazeera counts 10 measles-associated deaths this year and more than 5,400 cases. Either way, case numbers have more than doubled last year's total of 2,289. The people most at risk are the unvaccinated, especially young children.\n\nThe outbreak coincides with falling vaccination rates and rising vaccine hesitancy. Kindergarten coverage has slipped from 95.2 per cent to 92.4 per cent, below the 95 per cent needed for herd immunity — the point where enough people are protected that the virus can't easily spread, shielding those who can't be vaccinated. US Health Secretary Robert F Kennedy Jr, who has long cast doubt on vaccine safety without evidence, is also disputing how deaths are counted.\n\nTo win back elimination status, the US must stop transmission and stay outbreak-free for at least 12 months. Canada, Spain and the UK have also recently lost their status.",
-    "why_it_matters": "When a public-health powerhouse like the US loses measles-free status, it signals how quickly hard-won gains unravel when vaccination slips — a warning Australia, which guards its own elimination status, can't afford to ignore.",
-    "deep_analysis": "## Historical Context\n\nMeasles was declared eliminated in the US in 2000, meaning the country had gone a full year without continuous local spread — a milestone built on decades of vaccination campaigns. \"Elimination\" doesn't mean zero cases; imported cases still pop up, but they fizzle out instead of chaining through the population. Holding that status requires roughly 95 per cent of people to be vaccinated so the virus can't find enough susceptible hosts. The US coverage has now dipped below that line, and the result is a chain of transmission that ran unbroken for a year.\n\n## Multiple Perspectives\n\nPublic-health experts are blunt: Noel Brewer called it \"unconscionable\" that a fully preventable disease has resurged, and William Moss framed the loss as a blow to America's reputation that could discourage other nations. The CDC's Erica Schwartz struck a steadier note, saying the agency's work — encouraging immunisation with states — won't change. Politically, there's a live dispute over the death toll itself: Health Secretary Robert F Kennedy Jr reportedly asked the CDC not to count certain deaths, and the federal tally sits below what state officials report. Epidemiologists counter that tracking \"measles-associated\" deaths within 30 days of symptoms is a long-standing WHO and CDC standard, not a new invention. That explains why the sources cite different numbers.\n\n## What to Watch\n\nWatch whether PAHO and the WHO formally confirm the reported decision, and whether a standardised death definition emerges from the CDC's work with the Council of State and Territorial Epidemiologists. The bigger question is the recovery path: regaining elimination status demands 12 straight months with no outbreak, which hinges on lifting vaccination rates back above 95 per cent.",
-    "concepts": [
-     {
-      "term": "measles-elimination status",
-      "definition": "An official designation meaning a country has gone at least 12 months with no continuous local spread of measles; cases may still arrive from overseas but don't chain through the population.",
-      "context": "The US first earned it in 2000 and has now reportedly lost it after a year of unbroken transmission."
-     },
-     {
-      "term": "herd immunity",
-      "definition": "The point at which enough people are vaccinated that a disease can't easily spread, indirectly protecting those who can't be vaccinated.",
-      "context": "Measles needs roughly 95 per cent coverage to maintain it, and US kindergarten rates have slipped below that."
-     },
-     {
-      "term": "vaccine hesitancy",
-      "definition": "Reluctance or refusal to vaccinate despite available vaccines, often driven by doubts about safety.",
-      "context": "Rising hesitancy, including doubts spread by the US Health Secretary, has coincided with falling immunisation rates."
-     },
-     {
-      "term": "Pan American Health Organization (PAHO)",
-      "definition": "The Americas regional branch of the World Health Organization, responsible for public health across the region.",
-      "context": "PAHO reportedly reviewed US data and revoked the country's measles-elimination status."
-     }
-    ],
-    "quiz": {
-     "question": "Why does losing measles-elimination status matter beyond just a label?",
-     "options": [
-      "It means measles has become resistant to the MMR vaccine",
-      "It signals the virus is now spreading continuously within the country, putting unvaccinated people at ongoing risk",
-      "It automatically forces the US out of the World Health Organization",
-      "It means the US can never vaccinate against measles again"
-     ],
-     "answer_index": 1,
-     "explanation": "Elimination status is lost when a country can't stop local transmission for 12 months. Losing it reflects sustained internal spread, which experts warn means continued large outbreaks and risk to the unvaccinated — not vaccine resistance or any membership change."
-    },
-    "background_beginner": "Measles is a highly contagious virus that can cause blindness, deafness, brain damage or death, but it's preventable with the MMR (measles, mumps and rubella) vaccine, which is about 97 per cent effective after two doses. The US wiped out continuous local spread in 2000, earning \"elimination status\" from health authorities. Keeping that status needs about 95 per cent of people vaccinated. In recent years, US vaccination rates have fallen and doubts about vaccines have grown, including from the country's own Health Secretary, Robert F Kennedy Jr. The result is the worst outbreak in decades — thousands of cases and multiple deaths — now costing the US its measles-free standing.",
-    "impact_score": 72,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--cnpbwPXo--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-14T005522Z_2_LYNXNPEMAD01N_RTROPTP_3_HEALTH-MEASLES-USA-ELIMINATION.JPG?itok=lB0u1doX",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "The Americas branch of the World Health Organization has reportedly revoked the United States' measles-elimination status after the virus spread uninterrupted for more than a year.",
-    "tier": "GLOBAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-lose-measles-free-status-disease-transmission-6550971"
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "4c05936a-4873-5b38-af2f-0fc5635b0825"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-14T07:25:09.569229+00:00",
-    "published_date": "2026-11-14",
-    "has_fulltext": true
-   },
-   {
-    "id": "e34d2651-71fd-5b08-9181-914a61878f81",
-    "title": "FAA orders third nationwide ground stop in its history",
-    "simplified_title": "US grounds all departing flights after air traffic communication failure",
-    "quick_summary": "The US aviation regulator halted all departing flights after a communication outage knocked out its air traffic control centres, cancelling more than 5,000 flights.",
-    "simplified_body": "On Friday afternoon, the US Federal Aviation Administration (FAA) issued a nationwide ground stop, halting departures from every US airport. Transportation Secretary Sean Duffy said a \"communication issue\" had hit all of the country's Air Route Traffic Control Centers — the facilities that guide planes between airports. More than 5,000 flights were cancelled. The order came days after the FAA expanded use of a new AI (artificial intelligence) tool.\n\nThe disruption hit travellers everywhere, including many Australians. People reported huge queues at airports like New York's JFK, soaring last-minute ticket prices, and planes stuck on tarmacs with nowhere to park. International departures were handled case-by-case, so some overseas flights kept leaving while domestic ones sat grounded.\n\nA ground stop on this scale is rare. Ars Technica calls it the third in FAA history; ABC News describes it as the second since the September 11, 2001 attacks, when flights stopped for two days. A shorter outage in January 2023 hit the FAA's Notice to Air Missions system. Officials stressed this was not a security threat — Homeland Security Secretary Markwayne Mullin called it a telecommunications outage with no sign of a \"nefarious attack,\" and President Trump said it did not appear to be a cyberattack or AI. The Wall Street Journal reported the fault appeared linked to a network overseen by L3Harris Technologies.\n\nReuters reported the order was about to be lifted, with officials due to speak at the White House. Senators have called for a \"thorough and complete investigation.\" Australia's peak travel body, the Australian Travel Industry Association (ATIA), urged travellers due to fly within 72 hours to contact their airline or agent, and others to hold off so priority cases get help first.",
-    "why_it_matters": "A single technical fault froze an entire nation's air travel, stranding thousands — including plenty of Australians mid-holiday or trying to get home via US hubs — and showing how fragile the systems underpinning modern flying can be.",
-    "deep_analysis": "## Historical Context\n\nNationwide ground stops are extraordinarily rare. The most famous came on September 11, 2001, when the FAA halted all civilian departures and ordered airborne aircraft to land; commercial flights did not resume until September 13. A far briefer halt — under two hours — followed a January 11, 2023 outage of the FAA's Notice to Air Missions system. Sources differ on how to count this latest event: Ars Technica calls it the third nationwide ground stop in FAA history, while ABC News frames it as only the second since 9/11. Either way, it sits in very short company.\n\n## Multiple Perspectives\n\nOfficials moved quickly to calm nerves. Homeland Security Secretary Markwayne Mullin described a telecommunications outage with \"no indication\" of a nefarious attack, and President Trump said it did not appear to involve a cyberattack or AI. The Wall Street Journal reported the fault appeared tied to a network overseen by L3Harris Technologies, and Microsoft said its services were not involved.\n\nAviation experts largely backed the response. Ohio State's Shawn Pruchnik said grounding planes was \"the right call\" — fewer aircraft aloft means fewer that controllers can't reach. Professor Skip Bailey told the Associated Press that pilots train for lost communications, maintaining assigned headings then reverting to filed flight plans, and that aircraft carry their own radar and collision protection. For stranded passengers, though, the experience was costly and confusing, with vague \"seven to 24-hour\" timeframes and ticket prices reportedly jumping from around US$200 to US$1,000.\n\n## What to Watch\n\nReuters reported the order was close to being lifted. Watch for the official cause, whether the newly expanded AI tool is implicated, and the promised Senate investigation into the FAA's technology.",
+    "id": "669345ca-4c3f-5a0f-8b6d-943ac4a10886",
+    "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+    "simplified_title": "Copper wire upgrade blamed for biggest US flight shutdown since 9/11",
+    "quick_summary": "A botched upgrade swapping old copper wiring for fibre at a US air traffic site triggered a four-hour nationwide grounding that disrupted around 1.5 million passengers.",
+    "simplified_body": "On Friday 13 November, US air traffic controllers suspended all take-offs across the country for more than four hours — the longest nationwide ground stop since the 11 September 2001 attacks. Transportation Secretary Sean Duffy said the trouble started as a contractor, L3Harris, was replacing ancient copper wiring with fibre-optic cable. A newly installed router began \"flooding\" the network — reportedly sending 1,000 connection attempts every four to five seconds — which knocked out voice and ground communications at 17 of 22 air route traffic control centres. Officials are still working out whether it was faulty equipment or \"incompetence\".\n\nThis hit travellers hard. The Federal Aviation Administration (FAA) says more than 15,000 flights were delayed or cancelled on Friday, with thousands more disrupted into the weekend as airlines cleared the backlog. Some passengers were stuck on the tarmac; the knock-on reached the UK, Europe and Australia, where Sydney briefly grounded US-bound flights.\n\nFor background, a \"ground stop\" means no planes are cleared to depart. The FAA controls US airspace and leaned on safety by halting flights while it hunted the fault — a search slowed because maintenance is still logged on paper. This was only the second nationwide stoppage since 2001; a 2023 Notice to Air Missions (Notam) system failure was the other.\n\nDuffy warned it could happen again unless Congress funds upgrades. President Donald Trump has requested $30.1bn; Duffy says $50bn is really needed, and $12.5bn has already been approved. The FAA expected schedules back to normal by Sunday.",
+    "why_it_matters": "It shows how fragile critical infrastructure can be when it's left to decay — and Aussie travellers felt it directly, with Sydney, Australia's largest international airport, briefly grounding all US-bound flights.",
+    "deep_analysis": "## Historical Context\n\nNationwide groundings of US air traffic are extraordinarily rare. The benchmark remains the days-long shutdown after the 11 September 2001 attacks. Since then, there has been only one other full national ground stop before this event: a 2023 failure of the Notice to Air Missions (Notam) system, which lasted 1 hour and 52 minutes, delayed about 9,500 flights and cancelled around 1,300. This latest four-hour-plus stoppage is therefore the longest since 2001, even though analysts stress it was nowhere near that scale in cause or consequence.\n\nThe deeper backdrop is an ageing telecoms network. Officials describe copper wiring so old it has been discontinued, and aviation analyst Miles O'Brien likened the system to \"a house that's about to be condemned\". The upgrade work itself — moving from copper to fibre — was meant to fix exactly this fragility.\n\n## Multiple Perspectives\n\nDuffy framed the cause as either \"incompetence\" or faulty equipment on the contractor's side, saying L3Harris \"didn't meet the moment\", while also gesturing at the previous administration and Congress. L3Harris says it had completed more than 70% of the modernisation work and is supporting the FAA's investigation. Former Homeland Security official Juliette Kayyem questioned the judgement of running such an upgrade on a busy Friday without fail-safes ready to step in. Former TSA Administrator John Pistole saw resilience in the fast restart but warned nothing guarantees it won't recur.\n\nNote the sources differ on exact flight numbers: one BBC report cites over 15,000 flights affected Friday, another cites 8,500 delayed and nearly 8,000 cancelled per FlightAware, and DW reports 16,000 across Friday and Saturday combined.\n\n## What to Watch\n\nWatch the FAA investigation's verdict on router fault versus installer error, any policy change to stop daytime upgrades, and whether Congress approves the requested funding — figures cited range from the $12.5bn already approved to the $30.1bn request and Duffy's $50bn \"emergency\" call. Also watch passenger compensation: because the FAA ordered the stop, airlines aren't legally liable, though refund and re-accommodation rules still apply.",
     "concepts": [
      {
       "term": "ground stop",
-      "definition": "An order from an aviation regulator that stops aircraft from taking off, used to reduce traffic when the system can't safely handle more flights.",
-      "context": "The FAA issued a nationwide ground stop halting departures from every US airport."
+      "definition": "An order halting aircraft departures — in this case nationwide — usually imposed for safety reasons.",
+      "context": "The FAA ordered a ground stop while it tried to locate the network fault, suspending all US take-offs."
      },
      {
-      "term": "Air Route Traffic Control Centers",
-      "definition": "Facilities that manage aircraft flying between airports, as opposed to those handling take-offs and landings at a single airport.",
-      "context": "A communication issue hit all of the country's Air Route Traffic Control Centers."
+      "term": "router",
+      "definition": "A piece of equipment that directs data traffic across a network.",
+      "context": "A newly installed router began flooding the system with repeated connection attempts, overwhelming communications."
      },
      {
-      "term": "Notice to Air Missions",
-      "definition": "An FAA system that alerts pilots to hazards or changes affecting flights; its failure in 2023 caused an earlier ground stop.",
-      "context": "A 2023 outage hit the FAA's Notice to Air Missions system."
+      "term": "Federal Aviation Administration (FAA)",
+      "definition": "The US government agency responsible for regulating and managing the country's airspace and air traffic.",
+      "context": "The FAA manages US airspace and decided to ground flights while hunting the fault."
      },
      {
-      "term": "L3Harris Technologies",
-      "definition": "A technology and defence company; a network it oversees was reportedly linked to the communications fault.",
-      "context": "The fault appeared linked to a network overseen by L3Harris Technologies."
+      "term": "Notice to Air Missions (Notam)",
+      "definition": "A US system for publishing essential safety notices to pilots and aviation staff.",
+      "context": "A 2023 Notam system failure was the only other nationwide grounding since 2001."
      }
     ],
     "quiz": {
-     "question": "Why did officials and experts say grounding all departing flights was the right response to the communication outage?",
+     "question": "Why were airlines generally not legally required to compensate passengers for this disruption?",
      "options": [
-      "Because the outage was confirmed to be a cyberattack on the airports",
-      "Because fewer aircraft in the air means fewer planes controllers can't communicate with",
-      "Because airlines wanted to raise ticket prices during the disruption",
-      "Because international flights needed the runways cleared"
+      "Because the grounding was ordered by the FAA, not caused by the airlines",
+      "Because passengers had bought non-refundable tickets",
+      "Because the delays were under three hours",
+      "Because the flights were international rather than domestic"
      ],
-     "answer_index": 1,
-     "explanation": "An aviation expert explained that with controllers unable to communicate with planes at altitude, the safest fix was to keep more aircraft on the ground — fewer planes aloft means fewer the system has to worry about."
+     "answer_index": 0,
+     "explanation": "Compensation rules typically apply when a delay is within an airline's control (like a plane fault). Because the FAA ordered the ground stop, airlines weren't legally liable — though refund and re-accommodation protections still applied."
     },
-    "background_beginner": "The Federal Aviation Administration (FAA) is the US government agency that keeps the country's skies safe, directing the thousands of planes flying across America every day. To do that it relies on air traffic control centres and the communication links that connect controllers to pilots. On a Friday afternoon, a communication outage knocked out those links nationwide, so the FAA ordered a \"ground stop\" — no planes allowed to take off — until things were fixed. More than 5,000 flights were cancelled. Events like this keep making news because air travel depends on ageing, complex technology, and when one piece fails the knock-on effects ripple across the whole country and beyond.",
+    "background_beginner": "The United States runs one of the world's busiest airspaces, managed by the Federal Aviation Administration (FAA), a government agency. Much of the equipment keeping planes and controllers talking is decades old, with some copper wiring so outdated it's being phased out. To fix this, the government hired a contractor, L3Harris, to swap copper for modern fibre-optic cable. During that work something went wrong and controllers halted all US take-offs for over four hours — the longest such pause since the 2001 terror attacks. It keeps coming up because experts have long warned the system is worn out, and upgrading it costs tens of billions of dollars that Congress must approve.",
     "impact_score": 72,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
     "region": "North & South America",
     "region_code": "AMERICAS",
-    "description": "The US aviation regulator halted all departing flights after a communication outage knocked out its air traffic control centres, cancelling more than 5,000 flights.",
+    "description": "A botched upgrade swapping old copper wiring for fibre at a US air traffic site triggered a four-hour nationwide grounding that disrupted around 1.5 million passengers.",
     "tier": "GLOBAL",
     "category": "SCIENCE_TECH",
     "sources": [
      {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno"
      },
      {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-14/follow-live-us-aviation-authority-grounds-all-flights/107385742"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-rdf"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
     "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-14T01:25:24.145184+00:00",
-    "published_date": "2026-11-14",
+    "reading_minutes": 3,
+    "created_at": "2026-11-15T19:25:52.144644+00:00",
+    "published_date": "2026-11-16",
     "has_fulltext": true
    },
    {
@@ -1223,6 +1144,79 @@
    }
   ],
   "GLOBAL_SYSTEMS": [
+   {
+    "id": "7bf4cfff-6d65-55e6-bc22-194d8286ff3f",
+    "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "simplified_title": "Trump, Putin and Xi to hold rare three-way summit in China",
+    "quick_summary": "The leaders of the United States, Russia and China plan a historic trilateral meeting on the sidelines of next week's APEC summit in Shenzhen, mainly to talk about nuclear weapons.",
+    "simplified_body": "The White House says US President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping plan to meet together on the sidelines of the Asia-Pacific Economic Co-operation (APEC) summit in Shenzhen, China, next week. Spokeswoman Olivia Wales said Trump wants to discuss reducing the world's nuclear weapons, which he sees as dangerous. Iran may come up, but Ukraine will not. Russia has confirmed the meeting; China has yet to react, and no formal agreement is expected.\n\nThis matters because these three countries hold the world's biggest nuclear arsenals. A US-Russia nuclear arms control treaty expired in February, leaving those arsenals without major guardrails, and the UN has urged both sides to agree a new framework. Trump has said he wants a better deal that also includes China, which has been building up its weapons.\n\nFor a newcomer: the meeting has been compared to the 1945 Yalta conference, where the US, Britain and the Soviet Union carved up postwar influence in Europe. Ukrainian President Volodymyr Zelenskyy has warned against a \"Yalta 2.0\" that redistributes global influence or abandons his country. European leaders are nervous too — Germany's Friedrich Merz asked for \"no surprises\" and France's Emmanuel Macron warned against forcing an \"unjust peace\".\n\nAustralia's Prime Minister Anthony Albanese, speaking in Manila before the ASEAN summit, welcomed the dialogue but insisted Putin must be told the war should end. He wouldn't rule out appearing in the traditional APEC leaders' photo alongside Putin, saying he'd respect host China's wishes. Watch next week for whether the talks produce anything concrete.",
+    "why_it_matters": "A sit-down between the world's three biggest nuclear powers could reshape global security, and Australia is directly in the mix — Albanese attends APEC and must decide whether to stand beside Putin for the cameras.",
+    "deep_analysis": "## Historical Context\n\nThe comparison that keeps coming up is Yalta in February 1945, when Franklin D Roosevelt, Winston Churchill and Joseph Stalin met in Crimea to shape the postwar order and effectively divided Europe into spheres of influence. The worry among Ukraine and European leaders is that a modern three-way meeting could repeat that pattern, with big powers deciding the fate of smaller nations over their heads. The historian Timothy Garton Ash has called the planned summit \"a sort of parody\" of Yalta.\n\nThere's also a nuclear backdrop. A US-Russia arms control treaty expired in February, ending the kind of co-operation that helped wind down the Cold War. The UN has pushed for a replacement, and Trump says he wants a broader deal that brings in China — though former officials and analysts have warned that getting Beijing and Moscow on board could take years.\n\n## Multiple Perspectives\n\nTrump's team frames the trip as securing \"historic wins\" and advancing US interests in the Indo-Pacific. Russia has confirmed it's ready to talk. China has stayed quiet on the trilateral, only confirming bilateral meetings.\n\nEuropean leaders are uneasy: Merz wants \"no surprises\" and loyalty to \"Team Europe and Team Ukraine\", while Macron warns an unjust peace is \"a recipe for another war\". Zelenskyy fears being abandoned. Albanese takes a middle road — welcoming dialogue and hoping for de-escalation, while stressing Ukraine is defending the international rule of law. He and Canada's Mark Carney have both signalled openness to the group photo with Putin, unlike the earlier G20 episode where Penny Wong and others avoided posing with Russia's foreign minister.\n\n## What to Watch\n\nWhether anything concrete emerges — a senior US official says no agreement is expected. Watch China's eventual response, whether Putin actually appears at the APEC family photo and who stands beside him, and whether Ukraine genuinely stays off the agenda as claimed. For Australia, also watch the new Philippines defence pact and the US-led Pax Silica AI push.",
+    "concepts": [
+     {
+      "term": "APEC",
+      "definition": "Asia-Pacific Economic Co-operation — a 21-member grouping of economies around the Pacific that meets to discuss trade and regional issues.",
+      "context": "This year's APEC summit in Shenzhen is where the three leaders plan to meet on the sidelines."
+     },
+     {
+      "term": "Yalta",
+      "definition": "A 1945 wartime conference where the US, Britain and the Soviet Union met to shape the postwar world and split Europe into zones of influence.",
+      "context": "Critics fear the new summit could become a 'Yalta 2.0' that carves up global influence."
+     },
+     {
+      "term": "nuclear arms control",
+      "definition": "Agreements between nuclear-armed states to limit the number and spread of their weapons.",
+      "context": "A US-Russia treaty expired in February, and the nuclear arms control gap is a key reason for the talks."
+     },
+     {
+      "term": "ASEAN",
+      "definition": "Association of South-east Asian Nations — a bloc of South-east Asian countries that holds regular leaders' summits.",
+      "context": "Albanese spoke from Manila ahead of the ASEAN summit before travelling to China."
+     }
+    ],
+    "quiz": {
+     "question": "Why are European leaders like Merz and Macron uneasy about the Trump-Putin-Xi meeting?",
+     "options": [
+      "They oppose any reduction in nuclear weapons",
+      "They fear the US could make concessions on Ukraine and impose an unjust peace",
+      "They want China excluded from all nuclear talks",
+      "They were not invited to attend APEC in Shenzhen"
+     ],
+     "answer_index": 1,
+     "explanation": "Merz urged 'no surprises' and to stay with 'Team Ukraine', while Macron warned against forcing an 'unjust peace' — both reflecting fear that big powers might decide Ukraine's fate without it."
+    },
+    "background_beginner": "The main players are Donald Trump (US president), Vladimir Putin (Russia) and Xi Jinping (China) — leaders of the three countries with the world's largest nuclear arsenals. The story started when the White House announced they'd meet together during the APEC summit in Shenzhen, China. It keeps coming up because Russia's 2022 invasion of Ukraine is still going, a US-Russia nuclear treaty recently lapsed, and smaller nations and European allies worry three superpowers might strike deals over everyone else's heads — echoing the 1945 Yalta conference. Australia's leader Anthony Albanese is involved as an APEC attendee weighing how closely to engage with Putin.",
+    "impact_score": 76,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "The leaders of the United States, Russia and China plan a historic trilateral meeting on the sidelines of next week's APEC summit in Shenzhen, mainly to talk about nuclear weapons.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-15/albanese-will-not-rule-out-apec-photo-with-putin/107387814"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "561f520f-aa0d-52f7-9d4a-843d30c692d6"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-15T19:25:55.578885+00:00",
+    "published_date": "2026-11-16",
+    "has_fulltext": true
+   },
    {
     "id": "22ca9d6b-c8dc-5bc9-ac39-a3dc0dce116c",
     "title": "Secret votes and vetoes: How will the next UN chief be picked?",
@@ -1413,6 +1407,69 @@
   ],
   "ADF": [
    {
+    "id": "4f6d3dd5-f29a-54df-aba2-fb8dece84f21",
+    "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
+    "simplified_title": "Gender-diverse Aussie sailors blocked from US nuclear subs under Aukus",
+    "quick_summary": "Internal defence documents reveal transgender and non-binary Australian sailors are barred from the nuclear submarine training program because US military policy bans them.",
+    "simplified_body": "Internal Australian Defence Force (ADF) documents, released under freedom of information laws, show that transgender and non-binary sailors and officers are explicitly blocked from Australia's nuclear-powered submarine training program. The reason isn't Australian policy — it's that trainees work on US boats and bases, and \"US government policy is different\". ADF personnel in the US must comply with US rules, so gender-diverse recruits currently can't start the SSN (nuclear-powered attack submarine) training pathway.\n\nThis affects gender-diverse Australians hoping for a submarine career. Australia has no nuclear submarine fleet of its own yet, so hundreds of sailors train on US vessels. Rear Adm Tish van Stralen, one of the navy's most senior women, said the ADF remains an equal opportunity employer but is \"subject to policies and laws in other countries\", and has a duty of care not to put people in harm's way. The navy will seek alternative paths, possibly training in the UK, which has \"more liberal policies\".\n\nFor background: this stems from the Aukus deal, under which Australia plans to buy three US Virginia-class submarines from 2032. The US shift followed a January 2025 executive order by President Donald Trump banning transgender service members, and directives from defence secretary Pete Hegseth to scrap diversity, equity and inclusion (DEI) programs and purge transgender personnel.\n\nCrewing the future fleet is one of Aukus's biggest challenges — Virginia-class subs need 135 crew, more than double the Collins-class. Defence minister Richard Marles calls it a major \"training challenge\". The defence department wouldn't say how many people have been affected, even as its own workforce strategy urges actively including underrepresented groups.",
+    "why_it_matters": "Australia's own inclusion policies are effectively being overridden by US rules as a condition of the Aukus submarine deal, raising hard questions about sovereignty and fairness at a time the navy desperately needs more submariners.",
+    "deep_analysis": "## Historical Context\n\nAukus is a 2021 security pact between Australia, the United Kingdom and the United States, whose headline feature is helping Australia acquire nuclear-powered (not nuclear-armed) submarines. Because Australia has never operated such boats, the early years rely heavily on training Australian crews aboard US vessels and at US bases, and rotating US submarines through ports like HMAS Stirling in Western Australia. That dependence is what gives US domestic policy reach over Australian personnel. The friction described here emerged after a sharp shift in US military policy — an executive order in January 2025 and directives from the US defence secretary to end diversity programs and remove transgender service members.\n\n## Multiple Perspectives\n\nThe ADF frames its stance as pragmatic and protective: policy on equality is unchanged, but personnel on US soil must follow US law, and the navy cites a \"duty of care\" to avoid putting people in harm's way. Critics could read that same framing as Australia quietly absorbing a discriminatory foreign policy rather than challenging it. For gender-diverse recruits, the practical effect is exclusion from a flagship career path regardless of merit — though the navy says it will look for alternatives, possibly in the UK. There's also a workforce angle: defence's own strategy explicitly calls for widening the talent pool, which sits awkwardly beside a rule narrowing it during a crewing shortage.\n\n## What to Watch\n\nWatch whether the government discloses how many people have been affected, and whether it publicly defends or distances itself from the US policy. Keep an eye on the proposed UK training alternatives actually materialising, and on how the broader crewing shortfall — 135 crew per Virginia-class boat — is managed as the 2032 purchase timeline approaches.",
+    "concepts": [
+     {
+      "term": "Aukus",
+      "definition": "A 2021 security partnership between Australia, the UK and the US, centred on Australia acquiring nuclear-powered submarines.",
+      "context": "The exclusion arises because Aukus requires Australian sailors to train on US boats and bases."
+     },
+     {
+      "term": "SSN",
+      "definition": "The designation for nuclear-powered attack submarines; the training pathway Australia is building for its future fleet.",
+      "context": "Gender-diverse recruits are currently unable to begin the SSN training pathway."
+     },
+     {
+      "term": "Virginia-class",
+      "definition": "A class of US nuclear-powered attack submarines, three of which Australia plans to buy from 2032.",
+      "context": "Each Virginia-class boat needs 135 crew, more than double the Collins-class, making crewing a key challenge."
+     },
+     {
+      "term": "duty of care",
+      "definition": "An obligation to protect the wellbeing of personnel and avoid exposing them to harm.",
+      "context": "The navy cited a duty of care as a reason not to place gender-diverse people into US-based training."
+     }
+    ],
+    "quiz": {
+     "question": "Why are gender-diverse Australian sailors currently barred from the nuclear submarine training pathway?",
+     "options": [
+      "Australian defence policy bans transgender personnel from submarines",
+      "Training happens on US boats and bases, where US policy now excludes them",
+      "The UK requested the restriction as an Aukus partner",
+      "They failed the required technical fitness tests"
+     ],
+     "answer_index": 1,
+     "explanation": "The ADF says its own equality policy is unchanged, but personnel training in the US must comply with US policy, which now excludes transgender and non-binary people — so they can't start the pathway."
+    },
+    "background_beginner": "Aukus is a 2021 deal between Australia, the United Kingdom and the United States to help Australia get nuclear-powered submarines — a huge, decades-long project. Since Australia doesn't yet own such subs, its sailors learn by training on American vessels and bases. That reliance is the crux here: when Australians are on US soil, they must follow US rules. In early 2025 the US, under President Trump and defence secretary Pete Hegseth, banned transgender people from the military and scrapped diversity programs. Because of that, transgender and non-binary Australian recruits can't join the submarine training. It keeps coming up because Aukus is central to Australia's defence future, yet it clashes with Australia's own inclusion policies.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/a8ffd0f4a6649fa47da73c0c7e9820fde6e754cc/198_0_4099_3280/master/4099.jpg?width=1920&quality=85&auto=format&fit=max&s=70e84ded57741a55f07587b142776f5e",
+    "region": "Australian defence, ADF, AUKUS, regional security",
+    "region_code": "ADF",
+    "description": "Internal defence documents reveal transgender and non-binary Australian sailors are barred from the nuclear submarine training program because US military policy bans them.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-15T19:26:18.025168+00:00",
+    "published_date": "2026-11-16",
+    "has_fulltext": true
+   },
+   {
     "id": "f80c6e8d-9534-5c35-a1fa-d28dd4ed7b18",
     "title": "Is China expanding its military presence in Southeast Asia?",
     "simplified_title": "China Deepens Military Ties Across Southeast Asia",
@@ -1473,71 +1530,6 @@
     "reading_minutes": 4,
     "created_at": "2026-11-14T19:26:00.258436+00:00",
     "published_date": "2026-11-15",
-    "has_fulltext": true
-   },
-   {
-    "id": "123ee1cf-709b-50b5-bcd8-2b53100b0129",
-    "title": "What we know about China's military exercises around Taiwan",
-    "simplified_title": "China Simulated a Taiwan Blockade — It Didn't Actually Happen",
-    "quick_summary": "China ran its biggest-yet military drills around Taiwan in early November, but despite viral claims online, it never actually blockaded or took over the island.",
-    "simplified_body": "Since 2 November, China has run large military exercises around Taiwan, deploying around 100 ships from its navy and coast guard across the western Pacific, with Taiwan's Ministry of National Defence detecting 49 Chinese military aircraft near the island on 3 November. Viral posts on X claimed \"China takes over Taiwan\" and showed animated maps of an airtight blockade — but experts say that's false. The ships and planes simulated a blockade; they never actually imposed one.\n\nThis matters for the roughly 23 million people living in Taiwan, for shipping, and for Taiwan's allies. Civilian vessels kept moving the whole time — the container ship One Hanoi left Kaohsiung port on 3 November, at the height of the operations, and sailed into the Taiwan Strait. By 8–9 November, aircraft near Taiwan had dropped to just one and ships to eight, which researcher Emmanuel Véron says is nowhere near enough to mount a real blockade.\n\nFor background: China's ruling Communist Party claims Taiwan as its own territory, while Taiwan governs itself. Beijing regularly stages drills to pressure Taipei. One misleading map came from a clickbait account called Fablex, which claimed to be in California but was registered in Uganda — a sign it was chasing viral views, not reporting facts.\n\nWhat's next? Unlike last year, China didn't announce these drills beforehand, possibly to stay low-key ahead of the Asia-Pacific Economic Cooperation (APEC) summit it hosts on 18 November. Véron calls the operation \"unprecedented\" in scale and spread — hitting Taiwan's north, south and centre, plus the South China, East China and Philippine Seas — but stresses it signals pressure and training, not an imminent invasion.",
-    "why_it_matters": "Taiwan sits on shipping lanes and chip supply chains that Australia depends on, so any genuine disruption near the island would ripple through our economy — making it worth knowing the difference between a real blockade and a simulated one.",
-    "deep_analysis": "## Historical Context\n\nChina's Communist Party has claimed Taiwan as part of its territory since 1949, when the two sides split at the end of the Chinese civil war. Taiwan has governed itself ever since. For years, Beijing has used military drills as a form of pressure — staging large exercises, especially after moments it dislikes, such as visits by foreign officials. The article notes that past big exercises largely took place on the side of the island facing mainland China. What's described as new here is the geographic spread: operations now reaching Taiwan's north, south and centre, and across the South China Sea, East China Sea and Philippine Sea.\n\n## Multiple Perspectives\n\nThe France 24 fact-check draws a sharp line between what viral social media claimed and what actually happened. Posts on X asserted China had \"taken over\" Taiwan with an airtight blockade; researcher Emmanuel Véron of HEC Paris calls that \"absolutely false,\" attributing it to influencer exaggeration or Chinese propaganda. On the numbers themselves, there's agreement: Taiwan's National Security Council reported 100 vessels, and its defence ministry reported 49 aircraft on 3 November — figures that then fell sharply. Véron frames the drills as a genuine, unprecedented show of force designed to train forces and pressure Taipei and its allies, while flatly rejecting the idea of an imminent invasion.\n\n## What to Watch\n\nKeep an eye on whether Beijing makes any announcement after the exercises — Véron suggests the lack of advance notice may be deliberate, possibly to stay discreet before hosting APEC on 18 November. Also watch the daily aircraft and ship counts from Taiwan's defence ministry: the drop to one aircraft and eight ships by 8–9 November may signal operations winding down, or a pause before another round.",
-    "concepts": [
-     {
-      "term": "blockade",
-      "definition": "Surrounding a place with military forces to cut off the movement of ships, aircraft and supplies in and out.",
-      "context": "Viral posts claimed China had imposed an airtight blockade on Taiwan, but experts say the forces only simulated one."
-     },
-     {
-      "term": "Taiwan Strait",
-      "definition": "The stretch of sea separating Taiwan from mainland China, a busy route for commercial shipping.",
-      "context": "The container ship One Hanoi sailed into it during the drills, showing civilian traffic kept flowing."
-     },
-     {
-      "term": "Asia-Pacific Economic Cooperation (APEC)",
-      "definition": "A forum of Pacific-rim economies that meets to discuss trade and cooperation.",
-      "context": "China was due to host the APEC summit on 18 November, which may explain why it kept the drills low-key."
-     },
-     {
-      "term": "clickbait account",
-      "definition": "A social media account that posts sensational or misleading content mainly to rack up views.",
-      "context": "The misleading map came from Fablex, a clickbait account whose stated location didn't match its registration."
-     }
-    ],
-    "quiz": {
-     "question": "Why do experts say China did not actually blockade Taiwan during the November drills?",
-     "options": [
-      "Taiwan's navy successfully pushed the Chinese ships back",
-      "The United States sent its own fleet to break the blockade",
-      "Civilian ships kept moving and ship numbers fell too low to sustain a blockade",
-      "China officially announced it was only a training exercise beforehand"
-     ],
-     "answer_index": 2,
-     "explanation": "The article notes civilian vessels like the One Hanoi kept circulating, and by 8–9 November only eight ships remained — which Véron says is far too few to organise a real blockade. China did not announce the drills in advance."
-    },
-    "background_beginner": "Taiwan is a self-governing island off the coast of China, home to around 23 million people. China's ruling Communist Party considers Taiwan part of its territory and has never ruled out using force to control it, while Taiwan runs its own government and democracy. This disagreement dates back to 1949, when China's civil war ended with the two sides split. To apply pressure, China regularly sends warships and military planes near Taiwan and stages large drills. These exercises keep making headlines because any real conflict could draw in the United States and disrupt global trade and computer-chip supplies.",
-    "impact_score": 62,
-    "image_url": "https://s.france24.com/media/display/92520268-dd08-11f1-8ebf-29048b396e03/w:1280/p:16x9/image3-138.jpg",
-    "region": "Australian defence, ADF, AUKUS, regional security",
-    "region_code": "ADF",
-    "description": "China ran its biggest-yet military drills around Taiwan in early November, but despite viral claims online, it never actually blockaded or took over the island.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "aff3d0d5-fd1e-58b1-aa7f-349c338f1428"
-    ],
-    "reading_minutes": 4,
-    "created_at": "2026-11-14T07:25:35.195845+00:00",
-    "published_date": "2026-11-14",
     "has_fulltext": true
    },
    {
@@ -1602,141 +1594,87 @@
     "created_at": "2026-11-15T07:26:11.877125+00:00",
     "published_date": "2026-11-15",
     "has_fulltext": true
-   },
-   {
-    "id": "8551bba8-1f77-533d-a797-d5f029d579dd",
-    "title": "AUKUS Public Inquiry: important, but not for the reasons they think | The Strategist",
-    "simplified_title": "Why the AUKUS Public Inquiry Matters, Even When It's Wrong",
-    "quick_summary": "A privately run inquiry criticising the AUKUS submarine pact is sparking valuable public debate, even though experts say its arguments are weak.",
-    "simplified_body": "A privately run AUKUS Public Inquiry released its report on 4 November, calling for more information about the pact while also criticising it, especially its submarine element, known as Pillar One. The piece argues the report's conclusions are shaky, but the debate it has kicked off is genuinely useful.\n\nThis matters for anyone who cares about Australia's long-term security. AUKUS is a deal between Australia, the United Kingdom and the United States worth many billions of dollars and spanning decades. A project that big needs steady public support to survive, and that support can only be built through open discussion, particularly given emotive elements like nuclear technology.\n\nFor newcomers: AUKUS was announced in 2021, and in 2023 the \"Optimal Pathway\" plan for how Australia would acquire nuclear-powered submarines was unveiled. Polling is mixed. A Guardian Essential poll found only 38 percent thought Pillar One would make Australia more secure, though just 21 percent thought it would make the country less secure. The Lowy Institute consistently finds two-thirds of Australians support getting the submarines, yet a United States Studies Centre survey found 44 percent felt AUKUS had not been properly explained, and young people are the least supportive.\n\nSince the report appeared, journalists, politicians and academics have quickly pulled apart its weak arguments, which the author says ignore Indo-Pacific geopolitics and take an outdated view of sovereignty. Ironically, those weaknesses give experts a platform to explain AUKUS's benefits, meaning the anti-AUKUS inquiry may end up helping the pact succeed.",
-    "why_it_matters": "AUKUS is one of the biggest and costliest security commitments in Australia's history, and whether it survives decades of changing governments depends heavily on ordinary Australians understanding and backing it.",
-    "deep_analysis": "## Historical Context\n\nAUKUS was announced in September 2021 as a trilateral security partnership between Australia, the United Kingdom and the United States. In March 2023 the three governments revealed the \"Optimal Pathway\" setting out how Australia would acquire nuclear-powered submarines under Pillar One. Because such pacts are forged in secret by governments, public engagement has been patchy, with commentary spiking around September and March anniversaries, or when leadership changes in any of the three countries prompt questions about whether bipartisan and trilateral support will hold. The author notes that only one major party conference, Australian Labor's in 2023, has vigorously debated AUKUS.\n\n## Multiple Perspectives\n\nThe inquiry itself wants more information and is critical of AUKUS, especially the submarine component. The author points out a tension here: you can't draw firm conclusions against something while also admitting you lack information about it. Critics of the inquiry argue its reasoning misunderstands Indo-Pacific geopolitics, overlooks that Australia can lean on US and British experience managing nuclear technology and waste, ignores that AUKUS was itself an alternative to an earlier plan, and relies on an outdated notion of sovereignty. Meanwhile public opinion is genuinely split: majority support for the submarines sits alongside widespread feeling that the case hasn't been properly made, with younger Australians least convinced.\n\n## What to Watch\n\nWatch whether this debate deepens public understanding, particularly among younger Australians who will carry the project through its later decades. Keep an eye on polling trends from the Lowy Institute, Guardian Essential and the United States Studies Centre. Leadership changes across the three nations remain a potential flashpoint for support fraying.",
-    "concepts": [
-     {
-      "term": "Pillar One",
-      "definition": "The submarine element of AUKUS, under which Australia is to acquire nuclear-powered submarines.",
-      "context": "The inquiry's criticism focused particularly on this part of the pact."
-     },
-     {
-      "term": "Optimal Pathway",
-      "definition": "The plan announced in 2023 setting out how Australia would acquire its nuclear-powered submarines.",
-      "context": "Its anniversary in March is one of the times AUKUS commentary tends to spike."
-     },
-     {
-      "term": "sovereignty",
-      "definition": "A country's ability to control its own affairs and defence independently.",
-      "context": "The author says the report took an outdated view of it in a world of interlinked partnerships and supply chains."
-     }
-    ],
-    "quiz": {
-     "question": "According to the article, why does the author think the inquiry is valuable despite its weak arguments?",
-     "options": [
-      "Because it proves AUKUS should be cancelled",
-      "Because it revealed secret military information",
-      "Because it was run by the three AUKUS governments",
-      "Because the weak arguments let experts publicly explain AUKUS's benefits and spark needed debate"
-     ],
-     "answer_index": 3,
-     "explanation": "The author argues the shaky conclusions give experts a platform to knock them down and showcase AUKUS's positives, reviving the public debate the pact needs."
-    },
-    "background_beginner": "AUKUS is a security partnership announced in 2021 between Australia, the United Kingdom and the United States. Its headline feature is a plan for Australia to acquire nuclear-powered submarines, with the detailed \"Optimal Pathway\" for doing so revealed in 2023. The project is enormous, costing many billions of dollars and running over decades, which is why it keeps coming up in Australian politics. Supporters say it strengthens Australia's security in the Indo-Pacific; critics question the cost, the nuclear element and whether Australia gives up too much independence. A recent privately run public inquiry reignited the argument over whether the case for AUKUS has been properly made to Australians.",
-    "impact_score": 58,
-    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/GettyImages-1237162604-scaled.jpg",
-    "region": "Australian defence, ADF, AUKUS, regional security",
-    "region_code": "ADF",
-    "description": "A privately run inquiry criticising the AUKUS submarine pact is sparking valuable public debate, even though experts say its arguments are weak.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "ASPI Strategist",
-      "url": "https://www.aspistrategist.org.au/aukus-public-inquiry-important-but-not-for-the-reasons-they-think/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "47d087e1-5df9-5938-9b0e-b5a390002ba4",
-     "608d39b6-2be7-5d86-8473-64fc053ab3ea",
-     "6b30b79b-3a5b-57d0-b2bd-fbcad1f073ca",
-     "82704ce1-061c-5165-b58d-f67fb6543ab6"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-14T07:25:05.932417+00:00",
-    "published_date": "2026-11-14",
-    "has_fulltext": true
    }
   ],
   "AI_TECH": [
    {
-    "id": "8dc60759-ab8b-5040-8551-4654ebb853f0",
-    "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-    "simplified_title": "Nvidia boss quits over affair with suspected Chinese spy",
-    "quick_summary": "Jensen Huang has resigned as Nvidia's chief executive amid reports of an affair with a woman suspected of being a Chinese spy, wiping hundreds of billions off the firm's value and triggering congressional summonses.",
-    "simplified_body": "Jensen Huang, the long-time boss of Nvidia, has resigned after reports he had an affair with Alice Huang (no relation), a woman US intelligence reportedly suspects of being a Chinese spy. Further reports of two more affairs with Nvidia staff, including executive Kimberly Powell, sealed his fate. He admitted being \"unfaithful\" to his wife of 40 years but did not name anyone. He has now been summoned to testify before Congress and could face a subpoena if he won't appear voluntarily.\n\nNvidia isn't just any firm — it makes the computer chips that power the artificial intelligence (AI) boom — and it has shed hundreds of billions in value in days. The BBC reports US$550 billion was wiped off over five days. That reaches ordinary people too: more than A$1 trillion of Australian superannuation is invested offshore, much of it in US tech. Commerce Secretary Howard Lutnick has also been summoned, over claims he went too easy on export restrictions limiting advanced chip sales to China.\n\nNvidia started out making chips for computer games. As AI grew into chatbots and large language models, demand for its chips exploded. Huang ran things tightly — reportedly with 60 people reporting to him directly — and hadn't groomed a successor, leaving the company exposed. Chief Financial Officer Colette Kress is now interim chief executive officer (CEO). There's an independent investigation into whether Huang was targeted by foreign intelligence, plus a proposed class action from shareholders.\n\nSources disagree on exactly when Huang will face lawmakers — some report December hearings, one reports 18 November. China denies Alice Huang is a spy, and US officials say they've reached no conclusion. Nvidia's results are due next week.",
-    "why_it_matters": "Nvidia sits at the heart of the global AI boom, so its wobble ripples straight into the more than A$1 trillion of Australian super invested offshore — plus it raises real questions about who controls technology more powerful than many governments.",
-    "deep_analysis": "## Historical Context\n\nNvidia began as a maker of chips for computer games. Over the past four years, as AI technology evolved into chatbots and large language models, companies building AI tools suddenly needed huge numbers of Nvidia's chips to process data — and Nvidia became the near-sole supplier. Its market value rose more than 470% in five years, peaking just weeks ago. Huang, its public face since 1993, became a booster of the whole industry and a close ally of President Donald Trump, visiting the White House at least five times in Trump's second term. In December 2025, Trump allowed Nvidia to sell advanced chips to China in exchange for a cut of sales, after Huang argued restrictions only sped up Beijing's own AI development.\n\n## Multiple Perspectives\n\nTrump has stood by Huang, calling him \"honourable\" and saying Huang told him he had no idea Alice Huang was a spy. China rejects the espionage allegation as a smear, and Attorney General Todd Blanche says the Justice Department hasn't concluded whether she was a spy. Critics, including Democrat Senator Elizabeth Warren, focus on the administration, demanding Lutnick explain unclosed \"export control loopholes\". Economist Justin Wolfers argues Huang's refusal to build a management structure or successor was \"an extraordinary fail\". The sources also differ on facts: BBC dates his resignation to Thursday, ABC to Friday; the timing of his congressional appearance is reported variously as mid-November and December.\n\n## What to Watch\n\nNvidia's upcoming results could either soothe or spook investors. Watch the congressional hearings for both Huang and Lutnick, the independent foreign-intelligence investigation (and whether its findings go public), the shareholder class action, and whether Nvidia's strategy shifts under new leadership — all of which matter for the broader, increasingly jittery AI market.",
+    "id": "61d256b9-0cf2-5c4d-8485-bd3a1363eebe",
+    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "simplified_title": "Nvidia boss quits over affair with suspected China spy",
+    "quick_summary": "Nvidia's Jensen Huang resigned after his affair with suspected Chinese spy Alice Huang was exposed, fuelling fears that banned AI chips reached China through her company Megaspeed.",
+    "simplified_body": "Jensen Huang has resigned as chief executive of Nvidia, the world's most valuable artificial intelligence (AI) chip-maker, after it emerged he allegedly had an affair with Alice Huang (no relation), a Chinese businesswoman US officials suspect of spying for China. He also reportedly had affairs with two Nvidia employees. Alice Huang ran Megaspeed, a Singapore-based cloud computing company, which says she left on 30 August 2025 and now has no role there.\n\nThis matters because Megaspeed is the biggest buyer of Nvidia chips in south-east Asia, and it is suspected of giving Chinese firms \"backdoor\" access to advanced chips through data centres in Malaysia, Indonesia and Thailand. Nvidia is banned from selling its top chips to China under US export restrictions, so any diversion could breach those rules. Megaspeed denies wrongdoing, says it operates lawfully, and has hired external lawyers for an internal investigation.\n\nHere's the background a newcomer needs: AI chips are the engines behind the current AI boom, and the US wants to stop China getting the most powerful ones. A \"honeypot\" is a long-used spy tactic where someone forms a romantic relationship to gain access or influence. Experts say human weakness, not hacking, is often a company's biggest vulnerability.\n\nWhat happens next is messy. US Commerce Secretary Howard Lutnick faces pressure over why Megaspeed avoided the US \"entity list\" and will testify to the Senate. The FBI is probing the affair, and Huang faces a shareholder lawsuit. China denies Alice Huang is a spy and warns the US not to use the scandal to blockade AI technology.",
+    "why_it_matters": "An alleged honeypot operation toppled the boss of a US$4 trillion company and rattled global markets, including the Nasdaq — a reminder that the AI chips underpinning tech investments worldwide, Australia included, sit at the centre of a tense US–China contest.",
+    "deep_analysis": "## Historical Context\n\nSilicon Valley has been a target for foreign spying for decades. During the Cold War, Soviet intelligence officers ran long-term operations out of San Francisco to steal US technology they couldn't produce themselves; in 1985 CIA director William Casey warned that gaining access to American advanced technology was Moscow's \"top priority\". More recently, China has been the most prominently accused: a Center for Strategic and International Studies report found at least 224 incidents of Chinese espionage in the US between 2000 and 2022, more than half aimed at commercial technology. The \"honeypot\" — using a romantic or sexual relationship for leverage — is described by experts as one of the oldest tricks there is, and it has surfaced before, including the Eric Swalwell–Christine Fang case.\n\n## Multiple Perspectives\n\nAccounts diverge sharply. US officials, per a New York Times report, believe Alice Huang was a spy recruited to push Nvidia toward making chips more available to China. But US Attorney General Todd Blanche said the Justice Department hasn't concluded she is a spy, and President Trump said it hasn't \"been determined\". China flatly rejects the allegations, calling them a smear and warning against a \"technological blockade\". On the export failures, Treasury Secretary Scott Bessent blames the Commerce Department — led by Howard Lutnick — for not placing Megaspeed on the entity list despite other agencies favouring it for months. Singapore says it doesn't enforce other countries' unilateral export controls but expects firms to respect them; it investigated Megaspeed and Alice Huang but found insufficient evidence of a crime. Megaspeed says reports lack verifiable evidence.\n\n## What to Watch\n\nWatch Lutnick's Senate Banking Committee testimony next month and whether he survives calls to resign. Megaspeed's finances raise eyebrows — Singapore records show its total assets rose roughly 90-fold from end-2023 to 2024, reaching almost US$3 billion. Also watch the ownership tangle: short seller Culper Research cited an employee saying Alice Huang was \"actually still our boss\" despite her shares being transferred away. The FBI probe, Nvidia's own law-firm investigation, and Huang's shareholder lawsuit will all shape how this lands.",
     "concepts": [
      {
-      "term": "subpoena",
-      "definition": "A legal order compelling someone to appear and give evidence, used here because a Senate panel could force Huang to testify if he declines to come voluntarily.",
-      "context": "Senators want Huang to answer questions about national security and the suspected spy."
+      "term": "honeypot",
+      "definition": "A spying tactic where someone forms a romantic or sexual relationship with a target to gain access, information or influence.",
+      "context": "Security experts say it's one of the oldest tricks in espionage and remains effective because it exploits human weakness."
      },
      {
       "term": "export restrictions",
-      "definition": "Government rules limiting which goods — here, advanced AI chips — can be sold to particular countries like China, for national-security reasons.",
-      "context": "Commerce Secretary Howard Lutnick is accused of being too lax on these."
+      "definition": "Government rules that limit which goods — here, advanced AI chips — can be sold to particular countries.",
+      "context": "The US bars Nvidia from selling its most powerful chips to China to slow China's AI progress."
      },
      {
-      "term": "large language models",
-      "definition": "AI systems trained on huge amounts of text to generate human-like responses, such as chatbots; they need vast numbers of powerful chips to run.",
-      "context": "Their rise drove the explosion in demand for Nvidia's chips."
+      "term": "entity list",
+      "definition": "A US list of foreign firms and individuals that American companies are restricted from trading with.",
+      "context": "Officials are fighting over why Megaspeed was never added despite national security concerns."
      },
      {
-      "term": "class action",
-      "definition": "A lawsuit brought by a group of people with the same complaint — here, shareholders claiming they were defrauded.",
-      "context": "Nvidia and Huang face this on top of the political scrutiny."
+      "term": "backdoor",
+      "definition": "A hidden or indirect way of gaining access to something that is officially blocked or restricted.",
+      "context": "Megaspeed is suspected of routing banned Nvidia chips to Chinese firms through its overseas data centres."
      }
     ],
     "quiz": {
-     "question": "Why does Nvidia's turmoil matter to everyday Australians?",
+     "question": "Why is the Alice Huang scandal considered a national security concern rather than just a personal one?",
      "options": [
-      "More than A$1 trillion of Australian superannuation is invested offshore, much of it in US tech",
-      "Nvidia manufactures its AI chips in Australian factories",
-      "The Australian government owns a stake in Nvidia",
-      "Nvidia is listed on the Australian Securities Exchange"
+      "Because Jensen Huang stole trade secrets from a rival",
+      "Because her company is suspected of diverting banned advanced AI chips to China",
+      "Because Nvidia is a Singaporean company",
+      "Because the affair caused Nvidia to go bankrupt"
      ],
-     "answer_index": 0,
-     "explanation": "The sources note that over A$1 trillion of Australian super is invested offshore, largely in big US tech firms chasing the AI boom, so a fall in Nvidia's value can hit super returns."
+     "answer_index": 1,
+     "explanation": "The core worry is that Megaspeed, which she ran, may have routed restricted Nvidia AI chips to Chinese companies in breach of US export controls — a security issue, not merely a private affair."
     },
-    "background_beginner": "Nvidia is an American company that makes the specialised computer chips powering the current artificial intelligence (AI) boom — think of it as the engine room behind chatbots and other AI tools. For years it was led by Jensen Huang, a charismatic founder-boss who became hugely influential and close to the US government. The company grew into one of the world's most valuable. This story blew up because Huang reportedly had an affair with a woman US officials suspect of spying for China, then faced reports of more affairs. It keeps resurfacing because it mixes romance, national security, politics and billions of dollars in a firm central to the global economy.",
-    "impact_score": 85,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+    "background_beginner": "Nvidia is the American company that makes the powerful computer chips driving the AI boom, which made it one of the world's most valuable firms, worth around US$4 trillion. Jensen Huang founded it and ran it for 33 years. The US bans Nvidia from selling its best chips to China, fearing they'd boost China's military and tech power. The scandal erupted when it emerged Huang had an affair with Alice Huang (no relation), a businesswoman US officials suspect of being a Chinese spy. Her company, Megaspeed, is accused of smuggling chips to China. It keeps coming up because it mixes money, sex, spying and the high-stakes US–China tech rivalry.",
+    "impact_score": 82,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
     "region": "AI and technology",
     "region_code": "AI_TECH",
-    "description": "Jensen Huang has resigned as Nvidia's chief executive amid reports of an affair with a woman suspected of being a Chinese spy, wiping hundreds of billions off the firm's value and triggering congressional summonses.",
+    "description": "Nvidia's Jensen Huang resigned after his affair with suspected Chinese spy Alice Huang was exposed, fuelling fears that banned AI chips reached China through her company Megaspeed.",
     "tier": "GLOBAL",
     "category": "SCIENCE_TECH",
     "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o"
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
      },
      {
       "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-14/questions-over-jensen-huang-affair-for-us-administration-nvidia/107382476"
+      "url": "https://www.abc.net.au/news/2026-11-16/alice-huang-megaspeed-departure/107388304"
      },
      {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-14/how-nvidia-scandal-could-undermine-ai-boom-verrender/107382722"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-14T07:25:25.751964+00:00",
-    "published_date": "2026-11-14",
+    "related_story_ids": [
+     "27bc941b-6975-517e-b680-b1ab0006bd3b",
+     "566f8c6b-b1ce-5224-97fe-38aa14a58620",
+     "58601233-8eab-5958-9bc7-31547e599829",
+     "72597008-acc3-5015-8369-4d885c3f3663",
+     "8dc60759-ab8b-5040-8551-4654ebb853f0",
+     "9e59aa4a-e3d3-5005-9839-eea8b53dbda6",
+     "dd230e72-b0e4-50f3-ba24-21b21abf485f",
+     "e829fe99-b7db-5487-836b-6675ace03fcc"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-15T19:25:47.845175+00:00",
+    "published_date": "2026-11-16",
     "has_fulltext": true
    },
    {
@@ -1874,71 +1812,8 @@
     "created_at": "2026-11-15T01:24:34.563192+00:00",
     "published_date": "2026-11-15",
     "has_fulltext": true
-   },
-   {
-    "id": "7f863007-f1ab-525a-85e1-e00f701083a6",
-    "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-    "simplified_title": "North Korean hackers steal $400m in crypto using fake video calls",
-    "quick_summary": "The FBI says North Korean state-sponsored hackers have stolen over $400 million in cryptocurrency from more than 900 victims using fake video calls to plant malware.",
-    "simplified_body": "US authorities say state-sponsored hackers from North Korea have taken more than $400 million in cryptocurrency over the past 18 months in a scheme the Federal Bureau of Investigation (FBI) calls FaceStealer. More than 900 people have fallen for it. FBI cyber director Brett Leatherman says the North Korean regime leans on stolen crypto to fund its illegal weapons program.\n\nThe scheme aggressively targets people working in cryptocurrency and web3, especially those who build and maintain open-source software. Hackers use fake or hijacked social media accounts to lure victims into video calls hosted on imposter versions of Zoom, Microsoft Teams and Google Meet. They play pre-recorded clips of people the target knows, then fake an audio glitch and pop up a message asking the victim to click a link to \"fix\" it. That click downloads malware onto the device, handing hackers access to contacts and apps so they can find more targets.\n\nThis lands a week after Binance, the world's largest crypto exchange, revealed hackers used fake job interviews to steal a record $6.3bn (£4.7bn). US law enforcement blamed North Korea-linked actors for that hack too, which Pyongyang denies. Cryptocurrency is digital money, and web3 refers to blockchain-based online services; both move large sums with few traditional safeguards, making them attractive targets.\n\nThe FBI calls FaceStealer \"a highly effective social engineering scheme\" that can fool even seasoned, security-conscious users because it exploits trust in everyday video platforms and personal relationships. Expect more warnings and pressure on crypto firms to tighten verification. As one official put it: \"If you can't imagine a scenario where you might fall prey to it, you are not thinking creatively enough.\"",
-    "why_it_matters": "Crypto investors and developers everywhere, including in Australia's growing blockchain scene, are being warned that even careful, tech-savvy people can be tricked by fake video calls that weaponise trust in Zoom, Teams and Meet.",
-    "deep_analysis": "## Historical Context\n\nNorth Korea has become notorious for large-scale cryptocurrency theft, which US officials say helps fund the regime's weapons program. This latest scheme, FaceStealer, follows close behind the Binance hack revealed a week earlier, in which hackers used fake job interviews to steal a record $6.3bn (£4.7bn) — described as the largest crypto hack to date and also attributed by US law enforcement to North Korea-linked actors. Pyongyang has denied involvement in the Binance case. The pattern here is social engineering: tricking people rather than brute-forcing code.\n\n## Multiple Perspectives\n\nThe FBI frames FaceStealer as unusually dangerous because it preys on trust in \"ubiquitous video conference platforms and valued personal relationships\", warning it can deceive even experienced, security-conscious users. US officials, including FBI cyber director Brett Leatherman, tie the thefts directly to funding North Korea's illicit weapons program. Pyongyang, for its part, has denied the North Korea attribution in the Binance hack. The article does not record a North Korean response to the FaceStealer allegations specifically.\n\n## What to Watch\n\nWatch whether the $400 million figure and the count of 900-plus victims grows as more cases surface, given the scheme has run for 18 months. Also watch how video platforms like Zoom, Microsoft Teams and Google Meet respond to \"imposter versions\" being used against their users, and whether crypto and web3 firms tighten identity verification for developers, who are being singled out as targets.",
-    "concepts": [
-     {
-      "term": "FaceStealer",
-      "definition": "The FBI's name for a scheme in which North Korean hackers use fake video calls to trick people into installing malware and steal their cryptocurrency.",
-      "context": "The FBI says FaceStealer has taken over $400 million from more than 900 victims in 18 months."
-     },
-     {
-      "term": "social engineering",
-      "definition": "Manipulating people into giving up access or information by exploiting trust, rather than hacking systems directly.",
-      "context": "The FBI calls FaceStealer a highly effective social engineering scheme that can fool even security-conscious users."
-     },
-     {
-      "term": "malware",
-      "definition": "Malicious software secretly installed on a device to let attackers access or control it.",
-      "context": "Clicking the fake 'fix' link downloads malware that gives hackers access to contacts and apps."
-     },
-     {
-      "term": "web3",
-      "definition": "A term for blockchain-based online services and apps built around cryptocurrency and decentralised technology.",
-      "context": "FaceStealer aggressively targets people working in cryptocurrency and web3."
-     }
-    ],
-    "quiz": {
-     "question": "What makes the FaceStealer scheme so effective, according to the FBI?",
-     "options": [
-      "It relies on a flaw in blockchain technology itself",
-      "It only targets people who ignore security advice",
-      "It uses supercomputers to crack crypto wallet passwords",
-      "It exploits trust in common video platforms and personal relationships"
-     ],
-     "answer_index": 3,
-     "explanation": "The FBI says FaceStealer works by exploiting trust in ubiquitous video conference platforms and valued personal relationships — a social engineering trick that can fool even experienced, security-conscious users, not a technical flaw in the technology."
-    },
-    "background_beginner": "Cryptocurrency is digital money that moves online, often with fewer safeguards than banks. For years, US authorities have accused North Korea of running state-backed hacking operations to steal crypto, saying the money helps fund the regime's weapons program. North Korea usually denies these claims. The hackers increasingly rely on \"social engineering\" — tricking people rather than breaking code — such as fake job interviews or, in this case, fake video calls on lookalike Zoom, Teams and Meet. The FBI, the US federal law enforcement agency, regularly investigates and names these schemes. It keeps coming up because crypto is valuable, hard to trace, and the thefts keep getting bigger.",
-    "impact_score": 72,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "The FBI says North Korean state-sponsored hackers have stolen over $400 million in cryptocurrency from more than 900 victims using fake video calls to plant malware.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-14T07:25:05.768982+00:00",
-    "published_date": "2026-11-14",
-    "has_fulltext": true
    }
   ]
  },
- "total_stories": 29
+ "total_stories": 27
 }
