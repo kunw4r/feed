@@ -1,8 +1,71 @@
 {
- "date": "2026-11-16",
- "generated_at": "2026-11-16T07:23:03.762188+00:00",
+ "date": "2026-11-17",
+ "generated_at": "2026-11-16T19:23:04.295810+00:00",
  "regions": {
   "OCEANIA": [
+   {
+    "id": "7d644678-236b-5837-9671-e77b1c83084f",
+    "title": "New warning about antibiotic resistance as world 'looks off cliff'",
+    "simplified_title": "Doctors warn antibiotic resistance could kill 39 million by 2050",
+    "quick_summary": "Australia's peak doctors' body warns that rising antibiotic resistance is outpacing the national response and could undermine the foundations of modern medicine.",
+    "simplified_body": "The Australian Medical Association (AMA), the peak body for Australian doctors, has released a report warning that antimicrobial resistance is rising faster than the country can respond. Reports of critical resistance in Australia jumped more than 25 per cent in 2024 alone, and if current trends hold, antimicrobial resistance could cause 39 million deaths globally by 2050 — more than the total projected for all cancers.\n\nThis affects nearly everyone. Antimicrobial resistance happens when bacteria, viruses, fungi and parasites adapt to the medicines meant to treat them, most often antibiotics. When those drugs stop working, routine procedures we take for granted — joint replacements, cancer treatment, caesarean sections — become much riskier. In 2020, more than 1,000 Australians died from infections caused by just five common resistant bacteria.\n\nFor background: antimicrobial stewardship means specialised programs that promote responsible use of these medicines. It has cut overall antibiotic use by about 21 per cent over the past decade, though prescribing has risen in aged care. Molecular biologist Amy Cain says only a \"handful\" of new antibiotics are in the global pipeline, partly because drug companies see little profit in them. The AMA also criticised letting pharmacies prescribe antibiotics for urinary tract infections, noting E. coli has developed resistance to one such drug, Trimethoprim.\n\nThe AMA wants coordinated government action and proper funding to scale up stewardship across hospitals, aged care, agriculture and the environment. Dr Cain wants Australia to follow the European Union and ban antibiotics in animal feed. Australia's surveillance program, AURA, received more than $22 million in funding in 2024.",
+    "why_it_matters": "If common antibiotics fail, everyday Australian medical care — from hospital surgery to childbirth — gets far more dangerous, and doctors say the country's response isn't keeping pace with the threat.",
+    "deep_analysis": "## Historical Context\n\nAntibiotics have underpinned modern medicine since their widespread use began in the mid-20th century, making once-deadly infections routinely treatable and enabling major surgery, cancer treatment and childbirth to become far safer. But bacteria and other microbes naturally evolve to survive the drugs used against them, and overuse speeds that process up. The World Health Organization (WHO) warned last year that resistance to essential antibiotics was \"widespread, increasing and unevenly distributed\", and the US Centers for Disease Control and Prevention (CDC) estimated last month that drug-resistant germs cause around 50,800 deaths in the United States each year. The new AMA report places Australia within that global picture.\n\n## Multiple Perspectives\n\nThe AMA, led by president Michael Bonning, frames this as a crisis of implementation — \"we know what needs to be done\" — and calls for coordinated government action and investment. It also argues against pharmacy prescribing of antibiotics for urinary tract infections, citing resistance to Trimethoprim. The Pharmacy Guild of Australia pushes back hard, saying pharmacists follow the same therapeutic guidelines as doctors and dismissing the criticism as \"scaremongering and old turf wars\". Researcher Amy Cain adds a different angle: the real bottleneck is a drying-up drug pipeline, with pharmaceutical companies unmotivated because new antibiotics aren't profitable, leaving academics and small outfits to carry the load. She also stresses the link between human, animal and environmental health.\n\n## What to Watch\n\nWatch whether governments convert existing plans into funded action, as the AMA demands. Key signposts include scaling up stewardship into aged care, where prescribing has risen; the future of pharmacy prescribing programs; and whether Australia follows the EU in banning antibiotics in animal feed. The continued funding and findings of the AURA surveillance program will show whether resistance trends are being tracked — and bent — in time.",
+    "concepts": [
+     {
+      "term": "Antimicrobial resistance",
+      "definition": "When bacteria, viruses, fungi and parasites adapt to the medicines designed to treat them, making infections harder or impossible to cure.",
+      "context": "The article calls it one of the greatest global health threats, projected to kill 39 million people by 2050."
+     },
+     {
+      "term": "antimicrobial stewardship",
+      "definition": "Specialised programs that promote the responsible, careful use of antimicrobial medicines across the health system.",
+      "context": "It has reduced overall antibiotic use in Australia by about 21 per cent over the past decade."
+     },
+     {
+      "term": "Trimethoprim",
+      "definition": "An antibiotic used to treat infections such as urinary tract infections, available through some pharmacy prescribing programs.",
+      "context": "The AMA notes E. coli has developed resistance to it, questioning pharmacy prescribing."
+     },
+     {
+      "term": "AURA",
+      "definition": "Australia's antimicrobial surveillance program, which analyses community data to track resistant infections and antibiotic use.",
+      "context": "It received more than $22 million in funding in 2024."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the article say drug companies are reluctant to develop new antibiotics?",
+     "options": [
+      "They don't stand to make significant financial gains from them",
+      "There are no scientists left to do the work",
+      "New antibiotics are too easy for bacteria to resist",
+      "Governments have banned new antibiotic research"
+     ],
+     "answer_index": 0,
+     "explanation": "Dr Amy Cain says pharmaceutical companies are unmotivated because they don't stand to make significant financial gains from new antibiotics, leaving academics and small research organisations to carry the load."
+    },
+    "background_beginner": "Antibiotics are medicines that kill bacteria and cure infections — they're one of the biggest reasons modern surgery and cancer care are safe. The problem is that germs gradually evolve to survive these drugs, a process called antimicrobial resistance. The more antibiotics we use, the faster this happens. Health bodies worldwide, including the World Health Organization, have been sounding the alarm for years. In Australia, the main players include the Australian Medical Association (the peak doctors' group), pharmacists, and researchers hunting for new drugs. It keeps coming up because resistance is still rising, few new antibiotics are being made, and without action, once-treatable infections could again become deadly.",
+    "impact_score": 78,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/18e74a3ac73818a4cbae21473048a68b?impolicy=wcms_watermark_news&cropH=2322&cropW=4128&xPos=0&yPos=387&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Australia's peak doctors' body warns that rising antibiotic resistance is outpacing the national response and could undermine the foundations of modern medicine.",
+    "tier": "LOCAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-17/doctors-warn-of-rising-antimicrobial-resistance/107389636"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-16T19:25:43.714596+00:00",
+    "published_date": "2026-11-17",
+    "has_fulltext": true
+   },
    {
     "id": "08779e9f-9ef0-5c7b-94ff-881903bfb25f",
     "title": "Helen Haines: Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
@@ -210,136 +273,6 @@
     "has_fulltext": true
    },
    {
-    "id": "cb43d8a9-9880-5915-b9f3-953fbafaab2f",
-    "title": "IVF, VAD and abortion off the table as Catholic company takes over hospital",
-    "simplified_title": "Catholic hospital takeover sparks fears over access to legal care",
-    "quick_summary": "A Catholic provider's plan to stop offering services like IVF, abortion and voluntary assisted dying as it takes over private hospitals has clinicians worried that access to legal healthcare will shrink.",
-    "simplified_body": "Calvary, a Catholic not-for-profit, told obstetricians and gynaecologists at Newcastle Private hospital in regional New South Wales that services including in-vitro fertilisation (IVF), abortion, voluntary assisted dying (VAD), gender affirming care, contraception, vasectomies and tubal ligation would be stopped within weeks. Doctors were also asked to sign a pledge to practise in line with the Catholic Code of Ethical Standards, which calls abortion \"morally wrong\". The catalyst was a Teams meeting that left most doctors stunned.\n\nThis matters because Calvary is poised to take over 14 private hospitals from Healthscope, roughly doubling its network. Catholic providers already run about 6 per cent of Australia's public and private hospitals, and that footprint will grow if regulators clear the deal. Access is already patchy in rural and regional areas, so losing it at a private hospital adds delay, admin and risk — including, doctors warn, VAD patients waiting in pain or a woman not told abortion is an option until sepsis sets in.\n\nFor background: the services are all legal in 2026, so the fight is no longer about what should be lawful but about who decides what care a hospital offers. Catholic health roots trace back to nuns caring for the sick in Sydney in the late 1800s. The church's teachings have stayed constant for centuries.\n\nWhat next? The Australian Competition and Consumer Commission (ACCC) is still assessing the national expansion, but its test is whether competition is lessened, not whether patients lose access. NSW's Premier and Health Minister have ruled out blocking the licence transfer, saying services will be available elsewhere.",
-    "why_it_matters": "Catholic operators already run about 6 per cent of Australian hospitals, and this deal could leave some regions — like Newcastle — with no local hospital offering reproductive care or voluntary assisted dying, hitting rural and regional patients hardest.",
-    "deep_analysis": "## Historical Context\n\nCatholic health care in Australia goes back to nuns who began caring for the sick and dying in Sydney in the late 1800s. The church's teachings on the sanctity of life and medical intervention have stayed constant for centuries, even as public attitudes to IVF and abortion shifted. The services at the centre of this dispute — IVF, abortion and VAD — are now legal across Australia. That changes the nature of the debate: it is no longer about whether these should be lawful, but about who decides whether a given hospital provides them. A similar winding-back was flagged at Hobart Private Hospital, whose takeover the competition regulator recently cleared.\n\n## Multiple Perspectives\n\nRANZCOG President Dr Nisha Khot frames it as access, not ownership: \"We have no objection to Catholic ownership,\" but legal care \"should be available in every hospital.\" IVF Australia's Dr Veronica Knight calls the decision \"discrimination based on religious ethos\". Calvary says that where a service isn't offered, it will treat people with dignity, give clear information and support \"appropriate pathways\". Federal Labor MP and doctor Mike Freelander, while critical that the \"Catholic ethical system is not keeping up with modern healthcare\", poses the practical question: if Calvary doesn't buy these hospitals, who has the money to? NSW's government says services will be available elsewhere.\n\n## What to Watch\n\nThe ACCC decision on the national expansion is pivotal — but note its test is competition, not patient access, so clearing the deal won't resolve the care question. Watch whether governments find levers for private hospitals as they did at public ones (the NSW minister reinstated terminations at Orange Hospital). And watch Newcastle, where losing VAD beds could, one doctor warns, blow out transfer waits \"by several days\".",
-    "concepts": [
-     {
-      "term": "voluntary assisted dying (VAD)",
-      "definition": "A legal process allowing eligible, terminally ill patients to end their life with medical help, on their own terms.",
-      "context": "Calvary hospitals do not allow VAD drugs to be administered on-site, so patients must be moved to another bed to die."
-     },
-     {
-      "term": "in-vitro fertilisation (IVF)",
-      "definition": "A fertility treatment where eggs are retrieved and combined with sperm outside the body to create embryos.",
-      "context": "Stopping IVF at the private hospital could mean eggs being driven across town for retrieval."
-     },
-     {
-      "term": "conscientious objection",
-      "definition": "When a clinician or institution refuses to provide a service on moral or religious grounds.",
-      "context": "It is listed as one of the factors that already limit access to care in rural and regional areas."
-     },
-     {
-      "term": "tubal ligation",
-      "definition": "A surgical procedure that permanently prevents pregnancy by sealing a woman's fallopian tubes.",
-      "context": "It was among the services Calvary said would be taken off the table at Newcastle Private."
-     }
-    ],
-    "quiz": {
-     "question": "Why does the ACCC's review not necessarily protect patients' access to these services?",
-     "options": [
-      "Because the services are illegal and cannot be reviewed",
-      "Because the ACCC only regulates public hospitals",
-      "Because the ACCC has already approved every Calvary takeover",
-      "Because the ACCC's test is whether competition is lessened, not whether patients lose access to services"
-     ],
-     "answer_index": 3,
-     "explanation": "The article states the ACCC's test is whether the deal would substantially lessen competition, not whether patients lose access — so a cleared deal doesn't guarantee services remain available."
-    },
-    "background_beginner": "Calvary is a Catholic not-for-profit that runs hospitals in Australia. It's buying 14 private hospitals from a company called Healthscope, which would roughly double its network. The flashpoint is Newcastle Private hospital in regional New South Wales, where Calvary told doctors it would stop offering services like IVF, abortion and voluntary assisted dying — all legal in Australia — because they clash with Catholic teaching. Doctors, patient groups and the obstetricians' college (RANZCOG) are worried this will make already-hard-to-get care even harder, especially in country areas. It keeps coming up because long-held religious beliefs are bumping against what the law now allows, raising the question of who decides what care a hospital provides.",
-    "impact_score": 68,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/67eabc1131e65d13bc93714155b947eb?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "A Catholic provider's plan to stop offering services like IVF, abortion and voluntary assisted dying as it takes over private hospitals has clinicians worried that access to legal healthcare will shrink.",
-    "tier": "LOCAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-15/catholic-provider-calvary-healthcare-ivf-vad-reproductive-health/107380082"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 5,
-    "created_at": "2026-11-15T07:26:46.132242+00:00",
-    "published_date": "2026-11-15",
-    "has_fulltext": true
-   },
-   {
-    "id": "029c9a38-41ff-5d21-bed0-6dfdb44b8ba7",
-    "title": "David Jones’ future looks grim. Is Myer next?",
-    "simplified_title": "David Jones Collapses: Is Rival Myer Next?",
-    "quick_summary": "With David Jones falling into administration and shutting half its stores, questions are growing about whether struggling rival Myer could be next.",
-    "simplified_body": "David Jones (DJs), the upmarket Australian department store, has fallen into administration under mounting debts and is closing 19 of its 38 stores. That collapse has shone an uncomfortable spotlight on its longtime rival, Myer, whose profits have been battered and whose share price sits near all-time lows of about 24c — a fraction of its $4.10 float price from 2009.\n\nOn paper, Myer looks healthier, with sales growing to $4.1bn last financial year. But that lift came from buying apparel chains like Just Jeans and Portmans from billionaire Solomon Lew, not from surging demand. To keep tills ringing, Myer leaned on heavy discounting that dented its profits, and it slashed the value of its brands by more than $200m in a single year.\n\nDepartment stores have faced what researcher IBISWorld calls a \"sustained erosion of relevance\", as online shops and nimble specialists like beauty chain Mecca win over bargain-hunters. Cost-of-living pressures and interest rate rises have forced shoppers to trim their discretionary spend, locking in deal-hunting habits. Both chains are also weighed down by long leases on underperforming stores.\n\nMyer's key advantage is time: it finished the year with a $100m net cash buffer and has been quietly cutting store numbers, unlike debt-laden DJs. With two in five Myer stores sharing a centre with a David Jones, investors hope the DJs closures hand Myer a market-share boost. Experts say Myer is financially stronger but, as one puts it, \"strategically still pretty vulnerable\".",
-    "why_it_matters": "David Jones and Myer have been fixtures of Australian high streets for generations, so their troubles signal a deep shift in how the nation shops — and put thousands of retail jobs and store leases at risk.",
-    "deep_analysis": "## Historical Context\n\nDavid Jones and Myer are two of Australia's oldest and best-known department store names, the sort of places families once shopped at loyally for decades. That fierce brand loyalty has faded. Over the past five years, IBISWorld says department stores have suffered a \"sustained erosion of relevance\" as online platforms and specialist retailers chip away at their customer base. Myer floated on the share market in 2009 at $4.10 a share; today it trades around 24c, a stark measure of how far investor confidence has fallen.\n\n## Multiple Perspectives\n\nAnalysts are split on Myer's strategy of permanent discounting. Richard Hemming of Under The Radar Report argues \"volume is everything\" — move enough stock and loyal customers will eventually pay more, delivering a double boost when volumes and margins both rise. He sees Myer \"cleaning house earlier than rivals\". Others warn that endless discounting could be a \"slow-motion way to go bankrupt\". Brian Walker of the Retail Doctor Group splits the difference: Myer is \"financially stronger\" than the heavily indebted DJs, but \"strategically still pretty vulnerable\".\n\n## What to Watch\n\nIn the short term, expect Myer's pain to intensify as closing-down David Jones stores dump stock at heavy discounts, luring away shoppers. Longer term, watch whether Myer's push into online sales, its Myer One loyalty scheme, and further store cuts translate into sustainable profit — or whether softening retail sentiment and shrinking household budgets drag it down the same path as its rival.",
-    "concepts": [
-     {
-      "term": "administration",
-      "definition": "A formal insolvency process where an outside administrator takes control of a struggling company to try to rescue it or wind it down in an orderly way.",
-      "context": "David Jones fell into administration under mounting debts, triggering store closures."
-     },
-     {
-      "term": "net cash buffer",
-      "definition": "The amount of cash a company holds after subtracting its debts — a cushion that gives management room to fix problems.",
-      "context": "Myer's $100m net cash buffer is seen as its key advantage over the debt-laden David Jones."
-     },
-     {
-      "term": "discretionary spend",
-      "definition": "Money households spend on non-essential or 'nice-to-have' items, which they cut back first when budgets tighten.",
-      "context": "Rate rises and cost-of-living pressures have forced shoppers to trim their discretionary spend."
-     },
-     {
-      "term": "float price",
-      "definition": "The price at which a company's shares were first sold to the public when it listed on the stock exchange.",
-      "context": "Myer's shares now sit far below their $4.10 float price from 2009."
-     }
-    ],
-    "quiz": {
-     "question": "According to the article, what is Myer's main advantage over David Jones?",
-     "options": [
-      "Myer has far more stores than David Jones",
-      "Myer's shares are trading at record highs",
-      "Myer has a $100m net cash buffer and less debt, buying it time",
-      "Myer has stopped discounting entirely"
-     ],
-     "answer_index": 2,
-     "explanation": "While David Jones collapsed under mounting debts, Myer finished the year with a $100m net cash buffer and lower lease liabilities, giving management breathing space — though analysts still call it strategically vulnerable."
-    },
-    "background_beginner": "David Jones and Myer are Australia's two biggest traditional department stores — large shops selling clothing, homewares, beauty and more, long seen as rivals that families picked sides between. In recent years both have struggled as shoppers move online or to specialist stores, and as rising living costs push people to hunt for discounts. David Jones has now fallen into \"administration\" (a rescue-or-wind-down process) and is shutting half its stores. That has prompted the obvious question: could Myer, which has weak profits and a very low share price, be heading the same way? The story keeps resurfacing because it reflects a broader decline of the old department-store model.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/82c9ce7a67d4a13f3e62473874a5e3ca49f73724/435_0_4348_3478/master/4348.jpg?width=1920&quality=85&auto=format&fit=max&s=b1f92a64cc06d8719bded04eb9d803b2",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "With David Jones falling into administration and shutting half its stores, questions are growing about whether struggling rival Myer could be next.",
-    "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "46e896bd-f92f-5689-99c8-086e2339500c",
-     "4c35b30e-8468-5fce-8723-ca0b8138ab52",
-     "87db1546-bd4e-5544-9121-892ef55a57be"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-15T07:26:17.469116+00:00",
-    "published_date": "2026-11-15",
-    "has_fulltext": true
-   },
-   {
     "id": "06c0eaff-6c55-558b-8660-d685f8285083",
     "title": "Coles investigating ‘cybersecurity incident’ and apologises to customers",
     "simplified_title": "Coles investigating cyber-attack, no stolen data found yet",
@@ -403,69 +336,6 @@
    }
   ],
   "ASIA": [
-   {
-    "id": "b3c506e0-5056-5fdc-8218-3677c5672668",
-    "title": "ASEAN countries sign world's first region-wide digital economy pact, laying foundation for collaboration",
-    "simplified_title": "ASEAN signs world's first region-wide digital economy deal",
-    "quick_summary": "Southeast Asian nations have signed a legally binding Digital Economy Framework Agreement to make cross-border digital trade easier across the region.",
-    "simplified_body": "On Saturday 14 November, member states of the Association of Southeast Asian Nations (ASEAN) signed the world's first region-wide, legally binding Digital Economy Framework Agreement (DEFA). Singapore Deputy Prime Minister Gan Kim Yong, who is also Minister for Energy, Trade and Industry (Trade), said the deal took several years to negotiate and should come into force \"sometime early next year\". It covers cross-border data flows, end-to-end digital trade, protection of source code, cybersecurity and artificial intelligence.\n\nThe agreement is meant to help businesses of all sizes — including small- and medium-sized enterprises (SMEs) — expand and scale across the region. It aims to make sectors like e-commerce, payments, logistics and supply chains work together more smoothly. Practical wins include using electronic documents instead of paper to speed up trade and cut costs, plus digital payments for business-to-business deals and the idea of an ASEAN-wide digital identity system.\n\nEach country sits at a different stage of readiness, so DEFA is built to be flexible. It sets basic rules for data to flow across borders, but allows exceptions for concerns such as privacy, business confidentiality and national security. Gan said the design means the bloc won't be held back by its slowest member, and countries not ready today can join later.\n\nLooking ahead, ASEAN has begun a feasibility study for a Green Economy Framework Agreement (GEFA), with discussions hoped to launch next year. The bloc is also progressing a free trade agreement (FTA) with Canada towards a \"substantial conclusion\" and is exploring other FTAs with partners.",
-    "why_it_matters": "A single digital rulebook across Southeast Asia could make it cheaper and faster for firms to trade online in a market on Australia's doorstep, shaping the region Australian businesses increasingly rely on.",
-    "deep_analysis": "## Historical Context\n\nASEAN is a bloc of Southeast Asian nations that has long worked to knit its economies closer together, traditionally through agreements on physical goods and tariffs. The Digital Economy Framework Agreement marks a shift into the online world — it is described as the bloc's first standalone digital economy agreement, and the world's first region-wide, legally binding deal of its kind. Gan Kim Yong noted it took \"several years\" to negotiate, reflecting how tricky it is to get many countries at different stages of development to agree on shared digital rules.\n\n## Multiple Perspectives\n\nGan framed the agreement as ambitious yet acceptable to all members — a balance that required building in exceptions for privacy laws, business confidentiality and national security. On competition, he acknowledged many businesses, especially SMEs, worry about facing more rivals across the region. His counter is that ASEAN economies are largely complementary, and that firms face far greater competition from outside the bloc; easier, cheaper imports could actually make businesses more competitive. The key challenge he flags is helping SMEs build the skills and systems to actually use the agreement.\n\n## What to Watch\n\nWatch for DEFA coming into force, expected early next year, and for government efforts to raise private-sector awareness so firms actually tap into it. Keep an eye on the proposed ASEAN-wide digital identification system and new digital payment arrangements. Beyond digital, there's the planned Green Economy Framework Agreement (GEFA), with discussions hoped to launch next year, plus the ASEAN-Canada free trade agreement moving towards a \"substantial conclusion\" and other potential FTAs under discussion.",
-    "concepts": [
-     {
-      "term": "Digital Economy Framework Agreement (DEFA)",
-      "definition": "ASEAN's first standalone, legally binding deal setting shared rules for the digital economy, covering things like cross-border data flows and digital trade.",
-      "context": "Signed on 14 November and expected to come into force early next year."
-     },
-     {
-      "term": "cross-border data flows",
-      "definition": "The movement of digital data between countries, which businesses need for online trade but which raises privacy and security questions.",
-      "context": "DEFA sets basic rules allowing data to transfer, subject to some exceptions."
-     },
-     {
-      "term": "small- and medium-sized enterprises (SMEs)",
-      "definition": "Smaller businesses that often lack the resources of large firms to expand internationally.",
-      "context": "A key group DEFA aims to help scale across the region, though some worry about more competition."
-     },
-     {
-      "term": "Green Economy Framework Agreement (GEFA)",
-      "definition": "A proposed ASEAN agreement focused on the green economy, currently at the feasibility study stage.",
-      "context": "The bloc hopes to launch discussions on it next year."
-     }
-    ],
-    "quiz": {
-     "question": "Why did ASEAN build flexibility and exceptions into the DEFA?",
-     "options": [
-      "Because only Singapore wanted to sign it",
-      "Because it was designed to exclude smaller businesses",
-      "Because members are at different stages of readiness and have concerns like privacy and national security",
-      "Because the agreement is not legally binding"
-     ],
-     "answer_index": 2,
-     "explanation": "Gan said members have different states of readiness and specific concerns — privacy, business confidentiality and national security — so exceptions were built in and countries can join later when ready."
-    },
-    "background_beginner": "ASEAN, the Association of Southeast Asian Nations, is a group of Southeast Asian countries that cooperate on trade and economic matters. For years they've worked to make it easier to do business across borders, mostly with physical goods. As online shopping, digital payments and data-driven services have boomed, the bloc wanted shared rules for the digital world too. That's why they negotiated the Digital Economy Framework Agreement, signed in November 2026 after several years of talks. Singapore's Deputy Prime Minister Gan Kim Yong has been a key voice explaining it. The topic keeps coming up because digital trade is growing fast, and countries want common rules so businesses — big and small — can operate smoothly across the whole region.",
-    "impact_score": 68,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--iXCd_8zJ--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/14/gkyasean-1.png?itok=USMOYucO",
-    "region": "Asia",
-    "region_code": "ASIA",
-    "description": "Southeast Asian nations have signed a legally binding Digital Economy Framework Agreement to make cross-border digital trade easier across the region.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/asean-digital-economy-framework-agreement-6551526"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-15T01:24:31.201090+00:00",
-    "published_date": "2026-11-15",
-    "has_fulltext": true
-   },
    {
     "id": "16204d0c-8acd-5d71-8a9f-0b8b874842d8",
     "title": "ASEAN, China reach provisional agreement on 80% of South China Sea code, says Philippines",
@@ -804,80 +674,80 @@
     "created_at": "2026-11-16T07:25:45.609737+00:00",
     "published_date": "2026-11-16",
     "has_fulltext": true
-   },
+   }
+  ],
+  "MIDDLE_EAST_AFRICA": [
    {
-    "id": "a73f5cf3-8f78-59a7-b570-1f183f2c132a",
-    "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-    "simplified_title": "Hungary digs up $20m cash in ex-minister corruption probe",
-    "quick_summary": "Hungarian investigators seized about $19.5m in cash buried in forests and hidden in buildings as part of a corruption case against a former minister from Viktor Orbán's government.",
-    "simplified_body": "Hungary's new anti-corruption agency, the National Asset Recovery and Protection Office (NVVH), said it found nearly $20m in cash during a two-day search across Budapest and three counties. The money — about 5.07 billion Hungarian forints plus smaller amounts in euros and US dollars, worth around $19.5m combined — was buried in forests, stashed in farm buildings and warehouses, and kept in a safe in a secluded spot. Twelve Treasury staff reportedly spent eight hours counting it with five machines before banking it.\n\nThe search is part of a case against Miklós Seszták, who was minister of national development from 2014 to 2018. He's accused of taking bribes in a scheme involving a state transport company buying second-hand buses at inflated prices; DW reports the suspected total exceeds $37m. Seszták, who has denied wrongdoing, was taken into custody in late September.\n\nThe crackdown follows a political earthquake. In April, Péter Magyar's pro-European Tisza party won a landslide, ending Orbán's 16 years in power. Magyar had promised a sweeping anti-corruption drive, nicknamed \"Operation Purgatory\", and set up the NVVH with powers to investigate and prosecute. Orbán — whose rule the EU once labelled an \"electoral autocracy\" — long faced claims of cronyism, which he denied.\n\nMagyar called the seizure the end of the \"Fidesz-KDNP mafia\", Orbán's former coalition. Orbán calls the probes political revenge; his brother was also detained this week over a people-smuggling case. Watch for more arrests and court cases as the inquiries widen.",
-    "why_it_matters": "It shows a new government trying to unwind alleged high-level graft after a dramatic change of power — a cautionary tale about accountability that resonates anywhere, including Australia, where public trust in how officials handle state money is a live issue.",
-    "deep_analysis": "## Historical Context\n\nViktor Orbán governed Hungary for 16 years, a period during which the European Union came to describe the country as an \"electoral autocracy\" and critics accused his government of steering lucrative state contracts to allies. Orbán consistently denied claims of corruption and cronyism. That era ended in April, when Péter Magyar's pro-European Tisza party won a landslide election on a promise of \"regime change\" and a serious anti-corruption push. The newly created National Asset Recovery and Protection Office (NVVH), armed with both investigative and prosecutorial powers, is the main vehicle for that effort, branded \"Operation Purgatory\".\n\n## Multiple Perspectives\n\nThe government frames the cash seizure as proof of systemic graft: Magyar declared it marked \"the end of the Fidesz-KDNP mafia\" and went further, calling Orbán \"a proven mafia boss\". Orbán rejects this entirely, casting the probes as \"political persecution\" and \"tyranny\" designed to eliminate a rival and build a one-party system — and describing his brother's detention as revenge, with himself as the real target. The accused, including Seszták and former central bank chief György Matolcsy, deny wrongdoing; Seszták's lawyer did not comment on the latest find. The sources differ on figures — the seizure is put at roughly $19.5m, while DW reports the alleged bribery total exceeds $37m, and currency conversions vary between outlets.\n\n## What to Watch\n\nKey questions: whether charges lead to convictions in independent courts, and whether the NVVH's sweeping powers are used even-handedly or seen as a political weapon. Public opinion matters — a Median poll cited by HVG found 70% consider the campaign \"very important\", while support for Orbán's Fidesz reportedly fell to about 16%, roughly half its pre-election level. Also watch Hungary's EU relations, which Magyar has pledged to repair after years of friction.",
+    "id": "6811232b-d600-5417-ac05-40c7d735f867",
+    "title": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb",
+    "simplified_title": "Houthis Advance on Aden as Yemeni Forces Pull Back",
+    "quick_summary": "Saudi-backed Yemeni forces have retreated from the strategic Bab al-Mandab strait to defend the interim capital Aden, as Iran-aligned Houthi fighters keep gaining ground.",
+    "simplified_body": "Forces loyal to Yemen's internationally recognised government announced on Sunday they were pulling out of Dhubab airport and territory near the Bab al-Mandab strait — a narrow shipping chokepoint linking the Red Sea to the Gulf of Aden. They say the withdrawal is a tactical move to reinforce Aden, their temporary capital, which the Houthis are edging closer to. Houthi-run media say the group has already moved into the abandoned ground. One expert put Houthi forces at Tor al-Baha, roughly 80km (50 miles) from Aden.\n\nThis matters for the millions of Yemenis caught in the fighting. The United Nations (UN) estimates nearly 330,000 people have been displaced since the recent escalation, and a UN human rights spokesperson noted more than 60% of documented civilian casualties since August have been women and children. It also rattles global trade, because Bab al-Mandab has grown more important since the Strait of Hormuz was effectively closed during the US–Israel war on Iran.\n\nYemen's civil war began in 2014 when the Houthis — a Zaidi Shia group close to Iran, also called Ansar Allah — seized the capital Sanaa and pushed the government south. Saudi Arabia led an Arab coalition into the war in 2015. After years of relative calm, fighting reignited in July 2025.\n\nTensions within the anti-Houthi camp are now in the open. The separatist Southern Transitional Council (STC) accused Saudi Arabia of incompetence, while Riyadh sidelined its coalition commander. The Houthis have fired missiles and drones at Saudi cities under a \"siege for siege\" principle, and the government's \"Operation Yemen Dawn\" has ramped up air strikes.",
+    "why_it_matters": "Bab al-Mandab is one of the world's busiest shipping lanes, so instability there pushes up oil prices and freight costs that eventually reach Australian fuel bowsers and shelves.",
+    "deep_analysis": "## Historical Context\n\nYemen's war dates to September 2014, when the Houthis captured Sanaa and forced the government to flee to Aden. Saudi Arabia launched an Arab coalition campaign in March 2015, running thousands of air strikes. A separate layer of complexity is the north–south divide: Yemen was two countries until 1990, and many southerners — represented by the UAE-backed Southern Transitional Council — want their own state again. After a few relatively peaceful years, fighting reignited in July 2025 when government jets bombed Sanaa airport, followed by a September Houthi offensive that took the Red Sea coast including Mocha (also spelt Mokha) and Perim Island.\n\n## Multiple Perspectives\n\nThe three sources broadly agree on the facts but differ in emphasis. The government, via spokesperson Majed al-Nuzaili, frames the pull-back as a planned \"redeployment\" to protect Aden and break the siege on Taiz. Analyst Ali al-Dahab disputes that spin, calling it a genuine retreat that left a \"vast vacuum.\" The STC's Amr al-Bidh blames Saudi \"incompetence\" and poor command and control, arguing Riyadh must recognise a pathway to southern independence or lose the cohesive forces needed to stop the Houthis. The Houthis insist they do not threaten international shipping, only Saudi-linked vessels. Former US envoy Tim Lenderking warns world powers are treating Yemen as a \"sideshow.\"\n\n## What to Watch\n\nWatch whether the Houthis breach Aden's first defensive zone around Tor al-Baha, and whether the besieged city of Taiz holds. Watch Saudi Arabia's new coalition commander, Gen al-Ruwaili, and whether Riyadh softens toward the STC or releases its detained leaders. And watch global shipping and oil markets, given Bab al-Mandab's heightened role while Hormuz stays effectively closed.",
     "concepts": [
      {
-      "term": "National Asset Recovery and Protection Office (NVVH)",
-      "definition": "Hungary's newly created anti-corruption agency, given powers to both investigate and prosecute suspected misuse of public money.",
-      "context": "It led the two-day search that uncovered the hidden cash."
+      "term": "Bab al-Mandab",
+      "definition": "A narrow sea passage at the southern end of the Red Sea, connecting it to the Gulf of Aden and used by a large share of the world's shipping.",
+      "context": "Yemeni forces withdrew from territory near this strait, giving the Houthis control of a key maritime chokepoint."
      },
      {
-      "term": "Operation Purgatory",
-      "definition": "The nickname for Prime Minister Péter Magyar's broad campaign to investigate alleged corruption under the previous Orbán government.",
-      "context": "Several senior Orbán-era figures have been detained under this drive."
+      "term": "Houthi",
+      "definition": "A Zaidi Shia armed movement from northern Yemen, aligned with Iran and also known as Ansar Allah.",
+      "context": "Houthi forces are advancing on Aden after seizing much of Yemen's Red Sea coast."
      },
      {
-      "term": "electoral autocracy",
-      "definition": "A system that holds elections but tilts the playing field so heavily that genuine democratic competition is undermined.",
-      "context": "The EU used this label to describe Hungary under Orbán's long rule."
+      "term": "Southern Transitional Council (STC)",
+      "definition": "A United Arab Emirates-backed separatist group that wants southern Yemen to become an independent state.",
+      "context": "The STC accused Saudi Arabia of incompetence and demanded recognition of a path to southern independence."
      },
      {
-      "term": "Fidesz-KDNP",
-      "definition": "The governing coalition led by Viktor Orbán before his election defeat.",
-      "context": "Magyar called the cash seizure the end of this coalition's 'mafia'."
+      "term": "Aden",
+      "definition": "A southern port city serving as the interim capital of Yemen's internationally recognised government.",
+      "context": "Troops retreated from Bab al-Mandab specifically to reinforce the defence of Aden."
      }
     ],
     "quiz": {
-     "question": "What is the main significance of the $19.5m cash seizure?",
+     "question": "Why did Bab al-Mandab become more strategically important recently?",
      "options": [
-      "It was money stolen from the European Union's budget",
-      "It was voluntarily handed over by Orbán's government",
-      "It proves Orbán has already been convicted of corruption",
-      "It is physical evidence gathered in a probe of an ex-minister under Hungary's new anti-corruption drive"
+      "Because the Houthis built a new port there",
+      "Because Saudi Arabia stopped exporting oil entirely",
+      "Because the Suez Canal was permanently shut down",
+      "Because the Strait of Hormuz was effectively closed during the US–Israel war on Iran, pushing more trade through it"
      ],
      "answer_index": 3,
-     "explanation": "The cash was found during searches in the case against former minister Miklós Seszták, part of the new government's anti-corruption campaign; no one named has been convicted, and all deny wrongdoing."
+     "explanation": "The sources say Bab al-Mandab grew more significant to global maritime trade because the Strait of Hormuz was effectively closed amid the US–Israel war on Iran, with Saudi Arabia relying on the Red Sea for oil exports."
     },
-    "background_beginner": "Hungary is a central European country that was run for 16 years by Prime Minister Viktor Orbán, a nationalist leader often criticised abroad for weakening democratic checks and favouring his allies — though he denied any corruption. In April, a challenger named Péter Magyar and his pro-European Tisza party won a landslide election, promising to clean up government. Magyar's team set up a powerful new anti-corruption agency and began investigating people close to Orbán. This story keeps coming up because those probes are moving fast: ministers and even Orbán's brother have been detained, large sums of cash have been found, and Orbán insists it's all political revenge.",
-    "impact_score": 58,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
-    "region": "Europe incl. UK, Russia-Ukraine",
-    "region_code": "EUROPE",
-    "description": "Hungarian investigators seized about $19.5m in cash buried in forests and hidden in buildings as part of a corruption case against a former minister from Viktor Orbán's government.",
+    "background_beginner": "Yemen, on the Arabian Peninsula, has been torn by civil war since 2014, when a group called the Houthis — fighters from the north aligned with Iran — seized the capital, Sanaa, and pushed the government south to the port city of Aden. In 2015, Saudi Arabia led a coalition of Arab states to try to restore that government, launching years of air strikes. The fighting keeps flaring because neither side can win outright, and the country sits beside Bab al-Mandab, a vital shipping lane. Adding to the tangle, southern Yemen was its own country until 1990 and many southerners want independence again, straining the anti-Houthi alliance.",
+    "impact_score": 72,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-16T070423Z_715019825_RC2TOOAXD9QD_RTRMADP_3_IRAN-CRISIS-YEMEN-1794814733.jpg?resize=1920%2C1440",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Saudi-backed Yemeni forces have retreated from the strategic Bab al-Mandab strait to defend the interim capital Aden, as Iran-aligned Houthi fighters keep gaining ground.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb?traffic_source=rss"
      },
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+      "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis"
      },
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/hungary-millions-in-hidden-cash-found-in-orban-graft-probe/a-79946923?maca=en-rss-en-all-1573-rdf"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
     "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-15T07:26:18.993980+00:00",
-    "published_date": "2026-11-15",
+    "reading_minutes": 3,
+    "created_at": "2026-11-16T19:25:15.103181+00:00",
+    "published_date": "2026-11-17",
     "has_fulltext": true
-   }
-  ],
-  "MIDDLE_EAST_AFRICA": [
+   },
    {
     "id": "6cf8f94b-6ca3-5741-8bac-ccbb7e676aaf",
     "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
@@ -1035,131 +905,69 @@
     "has_fulltext": true
    },
    {
-    "id": "5c06ddaf-5c74-5a53-9432-3220c2d757c5",
-    "title": "Netanyahu says only a unity government can guarantee Israel’s security",
-    "simplified_title": "Netanyahu pushes unity government; rival Eisenkot calls it a trick",
-    "quick_summary": "Israel's caretaker PM Benjamin Netanyahu is again pushing for a national unity government, but election winner Gadi Eisenkot has rejected the offer as a political ploy.",
-    "simplified_body": "Israeli caretaker Prime Minister Benjamin Netanyahu renewed his call on Saturday for a \"national unity government\" with his rival, Gadi Eisenkot, saying only such a government could guarantee Israel's security and \"eliminate the Iranian threat once and for all\". He asked to meet \"in one room, without preconditions\". Within minutes, Eisenkot dismissed the appeal as a ruse, saying Netanyahu \"knows he lost the election\" and that \"these tricks don't work on me\".\n\nThis matters for whoever ends up running Israel. Neither side won a majority in the 27 October election: Netanyahu's right-wing and religious bloc took 53 of the 120 Knesset (Israel's parliament) seats, Eisenkot's four-party bloc got 48, and Arab-led parties won a record 19. President Isaac Herzog has tasked Eisenkot with forming a government after 67 lawmakers endorsed him versus 46 for Netanyahu.\n\nFor newcomers: Eisenkot, a former army chief, has 28 days (with a possible 14-day extension) to build a coalition. His plan is a minority \"national emergency government\" — his 48 lawmakers would vote for it while 26 Arab and ultra-Orthodox members abstain, letting it pass without an absolute majority. He has ruled out including Arab-led parties but says he could work with Netanyahu's Likud party and Bezalel Smotrich's Religious Zionism if they make a \"sincere\" break with \"extremists\" like supporters of far-right minister Itamar Ben-Gvir.\n\nNext, watch Tuesday's vote for Knesset speaker: Netanyahu ally Amir Ohana holds the post, and the opposition has nominated former officer Matan Kahana. Eisenkot says backing Kahana would prove whether his rivals genuinely want partnership.",
-    "why_it_matters": "The make-up of Israel's next government shapes its approach to Iran, the Palestinians and regional stability — issues Australia tracks closely given its Jewish and Muslim communities and its alliance ties with the United States.",
-    "deep_analysis": "## Historical Context\n\nIsrael's government is formed through coalition-building in the 120-seat Knesset, where no single party has ever won an outright majority, so power depends on alliances. Benjamin Netanyahu is Israel's longest-serving prime minister and has repeatedly returned to office through right-wing and religious blocs. The October 27 election broke the usual pattern: his bloc won 53 seats but fell short, while Gadi Eisenkot's bloc took 48 and Arab-led parties won a record 19. President Isaac Herzog then handed the mandate to Eisenkot after 67 lawmakers backed him.\n\n## Multiple Perspectives\n\nNetanyahu frames a broad unity government as a security necessity, arguing only unity can counter Iran, and warns that Eisenkot's minority plan would lead to Israel's \"collapse\". Eisenkot sees the offer as a tactic from a leader who \"knows he lost the election\", accusing Netanyahu of sowing division while negotiations are already underway. A sharp dividing line is the treatment of Arab-led parties: Netanyahu and allies made unsubstantiated claims they \"stole\" the election, while Eisenkot calls that campaign \"racist\" — yet Eisenkot himself has ruled out including Arab parties in his own government, relying only on their abstention.\n\n## What to Watch\n\nTuesday's Knesset speaker vote is the near-term test: whether Netanyahu's camp supports opposition nominee Matan Kahana over incumbent Amir Ohana will signal good faith. Then watch Eisenkot's 28-day clock (plus a possible 14-day extension), whether Likud and Religious Zionism break from figures like Itamar Ben-Gvir, and whether his minority \"national emergency government\" can survive on abstentions.",
+    "id": "1654874c-bccd-5865-9844-30e1f7963033",
+    "title": "At least 17 killed in two South Africa mass shootings",
+    "simplified_title": "17 Killed in Two Separate South African Mass Shootings",
+    "quick_summary": "South African police are hunting for suspects after 17 people were shot dead in two unrelated attacks on Sunday night, one near Pietermaritzburg and one near Pretoria.",
+    "simplified_body": "On Sunday night, eight men were found shot dead inside a bullet-riddled minibus in a semi-rural area outside Pietermaritzburg, in KwaZulu-Natal province. Hours later and about 530 kilometres away, nine people — six men and three women — were discovered shot inside a four-room shack in the Jeffsville informal settlement near the capital, Pretoria. Police say the two attacks are unrelated and that no motive or arrests have been confirmed for either.\n\nThe killings have left communities shaken. In Jeffsville, a young child looking for a relative reportedly made the grim discovery, and neighbours said they first mistook the gunfire for thunder. Police noted one victim was a \"person of interest\" in a shooting last year that killed 12 people nearby, raising the possibility of a revenge attack — though that remains unconfirmed.\n\nSouth Africa has one of the world's highest murder rates, recording between 36 and 45 killings per 100,000 people a year. The latest police figures show 5,427 people were murdered nationwide between April and June 2026 — about 60 a day — a 6% drop from the year before. Much of the violence is linked to gangs fighting over drugs and illegal mining, and illegal firearms are widespread.\n\nNational Police Commissioner Fannie Masemola called the shootings \"unacceptable\" and vowed to catch those responsible. Investigators, pathologists and crime intelligence teams are working to identify victims and track suspects. Earlier this year the military was deployed alongside police in the five provinces with the highest murder rates.",
+    "why_it_matters": "These attacks highlight South Africa's struggle with one of the world's worst murder rates and a worrying rise in high-casualty mass shootings, a security crisis that resonates well beyond its borders.",
+    "deep_analysis": "## Historical Context\n\nSouth Africa has long carried one of the highest murder rates in the world, consistently recording between 36 and 45 killings per 100,000 people each year. Much of this violence is tied to organised crime — turf wars between gangs involved in drug trafficking and illegal mining, as well as taxi-industry disputes and stock theft. In February, President Cyril Ramaphosa described organised crime as \"the most immediate threat to our democracy, our society and our economic development.\" Earlier this year, the military was deployed alongside police in the five provinces with the highest murder rates.\n\n## Multiple Perspectives\n\nPolice stress that the two weekend attacks are unrelated, and that no motive has yet been established for either. In Pretoria, Gauteng commissioner Tommy Mthombeni raised the possibility of a retaliation attack, noting one victim was a \"person of interest\" in a 2025 shooting that killed 12 — but he was careful to say this cannot be confirmed. KwaZulu-Natal spokesman Robert Netshiunda pointed to a range of past motives, from stock theft to drugs to taxi violence, underlining how hard these cases are to read early on. National Commissioner Fannie Masemola framed the killings as an intolerable terrorising of communities.\n\n## What to Watch\n\nKey questions are whether police can identify the victims and make arrests, and whether the Pretoria shooting proves to be a revenge attack linked to earlier bloodshed. More broadly, watch whether the recent 6% year-on-year decline in murders holds, and whether the military deployment and crime-intelligence efforts make a dent in the surge of mass shootings.",
     "concepts": [
      {
-      "term": "Knesset",
-      "definition": "Israel's parliament, which has 120 seats; a party or bloc normally needs 61 for an absolute majority to govern.",
-      "context": "Netanyahu's bloc took 53 of the 120 seats but neither side won a majority."
+      "term": "informal settlement",
+      "definition": "A densely populated area of self-built housing, often lacking formal services, where residents may not hold legal title to the land.",
+      "context": "The Pretoria killings happened in the Jeffsville informal settlement."
      },
      {
-      "term": "unity government",
-      "definition": "A coalition that brings together rival parties, often across the political spectrum, usually formed in a crisis or when no clear majority exists.",
-      "context": "Netanyahu says only a national unity government can guarantee Israel's security."
+      "term": "person of interest",
+      "definition": "Someone police want to question in connection with a crime, who is not necessarily a formal suspect.",
+      "context": "One Pretoria victim was reportedly a person of interest in a 2025 shooting that killed 12 people."
      },
      {
-      "term": "minority \"national emergency government\"",
-      "definition": "A government that governs without an absolute majority, relying on other parties abstaining rather than voting against it.",
-      "context": "Eisenkot's plan would pass with 48 votes while 26 lawmakers abstain."
+      "term": "murder rate",
+      "definition": "A measure of killings per 100,000 people in a population, used to compare violence across countries.",
+      "context": "South Africa records between 36 and 45 murders per 100,000 people a year, among the world's highest."
      }
     ],
     "quiz": {
-     "question": "Why can Eisenkot's planned minority government be approved without an absolute majority in the Knesset?",
+     "question": "What did South African police say about the two weekend shootings?",
      "options": [
-      "Because 26 Arab and ultra-Orthodox lawmakers could abstain, so his 48 outvote Netanyahu's 46",
-      "Because Netanyahu's bloc lost its seats after the election",
-      "Because Arab-led parties agreed to formally join his coalition",
-      "Because President Herzog can override the vote"
+      "They were terrorist attacks",
+      "They were unrelated, with no established motive",
+      "They were accidental",
+      "They were carried out by the same gang"
      ],
-     "answer_index": 0,
-     "explanation": "If 26 lawmakers abstain, only the 48 in Eisenkot's bloc and the 46 Netanyahu backers vote, so his side wins without needing 61 seats."
+     "answer_index": 1,
+     "explanation": "Police stated the two incidents were unrelated and that no motive had yet been established for either, though they are still investigating possible links in the Pretoria case."
     },
-    "background_beginner": "Israel elects a 120-seat parliament called the Knesset, and because no party ever wins outright, leaders must stitch together coalitions to govern. Benjamin Netanyahu, long Israel's dominant political figure, leads a right-wing and religious bloc. In the October 27 election his side won the most seats but not a majority, so President Isaac Herzog instead asked his rival, former army chief Gadi Eisenkot, to try forming a government. The two are now locked in a public stand-off: Netanyahu keeps offering a \"unity government\", Eisenkot keeps rejecting it as a trick. A flashpoint is the record showing of Arab-led parties, whom Netanyahu's camp has attacked, and whose role in the next government is hotly contested.",
-    "impact_score": 62,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af59859b365e-1794480217.jpg?resize=1920%2C1440",
+    "background_beginner": "South Africa is one of the world's most violent countries outside a war zone, with around 60 people murdered every day. Its police service, led by National Commissioner Fannie Masemola, is stretched thin against gangs that fight over drugs, illegal mining and taxi routes, with illegal guns easy to come by. In recent years the country has seen a spike in \"mass shootings\" where many people are gunned down at once — in bars, outside venues, or in informal settlements of self-built housing. President Cyril Ramaphosa has called organised crime a top national threat, and the military has been sent to help police in the worst-hit provinces.",
+    "impact_score": 58,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb113f006a-1794838847.jpg?resize=1920%2C1440",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Israel's caretaker PM Benjamin Netanyahu is again pushing for a national unity government, but election winner Gadi Eisenkot has rejected the offer as a political ploy.",
+    "description": "South African police are hunting for suspects after 17 people were shot dead in two unrelated attacks on Sunday night, one near Pietermaritzburg and one near Pretoria.",
     "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
+    "category": "CRIME_SAFETY",
     "sources": [
      {
       "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss"
      },
-     {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "05af4703-b453-55ec-9232-90bb1e092bd1",
-     "5686cf98-4752-5462-b7ca-55f321702fa4",
-     "6978e6ac-06f7-5a2c-9250-def3dc7e8d5e",
-     "a928be3c-56a5-5dbb-b0f3-e01b7416e926",
-     "b95e0a5a-4171-5d6a-96b5-88fc09bfa872",
-     "c47d33e3-761d-5b7d-bb88-edcb7b5b305c",
-     "e9d4ed6b-b078-5857-852b-a332ad24d262"
-    ],
-    "reading_minutes": 2,
-    "created_at": "2026-11-15T07:26:13.880976+00:00",
-    "published_date": "2026-11-15",
-    "has_fulltext": true
-   },
-   {
-    "id": "347b12f3-a236-51dd-9721-a92343fbd3eb",
-    "title": "Muhoozi Kainerugaba: The general at the centre of Uganda's power struggle",
-    "simplified_title": "Uganda's army chief, the president's son, eyes power",
-    "quick_summary": "Uganda's army chief Gen Muhoozi Kainerugaba — President Museveni's son — is at the centre of a tense succession struggle marked by a wave of arrests of senior officers.",
-    "simplified_body": "Over the past 15 months, at least a dozen generals and senior officers have been arrested under Gen Muhoozi Kainerugaba, 52, who leads Uganda's army and is the son of President Yoweri Museveni. This week he threatened to have Vice-President Jessica Alupo dismissed and possibly arrested, and suggested he should take her job. The ruling National Resistance Movement (NRM) has denied reports that its leadership rejected a proposal to back him as the next president.\n\nThis matters for ordinary Ugandans because Museveni, 82, has ruled since 1986 and the question of who replaces him is unresolved. Some analysts say officers seen as opposed to the \"Muhoozi Project\" — the plan to install the general — are being detained on charges like treason and corruption, then released after \"forgiveness\". Others say the arrests are a genuine anti-corruption drive. The army itself is split, with the elite Special Forces Command (SFC) seen as loyal to Museveni and his son, while regular commanders remain unconvinced.\n\nFor background: Museveni took power when his rebel National Resistance Army seized control after a five-year guerrilla war. His son was made army chief in March 2024 and says he will run for president in 2031. The opposition faces heavy pressure too — politician Kizza Besigye is detained on treason charges he denies, and Bobi Wine, runner-up in this year's election, has fled to the United States (US).\n\nWhat happens next is uncertain. One official reportedly urged Museveni to retire his son from the military and give him a civilian role. For now, Museveni stays in power, but the threats, arrests and party divisions have sharpened questions about Uganda's next transition.",
-    "why_it_matters": "Uganda is a long-standing partner in East African security and regional stability, so an unpredictable, contested succession in a 40-year-old government carries consequences for the whole region and for Australia's humanitarian and diplomatic interests in Africa.",
-    "deep_analysis": "## Historical Context\n\nYoweri Museveni came to power in 1986 after his rebel National Resistance Army won a five-year guerrilla war, and he has now been sworn in for a seventh elected term. In almost four decades of rule, the military has been the backbone of his hold on power, which makes the loyalty of senior commanders especially sensitive as the question of who succeeds him intensifies. His son, Gen Muhoozi Kainerugaba, rose through that same military, commanding the elite Special Forces Command before being appointed army chief in March 2024.\n\n## Multiple Perspectives\n\nObservers read the wave of arrests very differently. Political scientist Dr Gerald Bareebe sees a political purge, arguing officers perceived as \"anti-Muhoozi\" have been detained or charged with treason and corruption, sometimes having charges dropped after being pressured to declare support for the general. Security analyst Freddie David Egesa rejects this, framing the arrests as legitimate, multi-agency anti-corruption investigations conducted \"in consultation with the commander-in-chief\". The government calls talk of a succession fallout \"hogwash\". The NRM insists no decision has been made and that reports of a rejected proposal are \"completely false\". Sources about the closed-door NRM meeting also disagree — AFP's sources say a vote was abandoned after opposition, while ChimpReports said most speakers backed the general.\n\n## What to Watch\n\nKey signals: whether Gen Kainerugaba moves from the military into a civilian political role to gain administrative experience, as one NRM official reportedly urged; whether detained officers like Maj Gen Abel Kandiho are released or tried; and how the rivalry between the SFC and the regular army plays out. The treatment of Vice-President Alupo, and any formal NRM position on the 2031 succession, will indicate how far the family's dynastic ambitions can go against internal resistance.",
-    "concepts": [
-     {
-      "term": "National Resistance Movement (NRM)",
-      "definition": "Uganda's long-ruling political party, led by President Museveni, now divided over whether to back his son as his successor.",
-      "context": "The NRM has denied rejecting a proposal to position the general as the next president."
-     },
-     {
-      "term": "Special Forces Command (SFC)",
-      "definition": "An elite Ugandan military unit responsible for protecting the president and key sites, seen as loyal to Museveni and his son.",
-      "context": "Analysts describe the SFC as functioning like a personal army that could be decisive in any transfer of power."
-     },
-     {
-      "term": "Muhoozi Project",
-      "definition": "The informal name for the perceived plan to position Gen Kainerugaba to succeed his father as president.",
-      "context": "Officers thought to oppose the project are alleged to have been arrested or charged."
-     }
-    ],
-    "quiz": {
-     "question": "Why do analysts disagree about the meaning of the arrests of senior Ugandan officers?",
-     "options": [
-      "They are all connected to a foreign military coup",
-      "Some see them as a political purge of officers opposed to the general, while others see a genuine anti-corruption drive",
-      "The arrests were ordered by the Vice-President",
-      "Everyone agrees they are purely about corruption"
-     ],
-     "answer_index": 1,
-     "explanation": "The article presents two readings: Bareebe sees a political purge targeting 'anti-Muhoozi' officers, while Egesa frames them as legitimate anti-corruption investigations."
-    },
-    "background_beginner": "Uganda is an East African country that has been led by President Yoweri Museveni since 1986, when his rebel army won a civil war. Now 82, he has never clearly named a successor, and attention has turned to his son, Gen Muhoozi Kainerugaba, who runs the army and openly wants the top job. The story keeps resurfacing because the son uses social media to threaten officials and announce arrests, because many senior military officers have been detained, and because the ruling party is split over whether power should pass from father to son. Opposition figures have meanwhile been jailed or forced into exile.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Uganda's army chief Gen Muhoozi Kainerugaba — President Museveni's son — is at the centre of a tense succession struggle marked by a wave of arrests of senior officers.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo"
+      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/south-africa-17-killed-in-separate-mass-shooting-incidents/a-79956966?maca=en-rss-en-all-1573-rdf"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
     "related_story_ids": [],
-    "reading_minutes": 8,
-    "created_at": "2026-11-15T07:26:12.858598+00:00",
-    "published_date": "2026-11-15",
+    "reading_minutes": 1,
+    "created_at": "2026-11-16T19:25:40.318538+00:00",
+    "published_date": "2026-11-17",
     "has_fulltext": true
    }
   ],
@@ -1236,64 +1044,6 @@
     "has_fulltext": true
    },
    {
-    "id": "d09954ac-3fac-536c-ac29-be4c86defe04",
-    "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-    "simplified_title": "Nearly Half of US GLP-1 Users Don't Follow the Script",
-    "quick_summary": "A new CDC study finds about 27 million US adults used GLP-1 drugs in 2025, and nearly half of them altered how they took the medication, often because of cost.",
-    "simplified_body": "Researchers at the Centers for Disease Control and Prevention (CDC) surveyed more than 8,000 US adults between July and August 2025 and found roughly one in 10 (9.8 percent) had used a GLP-1 medication that year — about 27 million people. GLP-1 stands for glucagon-like peptide-1 receptor agonist, a class of peptide-based drugs used for diabetes, weight loss and a growing list of linked conditions like heart disease and obstructive sleep apnoea. The study was published in the CDC's Morbidity and Mortality Weekly Report.\n\nThe headline finding: nearly half of users (44 percent) said they took the drug differently from how it was prescribed. People skipped doses, delayed refills, or used smaller amounts than directed. More than half of those changing their use pointed to cost or availability as the reason, which matters because taking these potent drugs in unintended ways raises questions about safety and whether they still work.\n\nCost hit younger users hardest. Among adults aged 14–39 who modified their use, 58 percent blamed cost, compared with just 20 percent of those 65 or older. There's also a market twist: at least 23 percent of all users relied on compounded versions — copies mixed by pharmacies rather than the approved branded product — and another 9 percent weren't sure whether theirs was compounded.\n\nWhat happens next isn't spelled out, but the data suggests affordability and access to approved versions remain the big sticking points shaping how these hugely popular drugs are actually used.",
-    "why_it_matters": "GLP-1 drugs are reshaping how chronic conditions like diabetes and obesity are treated worldwide, and these findings show cost — not medical advice — is driving how millions actually take them, a tension Australians weighing their own pricey weight-loss and diabetes prescriptions will recognise.",
-    "deep_analysis": "## Historical Context\n\nGLP-1 receptor agonists began life as diabetes treatments, mimicking a gut hormone that helps regulate blood sugar and appetite. Their striking effect on weight turned them into a cultural and commercial phenomenon, and as the article notes, their approved uses have since broadened to conditions including cardiovascular disease and obstructive sleep apnoea. That rapid rise in demand is the backdrop to this study: when a drug becomes both highly effective and wildly popular, real-world use can drift well beyond what trials and prescriptions assumed.\n\n## Multiple Perspectives\n\nFrom a public-health view, the CDC data is a flag: nearly half of users deviating from their prescription — skipping doses, stretching refills, using less — raises genuine questions about safety and efficacy, since these are potent medicines. From users' perspective, the behaviour looks rational rather than reckless: more than half who modified use cited cost or availability, and younger people felt the squeeze most sharply (58 percent of those 14–39 versus 20 percent of over-65s). The prominence of compounded versions — at least 23 percent of users, plus 9 percent unsure — points to a supply-and-price gap that the approved market hasn't fully met.\n\n## What to Watch\n\nWatch whether cost and access barriers ease, and whether modified or compounded use carries measurable safety or effectiveness consequences. The large share of users who don't even know if their drug is compounded is worth tracking, as is how regulators and insurers respond to such widespread off-script use of a booming drug class.",
-    "concepts": [
-     {
-      "term": "GLP-1 medication",
-      "definition": "A class of peptide-based drugs (glucagon-like peptide-1 receptor agonists) used to treat diabetes, support weight loss, and manage related chronic conditions.",
-      "context": "The study estimated about 27 million US adults used one in 2025."
-     },
-     {
-      "term": "compounded version",
-      "definition": "A copy of a drug mixed by a pharmacy rather than supplied as the approved, branded product, often used when the official version is costly or scarce.",
-      "context": "At least 23 percent of users relied on compounded versions of the drug."
-     },
-     {
-      "term": "Morbidity and Mortality Weekly Report",
-      "definition": "A regular publication from the US Centers for Disease Control and Prevention that shares public-health data and findings.",
-      "context": "The GLP-1 study was published in it this week."
-     }
-    ],
-    "quiz": {
-     "question": "What reason did most people give for using their GLP-1 drug differently than prescribed?",
-     "options": [
-      "They preferred a different brand",
-      "Cost or availability",
-      "Their doctor told them to change the dose",
-      "The drug stopped working"
-     ],
-     "answer_index": 1,
-     "explanation": "More than half of those who modified their use cited cost or availability, and cost was the biggest barrier for younger users in particular (58 percent of those aged 14–39)."
-    },
-    "background_beginner": "GLP-1 drugs are a group of medicines that copy a natural gut hormone to help control blood sugar and curb appetite. They started out treating type 2 diabetes but became hugely popular for weight loss, and are now used for some heart and sleep conditions too. Because they work well and demand is high, they're also expensive and sometimes hard to get, which has pushed some people toward cheaper \"compounded\" copies made by pharmacies. The US Centers for Disease Control and Prevention (CDC) — the country's main public-health agency — keeps studying how people actually use them. The topic keeps coming up because these drugs are reshaping medicine, markets and public-health debates all at once.",
-    "impact_score": 68,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-2560x1440.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "A new CDC study finds about 27 million US adults used GLP-1 drugs in 2025, and nearly half of them altered how they took the medication, often because of cost.",
-    "tier": "GLOBAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-15T01:24:30.758503+00:00",
-    "published_date": "2026-11-15",
-    "has_fulltext": true
-   },
-   {
     "id": "9beada4d-5582-59a6-92ef-45b3c25a3c67",
     "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
     "simplified_title": "Pope Leo Demands Justice for Murdered Amazon Defenders",
@@ -1360,6 +1110,69 @@
     "reading_minutes": 4,
     "created_at": "2026-11-16T07:25:11.370026+00:00",
     "published_date": "2026-11-16",
+    "has_fulltext": true
+   },
+   {
+    "id": "e35929af-d0ec-5f14-9693-d6188793e730",
+    "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
+    "simplified_title": "Mexican Drug Lord 'The Godfather' Dies in Hospital Aged 80",
+    "quick_summary": "Miguel Ángel Félix Gallardo, the founder of Mexico's Guadalajara Cartel who reshaped the global cocaine trade, has died aged 80 after more than three decades in custody.",
+    "simplified_body": "Miguel Ángel Félix Gallardo, one of the most notorious drug smugglers in history, has died in hospital in his native Guadalajara aged 80. Known as \"The Godfather\" or the \"Boss of Bosses\", he led the Guadalajara Cartel, which dominated Mexican drug trafficking during the cocaine boom of the 1980s. He'd been in state custody since 1989.\n\nHis big innovation was linking Mexican traffickers with Colombian cartels, particularly Pablo Escobar's Medellín Cartel. The deal combined cocaine production in the Andes with Mexican transport across the border into the United States. At one point an estimated 80% of all cocaine entering the US came from the Medellín Cartel, and Félix Gallardo's group played a major role in smuggling it in. At its height the cartel controlled entire police networks and even state governorships.\n\nThe net tightened in 1985 after the torture and murder of Enrique \"Kiki\" Camarena, an agent with the US Drug Enforcement Administration (DEA), who had destroyed a huge cartel marijuana plantation. His killing sparked one of the biggest manhunts the US has ever launched. Félix Gallardo was captured in 1989 and sentenced to decades in prison; granted house arrest in 2022 due to ill health, technical problems with his ankle monitor blocked the transfer.\n\nHis legacy outlived him. After his organisation broke up, the Sinaloa Cartel emerged, led by Joaquín \"El Chapo\" Guzmán, whom Félix Gallardo had once put in charge of logistics. Guzmán was sentenced to life in prison in 2019. Félix Gallardo's rise was later dramatised in the Netflix series Narcos: Mexico.",
+    "why_it_matters": "Félix Gallardo built the template for modern cartels whose cocaine trade still fuels violence and addiction across the Americas — a drug supply chain that reaches Australian streets too, where cocaine remains among the world's most expensive.",
+    "deep_analysis": "## Historical Context\n\nFélix Gallardo rose during the 1980s cocaine boom, a period when demand in the United States exploded and Colombian producers needed reliable ways to move product north. His key move was to stop treating Mexico as a minor player and instead position it as the essential transit corridor, striking a partnership with Pablo Escobar's Medellín Cartel. That marriage of Andean production and Mexican transportation created a \"modus operandi\" the article says endures to this day. His 1989 arrest didn't end the system — it fragmented his organisation into the regional cartels, including the Sinaloa Cartel, that still dominate.\n\n## Multiple Perspectives\n\nFor US law enforcement, Félix Gallardo was a defining target: the 1985 murder of DEA agent Enrique \"Kiki\" Camarena triggered one of the largest manhunts in North American history and hardened the American approach to the drug war. For Mexico, his era exposed how deeply trafficking money had corrupted police forces and even state governorships. Popular culture, through shows like Narcos: Mexico, has turned his story into entertainment — which some see as humanising figures responsible for enormous violence, while others argue it documents how the trade actually worked.\n\n## What to Watch\n\nHis death is symbolic rather than disruptive; he'd been jailed since 1989 and the organisations he spawned long ago eclipsed him. Watch how the still-active successor cartels evolve, and how the historical reckoning around figures like Camarena and El Chapo continues to shape US–Mexico security policy.",
+    "concepts": [
+     {
+      "term": "Guadalajara Cartel",
+      "definition": "The Mexican drug-trafficking organisation led by Félix Gallardo that dominated the trade in the 1980s before fragmenting into regional cartels.",
+      "context": "He led the Guadalajara Cartel, which dominated Mexican drug trafficking during the cocaine boom of the 1980s."
+     },
+     {
+      "term": "Medellín Cartel",
+      "definition": "The Colombian cocaine organisation run by Pablo Escobar that supplied most of the cocaine entering the US in the 1980s.",
+      "context": "His big innovation was linking Mexican traffickers with Colombian cartels, particularly Pablo Escobar's Medellín Cartel."
+     },
+     {
+      "term": "DEA",
+      "definition": "The US Drug Enforcement Administration, the federal agency that investigates drug trafficking.",
+      "context": "Enrique 'Kiki' Camarena, an agent with the US Drug Enforcement Administration (DEA), who had destroyed a huge cartel marijuana plantation."
+     },
+     {
+      "term": "Sinaloa Cartel",
+      "definition": "The powerful trafficking group that emerged from the break-up of Félix Gallardo's organisation, led by El Chapo Guzmán.",
+      "context": "After his organisation broke up, the Sinaloa Cartel emerged, led by Joaquín 'El Chapo' Guzmán."
+     }
+    ],
+    "quiz": {
+     "question": "What was Félix Gallardo's key innovation in the drug trade?",
+     "options": [
+      "He partnered Mexican traffickers with Colombian cartels to move cocaine into the US",
+      "He legalised marijuana in parts of Mexico",
+      "He invented a new chemical process for refining cocaine",
+      "He was the first to smuggle drugs by submarine"
+     ],
+     "answer_index": 0,
+     "explanation": "Félix Gallardo linked Mexican transportation networks with Colombian production, especially Escobar's Medellín Cartel, creating a smuggling model that endures today."
+    },
+    "background_beginner": "Miguel Ángel Félix Gallardo was a Mexican drug lord nicknamed \"The Godfather\", who in the 1980s built the Guadalajara Cartel into the most powerful drug-trafficking group in Mexico. He teamed up with Colombian cocaine bosses like Pablo Escobar to smuggle huge amounts of cocaine into the United States. After US agent \"Kiki\" Camarena was murdered in 1985, American authorities launched a massive manhunt, and Félix Gallardo was jailed in 1989. His empire later split into today's famous cartels, including the Sinaloa Cartel run by \"El Chapo\" Guzmán. His story keeps coming up because it shaped the modern drug war and inspired shows like Netflix's Narcos: Mexico.",
+    "impact_score": 48,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9e63/live/e166e240-e19c-11f1-93e1-3b657b665bcf.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Miguel Ángel Félix Gallardo, the founder of Mexico's Guadalajara Cartel who reshaped the global cocaine trade, has died aged 80 after more than three decades in custody.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-16T19:25:43.875246+00:00",
+    "published_date": "2026-11-17",
     "has_fulltext": true
    }
   ],
@@ -1438,129 +1251,128 @@
     "has_fulltext": true
    },
    {
-    "id": "22ca9d6b-c8dc-5bc9-ac39-a3dc0dce116c",
-    "title": "Secret votes and vetoes: How will the next UN chief be picked?",
-    "simplified_title": "How the world picks its next UN secretary-general",
-    "quick_summary": "The UN Security Council is holding secret straw polls to choose a new secretary-general before Antonio Guterres steps down on 31 December, with Costa Rica's Rebeca Grynspan currently leading.",
-    "simplified_body": "The United Nations (UN) is picking a new secretary-general, the person who runs the whole organisation. Current chief Antonio Guterres must step down on 31 December, so the UN Security Council (UNSC) is holding a series of secret \"straw polls\" to find a replacement. Eight candidates are in the running. After eight polls, no clear consensus has emerged, but Costa Rica's Rebeca Grynspan, who heads the UN's trade body, is leading, with nuclear agency chief Rafael Grossi of Argentina in second.\n\nThis matters to everyone because the secretary-general is meant to be the world's leading defender of international law and a voice for ordinary people. In practice, though, the 15-member Security Council makes the real choice. Its five permanent members — China, France, Russia, the United Kingdom and the United States — each hold a veto, so a candidate needs at least nine \"encourage\" votes and no veto to get the job.\n\nHere's the background a newcomer needs. The UN General Assembly (UNGA), made up of all 193 member states, gives final approval, but it has never gone against the council's pick. The polls are deliberately secret: members vote \"encourage\", \"discourage\" or \"no opinion\", partly so no country ends up resenting a winner it didn't back. Critics, including some civil society groups, say this closed system is outdated.\n\nWhat happens next is genuinely unclear. The Charter says nothing about missing the December deadline. The council could pick a compromise candidate — as it did with Kofi Annan in 1996 — recommend a shorter term, or let a senior official hold the fort. Guterres says he expects to be home in Portugal by January.",
-    "why_it_matters": "The person chosen will steer global responses to wars, climate and human rights for years, shaping decisions that reach Australia through trade, security and the international rules we rely on.",
-    "deep_analysis": "## Historical Context\n\nThe United Nations was built after World War II with a deliberate power imbalance baked in: five victorious powers were handed permanent Security Council seats and veto rights. That same group effectively controls who becomes secretary-general. History shows the system can jam — in 1996 the council deadlocked before settling on Kofi Annan as a compromise, and in 1950 the General Assembly extended a secretary-general's term itself after the council couldn't agree. The current secrecy, with coloured ballots separating permanent from elected members, is a tradition the five powers have guarded tightly, though campaigning by civil society and member states has made things a little more open over time.\n\n## Multiple Perspectives\n\nJane Kinninmont of United Nations Association UK argues it's hard to justify any single power vetoing a candidate backed by a majority of the world. Al Jazeera's Gabriel Elizondo notes the five permanent members simply don't want to give up power, which is why reform stalls. The candidates themselves carry baggage: Grynspan could become the first woman and first Jewish person to lead the UN and helped broker the 2022 Black Sea Grain Initiative, while Grossi has drawn criticism from Iran over nuclear reports some say gave the US and Israel a pretext to strike. Supporters of reform, like the 1 for 8 Billion campaign, want a fairer, more inclusive process.\n\n## What to Watch\n\nWatch whether any permanent member quietly vetoes the frontrunner — the polls don't reveal who votes how, so a leading candidate could still be blocked. If no one is chosen by 31 December, keep an eye on whether the council offers a short-term compromise, installs a caretaker official, or asks Guterres to stay on. Also watch calls for the General Assembly to get a real vote on two or three shortlisted candidates.",
+    "id": "8e797930-b39d-5c1f-b44c-a837ceed3676",
+    "title": "Why the wheels are falling off the AI investment boom",
+    "simplified_title": "Why Cracks Are Showing in the AI Investment Boom",
+    "quick_summary": "Huge debt-fuelled spending on artificial intelligence is drawing nervous comparisons to past tech bubbles as Anthropic prepares a record stock market float.",
+    "simplified_body": "An enormous amount of money and debt has flooded into artificial intelligence (AI), and some investors are getting jittery. The article points to a long history of tech-driven booms — from 19th-century railways to 1920s radio to the dotcom crash — that soared on excitement before collapsing, and asks why AI would be any different. The immediate flashpoint is Anthropic, the company behind the chatbot Claude, which reportedly hopes to raise US$90 billion in what would be the biggest initial public offering (IPO, a company's first sale of shares to the public) in history, valuing it around US$1.5 trillion — down from a mooted US$2 trillion weeks earlier.\n\nThis matters because AI is now a massive chunk of the market: the top 10 AI-exposed companies make up about 40 per cent of the American stock market, so almost every investor has skin in the game. Anthropic reportedly plans to invest up to US$900 billion over five to 10 years, with much funded by its own revenue — Goldman Sachs tips US$53 billion this year, rising to as much as US$636 billion by decade's end.\n\nFor a newcomer: Anthropic and rival OpenAI (maker of ChatGPT) are the leaders building ever-smarter AI. Anthropic's prospectus devotes nearly a quarter of its pages to AI's \"existential threat\", warning the technology could be misused for cyber attacks or bioweapons, or act in \"misaligned\" ways on its own.\n\nLooming over it all is cheaper competition, especially China's Moonshot and its Kimi platform, which has closed Anthropic's lead and, crucially, costs less. If buyers chase the cheapest option, the rosy earnings forecasts — and the huge sums already sunk — could be at risk.",
+    "why_it_matters": "If the AI boom wobbles, the fallout would ripple through global markets that Australian super funds and investors are heavily exposed to — and the article notes Australia's own Firmus recently failed to raise cash amid the nerves.",
+    "deep_analysis": "## Historical Context\n\nThe piece leans hard on history to make its case. It walks through a string of technology booms that ended badly: the Great Railway Crash of 1846, triggered when the Bank of England raised interest rates and ended easy money; the American Railroad Crash 30 years later, when a bank behind debt-fuelled track expansion collapsed and froze the New York Stock Exchange for 10 days; and the 1920s Radio Boom, where Radio Corporation of America (RCA) shares surged from $1.50 to $568 before losing 98 per cent of their value in the 1929 Wall Street crash. The dotcom bust at the turn of the millennium is the most recent example. The throughline is that debt-heavy, mania-driven investment phases tend to collapse — even when the underlying technology goes on to reshape daily life.\n\n## Multiple Perspectives\n\nThe article holds two ideas at once. On one hand, the technologies that crashed — rail, radio, the internet — all survived and became everyday infrastructure, and a handful of dotcom survivors became enormously profitable. On the other, Warren Buffett's quip about aviation is a reminder that world-changing inventions aren't always good investments. On Anthropic specifically, boss Dario Amodei is framed two ways: as a genuine Effective Altruism devotee who wants to slow AI for humanity's sake, and, by cynics, as someone protecting his company's lead until the float closes. The structural worry is concentration — Anthropic leans on a few software clients, so any trouble there hits fast.\n\n## What to Watch\n\nThe near-term test is whether Anthropic's record IPO lands at its hoped-for valuation or keeps sliding. Watch the China angle: Moonshot's Kimi has narrowed Anthropic's lead from about nine months to four and competes hard on price, which could undercut the earnings projections underpinning the whole bet. Also watch public resistance — residents of major cities are reportedly pushing back on AI infrastructure both in person and at the ballot box.",
     "concepts": [
      {
-      "term": "secretary-general",
-      "definition": "The top official who leads the United Nations and acts as its chief spokesperson and administrator.",
-      "context": "Guterres is the current secretary-general and must step down on 31 December."
+      "term": "initial public offering (IPO, a company's first sale of shares to the public)",
+      "definition": "The first time a private company sells shares to the public, listing on a stock exchange and raising money from outside investors.",
+      "context": "Anthropic reportedly hopes its IPO will raise US$90 billion, which would be the largest in history."
      },
      {
-      "term": "veto",
-      "definition": "The power of a single permanent Security Council member to block a decision on its own.",
-      "context": "Each of the five permanent members can veto a candidate even if most others support them."
+      "term": "prospectus",
+      "definition": "A formal document a company issues before a share float, setting out its finances, plans and risks for potential investors.",
+      "context": "Anthropic's prospectus devotes nearly a quarter of its pages to AI's existential threats."
      },
      {
-      "term": "straw polls",
-      "definition": "Informal, anonymous test votes used to gauge support before a formal decision.",
-      "context": "The council uses straw polls where members vote 'encourage', 'discourage' or 'no opinion'."
-     },
-     {
-      "term": "permanent members",
-      "definition": "The five countries with permanent Security Council seats and veto power: China, France, Russia, the UK and the US.",
-      "context": "The permanent members effectively control who becomes secretary-general."
+      "term": "existential threat",
+      "definition": "A danger serious enough to threaten the survival of humanity or civilisation.",
+      "context": "The prospectus warns AI could be misused for cyber attacks or bioweapons, or act in harmful, misaligned ways."
      }
     ],
     "quiz": {
-     "question": "Why do the five permanent members effectively control who becomes UN secretary-general?",
+     "question": "Why does the article suggest the AI boom could be vulnerable despite the technology's promise?",
      "options": [
-      "Because each can veto any candidate, and the General Assembly has never overruled the council's pick",
-      "Because the General Assembly has no role in the process at all",
-      "Because they pay the largest share of the UN budget",
-      "Because only they are allowed to nominate candidates"
+      "Because huge debt and intense market concentration echo past tech booms that crashed before the technology matured",
+      "Because governments have banned AI infrastructure worldwide",
+      "Because AI doesn't actually work as advertised",
+      "Because Anthropic has already gone bankrupt"
      ],
      "answer_index": 0,
-     "explanation": "A candidate needs nine 'encourage' votes and no veto from any permanent member, and the General Assembly has never gone against the council's recommendation, so the five effectively decide."
+     "explanation": "The article argues that heavy debt, a market dominated by a few AI firms, and historical parallels to rail, radio and dotcom booms make the investment phase shaky — even though the technology itself may reshape how we live."
     },
-    "background_beginner": "The United Nations (UN) is an organisation of 193 countries set up after World War II to keep peace and uphold international rules. Its day-to-day leader is the secretary-general. Every few years, when that leader's term ends, a new one must be chosen. The current chief, Antonio Guterres, steps down on 31 December 2026. The choice is made by the Security Council, a smaller group of 15 countries. Five of them — China, France, Russia, the UK and the US — are permanent and can single-handedly block any candidate using a veto. The process is famously secretive, which is why critics keep demanding it be made fairer and more open.",
+    "background_beginner": "Artificial intelligence (AI) is technology that lets machines learn and solve problems in ways that can mimic human thinking. Since OpenAI launched its ChatGPT chatbot about four years ago, companies have poured staggering sums into building smarter AI. The main players here are OpenAI and Anthropic (which makes the chatbot Claude), plus cheaper Chinese rivals like Moonshot's Kimi. The topic keeps coming up because AI firms are spending and borrowing enormous amounts, and a small group of AI-linked companies now makes up a big slice of the stock market. That has investors nervously comparing today's boom to earlier technology crazes — railways, radio, the internet — that boomed, then crashed.",
     "impact_score": 72,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af56a02ab0ad-1794468354.jpg?resize=1920%2C1440",
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/2d22ecce11fc1fdb6ce2477f335f7120?impolicy=wcms_watermark_news&cropH=2812&cropW=5000&xPos=0&yPos=400&width=862&height=485&imformat=generic",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "The UN Security Council is holding secret straw polls to choose a new secretary-general before Antonio Guterres steps down on 31 December, with Costa Rica's Rebeca Grynspan currently leading.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 6,
-    "created_at": "2026-11-15T07:26:43.744382+00:00",
-    "published_date": "2026-11-15",
-    "has_fulltext": true
-   },
-   {
-    "id": "6eed577c-8593-5aae-b26a-621664f6d868",
-    "title": "China pledges to buy more from the world, but its shopping list is changing",
-    "simplified_title": "China Still Buying From the World, But Its Wants Are Shifting",
-    "quick_summary": "At its flagship import expo, China promised to buy more from abroad, but exporters say the country now wants fewer manufactured goods and more premium food and specialist tech.",
-    "simplified_body": "At the China International Import Expo (CIIE) in Shanghai, held from 5 to 10 November, a record 4,142 overseas companies from 148 countries turned up to sell to Chinese buyers. Vice Premier Ding Xuexiang pledged that China would import more quality goods and services, and customs data showed imports rose 23.6 per cent in the first ten months of 2026 — faster than export growth of 17.6 per cent. Even so, China's goods trade surplus still topped US$1 trillion.\n\nThe catch is that what China wants is changing. Exporters of tropical fruit, premium honey, soybeans and specialist medical gear still find buyers, because China either can't grow or doesn't yet make these things well. But as Chinese factories move \"up the value chain\" — making more sophisticated, higher-value products — the country increasingly produces its own machinery, chemicals and consumer brands, squeezing suppliers in Japan, South Korea and Germany.\n\nFor a newcomer: the CIIE is an annual trade fair Beijing uses to signal it welcomes foreign goods. Meanwhile, Chinese shoppers are described by L'Oreal as among the world's most \"discerning and demanding\", and domestic brands are winning mid-market skincare and sportswear sales from foreign rivals.\n\nForeign firms also face a tougher market. The European Union Chamber of Commerce said 54 per cent of members reported lost business from market access barriers, with China's economic slowdown their top worry. Expect foreign suppliers to keep their edge in high-end niches for now, while China \"closes the gap\" and poorer nations debate a feared \"China squeeze\" on their own industries.",
-    "why_it_matters": "China is a huge market for Australian resources and premium food, so a buyer that wants less manufacturing but still craves quality produce and raw materials reshapes who wins — and Chinese-made machinery undercutting rivals affects every trading nation.",
-    "deep_analysis": "## Historical Context\n\nChina built its economy as \"the world's factory\", importing machinery, components and specialist materials it couldn't make itself. The CIIE began nine editions ago as a showcase for Beijing's promise to open its market to foreign sellers. Over that time China has steadily moved up the value chain, so goods it once bought — machinery, chemicals, speciality materials — it now manufactures domestically. The European Chamber's example is striking: foreign firms held over 70 per cent of China's telecoms market in the 2G era, but just 3 per cent in today's 5G era.\n\n## Multiple Perspectives\n\nExporters split by category. Food and resource sellers (Goodfarmer fruit, Comvita manuka honey, Brazilian soybeans, Gabonese timber) remain upbeat, framing their trade as complementary rather than competitive. Consultant Cameron Johnson says the foreign market is \"shifting, not shrinking\". But the European Chamber's Carlo D'Andrea stresses access barriers and price wars, even as he calls China a \"fitness centre\" and \"safe harbour\". On the \"China squeeze\" — the worry that cheap Chinese manufacturing blocks poorer countries from industrialising — Vice Premier Ding says the theory \"does not hold water\", while analyst G Bin Zhao concedes critics have a point about overinvestment and falling prices.\n\n## What to Watch\n\nWatch whether China's import pledges translate into a narrower trade surplus, which still exceeds US$1 trillion. Track Chinese machinery displacing German, Japanese and Korean gear in Southeast Asia — \"80 per cent of the work for 20 per cent of the cost\". And watch high-end niches (medical equipment, aerospace calibration tools) where foreigners still lead but China is closing in.",
-    "concepts": [
-     {
-      "term": "China International Import Expo (CIIE)",
-      "definition": "An annual trade fair in Shanghai where Beijing invites foreign companies to show and sell their goods to Chinese buyers, signalling that China welcomes imports.",
-      "context": "This year's event drew a record 4,142 overseas companies from 148 countries."
-     },
-     {
-      "term": "up the value chain",
-      "definition": "Shifting from making simple, cheap products to making more complex, higher-value ones that earn bigger margins.",
-      "context": "As Chinese factories move up the value chain, they make more of the machinery and goods they once imported."
-     },
-     {
-      "term": "trade surplus",
-      "definition": "When a country sells (exports) more to the world than it buys (imports), leaving a positive balance.",
-      "context": "China's goods trade surplus still topped US$1 trillion despite its pledge to buy more."
-     },
-     {
-      "term": "China squeeze",
-      "definition": "The argument that China's dominance in low-end manufacturing leaves poorer countries little room to build their own industries.",
-      "context": "Vice Premier Ding rejected the China squeeze theory, saying it does not hold water."
-     }
-    ],
-    "quiz": {
-     "question": "What is the main way China's demand from foreign suppliers is changing, according to the article?",
-     "options": [
-      "China wants fewer manufactured goods it can now make itself, but still buys premium food and specialist tech",
-      "China has stopped importing anything and sells only to itself",
-      "China now imports only luxury goods and nothing else",
-      "China has banned all foreign companies from its market"
-     ],
-     "answer_index": 0,
-     "explanation": "The article explains the market is shifting, not shrinking: China increasingly makes its own machinery and consumer brands, but still wants imported food, medical devices and certain technology it can't produce as well."
-    },
-    "background_beginner": "China is the world's biggest manufacturing nation and a giant buyer of goods from everywhere else. Each year it hosts the China International Import Expo in Shanghai, a huge trade fair where thousands of foreign companies — fruit growers, honey makers, carmakers, cosmetics giants — try to win Chinese customers, and where Beijing publicly promises to import more. The story keeps coming up because China's economy is maturing: its factories now make many products it once bought abroad, from machinery to skincare, so foreign sellers face tougher competition. That raises big questions about who still gets to sell to China, and whether China's manufacturing strength crowds out other countries' industries.",
-    "impact_score": 62,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--b7HH15in--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/12/twl_ciie2026_00039.jpg?itok=w7otONV1",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "At its flagship import expo, China promised to buy more from abroad, but exporters say the country now wants fewer manufactured goods and more premium food and specialist tech.",
+    "description": "Huge debt-fuelled spending on artificial intelligence is drawing nervous comparisons to past tech bubbles as Anthropic prepares a record stock market float.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/east-asia/shanghai-import-expo-china-foreign-suppliers-consumer-demand-6535701"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-17/wheels-falling-off-ai-investment-boom-nvidia-anthropic/107392122"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 10,
-    "created_at": "2026-11-15T07:26:17.635616+00:00",
-    "published_date": "2026-11-15",
+    "reading_minutes": 5,
+    "created_at": "2026-11-16T19:25:16.999834+00:00",
+    "published_date": "2026-11-17",
+    "has_fulltext": true
+   },
+   {
+    "id": "e978d551-8118-52b5-877c-e7011590d7c9",
+    "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+    "simplified_title": "Canada may turn to Chinese carmakers if US talks fail",
+    "quick_summary": "Canadian PM Mark Carney says Canada could partner with Chinese automakers if trade talks with the US don't preserve an integrated North American car industry.",
+    "simplified_body": "Speaking in Cambodia on Monday, Canadian Prime Minister Mark Carney said his country could work with Chinese automakers if negotiations with US President Donald Trump fail to protect a joined-up North American car industry. He made the comments ahead of a meeting with Chinese leader Xi Jinping this week in Shenzhen, China, where car manufacturing is expected to come up. Carney stressed that a US deal remains his priority, but its outcome could push Canada toward European, Chinese or Japanese partners instead.\n\nThis matters most for Canadian auto workers. The \"Detroit Three\" — Ford, General Motors and Stellantis — run factories across Canada, the US and Mexico, with parts crossing borders several times before a car is finished. Trump has repeatedly pushed automakers to shift work to the US, and Canada recently threatened to sue Stellantis for moving planned Jeep production from Ontario to Illinois. Any Chinese investment, Carney said, would need real manufacturing in Canada — proper labour standards, local supply chains and Canadian critical minerals — not just \"kit cars\" assembled from imported parts.\n\nFor background: in January, Canada cut its 100% tariff on Chinese electric vehicles (EVs) to 6.1%, initially allowing up to 49,000 cars a year. In return, China lowered tariffs on Canadian farm goods like canola. The deal drew criticism from Ontario premier Doug Ford, who warned it could threaten jobs and Canada's access to the US market. Carney's comments land just before the 33rd Asia-Pacific Economic Cooperation (APEC) Leaders' Meeting in Shenzhen from Wednesday, where officials say regional trade cooperation is improving despite US-China tensions.\n\nWhat happens next depends on the US talks. Carney said progress is being made toward a possible US agreement, though differences remain, and Canada \"is going to move forward either way\".",
+    "why_it_matters": "It shows how US tariffs are pushing close allies to hedge toward China — a shift that reshapes global supply chains Australia also depends on, especially for critical minerals and electric vehicles.",
+    "deep_analysis": "## Historical Context\n\nThe North American auto industry has been deeply integrated for decades, with parts crossing between Canada, the US and Mexico multiple times before a vehicle is finished. That system has come under strain from President Trump's trade actions, which Carney says have made the market \"less integrated\". In January, Canada struck a deal cutting its 100% tariff on Chinese EVs to 6.1% in exchange for China lowering tariffs on Canadian farm products like canola — a sign Ottawa was already exploring alternatives before this week's talks.\n\n## Multiple Perspectives\n\nCarney frames Chinese involvement not as \"leverage\" but as \"action, reaction\" — insisting any investment must include genuine manufacturing, not just assembly. Ontario premier Doug Ford, whose province anchors Canada's auto sector, has warned that Chinese EVs could threaten Canadian jobs and endanger access to the US market. Meanwhile, the APEC Secretariat's Eduardo Pedrosa argues regional cooperation is actually improving despite US-China friction, pointing to agreements like the CPTPP and a focus on supply chain resilience. There's also debate, noted by Pedrosa, over whether US trade restrictions have failed given China's trade surplus is set to exceed last year's record US$1.2 trillion.\n\n## What to Watch\n\nThe key variable is the US-Canada negotiation: Carney says progress is being made but differences remain. Watch his Shenzhen meeting with Xi Jinping for any concrete auto-manufacturing commitments, the fate of the threatened lawsuit against Stellantis, and whether the APEC Leaders' Meeting produces anything beyond dialogue on supply chains, global imbalances and AI.",
+    "concepts": [
+     {
+      "term": "Detroit Three",
+      "definition": "The three big US-headquartered carmakers — Ford, General Motors and Stellantis — that run factories across Canada, the US and Mexico.",
+      "context": "These companies are central to the integrated North American auto industry Carney wants to protect."
+     },
+     {
+      "term": "electric vehicles (EVs)",
+      "definition": "Cars powered by electricity rather than petrol or diesel.",
+      "context": "Canada cut its tariff on Chinese EVs from 100% to 6.1% under the January deal."
+     },
+     {
+      "term": "critical minerals",
+      "definition": "Raw materials like lithium and cobalt that are essential for making batteries and other high-tech products.",
+      "context": "Carney wants Chinese investment to use Canadian critical minerals in electric vehicle supply chains."
+     },
+     {
+      "term": "Asia-Pacific Economic Cooperation (APEC)",
+      "definition": "A forum of 21 Pacific-rim economies that work together on trade and economic issues.",
+      "context": "Carney's comments come just before the 33rd APEC Leaders' Meeting in Shenzhen."
+     }
+    ],
+    "quiz": {
+     "question": "Why is Carney cautious about the form any Chinese auto investment would take?",
+     "options": [
+      "He wants only imported finished cars, not local production",
+      "He prefers investment limited to the farm sector",
+      "He insists it involve real manufacturing in Canada, not just assembling imported 'kit cars'",
+      "He wants China to take over the Detroit Three"
+     ],
+     "answer_index": 2,
+     "explanation": "Carney said any Chinese investment would need substantial manufacturing in Canada — proper labour standards, facilities and domestic supply chains — rather than simply assembling imported parts, saying \"it's not just about kit cars\"."
+    },
+    "background_beginner": "Canada, the US and Mexico have long run their car industries as one connected system, with parts crossing borders many times before a vehicle is built. US President Donald Trump has imposed tariffs and pushed carmakers to move work to the US, straining that system. Canadian Prime Minister Mark Carney is now negotiating with Washington to protect Canada's auto jobs. At the same time, Canada struck a deal with China in January easing tariffs on Chinese electric cars. These tensions keep resurfacing because the world's two biggest economies — the US and China — are competing over trade, and countries like Canada are caught in between, weighing their options at forums like APEC.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/2e7e78e8ef011abb9ba52ca72738b8f88e4616f9/14_0_3840_3072/master/3840.jpg?width=1920&quality=85&auto=format&fit=max&s=049702c518039f8bdaf45715ce5e2dec",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "Canadian PM Mark Carney says Canada could partner with Chinese automakers if trade talks with the US don't preserve an integrated North American car industry.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks"
+     },
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/apec-shenzhen-summit-trade-relations-us-china-asean-6554366"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-16T19:25:13.462700+00:00",
+    "published_date": "2026-11-17",
     "has_fulltext": true
    }
   ],
@@ -1633,6 +1445,71 @@
     "has_fulltext": true
    },
    {
+    "id": "64a3f9ee-2b81-590f-b335-a8b2f5791652",
+    "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
+    "simplified_title": "Albanese balances Trump talks, China ties at Asian summits",
+    "quick_summary": "Anthony Albanese heads into a Quad meeting with Donald Trump this week, pushing to keep the US engaged in the Indo-Pacific while trying not to rattle China.",
+    "simplified_body": "Anthony Albanese will meet US President Donald Trump on Tuesday during a swing through Asian summits, planning to argue for a quick end to the wars in Iran and Ukraine while urging Washington to stay involved in the Indo-Pacific. The gathering of Quad leaders — a grouping of Australia, the United States, Japan and India — takes place in Manila, the Philippines' capital, and will be Trump's first Quad summit in either of his presidencies. Fresh from a heavy loss in the US midterm elections, Trump is also preparing for three-way talks with China's Xi Jinping and Russia's Vladimir Putin.\n\nThis matters for Australia because keeping the US tied to the region is seen as a core strategic interest, especially after a year in which Washington has been busy elsewhere and opened its own channel with Beijing. At the same time, the federal government is trying not to anger China. Australia recently joined the United States, Japan and others in the San Francisco Declaration, part of the Pax Silica accord, designed to firm up supply chains for chips and critical minerals and set standards in artificial intelligence (AI). Other signatories include the UK, India, Israel, South Korea and Singapore.\n\nFor background, the Quad isn't a military alliance, and Washington has said it isn't an anti-China coalition, though Beijing routinely criticises it as \"bloc politics\". Analysts from the Asia Society and the Lowy Institute say the talks will centre on critical minerals, maritime security and energy security.\n\nAlbanese also launched an Asean-Australia (Association of Southeast Asian Nations) digital economy program and raised the deaths of backpackers Bianca Jones and Holly Morton-Bowles, who died from methanol-laced alcohol in Vientiane, Laos, in 2024. He'll finish the week at the Apec (Asia-Pacific Economic Cooperation) leaders' meeting in Shenzhen, China.",
+    "why_it_matters": "For Australia, keeping the US anchored in the Indo-Pacific is treated as the backbone of national security and prosperity, so how Albanese handles Trump without upsetting China has real stakes for the region we live in.",
+    "deep_analysis": "## Historical Context\n\nThe Quad, or Quadrilateral Security Dialogue, brings together Australia, the United States, Japan and India, and these leaders are gathering for the first time since 2024. Trump attending matters because it ties a US president into a shared regional agenda alongside three close partners — something that doesn't happen often. Separately, Australia has signed onto the San Francisco Declaration, part of the Pax Silica accord, aimed at protecting supply chains for chips and critical minerals and shaping AI standards rather than leaving that leadership to others. Signatories include the US, Japan, the UK, India, Israel, South Korea and Singapore.\n\n## Multiple Perspectives\n\nViews differ on what Australia is really doing here. Government sources told Guardian Australia the diplomatic effort is about keeping the US from withdrawing from global leadership in the final two years of Trump's presidency. Asia Society's Premesha Saha agrees keeping Washington engaged is a core Australian interest, but cautions against overstating how much the Quad angers China, noting it isn't a military alliance. The Lowy Institute's Jennifer Parker pushes back on the framing altogether, arguing the US has \"enduring interests\" in the region and doesn't need to be kept engaged — though \"sometimes it pays for Australia to remind them of that\". Beijing, meanwhile, casts the Quad as \"bloc politics\".\n\n## What to Watch\n\nWatch the Tuesday Albanese-Trump meeting and the separate three-way Trump-Xi-Putin talks, which could shape the mood around Iran and Ukraine. Keep an eye on whether the Quad delivers concrete results on critical minerals, maritime and energy security, and how China responds. Domestically, the unresolved charges over the Vientiane methanol deaths remain a live issue, with Laos saying it is trying to bring \"perpetrators\" to justice despite limited evidence.",
+    "concepts": [
+     {
+      "term": "Quad",
+      "definition": "The Quadrilateral Security Dialogue, a grouping of four countries — Australia, the United States, Japan and India — that cooperate on regional strategy, though it is not a military alliance.",
+      "context": "The article's central event is a Quad leaders' summit in Manila, Trump's first."
+     },
+     {
+      "term": "San Francisco Declaration",
+      "definition": "An agreement, part of the Pax Silica accord, aimed at protecting supply chains for computer chips and critical minerals and setting shared standards in artificial intelligence.",
+      "context": "Australia signed it alongside the US, Japan and others to counter China's influence over AI development."
+     },
+     {
+      "term": "critical minerals",
+      "definition": "Raw materials essential for modern technology like chips and batteries, whose supply chains countries want to secure.",
+      "context": "They're a key focus of both the San Francisco Declaration and the Quad talks."
+     },
+     {
+      "term": "Indo-Pacific",
+      "definition": "The broad region spanning the Indian and Pacific Oceans, central to Australia's strategic and security interests.",
+      "context": "Albanese's main aim is keeping the US engaged in the Indo-Pacific."
+     }
+    ],
+    "quiz": {
+     "question": "Why is keeping the US engaged in the Indo-Pacific described as important for Australia?",
+     "options": [
+      "Because it is seen as a core strategic interest underpinning Australia's security and prosperity",
+      "Because the Quad is a formal military alliance that obliges the US to defend Australia",
+      "Because China has asked Australia to host American forces",
+      "Because the US has no other interests in the region and must be persuaded to stay"
+     ],
+     "answer_index": 0,
+     "explanation": "The article frames keeping Washington engaged as a core Australian strategic interest, with analysts linking the region's relationships to national security and prosperity. The Quad is explicitly not a military alliance, and the Lowy Institute's Parker notes the US already has enduring interests there."
+    },
+    "background_beginner": "Anthony Albanese is Australia's prime minister, and Donald Trump is the US president. Both are attending a run of Asian summits, including a meeting of the \"Quad\" — Australia, the US, Japan and India — in Manila. These leaders meet regularly to discuss regional security, trade and technology. A big backdrop is China: Western nations want to keep supply chains for computer chips and critical minerals secure and to shape the rules around artificial intelligence, while being careful not to provoke Beijing. For Australia, which sits in this region, staying close to the US and friendly with neighbours is seen as central to its safety and economy, so these summits keep coming up.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=1920&quality=85&auto=format&fit=max&s=200016eb9bad67f030753050a52ee012",
+    "region": "Australian defence, ADF, AUKUS, regional security",
+    "region_code": "ADF",
+    "description": "Anthony Albanese heads into a Quad meeting with Donald Trump this week, pushing to keep the US engaged in the Indo-Pacific while trying not to rattle China.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "041bf70e-70f0-5c9b-bd43-4589fa019bd1"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-16T19:25:17.780918+00:00",
+    "published_date": "2026-11-17",
+    "has_fulltext": true
+   },
+   {
     "id": "4f6d3dd5-f29a-54df-aba2-fb8dece84f21",
     "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
     "simplified_title": "Gender-diverse Aussie sailors blocked from US nuclear subs under Aukus",
@@ -1693,69 +1570,6 @@
     "reading_minutes": 3,
     "created_at": "2026-11-15T19:26:18.025168+00:00",
     "published_date": "2026-11-16",
-    "has_fulltext": true
-   },
-   {
-    "id": "2d2576bb-6257-5415-827d-530f4c8b24ac",
-    "title": "Philippines, Australia sign updated defence agreement",
-    "simplified_title": "Australia and Philippines sign updated defence agreement in Manila",
-    "quick_summary": "Australia and the Philippines have signed an updated defence pact to speed up military cooperation and strengthen deterrence amid China's growing presence in the region.",
-    "simplified_body": "On Sunday 15 November, Australia and the Philippines signed a new defence pact in Manila, updating a decades-old memorandum. The signing happened on the sidelines of a leaders' meeting, with Australian Prime Minister Anthony Albanese in attendance. Officials say the deal is designed to fast-track military cooperation and \"bolster deterrence\" in a region shaped by China's expanding military presence.\n\nThe agreement mainly affects the two countries' armed forces. Philippine Defence Secretary Gilberto Teodoro said it streamlines coordination, making cooperation \"faster, speedier\", and will help Philippine forces get familiar with Australian equipment and weaponry so joint training runs more smoothly. Australian Defence Minister Richard Marles said it would deepen practical cooperation and create new chances to work together on regional security, with enhanced maritime activities, information-sharing and defence infrastructure development as key elements.\n\nFor background: the Philippines, a US ally, has had years of confrontations with China over disputed parts of the South China Sea, a crucial waterway that Beijing claims almost entirely — despite an international ruling that its position has no legal basis. Australia and the Philippines have steadily boosted defence ties, including joint maritime patrols and land-based exercises, and have had a Visiting Forces Agreement (a deal letting troops train on each other's territory) since 2012.\n\nWhat next? Expect more joint training and patrols. Marles said last month at an Association of Southeast Asian Nations (ASEAN) defence summit that China's military build-up was creating a \"condition of pressure\" in Southeast Asia, and urged allies to deepen cooperation — suggesting this pact is part of a broader trend.",
-    "why_it_matters": "For Australia, this deepens its security footprint in Southeast Asia and ties Canberra more closely to a key flashpoint in the South China Sea, where tensions with China directly touch regional stability and trade routes Australia relies on.",
-    "deep_analysis": "## Historical Context\n\nThe Philippines and Australia have built up defence ties steadily over recent years. A Visiting Forces Agreement has been in place since 2012, letting each country's troops train on the other's territory. More recently the two have run joint maritime patrols in the South China Sea and land-based military exercises. This new pact updates a decades-old memorandum, so it is an evolution of an existing relationship rather than a sudden new alliance. The backdrop is a long-running dispute: the Philippines, a US ally, has spent years in confrontations with China over contested areas of the South China Sea, where Beijing claims nearly the whole waterway despite an international ruling that found its position had no legal basis.\n\n## Multiple Perspectives\n\nManila frames the deal in terms of deterrence and jurisdiction. Defence Secretary Gilberto Teodoro stressed speed — \"faster, speedier\" coordination — and a \"credible deterrent posture in areas where we have jurisdiction\", pointing to contested South China Sea zones. Canberra emphasises practical cooperation and regional security: Defence Minister Richard Marles talked about deepening cooperation between defence forces and new opportunities to work together, with maritime activities, information-sharing and infrastructure as focal points. The shared framing is a response to China's military build-up, which Marles described as creating a \"condition of pressure\" in Southeast Asia. The article does not include a Chinese response.\n\n## What to Watch\n\nWatch for more joint patrols and exercises as the streamlined coordination takes effect, and for how familiarisation with Australian equipment translates into practical interoperability. Marles's call for allies and partners to deepen cooperation suggests further agreements or expanded multilateral activity through forums like ASEAN could follow. Any shift in the South China Sea standoff — or a reaction from Beijing — would be the key signal of how much this pact changes on the ground.",
-    "concepts": [
-     {
-      "term": "deterrence",
-      "definition": "Discouraging an opponent from hostile action by making the likely costs or risks look too high to be worth it.",
-      "context": "The pact is aimed at bolstering deterrence amid China's growing military presence in the region."
-     },
-     {
-      "term": "Visiting Forces Agreement",
-      "definition": "A deal that allows one country's troops to be present on and train within another country's territory.",
-      "context": "Australia and the Philippines have had a Visiting Forces Agreement in place since 2012."
-     },
-     {
-      "term": "memorandum",
-      "definition": "A formal written document recording an agreement or understanding between parties.",
-      "context": "The new pact updates a decades-old memorandum between Canberra and Manila."
-     },
-     {
-      "term": "ASEAN",
-      "definition": "The Association of Southeast Asian Nations, a regional bloc of Southeast Asian countries that also runs defence forums.",
-      "context": "Marles made his remarks at an ASEAN defence summit in the Philippines."
-     }
-    ],
-    "quiz": {
-     "question": "Why do Australia and the Philippines say the updated defence pact matters?",
-     "options": [
-      "It fast-tracks military cooperation and bolsters deterrence amid China's growing presence",
-      "It commits Australia to defend the Philippines in any war with China",
-      "It ends the Visiting Forces Agreement that began in 2012",
-      "It settles the South China Sea dispute by handing territory to the Philippines"
-     ],
-     "answer_index": 0,
-     "explanation": "Officials said the pact streamlines coordination to make cooperation faster and to bolster a credible deterrent posture, against the backdrop of China's expanding military presence. It doesn't settle the territorial dispute, end the 2012 agreement, or pledge wartime defence."
-    },
-    "background_beginner": "The main players are Australia and the Philippines, two US-aligned countries boosting their defence ties, with China looming in the background. The friction centres on the South China Sea, a busy and strategically important stretch of water that China claims almost entirely — even though an international ruling rejected that claim. The Philippines has clashed with China there for years. Australia and the Philippines have been steadily cooperating, running joint patrols and exercises and allowing each other's troops to train on their soil since 2012. It keeps coming up because China's expanding military and ongoing sea disputes push smaller nations to team up for security.",
-    "impact_score": 58,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--6EFd4Esy--/c_crop,h_1125,w_1999,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/15/ap26319144541025.jpg?itok=BwrXRSve",
-    "region": "Australian defence, ADF, AUKUS, regional security",
-    "region_code": "ADF",
-    "description": "Australia and the Philippines have signed an updated defence pact to speed up military cooperation and strengthen deterrence amid China's growing presence in the region.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/world/philippines-australia-sign-updated-defence-agreement-6552726"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-15T07:26:11.877125+00:00",
-    "published_date": "2026-11-15",
     "has_fulltext": true
    }
   ],
@@ -1841,6 +1655,132 @@
     "has_fulltext": true
    },
    {
+    "id": "bd40819f-c7b5-55b4-9d1d-f606cf1d1858",
+    "title": "'A futuristic debate now very real': Why the world is struggling to regulate killer robots",
+    "simplified_title": "World Struggles to Agree on Rules for Killer Robots",
+    "quick_summary": "Envoys from 128 nations met in Geneva to decide whether to negotiate binding rules on AI weapons that can kill without human input, but big arms-makers are blocking progress.",
+    "simplified_body": "Government representatives from 128 countries gathered in Geneva to decide whether to start formal talks on legally binding rules for autonomous weapon systems — weapons that can pick out and strike targets on their own, without a human pulling the trigger. The meeting happened under the UN's Convention on Certain Conventional Weapons (CCW), where every decision must be reached by consensus, meaning a single country can block an agreement.\n\nThis affects everyone, because the technology is no longer hypothetical. In Ukraine, both Russia and Ukraine are flying drones with AI-powered guidance that can lock onto targets even when they lose contact with human operators. New York Times reporting suggests the first fully autonomous drone killing may have already happened — Ukrainian investigators believe AI-guided Russian drones killed three people at a Zaporizhzhia petrol station in September.\n\nFor background: these debates have run for more than 10 years. Defensive automated systems, like ones that shoot down incoming missiles, have existed for decades and were broadly accepted because their use was narrow. The new worry is offensive drones choosing their own human targets. Researcher Vincent Boulanin notes past bans — on blinding lasers and landmines — show restraint is possible, but autonomous weapons are harder to pin down because they take so many forms.\n\nWhat happens next is uncertain. Most states back binding rules in principle, but major arms producers — the United States, Russia and Israel — oppose them. Boulanin says the US hardened its stance under the Trump administration, partly over strategic competition with China.",
+    "why_it_matters": "Weapons that decide for themselves who lives and dies raise profound legal and moral questions, and the failure of 128 nations to agree sets the rules of future warfare that will shape global security Australia relies on.",
+    "deep_analysis": "## Historical Context\n\nThe idea of machines making life-or-death decisions long sat in the realm of science fiction, captured by that 1979 IBM manual warning that \"a computer must never make a management decision.\" Yet autonomous features in weapons aren't brand new: defensive systems that automatically fire on incoming missiles have existed for decades, accepted because their role was narrow and predictable. Discussions about regulating autonomous weapons have run inside the UN's Convention on Certain Conventional Weapons for more than 10 years. Advocates pointed to two precedents as hopeful blueprints — the 1995 Protocol on Blinding Laser Weapons, which banned a technology before it was ever deployed, and the ban on anti-personnel landmines, driven by documented evidence of civilian harm.\n\n## Multiple Perspectives\n\nA majority of member states support legally binding regulation in principle. Against them stand major arms-producing nations — the United States, Russia and Israel — which have opposed a binding treaty from the start. Boulanin argues their resistance is strategic: the US, eyeing possible future conflict with China, doesn't want to limit its own room to manoeuvre, and Israel wants to keep using the technology against Hamas. He notes the US once engaged constructively but hardened its line under the Trump administration. The core legal debate is whether humans remain genuinely responsible when an algorithm selects and strikes targets.\n\n## What to Watch\n\nThe CCW's consensus rule means a single objector can stall everything, so watch whether frustrated states take the fight to a different forum. Watch, too, for more documented cases of autonomous killings in Ukraine — historically, real humanitarian evidence has been what finally pushed states toward bans.",
+    "concepts": [
+     {
+      "term": "autonomous weapon systems",
+      "definition": "Weapons that can identify, select and strike targets through their own algorithms, without a human making the final decision to fire.",
+      "context": "The Geneva talks are about whether to set binding rules for these systems."
+     },
+     {
+      "term": "consensus",
+      "definition": "A decision-making rule where every participant must agree, so any single country can block an outcome.",
+      "context": "Under the CCW, all decisions must be reached this way, making agreement hard."
+     },
+     {
+      "term": "international humanitarian law",
+      "definition": "The body of rules that governs how wars may be fought, aiming to limit suffering and protect civilians.",
+      "context": "A central question is whether autonomous weapons can be used in line with it."
+     },
+     {
+      "term": "last-mile targeting",
+      "definition": "When a drone finishes an attack using its own automated targeting because it has lost communication with its human operator.",
+      "context": "Boulanin describes this as the unsettling new use case emerging in Ukraine."
+     }
+    ],
+    "quiz": {
+     "question": "Why is it so difficult for the 128 nations to agree on binding rules at the CCW?",
+     "options": [
+      "Decisions require consensus, so major arms producers like the US and Russia can block a deal",
+      "Most countries oppose any regulation of weapons",
+      "There is no evidence that autonomous weapons exist yet",
+      "The UN has no authority over weapons treaties"
+     ],
+     "answer_index": 0,
+     "explanation": "The article explains that all CCW decisions must be reached by consensus, and major arms-producing states such as the US and Russia have consistently opposed binding rules — meaning they can prevent agreement even though most states support regulation."
+    },
+    "background_beginner": "\"Killer robots\" is shorthand for autonomous weapons — machines, usually drones, that can find and attack targets on their own using artificial intelligence, without a person deciding to fire. For over a decade, countries have debated whether to ban or limit them at the United Nations, through a treaty called the Convention on Certain Conventional Weapons. The topic keeps coming up because the war in Ukraine has made it real: both Russia and Ukraine now use AI-guided drones, and there are reports such weapons have already killed people. The main tension is between most nations, who want binding rules, and big weapons-makers like the US, Russia and Israel, who resist them.",
+    "impact_score": 72,
+    "image_url": "https://s.france24.com/media/display/826c555c-e1da-11f1-baa3-3f371022a770/w:1280/p:16x9/000-D68W7VD.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "Envoys from 128 nations met in Geneva to decide whether to negotiate binding rules on AI weapons that can kill without human input, but big arms-makers are blocking progress.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/technology/20261116-a-futuristic-debate-now-very-real-why-the-world-is-struggling-to-regulate-killer-robots"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 8,
+    "created_at": "2026-11-16T19:25:12.329059+00:00",
+    "published_date": "2026-11-17",
+    "has_fulltext": true
+   },
+   {
+    "id": "bdf08d2c-cb64-5c4a-91b2-3e8ee4fd1672",
+    "title": "US moves to cut China’s remote access to AI chips",
+    "simplified_title": "US Moves to Block China's Remote Access to AI Chips",
+    "quick_summary": "The US is tightening export rules to stop China, Russia and Iran from renting restricted high-end AI chips through data centres in third countries.",
+    "simplified_body": "The Trump administration is preparing a new rule to crack down on foreign data centres that let China tap into powerful artificial intelligence (AI) chips the US has otherwise put off-limits. The Commerce Department says it is closing a loophole that let rivals like China, Russia and Iran dodge export curbs by simply renting access to those chips from data centres in countries such as Indonesia, Malaysia, Singapore, Thailand and Brazil.\n\nThe change mainly affects chip makers and the companies that run big data centres abroad. Firms headquartered in countries judged to carry a \"higher-than-normal risk of diversion\" to China, Russia or Iran will now need a licence, with strict know-your-customer controls, before moving large volumes of advanced chips. If a licence is granted, they must do thorough due diligence and file monthly reports naming every party, their parent companies and the chips' final destination.\n\nFor background: the US restricts the most advanced chips because they are needed to train cutting-edge AI, which Washington fears could help rivals build better weapons of mass destruction, run cyber-espionage, steal algorithms or spread weaponised disinformation. The move follows what the article calls the Nvidia scandal. The South China Morning Post reported that any advanced chip made for a Chinese firm is now assumed to be restricted, so factories must seek a US licence before shipping.\n\nThe rule takes effect 90 days after it is posted to the Federal Register, the US government's official record. Expect affected companies to push back and governments in the named countries to weigh how the controls hit their data-centre industries.",
+    "why_it_matters": "Tightening who can use top-end AI chips reshapes the global tech supply chain, and with data-centre hubs like Singapore caught in the net, the fallout touches Australia's own region and cloud-computing partners.",
+    "deep_analysis": "## Historical Context\n\nThe US has spent years tightening export controls on the most advanced semiconductors, arguing that the chips powering frontier AI are a national-security concern. Earlier rules focused on blocking direct sales of restricted chips to China. The problem, as the Commerce Department describes it, was that rivals could sidestep those curbs entirely by renting remote access to the same chips sitting in data centres in third countries. This new rule targets that workaround, and it arrives, per the article, on the heels of \"the Nvidia scandal.\"\n\n## Multiple Perspectives\n\nFrom Washington's view, the logic is straightforward: if the goal is to deny rivals the compute needed to train military-capable AI, then remote access is just as dangerous as a physical sale, so the loophole must close. The Commerce Department lists fears ranging from weapons of mass destruction to weaponised disinformation.\n\nFor the named countries — Indonesia, Malaysia, Singapore, Thailand and Brazil — the controls land on legitimate data-centre operators who now face licensing, know-your-customer checks and monthly reporting. That is a real compliance burden. The South China Morning Post framing suggests the net is wide: any advanced chip made for a Chinese firm is now assumed restricted.\n\n## What to Watch\n\nWatch the Federal Register posting, since the 90-day clock starts there. Watch how \"higher-than-normal risk of diversion\" gets defined in practice, as that determines which firms are swept in. And watch whether affected data-centre hubs and chip makers lobby for carve-outs or warn of lost business.",
+    "concepts": [
+     {
+      "term": "loophole",
+      "definition": "A gap in a rule that lets someone technically follow the letter of the law while dodging its intent — here, renting chips instead of buying them.",
+      "context": "The US says rivals used remote access to rented chips to get around export bans."
+     },
+     {
+      "term": "know-your-customer controls",
+      "definition": "Checks that require a seller to verify exactly who their customer is and where goods end up, to prevent misuse.",
+      "context": "Companies must apply for licences with these strict controls before shipping high volumes of chips."
+     },
+     {
+      "term": "Federal Register",
+      "definition": "The official daily journal of the US government where new rules and regulations are published.",
+      "context": "The rule takes effect 90 days after it is posted there."
+     },
+     {
+      "term": "due diligence",
+      "definition": "The careful investigation a company must do to confirm a deal is legitimate before completing it.",
+      "context": "Licence holders must perform robust due diligence and file monthly reports on transactions."
+     }
+    ],
+    "quiz": {
+     "question": "What specific loophole is the new US rule trying to close?",
+     "options": [
+      "Chinese firms building their own advanced chips domestically",
+      "Smuggling physical chips across the US–Mexico border",
+      "Rivals renting remote access to restricted chips in foreign data centres",
+      "Companies copying chip designs without paying licence fees"
+     ],
+     "answer_index": 2,
+     "explanation": "The Commerce Department says the rule closes a loophole that let China, Russia and Iran bypass export curbs by renting access to restricted chips from data centres in countries like Singapore and Malaysia."
+    },
+    "background_beginner": "The main players are the US government (through its Commerce Department), chip giant Nvidia, and rival nations China, Russia and Iran. For years the US has restricted sales of the most advanced computer chips because they train powerful artificial intelligence that could, Washington fears, boost rivals' weapons and cyber capabilities. The catch is that rivals found a way around the bans: instead of buying the chips, they rented remote access to them in data centres based in countries like Singapore, Malaysia and Brazil. This keeps coming up because AI and the chips behind it have become central to both economic competition and national security.",
+    "impact_score": 72,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "The US is tightening export rules to stop China, Russia and Iran from renting restricted high-end AI chips through data centres in third countries.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-16T19:25:10.426941+00:00",
+    "published_date": "2026-11-17",
+    "has_fulltext": true
+   },
+   {
     "id": "e3fb457c-3d7c-559c-bf52-64e6b1cb04ae",
     "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
     "simplified_title": "Vulcan Rocket Fails Mid-Launch, Destroying 40 Amazon Satellites",
@@ -1906,71 +1846,8 @@
     "created_at": "2026-11-16T07:25:09.920100+00:00",
     "published_date": "2026-11-16",
     "has_fulltext": true
-   },
-   {
-    "id": "b4b070d7-a9bf-5b93-94e0-e6c9a2de75cc",
-    "title": "With Starship catch, SpaceX still shows it can dazzle the world",
-    "simplified_title": "SpaceX Catches Returning Starship With Giant Tower Arms",
-    "quick_summary": "SpaceX guided its Starship upper stage back from orbit and caught it mid-air using the launch tower's mechanical arms.",
-    "simplified_body": "On Saturday evening at Starbase in Texas, SpaceX pulled off a striking feat: its Starship upper stage fell back through the clouds, flew horizontally, then fired three of its Raptor rocket engines to swing upright before being snagged by two arms on the launch tower. The margins were tiny — the rocket's only grip was two nubs sticking out about a foot on each side. Less than a minute after it came into view, it was caught.\n\nThis matters because it's a big step toward a massive, rapidly reusable rocket. Starships are huge and carry enormous energy as they return from orbit, so catching one — rather than letting it land on legs or splash into the sea — pushes SpaceX's reuse ambitions further than before. The company had already dazzled the world by landing rockets on barges and returning humans to space with Crew Dragon, its crewed capsule.\n\nFor background: humans have flown reusable spacecraft to orbit before. In the 1970s, NASA (the US National Aeronautics and Space Administration) built the Space Shuttles. Their solid rocket boosters were fished out of the ocean and reused, the large orange external tank was thrown away each flight, and the orbiters spent up to two weeks in space before landing on a runway. SpaceX's approach — catching the rocket with what look like outsized chopsticks — is a very different design.\n\nThis flight, nearly a quarter of a century after SpaceX was founded, suggests rapid reuse is firmly on the horizon. The article doesn't spell out the next steps, but the successful catch follows a handful of practice splashdowns into the Indian Ocean.",
-    "why_it_matters": "Cheaper, rapidly reusable heavy-lift rockets could reshape access to space worldwide — including for Australian satellite launches and research that rely on affordable rides to orbit.",
-    "deep_analysis": "## Historical Context\n\nReusable orbital spacecraft aren't new. In the 1970s, buoyed by the Moon landings, NASA designed and built several Space Shuttles. Those vehicles recovered their solid rocket boosters from the ocean and flew their orbiters back to a runway after up to two weeks in space, though the large orange external tank was discarded each flight. SpaceX, founded nearly 25 years ago, has already shown reuse works in other ways — landing boosters on barges and ferrying humans with Crew Dragon. The tower catch of the Starship upper stage is framed as the next leap beyond those earlier milestones.\n\n## Multiple Perspectives\n\nThe article is written largely in admiration, describing the catch as \"breathtaking\" and like \"stepping into the future.\" From an engineering view, the achievement is about narrow margins and solved problems — three Raptor engines firing at the last moment, two foot-long nubs as the only purchase. As background, it's worth noting that reuse debates have long weighed the promise of lower costs against the complexity and risk of recovering huge, high-energy vehicles. The Shuttle's mixed record is a reminder that reusability on paper doesn't automatically mean cheap or simple.\n\n## What to Watch\n\nThe catch followed a handful of practice runs into the Indian Ocean, suggesting an incremental test campaign. The piece says rapid reuse is \"firmly on the horizon\" but doesn't detail timelines or how quickly a caught Starship could be reflown. Worth watching: whether catches become routine, how fast turnaround gets, and whether this method scales reliably for both the booster and the upper stage.",
-    "concepts": [
-     {
-      "term": "Starship upper stage",
-      "definition": "The top section of SpaceX's giant Starship rocket, which reaches orbit and then returns to Earth.",
-      "context": "This is the part that was caught by the tower arms after flying in space."
-     },
-     {
-      "term": "Raptor rocket engines",
-      "definition": "The engines SpaceX built to power Starship; three of them fired to flip the returning ship upright.",
-      "context": "They ignited at the last moment to swing the rocket from horizontal to vertical for the catch."
-     },
-     {
-      "term": "Crew Dragon",
-      "definition": "SpaceX's capsule that carries astronauts to and from space.",
-      "context": "Mentioned as an earlier SpaceX achievement, returning humans to space."
-     },
-     {
-      "term": "solid rocket boosters",
-      "definition": "Powerful rockets that gave the Space Shuttle extra thrust at launch and were recovered from the sea.",
-      "context": "Used as a historical example of earlier reusable spaceflight hardware."
-     }
-    ],
-    "quiz": {
-     "question": "Why is catching the Starship upper stage described as such a hard engineering problem?",
-     "options": [
-      "It had to land on a runway like the Space Shuttle",
-      "It carried no engines to control its descent",
-      "Its only grip on the tower arms was two small nubs, giving very narrow margins",
-      "It had never been to orbit before the catch"
-     ],
-     "answer_index": 2,
-     "explanation": "The article stresses the tiny margins: the rocket's only purchase on the arms was two nubs protruding about a foot on each side, after three Raptor engines flipped it upright."
-    },
-    "background_beginner": "SpaceX is a private rocket company founded nearly 25 years ago, known for making spaceflight cheaper by reusing hardware instead of throwing it away. Its biggest project is Starship, a huge rocket built in two parts (a booster and an upper stage) at its Starbase site in Texas. The goal is \"rapid reuse\" — flying the same rocket again and again with little refurbishment. Earlier, SpaceX landed boosters on floating barges and flew astronauts with its Crew Dragon capsule. This story keeps coming up because each Starship test flight pushes a new limit, and catching the returning ship with the launch tower's arms is a major step toward that reuse goal.",
-    "impact_score": 72,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "SpaceX guided its Starship upper stage back from orbit and caught it mid-air using the launch tower's mechanical arms.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-15T01:24:34.563192+00:00",
-    "published_date": "2026-11-15",
-    "has_fulltext": true
    }
   ]
  },
- "total_stories": 29
+ "total_stories": 27
 }
