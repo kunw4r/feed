@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-15T19:23:03.553625+00:00",
+ "generated_at": "2026-11-16T01:23:03.639850+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -257,6 +257,68 @@
     "reading_minutes": 3,
     "created_at": "2026-11-15T07:26:17.469116+00:00",
     "published_date": "2026-11-15",
+    "has_fulltext": true
+   },
+   {
+    "id": "06c0eaff-6c55-558b-8660-d685f8285083",
+    "title": "Coles investigating ‘cybersecurity incident’ and apologises to customers",
+    "simplified_title": "Coles investigating cyber-attack, no stolen data found yet",
+    "quick_summary": "Coles says it's investigating a cybersecurity incident and so far has found no evidence that customer, staff or supplier data has been stolen.",
+    "simplified_body": "Coles, Australia's second-largest retailer, told the stock exchange on Monday morning that it is investigating a cybersecurity incident that happened over the weekend. The company says it is working with the Australian Cyber Security Centre and global security experts to contain and secure its IT environment. Importantly, based on its investigation so far, Coles has not found any evidence that customer, team or supplier data has been compromised or removed from its systems.\n\nThis matters to the millions of Australians who shop at Coles in stores and online, plus its staff and suppliers. For now, operations are continuing as normal: stores and online shopping work, gift cards are fine, and there's no sign Flybuys accounts or Coles Plus, Coles Plus Delivery or QuiteLike subscriptions have been affected. The one hiccup noted is a small number of customers having issues with Liquorland click-and-collect, which is being looked into.\n\nA cybersecurity incident is any attempt to break into or disrupt a company's computer systems. Coles has flagged this is happening at \"a time of increasing cyber incidents in Australia and around the world\". The Australian Cyber Security Centre (ACSC) is the federal body that helps organisations respond to these threats. Coles has apologised for any concern this may cause.\n\nColes is urging customers to stay vigilant. It recommends using a strong, unique password you don't reuse elsewhere, and being cautious of unexpected emails or texts claiming to be from Coles. The company stresses it will never ask for your password through an unsolicited message, and says not to click suspicious links. The investigation is ongoing, so more details may emerge about what, if anything, was accessed.",
+    "why_it_matters": "With millions of Australians shopping at Coles every week, any threat to one of the country's biggest retailers is a direct reminder to check your passwords and watch for scams, especially as cyber incidents keep rising locally.",
+    "deep_analysis": "## Historical Context\n\nColes describes this as happening during \"a time of increasing cyber incidents in Australia and around the world.\" While the articles don't detail past breaches, it's widely known as background that large Australian organisations across retail, telecommunications and healthcare have faced high-profile cyber-attacks in recent years, which is partly why bodies like the Australian Cyber Security Centre exist to help with response and recovery.\n\n## Multiple Perspectives\n\nFrom Coles' side, the message is one of reassurance: operations continue, and there's no evidence yet that customer, team or supplier data has been taken. The company is being transparent by disclosing to the stock exchange early and bringing in external experts.\n\nFrom a customer's point of view, \"no evidence so far\" is not the same as \"all clear\" — investigations are ongoing, and the company itself urges vigilance. The practical advice (unique passwords, wariness of unexpected messages) places some responsibility on shoppers to protect themselves while Coles secures its systems.\n\n## What to Watch\n\nKeep an eye on whether Coles confirms any data was actually accessed, and whether the Liquorland click-and-collect issue turns out to be linked to the incident or separate. Also watch for official follow-up statements and any guidance from the Australian Cyber Security Centre, and be alert to opportunistic scam emails or texts impersonating Coles while the news is fresh.",
+    "concepts": [
+     {
+      "term": "cybersecurity incident",
+      "definition": "Any event where someone tries to break into, disrupt or steal from an organisation's computer systems.",
+      "context": "Coles told the stock exchange it is investigating one that happened over the weekend."
+     },
+     {
+      "term": "Australian Cyber Security Centre",
+      "definition": "The federal government body that helps Australian organisations prevent and respond to cyber threats.",
+      "context": "Coles says it is working with this agency to investigate the incident."
+     },
+     {
+      "term": "Flybuys",
+      "definition": "Coles' customer loyalty rewards program that tracks points on purchases.",
+      "context": "Coles said it has no indication these accounts have been impacted."
+     }
+    ],
+    "quiz": {
+     "question": "Based on Coles' statements, what is the accurate description of the situation?",
+     "options": [
+      "Coles has found no evidence of compromised data but is still investigating",
+      "Customer data has definitely been stolen and sold online",
+      "All online shopping has been shut down",
+      "Coles has confirmed its systems are completely unaffected"
+     ],
+     "answer_index": 0,
+     "explanation": "Coles says it has not identified any evidence that customer, team or supplier data was compromised or removed, but the investigation is ongoing and operations continue as normal."
+    },
+    "background_beginner": "Coles is one of Australia's largest supermarket chains, serving millions of shoppers through its stores and online, along with brands like Liquorland and the Flybuys rewards program. On Monday it revealed it was investigating a \"cybersecurity incident\" — essentially a possible break-in to its computer systems — detected over the weekend. It's working with the Australian Cyber Security Centre, a government body that helps organisations handle cyber threats. Big companies holding lots of customer data are frequent targets, and such attacks keep making headlines because a single breach can expose many people's personal details. So far Coles says it has found no evidence any data was stolen, but it's urging customers to stay alert to scams.",
+    "impact_score": 58,
+    "image_url": "https://i.guim.co.uk/img/media/5d6841423c15f03bccc940dc248768d8adba7384/780_0_6827_5464/master/6827.jpg?width=1920&quality=85&auto=format&fit=max&s=dcba3539d97b272112f83deff68e3917",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Coles says it's investigating a cybersecurity incident and so far has found no evidence that customer, staff or supplier data has been stolen.",
+    "tier": "LOCAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-16T01:24:44.349940+00:00",
+    "published_date": "2026-11-16",
     "has_fulltext": true
    },
    {
@@ -740,6 +802,86 @@
    }
   ],
   "MIDDLE_EAST_AFRICA": [
+   {
+    "id": "6cf8f94b-6ca3-5741-8bac-ccbb7e676aaf",
+    "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+    "simplified_title": "DR Congo Ebola Outbreak Still Not Under Control, Africa CDC Warns",
+    "quick_summary": "Six months on, the Democratic Republic of the Congo's Ebola outbreak has killed more than 5,500 people and remains out of control, with health officials warning it could become the worst the world has seen.",
+    "simplified_body": "Africa's top health agency says an Ebola outbreak in the Democratic Republic of the Congo (DRC) is \"still not under control\" six months after it was declared on 15 May. More than 11,200 cases and 5,500 deaths have been recorded, making it the second-largest and second-deadliest Ebola outbreak ever, behind only the 2014–2016 West African epidemic. The Africa Centres for Disease Control and Prevention (Africa CDC) warns that if it isn't stopped soon, it could become the worst the world has seen.\n\nThe crisis hits already vulnerable communities hard. Eight of DRC's 26 provinces are affected, with North Kivu the epicentre. More than 80 percent of new cases emerge outside known contact lists, and over 65 percent of deaths happen in the community rather than in health centres. Delayed detection, armed conflict, strained services and deep public mistrust are all speeding the spread. One survivor, Dr Raymond Kamwanga, now campaigns to prove the disease is real — and says he receives death threats for it.\n\nThis outbreak is caused by the rare Bundibugyo strain of Ebola, which triggers haemorrhagic fever and kills about half of those infected. Crucially, there's no approved vaccine or treatment for this strain, so doctors can only manage symptoms. The virus spreads through contact with infected bodily fluids.\n\nOf $2.9bn pledged by donors, only $1.3bn has been released, and Africa CDC's Jean Kaseya called the poor coordination \"a collective failure\". The World Health Organization (WHO) has approved clinical trials of two new Ebola vaccines, with results expected in early 2027. At least 3,000 people have already recovered.",
+    "why_it_matters": "An uncontained outbreak of a vaccine-less Ebola strain with the widest geographic spread ever recorded on the African continent is a global health concern — and in our connected world, no country, Australia included, is fully insulated from a disease that crosses borders.",
+    "deep_analysis": "## Historical Context\n\nEbola virus disease first emerged in central Africa in the 1970s and has since caused periodic, deadly outbreaks. The worst on record was the 2014–2016 West African epidemic, which infected more than 28,600 people and killed over 11,000. The current DRC outbreak, declared in May and caused by the rare Bundibugyo strain, is now the second-largest and second-deadliest ever, with more than 11,200 cases and 5,500 deaths. What sets it apart is its geographic reach — cases have appeared in East, Central and West Africa, the widest spread of any Ebola outbreak on the continent to date.\n\n## Multiple Perspectives\n\nAfrica CDC frames the situation as a shared failure, with director-general Jean Kaseya stressing that coordination between the DRC and donors has broken down and that less than half the pledged funding has been released. He's careful not to \"point fingers\". On the ground, survivor Dr Raymond Kamwanga and the medical charity Médecins Sans Frontières (MSF) go further, alleging that Ebola funds are being misappropriated by the government, leaving health workers short of protective equipment and unpaid for months. Within affected communities, perspectives are more fraught still: some residents doubt Ebola exists, view awareness campaigns as profiteering, or interpret the disease through the lens of years of war. The WHO strikes a more hopeful note, pointing to slowing transmission in early epicentres and advancing vaccine trials.\n\n## What to Watch\n\nKey things to track: whether transmission keeps slowing or the outbreak expands further geographically; whether the remaining pledged funding is released and reaches frontline workers; and the results of the WHO-approved vaccine trials, including the Tumaini trial, expected in early 2027. Community trust — or the lack of it — will likely determine whether containment efforts succeed.",
+    "concepts": [
+     {
+      "term": "Bundibugyo strain",
+      "definition": "A rare species of the Ebola virus that causes haemorrhagic fever and kills roughly half of those it infects; there is no approved vaccine or treatment specifically for it.",
+      "context": "This outbreak is caused by the Bundibugyo strain rather than the more common Zaire strain that earlier vaccines target."
+     },
+     {
+      "term": "haemorrhagic fever",
+      "definition": "A severe illness that can damage blood vessels and cause internal and external bleeding, along with organ failure.",
+      "context": "Ebola is a haemorrhagic fever, and the bleeding and fluid loss it causes make it so deadly."
+     },
+     {
+      "term": "contact lists",
+      "definition": "Records of people known to have been near an infected patient, used by health teams to trace and monitor possible new cases.",
+      "context": "When most new cases appear outside contact lists, it means the virus is spreading undetected and is far harder to contain."
+     },
+     {
+      "term": "Africa Centres for Disease Control and Prevention (Africa CDC)",
+      "definition": "Africa's continental public health agency, which coordinates responses to disease outbreaks across member states.",
+      "context": "Africa CDC declared the outbreak still not under control and is working with Kinshasa on the response."
+     }
+    ],
+    "quiz": {
+     "question": "Why is this particular Ebola outbreak proving especially hard to contain?",
+     "options": [
+      "There is no approved vaccine or treatment for the Bundibugyo strain, and most cases are spreading undetected in communities",
+      "A new vaccine made the virus resistant to treatment",
+      "The outbreak is confined to a single isolated village",
+      "Donors have refused to pledge any money at all"
+     ],
+     "answer_index": 0,
+     "explanation": "The outbreak is caused by the Bundibugyo strain, which has no approved vaccine or treatment, and more than 80 percent of new cases emerge outside contact lists — meaning the virus is spreading undetected. Donors did pledge $2.9bn, though only $1.3bn has been released."
+    },
+    "background_beginner": "Ebola is a dangerous virus that spreads through infected bodily fluids and can cause severe bleeding. It has flared up repeatedly in central and west Africa since the 1970s. The current outbreak is in the Democratic Republic of the Congo (DRC), a large central African country that has endured years of armed conflict, which strains its health system and fuels mistrust. The main players are the Congolese government, the Africa CDC (the continent's health agency), the World Health Organization, and charities like Médecins Sans Frontières. It keeps coming up because this strain has no vaccine, the region is unstable, and funding and trust are both in short supply.",
+    "impact_score": 72,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9fc48bf805-1794767944.jpg?resize=1920%2C1440",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Six months on, the Democratic Republic of the Congo's Ebola outbreak has killed more than 5,500 people and remains out of control, with health officials warning it could become the worst the world has seen.",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "357ebcac-4d16-58b5-9d08-dd0ce6d96cb1",
+     "643fd0d4-9200-5e54-a612-85f2fed71370",
+     "70d34521-69c9-53a9-ad61-3f1b49381bd0",
+     "8bdf5b74-a956-50e1-b9e6-20149ed1eef9",
+     "920de58d-374c-5da9-baa1-d152afa9a420",
+     "92ca781c-1833-5213-be81-c8ef25a1a957",
+     "b919f1d2-2f4a-50c5-86c0-99ec7cb994b3",
+     "bdd1fcc9-b9b6-5f61-be45-37faf09060d7",
+     "cdd5a429-7768-5880-a9e2-e476e449d89c",
+     "e61a7066-899c-5fb7-a4bc-d09fc0db5d44",
+     "e7784c73-91ca-5926-a3c8-70bbbc84035f",
+     "fb15646b-0dc3-51ce-a492-c32758b51f8f"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-16T01:24:48.269051+00:00",
+    "published_date": "2026-11-16",
+    "has_fulltext": true
+   },
    {
     "id": "413d5b31-4022-5db0-b7b0-709a7558fc15",
     "title": "Iran launches drone attacks against US military base in Bahrain",
@@ -1815,5 +1957,5 @@
    }
   ]
  },
- "total_stories": 27
+ "total_stories": 29
 }
