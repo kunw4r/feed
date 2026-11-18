@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-17T19:23:04.070119+00:00",
+ "generated_at": "2026-11-18T01:23:04.519563+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -1207,6 +1207,69 @@
     "has_fulltext": true
    },
    {
+    "id": "42fbce44-4d41-58b6-86ec-7e3dfc7564d3",
+    "title": "Deutsche Bank under fire after internal documents about shady business deals made public",
+    "simplified_title": "Leaked Files Put Deutsche Bank's Shady Deals Back in Spotlight",
+    "quick_summary": "A huge leak of internal documents has exposed Deutsche Bank's dealings with Jeffrey Epstein, Donald Trump, Russian oligarchs and more, reigniting questions about whether the bank has truly cleaned up its act.",
+    "simplified_body": "On Tuesday, a group of more than 200 investigative journalists published internal Deutsche Bank documents under the banner \"Inside Deutsche Bank\". The files — drawn from nearly 15 million leaked documents and run in outlets like Der Spiegel, the Financial Times, Le Monde and The New York Times — detail the German lender's dealings with convicted sex offender Jeffrey Epstein, now US President Donald Trump, and numerous Russian oligarchs. They show the bank chasing business in Russia right up until Moscow's full-scale invasion of Ukraine in 2022, despite warnings from its own managers.\n\nThis matters for anyone who worries about how big banks handle dirty money. The documents cover 20 years of deals and suggest Deutsche Bank repeatedly put profit ahead of international sanctions and anti-money laundering rules. Other red flags include alleged tax-optimisation schemes for the wealthy, possible channels for criminal cash, arms deals, and holding funds for the far-right Alternative for Germany (AfD) party.\n\nFor background: Deutsche Bank has been trying to repair its image since its role in the US subprime mortgage scandal helped trigger the 2008 global financial crisis — which eventually cost it more than €20 billion in penalties. CEO Christian Sewing, who took over in 2018 and took part in the bank's Russia strategy working group, promised a turnaround and made the bank profitable again, though through heavy job cuts and with some compliance failings continuing.\n\nThe bank calls the revelations old \"legacy\" matters with no lasting financial impact. But German Finance Minister and Vice Chancellor Lars Klingbeil has demanded \"full transparency\" and said authorities must investigate and take action where needed. The bank's shares fell by up to 6% on Tuesday.",
+    "why_it_matters": "When one of the world's biggest lenders is accused of putting profit ahead of sanctions and anti-money laundering rules, it raises hard questions about how well global finance polices itself — the same system Australian banks and regulators are plugged into.",
+    "deep_analysis": "## Historical Context\n\nDeutsche Bank's troubles aren't new. The bank played a role in the US subprime mortgage scandal that helped trigger the 2008 global financial crisis, an episode that ultimately cost it more than €20 billion in penalties and settlements. When Christian Sewing took over in 2018, he promised to turn the institution around. He succeeded in making it profitable again — but at the cost of massive job cuts, and, according to the reports, some compliance failings continued. This latest leak, spanning the past 20 years of dealings, lands on top of that long record of attempts to restore the bank's reputation.\n\n## Multiple Perspectives\n\nThe journalists behind \"Inside Deutsche Bank\" argue the files show a pattern of putting financial interests before sanctions compliance and anti-money laundering rules, with red flags around Epstein, Trump, Russian oligarchs, arms deals, tax schemes and funds held for the AfD. Deutsche Bank pushes back hard, calling the material \"legacy\" news and insisting it has long since turned over a new leaf; Supervisory Board Chairman Alexander Wynaendts said he hadn't seen a single Sewing decision he was uncomfortable with. Sewing himself struck a more reflective note to Handelsblatt, admitting \"I am not without mistakes\" while maintaining his overall course was right. The German government, via Vice Chancellor Lars Klingbeil, sits in between — demanding full transparency and leaving the door open to formal investigation.\n\n## What to Watch\n\nWatch whether Klingbeil's call for authorities to \"take necessary action\" turns into an actual investigation, and how regulators respond. Keep an eye on the share price after Tuesday's drop of up to 6%, and on whether the bank's \"legacy matters\" framing holds up as journalists keep publishing from the nearly 15 million leaked documents. The bank's ongoing Russian presence — more than 160 staff and €61 million in 2025 pre-tax profit there — is another thread likely to draw scrutiny.",
+    "concepts": [
+     {
+      "term": "anti-money laundering rules",
+      "definition": "Laws and checks banks must follow to stop criminals from disguising illegally obtained money as legitimate funds.",
+      "context": "The leaked files suggest Deutsche Bank repeatedly put profit ahead of these rules."
+     },
+     {
+      "term": "oligarchs",
+      "definition": "A small group of extremely wealthy and politically influential business people, a term often used for powerful Russian billionaires.",
+      "context": "The documents detail the bank's dealings with numerous Russian oligarchs up to the 2022 invasion of Ukraine."
+     },
+     {
+      "term": "sanctions",
+      "definition": "Penalties or restrictions one country or group imposes on another to pressure it, often banning trade or financial dealings.",
+      "context": "The reports claim the bank put financial interests ahead of international sanctions compliance."
+     },
+     {
+      "term": "tax-optimisation schemes",
+      "definition": "Arrangements designed to legally minimise how much tax someone pays, which can shade into aggressive or questionable practices.",
+      "context": "The files suggest the bank set up such schemes for wealthy clients."
+     }
+    ],
+    "quiz": {
+     "question": "What is the main reason this leak has reignited criticism of Deutsche Bank?",
+     "options": [
+      "It revealed the bank is about to collapse financially",
+      "It proved the bank had no dealings with Russia at all",
+      "It suggests the bank repeatedly prioritised profit over sanctions and anti-money laundering rules",
+      "It showed the bank had already paid all its penalties from 2008"
+     ],
+     "answer_index": 2,
+     "explanation": "The documents, spanning 20 years, raise questions about internal controls by showing the bank repeatedly put financial interests ahead of sanctions compliance and anti-money laundering rules."
+    },
+    "background_beginner": "Deutsche Bank is Germany's largest bank and one of the biggest lenders in the world, so its behaviour affects the global financial system. It has a long history of scandals, including a role in the 2008 global financial crisis that cost it more than €20 billion in fines. This week, a group of over 200 investigative journalists published leaked internal documents — called \"Inside Deutsche Bank\" — exposing its dealings with Jeffrey Epstein, Donald Trump, Russian oligarchs and others. The story keeps coming up because the bank insists it has reformed, while critics argue these files show it kept putting profit ahead of the rules meant to stop dirty money.",
+    "impact_score": 68,
+    "image_url": "https://static.dw.com/image/79973721_6.jpg",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "A huge leak of internal documents has exposed Deutsche Bank's dealings with Jeffrey Epstein, Donald Trump, Russian oligarchs and more, reigniting questions about whether the bank has truly cleaned up its act.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/deutsche-bank-under-fire-after-internal-documents-made-public/a-79974543?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-18T01:25:32.563732+00:00",
+    "published_date": "2026-11-18",
+    "has_fulltext": true
+   },
+   {
     "id": "73bfcf03-93c6-577e-b99d-0de921d5e328",
     "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
     "simplified_title": "Anthropic Float Could Mint Thousands of AI Millionaires",
@@ -1879,5 +1942,5 @@
    }
   ]
  },
- "total_stories": 28
+ "total_stories": 29
 }
