@@ -1,71 +1,8 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T01:23:04.519563+00:00",
+ "generated_at": "2026-11-18T07:23:04.344631+00:00",
  "regions": {
   "OCEANIA": [
-   {
-    "id": "7d644678-236b-5837-9671-e77b1c83084f",
-    "title": "New warning about antibiotic resistance as world 'looks off cliff'",
-    "simplified_title": "Doctors warn antibiotic resistance could kill 39 million by 2050",
-    "quick_summary": "Australia's peak doctors' body warns that rising antibiotic resistance is outpacing the national response and could undermine the foundations of modern medicine.",
-    "simplified_body": "The Australian Medical Association (AMA), the peak body for Australian doctors, has released a report warning that antimicrobial resistance is rising faster than the country can respond. Reports of critical resistance in Australia jumped more than 25 per cent in 2024 alone, and if current trends hold, antimicrobial resistance could cause 39 million deaths globally by 2050 — more than the total projected for all cancers.\n\nThis affects nearly everyone. Antimicrobial resistance happens when bacteria, viruses, fungi and parasites adapt to the medicines meant to treat them, most often antibiotics. When those drugs stop working, routine procedures we take for granted — joint replacements, cancer treatment, caesarean sections — become much riskier. In 2020, more than 1,000 Australians died from infections caused by just five common resistant bacteria.\n\nFor background: antimicrobial stewardship means specialised programs that promote responsible use of these medicines. It has cut overall antibiotic use by about 21 per cent over the past decade, though prescribing has risen in aged care. Molecular biologist Amy Cain says only a \"handful\" of new antibiotics are in the global pipeline, partly because drug companies see little profit in them. The AMA also criticised letting pharmacies prescribe antibiotics for urinary tract infections, noting E. coli has developed resistance to one such drug, Trimethoprim.\n\nThe AMA wants coordinated government action and proper funding to scale up stewardship across hospitals, aged care, agriculture and the environment. Dr Cain wants Australia to follow the European Union and ban antibiotics in animal feed. Australia's surveillance program, AURA, received more than $22 million in funding in 2024.",
-    "why_it_matters": "If common antibiotics fail, everyday Australian medical care — from hospital surgery to childbirth — gets far more dangerous, and doctors say the country's response isn't keeping pace with the threat.",
-    "deep_analysis": "## Historical Context\n\nAntibiotics have underpinned modern medicine since their widespread use began in the mid-20th century, making once-deadly infections routinely treatable and enabling major surgery, cancer treatment and childbirth to become far safer. But bacteria and other microbes naturally evolve to survive the drugs used against them, and overuse speeds that process up. The World Health Organization (WHO) warned last year that resistance to essential antibiotics was \"widespread, increasing and unevenly distributed\", and the US Centers for Disease Control and Prevention (CDC) estimated last month that drug-resistant germs cause around 50,800 deaths in the United States each year. The new AMA report places Australia within that global picture.\n\n## Multiple Perspectives\n\nThe AMA, led by president Michael Bonning, frames this as a crisis of implementation — \"we know what needs to be done\" — and calls for coordinated government action and investment. It also argues against pharmacy prescribing of antibiotics for urinary tract infections, citing resistance to Trimethoprim. The Pharmacy Guild of Australia pushes back hard, saying pharmacists follow the same therapeutic guidelines as doctors and dismissing the criticism as \"scaremongering and old turf wars\". Researcher Amy Cain adds a different angle: the real bottleneck is a drying-up drug pipeline, with pharmaceutical companies unmotivated because new antibiotics aren't profitable, leaving academics and small outfits to carry the load. She also stresses the link between human, animal and environmental health.\n\n## What to Watch\n\nWatch whether governments convert existing plans into funded action, as the AMA demands. Key signposts include scaling up stewardship into aged care, where prescribing has risen; the future of pharmacy prescribing programs; and whether Australia follows the EU in banning antibiotics in animal feed. The continued funding and findings of the AURA surveillance program will show whether resistance trends are being tracked — and bent — in time.",
-    "concepts": [
-     {
-      "term": "Antimicrobial resistance",
-      "definition": "When bacteria, viruses, fungi and parasites adapt to the medicines designed to treat them, making infections harder or impossible to cure.",
-      "context": "The article calls it one of the greatest global health threats, projected to kill 39 million people by 2050."
-     },
-     {
-      "term": "antimicrobial stewardship",
-      "definition": "Specialised programs that promote the responsible, careful use of antimicrobial medicines across the health system.",
-      "context": "It has reduced overall antibiotic use in Australia by about 21 per cent over the past decade."
-     },
-     {
-      "term": "Trimethoprim",
-      "definition": "An antibiotic used to treat infections such as urinary tract infections, available through some pharmacy prescribing programs.",
-      "context": "The AMA notes E. coli has developed resistance to it, questioning pharmacy prescribing."
-     },
-     {
-      "term": "AURA",
-      "definition": "Australia's antimicrobial surveillance program, which analyses community data to track resistant infections and antibiotic use.",
-      "context": "It received more than $22 million in funding in 2024."
-     }
-    ],
-    "quiz": {
-     "question": "Why does the article say drug companies are reluctant to develop new antibiotics?",
-     "options": [
-      "They don't stand to make significant financial gains from them",
-      "There are no scientists left to do the work",
-      "New antibiotics are too easy for bacteria to resist",
-      "Governments have banned new antibiotic research"
-     ],
-     "answer_index": 0,
-     "explanation": "Dr Amy Cain says pharmaceutical companies are unmotivated because they don't stand to make significant financial gains from new antibiotics, leaving academics and small research organisations to carry the load."
-    },
-    "background_beginner": "Antibiotics are medicines that kill bacteria and cure infections — they're one of the biggest reasons modern surgery and cancer care are safe. The problem is that germs gradually evolve to survive these drugs, a process called antimicrobial resistance. The more antibiotics we use, the faster this happens. Health bodies worldwide, including the World Health Organization, have been sounding the alarm for years. In Australia, the main players include the Australian Medical Association (the peak doctors' group), pharmacists, and researchers hunting for new drugs. It keeps coming up because resistance is still rising, few new antibiotics are being made, and without action, once-treatable infections could again become deadly.",
-    "impact_score": 78,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/18e74a3ac73818a4cbae21473048a68b?impolicy=wcms_watermark_news&cropH=2322&cropW=4128&xPos=0&yPos=387&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Australia's peak doctors' body warns that rising antibiotic resistance is outpacing the national response and could undermine the foundations of modern medicine.",
-    "tier": "LOCAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-17/doctors-warn-of-rising-antimicrobial-resistance/107389636"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-16T19:25:43.714596+00:00",
-    "published_date": "2026-11-17",
-    "has_fulltext": true
-   },
    {
     "id": "e3da79e7-f8bd-5697-ab53-f2286824deab",
     "title": "Chris Bowen launches bold climate agenda at COP31",
@@ -131,6 +68,136 @@
     "reading_minutes": 4,
     "created_at": "2026-11-17T01:26:10.309804+00:00",
     "published_date": "2026-11-17",
+    "has_fulltext": true
+   },
+   {
+    "id": "63d46a98-da00-5a9d-8288-089038be353d",
+    "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+    "simplified_title": "Aussie Wages Grow Fastest Since 2023, But Prices Rise Faster",
+    "quick_summary": "Australian wages rose 3.5% over the year to September — the quickest pace since late 2023 — but that still wasn't enough to keep up with inflation.",
+    "simplified_body": "The Australian Bureau of Statistics (ABS) reported that its wage price index (WPI) — a measure of what employers pay for a given job — rose 1.1% in the September quarter, lifting the annual increase to 3.5%. A big driver was this year's boost to minimum and award pay: the Fair Work Commission gave a 6% rise to about 100,000 of the lowest-paid workers in early June, and a 4.75% rise to 2.7 million people on award wages.\n\nThis affects pretty much every working Australian and anyone watching the cost of living. Even though pay is climbing about a percentage point faster each year than before the pandemic, prices are rising even quicker, so \"real\" (after-inflation) wages are still going backwards. Public sector pay grew fastest at 3.9% annually — driven by state frontline workers like nurses, midwives and police — while private sector wages rose 3.4%.\n\nFor background, the Reserve Bank of Australia (RBA) lifts interest rates to cool inflation, and it watches wage growth closely because fast pay rises can feed price rises. It has already delivered five rate hikes between February and November this year. Treasurer Jim Chalmers credited the government's support for the minimum pay rise, while opposition leader Angus Taylor said \"Australians are poorer under Labor\".\n\nAnalysts said wages grew faster than the RBA expected, adding slightly to the case for a sixth rate hike. But EY's Cherelle Murphy said a move is unlikely at the RBA's final meeting of the year on 7–8 December, expecting the bank to stay in \"wait-and-see mode\" as the economy slows.",
+    "why_it_matters": "For Australian households, this is the squeeze in a nutshell — pay packets are finally growing faster, but your money still buys less because prices are outrunning wages, and it keeps the RBA weighing yet another rate hike.",
+    "deep_analysis": "## Historical Context\n\nWage growth in Australia was notably sluggish through the 2010s, and the article notes that trend of weak real income gains has largely continued. The pandemic distorted the picture: measures of real average hourly labour income were artificially boosted during that period before settling back. Since the start of 2020, the wage price index is actually down 4.4% in real terms, underlining how inflation has eaten into pay even as headline wage figures tick up. This September quarter result — the fastest pace since late 2023 — sits against that backdrop of a long, grinding stretch of weak real wage growth.\n\n## Multiple Perspectives\n\nTreasurer Jim Chalmers framed the figures positively, crediting the government's backing of the minimum pay rise and arguing that real wages are declining because inflation is too high, not because wages are too low. Opposition leader Angus Taylor countered that \"Australians are working harder for less\" and are \"poorer under Labor\". Economists added nuance: analysts said the figures strengthened, if only marginally, the case for a sixth rate hike, while EY's Cherelle Murphy called the number \"uncomfortably high\" but doubted an immediate RBA response. University of Melbourne economist Jeff Borland cautioned that the WPI measures labour cost to employers, not actual worker incomes — and by a broader measure, things look less dire, though still not \"gangbusters\".\n\n## What to Watch\n\nThe key near-term event is the RBA's final board meeting of the year on 7–8 December, where the bank will decide whether to add a sixth rate hike to the five already delivered this year. Watch whether the \"uncomfortably high\" wage figure tips the balance or whether a slowing economy keeps the bank in wait-and-see mode. Beyond that, the gap between wage growth and inflation — the real wage story — remains the number that matters most for household budgets.",
+    "concepts": [
+     {
+      "term": "wage price index",
+      "definition": "An ABS measure of how much employers pay for the same job over time, stripping out changes caused by people switching roles or working more hours.",
+      "context": "Economists use it to gauge inflationary pressure in the labour market, though it doesn't capture workers' actual take-home incomes."
+     },
+     {
+      "term": "award wages",
+      "definition": "Legally set minimum pay rates for particular industries or occupations, decided by the Fair Work Commission.",
+      "context": "This year's 4.75% rise to award wages lifted pay for 2.7 million Australian workers."
+     },
+     {
+      "term": "real wages",
+      "definition": "Wages adjusted for inflation — what your pay can actually buy after accounting for rising prices.",
+      "context": "Even though nominal wages rose, real wages fell because inflation outpaced pay growth."
+     },
+     {
+      "term": "Reserve Bank of Australia",
+      "definition": "Australia's central bank, which sets the official interest rate to manage inflation and the economy.",
+      "context": "It watches wage growth closely because fast pay rises can feed into higher prices."
+     }
+    ],
+    "quiz": {
+     "question": "Why are Australians' real wages still declining even though wage growth hit its fastest pace since 2023?",
+     "options": [
+      "Because the government cut minimum pay rates",
+      "Because public sector pay fell sharply",
+      "Because the RBA cut interest rates five times",
+      "Because prices (inflation) are rising even faster than wages"
+     ],
+     "answer_index": 3,
+     "explanation": "The article explains real wages are falling not because wages are too low but because inflation is rising even more quickly than pay, so money buys less."
+    },
+    "background_beginner": "In Australia, wages, prices and interest rates are tightly linked. The Australian Bureau of Statistics (ABS) tracks how fast pay is rising, while the Fair Work Commission sets minimum and award wages for millions of lower-paid workers. The Reserve Bank of Australia (RBA) sets interest rates and lifts them to slow inflation — it has raised rates five times this year. Politically, the Labor government (Treasurer Jim Chalmers) and the opposition (leader Angus Taylor) clash over who's to blame for the cost-of-living squeeze. This keeps coming up because, even when pay rises, prices often rise faster, so households feel worse off — a tension that drives both economic policy and political debate.",
+    "impact_score": 68,
+    "image_url": "https://i.guim.co.uk/img/media/7ebf7b78f27fb886cb74a082d7f78b3e80603115/584_0_5840_4672/master/5840.jpg?width=1920&quality=85&auto=format&fit=max&s=8b2c76eebcdc9d14e8297886cf652e0b",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Australian wages rose 3.5% over the year to September — the quickest pace since late 2023 — but that still wasn't enough to keep up with inflation.",
+    "tier": "LOCAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-18T07:26:40.787508+00:00",
+    "published_date": "2026-11-18",
+    "has_fulltext": true
+   },
+   {
+    "id": "2dedf00d-6cfd-5b29-b42e-b85eec414e54",
+    "title": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
+    "simplified_title": "One Nation Plan Would Slash Refugee Intake by 90 Per Cent",
+    "quick_summary": "One Nation has announced a plan to cut Australia's yearly refugee intake from 20,000 to 2,000 and scrap the permanent parent visa program, drawing sharp criticism from political opponents and refugee advocates.",
+    "simplified_body": "Pauline Hanson's One Nation has unveiled what it calls a \"tough love\" migration plan. The party would cut Australia's refugee intake by 90 per cent — from 20,000 places a year down to 2,000 — and scrap the permanent parent visa program, which lets migrants bring their parents to live here. Hanson argues the cost to taxpayers is too high and claims the changes would save the budget billions over a decade (the Guardian reports her figure as more than $140bn, while the ABC cites $100 billion). These numbers come from One Nation's own analysis of Treasury data and have not been checked by the independent Parliamentary Budget Office (PBO).\n\nThis affects refugees fleeing war and persecution, plus roughly 157,000 people already queued for parent visas, who'd get their application fee refunded but may have to leave. Home Affairs Minister Tony Burke warns that skilled workers in hospitals and aged care won't come if they can't bring family. Foreign Minister Penny Wong says ending parent visas would be \"very harsh\".\n\nFor background: Australia currently caps parent visas at 8,500 a year, and waits already stretch to 42 years for some categories. The Refugee Council of Australia notes the humanitarian program is only about 6.6 per cent of net overseas migration (the total number of people added to the population through migration), so cutting it would barely dent overall numbers.\n\nLabor has committed to keeping the 20,000 refugee intake; the Coalition promises to halve it to 10,000. With a Victorian state election coming up, expect migration to stay a hot political topic.",
+    "why_it_matters": "Migration and refugee numbers are shaping up as a defining fight across Australian politics, and this plan pushes the debate further to the right just as a Victorian state election looms — forcing the major parties to stake out their own positions on who gets to call Australia home.",
+    "deep_analysis": "## Historical Context\n\nOne Nation has campaigned against immigration for decades, and this announcement builds on a broader plan the party revealed in September for \"net-negative migration\" — cutting 750,000 temporary visa holders over three years before capping annual net overseas migration at 130,000. The party has long wanted Australia to withdraw from the United Nations Refugee Convention and bring back temporary protection visas. Critics describe this latest move, as the Greens' David Shoebridge put it, as \"the latest shameful chapter in a decades-long campaign against people seeking safe shelter\". The backdrop is a government already chasing lower migration, having recently wound back planned cuts to the backpacker intake after farming, hospitality and tourism sectors objected.\n\n## Multiple Perspectives\n\nHanson frames this as prioritising Australians who are \"doing it tough\", pointing to aged care bed shortages and taxpayer costs. Labor's Tony Burke counters that it's \"a complete attack on the services Australians rely on\", since skilled migrants won't come without their families. Penny Wong accuses One Nation of trying to divide the country and disputes the claim Australia would stay above the OECD (Organisation for Economic Co-operation and Development) average. Importantly, the OECD figures only count refugees resettled through the UNHCR process — so countries like Germany and the US, which take mostly asylum seekers crossing their borders, appear lower than they really are. Even the Coalition's Angus Taylor pushed back, saying \"some of the greatest Australians came here as refugees.\" Refugee advocates and former refugees like Zaki Haidari call the debate retraumatising and a distraction from real solutions.\n\n## What to Watch\n\nKeep an eye on the costings dispute: One Nation declined to have its numbers verified by the PBO, which has the power to access non-public government data and has costed other parties' long-term policies before. Watch whether the figures gain traction or get picked apart. The upcoming Victorian state election is a near-term test of how voters respond. Longer term, watch whether the major parties shift their own positions in response to One Nation's harder line.",
+    "concepts": [
+     {
+      "term": "parent visa program",
+      "definition": "A scheme letting migrants sponsor their parents to move permanently to Australia; the government caps how many are granted each year.",
+      "context": "One Nation wants to scrap the permanent version, leaving only a sponsored or temporary-visit pathway."
+     },
+     {
+      "term": "Parliamentary Budget Office",
+      "definition": "An independent body that analyses and costs political policies, with access to government data not otherwise public.",
+      "context": "One Nation's savings claims have not been checked by it, and Hanson argued it only costs policies over about a year."
+     },
+     {
+      "term": "net overseas migration",
+      "definition": "The total number of people added to Australia's population through migration over a period, after accounting for those leaving.",
+      "context": "The Refugee Council notes the humanitarian program is only about 6.6 per cent of this figure."
+     },
+     {
+      "term": "OECD",
+      "definition": "The Organisation for Economic Co-operation and Development, a group of mostly wealthy nations used for international comparisons.",
+      "context": "Hanson claims Australia would stay above its average refugee intake per capita, but critics say the figures are misleading."
+     }
+    ],
+    "quiz": {
+     "question": "Why do refugee advocates argue that cutting the humanitarian intake would do little to reduce overall migration?",
+     "options": [
+      "Because refugees mostly leave Australia within a year",
+      "Because parent visas make up most of the migration figure",
+      "Because the OECD requires Australia to maintain its intake",
+      "Because the humanitarian program is only about 6.6 per cent of net overseas migration"
+     ],
+     "answer_index": 3,
+     "explanation": "The Refugee Council of Australia pointed out the humanitarian program accounts for only about 6.6 per cent of net overseas migration, so cutting it would barely affect total migration levels while severely harming people fleeing danger."
+    },
+    "background_beginner": "One Nation is a right-wing minor party led by Senator Pauline Hanson, long known for campaigning to reduce immigration. Australia runs a humanitarian program that resettles a set number of refugees each year (currently 20,000), plus visa schemes that let migrants bring family, including parents. Migration numbers are a recurring flashpoint in Australian politics, especially during cost-of-living pressures and housing shortages, when some politicians link population growth to those problems. The major parties — Labor and the Coalition — and the Greens all hold different positions, so when One Nation proposes dramatic cuts, it reignites a long-running national debate about who Australia should accept and at what cost.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/e0bd685d5212b9d82f949380b0c2a4810b721664/0_0_7910_5274/master/7910.jpg?width=1920&quality=85&auto=format&fit=max&s=1850209a4290422339217ff0a634d88c",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "One Nation has announced a plan to cut Australia's yearly refugee intake from 20,000 to 2,000 and scrap the permanent parent visa program, drawing sharp criticism from political opponents and refugee advocates.",
+    "tier": "LOCAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-18/pauline-hanson-announces-plan-to-cut-refugee-intake-parent-visas/107397374"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-11-18T07:26:20.315109+00:00",
+    "published_date": "2026-11-18",
     "has_fulltext": true
    },
    {
@@ -667,6 +734,69 @@
   ],
   "MIDDLE_EAST_AFRICA": [
    {
+    "id": "881550ab-1d87-5144-99c7-79cc688f1ad1",
+    "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+    "simplified_title": "Watchdog warns Gaza ceasefire could collapse without urgent action",
+    "quick_summary": "A US-backed oversight body has told the UN Security Council that the year-old Gaza ceasefire may collapse unless both Israel and Hamas start honouring the deal they signed.",
+    "simplified_body": "The Board of Peace — a United States-backed body set up in 2025 to oversee the Gaza ceasefire and rebuilding — has handed the United Nations (UN) Security Council a bleak report. Submitted on Tuesday and obtained by The Associated Press, it warns that the truce between Israel and Hamas could be on the brink of collapse unless the 2025 ceasefire deal is actually put into practice. The board says the gap between what was agreed and what is happening on the ground is the single biggest risk.\n\nThis matters for the more than two million Palestinians in Gaza, a narrow coastal strip. Since October 2023, Israel has waged what the article describes as a genocidal war that has killed more than 74,000 Palestinians. The board says Israeli restrictions on supplies and equipment, plus funding shortfalls, have blocked life-saving aid and left people facing \"another winter in tents and rubble\".\n\nThe ceasefire formally began on 10 October 2025, built on a 20-point peace plan first proposed by US President Donald Trump in September 2025. The plan laid out steps for each side and a \"credible pathway\" to Palestinian statehood. But the board says both sides have fallen far short, and that Israel has blocked the technocratic civil administration body meant to run Gaza temporarily, as well as decisions needed to deploy civilian police.\n\nThe board is urging the Security Council to press both sides to deliver. It warns that if the ceasefire collapses, \"there would be no road map to return to\", and insists any outcome must keep a credible path towards Palestinian statehood open.",
+    "why_it_matters": "A collapse would reignite one of the world's deadliest conflicts and worsen a winter humanitarian crisis; Australia, which has backed ceasefire efforts and moved towards recognising Palestinian statehood, has a direct stake in whether this fragile deal holds.",
+    "deep_analysis": "## Historical Context\n\nThe war began in October 2023 and, by the board's count, has killed more than 74,000 Palestinians in Gaza. After roughly two years of fighting, a ceasefire was brokered around a 20-point peace plan that US President Donald Trump first floated in September 2025. The truce formally took effect on 10 October 2025, and the Board of Peace was created the same year, at Trump's behest, to supervise both the ceasefire and the enormous reconstruction job ahead. As background, ceasefires in long, bitter conflicts often falter in the implementation phase — when the hard detail of withdrawals, policing and aid delivery has to be negotiated on the ground rather than on paper.\n\n## Multiple Perspectives\n\nThe board itself takes a pointed line: it blames the gap between the signed deal and reality, singling out Israel for blocking the interim civil administration body and for not deciding on arrangements to train and deploy civilian police. It also stresses that neither party may treat the other's delay as an excuse for its own inaction — language that spreads responsibility across both Israel and Hamas while making clear each has obligations. The report frames Israeli supply restrictions and funding shortfalls as direct causes of the aid crisis. The article does not include responses from the Israeli government or Hamas, so their counter-arguments aren't captured here.\n\n## What to Watch\n\nKey signals: whether the UN Security Council acts on the board's call to pressure both sides; whether Israel makes the decisions needed to let the civil administration and civilian police deploy; and whether aid restrictions ease before winter deepens. The board's warning that collapse would leave \"no road map to return to\" is the central stake — watch for any movement, or further breakdown, in the weeks ahead.",
+    "concepts": [
+     {
+      "term": "Board of Peace",
+      "definition": "A United States-backed body created in 2025 to oversee the Gaza ceasefire deal and the territory's reconstruction.",
+      "context": "Set up at President Trump's behest, it reports to the UN Security Council on how the truce is holding up."
+     },
+     {
+      "term": "ceasefire",
+      "definition": "An agreement between warring sides to stop fighting, often as a step towards a longer peace.",
+      "context": "The Gaza ceasefire formally began on 10 October 2025 but attacks have continued since."
+     },
+     {
+      "term": "technocratic civil administration body",
+      "definition": "A group of non-political experts meant to run Gaza's day-to-day affairs on an interim basis.",
+      "context": "The board says Israel has blocked this body, impeding the peace plan's implementation."
+     },
+     {
+      "term": "Palestinian statehood",
+      "definition": "The goal of establishing an independent, self-governing state for Palestinians.",
+      "context": "The 20-point plan envisioned a credible pathway towards it as the ultimate outcome."
+     }
+    ],
+    "quiz": {
+     "question": "According to the board, what is the principal risk to the Gaza peace process?",
+     "options": [
+      "The gap between what was agreed and what is happening on the ground",
+      "A lack of international funding for reconstruction",
+      "The onset of the winter season",
+      "Disagreement among Security Council members"
+     ],
+     "answer_index": 0,
+     "explanation": "The report explicitly calls the distance between what has been agreed and what is happening on the ground the principal risk, pointing to both sides falling short on their commitments."
+    },
+    "background_beginner": "Gaza is a small, densely populated coastal strip that has been at the centre of a war since October 2023 between Israel and Hamas, the group that governs the territory. The article says the fighting has killed more than 74,000 Palestinians. In 2025, US President Donald Trump proposed a 20-point peace plan, and a ceasefire officially began on 10 October 2025. To supervise the truce and the massive rebuilding effort, the US helped create the Board of Peace. It keeps coming up because the ceasefire is fragile — aid is being blocked, promised arrangements haven't been made, and the board keeps warning the whole deal could fall apart.",
+    "impact_score": 78,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcb93f966d-1794947391.jpg?resize=1920%2C1440",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "A US-backed oversight body has told the UN Security Council that the year-old Gaza ceasefire may collapse unless both Israel and Hamas start honouring the deal they signed.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-18T07:26:08.109276+00:00",
+    "published_date": "2026-11-18",
+    "has_fulltext": true
+   },
+   {
     "id": "cad29bbf-4722-5feb-87b8-780580640433",
     "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
     "simplified_title": "Tankers Hit, Third US Carrier Arrives as Iran Tensions Simmer",
@@ -749,144 +879,139 @@
     "has_fulltext": true
    },
    {
-    "id": "6811232b-d600-5417-ac05-40c7d735f867",
-    "title": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb",
-    "simplified_title": "Houthis Advance on Aden as Yemeni Forces Pull Back",
-    "quick_summary": "Saudi-backed Yemeni forces have retreated from the strategic Bab al-Mandab strait to defend the interim capital Aden, as Iran-aligned Houthi fighters keep gaining ground.",
-    "simplified_body": "Forces loyal to Yemen's internationally recognised government announced on Sunday they were pulling out of Dhubab airport and territory near the Bab al-Mandab strait — a narrow shipping chokepoint linking the Red Sea to the Gulf of Aden. They say the withdrawal is a tactical move to reinforce Aden, their temporary capital, which the Houthis are edging closer to. Houthi-run media say the group has already moved into the abandoned ground. One expert put Houthi forces at Tor al-Baha, roughly 80km (50 miles) from Aden.\n\nThis matters for the millions of Yemenis caught in the fighting. The United Nations (UN) estimates nearly 330,000 people have been displaced since the recent escalation, and a UN human rights spokesperson noted more than 60% of documented civilian casualties since August have been women and children. It also rattles global trade, because Bab al-Mandab has grown more important since the Strait of Hormuz was effectively closed during the US–Israel war on Iran.\n\nYemen's civil war began in 2014 when the Houthis — a Zaidi Shia group close to Iran, also called Ansar Allah — seized the capital Sanaa and pushed the government south. Saudi Arabia led an Arab coalition into the war in 2015. After years of relative calm, fighting reignited in July 2025.\n\nTensions within the anti-Houthi camp are now in the open. The separatist Southern Transitional Council (STC) accused Saudi Arabia of incompetence, while Riyadh sidelined its coalition commander. The Houthis have fired missiles and drones at Saudi cities under a \"siege for siege\" principle, and the government's \"Operation Yemen Dawn\" has ramped up air strikes.",
-    "why_it_matters": "Bab al-Mandab is one of the world's busiest shipping lanes, so instability there pushes up oil prices and freight costs that eventually reach Australian fuel bowsers and shelves.",
-    "deep_analysis": "## Historical Context\n\nYemen's war dates to September 2014, when the Houthis captured Sanaa and forced the government to flee to Aden. Saudi Arabia launched an Arab coalition campaign in March 2015, running thousands of air strikes. A separate layer of complexity is the north–south divide: Yemen was two countries until 1990, and many southerners — represented by the UAE-backed Southern Transitional Council — want their own state again. After a few relatively peaceful years, fighting reignited in July 2025 when government jets bombed Sanaa airport, followed by a September Houthi offensive that took the Red Sea coast including Mocha (also spelt Mokha) and Perim Island.\n\n## Multiple Perspectives\n\nThe three sources broadly agree on the facts but differ in emphasis. The government, via spokesperson Majed al-Nuzaili, frames the pull-back as a planned \"redeployment\" to protect Aden and break the siege on Taiz. Analyst Ali al-Dahab disputes that spin, calling it a genuine retreat that left a \"vast vacuum.\" The STC's Amr al-Bidh blames Saudi \"incompetence\" and poor command and control, arguing Riyadh must recognise a pathway to southern independence or lose the cohesive forces needed to stop the Houthis. The Houthis insist they do not threaten international shipping, only Saudi-linked vessels. Former US envoy Tim Lenderking warns world powers are treating Yemen as a \"sideshow.\"\n\n## What to Watch\n\nWatch whether the Houthis breach Aden's first defensive zone around Tor al-Baha, and whether the besieged city of Taiz holds. Watch Saudi Arabia's new coalition commander, Gen al-Ruwaili, and whether Riyadh softens toward the STC or releases its detained leaders. And watch global shipping and oil markets, given Bab al-Mandab's heightened role while Hormuz stays effectively closed.",
+    "id": "309ec23e-e9f6-5b95-bbeb-37018c946d86",
+    "title": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
+    "simplified_title": "Fresh border clashes stir fears of Ethiopia-Eritrea war",
+    "quick_summary": "Renewed fighting near the Ethiopia-Eritrea border, plus souring ties with Sudan, has analysts worried the Horn of Africa could tip into a wider regional war.",
+    "simplified_body": "Fighters allied with the Tigray People's Liberation Front (TPLF) launched an offensive on 23 September aiming to topple Ethiopia's government. Since then the Ethiopian National Defense Forces (ENDF), backed by pro-government militia, have steadily pushed the Tigrayan fighters back towards the border with Eritrea. According to the conflict monitor ACLED, the ENDF has fired heavy artillery near the Eritrean border town of Badme, and skirmishes have been reported in several spots.\n\nThis matters because Badme is where the 1998-2000 Eritrean-Ethiopian War began. That war ended with the Algiers Agreement, and an independent boundary commission awarded Badme to Eritrea — a ruling Ethiopia has since challenged. Analysts say reclaiming the town could help Prime Minister Abiy Ahmed win over Tigrayans now backing the federal government.\n\nAlliances in the region keep flipping. During the 2020-22 Tigray conflict, Eritrea and Ethiopia fought together against the Tigrayans; now Eritrea has swung towards the TPLF, and in October the two neighbours cut diplomatic ties. Abiy has also called Ethiopia's lack of sea access — it became the world's largest landlocked country by population after Eritrea seceded in 1993 — an \"existential\" threat, and hinted he could seize the port of Assab by force. Meanwhile ties with Sudan, strained over the Grand Renaissance Dam (GERD), have worsened as Sudan's own civil war drags on.\n\nAnalysts told DW that open war isn't the most likely path right now. The International Crisis Group's Magnus Taylor expects continued \"proxy style\" meddling in each other's opposition groups rather than armies clashing directly — but warns that if Ethiopia pushes to fully control Tigray, direct conflict with Eritrea becomes a real risk.",
+    "why_it_matters": "A full-blown war in the Horn of Africa would destabilise a major shipping region near the Red Sea, deepen one of the world's worst humanitarian crises, and add fresh pressure to global trade routes Australia relies on.",
+    "deep_analysis": "## Historical Context\n\nThe Horn of Africa has a long, tangled history of shifting enmities. Eritrea seceded from Ethiopia in 1993, and just five years later the two fought a brutal border war (1998-2000) that began at Badme. The Algiers Agreement and a boundary commission awarded Badme to Eritrea, but the dispute never fully settled. More recently, the 2020-22 Tigray conflict saw Ethiopia and Eritrea fighting side by side against the TPLF — yet those alliances have now reversed, with Eritrea drifting towards the very Tigrayan forces it once opposed. Layered on top is the long-running row over the Grand Renaissance Dam on the Blue Nile, which has unsettled downstream Sudan and Egypt for years.\n\n## Multiple Perspectives\n\nAnalysts quoted by DW read the situation differently. Abdurahman Sayed of the Horn of Africa Center suggests Ethiopia may want to reclaim Badme partly to win over Tigrayans now aligned with Abiy's government. The International Crisis Group's Magnus Taylor frames the border push more as Ethiopia consolidating control of Tigray and cutting Eritrean supply lines to Tigrayan fighters — though he concedes that could still spill into direct war. On Sudan, both experts expect proxy involvement to continue rather than open army-to-army fighting, at least for now. Ethiopia's government, for its part, rejects claims it would weaponise the GERD against neighbours.\n\n## What to Watch\n\nKeep an eye on whether Ethiopian forces cross or hold positions right at the Eritrean border, especially around Badme and the port of Assab that Abiy has eyed. Watch for any formal shift from proxy backing to direct Ethiopian or Sudanese military involvement, and for further diplomatic breakdowns after October's severing of Ethiopia-Eritrea ties.",
     "concepts": [
      {
-      "term": "Bab al-Mandab",
-      "definition": "A narrow sea passage at the southern end of the Red Sea, connecting it to the Gulf of Aden and used by a large share of the world's shipping.",
-      "context": "Yemeni forces withdrew from territory near this strait, giving the Houthis control of a key maritime chokepoint."
+      "term": "Algiers Agreement",
+      "definition": "The 2000 deal that ended the Eritrean-Ethiopian War, under which both countries agreed to accept the rulings of a boundary commission.",
+      "context": "The commission awarded Badme to Eritrea, a decision Ethiopia has since challenged."
      },
      {
-      "term": "Houthi",
-      "definition": "A Zaidi Shia armed movement from northern Yemen, aligned with Iran and also known as Ansar Allah.",
-      "context": "Houthi forces are advancing on Aden after seizing much of Yemen's Red Sea coast."
+      "term": "landlocked",
+      "definition": "Having no direct access to the sea or ocean, so all trade must pass through neighbouring countries.",
+      "context": "Ethiopia became the world's largest landlocked country by population when Eritrea seceded in 1993."
      },
      {
-      "term": "Southern Transitional Council (STC)",
-      "definition": "A United Arab Emirates-backed separatist group that wants southern Yemen to become an independent state.",
-      "context": "The STC accused Saudi Arabia of incompetence and demanded recognition of a path to southern independence."
-     },
-     {
-      "term": "Aden",
-      "definition": "A southern port city serving as the interim capital of Yemen's internationally recognised government.",
-      "context": "Troops retreated from Bab al-Mandab specifically to reinforce the defence of Aden."
+      "term": "Grand Renaissance Dam (GERD)",
+      "definition": "A massive Ethiopian hydroelectric dam on the Blue Nile that gives Ethiopia leverage over downstream water flows.",
+      "context": "The dam has put Sudan and Egypt on edge over water security for years."
      }
     ],
     "quiz": {
-     "question": "Why did Bab al-Mandab become more strategically important recently?",
+     "question": "Why is the small town of Badme so significant in this conflict?",
      "options": [
-      "Because the Houthis built a new port there",
-      "Because Saudi Arabia stopped exporting oil entirely",
-      "Because the Suez Canal was permanently shut down",
-      "Because the Strait of Hormuz was effectively closed during the US–Israel war on Iran, pushing more trade through it"
+      "It is where the Grand Renaissance Dam is located",
+      "It was the flashpoint of the 1998-2000 Eritrean-Ethiopian War and was awarded to Eritrea",
+      "It is Ethiopia's main seaport and trade hub",
+      "It is the capital of the Tigray region"
      ],
-     "answer_index": 3,
-     "explanation": "The sources say Bab al-Mandab grew more significant to global maritime trade because the Strait of Hormuz was effectively closed amid the US–Israel war on Iran, with Saudi Arabia relying on the Red Sea for oil exports."
+     "answer_index": 1,
+     "explanation": "Badme was 'ground zero' of the 1998-2000 war, and the boundary commission under the Algiers Agreement awarded it to Eritrea — a ruling Ethiopia has at times challenged, making it symbolically loaded for both sides."
     },
-    "background_beginner": "Yemen, on the Arabian Peninsula, has been torn by civil war since 2014, when a group called the Houthis — fighters from the north aligned with Iran — seized the capital, Sanaa, and pushed the government south to the port city of Aden. In 2015, Saudi Arabia led a coalition of Arab states to try to restore that government, launching years of air strikes. The fighting keeps flaring because neither side can win outright, and the country sits beside Bab al-Mandab, a vital shipping lane. Adding to the tangle, southern Yemen was its own country until 1990 and many southerners want independence again, straining the anti-Houthi alliance.",
-    "impact_score": 72,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-16T070423Z_715019825_RC2TOOAXD9QD_RTRMADP_3_IRAN-CRISIS-YEMEN-1794814733.jpg?resize=1920%2C1440",
+    "background_beginner": "Ethiopia and Eritrea are neighbours in the Horn of Africa. Eritrea split away from Ethiopia in 1993, and the two fought a bitter border war from 1998 to 2000, beginning at a town called Badme. More recently, Ethiopia's government — led by Prime Minister Abiy Ahmed — has battled the Tigray People's Liberation Front (TPLF), a powerful group from the northern Tigray region. Alliances keep flipping: Eritrea once helped Ethiopia fight the Tigrayans but has now switched sides. Add a dispute over a giant dam on the Nile and a civil war in nearby Sudan, and the whole region stays tense — which is why fresh clashes keep raising fears of a bigger war.",
+    "impact_score": 68,
+    "image_url": "https://static.dw.com/image/63464055_6.jpg",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Saudi-backed Yemeni forces have retreated from the strategic Bab al-Mandab strait to defend the interim capital Aden, as Iran-aligned Houthi fighters keep gaining ground.",
+    "description": "Renewed fighting near the Ethiopia-Eritrea border, plus souring ties with Sudan, has analysts worried the Horn of Africa could tip into a wider regional war.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb?traffic_source=rss"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-16T19:25:15.103181+00:00",
-    "published_date": "2026-11-17",
-    "has_fulltext": true
-   },
-   {
-    "id": "1654874c-bccd-5865-9844-30e1f7963033",
-    "title": "At least 17 killed in two South Africa mass shootings",
-    "simplified_title": "17 Killed in Two Separate South African Mass Shootings",
-    "quick_summary": "South African police are hunting for suspects after 17 people were shot dead in two unrelated attacks on Sunday night, one near Pietermaritzburg and one near Pretoria.",
-    "simplified_body": "On Sunday night, eight men were found shot dead inside a bullet-riddled minibus in a semi-rural area outside Pietermaritzburg, in KwaZulu-Natal province. Hours later and about 530 kilometres away, nine people — six men and three women — were discovered shot inside a four-room shack in the Jeffsville informal settlement near the capital, Pretoria. Police say the two attacks are unrelated and that no motive or arrests have been confirmed for either.\n\nThe killings have left communities shaken. In Jeffsville, a young child looking for a relative reportedly made the grim discovery, and neighbours said they first mistook the gunfire for thunder. Police noted one victim was a \"person of interest\" in a shooting last year that killed 12 people nearby, raising the possibility of a revenge attack — though that remains unconfirmed.\n\nSouth Africa has one of the world's highest murder rates, recording between 36 and 45 killings per 100,000 people a year. The latest police figures show 5,427 people were murdered nationwide between April and June 2026 — about 60 a day — a 6% drop from the year before. Much of the violence is linked to gangs fighting over drugs and illegal mining, and illegal firearms are widespread.\n\nNational Police Commissioner Fannie Masemola called the shootings \"unacceptable\" and vowed to catch those responsible. Investigators, pathologists and crime intelligence teams are working to identify victims and track suspects. Earlier this year the military was deployed alongside police in the five provinces with the highest murder rates.",
-    "why_it_matters": "These attacks highlight South Africa's struggle with one of the world's worst murder rates and a worrying rise in high-casualty mass shootings, a security crisis that resonates well beyond its borders.",
-    "deep_analysis": "## Historical Context\n\nSouth Africa has long carried one of the highest murder rates in the world, consistently recording between 36 and 45 killings per 100,000 people each year. Much of this violence is tied to organised crime — turf wars between gangs involved in drug trafficking and illegal mining, as well as taxi-industry disputes and stock theft. In February, President Cyril Ramaphosa described organised crime as \"the most immediate threat to our democracy, our society and our economic development.\" Earlier this year, the military was deployed alongside police in the five provinces with the highest murder rates.\n\n## Multiple Perspectives\n\nPolice stress that the two weekend attacks are unrelated, and that no motive has yet been established for either. In Pretoria, Gauteng commissioner Tommy Mthombeni raised the possibility of a retaliation attack, noting one victim was a \"person of interest\" in a 2025 shooting that killed 12 — but he was careful to say this cannot be confirmed. KwaZulu-Natal spokesman Robert Netshiunda pointed to a range of past motives, from stock theft to drugs to taxi violence, underlining how hard these cases are to read early on. National Commissioner Fannie Masemola framed the killings as an intolerable terrorising of communities.\n\n## What to Watch\n\nKey questions are whether police can identify the victims and make arrests, and whether the Pretoria shooting proves to be a revenge attack linked to earlier bloodshed. More broadly, watch whether the recent 6% year-on-year decline in murders holds, and whether the military deployment and crime-intelligence efforts make a dent in the surge of mass shootings.",
-    "concepts": [
-     {
-      "term": "informal settlement",
-      "definition": "A densely populated area of self-built housing, often lacking formal services, where residents may not hold legal title to the land.",
-      "context": "The Pretoria killings happened in the Jeffsville informal settlement."
-     },
-     {
-      "term": "person of interest",
-      "definition": "Someone police want to question in connection with a crime, who is not necessarily a formal suspect.",
-      "context": "One Pretoria victim was reportedly a person of interest in a 2025 shooting that killed 12 people."
-     },
-     {
-      "term": "murder rate",
-      "definition": "A measure of killings per 100,000 people in a population, used to compare violence across countries.",
-      "context": "South Africa records between 36 and 45 murders per 100,000 people a year, among the world's highest."
-     }
-    ],
-    "quiz": {
-     "question": "What did South African police say about the two weekend shootings?",
-     "options": [
-      "They were terrorist attacks",
-      "They were unrelated, with no established motive",
-      "They were accidental",
-      "They were carried out by the same gang"
-     ],
-     "answer_index": 1,
-     "explanation": "Police stated the two incidents were unrelated and that no motive had yet been established for either, though they are still investigating possible links in the Pretoria case."
-    },
-    "background_beginner": "South Africa is one of the world's most violent countries outside a war zone, with around 60 people murdered every day. Its police service, led by National Commissioner Fannie Masemola, is stretched thin against gangs that fight over drugs, illegal mining and taxi routes, with illegal guns easy to come by. In recent years the country has seen a spike in \"mass shootings\" where many people are gunned down at once — in bars, outside venues, or in informal settlements of self-built housing. President Cyril Ramaphosa has called organised crime a top national threat, and the military has been sent to help police in the worst-hit provinces.",
-    "impact_score": 58,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb113f006a-1794838847.jpg?resize=1920%2C1440",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "South African police are hunting for suspects after 17 people were shot dead in two unrelated attacks on Sunday night, one near Pietermaritzburg and one near Pretoria.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo"
-     },
-     {
       "name": "DW",
-      "url": "https://www.dw.com/en/south-africa-17-killed-in-separate-mass-shooting-incidents/a-79956966?maca=en-rss-en-all-1573-rdf"
+      "url": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353?maca=en-rss-en-all-1573-rdf"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
+    "source_count": 1,
+    "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-16T19:25:40.318538+00:00",
-    "published_date": "2026-11-17",
+    "reading_minutes": 4,
+    "created_at": "2026-11-18T07:26:09.952056+00:00",
+    "published_date": "2026-11-18",
     "has_fulltext": true
    }
   ],
   "AMERICAS": [
+   {
+    "id": "cc51fc8a-1c55-531c-9f65-15e050e48c28",
+    "title": "Democrat Mary Peltola unseats Republican in Alaska Senate race",
+    "simplified_title": "Peltola Wins Alaska Senate Seat, Giving Democrats 56",
+    "quick_summary": "Democrat Mary Peltola has won Alaska's Senate race, flipping the last undecided seat and handing Democrats a 56-44 Senate majority.",
+    "simplified_body": "Democrat Mary Peltola has defeated incumbent Republican Senator Dan Sullivan in Alaska, the final US Senate race to be called in this year's midterm elections. The Associated Press (AP) called it after she edged just past 50% of first-choice votes. It's the ninth Republican-held seat Democrats flipped — their best Senate result since 1958 — lifting them from a 47-seat minority to a 56-44 majority. The count took more than two weeks because of Alaska's vast, remote terrain and slow absentee ballot process.\n\nThis matters for everyone in the US, because it confirms Democrats will control both chambers of Congress for the final two years of Donald Trump's presidency, with power to block legislation and launch investigations. Peltola, the first Alaska Native elected to Congress, campaigned on an \"Alaska first\" message, tapping frustration over high fuel and heating costs in rural communities.\n\nThe race drew national attention after the New York Times reported that aides to Peltola allegedly recruited a second man named Daniel J Sullivan to siphon votes from the incumbent — a so-called spoiler. Peltola denied knowing about it. Because Alaska uses ranked-choice voting, confused voters could rank both Sullivans, and votes for the unknown one would transfer to the incumbent. BBC Verify found Peltola would have won even if every one of those votes had gone to Sullivan.\n\nThe Trump administration sued to block certification if Sullivan lost, but a federal judge dismissed it. The Department of Justice (DOJ) and Alaska's Republican governor said they'd investigate the alleged plot. Alaska also elected its first Democratic governor since 1998. Expect the investigations to continue.",
+    "why_it_matters": "It cements Democratic control of the entire US Congress for Trump's final two years — a shift that shapes global trade, climate and security policy that Australia closely tracks.",
+    "deep_analysis": "## Historical Context\n\nAlaska has long leaned Republican, and Peltola becomes the first Democratic senator from the state in almost 20 years. She already made history as the first Alaska Native to serve in Congress when she won the state's lone House seat, before losing it to Republican Nick Begich in 2024. Her comeback is part of a broader Democratic sweep: the party flipped nine Senate seats — the most since 1958 — including wins in conservative states such as South Carolina, Texas, Kansas and Mississippi, and retook the House of Representatives. Alaska also elected a Democratic governor for the first time since 1998.\n\n## Multiple Perspectives\n\nPeltola framed herself as a pragmatic, non-partisan Alaskan fighting \"corporate greed\" and a \"rigged system\" in Washington, distancing herself from national Democrats. Sullivan, a Trump ally and former state attorney general, ran on his record of delivering energy and military investment, and on election day accused Peltola's campaign of \"misleading Alaskans, lying and cheating\" over the decoy-candidate allegations. Trump and Vice President JD Vance both travelled to Alaska to back Sullivan. Independent experts cited by the BBC noted that ranked-choice voting makes spoiler tactics largely ineffective, and BBC Verify calculated Peltola's margin exceeded any possible effect from the second Sullivan's votes.\n\n## What to Watch\n\nThe DOJ and Alaska's governor have flagged investigations into the alleged decoy plot, so that story isn't over even though the result stands. Watch how a 56-44 Democratic Senate uses its power to block Trump's agenda and scrutinise his administration. Alaska's US House race was still uncalled, with independent Bill Hill challenging Republican Nick Begich.",
+    "concepts": [
+     {
+      "term": "incumbent",
+      "definition": "The person currently holding a political office who is running to keep it.",
+      "context": "Dan Sullivan was the sitting senator seeking re-election, so his loss meant an incumbent was unseated."
+     },
+     {
+      "term": "ranked-choice voting",
+      "definition": "A system where voters rank candidates in order of preference, and lower choices transfer if a candidate is eliminated.",
+      "context": "This mechanism meant votes for the unknown Sullivan would flow to the real one, neutralising the alleged plot."
+     },
+     {
+      "term": "spoiler",
+      "definition": "A candidate with little chance of winning who draws votes away from a stronger rival, altering the outcome.",
+      "context": "Democrats were accused of recruiting a second Sullivan to act as a spoiler against the incumbent."
+     },
+     {
+      "term": "certification",
+      "definition": "The official confirmation and finalising of election results so a winner can take office.",
+      "context": "The Trump administration tried to block certification if Sullivan lost, but a judge threw the case out."
+     }
+    ],
+    "quiz": {
+     "question": "Why did the alleged 'decoy Sullivan' plot have little effect on the result?",
+     "options": [
+      "Because the second Sullivan withdrew before voting began",
+      "Because Peltola lost and the plot therefore didn't matter",
+      "Because the second Sullivan's name was removed from the ballot",
+      "Because Alaska's ranked-choice voting transferred his votes to the incumbent, and Peltola's margin exceeded them anyway"
+     ],
+     "answer_index": 3,
+     "explanation": "Under ranked-choice voting, votes for the unknown Sullivan would re-allocate to the incumbent, and BBC Verify found Peltola would have won even if every one of those votes had gone to Sullivan."
+    },
+    "background_beginner": "The US Senate is one of two chambers of Congress, and whichever party controls it can block or pass laws and run investigations. In the 2026 midterm elections — the nationwide votes held halfway through a president's term — Democrats flipped nine seats to take control. Alaska was the last race to be decided. There, Democrat Mary Peltola, the first Alaska Native in Congress, beat Republican Dan Sullivan. The race became famous because Peltola's aides were accused of recruiting a second man with the same name to confuse voters. The allegations, lawsuits and a long ballot count kept the contest in headlines for weeks.",
+    "impact_score": 72,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8202/live/39cdb760-dc7a-11f1-b23d-9526db010e6c.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Democrat Mary Peltola has won Alaska's Senate race, flipping the last undecided seat and handing Democrats a 56-44 Senate majority.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "0a9d85f5-6938-52e2-854d-3cb4c9ae80a4",
+     "5b8a1b39-89df-5e85-911c-e1927954bb87"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-18T07:26:18.284060+00:00",
+    "published_date": "2026-11-18",
+    "has_fulltext": true
+   },
    {
     "id": "e0ea3b44-6841-564f-99eb-a1ce4cc32d37",
     "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
@@ -1012,69 +1137,6 @@
     "created_at": "2026-11-17T19:25:15.301493+00:00",
     "published_date": "2026-11-18",
     "has_fulltext": true
-   },
-   {
-    "id": "e35929af-d0ec-5f14-9693-d6188793e730",
-    "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
-    "simplified_title": "Mexican Drug Lord 'The Godfather' Dies in Hospital Aged 80",
-    "quick_summary": "Miguel Ángel Félix Gallardo, the founder of Mexico's Guadalajara Cartel who reshaped the global cocaine trade, has died aged 80 after more than three decades in custody.",
-    "simplified_body": "Miguel Ángel Félix Gallardo, one of the most notorious drug smugglers in history, has died in hospital in his native Guadalajara aged 80. Known as \"The Godfather\" or the \"Boss of Bosses\", he led the Guadalajara Cartel, which dominated Mexican drug trafficking during the cocaine boom of the 1980s. He'd been in state custody since 1989.\n\nHis big innovation was linking Mexican traffickers with Colombian cartels, particularly Pablo Escobar's Medellín Cartel. The deal combined cocaine production in the Andes with Mexican transport across the border into the United States. At one point an estimated 80% of all cocaine entering the US came from the Medellín Cartel, and Félix Gallardo's group played a major role in smuggling it in. At its height the cartel controlled entire police networks and even state governorships.\n\nThe net tightened in 1985 after the torture and murder of Enrique \"Kiki\" Camarena, an agent with the US Drug Enforcement Administration (DEA), who had destroyed a huge cartel marijuana plantation. His killing sparked one of the biggest manhunts the US has ever launched. Félix Gallardo was captured in 1989 and sentenced to decades in prison; granted house arrest in 2022 due to ill health, technical problems with his ankle monitor blocked the transfer.\n\nHis legacy outlived him. After his organisation broke up, the Sinaloa Cartel emerged, led by Joaquín \"El Chapo\" Guzmán, whom Félix Gallardo had once put in charge of logistics. Guzmán was sentenced to life in prison in 2019. Félix Gallardo's rise was later dramatised in the Netflix series Narcos: Mexico.",
-    "why_it_matters": "Félix Gallardo built the template for modern cartels whose cocaine trade still fuels violence and addiction across the Americas — a drug supply chain that reaches Australian streets too, where cocaine remains among the world's most expensive.",
-    "deep_analysis": "## Historical Context\n\nFélix Gallardo rose during the 1980s cocaine boom, a period when demand in the United States exploded and Colombian producers needed reliable ways to move product north. His key move was to stop treating Mexico as a minor player and instead position it as the essential transit corridor, striking a partnership with Pablo Escobar's Medellín Cartel. That marriage of Andean production and Mexican transportation created a \"modus operandi\" the article says endures to this day. His 1989 arrest didn't end the system — it fragmented his organisation into the regional cartels, including the Sinaloa Cartel, that still dominate.\n\n## Multiple Perspectives\n\nFor US law enforcement, Félix Gallardo was a defining target: the 1985 murder of DEA agent Enrique \"Kiki\" Camarena triggered one of the largest manhunts in North American history and hardened the American approach to the drug war. For Mexico, his era exposed how deeply trafficking money had corrupted police forces and even state governorships. Popular culture, through shows like Narcos: Mexico, has turned his story into entertainment — which some see as humanising figures responsible for enormous violence, while others argue it documents how the trade actually worked.\n\n## What to Watch\n\nHis death is symbolic rather than disruptive; he'd been jailed since 1989 and the organisations he spawned long ago eclipsed him. Watch how the still-active successor cartels evolve, and how the historical reckoning around figures like Camarena and El Chapo continues to shape US–Mexico security policy.",
-    "concepts": [
-     {
-      "term": "Guadalajara Cartel",
-      "definition": "The Mexican drug-trafficking organisation led by Félix Gallardo that dominated the trade in the 1980s before fragmenting into regional cartels.",
-      "context": "He led the Guadalajara Cartel, which dominated Mexican drug trafficking during the cocaine boom of the 1980s."
-     },
-     {
-      "term": "Medellín Cartel",
-      "definition": "The Colombian cocaine organisation run by Pablo Escobar that supplied most of the cocaine entering the US in the 1980s.",
-      "context": "His big innovation was linking Mexican traffickers with Colombian cartels, particularly Pablo Escobar's Medellín Cartel."
-     },
-     {
-      "term": "DEA",
-      "definition": "The US Drug Enforcement Administration, the federal agency that investigates drug trafficking.",
-      "context": "Enrique 'Kiki' Camarena, an agent with the US Drug Enforcement Administration (DEA), who had destroyed a huge cartel marijuana plantation."
-     },
-     {
-      "term": "Sinaloa Cartel",
-      "definition": "The powerful trafficking group that emerged from the break-up of Félix Gallardo's organisation, led by El Chapo Guzmán.",
-      "context": "After his organisation broke up, the Sinaloa Cartel emerged, led by Joaquín 'El Chapo' Guzmán."
-     }
-    ],
-    "quiz": {
-     "question": "What was Félix Gallardo's key innovation in the drug trade?",
-     "options": [
-      "He partnered Mexican traffickers with Colombian cartels to move cocaine into the US",
-      "He legalised marijuana in parts of Mexico",
-      "He invented a new chemical process for refining cocaine",
-      "He was the first to smuggle drugs by submarine"
-     ],
-     "answer_index": 0,
-     "explanation": "Félix Gallardo linked Mexican transportation networks with Colombian production, especially Escobar's Medellín Cartel, creating a smuggling model that endures today."
-    },
-    "background_beginner": "Miguel Ángel Félix Gallardo was a Mexican drug lord nicknamed \"The Godfather\", who in the 1980s built the Guadalajara Cartel into the most powerful drug-trafficking group in Mexico. He teamed up with Colombian cocaine bosses like Pablo Escobar to smuggle huge amounts of cocaine into the United States. After US agent \"Kiki\" Camarena was murdered in 1985, American authorities launched a massive manhunt, and Félix Gallardo was jailed in 1989. His empire later split into today's famous cartels, including the Sinaloa Cartel run by \"El Chapo\" Guzmán. His story keeps coming up because it shaped the modern drug war and inspired shows like Netflix's Narcos: Mexico.",
-    "impact_score": 48,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9e63/live/e166e240-e19c-11f1-93e1-3b657b665bcf.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "Miguel Ángel Félix Gallardo, the founder of Mexico's Guadalajara Cartel who reshaped the global cocaine trade, has died aged 80 after more than three decades in custody.",
-    "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-16T19:25:43.875246+00:00",
-    "published_date": "2026-11-17",
-    "has_fulltext": true
    }
   ],
   "GLOBAL_SYSTEMS": [
@@ -1149,61 +1211,76 @@
     "has_fulltext": true
    },
    {
-    "id": "8e797930-b39d-5c1f-b44c-a837ceed3676",
-    "title": "Why the wheels are falling off the AI investment boom",
-    "simplified_title": "Why Cracks Are Showing in the AI Investment Boom",
-    "quick_summary": "Huge debt-fuelled spending on artificial intelligence is drawing nervous comparisons to past tech bubbles as Anthropic prepares a record stock market float.",
-    "simplified_body": "An enormous amount of money and debt has flooded into artificial intelligence (AI), and some investors are getting jittery. The article points to a long history of tech-driven booms — from 19th-century railways to 1920s radio to the dotcom crash — that soared on excitement before collapsing, and asks why AI would be any different. The immediate flashpoint is Anthropic, the company behind the chatbot Claude, which reportedly hopes to raise US$90 billion in what would be the biggest initial public offering (IPO, a company's first sale of shares to the public) in history, valuing it around US$1.5 trillion — down from a mooted US$2 trillion weeks earlier.\n\nThis matters because AI is now a massive chunk of the market: the top 10 AI-exposed companies make up about 40 per cent of the American stock market, so almost every investor has skin in the game. Anthropic reportedly plans to invest up to US$900 billion over five to 10 years, with much funded by its own revenue — Goldman Sachs tips US$53 billion this year, rising to as much as US$636 billion by decade's end.\n\nFor a newcomer: Anthropic and rival OpenAI (maker of ChatGPT) are the leaders building ever-smarter AI. Anthropic's prospectus devotes nearly a quarter of its pages to AI's \"existential threat\", warning the technology could be misused for cyber attacks or bioweapons, or act in \"misaligned\" ways on its own.\n\nLooming over it all is cheaper competition, especially China's Moonshot and its Kimi platform, which has closed Anthropic's lead and, crucially, costs less. If buyers chase the cheapest option, the rosy earnings forecasts — and the huge sums already sunk — could be at risk.",
-    "why_it_matters": "If the AI boom wobbles, the fallout would ripple through global markets that Australian super funds and investors are heavily exposed to — and the article notes Australia's own Firmus recently failed to raise cash amid the nerves.",
-    "deep_analysis": "## Historical Context\n\nThe piece leans hard on history to make its case. It walks through a string of technology booms that ended badly: the Great Railway Crash of 1846, triggered when the Bank of England raised interest rates and ended easy money; the American Railroad Crash 30 years later, when a bank behind debt-fuelled track expansion collapsed and froze the New York Stock Exchange for 10 days; and the 1920s Radio Boom, where Radio Corporation of America (RCA) shares surged from $1.50 to $568 before losing 98 per cent of their value in the 1929 Wall Street crash. The dotcom bust at the turn of the millennium is the most recent example. The throughline is that debt-heavy, mania-driven investment phases tend to collapse — even when the underlying technology goes on to reshape daily life.\n\n## Multiple Perspectives\n\nThe article holds two ideas at once. On one hand, the technologies that crashed — rail, radio, the internet — all survived and became everyday infrastructure, and a handful of dotcom survivors became enormously profitable. On the other, Warren Buffett's quip about aviation is a reminder that world-changing inventions aren't always good investments. On Anthropic specifically, boss Dario Amodei is framed two ways: as a genuine Effective Altruism devotee who wants to slow AI for humanity's sake, and, by cynics, as someone protecting his company's lead until the float closes. The structural worry is concentration — Anthropic leans on a few software clients, so any trouble there hits fast.\n\n## What to Watch\n\nThe near-term test is whether Anthropic's record IPO lands at its hoped-for valuation or keeps sliding. Watch the China angle: Moonshot's Kimi has narrowed Anthropic's lead from about nine months to four and competes hard on price, which could undercut the earnings projections underpinning the whole bet. Also watch public resistance — residents of major cities are reportedly pushing back on AI infrastructure both in person and at the ballot box.",
+    "id": "4c867720-4f58-5a70-8e80-ac4b481fc0f8",
+    "title": "China slams new US chip curbs, vows 'necessary measures'",
+    "simplified_title": "US tightens chip export rules to block China's workaround",
+    "quick_summary": "Washington has brought in new rules requiring data centres worldwide to hold a US licence before supplying heavy computing power from advanced chips to companies based in China and several other countries.",
+    "simplified_body": "The United States (US) announced new interim rules on Monday (17 November) that close a loophole Chinese firms had been using to get around chip restrictions. Under the rules, data centres anywhere in the world now need a US licence to provide large volumes of computing power from advanced chips to companies headquartered in China, Macau or other nations under US arms embargoes. The rules also require licences to ship advanced chips to Singapore, Malaysia, Thailand, Indonesia and Brazil — countries the US says present a \"higher-than-normal risk of diversion\".\n\nThis affects Chinese firms, which have become heavily reliant on renting computing power overseas since earlier US export controls. It also hits South East Asia's booming data centre industry, much of which was built to serve Chinese demand. Experts told the BBC that Malaysia and Thailand could be hit hardest. China's foreign ministry called the move \"economic coercion\" and vowed \"necessary measures\" to protect its interests.\n\nFor background: advanced chips, mostly made by US firms like Nvidia, are needed to train artificial intelligence (AI) models. Washington has long tried to limit China's access to the best chips. The crackdown follows a scandal involving Singaporean firm Megaspeed, whose former director is suspected of being a Chinese spy — allegations the firm denies.\n\nThe timing is notable, landing just before President Donald Trump meets Chinese leader Xi Jinping in Shenzhen. Licences will be issued case-by-case. Singapore's Prime Minister Lawrence Wong said most chips recorded as sales there never actually enter the country, and that any impact can be managed. Analysts warn tighter rules could also push China to speed up building its own chips.",
+    "why_it_matters": "These rules could reshape South East Asia's data centre boom and the global flow of AI computing power — and an Australian trade expert from Edith Cowan University warns Malaysia and Thailand, whose data centres were heavily driven by Chinese buyers, could be hit hardest.",
+    "deep_analysis": "## Historical Context\n\nWashington has spent years tightening the screws on China's access to advanced semiconductors, the specialised chips needed to train powerful AI models. Each round of restrictions has prompted workarounds. One of the main ones has been Chinese firms renting computing power from data centres abroad, or buying chips through third countries and quietly moving them on. Research by the US-based Institute for Progress projects that at least 30% of China's advanced AI computing power will come from renting overseas or smuggling in 2027. These new rules target exactly that gap — the \"remote computing\" route — by requiring a US licence not just to export chips, but to supply their computing power to Chinese-headquartered firms.\n\n## Multiple Perspectives\n\nWashington's Bureau of Industry and Security frames this as closing a diversion loophole, naming Brazil and four South East Asian nations as higher-risk. China's foreign and commerce ministries condemned it as \"economic coercion\" and an abuse of national security, threatening countermeasures. Singapore's PM Lawrence Wong struck a pragmatic note: most chips \"recorded as sales\" in Singapore are transshipped elsewhere, so the impact is manageable, though firms breaking the rules face \"clear and firm action\". Analysts are split on the fallout — Verisk Maplecroft's Reema Bhattacharya says well-backed investment should stay \"relatively resilient\", while Edith Cowan University's Naoise McDonagh flags Malaysia and Thailand as most exposed. McDonagh also notes Washington's long-running dilemma: restricting chips may simply spur Chinese innovation.\n\n## What to Watch\n\nKeep an eye on the Trump–Xi meeting in Shenzhen, where chips will loom large. Watch how case-by-case licensing plays out in practice, whether South East Asian governments push back or adapt, and whether the squeeze accelerates China's drive for home-grown semiconductors — the Institute for Progress estimates top US AI models lead China's best by only about six and a half months.",
     "concepts": [
      {
-      "term": "initial public offering (IPO, a company's first sale of shares to the public)",
-      "definition": "The first time a private company sells shares to the public, listing on a stock exchange and raising money from outside investors.",
-      "context": "Anthropic reportedly hopes its IPO will raise US$90 billion, which would be the largest in history."
+      "term": "advanced chips",
+      "definition": "High-end semiconductors, mostly made by US firms like Nvidia, that are needed to train powerful AI models.",
+      "context": "They are the resource Washington is trying to keep out of China's hands."
      },
      {
-      "term": "prospectus",
-      "definition": "A formal document a company issues before a share float, setting out its finances, plans and risks for potential investors.",
-      "context": "Anthropic's prospectus devotes nearly a quarter of its pages to AI's existential threats."
+      "term": "data centres",
+      "definition": "Large facilities full of computers that store data and provide computing power, which can be rented out remotely.",
+      "context": "South East Asian countries built many of them, partly to serve Chinese demand for AI computing."
      },
      {
-      "term": "existential threat",
-      "definition": "A danger serious enough to threaten the survival of humanity or civilisation.",
-      "context": "The prospectus warns AI could be misused for cyber attacks or bioweapons, or act in harmful, misaligned ways."
+      "term": "risk of diversion",
+      "definition": "The chance that chips sold to one country are secretly re-routed or smuggled to another that is restricted.",
+      "context": "The US named Singapore, Malaysia, Thailand, Indonesia and Brazil as higher-risk."
+     },
+     {
+      "term": "economic coercion",
+      "definition": "Using trade or economic pressure to force another country to change its behaviour.",
+      "context": "China's foreign ministry used this phrase to attack the new US rules."
      }
     ],
     "quiz": {
-     "question": "Why does the article suggest the AI boom could be vulnerable despite the technology's promise?",
+     "question": "What loophole are the new US rules mainly trying to close?",
      "options": [
-      "Because huge debt and intense market concentration echo past tech booms that crashed before the technology matured",
-      "Because governments have banned AI infrastructure worldwide",
-      "Because AI doesn't actually work as advertised",
-      "Because Anthropic has already gone bankrupt"
+      "Australian companies reselling chips to Singapore",
+      "Chinese firms buying chips directly from US shops",
+      "US firms building factories inside China",
+      "Chinese firms renting advanced computing power from data centres abroad"
      ],
-     "answer_index": 0,
-     "explanation": "The article argues that heavy debt, a market dominated by a few AI firms, and historical parallels to rail, radio and dotcom booms make the investment phase shaky — even though the technology itself may reshape how we live."
+     "answer_index": 3,
+     "explanation": "The rules require a US licence to supply large volumes of computing power from advanced chips to China-based firms, targeting the 'remote computing' route Chinese developers used to access frontier compute abroad."
     },
-    "background_beginner": "Artificial intelligence (AI) is technology that lets machines learn and solve problems in ways that can mimic human thinking. Since OpenAI launched its ChatGPT chatbot about four years ago, companies have poured staggering sums into building smarter AI. The main players here are OpenAI and Anthropic (which makes the chatbot Claude), plus cheaper Chinese rivals like Moonshot's Kimi. The topic keeps coming up because AI firms are spending and borrowing enormous amounts, and a small group of AI-linked companies now makes up a big slice of the stock market. That has investors nervously comparing today's boom to earlier technology crazes — railways, radio, the internet — that boomed, then crashed.",
+    "background_beginner": "For several years the United States has been trying to stop China getting the most advanced computer chips, which are needed to build powerful artificial intelligence (AI). The main chipmaker caught up in this is America's Nvidia. Because direct sales to China are restricted, Chinese companies found workarounds — renting computing power from data centres in countries like Singapore, Malaysia and Thailand, or buying chips there and moving them on. This keeps coming up because AI is now seen as crucial to economic and military power, so both sides are racing ahead. The latest rules, announced in November 2026, aim to shut these indirect routes, landing just before a Trump–Xi meeting.",
     "impact_score": 72,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/2d22ecce11fc1fdb6ce2477f335f7120?impolicy=wcms_watermark_news&cropH=2812&cropW=5000&xPos=0&yPos=400&width=862&height=485&imformat=generic",
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--fE-jiokb--/c_crop,h_449,w_799,x_1,y_19/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-24T141334Z_1_LYNXMPEM6N1B8_RTROPTP_3_CHINA-USA.JPG?itok=jFoGhwKt",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "Huge debt-fuelled spending on artificial intelligence is drawing nervous comparisons to past tech bubbles as Anthropic prepares a record stock market float.",
+    "description": "Washington has brought in new rules requiring data centres worldwide to hold a US licence before supplying heavy computing power from advanced chips to companies based in China and several other countries.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-17/wheels-falling-off-ai-investment-boom-nvidia-anthropic/107392122"
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/world/china-slams-new-us-chip-curbs-vows-necessary-measures-6559376"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo"
+     },
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/ai-chips-us-lawrence-wong-donald-trump-6560086"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 5,
-    "created_at": "2026-11-16T19:25:16.999834+00:00",
-    "published_date": "2026-11-17",
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "bdf08d2c-cb64-5c4a-91b2-3e8ee4fd1672"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-11-18T07:26:13.802151+00:00",
+    "published_date": "2026-11-18",
     "has_fulltext": true
    },
    {
@@ -1338,76 +1415,72 @@
     "created_at": "2026-11-17T19:25:14.045485+00:00",
     "published_date": "2026-11-18",
     "has_fulltext": true
-   },
-   {
-    "id": "e978d551-8118-52b5-877c-e7011590d7c9",
-    "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
-    "simplified_title": "Canada may turn to Chinese carmakers if US talks fail",
-    "quick_summary": "Canadian PM Mark Carney says Canada could partner with Chinese automakers if trade talks with the US don't preserve an integrated North American car industry.",
-    "simplified_body": "Speaking in Cambodia on Monday, Canadian Prime Minister Mark Carney said his country could work with Chinese automakers if negotiations with US President Donald Trump fail to protect a joined-up North American car industry. He made the comments ahead of a meeting with Chinese leader Xi Jinping this week in Shenzhen, China, where car manufacturing is expected to come up. Carney stressed that a US deal remains his priority, but its outcome could push Canada toward European, Chinese or Japanese partners instead.\n\nThis matters most for Canadian auto workers. The \"Detroit Three\" — Ford, General Motors and Stellantis — run factories across Canada, the US and Mexico, with parts crossing borders several times before a car is finished. Trump has repeatedly pushed automakers to shift work to the US, and Canada recently threatened to sue Stellantis for moving planned Jeep production from Ontario to Illinois. Any Chinese investment, Carney said, would need real manufacturing in Canada — proper labour standards, local supply chains and Canadian critical minerals — not just \"kit cars\" assembled from imported parts.\n\nFor background: in January, Canada cut its 100% tariff on Chinese electric vehicles (EVs) to 6.1%, initially allowing up to 49,000 cars a year. In return, China lowered tariffs on Canadian farm goods like canola. The deal drew criticism from Ontario premier Doug Ford, who warned it could threaten jobs and Canada's access to the US market. Carney's comments land just before the 33rd Asia-Pacific Economic Cooperation (APEC) Leaders' Meeting in Shenzhen from Wednesday, where officials say regional trade cooperation is improving despite US-China tensions.\n\nWhat happens next depends on the US talks. Carney said progress is being made toward a possible US agreement, though differences remain, and Canada \"is going to move forward either way\".",
-    "why_it_matters": "It shows how US tariffs are pushing close allies to hedge toward China — a shift that reshapes global supply chains Australia also depends on, especially for critical minerals and electric vehicles.",
-    "deep_analysis": "## Historical Context\n\nThe North American auto industry has been deeply integrated for decades, with parts crossing between Canada, the US and Mexico multiple times before a vehicle is finished. That system has come under strain from President Trump's trade actions, which Carney says have made the market \"less integrated\". In January, Canada struck a deal cutting its 100% tariff on Chinese EVs to 6.1% in exchange for China lowering tariffs on Canadian farm products like canola — a sign Ottawa was already exploring alternatives before this week's talks.\n\n## Multiple Perspectives\n\nCarney frames Chinese involvement not as \"leverage\" but as \"action, reaction\" — insisting any investment must include genuine manufacturing, not just assembly. Ontario premier Doug Ford, whose province anchors Canada's auto sector, has warned that Chinese EVs could threaten Canadian jobs and endanger access to the US market. Meanwhile, the APEC Secretariat's Eduardo Pedrosa argues regional cooperation is actually improving despite US-China friction, pointing to agreements like the CPTPP and a focus on supply chain resilience. There's also debate, noted by Pedrosa, over whether US trade restrictions have failed given China's trade surplus is set to exceed last year's record US$1.2 trillion.\n\n## What to Watch\n\nThe key variable is the US-Canada negotiation: Carney says progress is being made but differences remain. Watch his Shenzhen meeting with Xi Jinping for any concrete auto-manufacturing commitments, the fate of the threatened lawsuit against Stellantis, and whether the APEC Leaders' Meeting produces anything beyond dialogue on supply chains, global imbalances and AI.",
-    "concepts": [
-     {
-      "term": "Detroit Three",
-      "definition": "The three big US-headquartered carmakers — Ford, General Motors and Stellantis — that run factories across Canada, the US and Mexico.",
-      "context": "These companies are central to the integrated North American auto industry Carney wants to protect."
-     },
-     {
-      "term": "electric vehicles (EVs)",
-      "definition": "Cars powered by electricity rather than petrol or diesel.",
-      "context": "Canada cut its tariff on Chinese EVs from 100% to 6.1% under the January deal."
-     },
-     {
-      "term": "critical minerals",
-      "definition": "Raw materials like lithium and cobalt that are essential for making batteries and other high-tech products.",
-      "context": "Carney wants Chinese investment to use Canadian critical minerals in electric vehicle supply chains."
-     },
-     {
-      "term": "Asia-Pacific Economic Cooperation (APEC)",
-      "definition": "A forum of 21 Pacific-rim economies that work together on trade and economic issues.",
-      "context": "Carney's comments come just before the 33rd APEC Leaders' Meeting in Shenzhen."
-     }
-    ],
-    "quiz": {
-     "question": "Why is Carney cautious about the form any Chinese auto investment would take?",
-     "options": [
-      "He wants only imported finished cars, not local production",
-      "He prefers investment limited to the farm sector",
-      "He insists it involve real manufacturing in Canada, not just assembling imported 'kit cars'",
-      "He wants China to take over the Detroit Three"
-     ],
-     "answer_index": 2,
-     "explanation": "Carney said any Chinese investment would need substantial manufacturing in Canada — proper labour standards, facilities and domestic supply chains — rather than simply assembling imported parts, saying \"it's not just about kit cars\"."
-    },
-    "background_beginner": "Canada, the US and Mexico have long run their car industries as one connected system, with parts crossing borders many times before a vehicle is built. US President Donald Trump has imposed tariffs and pushed carmakers to move work to the US, straining that system. Canadian Prime Minister Mark Carney is now negotiating with Washington to protect Canada's auto jobs. At the same time, Canada struck a deal with China in January easing tariffs on Chinese electric cars. These tensions keep resurfacing because the world's two biggest economies — the US and China — are competing over trade, and countries like Canada are caught in between, weighing their options at forums like APEC.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/2e7e78e8ef011abb9ba52ca72738b8f88e4616f9/14_0_3840_3072/master/3840.jpg?width=1920&quality=85&auto=format&fit=max&s=049702c518039f8bdaf45715ce5e2dec",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "Canadian PM Mark Carney says Canada could partner with Chinese automakers if trade talks with the US don't preserve an integrated North American car industry.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks"
-     },
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/apec-shenzhen-summit-trade-relations-us-china-asean-6554366"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-16T19:25:13.462700+00:00",
-    "published_date": "2026-11-17",
-    "has_fulltext": true
    }
   ],
   "ADF": [
+   {
+    "id": "ac6c41d8-0988-5135-adce-a2eef5945f9d",
+    "title": "Collins refurbishment looks like overrunning, hitting availability | The Strategist",
+    "simplified_title": "Australia's Ageing Submarine Fix Is Falling Behind Schedule",
+    "quick_summary": "A program to keep Australia's six ageing Collins-class submarines running is slipping, risking a dangerous drop in how many boats can actually go to sea.",
+    "simplified_body": "Australia is trying to stretch the lives of its six Collins-class diesel-electric submarines, some already up to 30 years old, so they can keep serving until nuclear-powered boats arrive. But that plan is coming unstuck. In May 2026 the Australian National Audit Office (ANAO) gave a sobering review of the Life-of-Type Extension (LOTE) program, which the government had just downgraded from a full modernisation to a basic refurbishment of only five of the six boats.\n\nThe core problem is time. Each submarine runs on a tight schedule called the Usage Upkeep Cycle, which keeps three boats available for operations while three are in maintenance. That rhythm depends on each major overhaul, a full-cycle docking (FCD), taking no more than two years. The refurbishment is turning out to be more complex, and old boats throw up nasty surprises once opened up. HMAS Rankin's docking is already overrunning, which has stalled HMAS Farncomb's work and threatens to delay HMAS Collins too.\n\nIf overhauls slip, the whole cycle breaks and only two boats stay available instead of three. Fewer boats mean fewer sea days, fewer sea days mean fewer trained sailors, and that shortage feeds a downward spiral that could also starve the future nuclear fleet of crews. Collins sustainment has sat on Defence's Projects of Concern list since December 2024.\n\nMaking things harder, shipyards at Osborne in Adelaide are competing for the same scarce pool of security-cleared tradespeople, with Hunter-class frigate construction and looming SSN-AUKUS submarine work all drawing from it. The author argues the workload is industrially unrealistic unless AUKUS Pillar One is rethought.",
+    "why_it_matters": "This goes to the heart of Australia's defence — if the Collins fleet can't stay at sea, the country faces a widening submarine capability gap right as regional tensions rise and before AUKUS nuclear boats are ready.",
+    "deep_analysis": "## Historical Context\n\nAustralia's six Collins-class submarines are diesel-electric boats that entered service from the 1990s. They've long had a troubled reputation, and crewing shortages triggered a formal review back in 2008. Since 2016, the fleet has run on a disciplined \"one in, one out\" overhaul rhythm at the Osborne North shipyard in Adelaide, designed to keep three boats always available. The Life-of-Type Extension (LOTE) was conceived to bridge the gap until nuclear-powered submarines arrive under the AUKUS agreement. Notably, the government recently scaled LOTE back from a genuine modernisation to a cheaper refurbishment of just five boats — accepting a loss of future technological edge in exchange for speed.\n\n## Multiple Perspectives\n\nDefence and builder ASC argued a full modernisation couldn't be squeezed into the two-year window an overhaul allows, so they chose the lighter refurbishment to protect the maintenance drumbeat. The author counters that even the scaled-down LOTE probably can't be done in two years, because the boats are old and more complex to refurbish than to simply overhaul — meaning the compromise may not actually solve the timing problem. There's also a workforce tension: ASC employs more than 2,700 people, BAE Systems has over 2,500 on the Hunter-class frigate nearby, and both compete for the same security-cleared welders, pipefitters and electricians — fuelling wage inflation and pay-parity disputes. Layer SSN-AUKUS on top, needing another 4,000 to 5,500 workers, and the author sees the demands as \"industrially unrealistic.\"\n\n## What to Watch\n\nKey dates loom: Farncomb was due back in the fleet by June 2028, which is also when HMAS Collins must begin her own LOTE. If Rankin's overrun keeps cascading, that collision could force availability down to two boats. Collins sustainment is slated to stay on the Projects of Concern list until at least October 2028. Watch whether the crewing spiral materialises and whether it drains sailors away from the future nuclear fleet.",
+    "concepts": [
+     {
+      "term": "Life-of-Type Extension (LOTE)",
+      "definition": "A program to refurbish the ageing Collins-class submarines so they can keep serving into the 2030s and 2040s, downgraded from a full modernisation to a basic refurbishment of five boats.",
+      "context": "The whole article is about this program running behind schedule."
+     },
+     {
+      "term": "full-cycle docking (FCD)",
+      "definition": "The major scheduled overhaul each submarine undergoes, meant to take no more than two years.",
+      "context": "The two-year benchmark is what keeps the maintenance cycle working; slipping past it breaks the whole system."
+     },
+     {
+      "term": "Usage Upkeep Cycle",
+      "definition": "The tight 'one in, one out' maintenance routine, used since 2016, that keeps three submarines available while three are in dock.",
+      "context": "Any overhaul running long shatters this cycle and cuts available boats from three to two."
+     },
+     {
+      "term": "Projects of Concern",
+      "definition": "Defence's official list for troubled programs needing close attention; Collins sustainment has been on it since December 2024.",
+      "context": "Its presence on the list signals the problems are formally recognised by Defence."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the overhaul program slipping past two years cause such big problems?",
+     "options": [
+      "It automatically cancels the AUKUS nuclear submarine deal",
+      "It immediately retires all six Collins-class submarines",
+      "It breaks the Usage Upkeep Cycle, dropping available boats from three to two",
+      "It forces the submarines to be sold overseas"
+     ],
+     "answer_index": 2,
+     "explanation": "The maintenance rhythm depends on each overhaul fitting in two years; when one runs long, the cycle breaks and only two boats stay available instead of three, which then triggers a crewing and training spiral."
+    },
+    "background_beginner": "Australia runs six Collins-class submarines — diesel-electric boats built in Adelaide that have served since the 1990s. They're maintained by a company called ASC at shipyards in Adelaide and Perth. Australia has agreed, under a pact called AUKUS with the US and UK, to eventually get nuclear-powered submarines, but those are years away. To bridge the gap, the government is refurbishing the old Collins boats to keep them going into the 2030s and beyond. The trouble is that these boats are old, overhauls take longer than planned, and the same skilled workers are needed for several big defence projects at once. That's why delays, availability and crewing keep coming up as worries.",
+    "impact_score": 68,
+    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/Collins-Class-submarine-at-ASCs-WA-site.jpg",
+    "region": "Australian defence, ADF, AUKUS, regional security",
+    "region_code": "ADF",
+    "description": "A program to keep Australia's six ageing Collins-class submarines running is slipping, risking a dangerous drop in how many boats can actually go to sea.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "ASPI Strategist",
+      "url": "https://www.aspistrategist.org.au/collins-refurbishment-looks-like-overrunning-hitting-availability/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-11-18T07:26:12.597351+00:00",
+    "published_date": "2026-11-18",
+    "has_fulltext": true
+   },
    {
     "id": "0aa797e4-5d96-5fe7-9db8-4fbf550aa884",
     "title": "Australian research is helping China’s submarine warfare capabilities | The Strategist",
@@ -1533,71 +1606,6 @@
     ],
     "reading_minutes": 4,
     "created_at": "2026-11-17T07:25:59.082738+00:00",
-    "published_date": "2026-11-17",
-    "has_fulltext": true
-   },
-   {
-    "id": "64a3f9ee-2b81-590f-b335-a8b2f5791652",
-    "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
-    "simplified_title": "Albanese balances Trump talks, China ties at Asian summits",
-    "quick_summary": "Anthony Albanese heads into a Quad meeting with Donald Trump this week, pushing to keep the US engaged in the Indo-Pacific while trying not to rattle China.",
-    "simplified_body": "Anthony Albanese will meet US President Donald Trump on Tuesday during a swing through Asian summits, planning to argue for a quick end to the wars in Iran and Ukraine while urging Washington to stay involved in the Indo-Pacific. The gathering of Quad leaders — a grouping of Australia, the United States, Japan and India — takes place in Manila, the Philippines' capital, and will be Trump's first Quad summit in either of his presidencies. Fresh from a heavy loss in the US midterm elections, Trump is also preparing for three-way talks with China's Xi Jinping and Russia's Vladimir Putin.\n\nThis matters for Australia because keeping the US tied to the region is seen as a core strategic interest, especially after a year in which Washington has been busy elsewhere and opened its own channel with Beijing. At the same time, the federal government is trying not to anger China. Australia recently joined the United States, Japan and others in the San Francisco Declaration, part of the Pax Silica accord, designed to firm up supply chains for chips and critical minerals and set standards in artificial intelligence (AI). Other signatories include the UK, India, Israel, South Korea and Singapore.\n\nFor background, the Quad isn't a military alliance, and Washington has said it isn't an anti-China coalition, though Beijing routinely criticises it as \"bloc politics\". Analysts from the Asia Society and the Lowy Institute say the talks will centre on critical minerals, maritime security and energy security.\n\nAlbanese also launched an Asean-Australia (Association of Southeast Asian Nations) digital economy program and raised the deaths of backpackers Bianca Jones and Holly Morton-Bowles, who died from methanol-laced alcohol in Vientiane, Laos, in 2024. He'll finish the week at the Apec (Asia-Pacific Economic Cooperation) leaders' meeting in Shenzhen, China.",
-    "why_it_matters": "For Australia, keeping the US anchored in the Indo-Pacific is treated as the backbone of national security and prosperity, so how Albanese handles Trump without upsetting China has real stakes for the region we live in.",
-    "deep_analysis": "## Historical Context\n\nThe Quad, or Quadrilateral Security Dialogue, brings together Australia, the United States, Japan and India, and these leaders are gathering for the first time since 2024. Trump attending matters because it ties a US president into a shared regional agenda alongside three close partners — something that doesn't happen often. Separately, Australia has signed onto the San Francisco Declaration, part of the Pax Silica accord, aimed at protecting supply chains for chips and critical minerals and shaping AI standards rather than leaving that leadership to others. Signatories include the US, Japan, the UK, India, Israel, South Korea and Singapore.\n\n## Multiple Perspectives\n\nViews differ on what Australia is really doing here. Government sources told Guardian Australia the diplomatic effort is about keeping the US from withdrawing from global leadership in the final two years of Trump's presidency. Asia Society's Premesha Saha agrees keeping Washington engaged is a core Australian interest, but cautions against overstating how much the Quad angers China, noting it isn't a military alliance. The Lowy Institute's Jennifer Parker pushes back on the framing altogether, arguing the US has \"enduring interests\" in the region and doesn't need to be kept engaged — though \"sometimes it pays for Australia to remind them of that\". Beijing, meanwhile, casts the Quad as \"bloc politics\".\n\n## What to Watch\n\nWatch the Tuesday Albanese-Trump meeting and the separate three-way Trump-Xi-Putin talks, which could shape the mood around Iran and Ukraine. Keep an eye on whether the Quad delivers concrete results on critical minerals, maritime and energy security, and how China responds. Domestically, the unresolved charges over the Vientiane methanol deaths remain a live issue, with Laos saying it is trying to bring \"perpetrators\" to justice despite limited evidence.",
-    "concepts": [
-     {
-      "term": "Quad",
-      "definition": "The Quadrilateral Security Dialogue, a grouping of four countries — Australia, the United States, Japan and India — that cooperate on regional strategy, though it is not a military alliance.",
-      "context": "The article's central event is a Quad leaders' summit in Manila, Trump's first."
-     },
-     {
-      "term": "San Francisco Declaration",
-      "definition": "An agreement, part of the Pax Silica accord, aimed at protecting supply chains for computer chips and critical minerals and setting shared standards in artificial intelligence.",
-      "context": "Australia signed it alongside the US, Japan and others to counter China's influence over AI development."
-     },
-     {
-      "term": "critical minerals",
-      "definition": "Raw materials essential for modern technology like chips and batteries, whose supply chains countries want to secure.",
-      "context": "They're a key focus of both the San Francisco Declaration and the Quad talks."
-     },
-     {
-      "term": "Indo-Pacific",
-      "definition": "The broad region spanning the Indian and Pacific Oceans, central to Australia's strategic and security interests.",
-      "context": "Albanese's main aim is keeping the US engaged in the Indo-Pacific."
-     }
-    ],
-    "quiz": {
-     "question": "Why is keeping the US engaged in the Indo-Pacific described as important for Australia?",
-     "options": [
-      "Because it is seen as a core strategic interest underpinning Australia's security and prosperity",
-      "Because the Quad is a formal military alliance that obliges the US to defend Australia",
-      "Because China has asked Australia to host American forces",
-      "Because the US has no other interests in the region and must be persuaded to stay"
-     ],
-     "answer_index": 0,
-     "explanation": "The article frames keeping Washington engaged as a core Australian strategic interest, with analysts linking the region's relationships to national security and prosperity. The Quad is explicitly not a military alliance, and the Lowy Institute's Parker notes the US already has enduring interests there."
-    },
-    "background_beginner": "Anthony Albanese is Australia's prime minister, and Donald Trump is the US president. Both are attending a run of Asian summits, including a meeting of the \"Quad\" — Australia, the US, Japan and India — in Manila. These leaders meet regularly to discuss regional security, trade and technology. A big backdrop is China: Western nations want to keep supply chains for computer chips and critical minerals secure and to shape the rules around artificial intelligence, while being careful not to provoke Beijing. For Australia, which sits in this region, staying close to the US and friendly with neighbours is seen as central to its safety and economy, so these summits keep coming up.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=1920&quality=85&auto=format&fit=max&s=200016eb9bad67f030753050a52ee012",
-    "region": "Australian defence, ADF, AUKUS, regional security",
-    "region_code": "ADF",
-    "description": "Anthony Albanese heads into a Quad meeting with Donald Trump this week, pushing to keep the US engaged in the Indo-Pacific while trying not to rattle China.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "041bf70e-70f0-5c9b-bd43-4589fa019bd1"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-16T19:25:17.780918+00:00",
     "published_date": "2026-11-17",
     "has_fulltext": true
    }
@@ -1813,134 +1821,8 @@
     "created_at": "2026-11-17T01:26:10.769566+00:00",
     "published_date": "2026-11-17",
     "has_fulltext": true
-   },
-   {
-    "id": "bd40819f-c7b5-55b4-9d1d-f606cf1d1858",
-    "title": "'A futuristic debate now very real': Why the world is struggling to regulate killer robots",
-    "simplified_title": "World Struggles to Agree on Rules for Killer Robots",
-    "quick_summary": "Envoys from 128 nations met in Geneva to decide whether to negotiate binding rules on AI weapons that can kill without human input, but big arms-makers are blocking progress.",
-    "simplified_body": "Government representatives from 128 countries gathered in Geneva to decide whether to start formal talks on legally binding rules for autonomous weapon systems — weapons that can pick out and strike targets on their own, without a human pulling the trigger. The meeting happened under the UN's Convention on Certain Conventional Weapons (CCW), where every decision must be reached by consensus, meaning a single country can block an agreement.\n\nThis affects everyone, because the technology is no longer hypothetical. In Ukraine, both Russia and Ukraine are flying drones with AI-powered guidance that can lock onto targets even when they lose contact with human operators. New York Times reporting suggests the first fully autonomous drone killing may have already happened — Ukrainian investigators believe AI-guided Russian drones killed three people at a Zaporizhzhia petrol station in September.\n\nFor background: these debates have run for more than 10 years. Defensive automated systems, like ones that shoot down incoming missiles, have existed for decades and were broadly accepted because their use was narrow. The new worry is offensive drones choosing their own human targets. Researcher Vincent Boulanin notes past bans — on blinding lasers and landmines — show restraint is possible, but autonomous weapons are harder to pin down because they take so many forms.\n\nWhat happens next is uncertain. Most states back binding rules in principle, but major arms producers — the United States, Russia and Israel — oppose them. Boulanin says the US hardened its stance under the Trump administration, partly over strategic competition with China.",
-    "why_it_matters": "Weapons that decide for themselves who lives and dies raise profound legal and moral questions, and the failure of 128 nations to agree sets the rules of future warfare that will shape global security Australia relies on.",
-    "deep_analysis": "## Historical Context\n\nThe idea of machines making life-or-death decisions long sat in the realm of science fiction, captured by that 1979 IBM manual warning that \"a computer must never make a management decision.\" Yet autonomous features in weapons aren't brand new: defensive systems that automatically fire on incoming missiles have existed for decades, accepted because their role was narrow and predictable. Discussions about regulating autonomous weapons have run inside the UN's Convention on Certain Conventional Weapons for more than 10 years. Advocates pointed to two precedents as hopeful blueprints — the 1995 Protocol on Blinding Laser Weapons, which banned a technology before it was ever deployed, and the ban on anti-personnel landmines, driven by documented evidence of civilian harm.\n\n## Multiple Perspectives\n\nA majority of member states support legally binding regulation in principle. Against them stand major arms-producing nations — the United States, Russia and Israel — which have opposed a binding treaty from the start. Boulanin argues their resistance is strategic: the US, eyeing possible future conflict with China, doesn't want to limit its own room to manoeuvre, and Israel wants to keep using the technology against Hamas. He notes the US once engaged constructively but hardened its line under the Trump administration. The core legal debate is whether humans remain genuinely responsible when an algorithm selects and strikes targets.\n\n## What to Watch\n\nThe CCW's consensus rule means a single objector can stall everything, so watch whether frustrated states take the fight to a different forum. Watch, too, for more documented cases of autonomous killings in Ukraine — historically, real humanitarian evidence has been what finally pushed states toward bans.",
-    "concepts": [
-     {
-      "term": "autonomous weapon systems",
-      "definition": "Weapons that can identify, select and strike targets through their own algorithms, without a human making the final decision to fire.",
-      "context": "The Geneva talks are about whether to set binding rules for these systems."
-     },
-     {
-      "term": "consensus",
-      "definition": "A decision-making rule where every participant must agree, so any single country can block an outcome.",
-      "context": "Under the CCW, all decisions must be reached this way, making agreement hard."
-     },
-     {
-      "term": "international humanitarian law",
-      "definition": "The body of rules that governs how wars may be fought, aiming to limit suffering and protect civilians.",
-      "context": "A central question is whether autonomous weapons can be used in line with it."
-     },
-     {
-      "term": "last-mile targeting",
-      "definition": "When a drone finishes an attack using its own automated targeting because it has lost communication with its human operator.",
-      "context": "Boulanin describes this as the unsettling new use case emerging in Ukraine."
-     }
-    ],
-    "quiz": {
-     "question": "Why is it so difficult for the 128 nations to agree on binding rules at the CCW?",
-     "options": [
-      "Decisions require consensus, so major arms producers like the US and Russia can block a deal",
-      "Most countries oppose any regulation of weapons",
-      "There is no evidence that autonomous weapons exist yet",
-      "The UN has no authority over weapons treaties"
-     ],
-     "answer_index": 0,
-     "explanation": "The article explains that all CCW decisions must be reached by consensus, and major arms-producing states such as the US and Russia have consistently opposed binding rules — meaning they can prevent agreement even though most states support regulation."
-    },
-    "background_beginner": "\"Killer robots\" is shorthand for autonomous weapons — machines, usually drones, that can find and attack targets on their own using artificial intelligence, without a person deciding to fire. For over a decade, countries have debated whether to ban or limit them at the United Nations, through a treaty called the Convention on Certain Conventional Weapons. The topic keeps coming up because the war in Ukraine has made it real: both Russia and Ukraine now use AI-guided drones, and there are reports such weapons have already killed people. The main tension is between most nations, who want binding rules, and big weapons-makers like the US, Russia and Israel, who resist them.",
-    "impact_score": 72,
-    "image_url": "https://s.france24.com/media/display/826c555c-e1da-11f1-baa3-3f371022a770/w:1280/p:16x9/000-D68W7VD.jpg",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "Envoys from 128 nations met in Geneva to decide whether to negotiate binding rules on AI weapons that can kill without human input, but big arms-makers are blocking progress.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/technology/20261116-a-futuristic-debate-now-very-real-why-the-world-is-struggling-to-regulate-killer-robots"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 8,
-    "created_at": "2026-11-16T19:25:12.329059+00:00",
-    "published_date": "2026-11-17",
-    "has_fulltext": true
-   },
-   {
-    "id": "bdf08d2c-cb64-5c4a-91b2-3e8ee4fd1672",
-    "title": "US moves to cut China’s remote access to AI chips",
-    "simplified_title": "US Moves to Block China's Remote Access to AI Chips",
-    "quick_summary": "The US is tightening export rules to stop China, Russia and Iran from renting restricted high-end AI chips through data centres in third countries.",
-    "simplified_body": "The Trump administration is preparing a new rule to crack down on foreign data centres that let China tap into powerful artificial intelligence (AI) chips the US has otherwise put off-limits. The Commerce Department says it is closing a loophole that let rivals like China, Russia and Iran dodge export curbs by simply renting access to those chips from data centres in countries such as Indonesia, Malaysia, Singapore, Thailand and Brazil.\n\nThe change mainly affects chip makers and the companies that run big data centres abroad. Firms headquartered in countries judged to carry a \"higher-than-normal risk of diversion\" to China, Russia or Iran will now need a licence, with strict know-your-customer controls, before moving large volumes of advanced chips. If a licence is granted, they must do thorough due diligence and file monthly reports naming every party, their parent companies and the chips' final destination.\n\nFor background: the US restricts the most advanced chips because they are needed to train cutting-edge AI, which Washington fears could help rivals build better weapons of mass destruction, run cyber-espionage, steal algorithms or spread weaponised disinformation. The move follows what the article calls the Nvidia scandal. The South China Morning Post reported that any advanced chip made for a Chinese firm is now assumed to be restricted, so factories must seek a US licence before shipping.\n\nThe rule takes effect 90 days after it is posted to the Federal Register, the US government's official record. Expect affected companies to push back and governments in the named countries to weigh how the controls hit their data-centre industries.",
-    "why_it_matters": "Tightening who can use top-end AI chips reshapes the global tech supply chain, and with data-centre hubs like Singapore caught in the net, the fallout touches Australia's own region and cloud-computing partners.",
-    "deep_analysis": "## Historical Context\n\nThe US has spent years tightening export controls on the most advanced semiconductors, arguing that the chips powering frontier AI are a national-security concern. Earlier rules focused on blocking direct sales of restricted chips to China. The problem, as the Commerce Department describes it, was that rivals could sidestep those curbs entirely by renting remote access to the same chips sitting in data centres in third countries. This new rule targets that workaround, and it arrives, per the article, on the heels of \"the Nvidia scandal.\"\n\n## Multiple Perspectives\n\nFrom Washington's view, the logic is straightforward: if the goal is to deny rivals the compute needed to train military-capable AI, then remote access is just as dangerous as a physical sale, so the loophole must close. The Commerce Department lists fears ranging from weapons of mass destruction to weaponised disinformation.\n\nFor the named countries — Indonesia, Malaysia, Singapore, Thailand and Brazil — the controls land on legitimate data-centre operators who now face licensing, know-your-customer checks and monthly reporting. That is a real compliance burden. The South China Morning Post framing suggests the net is wide: any advanced chip made for a Chinese firm is now assumed restricted.\n\n## What to Watch\n\nWatch the Federal Register posting, since the 90-day clock starts there. Watch how \"higher-than-normal risk of diversion\" gets defined in practice, as that determines which firms are swept in. And watch whether affected data-centre hubs and chip makers lobby for carve-outs or warn of lost business.",
-    "concepts": [
-     {
-      "term": "loophole",
-      "definition": "A gap in a rule that lets someone technically follow the letter of the law while dodging its intent — here, renting chips instead of buying them.",
-      "context": "The US says rivals used remote access to rented chips to get around export bans."
-     },
-     {
-      "term": "know-your-customer controls",
-      "definition": "Checks that require a seller to verify exactly who their customer is and where goods end up, to prevent misuse.",
-      "context": "Companies must apply for licences with these strict controls before shipping high volumes of chips."
-     },
-     {
-      "term": "Federal Register",
-      "definition": "The official daily journal of the US government where new rules and regulations are published.",
-      "context": "The rule takes effect 90 days after it is posted there."
-     },
-     {
-      "term": "due diligence",
-      "definition": "The careful investigation a company must do to confirm a deal is legitimate before completing it.",
-      "context": "Licence holders must perform robust due diligence and file monthly reports on transactions."
-     }
-    ],
-    "quiz": {
-     "question": "What specific loophole is the new US rule trying to close?",
-     "options": [
-      "Chinese firms building their own advanced chips domestically",
-      "Smuggling physical chips across the US–Mexico border",
-      "Rivals renting remote access to restricted chips in foreign data centres",
-      "Companies copying chip designs without paying licence fees"
-     ],
-     "answer_index": 2,
-     "explanation": "The Commerce Department says the rule closes a loophole that let China, Russia and Iran bypass export curbs by renting access to restricted chips from data centres in countries like Singapore and Malaysia."
-    },
-    "background_beginner": "The main players are the US government (through its Commerce Department), chip giant Nvidia, and rival nations China, Russia and Iran. For years the US has restricted sales of the most advanced computer chips because they train powerful artificial intelligence that could, Washington fears, boost rivals' weapons and cyber capabilities. The catch is that rivals found a way around the bans: instead of buying the chips, they rented remote access to them in data centres based in countries like Singapore, Malaysia and Brazil. This keeps coming up because AI and the chips behind it have become central to both economic competition and national security.",
-    "impact_score": 72,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "The US is tightening export rules to stop China, Russia and Iran from renting restricted high-end AI chips through data centres in third countries.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-16T19:25:10.426941+00:00",
-    "published_date": "2026-11-17",
-    "has_fulltext": true
    }
   ]
  },
- "total_stories": 29
+ "total_stories": 27
 }
