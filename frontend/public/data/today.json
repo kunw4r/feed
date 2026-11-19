@@ -1,6 +1,6 @@
 {
- "date": "2026-11-19",
- "generated_at": "2026-11-19T07:23:03.932344+00:00",
+ "date": "2026-11-20",
+ "generated_at": "2026-11-19T19:23:04.310910+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -138,6 +138,69 @@
     "has_fulltext": true
    },
    {
+    "id": "3c52be4e-e784-5c72-bcac-3940f6e9d4e5",
+    "title": "Cheap Chinese EVs are causing havoc on the Australian used car market",
+    "simplified_title": "Cheap Chinese EVs Are Crashing Australia's Used Car Prices",
+    "quick_summary": "A flood of low-cost Chinese electric vehicles has sent used petrol and diesel car values tumbling in Australia, with petrol cars losing value fastest.",
+    "simplified_body": "Australia's second-hand car market has been turned upside down in 2026. There are more used cars for sale, they're selling for less, and petrol cars (not counting hybrids) lost five times more value than the year before. Diesel SUVs also dropped sharply, though utes and big four-wheel drives built for heavy towing held up better. The driver is a wave of cheap, heavily discounted Chinese electric vehicles (EVs) pushing people towards new cars.\n\nThis affects almost everyone, because most Australians buy second-hand — the market shifts over 2 million used cars a year. Dealers call conditions the \"worst ever\", worse even than the Global Financial Crisis (GFC), because they're stuck with stock that's rapidly losing value. One adviser noted new Chinese SUVs are now advertised for the price of a three-year-old Toyota RAV4, but with better tech and an eight-year warranty.\n\nHere's the background: the war in Iran and high fuel prices pushed buyers towards EVs, just as China's domestic sales slumped and the US, Europe and Canada limited Chinese imports — so those cars poured into Australia instead. The Australian Automotive Dealers Association (AADA) wants to block new brands from entering.\n\nWhat's next is hotly debated. Some analysts reckon used petrol and diesel values will keep sliding, especially mid-sized diesel SUVs by 2029. Others, like a Fleet News director and Pickles Auctions, expect a gradual shift rather than a collapse, with utes staying strong. One thing most agree on: it's never been a better time to buy a car.",
+    "why_it_matters": "Most Australians buy second-hand, so if your petrol or diesel car is losing value faster than expected, it directly hits your household budget and your next trade-in.",
+    "deep_analysis": "## Historical Context\n\nUsed cars have always depreciated — that's nothing new. What changed in 2026 is the pace. Some in the industry argue this is simply a correction after second-hand prices ballooned during the pandemic, when supply shortages made cars unusually dear. Others see something bigger: a structural shift as electric vehicles go mainstream. Sales of new petrol cars (excluding hybrids) have almost halved over six years, so the writing may already be on the wall.\n\nThe trigger was a one-off collision of events, according to Carma's chief executive. China's domestic car sales slumped, so manufacturers looked overseas to offload stock — right when the United States, Europe and Canada banned or limited Chinese vehicle imports. Australia, with fewer barriers, copped the overflow and \"the fierce forces of competition like no other market\".\n\n## Multiple Perspectives\n\nThe experts genuinely disagree. Cox Automotive and the EV Council warn that demand for certain petrol and diesel segments could \"evaporate\" faster than people expect, and urge caution before buying a fossil-fuel car. On the other side, a Fleet News director points to lingering doubts about charging infrastructure and sceptical buyers, predicting petrol and diesel will depreciate at the long-term average. Pickles Auctions expects a \"gradual shift\", not a dramatic decline.\n\nWorth noting: used EVs themselves depreciate fast, losing about half their value over three years — though fears about battery degradation appear overblown, with cars entering the market at 90–95 per cent battery health.\n\n## What to Watch\n\nWhether EVs keep getting cheaper is the key unknown. Carma's boss reckons prices may actually rise as incentives roll off, and manufacturers say they can't go lower. But tiny Chinese EVs sell for under $10,000 at home — if a Corolla-quality version reaches Australia cheaply, it could collapse used hatchback values. Also watch diesel mid-sized SUVs heading into 2029.",
+    "concepts": [
+     {
+      "term": "hybrids",
+      "definition": "Cars that combine a petrol engine with an electric motor and battery, using both to improve fuel efficiency.",
+      "context": "The article treats hybrids separately from pure petrol cars because they held their value far better in 2026."
+     },
+     {
+      "term": "depreciate",
+      "definition": "To lose value over time. A car is usually worth less each year than you paid for it.",
+      "context": "The whole story is about how fast different types of used cars are losing value, or depreciating."
+     },
+     {
+      "term": "Global Financial Crisis (GFC)",
+      "definition": "A severe worldwide economic downturn around 2008 that hit jobs, banks and markets, including car sales.",
+      "context": "Dealers say current conditions are worse than even the GFC, highlighting how tough the market is."
+     },
+     {
+      "term": "electric vehicles (EVs)",
+      "definition": "Cars powered by rechargeable batteries and electric motors instead of petrol or diesel.",
+      "context": "A flood of cheap Chinese EVs is the main force reshaping Australia's used car market."
+     }
+    ],
+    "quiz": {
+     "question": "According to the article, which type of used vehicle is expected to hold its value best in the near term?",
+     "options": [
+      "Petrol hatchbacks",
+      "Small electric vehicles",
+      "Mid-sized diesel SUVs",
+      "Diesel utes and large four-wheel drives built for heavy towing"
+     ],
+     "answer_index": 3,
+     "explanation": "Analysts said demand for used diesel utes and large four-wheel drives should stay robust while there are few EV equivalents, whereas mid-sized diesel SUVs and petrol cars are tipped to struggle."
+    },
+    "background_beginner": "Australia's car market has two parts: new cars and used (second-hand) ones, and most Australians actually buy used. For decades, petrol and diesel vehicles dominated both. Recently, Chinese carmakers — some barely known a few years ago — have started selling electric vehicles (cars run on batteries) very cheaply here, partly because the US, Europe and Canada blocked their imports. That flood of affordable new EVs has pushed down the value of older petrol and diesel cars, leaving dealers struggling to sell stock. It keeps coming up because people worry about what their car will be worth later, and because experts can't agree on how fast the shift to electric will go.",
+    "impact_score": 68,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/ed0e1d4fac63f50a80b6360a1b9fd2ab?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "A flood of low-cost Chinese electric vehicles has sent used petrol and diesel car values tumbling in Australia, with petrol cars losing value fastest.",
+    "tier": "LOCAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/science/2026-11-19/low-cost-evs-mean-used-petrol-diesel-cars-lose-value/107374092"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 5,
+    "created_at": "2026-11-19T19:29:23.093835+00:00",
+    "published_date": "2026-11-20",
+    "has_fulltext": true
+   },
+   {
     "id": "676cb75b-e6d0-57be-adea-f5c2ea916a10",
     "title": "Data centres could ignite a 'climate bomb' in Australia, report finds",
     "simplified_title": "Report Warns Data Centres Could Blow Up Australia's Climate Targets",
@@ -268,133 +331,70 @@
     "has_fulltext": true
    },
    {
-    "id": "63d46a98-da00-5a9d-8288-089038be353d",
-    "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
-    "simplified_title": "Aussie Wages Grow Fastest Since 2023, But Prices Rise Faster",
-    "quick_summary": "Australian wages rose 3.5% over the year to September — the quickest pace since late 2023 — but that still wasn't enough to keep up with inflation.",
-    "simplified_body": "The Australian Bureau of Statistics (ABS) reported that its wage price index (WPI) — a measure of what employers pay for a given job — rose 1.1% in the September quarter, lifting the annual increase to 3.5%. A big driver was this year's boost to minimum and award pay: the Fair Work Commission gave a 6% rise to about 100,000 of the lowest-paid workers in early June, and a 4.75% rise to 2.7 million people on award wages.\n\nThis affects pretty much every working Australian and anyone watching the cost of living. Even though pay is climbing about a percentage point faster each year than before the pandemic, prices are rising even quicker, so \"real\" (after-inflation) wages are still going backwards. Public sector pay grew fastest at 3.9% annually — driven by state frontline workers like nurses, midwives and police — while private sector wages rose 3.4%.\n\nFor background, the Reserve Bank of Australia (RBA) lifts interest rates to cool inflation, and it watches wage growth closely because fast pay rises can feed price rises. It has already delivered five rate hikes between February and November this year. Treasurer Jim Chalmers credited the government's support for the minimum pay rise, while opposition leader Angus Taylor said \"Australians are poorer under Labor\".\n\nAnalysts said wages grew faster than the RBA expected, adding slightly to the case for a sixth rate hike. But EY's Cherelle Murphy said a move is unlikely at the RBA's final meeting of the year on 7–8 December, expecting the bank to stay in \"wait-and-see mode\" as the economy slows.",
-    "why_it_matters": "For Australian households, this is the squeeze in a nutshell — pay packets are finally growing faster, but your money still buys less because prices are outrunning wages, and it keeps the RBA weighing yet another rate hike.",
-    "deep_analysis": "## Historical Context\n\nWage growth in Australia was notably sluggish through the 2010s, and the article notes that trend of weak real income gains has largely continued. The pandemic distorted the picture: measures of real average hourly labour income were artificially boosted during that period before settling back. Since the start of 2020, the wage price index is actually down 4.4% in real terms, underlining how inflation has eaten into pay even as headline wage figures tick up. This September quarter result — the fastest pace since late 2023 — sits against that backdrop of a long, grinding stretch of weak real wage growth.\n\n## Multiple Perspectives\n\nTreasurer Jim Chalmers framed the figures positively, crediting the government's backing of the minimum pay rise and arguing that real wages are declining because inflation is too high, not because wages are too low. Opposition leader Angus Taylor countered that \"Australians are working harder for less\" and are \"poorer under Labor\". Economists added nuance: analysts said the figures strengthened, if only marginally, the case for a sixth rate hike, while EY's Cherelle Murphy called the number \"uncomfortably high\" but doubted an immediate RBA response. University of Melbourne economist Jeff Borland cautioned that the WPI measures labour cost to employers, not actual worker incomes — and by a broader measure, things look less dire, though still not \"gangbusters\".\n\n## What to Watch\n\nThe key near-term event is the RBA's final board meeting of the year on 7–8 December, where the bank will decide whether to add a sixth rate hike to the five already delivered this year. Watch whether the \"uncomfortably high\" wage figure tips the balance or whether a slowing economy keeps the bank in wait-and-see mode. Beyond that, the gap between wage growth and inflation — the real wage story — remains the number that matters most for household budgets.",
+    "id": "22c09967-af44-5640-9801-3c2a800e28cb",
+    "title": "Transmission line to take 'days' to fix, forcing closure of Eyre Peninsula schools",
+    "simplified_title": "Storm topples power towers, blacks out Eyre Peninsula",
+    "quick_summary": "A violent storm toppled major transmission towers on South Australia's Eyre Peninsula, cutting power to around 24,000 properties in a blackout that could take days to fix.",
+    "simplified_body": "A fierce, localised storm cell hit Port Neill on South Australia's Eyre Peninsula about 3pm on Thursday, knocking over two major electricity transmission towers and damaging a third. About 24,000 properties lost power, and the main transmission line could take days to repair. Phone services were also hit, and later storms knocked out power to more than 3,000 extra properties around Adelaide.\n\nThe outage has disrupted homes, schools, businesses and hospitals right in the middle of what locals call the biggest harvest ever. Grain receivals had to turn trucks away, pub kitchens closed with fridges full of fresh food, and one farmer feared his crop was completely wiped out. Several schools stayed closed, though staff remained on hand, and eight hospitals switched to backup generators.\n\nThe transmission towers and lines are run by ElectraNet, while the Australian Energy Market Operator (AEMO) manages the broader National Electricity Market. The SA government issued an \"emergency declaration\" instructing AEMO to seek \"spare generation\" — firing up local turbines and generators near Port Lincoln to supply back-up power. Premier Peter Malinauskas warned these generators are \"fragile\" and success was not guaranteed.\n\nPolice prioritised restoring power to telecommunication towers, whose batteries deplete over time, to stop communities being cut off. Locals drew grim comparisons to the 2016 statewide blackout that left parts of the peninsula without power for about three days. Kimba Mayor Dean Johnson said promised back-up measures after that event \"hasn't eventuated\", and it \"looks like lightning has struck twice\".",
+    "why_it_matters": "The Eyre Peninsula is prime grain-growing country, and this blackout struck at peak harvest, threatening real financial losses for South Australian farmers and businesses while reigniting long-running questions about the state's energy security.",
+    "deep_analysis": "## Historical Context\n\nSouth Australia has a tense relationship with power reliability, most famously the September 2016 statewide blackout, when severe storms downed transmission towers and the whole state lost electricity. Parts of the Eyre Peninsula went without power for about three days during that event. That blackout became a national political flashpoint over energy security and renewable reliance. Locals like Kimba Mayor Dean Johnson say the back-up measures discussed afterwards never fully materialised — which is why this fresh outage feels, in his words, like \"lightning has struck twice\".\n\n## Multiple Perspectives\n\nThe state government stresses it's acting fast: an emergency declaration, an instruction to AEMO to find spare generation, and reassurance that hospital backup systems are working as they should. ElectraNet, which owns the towers, says power is \"unlikely to be restored in the immediate term\" and is focused on safely assessing damage first. Farmers and business owners feel the sharpest edge — one farmer believes his crop is \"100 per cent wiped out\", and a Port Lincoln pub faces losing fridges full of fresh fish and meat. Notably, the premier says ElectraNet recently invested \"north of $100 million\" to strengthen the link, yet a farmer whose property holds a downed tower says they were built \"only two or three years ago\" and appear felled by wind, not lightning.\n\n## What to Watch\n\nThe key question is whether the \"fragile\" local turbines and generators near Port Lincoln can be energised to restore the \"vast majority\" of supply before the days-long transmission repair finishes. Watch telecommunications — police are prioritising towers whose batteries deplete over time, risking isolated communities. Longer term, expect renewed scrutiny of why a recently upgraded, $100-million-strengthened line failed, and whether promised post-2016 back-up safeguards get delivered this time.",
     "concepts": [
      {
-      "term": "wage price index",
-      "definition": "An ABS measure of how much employers pay for the same job over time, stripping out changes caused by people switching roles or working more hours.",
-      "context": "Economists use it to gauge inflationary pressure in the labour market, though it doesn't capture workers' actual take-home incomes."
+      "term": "transmission towers",
+      "definition": "The tall steel structures that carry high-voltage power lines across long distances, moving electricity from where it's generated to local networks.",
+      "context": "Two were toppled and a third damaged, cutting the main supply line to the peninsula."
      },
      {
-      "term": "award wages",
-      "definition": "Legally set minimum pay rates for particular industries or occupations, decided by the Fair Work Commission.",
-      "context": "This year's 4.75% rise to award wages lifted pay for 2.7 million Australian workers."
+      "term": "emergency declaration",
+      "definition": "A formal government order that unlocks special powers — here, allowing the minister to instruct the market operator to find back-up generation.",
+      "context": "The SA government issued one to AEMO instructing it to 'seek spare generation'."
      },
      {
-      "term": "real wages",
-      "definition": "Wages adjusted for inflation — what your pay can actually buy after accounting for rising prices.",
-      "context": "Even though nominal wages rose, real wages fell because inflation outpaced pay growth."
+      "term": "spare generation",
+      "definition": "Extra electricity-generating capacity, such as standby turbines and generators, that can be switched on to supply power when the main network fails.",
+      "context": "Local turbines near Port Lincoln were being energised as emergency back-up supply."
      },
      {
-      "term": "Reserve Bank of Australia",
-      "definition": "Australia's central bank, which sets the official interest rate to manage inflation and the economy.",
-      "context": "It watches wage growth closely because fast pay rises can feed into higher prices."
+      "term": "National Electricity Market",
+      "definition": "The interconnected grid and wholesale market supplying electricity across much of eastern and southern Australia, overseen by AEMO.",
+      "context": "AEMO said there was no broader impact to its security and reliability despite the outage."
      }
     ],
     "quiz": {
-     "question": "Why are Australians' real wages still declining even though wage growth hit its fastest pace since 2023?",
+     "question": "Why was restoring power to telecommunication towers made a priority during the outage?",
      "options": [
-      "Because the government cut minimum pay rates",
-      "Because public sector pay fell sharply",
-      "Because the RBA cut interest rates five times",
-      "Because prices (inflation) are rising even faster than wages"
+      "They generate electricity for nearby homes",
+      "Phone companies legally outrank hospitals for power",
+      "They were the only structures damaged in the storm",
+      "Their batteries deplete over time, risking communities being left isolated"
      ],
      "answer_index": 3,
-     "explanation": "The article explains real wages are falling not because wages are too low but because inflation is rising even more quickly than pay, so money buys less."
+     "explanation": "Police said tower batteries deplete over time, so generators were placed to maintain coverage and stop any community being cut off from telecommunications."
     },
-    "background_beginner": "In Australia, wages, prices and interest rates are tightly linked. The Australian Bureau of Statistics (ABS) tracks how fast pay is rising, while the Fair Work Commission sets minimum and award wages for millions of lower-paid workers. The Reserve Bank of Australia (RBA) sets interest rates and lifts them to slow inflation — it has raised rates five times this year. Politically, the Labor government (Treasurer Jim Chalmers) and the opposition (leader Angus Taylor) clash over who's to blame for the cost-of-living squeeze. This keeps coming up because, even when pay rises, prices often rise faster, so households feel worse off — a tension that drives both economic policy and political debate.",
-    "impact_score": 68,
-    "image_url": "https://i.guim.co.uk/img/media/7ebf7b78f27fb886cb74a082d7f78b3e80603115/584_0_5840_4672/master/5840.jpg?width=1920&quality=85&auto=format&fit=max&s=8b2c76eebcdc9d14e8297886cf652e0b",
+    "background_beginner": "The Eyre Peninsula is a large, sparsely populated farming region in South Australia, known as prime grain-growing country. Its electricity arrives via long transmission lines run by a company called ElectraNet; the broader grid is overseen by the Australian Energy Market Operator (AEMO). When a sudden, severe storm toppled two major steel towers carrying those lines, around 24,000 properties lost power — hitting homes, schools, hospitals, phones and farms mid-harvest. Energy reliability keeps coming up in South Australia because of a major statewide blackout in 2016, when storms also downed towers and left parts of the peninsula dark for days. Each new outage revives debate over how secure the state's power really is.",
+    "impact_score": 58,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/2f5586eafc6e6b5832199c847a5448ea?impolicy=wcms_watermark_news&cropH=404&cropW=718&xPos=2&yPos=195&width=862&height=485&imformat=generic",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "Australian wages rose 3.5% over the year to September — the quickest pace since late 2023 — but that still wasn't enough to keep up with inflation.",
+    "description": "A violent storm toppled major transmission towers on South Australia's Eyre Peninsula, cutting power to around 24,000 properties in a blackout that could take days to fix.",
     "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
+    "category": "ENVIRONMENT_CLIMATE",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-18T07:26:40.787508+00:00",
-    "published_date": "2026-11-18",
-    "has_fulltext": true
-   },
-   {
-    "id": "2dedf00d-6cfd-5b29-b42e-b85eec414e54",
-    "title": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
-    "simplified_title": "One Nation Plan Would Slash Refugee Intake by 90 Per Cent",
-    "quick_summary": "One Nation has announced a plan to cut Australia's yearly refugee intake from 20,000 to 2,000 and scrap the permanent parent visa program, drawing sharp criticism from political opponents and refugee advocates.",
-    "simplified_body": "Pauline Hanson's One Nation has unveiled what it calls a \"tough love\" migration plan. The party would cut Australia's refugee intake by 90 per cent — from 20,000 places a year down to 2,000 — and scrap the permanent parent visa program, which lets migrants bring their parents to live here. Hanson argues the cost to taxpayers is too high and claims the changes would save the budget billions over a decade (the Guardian reports her figure as more than $140bn, while the ABC cites $100 billion). These numbers come from One Nation's own analysis of Treasury data and have not been checked by the independent Parliamentary Budget Office (PBO).\n\nThis affects refugees fleeing war and persecution, plus roughly 157,000 people already queued for parent visas, who'd get their application fee refunded but may have to leave. Home Affairs Minister Tony Burke warns that skilled workers in hospitals and aged care won't come if they can't bring family. Foreign Minister Penny Wong says ending parent visas would be \"very harsh\".\n\nFor background: Australia currently caps parent visas at 8,500 a year, and waits already stretch to 42 years for some categories. The Refugee Council of Australia notes the humanitarian program is only about 6.6 per cent of net overseas migration (the total number of people added to the population through migration), so cutting it would barely dent overall numbers.\n\nLabor has committed to keeping the 20,000 refugee intake; the Coalition promises to halve it to 10,000. With a Victorian state election coming up, expect migration to stay a hot political topic.",
-    "why_it_matters": "Migration and refugee numbers are shaping up as a defining fight across Australian politics, and this plan pushes the debate further to the right just as a Victorian state election looms — forcing the major parties to stake out their own positions on who gets to call Australia home.",
-    "deep_analysis": "## Historical Context\n\nOne Nation has campaigned against immigration for decades, and this announcement builds on a broader plan the party revealed in September for \"net-negative migration\" — cutting 750,000 temporary visa holders over three years before capping annual net overseas migration at 130,000. The party has long wanted Australia to withdraw from the United Nations Refugee Convention and bring back temporary protection visas. Critics describe this latest move, as the Greens' David Shoebridge put it, as \"the latest shameful chapter in a decades-long campaign against people seeking safe shelter\". The backdrop is a government already chasing lower migration, having recently wound back planned cuts to the backpacker intake after farming, hospitality and tourism sectors objected.\n\n## Multiple Perspectives\n\nHanson frames this as prioritising Australians who are \"doing it tough\", pointing to aged care bed shortages and taxpayer costs. Labor's Tony Burke counters that it's \"a complete attack on the services Australians rely on\", since skilled migrants won't come without their families. Penny Wong accuses One Nation of trying to divide the country and disputes the claim Australia would stay above the OECD (Organisation for Economic Co-operation and Development) average. Importantly, the OECD figures only count refugees resettled through the UNHCR process — so countries like Germany and the US, which take mostly asylum seekers crossing their borders, appear lower than they really are. Even the Coalition's Angus Taylor pushed back, saying \"some of the greatest Australians came here as refugees.\" Refugee advocates and former refugees like Zaki Haidari call the debate retraumatising and a distraction from real solutions.\n\n## What to Watch\n\nKeep an eye on the costings dispute: One Nation declined to have its numbers verified by the PBO, which has the power to access non-public government data and has costed other parties' long-term policies before. Watch whether the figures gain traction or get picked apart. The upcoming Victorian state election is a near-term test of how voters respond. Longer term, watch whether the major parties shift their own positions in response to One Nation's harder line.",
-    "concepts": [
-     {
-      "term": "parent visa program",
-      "definition": "A scheme letting migrants sponsor their parents to move permanently to Australia; the government caps how many are granted each year.",
-      "context": "One Nation wants to scrap the permanent version, leaving only a sponsored or temporary-visit pathway."
-     },
-     {
-      "term": "Parliamentary Budget Office",
-      "definition": "An independent body that analyses and costs political policies, with access to government data not otherwise public.",
-      "context": "One Nation's savings claims have not been checked by it, and Hanson argued it only costs policies over about a year."
-     },
-     {
-      "term": "net overseas migration",
-      "definition": "The total number of people added to Australia's population through migration over a period, after accounting for those leaving.",
-      "context": "The Refugee Council notes the humanitarian program is only about 6.6 per cent of this figure."
-     },
-     {
-      "term": "OECD",
-      "definition": "The Organisation for Economic Co-operation and Development, a group of mostly wealthy nations used for international comparisons.",
-      "context": "Hanson claims Australia would stay above its average refugee intake per capita, but critics say the figures are misleading."
-     }
-    ],
-    "quiz": {
-     "question": "Why do refugee advocates argue that cutting the humanitarian intake would do little to reduce overall migration?",
-     "options": [
-      "Because refugees mostly leave Australia within a year",
-      "Because parent visas make up most of the migration figure",
-      "Because the OECD requires Australia to maintain its intake",
-      "Because the humanitarian program is only about 6.6 per cent of net overseas migration"
-     ],
-     "answer_index": 3,
-     "explanation": "The Refugee Council of Australia pointed out the humanitarian program accounts for only about 6.6 per cent of net overseas migration, so cutting it would barely affect total migration levels while severely harming people fleeing danger."
-    },
-    "background_beginner": "One Nation is a right-wing minor party led by Senator Pauline Hanson, long known for campaigning to reduce immigration. Australia runs a humanitarian program that resettles a set number of refugees each year (currently 20,000), plus visa schemes that let migrants bring family, including parents. Migration numbers are a recurring flashpoint in Australian politics, especially during cost-of-living pressures and housing shortages, when some politicians link population growth to those problems. The major parties — Labor and the Coalition — and the Greens all hold different positions, so when One Nation proposes dramatic cuts, it reignites a long-running national debate about who Australia should accept and at what cost.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/e0bd685d5212b9d82f949380b0c2a4810b721664/0_0_7910_5274/master/7910.jpg?width=1920&quality=85&auto=format&fit=max&s=1850209a4290422339217ff0a634d88c",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "One Nation has announced a plan to cut Australia's yearly refugee intake from 20,000 to 2,000 and scrap the permanent parent visa program, drawing sharp criticism from political opponents and refugee advocates.",
-    "tier": "LOCAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-19/transmission-towers-brought-down-cutting-eyre-peninsula-power/107405826"
      },
      {
       "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-18/pauline-hanson-announces-plan-to-cut-refugee-intake-parent-visas/107397374"
+      "url": "https://www.abc.net.au/news/2026-11-20/impact-of-widespread-power-supply-cut-across-eyre-peninsula/107406428"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
     "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-18T07:26:20.315109+00:00",
-    "published_date": "2026-11-18",
+    "reading_minutes": 6,
+    "created_at": "2026-11-19T19:28:53.666866+00:00",
+    "published_date": "2026-11-20",
     "has_fulltext": true
    }
   ],
@@ -468,6 +468,72 @@
     "reading_minutes": 5,
     "created_at": "2026-11-19T07:24:52.305177+00:00",
     "published_date": "2026-11-19",
+    "has_fulltext": true
+   },
+   {
+    "id": "1e41ff50-df2d-5ca7-a554-07ac0a6958cd",
+    "title": "Parts of Bangladesh shut down in protests by Hasina's party, Yunus' home set ablaze",
+    "simplified_title": "Bangladesh shutdowns and arson as Hasina plans December return",
+    "quick_summary": "Supporters of ousted Bangladeshi leader Sheikh Hasina shut down parts of the country in violent protests, with two ruling-party members killed and the ancestral home of former interim leader Muhammad Yunus set alight.",
+    "simplified_body": "Parts of Bangladesh ground to a halt on Thursday as police reported two ruling-party members killed and the ancestral home of former interim leader Muhammad Yunus set on fire in Chattogram, about 300km from the capital, Dhaka. Police believe flammable substances were thrown into an unused ground-floor room; Yunus' family, who live upstairs, are safe. The unrest comes ahead of a planned December return by former Prime Minister Sheikh Hasina.\n\nHasina's Awami League party called the nationwide lockdown the peak of a week-long campaign against the government's refusal to grant her a new passport and identity card to come home. To head off violence, 97 platoons of the Bangladesh Border Guard spread across seven districts, including Hasina strongholds Gopalganj and Faridpur. Over 10 days, police reported dozens of crude bomb blasts and vehicles torched in at least 28 districts.\n\nHere's the background. Hasina fled to neighbouring India in August 2024 after violent protests over a student-led uprising forced her out. A local court later sentenced her to death for ordering a deadly crackdown on that uprising — a year ago this week. Yunus, a Nobel laureate who founded Grameen Bank, led the interim government that followed and has faced hostility from Hasina's supporters. At least 37 Grameen Bank branches have been hit by arson or attempted fires since 10 November.\n\nWhat next? Authorities detained former education minister Nurul Islam Nahid over killings during the 2024 protests. Home Minister Salahuddin Ahmed accused exiled Awami League leaders of inciting the violence and vowed prosecutions. Most Awami League leaders are in hiding and could not be reached.",
+    "why_it_matters": "Bangladesh is a major garment supplier and a big South Asian neighbour, so renewed instability there ripples through regional trade and migration that touch Australia's own supply chains and diaspora communities.",
+    "deep_analysis": "## Historical Context\n\nBangladesh's politics have long been dominated by two rival figures and parties, and Sheikh Hasina's Awami League held power for years before she fled to India in August 2024 amid violent protests sparked by a student-led uprising. The interim government that took over was led by Muhammad Yunus, a Nobel Peace Prize laureate internationally known as the founder of Grameen Bank and the microcredit movement. A local court has since sentenced Hasina to death in absentia for ordering a deadly crackdown on that 2024 uprising — a ruling handed down a year ago this week.\n\n## Multiple Perspectives\n\nThe Awami League frames the current shutdowns as a legitimate campaign against the government's refusal to grant Hasina a new passport and identity card so she can return. The authorities see it very differently: Home Minister Salahuddin Ahmed has accused Awami League leaders abroad of inciting supporters to destabilise the country and torch property, promising prosecutions. The targets of the violence — Yunus' family home and dozens of Grameen Bank branches — suggest the unrest is aimed squarely at the institutions and figures associated with the post-Hasina order. With most Awami League leaders in hiding or in exile, their side of events is hard to verify directly.\n\n## What to Watch\n\nThe flashpoint is Hasina's planned December return and whether it goes ahead given the passport dispute and her death sentence. Watch the deployment of the Border Guard across strongholds like Gopalganj and Faridpur, the pace of detentions such as that of former minister Nurul Islam Nahid, and whether arson attacks on Grameen Bank spread further. Any escalation could test the interim government's grip and the fragile stability since August 2024.",
+    "concepts": [
+     {
+      "term": "Awami League",
+      "definition": "The political party led by former Prime Minister Sheikh Hasina, now in opposition after her ouster.",
+      "context": "The party called the nationwide lockdown in protest against the government's refusal to grant Hasina a new passport."
+     },
+     {
+      "term": "interim leader",
+      "definition": "A temporary head of government who runs the country until a more permanent arrangement, such as an election, is in place.",
+      "context": "Muhammad Yunus served as interim leader of the government that took over after Hasina fled."
+     },
+     {
+      "term": "Grameen Bank",
+      "definition": "A microcredit bank founded by Muhammad Yunus that lends small amounts to poor borrowers.",
+      "context": "At least 37 of its branches have been targeted in arson attacks since 10 November."
+     },
+     {
+      "term": "in absentia",
+      "definition": "A legal proceeding or sentence carried out while the accused is absent.",
+      "context": "Hasina was sentenced to death while living in exile in neighbouring India."
+     }
+    ],
+    "quiz": {
+     "question": "Why did Hasina's Awami League party call the nationwide shutdown?",
+     "options": [
+      "To support Muhammad Yunus' interim government",
+      "To celebrate her planned December return",
+      "To demand new national elections be held immediately",
+      "To protest the government's refusal to grant her a new passport and identity card"
+     ],
+     "answer_index": 3,
+     "explanation": "The party called the lockdown as the culmination of a campaign against the government's rejection of Hasina's request for a new passport and identity card that would let her return."
+    },
+    "background_beginner": "Bangladesh is a densely populated South Asian country whose politics has long been split between two rival camps. Sheikh Hasina was its long-serving Prime Minister until a student-led uprising in August 2024 forced her to flee to neighbouring India. A Nobel Peace Prize winner, Muhammad Yunus — famous for founding Grameen Bank and pioneering tiny \"microcredit\" loans — then led an interim government. A court has since sentenced Hasina to death for ordering a deadly crackdown on that uprising. The story keeps flaring up because her supporters, in the Awami League party, want her to return, while the new authorities accuse them of stirring violence.",
+    "impact_score": 68,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--NxlbJ_Qw--/c_crop,h_449,w_799,x_1,y_56/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-19T055840Z_1_LYNXNPEMAI0GO_RTROPTP_3_BANGLADESH-POLITICS.JPG?itok=Pk4hMRjn",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "Supporters of ousted Bangladeshi leader Sheikh Hasina shut down parts of the country in violent protests, with two ruling-party members killed and the ancestral home of former interim leader Muhammad Yunus set alight.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/bangladesh-protets-sheikh-hasina-yunus-home-fire-6565011"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "0e090fb7-33ce-5149-8552-30728f3d2165",
+     "e5eb37e6-390d-5c47-9ce6-0eaa27c05f77"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-19T19:28:49.939040+00:00",
+    "published_date": "2026-11-20",
     "has_fulltext": true
    },
    {
@@ -602,6 +668,64 @@
     "reading_minutes": 4,
     "created_at": "2026-11-18T19:27:43.162473+00:00",
     "published_date": "2026-11-19",
+    "has_fulltext": true
+   },
+   {
+    "id": "a4173b6f-057f-5d2b-9648-176a84800851",
+    "title": "India: Nearly 50,000 evacuated as Cyclone Akvan, third severe storm in a month, nears coast",
+    "simplified_title": "Cyclone Akvan nears India's east coast, thousands evacuated",
+    "quick_summary": "Odisha has evacuated roughly 50,000 people as Cyclone Akvan, the third severe storm to hit India's east coast in under a month, approaches landfall by Friday noon.",
+    "simplified_body": "The Indian state of Odisha has moved tens of thousands of people to safety ahead of Cyclone Akvan, which is expected to cross the coast by noon on Friday. The India Meteorological Department (IMD) predicts landfall somewhere between Narsapur in Andhra Pradesh and Puri in Odisha, with winds of up to 110 kilometres per hour. Encouragingly, the IMD now expects a \"severe\" cyclonic storm rather than the \"very severe\" one it had earlier forecast.\n\nThe people most affected are coastal communities in Odisha, especially Ganjam district, where most evacuees come from. Reuters, citing the chief minister's office, put the number evacuated at more than 47,000 by Thursday, while local media said around 50,000 and reported that 3,000 cyclone shelters had been opened. Schools across at least nine districts have been shut for several days, and red alerts for heavy rain are in place. Across the border in Andhra Pradesh, a disaster official said there had been no evacuations yet because the storm had weakened.\n\nFor newcomers: India's east coast, facing the Bay of Bengal, is one of the world's most cyclone-prone stretches, and Odisha has invested heavily in early-warning systems and mass evacuations to reduce deaths. What makes this spell unusual is the frequency — Akvan follows Cyclone Arnab in late October and Cyclone Murasu earlier this month.\n\nAttention now turns to Friday's landfall. Forecasters will be watching whether the storm weakens further or regains strength, and whether Andhra Pradesh needs to begin evacuations of its own.",
+    "why_it_matters": "Three severe storms in a month is a striking cluster for a region Australians will recognise from our own cyclone seasons, and it tests how well large-scale evacuation planning holds up under repeated strain.",
+    "deep_analysis": "## Historical Context\n\nIndia's east coast, lining the Bay of Bengal, has long been battered by cyclones, and the state of Odisha in particular has a difficult history with them. Over recent decades, governments there have built up cyclone shelters and well-drilled evacuation routines, which is why moving tens of thousands of people — and opening 3,000 shelters — is now a practised response rather than an emergency scramble. Cyclone Akvan is notable less for its individual strength, which the IMD has actually downgraded from \"very severe\" to \"severe,\" than for arriving as the third such storm in under a month, after Cyclone Arnab in late October and Cyclone Murasu earlier this month.\n\n## Multiple Perspectives\n\nThere's a small gap in the numbers worth noting: Reuters, citing the chief minister's office, reported more than 47,000 people evacuated, while local media put the figure at about 50,000. On the storm's severity, the picture is reassuring from Andhra Pradesh, where disaster official Prakhar Jain told Reuters there had been no evacuations yet because \"the storm has reduced in intensity.\" Odisha's authorities, led by Chief Minister Mohan Charan Majhi, are clearly taking no chances, closing schools across a widening list of districts even as the forecast eases.\n\n## What to Watch\n\nThe key moment is landfall, expected by noon Friday between Narsapur and Puri. Watch whether winds stay near the forecast 110 kmph or ease further, whether Andhra Pradesh moves to evacuate if conditions shift, and how the red-alert rainfall translates into flooding risk once the storm comes ashore.",
+    "concepts": [
+     {
+      "term": "India Meteorological Department",
+      "definition": "India's national weather agency, responsible for forecasting cyclones and issuing alerts and warnings.",
+      "context": "The IMD predicted where Akvan would make landfall and downgraded its expected intensity."
+     },
+     {
+      "term": "cyclone shelters",
+      "definition": "Purpose-built strong buildings where coastal residents can take refuge during a storm.",
+      "context": "Odisha opened 3,000 of them as part of its evacuation effort."
+     },
+     {
+      "term": "landfall",
+      "definition": "The point and moment when a cyclone's centre crosses from the sea onto land.",
+      "context": "Akvan's landfall was expected by noon Friday between Narsapur and Puri."
+     }
+    ],
+    "quiz": {
+     "question": "What is unusual about Cyclone Akvan compared with a typical storm?",
+     "options": [
+      "It made landfall without any warning from forecasters",
+      "It is the strongest cyclone ever recorded in the Bay of Bengal",
+      "It struck India's west coast rather than the east",
+      "It is the third severe storm to threaten India's east coast in under a month"
+     ],
+     "answer_index": 3,
+     "explanation": "Akvan follows Cyclone Arnab in late October and Cyclone Murasu earlier in the month, making it the third severe storm to hit the east coast in less than a month — notable for its frequency rather than its strength, which the IMD actually downgraded."
+    },
+    "background_beginner": "Odisha is a coastal state in eastern India that faces the Bay of Bengal, one of the most cyclone-prone seas on Earth. Cyclones — the same kind of storms Australians call cyclones and Americans call hurricanes — regularly form there and sweep ashore, bringing fierce winds and flooding rain. India's weather agency, the India Meteorological Department, tracks these storms and issues warnings, while state governments move people from low-lying areas into sturdy shelters. Odisha is known for large, well-organised evacuations that have saved many lives. This keeps coming up because the region is hit year after year — and this season has been especially busy, with three severe storms in a single month.",
+    "impact_score": 58,
+    "image_url": "https://static.dw.com/image/79987288_6.jpg",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "Odisha has evacuated roughly 50,000 people as Cyclone Akvan, the third severe storm to hit India's east coast in under a month, approaches landfall by Friday noon.",
+    "tier": "GLOBAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/india-nearly-50-000-evacuated-as-cyclone-akvan-nears-the-coast/live-79987334?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 5,
+    "created_at": "2026-11-19T19:29:22.968655+00:00",
+    "published_date": "2026-11-20",
     "has_fulltext": true
    }
   ],
@@ -878,69 +1002,6 @@
     "has_fulltext": true
    },
    {
-    "id": "881550ab-1d87-5144-99c7-79cc688f1ad1",
-    "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-    "simplified_title": "Watchdog warns Gaza ceasefire could collapse without urgent action",
-    "quick_summary": "A US-backed oversight body has told the UN Security Council that the year-old Gaza ceasefire may collapse unless both Israel and Hamas start honouring the deal they signed.",
-    "simplified_body": "The Board of Peace — a United States-backed body set up in 2025 to oversee the Gaza ceasefire and rebuilding — has handed the United Nations (UN) Security Council a bleak report. Submitted on Tuesday and obtained by The Associated Press, it warns that the truce between Israel and Hamas could be on the brink of collapse unless the 2025 ceasefire deal is actually put into practice. The board says the gap between what was agreed and what is happening on the ground is the single biggest risk.\n\nThis matters for the more than two million Palestinians in Gaza, a narrow coastal strip. Since October 2023, Israel has waged what the article describes as a genocidal war that has killed more than 74,000 Palestinians. The board says Israeli restrictions on supplies and equipment, plus funding shortfalls, have blocked life-saving aid and left people facing \"another winter in tents and rubble\".\n\nThe ceasefire formally began on 10 October 2025, built on a 20-point peace plan first proposed by US President Donald Trump in September 2025. The plan laid out steps for each side and a \"credible pathway\" to Palestinian statehood. But the board says both sides have fallen far short, and that Israel has blocked the technocratic civil administration body meant to run Gaza temporarily, as well as decisions needed to deploy civilian police.\n\nThe board is urging the Security Council to press both sides to deliver. It warns that if the ceasefire collapses, \"there would be no road map to return to\", and insists any outcome must keep a credible path towards Palestinian statehood open.",
-    "why_it_matters": "A collapse would reignite one of the world's deadliest conflicts and worsen a winter humanitarian crisis; Australia, which has backed ceasefire efforts and moved towards recognising Palestinian statehood, has a direct stake in whether this fragile deal holds.",
-    "deep_analysis": "## Historical Context\n\nThe war began in October 2023 and, by the board's count, has killed more than 74,000 Palestinians in Gaza. After roughly two years of fighting, a ceasefire was brokered around a 20-point peace plan that US President Donald Trump first floated in September 2025. The truce formally took effect on 10 October 2025, and the Board of Peace was created the same year, at Trump's behest, to supervise both the ceasefire and the enormous reconstruction job ahead. As background, ceasefires in long, bitter conflicts often falter in the implementation phase — when the hard detail of withdrawals, policing and aid delivery has to be negotiated on the ground rather than on paper.\n\n## Multiple Perspectives\n\nThe board itself takes a pointed line: it blames the gap between the signed deal and reality, singling out Israel for blocking the interim civil administration body and for not deciding on arrangements to train and deploy civilian police. It also stresses that neither party may treat the other's delay as an excuse for its own inaction — language that spreads responsibility across both Israel and Hamas while making clear each has obligations. The report frames Israeli supply restrictions and funding shortfalls as direct causes of the aid crisis. The article does not include responses from the Israeli government or Hamas, so their counter-arguments aren't captured here.\n\n## What to Watch\n\nKey signals: whether the UN Security Council acts on the board's call to pressure both sides; whether Israel makes the decisions needed to let the civil administration and civilian police deploy; and whether aid restrictions ease before winter deepens. The board's warning that collapse would leave \"no road map to return to\" is the central stake — watch for any movement, or further breakdown, in the weeks ahead.",
-    "concepts": [
-     {
-      "term": "Board of Peace",
-      "definition": "A United States-backed body created in 2025 to oversee the Gaza ceasefire deal and the territory's reconstruction.",
-      "context": "Set up at President Trump's behest, it reports to the UN Security Council on how the truce is holding up."
-     },
-     {
-      "term": "ceasefire",
-      "definition": "An agreement between warring sides to stop fighting, often as a step towards a longer peace.",
-      "context": "The Gaza ceasefire formally began on 10 October 2025 but attacks have continued since."
-     },
-     {
-      "term": "technocratic civil administration body",
-      "definition": "A group of non-political experts meant to run Gaza's day-to-day affairs on an interim basis.",
-      "context": "The board says Israel has blocked this body, impeding the peace plan's implementation."
-     },
-     {
-      "term": "Palestinian statehood",
-      "definition": "The goal of establishing an independent, self-governing state for Palestinians.",
-      "context": "The 20-point plan envisioned a credible pathway towards it as the ultimate outcome."
-     }
-    ],
-    "quiz": {
-     "question": "According to the board, what is the principal risk to the Gaza peace process?",
-     "options": [
-      "The gap between what was agreed and what is happening on the ground",
-      "A lack of international funding for reconstruction",
-      "The onset of the winter season",
-      "Disagreement among Security Council members"
-     ],
-     "answer_index": 0,
-     "explanation": "The report explicitly calls the distance between what has been agreed and what is happening on the ground the principal risk, pointing to both sides falling short on their commitments."
-    },
-    "background_beginner": "Gaza is a small, densely populated coastal strip that has been at the centre of a war since October 2023 between Israel and Hamas, the group that governs the territory. The article says the fighting has killed more than 74,000 Palestinians. In 2025, US President Donald Trump proposed a 20-point peace plan, and a ceasefire officially began on 10 October 2025. To supervise the truce and the massive rebuilding effort, the US helped create the Board of Peace. It keeps coming up because the ceasefire is fragile — aid is being blocked, promised arrangements haven't been made, and the board keeps warning the whole deal could fall apart.",
-    "impact_score": 78,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcb93f966d-1794947391.jpg?resize=1920%2C1440",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "A US-backed oversight body has told the UN Security Council that the year-old Gaza ceasefire may collapse unless both Israel and Hamas start honouring the deal they signed.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-18T07:26:08.109276+00:00",
-    "published_date": "2026-11-18",
-    "has_fulltext": true
-   },
-   {
     "id": "8105b12d-a342-59cc-8565-14c1e8c4f3cc",
     "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
     "simplified_title": "Kuwait and Bahrain Fend Off Fresh Iranian Attacks",
@@ -1014,61 +1075,66 @@
     "has_fulltext": true
    },
    {
-    "id": "309ec23e-e9f6-5b95-bbeb-37018c946d86",
-    "title": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
-    "simplified_title": "Fresh border clashes stir fears of Ethiopia-Eritrea war",
-    "quick_summary": "Renewed fighting near the Ethiopia-Eritrea border, plus souring ties with Sudan, has analysts worried the Horn of Africa could tip into a wider regional war.",
-    "simplified_body": "Fighters allied with the Tigray People's Liberation Front (TPLF) launched an offensive on 23 September aiming to topple Ethiopia's government. Since then the Ethiopian National Defense Forces (ENDF), backed by pro-government militia, have steadily pushed the Tigrayan fighters back towards the border with Eritrea. According to the conflict monitor ACLED, the ENDF has fired heavy artillery near the Eritrean border town of Badme, and skirmishes have been reported in several spots.\n\nThis matters because Badme is where the 1998-2000 Eritrean-Ethiopian War began. That war ended with the Algiers Agreement, and an independent boundary commission awarded Badme to Eritrea — a ruling Ethiopia has since challenged. Analysts say reclaiming the town could help Prime Minister Abiy Ahmed win over Tigrayans now backing the federal government.\n\nAlliances in the region keep flipping. During the 2020-22 Tigray conflict, Eritrea and Ethiopia fought together against the Tigrayans; now Eritrea has swung towards the TPLF, and in October the two neighbours cut diplomatic ties. Abiy has also called Ethiopia's lack of sea access — it became the world's largest landlocked country by population after Eritrea seceded in 1993 — an \"existential\" threat, and hinted he could seize the port of Assab by force. Meanwhile ties with Sudan, strained over the Grand Renaissance Dam (GERD), have worsened as Sudan's own civil war drags on.\n\nAnalysts told DW that open war isn't the most likely path right now. The International Crisis Group's Magnus Taylor expects continued \"proxy style\" meddling in each other's opposition groups rather than armies clashing directly — but warns that if Ethiopia pushes to fully control Tigray, direct conflict with Eritrea becomes a real risk.",
-    "why_it_matters": "A full-blown war in the Horn of Africa would destabilise a major shipping region near the Red Sea, deepen one of the world's worst humanitarian crises, and add fresh pressure to global trade routes Australia relies on.",
-    "deep_analysis": "## Historical Context\n\nThe Horn of Africa has a long, tangled history of shifting enmities. Eritrea seceded from Ethiopia in 1993, and just five years later the two fought a brutal border war (1998-2000) that began at Badme. The Algiers Agreement and a boundary commission awarded Badme to Eritrea, but the dispute never fully settled. More recently, the 2020-22 Tigray conflict saw Ethiopia and Eritrea fighting side by side against the TPLF — yet those alliances have now reversed, with Eritrea drifting towards the very Tigrayan forces it once opposed. Layered on top is the long-running row over the Grand Renaissance Dam on the Blue Nile, which has unsettled downstream Sudan and Egypt for years.\n\n## Multiple Perspectives\n\nAnalysts quoted by DW read the situation differently. Abdurahman Sayed of the Horn of Africa Center suggests Ethiopia may want to reclaim Badme partly to win over Tigrayans now aligned with Abiy's government. The International Crisis Group's Magnus Taylor frames the border push more as Ethiopia consolidating control of Tigray and cutting Eritrean supply lines to Tigrayan fighters — though he concedes that could still spill into direct war. On Sudan, both experts expect proxy involvement to continue rather than open army-to-army fighting, at least for now. Ethiopia's government, for its part, rejects claims it would weaponise the GERD against neighbours.\n\n## What to Watch\n\nKeep an eye on whether Ethiopian forces cross or hold positions right at the Eritrean border, especially around Badme and the port of Assab that Abiy has eyed. Watch for any formal shift from proxy backing to direct Ethiopian or Sudanese military involvement, and for further diplomatic breakdowns after October's severing of Ethiopia-Eritrea ties.",
+    "id": "9f26df99-5f6f-570b-bc3f-1c512cc312c5",
+    "title": "Mrima Hill deal: US consortium wins Kenya mining project, beating Chinese rivals",
+    "simplified_title": "US Consortium Wins Kenya's $60bn Critical Minerals Project",
+    "quick_summary": "A US-led group, Frontier Minerals, has won the tender to develop Kenya's Mrima Hill mining project, beating Chinese and Australian rivals.",
+    "simplified_body": "A United States-led consortium called Frontier Minerals has won the tender to develop Kenya's Mrima Hill mining project, seeing off seven other bidders including companies from China and Australia. The site is estimated to hold critical minerals worth more than $60bn (£45bn), including niobium — a metal used in electric vehicles (EVs), aerospace and defence. Frontier Minerals brings together three US firms and says it wants to do the processing and refining inside Kenya so the country keeps more of the economic value.\n\nThis matters for Kenyans living near the site, in Kwale County on the Indian Ocean coast. The project covers about 390 acres of forest, and local residents fear it could damage that forest and threaten their ancestral heritage. There are also open questions about whether nearby communities will actually benefit. Frontier's Brad Barnett says the company will create lasting opportunities for Kenyan workers and businesses while prioritising the environment.\n\nThe bigger picture is a global contest over critical minerals. China dominates the processing of several key minerals, and Washington is chasing alternative supplies to strengthen its own supply chains — the networks that get raw materials into finished products. The US has been striking deals across Africa, including with the Democratic Republic of Congo and Zambia. Kenya, meanwhile, wants mining to help diversify its economy beyond tourism, agriculture and financial services.\n\nThe deal isn't locked in yet. Frontier must still get a prospecting licence and clear regulatory hurdles. Two rival bidders plan to challenge the selection, with Australia's RareX alleging Frontier missed an earlier submission deadline. Kenya's government insists the process was open and transparent.",
+    "why_it_matters": "Critical minerals like niobium are increasingly the prize in a US-China contest, and this time an Australian bidder, RareX, lost out and is crying foul — so the fight over who controls the world's mineral supply has a direct Aussie angle.",
+    "deep_analysis": "## Historical Context\n\nFor years, China has built a commanding lead in the mining and especially the processing of critical minerals — the metals and elements that modern industries, from electric cars to weapons systems, can't do without. That dominance has worried Washington, which sees reliance on a strategic rival as a vulnerability. In response, the US has been courting mineral-rich African nations, striking partnerships with the likes of the Democratic Republic of Congo and Zambia. Kenya's Mrima Hill, with an estimated $60bn-plus in deposits, is the latest flashpoint in that scramble.\n\n## Multiple Perspectives\n\nThe Kenyan government frames the sector as a way to diversify the economy beyond tourism, agriculture and financial services, and insists the tender was open and transparent. Frontier Minerals pitches itself as the community-friendly option, promising in-country processing so Kenya captures more value, plus jobs and environmental care. Local residents are more sceptical, fearing damage to 390 acres of forest and to their ancestral heritage, and questioning whether they'll see real benefits. The losing bidders are unhappy too: two intend to challenge the outcome, with Australia's RareX alleging Frontier missed an earlier deadline.\n\n## What to Watch\n\nThe deal is conditional — Frontier still needs a prospecting licence and must clear regulatory requirements, so it's not done yet. The rival challenges, particularly RareX's deadline allegation, could stall or unravel the selection. Watch whether Frontier's promise of local processing and community benefit turns into concrete commitments, and how the environmental concerns over the forest site are handled.",
     "concepts": [
      {
-      "term": "Algiers Agreement",
-      "definition": "The 2000 deal that ended the Eritrean-Ethiopian War, under which both countries agreed to accept the rulings of a boundary commission.",
-      "context": "The commission awarded Badme to Eritrea, a decision Ethiopia has since challenged."
+      "term": "niobium",
+      "definition": "A metal used to strengthen alloys, in demand for electric vehicles, aerospace and defence technology.",
+      "context": "Niobium is one of the critical minerals found at Mrima Hill and a big reason the site is so valuable."
      },
      {
-      "term": "landlocked",
-      "definition": "Having no direct access to the sea or ocean, so all trade must pass through neighbouring countries.",
-      "context": "Ethiopia became the world's largest landlocked country by population when Eritrea seceded in 1993."
+      "term": "critical minerals",
+      "definition": "Metals and elements essential to key industries, where supply can be limited or concentrated in a few countries.",
+      "context": "The global race to secure critical minerals is driving the US push into African mining."
      },
      {
-      "term": "Grand Renaissance Dam (GERD)",
-      "definition": "A massive Ethiopian hydroelectric dam on the Blue Nile that gives Ethiopia leverage over downstream water flows.",
-      "context": "The dam has put Sudan and Egypt on edge over water security for years."
+      "term": "supply chains",
+      "definition": "The networks that move raw materials through processing into finished products.",
+      "context": "The US wants alternative critical-mineral supply chains to reduce its dependence on China."
+     },
+     {
+      "term": "prospecting licence",
+      "definition": "Official permission to explore an area for minerals before full mining can begin.",
+      "context": "Frontier Minerals must still obtain a prospecting licence before the Mrima Hill project can proceed."
      }
     ],
     "quiz": {
-     "question": "Why is the small town of Badme so significant in this conflict?",
+     "question": "Why is the US so keen to secure projects like Mrima Hill?",
      "options": [
-      "It is where the Grand Renaissance Dam is located",
-      "It was the flashpoint of the 1998-2000 Eritrean-Ethiopian War and was awarded to Eritrea",
-      "It is Ethiopia's main seaport and trade hub",
-      "It is the capital of the Tigray region"
+      "It wants alternative critical-mineral supplies to reduce dependence on China, which dominates processing",
+      "The minerals are only useful for making jewellery",
+      "Kenya has the world's largest gold reserves",
+      "Australia banned US mining companies"
      ],
-     "answer_index": 1,
-     "explanation": "Badme was 'ground zero' of the 1998-2000 war, and the boundary commission under the Algiers Agreement awarded it to Eritrea — a ruling Ethiopia has at times challenged, making it symbolically loaded for both sides."
+     "answer_index": 0,
+     "explanation": "Washington is chasing alternative sources of critical minerals to strengthen its supply chains, because China dominates the processing of several key minerals."
     },
-    "background_beginner": "Ethiopia and Eritrea are neighbours in the Horn of Africa. Eritrea split away from Ethiopia in 1993, and the two fought a bitter border war from 1998 to 2000, beginning at a town called Badme. More recently, Ethiopia's government — led by Prime Minister Abiy Ahmed — has battled the Tigray People's Liberation Front (TPLF), a powerful group from the northern Tigray region. Alliances keep flipping: Eritrea once helped Ethiopia fight the Tigrayans but has now switched sides. Add a dispute over a giant dam on the Nile and a civil war in nearby Sudan, and the whole region stays tense — which is why fresh clashes keep raising fears of a bigger war.",
-    "impact_score": 68,
-    "image_url": "https://static.dw.com/image/63464055_6.jpg",
+    "background_beginner": "Critical minerals are the metals that power modern tech — electric cars, aircraft and defence gear. One, niobium, is found in large amounts at Mrima Hill in Kenya's Kwale County, where deposits are valued at over $60bn. China currently leads the world in processing many of these minerals, which makes the US nervous about relying on a rival. So Washington has been striking deals across Africa to secure its own supplies. This story is the latest round: a US group, Frontier Minerals, just beat Chinese and Australian bidders to develop the site. It keeps coming up because whoever controls these minerals holds sway over the future of green energy and defence industries.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3358/live/5110da10-e40e-11f1-b37c-b3a71d7200af.jpg",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Renewed fighting near the Ethiopia-Eritrea border, plus souring ties with Sudan, has analysts worried the Horn of Africa could tip into a wider regional war.",
+    "description": "A US-led group, Frontier Minerals, has won the tender to develop Kenya's Mrima Hill mining project, beating Chinese and Australian rivals.",
     "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
+    "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "DW",
-      "url": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353?maca=en-rss-en-all-1573-rdf"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-18T07:26:09.952056+00:00",
-    "published_date": "2026-11-18",
+    "reading_minutes": 2,
+    "created_at": "2026-11-19T19:28:50.046515+00:00",
+    "published_date": "2026-11-20",
     "has_fulltext": true
    }
   ],
@@ -1145,80 +1211,6 @@
     "has_fulltext": true
    },
    {
-    "id": "cc51fc8a-1c55-531c-9f65-15e050e48c28",
-    "title": "Democrat Mary Peltola unseats Republican in Alaska Senate race",
-    "simplified_title": "Peltola Wins Alaska Senate Seat, Giving Democrats 56",
-    "quick_summary": "Democrat Mary Peltola has won Alaska's Senate race, flipping the last undecided seat and handing Democrats a 56-44 Senate majority.",
-    "simplified_body": "Democrat Mary Peltola has defeated incumbent Republican Senator Dan Sullivan in Alaska, the final US Senate race to be called in this year's midterm elections. The Associated Press (AP) called it after she edged just past 50% of first-choice votes. It's the ninth Republican-held seat Democrats flipped — their best Senate result since 1958 — lifting them from a 47-seat minority to a 56-44 majority. The count took more than two weeks because of Alaska's vast, remote terrain and slow absentee ballot process.\n\nThis matters for everyone in the US, because it confirms Democrats will control both chambers of Congress for the final two years of Donald Trump's presidency, with power to block legislation and launch investigations. Peltola, the first Alaska Native elected to Congress, campaigned on an \"Alaska first\" message, tapping frustration over high fuel and heating costs in rural communities.\n\nThe race drew national attention after the New York Times reported that aides to Peltola allegedly recruited a second man named Daniel J Sullivan to siphon votes from the incumbent — a so-called spoiler. Peltola denied knowing about it. Because Alaska uses ranked-choice voting, confused voters could rank both Sullivans, and votes for the unknown one would transfer to the incumbent. BBC Verify found Peltola would have won even if every one of those votes had gone to Sullivan.\n\nThe Trump administration sued to block certification if Sullivan lost, but a federal judge dismissed it. The Department of Justice (DOJ) and Alaska's Republican governor said they'd investigate the alleged plot. Alaska also elected its first Democratic governor since 1998. Expect the investigations to continue.",
-    "why_it_matters": "It cements Democratic control of the entire US Congress for Trump's final two years — a shift that shapes global trade, climate and security policy that Australia closely tracks.",
-    "deep_analysis": "## Historical Context\n\nAlaska has long leaned Republican, and Peltola becomes the first Democratic senator from the state in almost 20 years. She already made history as the first Alaska Native to serve in Congress when she won the state's lone House seat, before losing it to Republican Nick Begich in 2024. Her comeback is part of a broader Democratic sweep: the party flipped nine Senate seats — the most since 1958 — including wins in conservative states such as South Carolina, Texas, Kansas and Mississippi, and retook the House of Representatives. Alaska also elected a Democratic governor for the first time since 1998.\n\n## Multiple Perspectives\n\nPeltola framed herself as a pragmatic, non-partisan Alaskan fighting \"corporate greed\" and a \"rigged system\" in Washington, distancing herself from national Democrats. Sullivan, a Trump ally and former state attorney general, ran on his record of delivering energy and military investment, and on election day accused Peltola's campaign of \"misleading Alaskans, lying and cheating\" over the decoy-candidate allegations. Trump and Vice President JD Vance both travelled to Alaska to back Sullivan. Independent experts cited by the BBC noted that ranked-choice voting makes spoiler tactics largely ineffective, and BBC Verify calculated Peltola's margin exceeded any possible effect from the second Sullivan's votes.\n\n## What to Watch\n\nThe DOJ and Alaska's governor have flagged investigations into the alleged decoy plot, so that story isn't over even though the result stands. Watch how a 56-44 Democratic Senate uses its power to block Trump's agenda and scrutinise his administration. Alaska's US House race was still uncalled, with independent Bill Hill challenging Republican Nick Begich.",
-    "concepts": [
-     {
-      "term": "incumbent",
-      "definition": "The person currently holding a political office who is running to keep it.",
-      "context": "Dan Sullivan was the sitting senator seeking re-election, so his loss meant an incumbent was unseated."
-     },
-     {
-      "term": "ranked-choice voting",
-      "definition": "A system where voters rank candidates in order of preference, and lower choices transfer if a candidate is eliminated.",
-      "context": "This mechanism meant votes for the unknown Sullivan would flow to the real one, neutralising the alleged plot."
-     },
-     {
-      "term": "spoiler",
-      "definition": "A candidate with little chance of winning who draws votes away from a stronger rival, altering the outcome.",
-      "context": "Democrats were accused of recruiting a second Sullivan to act as a spoiler against the incumbent."
-     },
-     {
-      "term": "certification",
-      "definition": "The official confirmation and finalising of election results so a winner can take office.",
-      "context": "The Trump administration tried to block certification if Sullivan lost, but a judge threw the case out."
-     }
-    ],
-    "quiz": {
-     "question": "Why did the alleged 'decoy Sullivan' plot have little effect on the result?",
-     "options": [
-      "Because the second Sullivan withdrew before voting began",
-      "Because Peltola lost and the plot therefore didn't matter",
-      "Because the second Sullivan's name was removed from the ballot",
-      "Because Alaska's ranked-choice voting transferred his votes to the incumbent, and Peltola's margin exceeded them anyway"
-     ],
-     "answer_index": 3,
-     "explanation": "Under ranked-choice voting, votes for the unknown Sullivan would re-allocate to the incumbent, and BBC Verify found Peltola would have won even if every one of those votes had gone to Sullivan."
-    },
-    "background_beginner": "The US Senate is one of two chambers of Congress, and whichever party controls it can block or pass laws and run investigations. In the 2026 midterm elections — the nationwide votes held halfway through a president's term — Democrats flipped nine seats to take control. Alaska was the last race to be decided. There, Democrat Mary Peltola, the first Alaska Native in Congress, beat Republican Dan Sullivan. The race became famous because Peltola's aides were accused of recruiting a second man with the same name to confuse voters. The allegations, lawsuits and a long ballot count kept the contest in headlines for weeks.",
-    "impact_score": 72,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8202/live/39cdb760-dc7a-11f1-b23d-9526db010e6c.jpg",
-    "region": "North & South America",
-    "region_code": "AMERICAS",
-    "description": "Democrat Mary Peltola has won Alaska's Senate race, flipping the last undecided seat and handing Democrats a 56-44 Senate majority.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo"
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "0a9d85f5-6938-52e2-854d-3cb4c9ae80a4",
-     "5b8a1b39-89df-5e85-911c-e1927954bb87"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-18T07:26:18.284060+00:00",
-    "published_date": "2026-11-18",
-    "has_fulltext": true
-   },
-   {
     "id": "eba314c2-876d-5799-949d-c8ead8f1e2ae",
     "title": "US Pentagon chief Hegseth signs military deal in Venezuela, meets Delcy Rodriguez after Maduro's ouster",
     "simplified_title": "US Defence Chief Signs Military Deal in Venezuela After Maduro's Ouster",
@@ -1284,9 +1276,207 @@
     "created_at": "2026-11-19T07:24:51.176796+00:00",
     "published_date": "2026-11-19",
     "has_fulltext": true
+   },
+   {
+    "id": "0f2a48ba-5317-5f7e-8ccb-941dce2f38cf",
+    "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+    "simplified_title": "Florida pastor convicted over Haitian president's 2021 killing",
+    "quick_summary": "A Florida pastor has been found guilty in a US court of plotting the 2021 assassination of Haiti's president, Jovenel Moïse.",
+    "simplified_body": "Christian Emmanuel Sanon, a 67-year-old pastor with dual US-Haitian citizenship, was convicted on all eight charges against him, including conspiracy to kill or kidnap a person outside the United States. The verdict came after a nearly eight-week trial in federal court in Miami. He faces up to life in prison and, his lawyer says, intends to appeal.\n\nProsecutors said south Florida was a hub for planning and financing a plot to remove Haitian President Jovenel Moïse and install a replacement the conspirators chose — initially Sanon himself. The plan allegedly involved awarding lucrative contracts to two Florida security firms, together known as Counter Terrorist Unit (CTU), in exchange for financing a coup. By June 2021, conspirators decided Sanon lacked the qualifications and popular support to be president and switched to another candidate. Around the same time, the plan shifted from removing Moïse to killing him.\n\nHaiti is the poorest country in the Americas and has a long history of political upheaval and foreign intervention. Moïse was killed by a squad of mostly retired Colombian mercenaries in a night-time raid on his home — the Guardian dates this 7 July 2021, the BBC 6 July. His wife, Martine, was wounded. More than 40 people have been charged in the US and a dozen convicted, five serving life.\n\nHaiti has had no president since, fuelling gang violence; the United Nations (UN) said more than 5,700 people were killed or injured in the year to 11 September. A presidential election is scheduled for next year, and Martine Moïse says she intends to stand.",
+    "why_it_matters": "The case shows how a coup against a foreign head of state was partly plotted and financed on US soil, and it marks a step toward accountability for an assassination that plunged Haiti into years of worsening chaos.",
+    "deep_analysis": "## Historical Context\n\nHaiti is the poorest nation in the Americas and carries a long history of dictatorship, political upheaval and foreign intervention that has repeatedly stalled stable democratic rule. The 2021 killing of President Jovenel Moïse — carried out by a squad of mostly retired Colombian soldiers — left the country without a head of state. That vacuum emboldened armed gangs and triggered the deployment of a multinational force, which has struggled to reach areas gangs control.\n\n## Multiple Perspectives\n\nProsecutors argue Sanon was central: the conspirators' initial pick to replace Moïse, a fundraiser for the plot, and the person who arranged travel and lodging in Haiti. They say financing came partly from US pandemic business-relief programs and was used to pay roughly two dozen foreign mercenaries.\n\nSanon tells a different story. He admits he was once in contact with people seeking to replace Moïse but says the group had moved on to another candidate — the late former supreme court judge Wendelle Coq Thélot — long before the assassination, and he denies any knowledge of a plan to kill the president. His lawyer says he maintains his innocence and will appeal.\n\nThe two sources largely align but differ on the raid's date: the Guardian says 7 July 2021, the BBC says 6 July.\n\n## What to Watch\n\nWatch Sanon's sentencing and appeal, and whether more of the 40-plus people charged face trial. In Haiti, the big questions are next year's scheduled presidential election — with Martine Moïse signalling she'll run — and whether the security situation stabilises enough for a credible vote.",
+    "concepts": [
+     {
+      "term": "conspiracy to kill or kidnap a person",
+      "definition": "A criminal charge for agreeing with others to murder or abduct someone — you can be guilty of the agreement itself, even without carrying out the act personally.",
+      "context": "Sanon was convicted of this among all eight charges against him."
+     },
+     {
+      "term": "mercenaries",
+      "definition": "Soldiers hired for money to fight or carry out operations, rather than serving their own country's military.",
+      "context": "Mostly retired Colombian mercenaries carried out the raid that killed Moïse."
+     },
+     {
+      "term": "coup",
+      "definition": "A sudden, often violent seizure of power that removes a government or leader outside the normal legal or electoral process.",
+      "context": "Florida security firms allegedly agreed to finance a coup in exchange for government contracts."
+     }
+    ],
+    "quiz": {
+     "question": "Why did the conspirators reportedly drop Sanon as their choice to replace Moïse?",
+     "options": [
+      "He decided to warn Moïse about the plan",
+      "He lacked the constitutional qualifications and popular support to be president",
+      "He was arrested before the plot could proceed",
+      "He refused to work with the Colombian mercenaries"
+     ],
+     "answer_index": 1,
+     "explanation": "By June 2021 the conspirators concluded Sanon had neither the constitutional qualifications nor sufficient popular support, and switched to another candidate, former judge Wendelle Coq Thélot."
+    },
+    "background_beginner": "Jovenel Moïse was the president of Haiti, a Caribbean country and the poorest in the Americas, with a long history of political turmoil. In July 2021 he was shot dead at his home by a group of mostly retired Colombian soldiers hired for the job, and his wife was wounded. Investigators found the plot was largely organised and funded from Florida, in the United States, where many Haitians live. US prosecutors have since charged more than 40 people. Christian Emmanuel Sanon, a Florida pastor with US and Haitian citizenship, was accused of wanting to take Moïse's place. The story keeps returning as each suspect goes on trial and as Haiti, still without a president, struggles with surging gang violence.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/1b3676280555bff070a1c0a0c2173ff8053370ab/0_0_3000_2000/master/3000.jpg?width=1920&quality=85&auto=format&fit=max&s=65bbf9d0e383ffe5eb7bb2c42ed80a36",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "A Florida pastor has been found guilty in a US court of plotting the 2021 assassination of Haiti's president, Jovenel Moïse.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-19T19:29:21.763849+00:00",
+    "published_date": "2026-11-20",
+    "has_fulltext": true
    }
   ],
   "GLOBAL_SYSTEMS": [
+   {
+    "id": "81149c99-a9fa-5459-a913-39261251c579",
+    "title": "Cop31 told it risks being ‘ghost’ summit as all mentions of ‘fossil fuels’ removed from draft text",
+    "simplified_title": "Fossil Fuels Wiped From Cop31 Draft, Sparking 'Ghost Summit' Fears",
+    "quick_summary": "Negotiators stripped every mention of \"fossil fuels\" from the latest Cop31 draft deal, prompting warnings the Australia-Turkey summit could end with nothing meaningful to show.",
+    "simplified_body": "In the final hours of the Cop31 (the 31st UN Conference of the Parties) climate summit in Antalya, Turkey, a second draft of the main agreement removed every reference to \"fossil fuels\". A pledge to phase out coal, oil and gas was dropped, and a goal to lift electricity's share of energy use was watered down to a voluntary option. Panama wrote to the Australian and Turkish presidents saying it would block any outcome unless its demands — including a cap on oil production — were met. Because Cop deals need unanimous agreement, one objection can sink the whole thing.\n\nThis matters most to developing and \"frontline\" nations already living with droughts, floods and heat. A separate finance text made little progress on the $300bn a year that developed countries have pledged to the developing world by 2035. Campaigners called it a \"ghost Cop\" and a \"historic disgrace\", while nature advocates pointed to progress on forests as a reason for some hope.\n\nBackground: at Cop28 in 2023, countries agreed to \"transition away from fossil fuels\" — the first time the term made it into a final text after roughly 30 years. In the new draft that language became a vaguer \"irreversible global transition towards low greenhouse gas emissions\". The 1.5C warming limit from the 2015 Paris Agreement stays central, though it's now certain to be overshot.\n\nAustralia's Chris Bowen and Turkey's Murat Kurum defended the text as the best consensus available and denied backsliding. Talks were set to run overnight into Friday, with further revisions expected before any deal can be adopted.",
+    "why_it_matters": "Australia is co-president of these talks, so the outcome lands directly on Canberra's reputation — campaigners are already naming Climate Minister Chris Bowen in their criticism of the weakened text.",
+    "deep_analysis": "## Historical Context\n\nCop summits are the annual UN gatherings where nearly 200 nations try to agree on climate action, and they run on consensus — meaning any single country can block a deal. It took almost three decades for the words \"fossil fuels\" to make it into a final Cop text, achieved at Cop28 in Dubai in 2023 with a pledge to \"transition away\" from them. Since then, follow-up talks have struggled to add detail or ambition. Cop31 in Antalya was billed as an \"implementation\" summit, which makes the removal of fossil fuel language especially jarring for those who fought to get it in.\n\n## Multiple Perspectives\n\nCampaigners like Power Shift Africa's Mohamed Adow and 350.org's Andreas Sieber condemned the draft as a \"ghost Cop\" and an abdication of leadership, pinning blame on fossil fuel producers and rich nations' failure on finance. Developing-country voices, including the Third World Network's Meenakshi Raman, said their \"worst fears\" of backsliding were confirmed. The presidencies pushed back: Bowen said the text reflected the most ambition consensus would allow, and Kurum denied any backsliding. Nature-focused groups such as The Nature Conservancy and Audubon struck a more hopeful note, highlighting forest initiatives like Brazil's deforestation roadmap and the Tropical Forest Forever Facility happening outside the negotiating rooms. Meanwhile, the EU said it won't lift finance pledges because it already pays its \"fair share\".\n\n## What to Watch\n\nWatch whether Panama's threat to block consensus — over an oil production cap and methane — gains backing from other vulnerable states, which could force a stronger text or collapse the talks. Keep an eye on the finance strand, still well short of the pledged $300bn a year, and on how the deal handles 1.5C \"overshoot\". Also notable: the US, China and Russia met separately in Shenzhen and vowed to boost oil output, with none attending Cop. Talks were expected to run past the Friday deadline.",
+    "concepts": [
+     {
+      "term": "fossil fuels",
+      "definition": "Energy sources like coal, oil and gas that release greenhouse gases when burned — the main driver of global heating.",
+      "context": "Every mention of them was removed from the Cop31 draft, sparking the 'ghost Cop' warnings."
+     },
+     {
+      "term": "consensus",
+      "definition": "A decision-making rule where every country must agree; a single objection can block the whole deal.",
+      "context": "It's why Panama's threat to refuse agreement could upend the talks in their final hours."
+     },
+     {
+      "term": "Paris Agreement",
+      "definition": "The 2015 global climate pact aiming to hold warming well below 2C and ideally to 1.5C above pre-industrial levels.",
+      "context": "Its 1.5C goal stays central to the Cop31 text even though it's now certain to be overshot."
+     },
+     {
+      "term": "phase out",
+      "definition": "To gradually stop using something — here, coal, oil and gas — over time.",
+      "context": "The draft dropped the pledge to phase out fossil fuels in favour of vaguer wording."
+     }
+    ],
+    "quiz": {
+     "question": "Why could Panama's objection potentially sink the entire Cop31 outcome?",
+     "options": [
+      "Cop decisions require unanimous consensus, so one country can block a deal",
+      "Panama is the summit's host country",
+      "Panama is the world's largest oil producer",
+      "Panama holds the EU's revolving presidency"
+     ],
+     "answer_index": 0,
+     "explanation": "Cop negotiations run on consensus, meaning every country must agree — so a single objection, like Panama's, is enough to block any final agreement."
+    },
+    "background_beginner": "Each year the United Nations hosts a climate summit called a Cop, where almost 200 countries try to agree on how to tackle global warming. This one, Cop31, is being co-hosted by Australia and Turkey in the city of Antalya. The big sticking points are always the same: should the world commit to ditching fossil fuels (coal, oil and gas), and how much money should rich nations give poorer ones to cope with floods, droughts and heat? Because every country must agree for a deal to pass, talks are slow and often tense. It keeps coming up because warming is worsening while agreement on who pays, and how fast to act, remains elusive.",
+    "impact_score": 78,
+    "image_url": "https://i.guim.co.uk/img/media/9c12e9e7ba0ae88c8bd68a0d9c6e68e989719fa8/0_0_6000_4000/master/6000.jpg?width=1920&quality=85&auto=format&fit=max&s=85290bc4100c044e4ec3e4070f34ad6c",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "Negotiators stripped every mention of \"fossil fuels\" from the latest Cop31 draft deal, prompting warnings the Australia-Turkey summit could end with nothing meaningful to show.",
+    "tier": "GLOBAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/19/cop31-climate-turkey-live-news-updates-"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/no-mention-of-fossil-fuels-in-latest-cop31-draft-deal/a-79992394?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "97980620-6ecf-5db6-a5d3-e231d0392665"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-11-19T19:28:55.059368+00:00",
+    "published_date": "2026-11-20",
+    "has_fulltext": true
+   },
+   {
+    "id": "4e1a3d01-5c69-55bb-a70c-4e7f3db0d236",
+    "title": "AI demand will push up interest rates around the world, IMF head warns",
+    "simplified_title": "IMF Warns AI Boom Will Push Up Interest Rates Worldwide",
+    "quick_summary": "The IMF's chief says surging demand for AI technology is fuelling global inflation and will force central banks to keep raising interest rates.",
+    "simplified_body": "The head of the International Monetary Fund (IMF), Kristalina Georgieva, has warned that booming demand for artificial intelligence (AI) hardware and related products is pushing up consumer prices around the world. Speaking at the 2026 Apec summit in Shenzhen, she said this — alongside an energy shock from the war in the Middle East — is adding to inflation and \"calls for a tightening of monetary policy in many economies\". She expects global inflation to hit 4.7% this year.\n\nThis affects just about everyone, because when central banks raise interest rates, borrowing for homes, cars and businesses gets dearer. The European Central Bank (ECB) lifted rates in June, the US Federal Reserve followed in September, and the Bank of England did so earlier this month. Markets expect more rises next year.\n\nFor background: war broke out in February and drove oil above $100 a barrel, reigniting inflation. At the same time, the rapid rollout of AI is boosting economic growth in several countries. AI hardware now makes up more than a tenth of world goods trade, and Georgieva says \"AI is for ever\" — but warns \"you snooze, you lose\", urging countries to build digital infrastructure and ready their workers.\n\nWhat's next is less certain. Oil prices have eased lately, and there are fears of an AI bubble. The ECB has compared today's AI debt to the dotcom crash and the 2008 sub-prime crisis. Even so, the sector is still booming — Anthropic, maker of the Claude chatbot, just floated on the US stock market in the largest initial public offering (IPO) ever at $83 a share, despite $80bn in losses.",
+    "why_it_matters": "Higher global interest rates ripple straight through to Australian borrowers, so if the IMF is right, mortgage and business loan costs could stay elevated here too.",
+    "deep_analysis": "## Historical Context\n\nCentral banks use interest rates as their main lever to control inflation: raising rates makes borrowing dearer, which cools spending and, in theory, prices. The current tightening cycle began after war broke out in February drove oil above $100 a barrel. The ECB raised rates in June for the first time since 2023, the US Federal Reserve followed in September, and the Bank of England moved earlier this month. Layered on top of that energy shock is a newer force — demand for AI hardware — which Georgieva argues is now big enough to move global prices in its own right.\n\n## Multiple Perspectives\n\nGeorgieva frames AI as a lasting, positive driver of growth, productivity and competitiveness — \"AI is for ever\" — while acknowledging it is adding to inflation. The ECB strikes a more cautious note, warning in its financial stability review of \"historic parallels\" with the dotcom bubble and the 2008 sub-prime crisis because of how much debt AI companies are taking on. Markets themselves seem split: equities are described as \"febrile\", and some economists warn high inflation is squeezing households, which could slow demand. Anthropic's record-breaking float despite $80bn in half-year losses captures the tension between booming optimism and bubble fears.\n\n## What to Watch\n\nKeep an eye on whether oil prices keep falling, since that could ease one of the two inflation drivers. Watch central banks' next moves — markets already expect more rate rises in 2027. And watch the AI sector's finances: if investor confidence cracks, the ECB warns a crash could spill over into broader financial stability.",
+    "concepts": [
+     {
+      "term": "International Monetary Fund (IMF)",
+      "definition": "A Washington-based global organisation that monitors the world economy and lends to countries in financial trouble.",
+      "context": "Its managing director, Kristalina Georgieva, issued the warning about AI and interest rates."
+     },
+     {
+      "term": "tightening of monetary policy",
+      "definition": "When central banks raise interest rates or otherwise make borrowing more expensive to slow inflation.",
+      "context": "Georgieva said rising prices 'calls for a tightening of monetary policy in many economies'."
+     },
+     {
+      "term": "inflation",
+      "definition": "The rate at which the general level of prices for goods and services rises over time.",
+      "context": "Georgieva expects global inflation to reach 4.7% this year."
+     },
+     {
+      "term": "initial public offering (IPO)",
+      "definition": "The first time a private company sells shares to the public on a stock market.",
+      "context": "Anthropic's debut was the largest IPO ever, pricing at $83 a share."
+     }
+    ],
+    "quiz": {
+     "question": "According to the IMF, why might central banks need to keep raising interest rates?",
+     "options": [
+      "Because governments ordered them to cut spending",
+      "Because oil prices have collapsed to record lows",
+      "Because the AI bubble has already burst",
+      "Because demand for AI hardware and an energy shock are pushing up inflation"
+     ],
+     "answer_index": 3,
+     "explanation": "Georgieva said booming AI demand, alongside the Middle East energy shock, is fuelling inflation and 'calls for a tightening of monetary policy in many economies'."
+    },
+    "background_beginner": "The International Monetary Fund (IMF) is a global body that watches over the world economy, led by Kristalina Georgieva. Central banks — like the US Federal Reserve, the European Central Bank and the Bank of England — set interest rates to keep prices stable. When prices rise too fast (inflation), they lift rates to cool things down. This story matters because two big forces are colliding: a war in the Middle East that pushed oil prices up, and a massive worldwide rush to build artificial intelligence (AI). Both are making things more expensive. It keeps coming up because higher rates affect everyone's loans, and because people are nervously debating whether the AI boom is a bubble.",
+    "impact_score": 78,
+    "image_url": "https://i.guim.co.uk/img/media/b2a56a8e00524c2b12815efdbcc9e91b0732fdc0/456_0_3410_2728/master/3410.jpg?width=1920&quality=85&auto=format&fit=max&s=cfad59b97e24ab6afbc4032aedc9c399",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "The IMF's chief says surging demand for AI technology is fuelling global inflation and will force central banks to keep raising interest rates.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-19T19:28:49.047682+00:00",
+    "published_date": "2026-11-20",
+    "has_fulltext": true
+   },
    {
     "id": "af0f12aa-c687-55d4-863b-c7363acd32a2",
     "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
@@ -1361,142 +1551,6 @@
     "created_at": "2026-11-18T19:26:44.520046+00:00",
     "published_date": "2026-11-19",
     "has_fulltext": true
-   },
-   {
-    "id": "4c867720-4f58-5a70-8e80-ac4b481fc0f8",
-    "title": "China slams new US chip curbs, vows 'necessary measures'",
-    "simplified_title": "US tightens chip export rules to block China's workaround",
-    "quick_summary": "Washington has brought in new rules requiring data centres worldwide to hold a US licence before supplying heavy computing power from advanced chips to companies based in China and several other countries.",
-    "simplified_body": "The United States (US) announced new interim rules on Monday (17 November) that close a loophole Chinese firms had been using to get around chip restrictions. Under the rules, data centres anywhere in the world now need a US licence to provide large volumes of computing power from advanced chips to companies headquartered in China, Macau or other nations under US arms embargoes. The rules also require licences to ship advanced chips to Singapore, Malaysia, Thailand, Indonesia and Brazil — countries the US says present a \"higher-than-normal risk of diversion\".\n\nThis affects Chinese firms, which have become heavily reliant on renting computing power overseas since earlier US export controls. It also hits South East Asia's booming data centre industry, much of which was built to serve Chinese demand. Experts told the BBC that Malaysia and Thailand could be hit hardest. China's foreign ministry called the move \"economic coercion\" and vowed \"necessary measures\" to protect its interests.\n\nFor background: advanced chips, mostly made by US firms like Nvidia, are needed to train artificial intelligence (AI) models. Washington has long tried to limit China's access to the best chips. The crackdown follows a scandal involving Singaporean firm Megaspeed, whose former director is suspected of being a Chinese spy — allegations the firm denies.\n\nThe timing is notable, landing just before President Donald Trump meets Chinese leader Xi Jinping in Shenzhen. Licences will be issued case-by-case. Singapore's Prime Minister Lawrence Wong said most chips recorded as sales there never actually enter the country, and that any impact can be managed. Analysts warn tighter rules could also push China to speed up building its own chips.",
-    "why_it_matters": "These rules could reshape South East Asia's data centre boom and the global flow of AI computing power — and an Australian trade expert from Edith Cowan University warns Malaysia and Thailand, whose data centres were heavily driven by Chinese buyers, could be hit hardest.",
-    "deep_analysis": "## Historical Context\n\nWashington has spent years tightening the screws on China's access to advanced semiconductors, the specialised chips needed to train powerful AI models. Each round of restrictions has prompted workarounds. One of the main ones has been Chinese firms renting computing power from data centres abroad, or buying chips through third countries and quietly moving them on. Research by the US-based Institute for Progress projects that at least 30% of China's advanced AI computing power will come from renting overseas or smuggling in 2027. These new rules target exactly that gap — the \"remote computing\" route — by requiring a US licence not just to export chips, but to supply their computing power to Chinese-headquartered firms.\n\n## Multiple Perspectives\n\nWashington's Bureau of Industry and Security frames this as closing a diversion loophole, naming Brazil and four South East Asian nations as higher-risk. China's foreign and commerce ministries condemned it as \"economic coercion\" and an abuse of national security, threatening countermeasures. Singapore's PM Lawrence Wong struck a pragmatic note: most chips \"recorded as sales\" in Singapore are transshipped elsewhere, so the impact is manageable, though firms breaking the rules face \"clear and firm action\". Analysts are split on the fallout — Verisk Maplecroft's Reema Bhattacharya says well-backed investment should stay \"relatively resilient\", while Edith Cowan University's Naoise McDonagh flags Malaysia and Thailand as most exposed. McDonagh also notes Washington's long-running dilemma: restricting chips may simply spur Chinese innovation.\n\n## What to Watch\n\nKeep an eye on the Trump–Xi meeting in Shenzhen, where chips will loom large. Watch how case-by-case licensing plays out in practice, whether South East Asian governments push back or adapt, and whether the squeeze accelerates China's drive for home-grown semiconductors — the Institute for Progress estimates top US AI models lead China's best by only about six and a half months.",
-    "concepts": [
-     {
-      "term": "advanced chips",
-      "definition": "High-end semiconductors, mostly made by US firms like Nvidia, that are needed to train powerful AI models.",
-      "context": "They are the resource Washington is trying to keep out of China's hands."
-     },
-     {
-      "term": "data centres",
-      "definition": "Large facilities full of computers that store data and provide computing power, which can be rented out remotely.",
-      "context": "South East Asian countries built many of them, partly to serve Chinese demand for AI computing."
-     },
-     {
-      "term": "risk of diversion",
-      "definition": "The chance that chips sold to one country are secretly re-routed or smuggled to another that is restricted.",
-      "context": "The US named Singapore, Malaysia, Thailand, Indonesia and Brazil as higher-risk."
-     },
-     {
-      "term": "economic coercion",
-      "definition": "Using trade or economic pressure to force another country to change its behaviour.",
-      "context": "China's foreign ministry used this phrase to attack the new US rules."
-     }
-    ],
-    "quiz": {
-     "question": "What loophole are the new US rules mainly trying to close?",
-     "options": [
-      "Australian companies reselling chips to Singapore",
-      "Chinese firms buying chips directly from US shops",
-      "US firms building factories inside China",
-      "Chinese firms renting advanced computing power from data centres abroad"
-     ],
-     "answer_index": 3,
-     "explanation": "The rules require a US licence to supply large volumes of computing power from advanced chips to China-based firms, targeting the 'remote computing' route Chinese developers used to access frontier compute abroad."
-    },
-    "background_beginner": "For several years the United States has been trying to stop China getting the most advanced computer chips, which are needed to build powerful artificial intelligence (AI). The main chipmaker caught up in this is America's Nvidia. Because direct sales to China are restricted, Chinese companies found workarounds — renting computing power from data centres in countries like Singapore, Malaysia and Thailand, or buying chips there and moving them on. This keeps coming up because AI is now seen as crucial to economic and military power, so both sides are racing ahead. The latest rules, announced in November 2026, aim to shut these indirect routes, landing just before a Trump–Xi meeting.",
-    "impact_score": 72,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--fE-jiokb--/c_crop,h_449,w_799,x_1,y_19/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-24T141334Z_1_LYNXMPEM6N1B8_RTROPTP_3_CHINA-USA.JPG?itok=jFoGhwKt",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "Washington has brought in new rules requiring data centres worldwide to hold a US licence before supplying heavy computing power from advanced chips to companies based in China and several other countries.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/world/china-slams-new-us-chip-curbs-vows-necessary-measures-6559376"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo"
-     },
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/ai-chips-us-lawrence-wong-donald-trump-6560086"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "bdf08d2c-cb64-5c4a-91b2-3e8ee4fd1672"
-    ],
-    "reading_minutes": 1,
-    "created_at": "2026-11-18T07:26:13.802151+00:00",
-    "published_date": "2026-11-18",
-    "has_fulltext": true
-   },
-   {
-    "id": "42fbce44-4d41-58b6-86ec-7e3dfc7564d3",
-    "title": "Deutsche Bank under fire after internal documents about shady business deals made public",
-    "simplified_title": "Leaked Files Put Deutsche Bank's Shady Deals Back in Spotlight",
-    "quick_summary": "A huge leak of internal documents has exposed Deutsche Bank's dealings with Jeffrey Epstein, Donald Trump, Russian oligarchs and more, reigniting questions about whether the bank has truly cleaned up its act.",
-    "simplified_body": "On Tuesday, a group of more than 200 investigative journalists published internal Deutsche Bank documents under the banner \"Inside Deutsche Bank\". The files — drawn from nearly 15 million leaked documents and run in outlets like Der Spiegel, the Financial Times, Le Monde and The New York Times — detail the German lender's dealings with convicted sex offender Jeffrey Epstein, now US President Donald Trump, and numerous Russian oligarchs. They show the bank chasing business in Russia right up until Moscow's full-scale invasion of Ukraine in 2022, despite warnings from its own managers.\n\nThis matters for anyone who worries about how big banks handle dirty money. The documents cover 20 years of deals and suggest Deutsche Bank repeatedly put profit ahead of international sanctions and anti-money laundering rules. Other red flags include alleged tax-optimisation schemes for the wealthy, possible channels for criminal cash, arms deals, and holding funds for the far-right Alternative for Germany (AfD) party.\n\nFor background: Deutsche Bank has been trying to repair its image since its role in the US subprime mortgage scandal helped trigger the 2008 global financial crisis — which eventually cost it more than €20 billion in penalties. CEO Christian Sewing, who took over in 2018 and took part in the bank's Russia strategy working group, promised a turnaround and made the bank profitable again, though through heavy job cuts and with some compliance failings continuing.\n\nThe bank calls the revelations old \"legacy\" matters with no lasting financial impact. But German Finance Minister and Vice Chancellor Lars Klingbeil has demanded \"full transparency\" and said authorities must investigate and take action where needed. The bank's shares fell by up to 6% on Tuesday.",
-    "why_it_matters": "When one of the world's biggest lenders is accused of putting profit ahead of sanctions and anti-money laundering rules, it raises hard questions about how well global finance polices itself — the same system Australian banks and regulators are plugged into.",
-    "deep_analysis": "## Historical Context\n\nDeutsche Bank's troubles aren't new. The bank played a role in the US subprime mortgage scandal that helped trigger the 2008 global financial crisis, an episode that ultimately cost it more than €20 billion in penalties and settlements. When Christian Sewing took over in 2018, he promised to turn the institution around. He succeeded in making it profitable again — but at the cost of massive job cuts, and, according to the reports, some compliance failings continued. This latest leak, spanning the past 20 years of dealings, lands on top of that long record of attempts to restore the bank's reputation.\n\n## Multiple Perspectives\n\nThe journalists behind \"Inside Deutsche Bank\" argue the files show a pattern of putting financial interests before sanctions compliance and anti-money laundering rules, with red flags around Epstein, Trump, Russian oligarchs, arms deals, tax schemes and funds held for the AfD. Deutsche Bank pushes back hard, calling the material \"legacy\" news and insisting it has long since turned over a new leaf; Supervisory Board Chairman Alexander Wynaendts said he hadn't seen a single Sewing decision he was uncomfortable with. Sewing himself struck a more reflective note to Handelsblatt, admitting \"I am not without mistakes\" while maintaining his overall course was right. The German government, via Vice Chancellor Lars Klingbeil, sits in between — demanding full transparency and leaving the door open to formal investigation.\n\n## What to Watch\n\nWatch whether Klingbeil's call for authorities to \"take necessary action\" turns into an actual investigation, and how regulators respond. Keep an eye on the share price after Tuesday's drop of up to 6%, and on whether the bank's \"legacy matters\" framing holds up as journalists keep publishing from the nearly 15 million leaked documents. The bank's ongoing Russian presence — more than 160 staff and €61 million in 2025 pre-tax profit there — is another thread likely to draw scrutiny.",
-    "concepts": [
-     {
-      "term": "anti-money laundering rules",
-      "definition": "Laws and checks banks must follow to stop criminals from disguising illegally obtained money as legitimate funds.",
-      "context": "The leaked files suggest Deutsche Bank repeatedly put profit ahead of these rules."
-     },
-     {
-      "term": "oligarchs",
-      "definition": "A small group of extremely wealthy and politically influential business people, a term often used for powerful Russian billionaires.",
-      "context": "The documents detail the bank's dealings with numerous Russian oligarchs up to the 2022 invasion of Ukraine."
-     },
-     {
-      "term": "sanctions",
-      "definition": "Penalties or restrictions one country or group imposes on another to pressure it, often banning trade or financial dealings.",
-      "context": "The reports claim the bank put financial interests ahead of international sanctions compliance."
-     },
-     {
-      "term": "tax-optimisation schemes",
-      "definition": "Arrangements designed to legally minimise how much tax someone pays, which can shade into aggressive or questionable practices.",
-      "context": "The files suggest the bank set up such schemes for wealthy clients."
-     }
-    ],
-    "quiz": {
-     "question": "What is the main reason this leak has reignited criticism of Deutsche Bank?",
-     "options": [
-      "It revealed the bank is about to collapse financially",
-      "It proved the bank had no dealings with Russia at all",
-      "It suggests the bank repeatedly prioritised profit over sanctions and anti-money laundering rules",
-      "It showed the bank had already paid all its penalties from 2008"
-     ],
-     "answer_index": 2,
-     "explanation": "The documents, spanning 20 years, raise questions about internal controls by showing the bank repeatedly put financial interests ahead of sanctions compliance and anti-money laundering rules."
-    },
-    "background_beginner": "Deutsche Bank is Germany's largest bank and one of the biggest lenders in the world, so its behaviour affects the global financial system. It has a long history of scandals, including a role in the 2008 global financial crisis that cost it more than €20 billion in fines. This week, a group of over 200 investigative journalists published leaked internal documents — called \"Inside Deutsche Bank\" — exposing its dealings with Jeffrey Epstein, Donald Trump, Russian oligarchs and others. The story keeps coming up because the bank insists it has reformed, while critics argue these files show it kept putting profit ahead of the rules meant to stop dirty money.",
-    "impact_score": 68,
-    "image_url": "https://static.dw.com/image/79973721_6.jpg",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "A huge leak of internal documents has exposed Deutsche Bank's dealings with Jeffrey Epstein, Donald Trump, Russian oligarchs and more, reigniting questions about whether the bank has truly cleaned up its act.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/deutsche-bank-under-fire-after-internal-documents-made-public/a-79974543?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-18T01:25:32.563732+00:00",
-    "published_date": "2026-11-18",
-    "has_fulltext": true
    }
   ],
   "ADF": [
@@ -1556,69 +1610,6 @@
     "reading_minutes": 4,
     "created_at": "2026-11-18T19:27:17.119105+00:00",
     "published_date": "2026-11-19",
-    "has_fulltext": true
-   },
-   {
-    "id": "ac6c41d8-0988-5135-adce-a2eef5945f9d",
-    "title": "Collins refurbishment looks like overrunning, hitting availability | The Strategist",
-    "simplified_title": "Australia's Ageing Submarine Fix Is Falling Behind Schedule",
-    "quick_summary": "A program to keep Australia's six ageing Collins-class submarines running is slipping, risking a dangerous drop in how many boats can actually go to sea.",
-    "simplified_body": "Australia is trying to stretch the lives of its six Collins-class diesel-electric submarines, some already up to 30 years old, so they can keep serving until nuclear-powered boats arrive. But that plan is coming unstuck. In May 2026 the Australian National Audit Office (ANAO) gave a sobering review of the Life-of-Type Extension (LOTE) program, which the government had just downgraded from a full modernisation to a basic refurbishment of only five of the six boats.\n\nThe core problem is time. Each submarine runs on a tight schedule called the Usage Upkeep Cycle, which keeps three boats available for operations while three are in maintenance. That rhythm depends on each major overhaul, a full-cycle docking (FCD), taking no more than two years. The refurbishment is turning out to be more complex, and old boats throw up nasty surprises once opened up. HMAS Rankin's docking is already overrunning, which has stalled HMAS Farncomb's work and threatens to delay HMAS Collins too.\n\nIf overhauls slip, the whole cycle breaks and only two boats stay available instead of three. Fewer boats mean fewer sea days, fewer sea days mean fewer trained sailors, and that shortage feeds a downward spiral that could also starve the future nuclear fleet of crews. Collins sustainment has sat on Defence's Projects of Concern list since December 2024.\n\nMaking things harder, shipyards at Osborne in Adelaide are competing for the same scarce pool of security-cleared tradespeople, with Hunter-class frigate construction and looming SSN-AUKUS submarine work all drawing from it. The author argues the workload is industrially unrealistic unless AUKUS Pillar One is rethought.",
-    "why_it_matters": "This goes to the heart of Australia's defence — if the Collins fleet can't stay at sea, the country faces a widening submarine capability gap right as regional tensions rise and before AUKUS nuclear boats are ready.",
-    "deep_analysis": "## Historical Context\n\nAustralia's six Collins-class submarines are diesel-electric boats that entered service from the 1990s. They've long had a troubled reputation, and crewing shortages triggered a formal review back in 2008. Since 2016, the fleet has run on a disciplined \"one in, one out\" overhaul rhythm at the Osborne North shipyard in Adelaide, designed to keep three boats always available. The Life-of-Type Extension (LOTE) was conceived to bridge the gap until nuclear-powered submarines arrive under the AUKUS agreement. Notably, the government recently scaled LOTE back from a genuine modernisation to a cheaper refurbishment of just five boats — accepting a loss of future technological edge in exchange for speed.\n\n## Multiple Perspectives\n\nDefence and builder ASC argued a full modernisation couldn't be squeezed into the two-year window an overhaul allows, so they chose the lighter refurbishment to protect the maintenance drumbeat. The author counters that even the scaled-down LOTE probably can't be done in two years, because the boats are old and more complex to refurbish than to simply overhaul — meaning the compromise may not actually solve the timing problem. There's also a workforce tension: ASC employs more than 2,700 people, BAE Systems has over 2,500 on the Hunter-class frigate nearby, and both compete for the same security-cleared welders, pipefitters and electricians — fuelling wage inflation and pay-parity disputes. Layer SSN-AUKUS on top, needing another 4,000 to 5,500 workers, and the author sees the demands as \"industrially unrealistic.\"\n\n## What to Watch\n\nKey dates loom: Farncomb was due back in the fleet by June 2028, which is also when HMAS Collins must begin her own LOTE. If Rankin's overrun keeps cascading, that collision could force availability down to two boats. Collins sustainment is slated to stay on the Projects of Concern list until at least October 2028. Watch whether the crewing spiral materialises and whether it drains sailors away from the future nuclear fleet.",
-    "concepts": [
-     {
-      "term": "Life-of-Type Extension (LOTE)",
-      "definition": "A program to refurbish the ageing Collins-class submarines so they can keep serving into the 2030s and 2040s, downgraded from a full modernisation to a basic refurbishment of five boats.",
-      "context": "The whole article is about this program running behind schedule."
-     },
-     {
-      "term": "full-cycle docking (FCD)",
-      "definition": "The major scheduled overhaul each submarine undergoes, meant to take no more than two years.",
-      "context": "The two-year benchmark is what keeps the maintenance cycle working; slipping past it breaks the whole system."
-     },
-     {
-      "term": "Usage Upkeep Cycle",
-      "definition": "The tight 'one in, one out' maintenance routine, used since 2016, that keeps three submarines available while three are in dock.",
-      "context": "Any overhaul running long shatters this cycle and cuts available boats from three to two."
-     },
-     {
-      "term": "Projects of Concern",
-      "definition": "Defence's official list for troubled programs needing close attention; Collins sustainment has been on it since December 2024.",
-      "context": "Its presence on the list signals the problems are formally recognised by Defence."
-     }
-    ],
-    "quiz": {
-     "question": "Why does the overhaul program slipping past two years cause such big problems?",
-     "options": [
-      "It automatically cancels the AUKUS nuclear submarine deal",
-      "It immediately retires all six Collins-class submarines",
-      "It breaks the Usage Upkeep Cycle, dropping available boats from three to two",
-      "It forces the submarines to be sold overseas"
-     ],
-     "answer_index": 2,
-     "explanation": "The maintenance rhythm depends on each overhaul fitting in two years; when one runs long, the cycle breaks and only two boats stay available instead of three, which then triggers a crewing and training spiral."
-    },
-    "background_beginner": "Australia runs six Collins-class submarines — diesel-electric boats built in Adelaide that have served since the 1990s. They're maintained by a company called ASC at shipyards in Adelaide and Perth. Australia has agreed, under a pact called AUKUS with the US and UK, to eventually get nuclear-powered submarines, but those are years away. To bridge the gap, the government is refurbishing the old Collins boats to keep them going into the 2030s and beyond. The trouble is that these boats are old, overhauls take longer than planned, and the same skilled workers are needed for several big defence projects at once. That's why delays, availability and crewing keep coming up as worries.",
-    "impact_score": 68,
-    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/Collins-Class-submarine-at-ASCs-WA-site.jpg",
-    "region": "Australian defence, ADF, AUKUS, regional security",
-    "region_code": "ADF",
-    "description": "A program to keep Australia's six ageing Collins-class submarines running is slipping, risking a dangerous drop in how many boats can actually go to sea.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "ASPI Strategist",
-      "url": "https://www.aspistrategist.org.au/collins-refurbishment-looks-like-overrunning-hitting-availability/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-18T07:26:12.597351+00:00",
-    "published_date": "2026-11-18",
     "has_fulltext": true
    },
    {
@@ -1682,6 +1673,69 @@
     "reading_minutes": 4,
     "created_at": "2026-11-19T07:24:48.833931+00:00",
     "published_date": "2026-11-19",
+    "has_fulltext": true
+   },
+   {
+    "id": "23ca5b73-89db-5789-9b6d-799a0a3e11c3",
+    "title": "Government urged to drop references to 'religion' in terrorism definition",
+    "simplified_title": "Watchdog Wants 'Religion' Dropped From Terrorism Definition",
+    "quick_summary": "Australia's independent national security monitor wants the word \"religion\" removed from the legal definition of terrorism, arguing it harms the Muslim community and complicates prosecutions.",
+    "simplified_body": "Australia's Independent National Security Legislation Monitor (INSLM), Jake Blight, has recommended changing how terrorism is legally defined. Right now, the law requires proving a crime was meant to \"advance a political, religious or ideological cause\". Blight's 15-month review, tabled in the Senate, says \"religion\" should be dropped and \"ideology\" broadened to capture religious motives instead.\n\nThis affects Australia's Muslim community, who some groups say have been unfairly profiled. The Australian Federation of Islamic Councils (AFIC) backed the change, arguing the current wording \"legitimised suspicion of Islamic religious identity\". Blight also says naming terrorists as \"religious warriors\" in law hands groups like ISIL the credibility and recruitment platform they crave.\n\nFor background: a terrorism charge is harder to prove than an ordinary crime because prosecutors must show motive. Blight points out that ISIS-inspired cases get an 84 per cent conviction rate, while racist or nationalist cases are convicted only half the time. He says broadening \"ideology\" would help those harder cases succeed in court, without changing how police investigate religious cases.\n\nNot everyone agrees. The Australian Federal Police (AFP) and domestic spy agency ASIO warned against changes, calling the current definition \"robust and effective\". Home Affairs Minister Tony Burke said the change is \"not on the table\", though Attorney-General Michelle Rowland said the government will carefully consider the report. Blight also urged a public inquiry into youth radicalisation, noting two-thirds of this year's terrorism charges involved children.",
+    "why_it_matters": "This is squarely an Australian debate about whether our terrorism laws unintentionally profile Muslims while failing to catch rising far-right and nationalist threats — and it pits a watchdog against the AFP, ASIO and the government.",
+    "deep_analysis": "## Historical Context\n\nAustralia's terrorism laws were substantially built after the September 11 attacks and the 2002 Bali bombings, when the dominant threat was seen as religiously-motivated extremism. The legal definition that emerged requires proving a motive to \"advance a political, religious or ideological cause\" — making motive a core element prosecutors must establish. The AFP notes this definition has been \"well tested in Australian courts over many years\". Blight argues that framing now struggles to keep pace with a growing cohort of racist and white nationalist offenders whose motives don't fit neatly, reflected in the stark conviction gap he cites (84 per cent for ISIS-inspired cases versus roughly half for nationalist ones).\n\n## Multiple Perspectives\n\nSupporters, including AFIC, argue the current wording has \"enabled profiling and overreach\" and undermined trust in institutions; AFIC went further, wanting the entire \"motive\" element scrapped in favour of conduct and intent. Blight rejected that as too broad, warning it would drag organised and gang crime into the specialised terrorism framework and \"dilute counterterrorism resources\". Security agencies — the AFP and ASIO — caution against any change, fearing unintended consequences and valuing openness about motivation. Some analysts worry dropping religion diminishes honesty about what drives attacks; Blight counters that naming terrorists as religious warriors in law gives them \"false credibility and a recruitment platform\".\n\n## What to Watch\n\nThe government has signalled reluctance — Tony Burke says it's \"not on the table\" — but Michelle Rowland has promised a formal response \"in due course\", so watch for that. Also watch whether Blight's second recommendation, a public inquiry into youth radicalisation, gains traction, given his claim that two-thirds of those charged this year were children, up from 8 per cent a few years ago.",
+    "concepts": [
+     {
+      "term": "Independent National Security Legislation Monitor (INSLM)",
+      "definition": "An independent official who reviews Australia's counter-terrorism and national security laws to check they remain effective and appropriate.",
+      "context": "The role is held by Jake Blight, who conducted the 15-month review recommending the change."
+     },
+     {
+      "term": "ideology",
+      "definition": "A system of beliefs or ideas that can motivate someone's actions; in terrorism law it's one of the recognised categories of motive.",
+      "context": "Blight proposes broadening 'ideology' so it can capture religious motives after 'religion' is removed."
+     },
+     {
+      "term": "ASIO",
+      "definition": "The Australian Security Intelligence Organisation, Australia's domestic spy agency responsible for protecting against security threats.",
+      "context": "ASIO cautioned against changing the terrorism definition, warning of unintended consequences."
+     },
+     {
+      "term": "conviction rate",
+      "definition": "The percentage of prosecuted cases that result in a guilty verdict.",
+      "context": "Blight cites an 84 per cent conviction rate for ISIS-inspired cases versus about half for racist or nationalist ones."
+     }
+    ],
+    "quiz": {
+     "question": "What is the main reason Jake Blight gives for removing 'religion' from the terrorism definition?",
+     "options": [
+      "It was demanded by the AFP and ASIO",
+      "It would make it easier to charge children with terrorism",
+      "It harms communities like Muslims and gives groups like ISIL false religious credibility",
+      "It would reduce the number of terrorism cases overall"
+     ],
+     "answer_index": 2,
+     "explanation": "Blight argues the current wording harms the Muslim community and hands terrorists the 'religious warrior' recognition they seek as a recruitment tool, while broadening 'ideology' would help prosecute other cases. The AFP and ASIO actually opposed the change."
+    },
+    "background_beginner": "Australia defines terrorism in law partly by a person's motive — whether a violent act was meant to advance a \"political, religious or ideological cause\". These laws were strengthened in the 2000s when religiously-motivated attacks were the main worry. The Independent National Security Legislation Monitor (INSLM) is an official whose job is to review these laws and suggest fixes. The current monitor, Jake Blight, has recommended dropping \"religion\" from the definition, saying it unfairly profiles Muslims and doesn't help catch rising far-right threats. Police, spy agency ASIO and the government are hesitant. The topic keeps resurfacing because Australia is grappling with new kinds of extremism, including a sharp rise in radicalised young people.",
+    "impact_score": 58,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/e13be9b81017b319b1a8112becd0a408?impolicy=wcms_watermark_news&cropH=1065&cropW=1894&xPos=88&yPos=136&width=862&height=485&imformat=generic",
+    "region": "Australian defence, ADF, AUKUS, regional security",
+    "region_code": "ADF",
+    "description": "Australia's independent national security monitor wants the word \"religion\" removed from the legal definition of terrorism, arguing it harms the Muslim community and complicates prosecutions.",
+    "tier": "GLOBAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-19/calls-for-government-to-change-terrorism-definition/107405450"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 5,
+    "created_at": "2026-11-19T19:29:22.976092+00:00",
+    "published_date": "2026-11-20",
     "has_fulltext": true
    }
   ],
@@ -1977,8 +2031,75 @@
     "created_at": "2026-11-18T19:27:35.970161+00:00",
     "published_date": "2026-11-19",
     "has_fulltext": true
+   },
+   {
+    "id": "696f10b3-0776-52ec-8016-908560f0b95b",
+    "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
+    "simplified_title": "Waymo Pulls Driverless Taxis Off US Freeways After California Ban",
+    "quick_summary": "Waymo has halted all driverless freeway taxi rides across the US after California banned its robotaxis from highways over repeated construction-zone incidents.",
+    "simplified_body": "Waymo, the self-driving car company owned by Google's parent Alphabet, has stopped offering driverless taxi rides on freeways right across the United States. The move came the same day California's Department of Motor Vehicles (DMV) banned its robotaxis from the state's freeways. Waymo calls its suspension \"temporary\" and says it's still testing freeways with trained human specialists behind the wheel, but it hasn't said how long the pause will last.\n\nThe suspension affects riders in the San Francisco Bay Area, Los Angeles, Phoenix, Miami and Austin, where freeway hailing was offered. City-street rides in places like Las Vegas, Dallas and Denver carry on as normal. The trigger was two incidents in early November, including one where three Waymo vehicles drove into a construction zone, and another where a Waymo tried to bypass California Highway Patrol vehicles running a traffic break. No injuries or collisions were reported.\n\nThis isn't a new problem. The company's software has struggled to spot freeway construction and ramp closures before. Robotaxis entered active construction zones in Phoenix in April and in California in May, prompting a recall of nearly 3,800 highway-capable vehicles in June. Waymo told the National Highway Traffic Safety Administration (NHTSA) in July it was updating the software to better recognise construction zones and slow down.\n\nCalifornia's DMV says the restrictions stay in place until Waymo proves it has fixed the deficiencies. Until then, expect Waymo to keep riders on surface streets while it works to convince regulators its cars are safe at speed.",
+    "why_it_matters": "Driverless taxis are being pitched as the future of transport worldwide, so how US regulators handle repeat safety failures sets a benchmark that will shape if and when robotaxis arrive on Australian roads.",
+    "deep_analysis": "## Historical Context\n\nWaymo grew out of Google's self-driving car project and is now one of the most advanced robotaxi operators in the world, offering paid rides across several US cities. Freeways are a tougher test than city streets: higher speeds leave less margin for error, and construction zones throw up unpredictable obstacles. Waymo's trouble with building sites isn't a one-off. Its cars failed to recognise ramp closures in Phoenix in April, entered active construction lanes in California in May, and the issue drove a June recall of almost 3,800 highway-capable vehicles. Waymo briefly stuck to surface streets before resuming freeway service in late July after a software update.\n\n## Multiple Perspectives\n\nCalifornia's DMV takes a firm line, saying the \"recurring incursions\" into active construction zones pose an \"imminent hazard to public safety\" and keeping the ban in place until corrective action is proven. Waymo frames its own nationwide pause as voluntary and temporary, stressing the recent encounters involved no injuries or collisions, and notes it's still testing with human specialists on board. The two framings matter: one casts the pause as a regulator forcing Waymo's hand, the other as a company acting responsibly. Both can be true at once — the suspension landed the same day as the ban.\n\n## What to Watch\n\nKeep an eye on whether Waymo's software fixes actually satisfy the DMV and how quickly freeway service returns. The July software update was meant to solve exactly this construction-zone problem, so repeat incidents raise questions about whether the fix worked. Watch too for NHTSA's response and whether other states or regulators tighten their own rules, which could ripple out to how driverless taxis are trialled internationally.",
+    "concepts": [
+     {
+      "term": "robotaxis",
+      "definition": "Self-driving taxis that carry passengers without a human driver behind the wheel.",
+      "context": "Waymo's robotaxis repeatedly drove into construction zones, prompting California's ban."
+     },
+     {
+      "term": "construction zone",
+      "definition": "A section of road marked off for roadworks, with workers, equipment and changed traffic rules.",
+      "context": "Waymo's software struggled to recognise freeway construction zones and slow down for them."
+     },
+     {
+      "term": "Department of Motor Vehicles (DMV)",
+      "definition": "The US state government agency that regulates vehicles, drivers and, here, driverless car operations.",
+      "context": "California's DMV banned Waymo's robotaxis from the state's freeways over safety concerns."
+     },
+     {
+      "term": "recall",
+      "definition": "When a manufacturer withdraws or fixes a product because of a safety defect.",
+      "context": "Waymo recalled nearly 3,800 highway-capable robotaxis in June over the construction-zone problem."
+     }
+    ],
+    "quiz": {
+     "question": "Why did California's DMV ban Waymo's robotaxis from freeways?",
+     "options": [
+      "The cars caused several injury collisions with other vehicles",
+      "Waymo failed to pay its operating licence fees",
+      "The cars repeatedly drove into active construction zones, posing a safety hazard",
+      "The cars were speeding past the legal limit on all highways"
+     ],
+     "answer_index": 2,
+     "explanation": "The DMV cited recurring incursions into active construction zones as an imminent hazard to public safety; the incidents involved no reported injuries or collisions."
+    },
+    "background_beginner": "Waymo is a driverless taxi company owned by Alphabet, the same parent company as Google. It runs \"robotaxis\" — cars with no human driver — that passengers can hail by app in several US cities. The technology has been praised as a possible future for transport, but it's still being tested and tightly watched by regulators. A recurring sticking point is how the cars behave around roadworks: Waymo's vehicles have driven into construction zones several times, in both Arizona and California. Because high-speed freeways leave little room for error, these incidents keep landing the company in trouble with safety authorities, which is why the story keeps coming up.",
+    "impact_score": 58,
+    "image_url": "https://i.guim.co.uk/img/media/66a7e1b60127ac32448a1397ea75dab23ebbfddd/451_0_4513_3610/master/4513.jpg?width=1200&quality=85&auto=format&fit=max&s=b83a0ad3b50a7572cdf00b71b1ddb893",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "Waymo has halted all driverless freeway taxi rides across the US after California banned its robotaxis from highways over repeated construction-zone incidents.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways"
+     },
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-19T19:28:49.551006+00:00",
+    "published_date": "2026-11-20",
+    "has_fulltext": true
    }
   ]
  },
- "total_stories": 29
+ "total_stories": 31
 }
