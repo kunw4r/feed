@@ -1,8 +1,142 @@
 {
  "date": "2026-11-19",
- "generated_at": "2026-11-18T19:23:03.890807+00:00",
+ "generated_at": "2026-11-19T01:23:03.846066+00:00",
  "regions": {
   "OCEANIA": [
+   {
+    "id": "7b4eaa2c-570c-5394-9a32-11a83b9890fb",
+    "title": "Pre-Christmas rate hike unlikely as unemployment rate jumps to highest level in five years",
+    "simplified_title": "Unemployment jumps to 4.9%, highest in five years",
+    "quick_summary": "Australia's unemployment rate surged to 4.9% in October, a surprise jump that has all but ruled out another interest rate rise before Christmas.",
+    "simplified_body": "Australia's unemployment rate rose sharply to 4.9% in October, up from 4.7% in September, according to the Australian Bureau of Statistics (ABS). It's the highest jobless rate since October 2021 and approaches pre-Covid levels. The number of employed people fell by about 43,500, with part-time work taking most of the hit, and the participation rate (the share of people working or looking for work) dipped by 0.2%.\n\nThis matters for anyone with a mortgage or looking for a job. The Reserve Bank of Australia (RBA) lifted interest rates five times this year, raising borrowing costs for households. Economists from Moody's Analytics, State Street, Oxford Economics and Global X ETFs agree the shock figures \"all but close the door\" on a December rate hike, with several saying the RBA's tightening cycle is likely over. Youth unemployment (ages 15 to 24) also rose to 11.3%.\n\nFor background: the RBA uses interest rates to control inflation. Governor Michele Bullock has said some rise in unemployment is needed to \"take enough heat out of the labour market\". The bank forecast joblessness peaking above 5% by the end of 2028 — but the market is nearing that level two years early. Importantly, the ABC notes this jump happened before this month's rate hike, so the hike didn't cause it.\n\nWhat's next? Analysts expect the RBA to hold rates steady \"for the foreseeable future\". The debate now shifts to how long rates stay at their peak. The Aussie dollar fell to a 10-month low of 66.9 US cents on the news, and the ASX 200 dropped more than 1%.",
+    "why_it_matters": "For Australian households juggling mortgages and job security, this signals the Reserve Bank's run of rate hikes has likely ended — but a cooling jobs market brings its own worries, especially for young people.",
+    "deep_analysis": "## Historical Context\n\nAustralia's unemployment rate started 2026 at 4%. Through the year the Reserve Bank of Australia lifted interest rates five times, the most recent on Melbourne Cup day, to cool inflation. The October figure of 4.9% is the highest since October 2021, during the Covid recovery period. The RBA has openly stated it expected unemployment between 4.5% and 5% to bring inflation back to its 2–3% target range, and governor Michele Bullock framed rising joblessness as a necessary cost. What surprised analysts is the speed: the bank's own forecast had unemployment peaking above 5% by late 2028, yet the market is within sight of that level two years early.\n\n## Multiple Perspectives\n\nEconomists broadly agree a December hike is now off the table, but they read the severity differently. State Street's Dwyfor Evans called the labour market weakening \"sharp\" and said the RBA has \"reached the end of its tightening cycle\". Oxford Economics' Harry McAuley cautioned that monthly figures are \"quite volatile\" but still expects rates on hold \"for the foreseeable future\". Moody's Sunny Nguyen was less alarmed, noting weakness was \"concentrated at the margins\" — mostly part-time jobs — yet agreed it closes the door on a December hike. A key tension: three RBA board members had dissented from the Cup day hike, warning of a \"materially sharper downturn\", and these figures appear to validate them. However, elevated underlying inflation and wage growth mean a pivot to cutting rates isn't on the cards either.\n\n## What to Watch\n\nThe clearest signal was in markets: the Australian dollar hit a 10-month low of 66.9 US cents and the ASX 200 fell over 1%. Watch whether the weakness is a one-month blip or a trend — unemployment rose in every state except New South Wales, with Victoria and Tasmania above 5%, and youth unemployment climbed to 11.3%. The retail sector is already feeling strain, with General Pants entering voluntary administration. The real question is no longer whether rates rise, but how long they stay at their peak before any cuts.",
+    "concepts": [
+     {
+      "term": "participation rate",
+      "definition": "The share of working-age people who are either employed or actively looking for work; a dip can mean people have stopped job-hunting.",
+      "context": "A falling participation rate helped limit how high the measured unemployment rate rose."
+     },
+     {
+      "term": "Reserve Bank of Australia (RBA)",
+      "definition": "Australia's central bank, which sets the official interest rate to manage inflation and the broader economy.",
+      "context": "The RBA lifted rates five times in 2026 to cool inflation, raising household borrowing costs."
+     },
+     {
+      "term": "tightening cycle",
+      "definition": "A stretch of time during which a central bank repeatedly raises interest rates to slow the economy and curb inflation.",
+      "context": "Several economists said the weak jobs data signals the RBA's tightening cycle is likely over."
+     },
+     {
+      "term": "participation rate",
+      "definition": "",
+      "context": ""
+     }
+    ],
+    "quiz": {
+     "question": "Why do economists say the October jobs figures make a December interest rate hike unlikely?",
+     "options": [
+      "The sharp rise in unemployment suggests the economy is cooling faster than expected",
+      "The RBA is legally barred from raising rates in December",
+      "Inflation has already fallen below the RBA's target range",
+      "The Australian dollar rose too strongly to allow a hike"
+     ],
+     "answer_index": 0,
+     "explanation": "The surprise jump to 4.9% unemployment signalled the labour market is weakening quickly, leading analysts to conclude the RBA will hold rates rather than hike again. Inflation and wage growth remained elevated, so it wasn't about inflation hitting target."
+    },
+    "background_beginner": "Australia's unemployment rate measures how many people who want a job can't find one. The Australian Bureau of Statistics (ABS) reports it monthly, and it's one of the most closely watched signs of the economy's health. The Reserve Bank of Australia (RBA), the country's central bank, sets interest rates to keep inflation — the pace of rising prices — under control. When prices climb too fast, the RBA raises rates, which makes loans like mortgages dearer and cools spending. In 2026 the RBA hiked rates five times. The trade-off is that slowing the economy tends to push unemployment up, so each new jobs figure sparks debate about whether the bank has done enough.",
+    "impact_score": 72,
+    "image_url": "https://i.guim.co.uk/img/media/ccbba5c44390f21ce8f21f8caaf8486c31bac8c4/529_0_4164_3333/master/4164.jpg?width=1920&quality=85&auto=format&fit=max&s=b937d1ba0074e6e3ddd37cc213b2b263",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Australia's unemployment rate surged to 4.9% in October, a surprise jump that has all but ruled out another interest rate rise before Christmas.",
+    "tier": "LOCAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-19/unemployment-rate-jumps-in-october-in-australia/107399076"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-19/asx-markets-business-news-live-updates-thursday-19-november/107401802"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-19T01:25:10.989099+00:00",
+    "published_date": "2026-11-19",
+    "has_fulltext": true
+   },
+   {
+    "id": "676cb75b-e6d0-57be-adea-f5c2ea916a10",
+    "title": "Data centres could ignite a 'climate bomb' in Australia, report finds",
+    "simplified_title": "Report Warns Data Centres Could Blow Up Australia's Climate Targets",
+    "quick_summary": "The Climate Council warns nine proposed Australian data centres could add 39 million tonnes of greenhouse gases over a decade if powered mainly by fossil fuels.",
+    "simplified_body": "A new Climate Council report looked at nine data centres proposed for Australia and flagged them as the biggest potential polluters because of their huge appetite for electricity. If they're powered mostly by fossil fuels, the report warns they could pump 39 million tonnes of greenhouse gases into the atmosphere over a decade — roughly the annual emissions of a country like Sweden. The worry is that this demand could extend the life of coal plants, bring on new gas, and push up both pollution and power prices.\n\nThis matters for everyday Australians because the energy market operator forecasts that within ten years, data centres could use as much electricity as nearly all the homes in New South Wales and Victoria combined. Communities near proposed sites are nervous too: a petition against the hyper-scale Western Downs Digital Park near Dalby in Queensland has gathered more than 24,000 signatures, and Latrobe Valley residents worry about pressure on already-stressed rivers and household water bills.\n\nA data centre is a building full of computer servers that store and process digital information — and the boom is being driven by artificial intelligence (AI), which needs enormous computing power. Australia already has about 165 operational data centres, putting it in the global top five, even before these giant new \"hyper-scale\" facilities arrive.\n\nThe industry pushes back. Data Centres Australia calls the report's demand figures \"speculative\" and says operational centres already offset 70 per cent of their energy with renewable deals. The federal government is expected to introduce legislation early next year requiring big projects to bring on their own clean energy — though gas stays on the table in Queensland and the Northern Territory.",
+    "why_it_matters": "For Australians, this is directly about power bills, pollution and whether the country hits its climate targets — all tangled up with where water-hungry data centres get built in regions like the Latrobe Valley.",
+    "deep_analysis": "## Historical Context\n\nAustralia's electricity grid has long leaned on coal, and the country is in the middle of a slow, contested shift towards renewables — the \"energy transition\". At the same time, the global AI boom has triggered a scramble to build data centres, the physical homes of all that computing. Australia already hosts around 165 of them, placing it among the world's top five locations. The arrival of \"hyper-scale\" facilities, far larger than anything built before, changes the maths entirely, which is why the Climate Council has sounded the alarm now.\n\n## Multiple Perspectives\n\nThe Climate Council frames this as a fork in the road: without mandatory national standards forcing big projects to add new renewable energy and storage within three years, data centres could \"turn back the energy transition\". Data Centres Australia counters that the report rests on \"speculative\" demand and that the industry already offsets 70 per cent of its energy with renewables voluntarily. Independent researcher Chris Briggs lands in the middle — he calls it a worst-case scenario but \"certainly a possibility\", warning that if the renewables rollout doesn't speed up, developers will be tempted by coal and gas. Then there are communities worried about water and bills, feeling they'll be \"steamrolled\" by global AI giants that \"think in weeks and days\" while clean energy projects take years.\n\n## What to Watch\n\nThe big one is the federal government's promised legislation, expected early next year, and whether it genuinely forces developers to supply their own new clean energy. Watch the carve-outs for gas in Queensland and the Northern Territory, the fate of the Western Downs Digital Park, and whether renewable projects can actually be built fast enough to keep pace with AI demand.",
+    "concepts": [
+     {
+      "term": "data centres",
+      "definition": "Buildings packed with computer servers that store and process digital information, now in huge demand to run AI systems.",
+      "context": "The report focused on nine proposed data centres as the biggest potential polluters."
+     },
+     {
+      "term": "hyper-scale",
+      "definition": "A term for extremely large data centres, far bigger than typical ones, built to handle massive computing workloads.",
+      "context": "Communities near proposed hyper-scale facilities like the Western Downs Digital Park are worried about the impacts."
+     },
+     {
+      "term": "energy transition",
+      "definition": "The ongoing shift of the electricity system away from fossil fuels like coal and gas towards renewable sources such as solar and wind.",
+      "context": "Researchers warn the data centre boom could either help or set back the energy transition."
+     },
+     {
+      "term": "greenhouse gases",
+      "definition": "Gases released mainly by burning fossil fuels that trap heat in the atmosphere and drive climate change.",
+      "context": "The nine data centres could add 39 million tonnes of greenhouse gases over a decade if run on fossil fuels."
+     }
+    ],
+    "quiz": {
+     "question": "Why does the Climate Council warn data centres could set back Australia's climate targets?",
+     "options": [
+      "They are built only in areas with no renewable energy available",
+      "Data centres release pollution directly from their cooling systems",
+      "The government has banned renewables near data centres",
+      "Their huge electricity demand could extend the life of coal and bring on new gas"
+     ],
+     "answer_index": 3,
+     "explanation": "The concern is about electricity demand: if data centres plug into a grid still powered by fossil fuels, they could extend coal's life and bring on new gas, pushing up pollution and power prices."
+    },
+    "background_beginner": "Data centres are large buildings full of computer servers that store and run the digital world — websites, apps and now artificial intelligence (AI). The recent AI boom means companies are racing to build giant new ones, which gobble up huge amounts of electricity. Australia already has about 165 and is a global top-five hub. The tension keeps coming up because the country's power still comes largely from coal and gas, so more electricity demand can mean more pollution and higher bills. The main players are the Climate Council (which raised the alarm), Data Centres Australia (the industry body), the federal government (writing new rules), and local communities worried about pollution and water.",
+    "impact_score": 68,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/a7d9472a4017892c7ceb7b631edc48f2?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "The Climate Council warns nine proposed Australian data centres could add 39 million tonnes of greenhouse gases over a decade if powered mainly by fossil fuels.",
+    "tier": "LOCAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-19/climate-council-report-data-centre-millions-tonnes-pollution-/107400036"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-19T01:25:08.257561+00:00",
+    "published_date": "2026-11-19",
+    "has_fulltext": true
+   },
    {
     "id": "eabe9a9f-da5e-5b44-8276-00bf1e86df69",
     "title": "Insurance giant Bupa shuts some GP clinics after buying up chains",
@@ -261,132 +395,6 @@
     "reading_minutes": 4,
     "created_at": "2026-11-17T19:25:15.262678+00:00",
     "published_date": "2026-11-18",
-    "has_fulltext": true
-   },
-   {
-    "id": "b2630cef-5ea6-5c41-92e2-7b53519520c5",
-    "title": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine",
-    "simplified_title": "Rio Tinto pledges US$250m to clean up abandoned Panguna mine",
-    "quick_summary": "Rio Tinto has agreed to pay US$250 million to start cleaning up the toxic Panguna mine it abandoned on Bougainville more than three decades ago.",
-    "simplified_body": "Anglo-Australian miner Rio Tinto has agreed to voluntarily pay US$250 million (A$370 million) towards cleaning up the Panguna mine on the Papua New Guinean island of Bougainville. Once one of the world's most profitable gold and copper mines, Panguna was shut in 1989 after protests over environmental damage and unfair sharing of profits. The abandoned pit is still a dangerous scar on the island, with rubble at risk of collapse and rivers running bright blue with toxins.\n\nThe money matters most to the communities living around Panguna. Community leader Theonila Roka Matbob says the fund is a foundation for fixing huge long-standing problems, starting with safe drinking water and infrastructure like bridges. The payment came out of the Panguna Mine Legacy Impact Assessment, a consultation process sparked by a human rights complaint from the Australian-based Human Rights Law Centre (HRLC).\n\nFor background: Rio Tinto and other investors earned nearly $2 billion from Panguna over 17 years from 1972, but less than 1% of profits went to Bougainvilleans. Anger over this sparked a sabotage campaign, then a brutal decade-long civil war known as \"the crisis\", in which 15,000 to 20,000 people died — roughly 10% of the island's population.\n\nEveryone agrees the money won't fully fix the damage; untouched, the river delta will stay polluted for a century. The mine is also tied to Bougainville's push for independence. In a 2019 United Nations (UN)-backed referendum, 97.7% voted to secede, but the PNG parliament looks almost certain to reject that result. President Ishmael Toroama says Bougainville will move to \"self-government\" from September next year and aims to become fully independent by 2030.",
-    "why_it_matters": "An Anglo-Australian company is paying to repair an environmental and human disaster it left behind in our region, and the outcome is tangled up with Bougainville's bid to become the world's newest nation right on Australia's doorstep.",
-    "deep_analysis": "## Historical Context\n\nPanguna began operating in 1972 and quickly became one of the world's most profitable gold and copper mines. Over 17 years, Rio Tinto and other international investors earned nearly $2 billion, yet less than 1% of profits reached Bougainvilleans, whose homes and lands were destroyed. That inequity, combined with environmental damage, fuelled a landowner sabotage campaign that forced the mine's closure in 1989. The Papua New Guinean government sent in police and then soldiers, blockaded the island, and the conflict escalated into a decade-long civil war — \"the crisis\" — that killed an estimated 15,000 to 20,000 people, about 10% of the population. Rio Tinto was forced off the island and never returned.\n\n## Multiple Perspectives\n\nCommunity leader Theonila Roka Matbob welcomes the fund as a foundation for addressing devastation, while stressing no amount of money can restore the environment and that clean water and infrastructure are urgent. President Ishmael Toroama frames the payment as a \"meaningful difference\" but also sees restarting Panguna — thought to hold at least $60bn in unrealised reserves — as the financial basis for independence. Rio Tinto, via Mark Davies, calls the fund an \"important milestone\" supporting a shift from assessment to practical remedy. The Human Rights Law Centre credits years of community persistence and constructive dialogue. The US$250m is openly acknowledged as insufficient to fully remediate the site.\n\n## What to Watch\n\nThe PNG parliament is deciding whether to recognise the 2019 referendum, in which 97.7% backed independence, and appears almost certain to vote against it. Regardless, Toroama has said Bougainville will enter \"self-government\" from September next year and aims to secede by 2030. Watch how the fund's priorities are set through community engagement, and whether Indian miner Lloyds' 25-year lease leads to a restart of mining — still years away.",
-    "concepts": [
-     {
-      "term": "remediation",
-      "definition": "The work of cleaning up and repairing environmental damage at a polluted site so it is safer for people and nature.",
-      "context": "Rio Tinto's US$250m is meant to begin the remediation of the Panguna mine site."
-     },
-     {
-      "term": "referendum",
-      "definition": "A public vote in which people decide directly on a single political question, such as whether a region should become independent.",
-      "context": "In 2019 Bougainvilleans voted overwhelmingly in a referendum to secede from PNG."
-     },
-     {
-      "term": "secede",
-      "definition": "To formally break away from a country to become a separate, independent nation.",
-      "context": "97.7% of voters wanted Bougainville to secede and become its own country."
-     },
-     {
-      "term": "self-government",
-      "definition": "An arrangement where a region runs its own affairs with greater autonomy, often as a step towards full independence.",
-      "context": "Toroama says Bougainville will enter a period of self-government from September next year."
-     }
-    ],
-    "quiz": {
-     "question": "Why was the division of Panguna's profits a major source of anger among Bougainvilleans?",
-     "options": [
-      "Less than 1% of the mine's nearly $2bn in profits went to Bougainvilleans, whose lands were destroyed",
-      "The mine never actually made any money",
-      "The profits were all sent to the United Nations",
-      "Rio Tinto refused to employ any local workers"
-     ],
-     "answer_index": 0,
-     "explanation": "Over 17 years Rio Tinto and other investors earned nearly $2bn, but less than 1% went to Bougainvilleans even as their homes and lands were destroyed — a key grievance behind the conflict."
-    },
-    "background_beginner": "Panguna is a huge gold and copper mine on Bougainville, an island that is part of Papua New Guinea (PNG), just north of Australia. From 1972 it earned big money for Anglo-Australian miner Rio Tinto, but local people saw almost none of the profits while their land and rivers were wrecked. Anger over this sparked protests, sabotage and a decade-long civil war from 1989 that killed tens of thousands. The mine was abandoned and still poisons the area today. It keeps making news because Bougainville is now pushing to become an independent country, and the mine's clean-up and possible restart are central to that future.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/dbe4ec473f0912b9c7e05c6160dd55300e28fbc5/0_0_5472_3648/master/5472.jpg?width=1920&quality=85&auto=format&fit=max&s=2d1b97782b6fcaae553113db1803a4e3",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Rio Tinto has agreed to pay US$250 million to start cleaning up the toxic Panguna mine it abandoned on Bougainville more than three decades ago.",
-    "tier": "LOCAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-17T19:25:09.837540+00:00",
-    "published_date": "2026-11-18",
-    "has_fulltext": true
-   },
-   {
-    "id": "06637e26-4f74-5888-abb0-2a0e9d98f749",
-    "title": "Australia's surrogacy laws could receive major shake-up under landmark review",
-    "simplified_title": "Landmark review calls for national overhaul of Australia's surrogacy laws",
-    "quick_summary": "Australia's law reform body has recommended one national set of surrogacy rules, better compensation for surrogates, and automatic legal recognition for intended parents from birth.",
-    "simplified_body": "The Australian Law Reform Commission (ALRC) has handed down a final report with 47 recommendations to overhaul how surrogacy works across the country. It found Australia's patchwork of different state and territory laws makes surrogacy unnecessarily hard, drives parents overseas, and can leave surrogates financially worse off. Key proposals include one nationally consistent framework overseen by a regulator, and recognising intended parents as legal parents from birth where a domestic arrangement is approved before conception.\n\nThis affects couples and individuals who can't conceive on their own, surrogates who carry the pregnancy, and the children born through these arrangements. Right now, the surrogate (and sometimes her partner) is the legal parent at birth, and intended parents must go to court — an expensive, lengthy process — to transfer parentage. More than 300 Australian children are born through overseas surrogacy each year, about four in five of all Australian surrogacy births.\n\nA newcomer needs to know Australia bans commercial surrogacy, where a surrogate is paid a fee or profits. Only altruistic surrogacy is allowed, where expenses can be reimbursed but there's no profit. The review recommends keeping that ban but expanding what surrogates can be paid, including a capped monthly pregnancy payment for physical and psychological impacts — which it says wouldn't count as profit. It also backs a National Surrogacy Register so children can, from age 16, learn who gave birth to them.\n\nWhat happens next is uncertain. Because states and territories have primary responsibility for surrogacy, the federal government says it will consider the report in consultation with them. A government spokesperson said the Commonwealth currently has no plans to make legislative changes.",
-    "why_it_matters": "For the hundreds of Australian families formed through surrogacy each year — and the surrogates who help them — these changes could mean clearer legal footing, fairer compensation, and less pressure to pursue riskier arrangements overseas.",
-    "deep_analysis": "## Historical Context\n\nAustralia has long regulated surrogacy state by state rather than nationally, producing a patchwork where what counts as a legitimate reimbursement, who is listed as a legal parent, and how parentage is transferred all vary by location. Commercial surrogacy — paying a surrogate a fee or allowing her to profit — is banned, leaving only altruistic arrangements. Because finding an altruistic surrogate can be slow and difficult, many Australians have turned to commercial arrangements overseas. The attorney-general asked the ALRC to examine these laws in 2024, aiming to protect children's rights and give families more clarity and certainty.\n\n## Multiple Perspectives\n\nThe ALRC, led by Justice Mordy Bromberg, argues the current laws fail on two fronts: they neither enable responsible family formation nor adequately guard against exploitation, and instead push people overseas where risks are highest. The Federal Circuit and Family Court supported automatic legal parentage from birth, saying it better reflects the parties' intentions and avoids leaving intended parents unable to make decisions about the child's welfare. Equality Australia called the existing laws overly restrictive, with consequences falling disproportionately on LGBTQ+ families and single parents. In contrast, several churches and religious groups opposed making surrogacy easier, arguing that separating a child from its gestational mother violates its rights to biological and emotional bonds. The inquiry drew more than 460 submissions.\n\n## What to Watch\n\nThe big question is whether reform actually happens. Because states and territories hold primary responsibility, nationwide change requires their cooperation — and the Commonwealth says it currently has no plans for legislative changes. Watch whether the states adopt \"substantially consistent\" laws or whether a Commonwealth framework emerges, how a national regulator and the proposed National Surrogacy Register would work, and whether swapping some criminal offences for civil penalties gains support.",
-    "concepts": [
-     {
-      "term": "Australian Law Reform Commission (ALRC)",
-      "definition": "The federal law reform body that reviews laws and recommends changes to government; here it produced the surrogacy report.",
-      "context": "The attorney-general asked the ALRC to examine the nation's surrogacy laws in 2024."
-     },
-     {
-      "term": "commercial surrogacy",
-      "definition": "An arrangement where the surrogate is paid a fee or allowed to profit from carrying the child; it is banned in Australia.",
-      "context": "Australia bans commercial surrogacy, so many Australians pursue it overseas instead."
-     },
-     {
-      "term": "altruistic surrogacy",
-      "definition": "An arrangement where the surrogate isn't paid a fee or allowed to profit, though certain expenses can be reimbursed.",
-      "context": "Only altruistic surrogacy is legal in Australia, and the review recommends keeping that rule."
-     },
-     {
-      "term": "intended parents",
-      "definition": "The people who arrange for a surrogate to carry a child and plan to raise that child.",
-      "context": "The review proposes recognising intended parents as legal parents from birth in approved domestic arrangements."
-     }
-    ],
-    "quiz": {
-     "question": "Under the ALRC's proposed changes, how would legal parentage work for an approved domestic surrogacy arrangement?",
-     "options": [
-      "Parentage could only be transferred through an overseas court",
-      "Intended parents would be recognised as legal parents automatically from birth",
-      "Commercial surrogacy would be legalised so parents could pay for parentage",
-      "The surrogate would remain the legal parent until the child turned 16"
-     ],
-     "answer_index": 1,
-     "explanation": "The review proposes that for a domestic arrangement approved before conception, intended parents be recognised as legal parents automatically from birth, rather than having to go to court to transfer parentage."
-    },
-    "background_beginner": "Surrogacy is when a woman (the surrogate) carries and gives birth to a baby for someone else (the intended parents), often because they can't conceive themselves. In Australia, each state and territory has its own rules, and paying a surrogate a fee for profit — called commercial surrogacy — is banned; only \"altruistic\" arrangements, where expenses are covered but there's no profit, are allowed. Because this makes finding a surrogate hard, hundreds of Australians go overseas each year. The topic keeps coming up because the mismatched laws create legal headaches, push families abroad, and raise questions about children's rights. The federal government's law reform body, the ALRC, was asked in 2024 to review the whole system and has now proposed major changes.",
-    "impact_score": 58,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/8e0fb4e90e38f9280a5bcac946345144?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Australia's law reform body has recommended one national set of surrogacy rules, better compensation for surrogates, and automatic legal recognition for intended parents from birth.",
-    "tier": "LOCAL",
-    "category": "SOCIETY_CULTURE",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-18/new-surrogacy-laws-alrc-report/107376594"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 5,
-    "created_at": "2026-11-18T19:27:41.658745+00:00",
-    "published_date": "2026-11-19",
     "has_fulltext": true
    }
   ],
