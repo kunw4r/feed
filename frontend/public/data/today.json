@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-19T19:23:04.310910+00:00",
+ "generated_at": "2026-11-20T01:23:04.156592+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -1897,6 +1897,72 @@
     "has_fulltext": true
    },
    {
+    "id": "3c67d877-f7cc-5483-84b5-cb524d619aee",
+    "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
+    "simplified_title": "US Approved 900,000 AI Chip Sales to China, Committee Reveals",
+    "quick_summary": "A US House committee says the Trump administration signed off on nearly 900,000 advanced AI chips for Chinese companies over six months, many of them firms flagged as military-backed.",
+    "simplified_body": "The House Foreign Affairs Committee revealed that the Trump administration's Commerce Department approved shipments of 879,000 advanced artificial intelligence (AI) chips made by Nvidia and AMD for Chinese companies between December 2025 and May 2026. The chips included Nvidia's H200 and AMD's equivalent MI325X. Approvals went to firms such as Alibaba (75,000), Tencent (150,000), Baidu (43,000) and carmaker BYD (4,000) — all on the Pentagon's list of alleged Chinese military-backed companies. Companies had actually asked to ship over 3.4 million chips.\n\nThis matters because these chips can power both cutting-edge AI and, critics fear, China's military. A former US official said over 30 per cent of approved chips went to flagged military companies, questioning whether a serious national security review happened. Nvidia said approvals carried \"strict conditions and limited volumes\" and that it has since stopped shipping H200s to China. AMD said it complies with export laws.\n\nFor background: former President Joe Biden restricted China's access to these prized chips to protect the US lead in AI. Trump reversed that in December, letting Nvidia resume H200 sales — angering \"China hawks\" on both sides of politics. The disclosure lands amid scrutiny over former Nvidia CEO Jensen Huang's affair with an alleged Chinese spy, and reports of chips being smuggled to China unpunished.\n\nIt's unclear how many approvals became actual shipments; earlier reports suggested deliveries were few. Separately, the administration is weighing forcing US firms to disclose when they use Chinese AI models. Expect more congressional pressure and possible tightening ahead.",
+    "why_it_matters": "Who leads in AI and who controls the chips behind it shapes global power and security — a race Australia, as a close US ally reliant on the same technology supply chains, has a real stake in.",
+    "deep_analysis": "## Historical Context\n\nThe flow of advanced computing power to China has been a flashpoint for years. Under President Biden, Washington restricted Chinese access to top-tier AI chips, fearing they would supercharge China's military and erode America's technological lead. That policy sat on top of the Export Control Reform Act, 2018 legislation that broadened the Commerce Department's power to block exports of sensitive technology. When Trump reversed course in December and let Nvidia resume H200 sales to China, it marked a sharp break — and a lucrative one for chipmakers whose fortunes are tied to the vast Chinese market.\n\n## Multiple Perspectives\n\nChipmakers frame the sales as tightly controlled: Nvidia points to \"strict conditions and limited volumes\" and says it has since halted H200 shipments to China, while AMD stresses compliance with export laws. \"China hawks\" across the US political spectrum see it differently, arguing that selling to companies the Pentagon lists as military-backed undercuts national security. China, for its part, opposes what it calls the politicising of trade and tech. There's also genuine factual uncertainty: approvals don't equal deliveries, and reports suggest actual shipments have so far been modest — each major Chinese firm reportedly receiving around 10,000 H200s.\n\n## What to Watch\n\nWatch whether Commerce tightens or reverses approvals under congressional pressure, especially given the Huang spy revelations. A parallel front is software: the administration is mulling a \"name and shame\" rule forcing US firms like Airbnb to disclose use of Chinese AI models such as Alibaba's Qwen. Treasury has floated sanctions over \"distillation\" — training cheaper models off American ones. Market reaction (Nvidia down 3.3 per cent, AMD down 7.7 per cent on the day) shows investors are paying close attention too.",
+    "concepts": [
+     {
+      "term": "H200",
+      "definition": "A high-end Nvidia AI chip whose sale to China was blocked under Biden but allowed again under Trump from December 2025.",
+      "context": "The chips included Nvidia's H200 and AMD's equivalent MI325X."
+     },
+     {
+      "term": "Export Control Reform Act",
+      "definition": "2018 US legislation that expanded the Commerce Department's authority to restrict exports of sensitive technology for national security reasons.",
+      "context": "The disclosure was made using powers under the Export Control Reform Act."
+     },
+     {
+      "term": "China hawks",
+      "definition": "US politicians and officials who favour a tough, confrontational stance toward China on security and technology.",
+      "context": "Trump's reversal angered China hawks on both sides of politics."
+     }
+    ],
+    "quiz": {
+     "question": "Why do critics object to the approved chip shipments in particular?",
+     "options": [
+      "The chips were defective and unsafe",
+      "More than 30 per cent went to firms the Pentagon lists as Chinese military-backed companies",
+      "China refused to pay for the chips",
+      "The chips were older models no longer in use"
+     ],
+     "answer_index": 1,
+     "explanation": "A former US official highlighted that over 30 per cent of the chips went to companies designated as Chinese military companies, questioning whether a proper national security review occurred."
+    },
+    "background_beginner": "Advanced AI chips — tiny but powerful processors — are the engines behind modern artificial intelligence, and the best are made by US firms Nvidia and AMD. The United States and China are locked in a race to lead in AI, and Washington worries that selling its top chips to China could boost China's military. So the US government decides which chips can be exported. President Biden clamped down; President Trump loosened the rules in December 2025, letting Nvidia sell again. This keeps making headlines because it pits big company profits against national security fears, and because China is also building its own cheaper AI tools that US firms are starting to use.",
+    "impact_score": 72,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--mN1BZhyy--/c_crop,h_450,w_800,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-03T234957Z_1_LYNXNPEMA220B_RTROPTP_3_SCALEWAY-DATACENTER-SWEDEN.JPG?itok=tyuFb7_P",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "A US House committee says the Trump administration signed off on nearly 900,000 advanced AI chips for Chinese companies over six months, many of them firms flagged as military-backed.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/world/us-signed-sales-ai-chips-china-6567216"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss"
+     },
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/world/us-weighs-forcing-us-firms-disclose-chinese-ai-use-6562396"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-20T01:24:49.826746+00:00",
+    "published_date": "2026-11-20",
+    "has_fulltext": true
+   },
+   {
     "id": "ab0e080f-060e-5eb2-bfb4-15266e12f6bd",
     "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
     "simplified_title": "California Sues OpenAI Over 80 AI 'Loss-of-Control' Incidents",
@@ -2101,5 +2167,5 @@
    }
   ]
  },
- "total_stories": 31
+ "total_stories": 32
 }
