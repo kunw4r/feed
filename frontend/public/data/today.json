@@ -1,6 +1,6 @@
 {
- "date": "2026-11-21",
- "generated_at": "2026-11-21T07:23:04.272815+00:00",
+ "date": "2026-11-22",
+ "generated_at": "2026-11-21T19:23:04.250998+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -209,6 +209,69 @@
     "reading_minutes": 4,
     "created_at": "2026-11-20T19:25:27.129929+00:00",
     "published_date": "2026-11-21",
+    "has_fulltext": true
+   },
+   {
+    "id": "e10c4b4c-5874-5921-a50d-292542492968",
+    "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+    "simplified_title": "Queensland Government Under Fire Over Ambulance Deaths",
+    "quick_summary": "Queensland's LNP government is facing fierce criticism after parliament heard that several people died waiting for ambulances or in hospital care over three weeks.",
+    "simplified_body": "This week in Queensland's parliament, the state's Liberal National Party (LNP) government came under heavy fire over its handling of the health system. Members of Parliament (MPs) heard that six people died waiting for an ambulance in the past three weeks — one man waited seven hours, another three, and all had been assessed as urgently needing help. Separately, a man took his own life in the emergency department of the Prince Charles hospital after admitting himself for mental health treatment; it took staff three hours to find him.\n\nThis affects everyday Queenslanders who rely on the triple-zero emergency system and public hospitals. Health Minister Tim Nicholls struggled under questioning, at first calling a question about ambulance \"ramping\" (when ambulances queue outside hospitals because there are no free beds) \"petty\", then correcting the record. He blamed the federal government, overcrowded hospitals, and the former Labor government's \"decade of decline\".\n\nThe LNP has governed for more than two years, having won the 2024 election. For much of that time the opposition, led by former premier and ex-health minister Steven Miles, has looked weak, with rumours swirling about his leadership. The government had promised to fix the health system and long blamed Labor for its problems.\n\nBy week's end, Premier David Crisafulli, Nicholls and senior officials held an emergency meeting. Miles seized the moment, calling the deaths \"preventable\" and the worst he's seen. Whether this marks a genuine turning point — or a last roll of the dice for Miles — remains to be seen.",
+    "why_it_matters": "Ambulance ramping and hospital bed shortages are a national pressure point across Australia, and Queensland's crisis shows how quickly health failures can reshape a state's politics and hold a government directly accountable for lives lost.",
+    "deep_analysis": "## Historical Context\n\nQueensland's LNP won government in 2024, defeating a long-running Labor administration. A central plank of the LNP's pitch was fixing a health system it argued Labor had run into the ground — a message captured by the oft-repeated phrase \"decade of decline\". For much of the past two years, the government has deflected blame onto its predecessor. Two years in, however, voters increasingly expect the governing party to own the problems it promised to solve. Ambulance ramping — where crews wait outside hospitals unable to hand over patients because no beds are free — has been a chronic strain on health systems well beyond Queensland.\n\n## Multiple Perspectives\n\nThe government, through Tim Nicholls, frames the crisis as a capacity problem: \"every available vehicle is on the road\", but there simply aren't enough beds, partly because hospitals are clogged with \"forgotten Australians\" — retirees stuck in public wards for want of federally funded aged care. He points upward to Canberra and backward to Labor. The opposition, led by Steven Miles, argues these are \"preventable deaths\" the government must answer for directly, repeatedly demanding whether Nicholls will meet the grieving families — a question he never squarely answered. A third thread is internal Labor politics: Miles faced leadership speculation, reportedly fanned by the government, making his forceful week read as either a revival or a final stand.\n\n## What to Watch\n\nWatch whether Nicholls agrees to meet the bereaved families, and what the emergency meeting with the premier and officials produces in concrete funding or bed capacity. Watch the polls and Labor's internal dynamics — whether Miles's combative turn stabilises his leadership. And watch how the \"forgotten Australians\" issue plays out between state and federal governments.",
+    "concepts": [
+     {
+      "term": "ramping",
+      "definition": "When ambulances queue outside a hospital because there are no free beds to transfer patients into, delaying crews from returning to the road.",
+      "context": "Nicholls first called a question about ambulance 'ramping' petty before correcting the record on how many ambulances were waiting."
+     },
+     {
+      "term": "triple-zero",
+      "definition": "Australia's primary emergency phone number (000) for police, fire and ambulance.",
+      "context": "Nicholls said the community could have confidence in the triple-zero system and paramedics."
+     },
+     {
+      "term": "forgotten Australians",
+      "definition": "A term used here for retirees kept in public hospitals because there's no federally funded aged-care place for them.",
+      "context": "The minister blamed hospitals full of 'forgotten Australians' for the bed shortage."
+     },
+     {
+      "term": "opposition leader",
+      "definition": "The leader of the largest party not in government, who challenges and scrutinises the governing party.",
+      "context": "Steven Miles, the opposition leader, came out swinging after days of leadership speculation."
+     }
+    ],
+    "quiz": {
+     "question": "Why did Health Minister Tim Nicholls say ambulances were ramped despite 'every available vehicle' being on the road?",
+     "options": [
+      "Paramedics were on strike",
+      "The triple-zero phone system had failed",
+      "Too many ambulances had run out of fuel",
+      "There were not enough hospital beds to off-load patients into"
+     ],
+     "answer_index": 3,
+     "explanation": "Nicholls said every vehicle was on the road but 'there are simply not enough beds', which is why ambulances queue, or 'ramp', outside hospitals."
+    },
+    "background_beginner": "Queensland is an Australian state with a government currently run by the Liberal National Party (LNP), led by Premier David Crisafulli, who won power in the 2024 election. The main opposition is the Labor Party, led by Steven Miles, a former premier and health minister. The flashpoint here is the public health system — specifically ambulances and hospital emergency departments. A recurring problem is \"ramping\", where ambulances get stuck waiting outside hospitals because there are no free beds. It keeps coming up because delays can cost lives, and after more than two years in office the government can no longer simply blame the previous Labor government for the failures.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/e9bb488d6f56a808e4c08a19e1ddea696735455d/410_0_2606_2085/master/2606.jpg?width=1920&quality=85&auto=format&fit=max&s=ab2f16a9254c6f9b6ea1486a370e374d",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Queensland's LNP government is facing fierce criticism after parliament heard that several people died waiting for ambulances or in hospital care over three weeks.",
+    "tier": "LOCAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 4,
+    "created_at": "2026-11-21T19:25:39.911711+00:00",
+    "published_date": "2026-11-22",
     "has_fulltext": true
    },
    {
@@ -530,140 +593,130 @@
   ],
   "EUROPE": [
    {
-    "id": "8acc04b9-32e2-5c6d-95da-197629fc865f",
-    "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-    "simplified_title": "Ukraine collapses Putin's prized Crimean Bridge, he vows revenge",
-    "quick_summary": "Ukraine's missile-and-drone strikes collapsed a road section of Russia's Crimean Bridge, prompting Vladimir Putin to vow a \"far more painful\" response and declare there will be no peace deal.",
-    "simplified_body": "Ukraine hit the Crimean Bridge — also called the Kerch Strait Bridge — three times in one week, with a combined missile-and-drone strike destroying the central road section and dropping part of it into the sea. The bridge, which links Russia to the occupied Crimean Peninsula, is now closed to cars for the foreseeable future, though rail traffic has resumed. Russian President Vladimir Putin, speaking at a summit in the Chinese city of Shenzhen, vowed Moscow's retaliation would be \"far more painful\" and said \"there will be no agreements.\"\n\nThis matters because the bridge is Russia's main supply artery into Crimea, which it has used as a military base — airbases, troop concentrations and artillery stockpiles — since illegally annexing the peninsula in 2014. Ukraine's defence ministry framed the strikes as \"time gained and lives saved,\" reasoning that less Russian equipment reaching the front means fewer attacks on Ukrainian soldiers. One analyst called it a \"huge blow to Putin's credibility.\"\n\nFor background: Russia built the bridge after the 2014 annexation and opened it with great fanfare in 2018, Putin driving across himself. It is Europe's longest bridge and a source of national pride, making it a prime symbolic and logistical target. Ukraine says this \"unprecedented operation\" took weeks, first knocking out air defences and radars before the final blow using Neptune cruise missiles and homegrown Flamingo missiles.\n\nWhat's next is uncertain. Russia promises repairs — one estimate is about a week to even assess the damage, while a structural engineer told Reuters replacing the road span could take over a year. A ferry service is being set up to supply the peninsula. The strikes landed as both sides awaited a date for United States (US)-mediated peace talks, which Putin has now seemingly rejected.",
-    "why_it_matters": "The strike signals Russia is not winning the war and may have killed off looming peace talks, raising the risk of heavier attacks. Australia's own Strategic Policy Institute analyst Malcolm Davis called it a \"major setback\" for Putin, underscoring how closely watched the conflict is here.",
-    "deep_analysis": "## Historical Context\n\nRussia seized the Crimean Peninsula from Ukraine in 2014, a move widely condemned as illegal under international law. To cement its claim and solve the logistical problem of supplying a peninsula it did not border by land, Russia built the Crimean Bridge across the Kerch Strait. Construction began in 2016 over Ukrainian objections and finished in a little over two years, with Putin personally driving across at the May 2018 opening. The bridge has been attacked before: a truck bomb in October 2022 and maritime drones in 2023 that killed two people. Each time Russia repaired it and Putin returned to walk its roadway — making the structure a recurring symbol of the contest over Crimea.\n\n## Multiple Perspectives\n\nUkraine frames the strike in practical terms — \"time gained and lives saved\" — arguing that cutting Russia's supply line directly protects its own troops. Russia downplays it: the Kremlin insists the bridge was purely civilian and will be \"rebuilt, and it will be even better than before.\" Independent analysts lean toward Ukraine's reading; the Australian Strategic Policy Institute's Malcolm Davis called it a \"bad defeat\" that undermines Putin's credibility and could make a future Ukrainian push to retake Crimea easier. Sources differ on specifics: the BBC cites a roughly 200-metre collapsed road section, while the ABC cites about 227 metres, and timelines vary (reports reference both a \"Tuesday\" strike and the nights of November 15–16).\n\n## What to Watch\n\nWatch the repair timeline — estimates range from a week just to assess damage to over a year to replace the span — and whether Russia can keep Crimea supplied by ferry in the meantime. More importantly, watch Putin's promised retaliation and whether the collapse of peace-talk prospects leads to intensified strikes on Ukrainian infrastructure, which Russia has repeatedly targeted since 2022.",
+    "id": "0a717d8e-ecd7-50d3-97a7-b93c10854a53",
+    "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+    "simplified_title": "Russia hits Kyiv bridges and stations after Crimean Bridge attack",
+    "quick_summary": "Russia launched one of its biggest aerial assaults of the war on Ukraine, striking bridges, railway stations and homes days after Ukraine badly damaged the Crimean Bridge.",
+    "simplified_body": "Russia hit bridges in Kyiv and railway stations overnight in what Ukrainian President Volodymyr Zelensky called \"one of the most massive strikes\" of the war, launching over 110 missiles and more than 400 attack drones. At least nine people were killed — seven in Kyiv and two in Lviv — with dozens injured. Three Kyiv bridges were shut to traffic, and the Sknyliv railway station in Lviv was badly damaged.\n\nThe strikes hit civilians, energy facilities and homes, so ordinary Ukrainians bear the brunt. Zelensky said Russia used \"particularly insidious\" tactics, firing in waves 20 to 30 minutes apart to make it harder to put out fires and restore services. Russia's attack reportedly also damaged the Austrian and Dutch embassies.\n\nThe assault came days after Ukraine badly damaged the Crimean Bridge, which the Kremlin built to link Russia with Crimea, the peninsula Moscow illegally annexed in 2014. Russian President Vladimir Putin, who opened the bridge in 2019, had vowed retaliation he said would be \"far more painful\". It also landed amid peace talks: the \"coalition of the willing\" — Ukraine's allies — met in Berlin, with US President Donald Trump dialling in and envoy Jared Kushner saying the US wants a deal \"with Europe by his side\".\n\nFrance's foreign minister has called for a United Nations Security Council meeting, labelling the strikes \"crimes\". Watch whether the Berlin negotiations gain traction, and whether a Russian cruise missile that landed in Poland escalates tensions with the North Atlantic Treaty Organisation (NATO).",
+    "why_it_matters": "A sharp escalation in strikes on civilian infrastructure, plus a Russian missile landing inside NATO member Poland, raises the risk of the war spilling beyond Ukraine — a worry for Australia and every nation backing Kyiv's defence.",
+    "deep_analysis": "## Historical Context\n\nRussia's full-scale invasion of Ukraine has ground on for years, and the Crimean Bridge has been one of its most potent symbols. Moscow illegally annexed Crimea in 2014 and has since used the peninsula to house troops and military equipment that move towards the front line. Putin personally opened the bridge in 2019 \"to international condemnation\", so Ukraine's operation to damage its road section was both a tactical and symbolic blow. The Kremlin's response — one of the largest strikes of the war — follows a pattern of major retaliatory bombardments after high-profile Ukrainian successes.\n\n## Multiple Perspectives\n\nThe picture here is one of competing claims. Jared Kushner said Russia was \"comfortable\" with Ukraine having security guarantees modelled on NATO's Article Five, which obliges allies to defend a country under attack. But Russia's deputy foreign minister Sergei Ryabkov called \"quasi-NATO\" membership \"unacceptable\", and the Kremlin has long cited Ukraine joining NATO as a key justification for the war — so the two sides openly disagree. European leaders say they are ready for negotiations and have committed €70bn in military funding, a figure Trump reportedly questioned, hinting at tension within the Western camp too.\n\n## What to Watch\n\nKeep an eye on the Berlin \"coalition of the willing\" talks and whether they produce a credible path to a peace deal, or whether US–Russia back-channel talks sideline Europe. The missile that landed roughly 50km inside Poland — which Prime Minister Donald Tusk called an \"intentional provocation\" — is a flashpoint, especially with Polish and Swedish jets already scrambled on NATO's eastern flank. France's push for a UN Security Council meeting will test whether international institutions can apply any pressure.",
     "concepts": [
      {
-      "term": "Crimean Peninsula",
-      "definition": "A piece of Ukrainian land jutting into the Black Sea that Russia seized and annexed in 2014, a move most of the world considers illegal.",
-      "context": "The bridge is Russia's main supply route into this occupied territory."
+      "term": "Crimean Bridge",
+      "definition": "A bridge the Kremlin built to link Russia with the Crimean peninsula, which Moscow illegally annexed from Ukraine in 2014.",
+      "context": "Ukraine's damage to its road section was the trigger Russia cited for its retaliatory strikes."
      },
      {
-      "term": "annexing",
-      "definition": "Formally taking over and claiming another country's territory as your own, usually by force.",
-      "context": "Russia has used Crimea as a military base since illegally annexing it in 2014."
+      "term": "coalition of the willing",
+      "definition": "An international alliance of Ukraine's allies committed to providing security support in the event of a peace deal.",
+      "context": "The group met in Berlin to discuss negotiations to end the war."
      },
      {
-      "term": "Neptune cruise missiles",
-      "definition": "Ukrainian-made long-range missiles designed to strike ships and land targets with precision.",
-      "context": "Ukraine says these were among the weapons used to deliver the final blow to the bridge."
-     },
-     {
-      "term": "Kerch Strait Bridge",
-      "definition": "Another name for the Crimean Bridge, referring to the narrow sea channel it crosses between Crimea and mainland Russia.",
-      "context": "It is Europe's longest bridge and a source of Russian national pride."
+      "term": "Article Five",
+      "definition": "A NATO rule requiring member allies to come to the defence of any member that comes under attack.",
+      "context": "US envoy Jared Kushner claimed Russia was 'comfortable' with Ukraine having guarantees based on it, which Russia disputed."
      }
     ],
     "quiz": {
-     "question": "Why does Ukraine consider destroying the Crimean Bridge valuable beyond its symbolism?",
+     "question": "Why did Russia say it launched this massive strike on Ukraine?",
      "options": [
-      "It was built illegally in 2016",
-      "It is the only bridge in Europe",
-      "It generates toll revenue for Ukraine",
-      "It cuts a key supply route for Russian troops, meaning fewer attacks reach Ukrainian soldiers"
+      "To mark the anniversary of annexing Crimea",
+      "As retaliation for Ukraine damaging the Crimean Bridge",
+      "Because Ukraine joined NATO",
+      "In response to the missile that landed in Poland"
      ],
-     "answer_index": 3,
-     "explanation": "Ukraine's defence ministry framed the strike as 'time gained and lives saved' — less Russian equipment reaching the front means fewer hits on its warriors, making the bridge a logistical as well as symbolic target."
+     "answer_index": 1,
+     "explanation": "Putin had threatened retaliation after Ukraine's operation badly damaged the Crimean Bridge, saying the response would be 'far more painful'."
     },
-    "background_beginner": "Russia and Ukraine have been at war since Russia launched a full-scale invasion in 2022, but tensions go back to 2014 when Russia seized Crimea, a peninsula of southern Ukraine. Because Crimea isn't connected to Russia by land, Russia built a long bridge across the Kerch Strait, opened in 2018, to supply the territory. The bridge became both a practical lifeline for Russian troops and a proud national symbol for President Vladimir Putin. Ukraine has repeatedly tried to damage it. It keeps coming up because knocking it out weakens Russia's grip on Crimea and embarrasses Putin, making the bridge one of the war's most symbolic flashpoints.",
-    "impact_score": 72,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4dc7/live/1a9ba6c0-e424-11f1-b782-6bf340d7e154.jpg",
+    "background_beginner": "Russia and Ukraine have been at war since Russia launched a full-scale invasion, part of a conflict that stretches back to 2014 when Moscow illegally annexed Ukraine's Crimean peninsula. Russia's leader is Vladimir Putin; Ukraine's is Volodymyr Zelensky. A recurring flashpoint is the Crimean Bridge, built by Russia to connect itself to Crimea — Ukraine recently damaged it, and Russia hit back hard. Western countries, grouped as a \"coalition of the willing\", back Ukraine with money and weapons, while the US under Donald Trump has pushed for peace talks. The topic keeps resurfacing because each big attack reshapes the fighting and the fragile diplomacy around ending it.",
+    "impact_score": 78,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg",
     "region": "Europe incl. UK, Russia-Ukraine",
     "region_code": "EUROPE",
-    "description": "Ukraine's missile-and-drone strikes collapsed a road section of Russia's Crimean Bridge, prompting Vladimir Putin to vow a \"far more painful\" response and declare there will be no peace deal.",
+    "description": "Russia launched one of its biggest aerial assaults of the war on Ukraine, striking bridges, railway stations and homes days after Ukraine badly damaged the Crimean Bridge.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-20/ukraine-crimean-bridge-destruction-significance-explained/107408488"
-     },
-     {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/"
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
+    "source_count": 1,
+    "confidence": 0.55,
     "related_story_ids": [
+     "86edd3b2-5321-52c5-81ae-054d5ee6f159",
+     "8acc04b9-32e2-5c6d-95da-197629fc865f",
      "8e5c79c3-7821-5f83-a448-77d8b2e4931d",
+     "cec15dcf-d5c4-50bb-9868-53fea88f5128",
      "efb9b20e-4f16-592d-8c39-810dd55302b6"
     ],
-    "reading_minutes": 2,
-    "created_at": "2026-11-20T07:25:56.639653+00:00",
-    "published_date": "2026-11-20",
+    "reading_minutes": 4,
+    "created_at": "2026-11-21T19:25:40.013026+00:00",
+    "published_date": "2026-11-22",
     "has_fulltext": true
    },
    {
-    "id": "9e058c18-56e9-5be4-8637-4d8c05d4d420",
-    "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-    "simplified_title": "New daily pill makes some pancreatic tumours vanish in early trial",
-    "quick_summary": "An early trial of a daily pill called daraxonrasib, taken with chemotherapy, shrank or cleared tumours in some patients with advanced pancreatic cancer, which experts are calling the biggest breakthrough in decades.",
-    "simplified_body": "Doctors have reported promising early results for a daily pill called daraxonrasib, given alongside chemotherapy to 61 people recently diagnosed with advanced pancreatic cancer that had already spread. Tumours stopped growing in about 90% of patients, just over 60% saw their tumours shrink or disappear, and in around 8% — roughly one in 12 — the cancer became undetectable on CT (computed tomography) scans. Cancer Research UK called it \"the biggest leap forward in decades\" for these patients.\n\nThis matters because pancreatic cancer is notoriously hard to treat and has the lowest survival rate of all common cancers in the UK, with most people who have advanced disease surviving months rather than years. Even a treatment that buys more time, rather than a cure, would be a big deal for patients and their families.\n\nDaraxonrasib is a KRAS inhibitor, already approved in the United States. It works by locking onto and switching off faulty signals called RAS mutations, which drive tumour growth in most pancreatic cancers. One researcher described it as \"drugging the undruggable\". Because dozens of other cancers, including lung and ovarian, carry similar mutations, the drug might eventually help other patients too.\n\nDoctors are clear this is not a cure. The trial followed patients for about a year and a half on average, and longer studies are needed to see whether the cancer stays away and for how long. In Britain there are about 11,500 diagnoses and around 10,200 deaths from the disease each year.",
-    "why_it_matters": "Pancreatic cancer kills quickly and has resisted progress for decades, so a pill that even delays it could change the outlook for thousands of patients — and the same faulty mutation it targets appears in many other common cancers, meaning benefits could eventually reach far more people, including Australians.",
-    "deep_analysis": "## Historical Context\n\nPancreatic cancer has long been one of the hardest cancers to treat, carrying the lowest survival rate of all common cancers in the UK. For most patients with advanced disease, survival is measured in months, not years, and while chemotherapy can shrink tumours somewhat, the cancer usually grows back. The actor Alan Rickman died of the disease in 2016, just five months after his diagnosis — a reminder of how fast it can move. Progress has been slow partly because the RAS mutations driving most of these tumours were considered \"undruggable\" for a long time, which is why researchers are describing daraxonrasib as such a leap forward.\n\n## Multiple Perspectives\n\nThe enthusiasm is strong but carefully qualified. Cancer Research UK's Dr Sam Godfrey called it \"the biggest leap forward in decades\" and spoke of \"drugging the undruggable\", while Dr Wungki Park of Memorial Sloan Kettering Cancer Center pointed to higher response rates, deeper responses and a near doubling in the duration of disease control that \"may eventually translate into longer survival\". Prof Elena Garralda, chair of the EORTC (European Organisation for Research and Treatment of Cancer) conference where the work is being presented, said the combined treatment could potentially improve overall survival. Yet all of them stress caution: this is not a cure, and as Godfrey noted, clear scans don't guarantee someone is cancer-free until more time has passed.\n\n## What to Watch\n\nThe key unknowns are durability and survival. This was an early trial of just 61 people, followed for around a year and a half on average, so longer studies are needed to learn whether any cancers go into lasting remission and for how long. Also worth watching is whether the drug's benefit extends to other cancers carrying similar RAS mutations, such as lung and ovarian — something researchers are openly hoping for.",
+    "id": "3e8a9d3e-ea09-5b62-b974-1bdf1c4629da",
+    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+    "simplified_title": "Russian Missile Crashes in Poland During Western Military Drills",
+    "quick_summary": "Poland says a Russian cruise missile and two other objects crossed into its airspace during a huge Russian attack on Ukraine, calling it a deliberate \"provocation\".",
+    "simplified_body": "Poland says three objects violated its airspace early on Friday, including a Russian Kh-101 cruise missile that crashed in a rural area at Nowy Lipowiec, about 50km from the Ukrainian border, around 06:30. A second suspected missile came down near Rudnik nad Sanem and a jet-powered drone crashed near Mołodycz. Nobody was hurt and no damage was reported, but Warsaw called it a \"provocation\" from Moscow. Russia has not commented.\n\nThis matters for Poland and the wider region because it is a member of NATO (the North Atlantic Treaty Organisation, a Western military alliance). NATO jets were scrambled and Secretary General Mark Rutte condemned the \"grave violations\". Prime Minister Donald Tusk noted the objects landed near where Koalicja 2026 — a UK- and France-led exercise involving 11 \"Coalition of the Willing\" nations — was being held, suggesting it was no accident.\n\nFor background: Russia launched its full-scale invasion of Ukraine in February 2022. The \"Coalition of the Willing\" is a group of countries backing Kyiv and preparing for a possible peace deal. This isn't the first spillover — a missile also landed in Poland in July, and in November 2022 two Polish farmers were killed by what was believed to be a Ukrainian air-defence missile. Moldova reported its airspace was briefly crossed by a drone too.\n\nThe incident came a day after a 40-country Coalition summit in Berlin pledged continued support for Ukraine. Poland says it will ask NATO for more support. Meanwhile Russia's broader assault killed at least eight people in Ukraine, hitting Kyiv's bridges, a Lviv station, and Zelensky's hometown Kryvyi Rih.",
+    "why_it_matters": "When Russian weapons land inside NATO territory, it raises the risk of the Ukraine war widening into a direct clash between Russia and the West — a danger that ripples out to allies worldwide, including Australia, which has backed sanctions and support for Kyiv.",
+    "deep_analysis": "## Historical Context\n\nRussia's full-scale invasion of Ukraine began in February 2022, and the fighting has periodically spilled across borders. In November 2022, two Polish farmers were killed by a missile believed to be a Ukrainian air-defence weapon responding to a Russian attack. In July this year, a cruise missile left a 10m-wide crater in Poland during an attack on Lviv. Friday's incident fits this pattern of occasional, usually non-lethal, incursions into NATO airspace — set against the daily, deadly attacks Ukraine itself endures. Moldova, which is not in NATO, has logged 118 airspace violations since February 2022.\n\n## Multiple Perspectives\n\nPolish and allied leaders framed the event as deliberate. Tusk argued it was \"no coincidence\" the objects fell near the Koalicja 2026 exercise. UK Defence Secretary Wes Streeting called it \"Russian provocation designed to divide Europe\", and NATO's Mark Rutte called it \"clearly dangerous\". European Council President António Costa urged Russia to the negotiating table. Russia, by contrast, said nothing at all — a silence that leaves intent disputed. The timing, a day after a 40-nation Berlin summit and amid Putin's threat of \"painful\" retaliation for strikes on the Kerch Strait bridge, shapes how each side reads it.\n\n## What to Watch\n\nWatch whether Poland's request for \"additional support\" from NATO triggers formal consultations. Rutte's planned Saturday visit to Warsaw, and any shift in the Coalition of the Willing's posture ahead of a possible peace deal, will signal how seriously the alliance treats repeated incursions. Also watch for Russian acknowledgement — continued silence versus a claim of accident would change the diplomatic picture.",
     "concepts": [
      {
-      "term": "daraxonrasib",
-      "definition": "A daily pill, already approved in the United States, being trialled with chemotherapy against advanced pancreatic cancer.",
-      "context": "In the trial it stopped tumour growth in about 90% of patients and made the cancer undetectable in roughly one in 12."
+      "term": "Kh-101",
+      "definition": "A Russian air-launched cruise missile designed to strike precision targets at long range.",
+      "context": "Poland identified the weapon that crashed near its border as a Kh-101 cruise missile."
      },
      {
-      "term": "KRAS inhibitor",
-      "definition": "A type of drug that locks onto and switches off faulty RAS signals that drive tumour growth.",
-      "context": "Daraxonrasib is a KRAS inhibitor, which is why experts describe it as 'drugging the undruggable'."
+      "term": "NATO",
+      "definition": "The North Atlantic Treaty Organisation, a military alliance of Western countries that pledges mutual defence.",
+      "context": "Poland is a NATO member, so an incursion onto its soil carries wider security implications."
      },
      {
-      "term": "RAS mutations",
-      "definition": "Faulty genetic signals found in most pancreatic cancers that push tumours to grow.",
-      "context": "The same mutations appear in dozens of other cancers, including lung and ovarian."
+      "term": "Coalition of the Willing",
+      "definition": "A group of countries backing Ukraine and preparing for a potential peace deal.",
+      "context": "The objects landed near a Coalition of the Willing military exercise in southeastern Poland."
      },
      {
-      "term": "CT (computed tomography) scans",
-      "definition": "Detailed imaging scans doctors use to detect and track tumours in the body.",
-      "context": "In around 8% of patients the cancer became undetectable on CT scans."
+      "term": "provocation",
+      "definition": "A deliberate act meant to anger or challenge an opponent into a response.",
+      "context": "Warsaw described the airspace violation as a provocation from Moscow rather than an accident."
      }
     ],
     "quiz": {
-     "question": "Why are doctors cautious about calling daraxonrasib a cure, despite the positive results?",
+     "question": "Why did Polish officials suggest Friday's airspace violation was not an accident?",
      "options": [
-      "The trial was short, so it's not yet known whether cancers stay away long-term",
-      "Tumours grew in most of the patients on the drug",
-      "The drug only works on lung and ovarian cancers",
-      "The drug has not been approved anywhere in the world"
+      "The missile was aimed directly at Warsaw",
+      "NATO had warned of an attack in advance",
+      "Russia publicly claimed responsibility for the strike",
+      "The objects landed near where allied military exercises were being held"
      ],
-     "answer_index": 0,
-     "explanation": "The trial followed patients for about a year and a half on average, and doctors stress that longer studies are needed to know whether cancers go into lasting remission — a clear scan doesn't confirm someone is cancer-free."
+     "answer_index": 3,
+     "explanation": "Tusk said it was \"no coincidence\" that the objects landed near the Koalicja 2026 exercise site, implying the timing and location pointed to a deliberate provocation rather than an accident."
     },
-    "background_beginner": "Pancreatic cancer is one of the deadliest common cancers, with most people who have advanced disease surviving only months after diagnosis. It's been hard to treat for decades, partly because the faulty signals driving it — called RAS mutations — were thought impossible to target with drugs. Now researchers, including teams in the US and groups like Cancer Research UK, are trialling a daily pill called daraxonrasib, a type of KRAS inhibitor that switches off those signals. Early results, where tumours shrank or vanished in some patients, keep making headlines because progress here has been so rare, and because the same mutations appear in many other cancers too.",
+    "background_beginner": "Since February 2022, Russia has been waging a full-scale war against Ukraine, launching frequent missile and drone attacks. Poland sits right next to Ukraine and is a member of NATO, a defensive alliance of Western nations that promises to protect one another. Occasionally, stray or misfired weapons from the war cross into Polish territory, which alarms the alliance because an attack on one member can draw in the others. A group of nations called the \"Coalition of the Willing\" is helping Ukraine and preparing for possible peace talks. These border incidents keep recurring because the war continues intensely along Ukraine's western regions, close to the Polish frontier.",
     "impact_score": 72,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
     "region": "Europe incl. UK, Russia-Ukraine",
     "region_code": "EUROPE",
-    "description": "An early trial of a daily pill called daraxonrasib, taken with chemotherapy, shrank or cleared tumours in some patients with advanced pancreatic cancer, which experts are calling the biggest breakthrough in decades.",
+    "description": "Poland says a Russian cruise missile and two other objects crossed into its airspace during a huge Russian attack on Ukraine, calling it a deliberate \"provocation\".",
     "tier": "GLOBAL",
-    "category": "HEALTH",
+    "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o"
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
     "related_story_ids": [],
     "reading_minutes": 3,
-    "created_at": "2026-11-20T07:25:48.670412+00:00",
-    "published_date": "2026-11-20",
+    "created_at": "2026-11-21T19:25:41.692017+00:00",
+    "published_date": "2026-11-22",
     "has_fulltext": true
    },
    {
@@ -740,72 +793,75 @@
   ],
   "MIDDLE_EAST_AFRICA": [
    {
-    "id": "6075690c-d996-5b4a-ace3-8a1873885b29",
-    "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-    "simplified_title": "Israeli tanks push past Gaza's Yellow Line in rare raid",
-    "quick_summary": "Israeli forces carried out a roughly 24-hour ground raid beyond the Yellow Line into Hamas-controlled central Gaza, which Hamas calls a \"flagrant violation\" of the October 2025 ceasefire.",
-    "simplified_body": "Israeli tanks and bulldozers crossed the \"Yellow Line\" into Hamas-controlled central Gaza on Wednesday, rolling along Salah al-Din road, the territory's main north-south route near Nuseirat refugee camp. The Israel Defense Forces (IDF) said the \"targeted\" operation, run with the Shin Bet security service, aimed to destroy a \"terror tunnel\" that threatened its troops. The military said the roughly 24-hour operation was \"completed\" by Thursday, and the road reopened.\n\nThis hit displaced Palestinians hardest. Gaza's Hamas-run media office estimates 6,000 people fled their tents and homes, calling it the war crime of forced displacement. Residents described \"indiscriminate\" gunfire and shelling, and returned to find destruction and rubble. Hamas called the advance a \"flagrant violation of the ceasefire agreement\" and a dangerous escalation.\n\nThe Yellow Line marks the more than 60% of Gaza that Israel occupies. This was reportedly the first ground push beyond it publicly announced by the IDF since the ceasefire began 13 months ago, and believed to be the furthest Israeli troops have advanced into central Gaza since the truce. The war began with the Hamas-led attack on southern Israel on 7 October 2023, which killed about 1,200 people and took 251 hostages.\n\nThe ceasefire looks shaky. The US-backed Board of Peace, which oversees the truce, has accused both Israel and Hamas of failing to honour their commitments, warning \"a ceasefire that delivers nothing visible cannot be sustained indefinitely\". The key sticking point is Hamas disarmament: Hamas will give up weapons for a phased Israeli withdrawal, but Israel insists Hamas disarm fully first.",
-    "why_it_matters": "The October 2025 ceasefire is one of the few things slowing a war that has killed tens of thousands, and raids like this show how close it is to unravelling. Australia, which has pushed for a two-state solution and recognised a Palestinian state, has a direct stake in whether the truce holds.",
-    "deep_analysis": "## Historical Context\n\nThe current war was triggered by the Hamas-led attack on southern Israel on 7 October 2023, in which about 1,200 people were killed and 251 taken hostage. Israel's military campaign since then has, according to Gaza's health ministry, killed more than 74,000 people, with an estimated 82% of structures destroyed or damaged and reconstruction yet to begin. A ceasefire brokered under US President Donald Trump's peace plan took effect in October 2025, creating the \"Yellow Line\" that splits the territory: Israel holds the more than 60% on one side, Hamas controls the rest. Even so, violence has continued near-daily throughout the 13 months of truce.\n\n## Multiple Perspectives\n\nIsrael frames the raid narrowly — a \"targeted\" strike on a \"terror tunnel\" posing an \"immediate and direct threat\" to its troops — and says Hamas has been regrouping and rearming. Hamas calls the push and the evacuation a \"flagrant violation\" and accuses Israel of trying to derail the deal. The US-backed Board of Peace blames both sides for not honouring commitments. There are factual gaps too: the sources disagree on the death toll since the ceasefire (BBC cites 1,662 Palestinians and six Israeli soldiers; the Guardian cites at least 1,600 and five soldiers). The Guardian also notes a UN inquiry found Israel committed genocide and that Netanyahu is wanted by the International Criminal Court (ICC) — claims Israel disputes.\n\n## What to Watch\n\nWatch whether the Board of Peace's warning translates into pressure that holds the truce together or whether raids escalate further past the Yellow Line. The disarmament deadlock — Hamas wants a phased withdrawal first, Israel wants full disarmament first — is the central test. Israeli domestic politics is also in flux, with opposition figure Gadi Eisenkot trying to form a government without caretaker PM Benjamin Netanyahu.",
+    "id": "0c64c628-dff7-573c-a5bc-57e6f0038939",
+    "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+    "simplified_title": "Tankers struck in Strait of Hormuz as Iran tightens grip",
+    "quick_summary": "Two oil tankers were reportedly hit by projectiles near Oman as Iran moves to control shipping through the vital Strait of Hormuz.",
+    "simplified_body": "British maritime monitors say two tankers were struck by unidentified projectiles on Saturday in the Strait of Hormuz, the narrow waterway linking the Gulf to the open ocean. The United Kingdom Maritime Trade Operations (UKMTO) centre, which tracks threats to commercial ships, reported one tanker hit at its rear about 20km north of the Omani port of Khasab, and another struck in its engine room roughly 31km east. No casualties were reported, and it wasn't clear if the same vessel was involved in both.\n\nThis comes amid a conflict involving Iran, the United States and Israel that, the article says, began when the US and Israel attacked Iran in late February. Iran's navy said a tanker caught fire after hitting a naval mine in a restricted zone, accusing the ship of ignoring warnings and sailing with its tracking gear switched off. That account couldn't be independently verified.\n\nThe strait carried nearly a fifth of the world's crude oil before the fighting, so any disruption worries global energy markets. Al Jazeera's Tehran correspondent said about 25 incidents had been reported in a week — roughly three a day — a sharp rise he called \"quite dramatic\". Iran insists every passing ship must coordinate with its authorities and follow Iranian-set lanes, or risk attack or mines laid by the Islamic Revolutionary Guard Corps (IRGC).\n\nThe US has responded by blockading Iranian ports and deploying warships to escort tankers through. Iran's apparent message: if it can't export its oil, others won't export theirs either. Expect more incidents and higher tension over this key energy route.",
+    "why_it_matters": "The Strait of Hormuz is a chokepoint for a big slice of the world's oil, so disruption there pushes up global fuel prices — including at Australian petrol pumps — and rattles energy-dependent economies across the region.",
+    "deep_analysis": "## Historical Context\n\nThe Strait of Hormuz has long been one of the world's most sensitive energy chokepoints, carrying nearly a fifth of global crude oil supplies before the current conflict. According to the article, the present crisis stems from a war involving Iran, the United States and Israel that began with a US-Israeli attack on Iran in late February. Since then, Tehran has worked to tighten its grip on the waterway, insisting that ships coordinate with Iranian authorities and follow lanes it sets.\n\n## Multiple Perspectives\n\nThe accounts here diverge. UKMTO, the British monitoring agency, reports two tankers hit by unidentified projectiles near Oman. Iran's navy offers a different framing — that a tanker caught fire after striking a naval mine in a restricted area, blaming the vessel for ignoring warnings and running with its identification and navigation equipment switched off. Al Jazeera notes the Iranian version could not be independently verified, and it's unclear whether the burning tanker relates to either UKMTO incident. Its Tehran correspondent frames Iran's strategy as deliberate escalation: a signal that if Iran can't export oil, neither can anyone else. The US, meanwhile, has responded by blockading Iranian ports and escorting tankers with warships.\n\n## What to Watch\n\nWatch the pace of incidents — around 25 in a week, roughly three a day, which the correspondent called a dramatic pattern. Watch whether mines laid by the IRGC spread, whether US naval escorts prevent or provoke further strikes, and how global oil markets react to sustained disruption of a route this important.",
     "concepts": [
      {
-      "term": "Yellow Line",
-      "definition": "The boundary line created under the ceasefire that marks the more than 60% of Gaza's territory occupied by Israel, separating it from the Hamas-controlled remainder.",
-      "context": "Israeli forces crossed it in a rare ground raid, which Hamas called a violation of the truce."
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage connecting the Gulf to international shipping routes, through which a large share of the world's oil passes.",
+      "context": "The article describes tankers being struck here as Iran tries to control who can pass."
      },
      {
-      "term": "ceasefire",
-      "definition": "An agreed halt to fighting; here the October 2025 US-brokered truce meant to wind down the Gaza war.",
-      "context": "Both Hamas and the overseeing Board of Peace say its terms are not being honoured."
+      "term": "UKMTO",
+      "definition": "The United Kingdom Maritime Trade Operations centre, a British agency that monitors and reports threats to commercial shipping.",
+      "context": "UKMTO reported the two tanker strikes near Oman."
      },
      {
-      "term": "forced displacement",
-      "definition": "Compelling people to flee their homes, which can amount to a war crime under international law.",
-      "context": "Gaza's Hamas-run media office said the raid forced about 6,000 people to flee their tents and homes."
+      "term": "IRGC",
+      "definition": "The Islamic Revolutionary Guard Corps, an Iranian military force; here said to be laying sea mines in the strait.",
+      "context": "Iran warns non-compliant ships risk attack or mines laid by the IRGC."
      },
      {
-      "term": "Shin Bet",
-      "definition": "Israel's internal security and intelligence service.",
-      "context": "The IDF said the tunnel-clearing operation was run jointly with it."
+      "term": "naval mine",
+      "definition": "An explosive device placed in water to damage or destroy passing ships.",
+      "context": "Iran's navy said a tanker caught fire after striking a naval mine in a restricted area."
      }
     ],
     "quiz": {
-     "question": "What did Israel say was the main aim of its ground operation across the Yellow Line?",
+     "question": "Why does Iran's reported effort to control the Strait of Hormuz matter globally?",
      "options": [
-      "To dismantle a \"terror tunnel\" threatening its troops",
-      "To deliver aid to displaced Palestinians",
-      "To permanently occupy central Gaza",
-      "To capture Hamas leaders"
+      "The strait is the only shipping route into the Mediterranean Sea",
+      "Oman owns most of the oil tankers passing through",
+      "The strait is the world's busiest container port",
+      "The strait carried nearly a fifth of the world's crude oil before the conflict"
      ],
-     "answer_index": 0,
-     "explanation": "The IDF said the operation, run with the Shin Bet, aimed to dismantle a \"terror tunnel\" west of the Yellow Line that posed an immediate and direct threat to its troops."
+     "answer_index": 3,
+     "explanation": "The article states the strait carried nearly a fifth of the world's crude oil supplies before the conflict, which is why disruption there threatens global energy supplies."
     },
-    "background_beginner": "Israel and Hamas, the Palestinian armed group that runs Gaza, have been at war since Hamas led an attack on southern Israel on 7 October 2023 that killed about 1,200 people and took 251 hostages. Israel's response has devastated Gaza, where most buildings are damaged and roughly 2.1 million people live in dire conditions, many in tents. In October 2025 a US-brokered ceasefire paused the heaviest fighting and drew a \"Yellow Line\" dividing Israeli-held land from Hamas-held land. The truce keeps coming up because it is fragile: strikes and raids continue, the two sides accuse each other of breaking it, and they remain stuck over whether Hamas must disarm.",
-    "impact_score": 72,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+    "background_beginner": "The Strait of Hormuz is a slim stretch of water between Iran and Oman that connects the oil-rich Gulf to the rest of the world's oceans. A huge portion of global oil is shipped through it, so it's one of the planet's most important and vulnerable routes. The main players here are Iran, the United States and Israel, who the article says are at war after a US-Israeli attack on Iran in late February. Iran now says it controls the strait and wants every ship to follow its rules, warning that those who don't may be attacked or hit mines. This keeps coming up because whoever controls the strait can squeeze the world's oil supply.",
+    "impact_score": 78,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261013__D3722EZ__v1__HighRes__UaeIranUsIsraelWarHormuzShipping-1795270231.jpg?resize=1920%2C1440",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "Israeli forces carried out a roughly 24-hour ground raid beyond the Yellow Line into Hamas-controlled central Gaza, which Hamas calls a \"flagrant violation\" of the October 2025 ceasefire.",
+    "description": "Two oil tankers were reportedly hit by projectiles near Oman as Iran moves to control shipping through the vital Strait of Hormuz.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
+    "source_count": 1,
+    "confidence": 0.55,
     "related_story_ids": [
-     "237bc6f4-d4ca-5f5a-8bfd-7361ff8c03ed"
+     "161b8573-a58d-5e1b-baa9-8c6caba38306",
+     "315ff6a2-e859-54be-9370-470d95fabca2",
+     "4baeb561-9dde-5523-9cc1-d2b0ea035a8e",
+     "5308dde1-05e0-5095-8f85-5cb1b422b338",
+     "7827fbef-2c69-5fe5-a84c-09826397aff5",
+     "7baab65b-f998-52c8-ab46-6f78a33bf23d",
+     "cad29bbf-4722-5feb-87b8-780580640433",
+     "dfb86a2d-f459-5921-b7af-108cd7ffcf2b"
     ],
-    "reading_minutes": 4,
-    "created_at": "2026-11-20T07:25:52.739489+00:00",
-    "published_date": "2026-11-20",
+    "reading_minutes": 2,
+    "created_at": "2026-11-21T19:25:37.912182+00:00",
+    "published_date": "2026-11-22",
     "has_fulltext": true
    },
    {
@@ -879,68 +935,6 @@
     "reading_minutes": 1,
     "created_at": "2026-11-21T07:24:54.630629+00:00",
     "published_date": "2026-11-21",
-    "has_fulltext": true
-   },
-   {
-    "id": "0932a8b7-0985-5a1e-8822-55209f8e4a7a",
-    "title": "Senegal boat disaster: Dozens missing as migrant boat sinks",
-    "simplified_title": "Dozens missing after migrant boat sinks off Senegal's coast",
-    "quick_summary": "A boat carrying somewhere between 50 and 100 migrants capsized off Senegal, leaving four confirmed dead and dozens missing, just as Atlantic crossings to Spain's Canary Islands surge.",
-    "simplified_body": "A wooden boat packed with migrants capsized in the Atlantic Ocean near the village of Yenne, south of Dakar, in the early hours of Wednesday. Four bodies have been recovered and dozens of people are still missing. Accounts of how many were aboard differ: a survivor told police there were about 100 people, including five women, while a local official said 50. The official said the boat struck a rock as migrants were moving from small fishing boats onto a larger vessel. Rescuers found identity documents, mobile phones and even a school enrolment paper in the wreckage.\n\nThe tragedy hits West African families chasing a better life in Europe, and comes less than two weeks after a shipwreck off Thieppe killed at least 39 people. It affects whole communities because the dangerous route has become busier than ever. Spain's Interior Ministry says 24,364 migrants reached the Canary Islands between 1 January and 15 November, up nearly two-thirds on last year, with over 11,000 arriving in just the first 15 days of November.\n\nFor newcomers: as tighter controls made reaching Europe through North Africa harder, migrants increasingly aim for the Canary Islands, travelling in overloaded wooden boats called pirogues that are ill-suited to long ocean voyages. The International Organization for Migration (IOM) says most arrivals this year are Senegalese, driven by few jobs, family pressures and migration networks.\n\nPresident Bassirou Diomaye Faye voiced concern about rising irregular departures and asked the interior ministry for a report on causes and solutions. Campaigner Boubacar Seye warned tougher enforcement alone won't work and that \"root causes\" must be fixed.",
-    "why_it_matters": "The Atlantic crossing to the Canary Islands is now one of the world's deadliest migration routes, with hundreds dying this year alone, and the pressure shows no sign of easing despite daily rescues and crackdowns.",
-    "deep_analysis": "## Historical Context\n\nWest Africans have long attempted to reach Europe, but the pathways keep shifting. As controls tightened across North Africa and cooperation with European countries increased, the route out of Senegal and its neighbours swung towards Spain's Canary Islands. The crossing is long and exposed, and the boats used — wooden pirogues built for coastal fishing, not open-Atlantic voyages — are frequently overloaded. Both the IOM and the UN's refugee agency have tracked a grim toll this year, though their figures differ: the IOM reported at least 454 deaths and disappearances off the West African coast last month, while the UN refugee agency put the figure at nearly 600 for those trying to reach the Canaries. Both stress these are likely undercounts, since boats vanish without survivors.\n\n## Multiple Perspectives\n\nSenegal's government frames the problem partly as one of jobs and opportunity: President Faye has urged people not to risk the sea and called for better employment prospects for young people. Authorities also lean on enforcement — intercepting 6,889 people, preventing 107 departures and dismantling 88 smuggling networks between January and November, including a network in Yenne itself. Campaigners push back: Boubacar Seye of Horizons Sans Frontieres argues the current strategy \"is not working\" and that root causes must be addressed, not just borders. On the European side, the Canary Island of El Hierro declared a state of emergency on 7 November after arrivals reached almost a third of its population.\n\n## What to Watch\n\nKeep an eye on the interior ministry report Faye has ordered, and whether it shifts policy from enforcement towards economic measures. Arrival numbers into the Canaries — already far ahead of last year — will signal whether the surge continues through the northern winter. Watch too for the final death toll from the Yenne wreck, which authorities fear could climb.",
-    "concepts": [
-     {
-      "term": "pirogues",
-      "definition": "Wooden boats, originally built for coastal fishing, now often used for long and dangerous migrant crossings despite being overloaded and unsuited to the open ocean.",
-      "context": "Migrants travel to the Canary Islands in these vessels across the Atlantic."
-     },
-     {
-      "term": "irregular",
-      "definition": "Describing migration or departures that happen outside official legal channels, often by dangerous and unauthorised routes.",
-      "context": "President Faye voiced concern about rising irregular departures by sea."
-     },
-     {
-      "term": "International Organization for Migration (IOM)",
-      "definition": "The United Nations agency that tracks migration worldwide, including deaths and disappearances along migration routes.",
-      "context": "It reports most Canary Islands arrivals this year are Senegalese."
-     }
-    ],
-    "quiz": {
-     "question": "Why have migrants increasingly turned to the Atlantic route towards the Canary Islands?",
-     "options": [
-      "Because tighter controls and cooperation with Europe made the North Africa route harder",
-      "Because the Atlantic crossing is shorter and safer than other routes",
-      "Because pirogues are specially designed for ocean voyages",
-      "Because Spain actively encourages arrivals to the Canary Islands"
-     ],
-     "answer_index": 0,
-     "explanation": "As reaching Europe through North Africa became more difficult due to tighter controls and increased cooperation with European countries, migrants shifted to targeting Spain's Canary Islands."
-    },
-    "background_beginner": "For years, people from West Africa have tried to reach Europe by sea, fleeing conflict, hardship and limited job prospects. One of the busiest and deadliest routes runs from countries like Senegal across the Atlantic Ocean to Spain's Canary Islands, a group of islands off Africa's north-west coast. Migrants usually travel in overloaded wooden boats called pirogues, which often get into trouble on the long voyage. The topic keeps coming up because crossings have surged — far more people are arriving this year than last — and shipwrecks are frequent. Senegal's government, led by President Bassirou Diomaye Faye, is under pressure to stop the deaths, while campaigners say the real answer is tackling why people leave in the first place.",
-    "impact_score": 62,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9aab/live/c39b82a0-e419-11f1-b37c-b3a71d7200af.jpg",
-    "region": "Middle East & Africa",
-    "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "A boat carrying somewhere between 50 and 100 migrants capsized off Senegal, leaving four confirmed dead and dozens missing, just as Atlantic crossings to Spain's Canary Islands surge.",
-    "tier": "GLOBAL",
-    "category": "SOCIETY_CULTURE",
-    "sources": [
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo"
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-20T07:25:52.915240+00:00",
-    "published_date": "2026-11-20",
     "has_fulltext": true
    }
   ],
@@ -1073,70 +1067,65 @@
     "has_fulltext": true
    },
    {
-    "id": "5ff178e3-bec6-5569-b4bc-82cf962b8de5",
-    "title": "Armed forces in Haiti kill at least 34 gang members to regain control of key corridor",
-    "simplified_title": "Haiti Forces Retake Key Gang-Held Road Into Capital",
-    "quick_summary": "Haitian police and a private security task force killed at least 34 suspected gang members while retaking Martissant, a vital road corridor gangs had controlled for five years.",
-    "simplified_body": "On Thursday, Haiti's security forces launched a major operation to retake Martissant, a strategic stretch of road in the western tip of the capital, Port-au-Prince. The country's National Police said at least 34 suspected gang members were killed in the clashes, which involved officers working alongside a task force that includes staff from Vectus Global, a private security firm founded by former US Navy SEAL and Blackwater founder Erik Prince. It's the first big operation here in the five years since gangs seized the area.\n\nThis matters because Martissant sits on Route 2, the main road linking Port-au-Prince to important western and southern cities. Before gangs took over, thousands of people passed through daily. Since then, armed groups have charged tolls, randomly fired on vehicles, and blocked goods from moving in and out, strangling the economy and forcing aid workers and civilians onto rough back roads.\n\nThe fighting began in June 2021 when rival gangs attacked each other, burning homes, killing families and seizing the police station. A July 2022 United Nations (UN) report said at least 19,000 people fled their homes, with around 800,000 affected overall. Separately, a UN-backed Gang Suppression Force (GSF) is pushing into areas like Tabarre and the central Artibonite region.\n\nAlso in the mix are roughly 2,500 troops from El Salvador, sent by President Nayib Bukele after four Salvadorans went missing in an October 18 attack. All this unfolds as Haiti prepares for its first elections in over a decade; it has had no president since Jovenel Moïse was killed in July 2021.",
-    "why_it_matters": "Regaining Martissant could reopen trade and movement for a capital that's been choked for years, and the growing role of private security firms and foreign troops raises big questions about who gets to fight gangs — and at what cost to civilians.",
-    "deep_analysis": "## Historical Context\n\nHaiti has been gripped by escalating gang violence that intensified after the July 2021 assassination of President Jovenel Moïse, which left a power vacuum the country still hasn't filled. The fight for Martissant began in June 2021, when gangs from Grand-Ravine and Village-de-Dieu attacked the Ti-Bois gang, torching homes and seizing the local police station. A July 2022 UN report recorded at least 19,000 people displaced and some 800,000 affected. A 2023 UN report noted gangs demanded around $380 from people transiting through, while Haiti's Center for Analysis and Research in Human Rights said more than one million people were ultimately forced to flee as institutions relocated.\n\n## Multiple Perspectives\n\nHaiti's National Police frame the Martissant operation and the broader Gang Suppression Force push as restoring freedom of movement and re-establishing state presence. El Salvador's President Nayib Bukele, hugely popular for his own anti-gang crackdown, has won street support from thousands of Haitians after sending about 2,500 troops. But experts quoted in the reporting criticise the Salvadoran troops' unilateral operations and warn that explosive drones are claiming a growing number of innocent victims. Amnesty has urged El Salvador to disclose the terms of its deployment. The involvement of Vectus Global, founded by Blackwater's Erik Prince, also revives long-standing debate about private military contractors.\n\n## What to Watch\n\nKey questions: whether forces can hold Martissant and reopen Route 2 rather than simply displacing gangs who later return; the civilian toll from drone strikes; and how the overlapping actors — Haitian police, the UN-backed force, Salvadoran troops and private firms — coordinate. El Salvador's legislature authorised a smaller group's participation until October 2027. Looming over it all is Haiti's attempt to hold its first elections in more than a decade.",
+    "id": "885cb094-7bd8-5899-81e0-daca24bea68b",
+    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "simplified_title": "FBI most-wanted drug lord 'El Chapo Isidro' captured in Mexico raid",
+    "quick_summary": "Mexican special forces arrested drug lord Fausto Isidro \"El Chapo Isidro\" Meza Flores, one of the FBI's 10 most wanted, after a violent raid in Sinaloa.",
+    "simplified_body": "Mexican special forces captured Fausto Isidro Meza Flores, known as \"El Chapo Isidro\", during a raid in Guasave, in the state of Sinaloa, on Friday night. The 44-year-old was one of the Federal Bureau of Investigation's (FBI) 10 most wanted fugitives. Acting on US intelligence about his whereabouts, troops surrounded his location but came under attack from gunfire and explosives before storming the property and making the arrests. He and his second-in-command were flown to Mexico City to face prosecution. Reports differ on the headcount: the BBC says one lieutenant was taken with him, while the Guardian says two other alleged gang leaders were arrested.\n\nMeza Flores leads a major drug-trafficking organisation that the FBI accuses of flooding the United States (US) with fentanyl, cocaine, heroin and other drugs. The US had offered a reward of up to $5m for him and is seeking his extradition — the formal handover of a suspect to face charges in another country. Videos showed helicopters firing at the ground and families fleeing a baseball game as shooting broke out nearby.\n\nActive in trafficking since the 1990s, he kept a low profile and dodged arrest for more than a decade despite being indicted in the US in 2012. He was once a senior figure in the Beltrán Leyva Organization; a split between rival factions pushed him to form his own cartel. His group has fought a bloody turf war with the powerful Sinaloa Cartel. He was added to the FBI list in 2025 after his cartel was reportedly linked to 20 million fentanyl pills seized in 2024.\n\nMexico has toughened its stance on cartels under President Claudia Sheinbaum, partly in response to pressure from US President Donald Trump, while resisting having US forces operate on Mexican soil. An extradition fight with the US may follow.",
+    "why_it_matters": "Fentanyl and major cartels fuel a global drug trade that reaches Australia too, and this arrest shows how US–Mexico cooperation — and friction over sovereignty — is reshaping the crackdown.",
+    "deep_analysis": "## Historical Context\n\nMexico's drug war has been defined for decades by the rise, splintering and bloody rivalries of large cartels. Meza Flores came up through the Beltrán Leyva Organization, and when that group fractured he carved out his own operation by around 2013. His outfit then clashed violently with the Sinaloa Cartel, long one of the most powerful trafficking networks in the region. The US has pursued him for years: indicted in 2012, sanctioned under the Kingpin Act in 2013, and targeted with a reward of up to $5m from 2017. His addition to the FBI's 10 most wanted list in 2025 — tied to a reported seizure of 20 million fentanyl pills in 2024 — marked a sharp escalation.\n\n## Multiple Perspectives\n\nMexican officials frame the raid as proof of a tougher, sovereign-led crackdown under President Claudia Sheinbaum, who welcomes US intelligence but resists \"boots on the ground\". US authorities see it as a win in Trump's pledge to stem drugs across the southern border. The two source articles also differ on detail: the BBC reports one lieutenant arrested alongside him, while the Guardian says two other alleged leaders were detained, and the accounts describe his link to the Beltrán Leyva group slightly differently — the BBC as a past affiliation, the Guardian citing Mexico's defence ministry calling him its current leader. For civilians in Guasave, the raid meant panic, gunfire near a baseball stadium and burnt-out cars.\n\n## What to Watch\n\nThe big question is extradition: the US wants him handed over, and whether and when that happens will test US–Mexico cooperation. Watch for possible retaliatory violence or power struggles as his organisation's leadership is disrupted, and for how Sheinbaum balances collaboration against domestic pressure to keep US forces off Mexican soil.",
     "concepts": [
      {
-      "term": "Martissant",
-      "definition": "A strategic neighbourhood and road corridor in the western tip of Port-au-Prince that gangs controlled for five years, blocking movement between the capital and Haiti's west and south.",
-      "context": "Retaking it is seen as key to reopening trade and travel for the capital."
+      "term": "fentanyl",
+      "definition": "A powerful synthetic opioid drug, far stronger than heroin, blamed for many overdose deaths in the US.",
+      "context": "His cartel was linked to 20 million fentanyl pills seized in 2024."
      },
      {
-      "term": "Vectus Global",
-      "definition": "A private security firm founded by former US Navy SEAL and Blackwater founder Erik Prince, whose personnel joined the Haitian police task force.",
-      "context": "Its involvement signals the growing use of private contractors in Haiti's anti-gang fight."
+      "term": "extradition",
+      "definition": "The formal process of handing a suspect over to another country to face criminal charges there.",
+      "context": "The US is seeking his extradition to prosecute him."
      },
      {
-      "term": "Gang Suppression Force",
-      "definition": "A UN-backed force working to dismantle gang strongholds and reclaim territory across areas like Tabarre and the Artibonite region.",
-      "context": "It represents the international effort running alongside Haiti's own police operations."
-     },
-     {
-      "term": "Nayib Bukele",
-      "definition": "El Salvador's president, known for a hardline anti-gang crackdown at home, who sent about 2,500 troops to Haiti.",
-      "context": "His troops' operations have drawn both popular support and expert criticism over civilian deaths."
+      "term": "cartel",
+      "definition": "A large, organised criminal group that controls drug production and trafficking, often across borders.",
+      "context": "He broke away to form his own cartel after a factional split."
      }
     ],
     "quiz": {
-     "question": "Why is control of Martissant so important to Haiti?",
+     "question": "Why was capturing Meza Flores seen as significant for US–Mexico relations?",
      "options": [
-      "It is where Haiti's elections are held",
-      "It contains the country's main airport",
-      "It is the headquarters of the United Nations in Haiti",
-      "It sits on Route 2, the main road linking Port-au-Prince to western and southern cities"
+      "Mexico refused all US involvement in the operation",
+      "The US took over the raid entirely from Mexican forces",
+      "It showed cooperation using US intelligence while Mexico resists US forces on its soil",
+      "He was the first cartel leader ever arrested in Mexico"
      ],
-     "answer_index": 3,
-     "explanation": "Martissant lies along Route 2, the key road connecting the capital to western and southern cities, so gang control there choked trade and movement for years."
+     "answer_index": 2,
+     "explanation": "The raid relied on US intelligence, but Mexico insisted on doing the capture itself, reflecting Sheinbaum's push to cooperate without allowing US boots on the ground."
     },
-    "background_beginner": "Haiti, a Caribbean nation, has struggled with powerful armed gangs that control large parts of its capital, Port-au-Prince. The situation worsened after President Jovenel Moïse was assassinated in July 2021, leaving the country with no clear leader and weak policing. Gangs seized roads, charged tolls, and forced huge numbers of people from their homes. In response, Haiti's police, a UN-backed international force, troops from El Salvador, and even private security firms have been fighting to take territory back. Martissant, a vital road corridor into the capital, is a flashpoint. The story keeps resurfacing because each operation raises hopes of stability — but also fears about civilian casualties and who should be doing the fighting.",
-    "impact_score": 68,
-    "image_url": "https://s.france24.com/media/display/181d54d6-e1f7-11f1-a490-f71d22e7fea9/w:1280/p:16x9/2026-11-12T233346Z-695546907-RC24MOACBCCE-RTRMADP-3-HAITI-VIOLENCE-EL-SALVADOR.jpg",
+    "background_beginner": "Mexico has long struggled with powerful drug cartels — organised crime groups that make billions smuggling drugs like cocaine, heroin and fentanyl, much of it into the United States. Fausto Isidro Meza Flores, nicknamed \"El Chapo Isidro\", ran one such group and spent years dodging capture despite big US rewards and charges against him. The US and Mexico have worked together on and off to catch cartel bosses, but it's a sensitive partnership: Mexico guards its independence and dislikes foreign troops operating there. Pressure ramped up after President Donald Trump returned to office promising to stop drugs crossing the border, pushing Mexico's President Claudia Sheinbaum to crack down harder.",
+    "impact_score": 58,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
     "region": "North & South America",
     "region_code": "AMERICAS",
-    "description": "Haitian police and a private security task force killed at least 34 suspected gang members while retaking Martissant, a vital road corridor gangs had controlled for five years.",
+    "description": "Mexican special forces arrested drug lord Fausto Isidro \"El Chapo Isidro\" Meza Flores, one of the FBI's 10 most wanted, after a violent raid in Sinaloa.",
     "tier": "GLOBAL",
     "category": "CRIME_SAFETY",
     "sources": [
      {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o"
      },
      {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
     "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-20T07:25:51.727061+00:00",
-    "published_date": "2026-11-20",
+    "reading_minutes": 2,
+    "created_at": "2026-11-21T19:25:43.982624+00:00",
+    "published_date": "2026-11-22",
     "has_fulltext": true
    }
   ],
@@ -1283,82 +1272,143 @@
     "has_fulltext": true
    },
    {
-    "id": "5d88a622-23bd-5c9c-b5ff-b22316377950",
-    "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-    "simplified_title": "Trump, Xi and Putin sign 'peace declaration' that skips Ukraine",
-    "quick_summary": "The leaders of the US, China and Russia held their first-ever three-way summit and issued a symbolic \"peace declaration\" that said nothing about the wars in Ukraine or Iran.",
-    "simplified_body": "On Thursday, US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin met for roughly 90 minutes in Shenzhen, China, on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit. It was the first time the three had sat down together, and they released a joint \"peace declaration\". It reaffirmed that \"a nuclear war cannot be won and must never be fought\", and backed reforming the United Nations (UN), boosting oil and fuel supplies, and protecting officials' immunity in international courts.\n\nNotably, the declaration did not mention Russia's war in Ukraine or the US conflict with Iran — two conflicts involving the participants. It also announced no plans for the trilateral nuclear arms-reduction talks Trump has long chased; China has consistently refused, arguing its arsenal is far smaller than the US and Russian ones. Analysts said the summit's real weight was symbolic: Putin, under an International Criminal Court (ICC) arrest warrant over alleged war crimes, escaped his \"pariah status\", while US allies like Japan, South Korea, Australia and Europe fretted about Washington's cosying up to adversaries.\n\nBackground: Russia invaded Ukraine in 2022, and China has stayed officially neutral while calling for negotiations. Trump has lately scaled back support for Ukraine and pushed NATO partners to pay more. He greeted Putin as \"my friend\" and called Xi \"amazing\", drawing sharp criticism from US lawmakers of both parties.\n\nWhat's next? The three pledged to keep talking at \"working level\", and Trump planned a Friday news conference. Tensions could resurface weeks later when Trump hosts the Group of 20 (G20) summit in Florida, where he may meet Xi and possibly Putin again.",
-    "why_it_matters": "A friendlier US relationship with Beijing and Moscow rattles traditional American allies, and Australia — named by one analyst among the partners now questioning Washington's reliability — sits squarely among those recalibrating their security assumptions.",
-    "deep_analysis": "## Historical Context\n\nRussia launched its full-scale invasion of Ukraine in 2022, after which many Western leaders tried to isolate Putin, and the ICC later issued an arrest warrant for him over alleged war crimes. China officially stayed neutral, calling for negotiations while declining to condemn Moscow. Several leaders drew comparisons to the 1945 Yalta Conference, where the US, Britain and the Soviet Union met near the end of World War Two — shorthand for great powers carving up the world. Putin rejected the parallel, arguing Yalta merely \"codified the existing reality\" rather than dividing anything up.\n\n## Multiple Perspectives\n\nPutin called the meeting \"an important chapter in the history of diplomacy\" and pushed back at claims it was a mere photo-op. Trump rated it \"a 12\" out of ten and said it was \"bigger than Yalta\". Critics were blunt: US Senate Democratic leader Charles Schumer called it \"a historic embarrassment\", and Senator Jeanne Shaheen branded Putin \"a murderous war criminal\". Even Republican Senator John Curtis, while welcoming the nuclear language, warned Putin and Xi \"are not our friends\". Analysts broadly agreed Putin was the big winner, gaining credibility for little cost, while Trump \"gained a photo opportunity he didn't need\". European leaders in Berlin insisted there can be \"no peace without us\".\n\n## What to Watch\n\nWhether the three actually follow through on promised dialogue over nuclear risk reduction and non-proliferation, rather than just rhetoric. Whether the US lifts any Russia sanctions, as hinted by the oil-supply pledge. And the G20 summit Trump is hosting in Florida in coming weeks, where another Xi meeting — and possibly Putin's controversial attendance — could reignite friction with US allies.",
+    "id": "2aecf307-1c3d-531a-9e19-4b11b30fbe9d",
+    "title": "EU, Indonesia officially sign 'ambitious' trade deal",
+    "simplified_title": "EU and Indonesia sign major trade deal to drop tariffs",
+    "quick_summary": "The European Union and Indonesia have officially signed an ambitious free trade deal that scraps most tariffs and opens up investment in sectors like electric vehicles and pharmaceuticals.",
+    "simplified_body": "On Saturday 21 November in Brussels, the European Union (EU) and Indonesia officially signed a free trade deal that both sides are calling a \"new chapter\" in their economic relationship. European Commission President Ursula von der Leyen called it \"one of the most ambitious deals the European Union has concluded in Asia,\" noting that together the two sides represent a market of 730 million people. Indonesian Minister of Economic Affairs Airlangga Hartarto attended the signing.\n\nThe pact removes tariffs — taxes on imported goods — on more than 98 per cent of European exports to Indonesia, saving EU companies over 600 million euros a year in customs duties. Around 90 per cent of Indonesian exports to the EU will become tariff-free, helping its top shipments including palm oil, footwear and textiles. It also opens investment in strategic sectors such as electric vehicles, electronics and pharmaceuticals.\n\nNegotiations ran for almost a decade before wrapping up last year. The deal, formally the Indonesia-European Union Comprehensive Economic Partnership Agreement (CEPA) plus a separate Investment Protection Agreement (IPA), is part of a wider EU push to diversify its trade as relations with the United States and China grow trickier. Von der Leyen framed it pointedly: \"in a time when others are closing their doors, we keep ours open.\" Palm oil and deforestation had been major sticking points, so the deal includes a dedicated palm oil protocol and cooperation on sustainability.\n\nBefore it can take effect, the European Parliament must approve the pact and Indonesian authorities must finish ratifying it. Both articles expect it to come into force in 2027. Brussels projects the EU's economy will be 16 billion euros bigger and Indonesia's 27 billion euros bigger by 2042 than without the deal.",
+    "why_it_matters": "As the US and China make global trade more unpredictable, big economies are hedging their bets by locking in new partners — a dynamic Australia, also a trade-dependent economy wedged between those giants, watches closely as it manages its own deals with Europe and Asia.",
+    "deep_analysis": "## Historical Context\n\nTrade negotiations between the EU and Indonesia stretched back almost a decade before concluding last year, with the formal signing happening this November. For much of that time, palm oil was the elephant in the room: Indonesia is one of the world's largest palm oil producers, while the EU has pushed hard on deforestation rules, and the two sides repeatedly clashed over environmental standards. The final deal papers over this with a dedicated palm oil protocol and shared mechanisms on sustainability. The agreement sits within a broader EU strategy to spread its trade relationships wider rather than lean heavily on any single partner.\n\n## Multiple Perspectives\n\nFrom Brussels' side, von der Leyen cast the deal as both an economic win and a political statement — \"keeping the doors open when others are closing theirs\" — a clear nod to friction with Washington and Beijing. From Jakarta's side, Airlangga Hartarto emphasised \"concrete and measurable\" benefits for exporters, pointing to palm oil, footwear and textiles getting tariff-free access to a huge market. Environmental groups have historically been wary of expanding palm oil trade given deforestation concerns, which is precisely why the sustainability provisions were built in. The projected gains are uneven on paper: Indonesia's economy is forecast to benefit more in euro terms (27 billion) than the EU's (16 billion) by 2042.\n\n## What to Watch\n\nThe deal isn't done yet — the European Parliament still has to approve it and Indonesia must complete ratification, with provisional entry into force expected in 2027. Watch whether the palm oil protocol actually satisfies environmental critics in practice, and whether Indonesian President Prabowo Subianto's planned visit to Brussels on 11 December adds further momentum. More broadly, this is a test case for the EU's wider trade-diversification drive at a time of global economic uncertainty.",
     "concepts": [
      {
-      "term": "Asia-Pacific Economic Cooperation (APEC)",
-      "definition": "A forum of Pacific Rim economies that meets to discuss trade and regional cooperation; this year's summit was hosted by China and was where the three-way talks took place.",
-      "context": "The trilateral meeting happened on the sidelines of the APEC summit in Shenzhen."
+      "term": "tariffs",
+      "definition": "Taxes a government charges on goods coming in from another country, which make imports more expensive; removing them makes cross-border trade cheaper.",
+      "context": "The deal removes tariffs on more than 98 per cent of European exports to Indonesia."
      },
      {
-      "term": "International Criminal Court (ICC)",
-      "definition": "A permanent court in The Hague that investigates and prosecutes individuals for war crimes, genocide and crimes against humanity.",
-      "context": "The ICC issued an arrest warrant for Putin over alleged war crimes in Ukraine; the declaration said such courts 'must not abuse their jurisdiction'."
+      "term": "palm oil",
+      "definition": "A widely used vegetable oil produced in large quantities in Indonesia; its cultivation is linked to deforestation, making it an environmental flashpoint in trade talks.",
+      "context": "Palm oil and deforestation had been major sticking points in the negotiations."
      },
      {
-      "term": "pariah status",
-      "definition": "Being treated as an outcast and shunned by other countries, as Putin was by many Western nations after the 2022 invasion.",
-      "context": "Analysts said Putin used the summit to escape his pariah status."
+      "term": "ratifying",
+      "definition": "The formal process by which a country's authorities officially approve and adopt a signed agreement so it can legally take effect.",
+      "context": "Indonesian authorities must finish ratifying the deal before it can come into force."
      },
      {
-      "term": "Group of 20 (G20)",
-      "definition": "An international forum of the world's major economies that meets to coordinate on global economic issues.",
-      "context": "Trump is due to host the G20 summit in Florida weeks later, where he may meet Xi and possibly Putin again."
+      "term": "Comprehensive Economic Partnership Agreement (CEPA)",
+      "definition": "The formal name for this broad trade pact covering goods, services and investment between the EU and Indonesia.",
+      "context": "The deal is formally the Indonesia-European Union Comprehensive Economic Partnership Agreement (CEPA)."
      }
     ],
     "quiz": {
-     "question": "Why did analysts describe the Shenzhen summit as mainly symbolic rather than substantive?",
+     "question": "Why does the EU say it pursued this trade deal with Indonesia at this time?",
      "options": [
-      "Because the three leaders refused to appear in public together",
-      "Because it produced a binding treaty to destroy all nuclear weapons",
-      "Because China forced Russia to withdraw from Ukraine as a condition",
-      "Because it issued a declaration but announced no concrete arms-control plans and ignored the Ukraine and Iran wars"
+      "To replace all of its trade with China and the United States immediately",
+      "To punish Southeast Asian nations over palm oil production",
+      "Because Indonesia demanded the EU drop its deforestation rules entirely",
+      "To diversify its trade relationships as dealings with the US and China grow more difficult"
      ],
      "answer_index": 3,
-     "explanation": "The declaration reaffirmed broad principles like 'nuclear war cannot be won' but set no arms-reduction plans and never mentioned the Ukraine or Iran conflicts, so analysts saw its value as largely symbolic — chiefly boosting Putin's standing."
+     "explanation": "Both articles frame the deal as part of a wider EU push to diversify trade and reduce reliance on single partners, as relations with both China and the US have become harder — captured in von der Leyen's line about keeping doors open while others close theirs."
     },
-    "background_beginner": "The world's three biggest nuclear powers — the United States (led by Donald Trump), China (Xi Jinping) and Russia (Vladimir Putin) — have long had tense, competing relationships. Russia has been waging war in Ukraine since 2022, which left Putin largely shunned by Western nations. Trump, meanwhile, has taken a friendlier approach to both Putin and Xi than past US presidents, worrying America's traditional allies. This story matters because, for the first time, these three leaders met together and signed a \"peace declaration\" — but it skipped the actual wars and set no firm commitments, so people are debating whether anything real was achieved.",
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/e2f1205a76b4fd03258224d9749d28dfe96e3d67/0_0_6284_4189/master/6284.jpg?width=1920&quality=85&auto=format&fit=max&s=2991e856eb4f150c67fabfe9cb124f6a",
+    "background_beginner": "The European Union (EU) is a bloc of 27 European countries that negotiates trade as one group, and Indonesia is Southeast Asia's largest economy and the world's fourth most populous country. For nearly ten years the two sides have been haggling over a free trade deal — an agreement to cut the taxes and barriers that make it costly to buy and sell goods across borders. The talks kept snagging on palm oil, a major Indonesian export that Europe links to deforestation. The topic keeps coming up because the EU is trying to build new trade friendships as its relationships with the United States and China become more strained, and both sides see big economic gains on offer.",
+    "impact_score": 62,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--3j-I3d_s--/c_crop,h_449,w_799,x_1,y_12/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-20T164050Z_2_LYNXNPEMAJ18F_RTROPTP_3_EU-ENLARGEMENT.JPG?itok=RYBLz8AY",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "The leaders of the US, China and Russia held their first-ever three-way summit and issued a symbolic \"peace declaration\" that said nothing about the wars in Ukraine or Iran.",
+    "description": "The European Union and Indonesia have officially signed an ambitious free trade deal that scraps most tariffs and opens up investment in sectors like electric vehicles and pharmaceuticals.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/world/eu-indonesia-trade-deal-sign-ambitious-6571696"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-21T19:26:05.934243+00:00",
+    "published_date": "2026-11-22",
+    "has_fulltext": true
+   }
+  ],
+  "ADF": [
+   {
+    "id": "2fe58836-078b-585d-bbb6-f68414ade22e",
+    "title": "International UN talks on controlling use of autonomous weapons collapse",
+    "simplified_title": "UN talks on 'killer robot' weapons collapse without binding ban",
+    "quick_summary": "UN negotiations in Geneva failed to agree a legally binding treaty on autonomous weapons, settling instead for a weaker pledge to keep talking.",
+    "simplified_body": "Week-long UN talks in Geneva aimed at creating a legally binding treaty on lethal autonomous weapons systems (LAWS) — often called \"killer robots\" — collapsed in the early hours of Saturday. Despite an overwhelming majority of countries wanting a binding law, the forum works by consensus, so a single objection can block everything. Delegates ended up adopting a much weaker mandate to \"elaborate\" new rules over the next two years (by 2028), with campaigners warning this may carry no legal force at all.\n\nThis affects civilians worldwide, since these are weapons that can kill without a human making the final decision to fire. Nearly 100 nations pushed for a binding treaty, and UN Secretary-General António Guterres, Pope Leo XIV and the Red Cross backed a ban. But major arms-producing powers invested in artificial intelligence (AI) warfare — including the United States, Russia and Israel — resisted being legally bound, with some arguing existing international humanitarian law is enough.\n\nFor background: the talks happen under the UN's Convention on Certain Conventional Weapons (CCW), where all 128 member states must agree unanimously. That high bar means the CCW hasn't passed new weapons laws in 30 years, pushing countries to strike deals elsewhere — as happened with the 2008 ban on cluster munitions. Diplomats accused Russia of deliberately filibustering, while the US pushed a slower five-year timeline.\n\nWhat next? A bloc of seven countries — Austria, Belgium, Brazil, Ireland, Mexico, New Zealand and Panama — wanted a treaty within a year and may look for another forum. Human Rights Watch says a treaty could be negotiated in 15 months.",
+    "why_it_matters": "Weapons that pick and kill targets without human sign-off are already being used in conflicts, yet the world's main forum for regulating them just stalled for a 14th year. New Zealand, a close neighbour, was among the seven countries leading the push for a binding ban.",
+    "deep_analysis": "## Historical Context\n\nThe Convention on Certain Conventional Weapons has been discussing autonomous weapons for around 13 to 14 years without producing binding rules. Its consensus model — requiring all 128 parties to agree — has meant no new weapons law in three decades. History shows a workaround: when the CCW stalled on cluster munitions, states negotiated a separate treaty outside it, producing the 2008 ban. That precedent now hangs over these talks, with frustrated states hinting they could again take the issue elsewhere.\n\n## Multiple Perspectives\n\nThe two sources broadly agree on the outcome but frame the numbers slightly differently: the Guardian cites \"more than 100 states\" and \"over 95\", while DW says \"nearly 100\" nations backed a binding deal. Both agree a legally binding ban failed.\n\nSupporters of a treaty — a bloc including Austria, Belgium, Brazil, Ireland, Mexico, New Zealand and Panama, plus groups like Stop Killer Robots and Human Rights Watch — argue the weapons are already on battlefields and rules are overdue. Opponents, chiefly arms-producing powers like Russia, the US and Israel, resisted binding commitments; some said existing humanitarian law suffices. Diplomats drew a distinction: Russia was accused of bad-faith filibustering, whereas US delegates were described as seeking a consensus path, albeit on a slower five-year timeline.\n\n## What to Watch\n\nWatch whether the seven-nation bloc abandons the CCW and launches a separate treaty process, as happened with cluster munitions. Watch the 2028 timeline and whether the \"elaboration\" produces anything legally binding. And watch real-world deployment — reports cite AI-enabled targeting in Gaza, Iran and Ukraine — which keeps pressure on diplomats to act faster than the current pace allows.",
+    "concepts": [
+     {
+      "term": "lethal autonomous weapons systems (LAWS)",
+      "definition": "Weapons that can select and attack targets without a human making the final decision to fire.",
+      "context": "These are the core subject of the Geneva talks, popularly nicknamed 'killer robots'."
+     },
+     {
+      "term": "consensus",
+      "definition": "A decision-making rule where every participant must agree, so any single member can block an outcome.",
+      "context": "The CCW's consensus requirement let a small number of states weaken the mandate."
+     },
+     {
+      "term": "Convention on Certain Conventional Weapons (CCW)",
+      "definition": "A UN forum of 128 member states that negotiates restrictions on specific weapons.",
+      "context": "It hosted these talks but hasn't passed a new weapons law in 30 years."
+     },
+     {
+      "term": "cluster munitions",
+      "definition": "Weapons that scatter many small bomblets over an area, many of which can fail to explode and later harm civilians.",
+      "context": "Their 2008 ban was negotiated outside the CCW, offering a model for frustrated states."
+     }
+    ],
+    "quiz": {
+     "question": "Why did the Geneva talks fail to produce a legally binding treaty despite most countries wanting one?",
+     "options": [
+      "The UN Secretary-General vetoed the proposal",
+      "The CCW requires unanimous consensus, letting a few states block a binding outcome",
+      "Not enough countries attended for a vote to be valid",
+      "The weapons don't actually exist yet, so no treaty was needed"
+     ],
+     "answer_index": 1,
+     "explanation": "The CCW operates by consensus — all 128 parties must agree — so objections from a small number of states, led by Russia, forced a much weaker outcome even though an overwhelming majority wanted a binding treaty."
+    },
+    "background_beginner": "\"Killer robots\" is the nickname for lethal autonomous weapons — machines like armed drones that can choose and strike targets without a person pulling the trigger. For over a decade, countries have met at the United Nations in Geneva, under a body called the Convention on Certain Conventional Weapons, to try to agree rules on them. The sticking point: every member state must agree, so powerful arms-makers like the United States, Russia and Israel can block a ban they don't want. Campaigners, the Red Cross and the Pope argue the weapons are already being used in wars and need binding limits now. It keeps coming up because the technology keeps advancing while the talks keep stalling.",
+    "impact_score": 72,
+    "image_url": "https://i.guim.co.uk/img/media/f8361614bf7f637d18419def55f3d0be4ac94f90/792_0_4740_3792/master/4740.jpg?width=1920&quality=85&auto=format&fit=max&s=2ec9b2ceab2e62f8fe824915fb334d51",
+    "region": "Australian defence, ADF, AUKUS, regional security",
+    "region_code": "ADF",
+    "description": "UN negotiations in Geneva failed to agree a legally binding treaty on autonomous weapons, settling instead for a weaker pledge to keep talking.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
      },
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o"
-     },
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/world/china-russia-us-peace-declaration-nuclear-trilateral-talks-6565716"
+      "name": "DW",
+      "url": "https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-all-1573-rdf"
      }
     ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
     "related_story_ids": [
-     "561f520f-aa0d-52f7-9d4a-843d30c692d6",
-     "9a0951ea-8af9-5f3b-9274-5fa94fdd56e8",
-     "af0f12aa-c687-55d4-863b-c7363acd32a2"
+     "bd40819f-c7b5-55b4-9d1d-f606cf1d1858"
     ],
-    "reading_minutes": 4,
-    "created_at": "2026-11-20T07:25:52.975056+00:00",
-    "published_date": "2026-11-20",
+    "reading_minutes": 3,
+    "created_at": "2026-11-21T19:26:13.272520+00:00",
+    "published_date": "2026-11-22",
     "has_fulltext": true
-   }
-  ],
-  "ADF": [
+   },
    {
     "id": "880d49fa-8e56-54e9-b53b-76d7788efc66",
     "title": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for ‘many years’",
@@ -1484,69 +1534,6 @@
     "created_at": "2026-11-21T07:25:32.290630+00:00",
     "published_date": "2026-11-21",
     "has_fulltext": true
-   },
-   {
-    "id": "8cc39b40-7d43-58aa-8f65-6a9a80f1b4ae",
-    "title": "By prodding Taiwan, Russia takes its alignment with China to new heights | The Strategist",
-    "simplified_title": "Russian bombers buzz Taiwan, signalling tighter ties with China",
-    "quick_summary": "Two Russian bombers entered Taiwan's air defence zone for the first time since 2010, signalling Moscow's growing willingness to back China in the Pacific.",
-    "simplified_body": "On 17 November, two Russian bombers — likely Tu-95MS \"Bear\" nuclear-capable aircraft — made a provocative run through East Asia. They entered South Korea's air defence identification zone (ADIZ, a buffer where aircraft must report themselves), violated Japanese airspace, and entered Taiwan's ADIZ for the first time since 2010 and only the second time since the Soviet Union fell. The same bombers then landed at Da Nang in Vietnam, Russia's first public bomber visit there since 1993. The timing was pointed: it came just days before a three-way meeting between Donald Trump, Vladimir Putin and Xi Jinping in Shenzhen.\n\nThis matters for Australia and its partners because it suggests Russia is prepared to flex its military muscle in support of China's ambitions in the Indo-Pacific. In December 2025, Russian foreign minister Sergey Lavrov said Moscow would back China over Taiwan in \"protecting state unity and territorial integrity\".\n\nFor background: the Sino-Russian partnership has limits — the two haven't cooperated much in the Middle East or Venezuela — but this incident suggests it holds firm on big strategic issues close to home. Flying into Taiwan's ADIZ isn't needed to reach Southeast Asia, so the detour reads as a deliberate message.\n\nWhat might come next ranges from outright Russian military support in a Taiwan conflict — using its Pacific Fleet submarines to pressure Japan and US forces — to \"grey-zone activities\" below the threshold of war. These could include seizing commercial vessels (retaliation over Europe interdicting Russia's shadow fleet of sanctions-dodging tankers) or cutting undersea cables, as reportedly happened in the Baltic.",
-    "why_it_matters": "A more assertive Russia teaming up with China raises the risk and complexity of any future Taiwan conflict — a scenario that would directly threaten the stability of Australia's region and its key trade routes.",
-    "deep_analysis": "## Historical Context\n\nRussia's military presence in the Western Pacific has waxed and waned since the Cold War. The 17 November flight is striking precisely because of how rare such moves have been: it was only the second time Russian military aircraft are known to have entered Taiwan's ADIZ since the Soviet Union fell, the first being in 2010. Likewise, the landing at Da Nang was Russia's first public bomber visit to Vietnam since 1993. Against this backdrop, aggressive Russian aerial activity around Japan — including airspace breaches — has become increasingly common in recent years, so the latest outing reads as an escalation of an existing trend rather than a bolt from the blue.\n\n## Multiple Perspectives\n\nOne view stresses the limits of the Sino-Russian partnership: the two powers have not meaningfully cooperated in the Middle East or Venezuela, suggesting their alignment is more transactional than total. The competing reading, which this incident supports, is that the partnership stands firm on core strategic issues in the Indo-Pacific even if it frays elsewhere. The article frames the flight as a message from Putin to Trump ahead of the Shenzhen meeting: on the Pacific, Russia is ready to assist China. Lavrov's December 2025 pledge of support over Taiwan reinforces that reading.\n\n## What to Watch\n\nAt the maximalist end sits direct Russian military support for Beijing in a Taiwan contingency, with the Pacific Fleet's submarines creating dilemmas for Japan and US forces. More likely in the near term are grey-zone acts: in August 2026 Putin implied the Pacific Fleet could seize European commercial vessels in response to interdiction of Russia's shadow fleet, and cable-cutting of the kind reported in the Baltic could migrate to the Indo-Pacific. Watch whether combined Russia-China exercises grow more regular and complex.",
-    "concepts": [
-     {
-      "term": "air defence identification zone (ADIZ",
-      "definition": "A buffer of airspace, mostly over international waters, where a country asks approaching aircraft to identify and report themselves.",
-      "context": "Russia entered South Korea's, Japan's and Taiwan's ADIZs during the 17 November flight."
-     },
-     {
-      "term": "Tu-95MS",
-      "definition": "A Russian long-range, nuclear-capable strategic bomber, NATO codename 'Bear'.",
-      "context": "The two aircraft involved were likely Tu-95MS bombers."
-     },
-     {
-      "term": "grey-zone activities",
-      "definition": "Provocative or coercive acts deliberately kept below the threshold that would count as open war.",
-      "context": "Russia's options range from direct military support for China to grey-zone activities like seizing ships or cutting cables."
-     },
-     {
-      "term": "shadow fleet",
-      "definition": "A collection of ageing tankers used to move Russian oil while dodging international sanctions.",
-      "context": "Putin hinted Russia could seize European vessels in retaliation for Europe interdicting its shadow fleet."
-     }
-    ],
-    "quiz": {
-     "question": "Why does the article treat the 17 November bomber flight as significant rather than routine?",
-     "options": [
-      "Entering Taiwan's ADIZ was unnecessary for the route and had only happened once before since the USSR fell",
-      "The bombers carried out an actual attack on Taiwan",
-      "It was the first ever Russian flight near Asia",
-      "It was a joint flight with Chinese aircraft over Taiwan"
-     ],
-     "answer_index": 0,
-     "explanation": "The article notes flying into Taiwan's ADIZ wasn't needed to reach Southeast Asia and was only the second such entry since the Soviet collapse, marking it as a deliberate escalation."
-    },
-    "background_beginner": "Taiwan is a self-governing island that China claims as its own, and the possibility of a conflict there is one of the biggest flashpoints in global security. The United States and its allies — including Japan, South Korea and Australia — broadly support the existing order in the Indo-Pacific region. Russia and China have grown closer, especially since Russia's war in Ukraine, forming a partnership aimed at challenging US influence. This story keeps coming up because every time Russia flexes its military near Asia, analysts ask how far Moscow would go to help Beijing — and what that means for the risk of a wider war.",
-    "impact_score": 62,
-    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/1000w_q95-6.png",
-    "region": "Australian defence, ADF, AUKUS, regional security",
-    "region_code": "ADF",
-    "description": "Two Russian bombers entered Taiwan's air defence zone for the first time since 2010, signalling Moscow's growing willingness to back China in the Pacific.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "ASPI Strategist",
-      "url": "https://www.aspistrategist.org.au/by-prodding-taiwan-russia-takes-its-alignment-with-china-to-new-heights/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-20T07:26:23.277080+00:00",
-    "published_date": "2026-11-20",
-    "has_fulltext": true
    }
   ],
   "AI_TECH": [
@@ -1630,69 +1617,74 @@
     "has_fulltext": true
    },
    {
-    "id": "3c67d877-f7cc-5483-84b5-cb524d619aee",
-    "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
-    "simplified_title": "US Approved 900,000 AI Chip Sales to China, Committee Reveals",
-    "quick_summary": "A US House committee says the Trump administration signed off on nearly 900,000 advanced AI chips for Chinese companies over six months, many of them firms flagged as military-backed.",
-    "simplified_body": "The House Foreign Affairs Committee revealed that the Trump administration's Commerce Department approved shipments of 879,000 advanced artificial intelligence (AI) chips made by Nvidia and AMD for Chinese companies between December 2025 and May 2026. The chips included Nvidia's H200 and AMD's equivalent MI325X. Approvals went to firms such as Alibaba (75,000), Tencent (150,000), Baidu (43,000) and carmaker BYD (4,000) — all on the Pentagon's list of alleged Chinese military-backed companies. Companies had actually asked to ship over 3.4 million chips.\n\nThis matters because these chips can power both cutting-edge AI and, critics fear, China's military. A former US official said over 30 per cent of approved chips went to flagged military companies, questioning whether a serious national security review happened. Nvidia said approvals carried \"strict conditions and limited volumes\" and that it has since stopped shipping H200s to China. AMD said it complies with export laws.\n\nFor background: former President Joe Biden restricted China's access to these prized chips to protect the US lead in AI. Trump reversed that in December, letting Nvidia resume H200 sales — angering \"China hawks\" on both sides of politics. The disclosure lands amid scrutiny over former Nvidia CEO Jensen Huang's affair with an alleged Chinese spy, and reports of chips being smuggled to China unpunished.\n\nIt's unclear how many approvals became actual shipments; earlier reports suggested deliveries were few. Separately, the administration is weighing forcing US firms to disclose when they use Chinese AI models. Expect more congressional pressure and possible tightening ahead.",
-    "why_it_matters": "Who leads in AI and who controls the chips behind it shapes global power and security — a race Australia, as a close US ally reliant on the same technology supply chains, has a real stake in.",
-    "deep_analysis": "## Historical Context\n\nThe flow of advanced computing power to China has been a flashpoint for years. Under President Biden, Washington restricted Chinese access to top-tier AI chips, fearing they would supercharge China's military and erode America's technological lead. That policy sat on top of the Export Control Reform Act, 2018 legislation that broadened the Commerce Department's power to block exports of sensitive technology. When Trump reversed course in December and let Nvidia resume H200 sales to China, it marked a sharp break — and a lucrative one for chipmakers whose fortunes are tied to the vast Chinese market.\n\n## Multiple Perspectives\n\nChipmakers frame the sales as tightly controlled: Nvidia points to \"strict conditions and limited volumes\" and says it has since halted H200 shipments to China, while AMD stresses compliance with export laws. \"China hawks\" across the US political spectrum see it differently, arguing that selling to companies the Pentagon lists as military-backed undercuts national security. China, for its part, opposes what it calls the politicising of trade and tech. There's also genuine factual uncertainty: approvals don't equal deliveries, and reports suggest actual shipments have so far been modest — each major Chinese firm reportedly receiving around 10,000 H200s.\n\n## What to Watch\n\nWatch whether Commerce tightens or reverses approvals under congressional pressure, especially given the Huang spy revelations. A parallel front is software: the administration is mulling a \"name and shame\" rule forcing US firms like Airbnb to disclose use of Chinese AI models such as Alibaba's Qwen. Treasury has floated sanctions over \"distillation\" — training cheaper models off American ones. Market reaction (Nvidia down 3.3 per cent, AMD down 7.7 per cent on the day) shows investors are paying close attention too.",
+    "id": "129e5440-280f-5bd4-86fc-caf0a3215af9",
+    "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+    "simplified_title": "Anthropic mathematician says Claude helped prove the Riemann hypothesis",
+    "quick_summary": "A mathematician at AI company Anthropic says he used the Claude chatbot to crack the 167-year-old Riemann hypothesis, but no human has yet verified the enormous proof.",
+    "simplified_body": "Levent Alpöge, a mathematician at the artificial intelligence (AI) company Anthropic, posted a note on Friday saying that over about six weeks he worked with Claude, Anthropic's AI chatbot, to produce a proof of the Riemann hypothesis. He used a non-public version of Claude and released the argument in Lean, a programming language that checks mathematical reasoning step by step. The proof reportedly runs to about 17 million lines of code, or over 250,000 pages.\n\nThis matters to mathematicians because the Riemann hypothesis is widely regarded as the most important unsolved problem in pure maths. Hundreds of other results have been proved assuming it is true, and cryptographers who protect internet security have long relied on it. It is one of seven Clay Mathematics Institute Millennium Prize Problems, each carrying a US$1m award.\n\nFor background: the hypothesis was proposed by German mathematician Bernhard Riemann in 1859. It concerns prime numbers — whole numbers divisible only by one and themselves — and suggests their seemingly random spread actually follows a hidden order. Alpöge says his proof covers the generalised version, which extends the idea to a broader family of functions.\n\nWhat happens next is verification. Nobody has yet read the whole argument, and prominent mathematician Terence Tao said digesting it will take time. Imperial College London's Kevin Buzzard called the code \"gobbledygook\" for now but expects humans to understand it within weeks. The timing drew attention too — Alpöge posted a day after Anthropic listed on the Nasdaq stock market, which he admitted looked \"horrible\".",
+    "why_it_matters": "If confirmed, this would be one of the most significant mathematical proofs in history and a landmark moment for AI-assisted research — one mathematician even suggested Alpöge deserves a Fields Medal, the field's top prize awarded to under-40s.",
+    "deep_analysis": "## Historical Context\n\nThe Riemann hypothesis has stood unsolved since Bernhard Riemann proposed it in 1859. It sits at the heart of number theory, encoding patterns of the primes in an object called the Riemann zeta function. In 2000 the Clay Mathematics Institute named it one of seven Millennium Prize Problems, each worth US$1m. For over 160 years the direct methods have all been tried and fallen short; many mathematicians, including Queen Mary University of London's Abhishek Saha, assumed a proof was still years or decades away and would need entirely new theories.\n\n## Multiple Perspectives\n\nReactions range from awe to unease. Saha said the claimed proof \"shatters my model of reality\" if correct, and argued credit belongs to Alpöge the human, not the machine — \"others with similar access\" did not succeed. Buzzard framed AI as a new \"telescope\" that democratises maths rather than killing it, while acknowledging grief and bruised egos in the field. Others are more critical: a group letter from maths scholars called AI firms boasting of solutions \"detrimental to the science of mathematics\", and University of Warwick's James Robinson earlier derided \"immature playground boasting\" with environmental costs. The articles also note the awkward timing — the announcement came a day after Anthropic's Nasdaq debut.\n\n## What to Watch\n\nVerification is everything. No human has read the full ~17-million-line Lean proof, and Terence Tao says digestion is \"some way off\", though Buzzard expects clarity within weeks as people translate the code back into English. Key open questions: does it hold up, and does it contain genuinely new mathematics or just clever assembly of existing ideas? The articles note this follows contested AI claims — OpenAI's Navier-Stokes work and 372 further problems — all still awaiting review.",
     "concepts": [
      {
-      "term": "H200",
-      "definition": "A high-end Nvidia AI chip whose sale to China was blocked under Biden but allowed again under Trump from December 2025.",
-      "context": "The chips included Nvidia's H200 and AMD's equivalent MI325X."
+      "term": "Riemann hypothesis",
+      "definition": "A famous unsolved maths problem, proposed in 1859, about whether prime numbers follow a hidden, orderly pattern in how they are distributed.",
+      "context": "It is widely regarded as the single most important open question in pure mathematics."
      },
      {
-      "term": "Export Control Reform Act",
-      "definition": "2018 US legislation that expanded the Commerce Department's authority to restrict exports of sensitive technology for national security reasons.",
-      "context": "The disclosure was made using powers under the Export Control Reform Act."
+      "term": "prime numbers",
+      "definition": "Whole numbers greater than one that can only be divided evenly by one and themselves, such as 2, 3, 5 and 7.",
+      "context": "They are the bedrock of higher maths, so breakthroughs about them have broad impact."
      },
      {
-      "term": "China hawks",
-      "definition": "US politicians and officials who favour a tough, confrontational stance toward China on security and technology.",
-      "context": "Trump's reversal angered China hawks on both sides of politics."
+      "term": "Lean",
+      "definition": "A programming language and proof assistant that checks mathematical reasoning step by step to confirm it is valid.",
+      "context": "Alpöge released his argument in Lean rather than as a traditional written paper."
+     },
+     {
+      "term": "Millennium Prize Problems",
+      "definition": "Seven major unsolved maths problems chosen by the Clay Mathematics Institute, each carrying a US$1m award for a solution.",
+      "context": "The Riemann hypothesis is one of these seven problems."
      }
     ],
     "quiz": {
-     "question": "Why do critics object to the approved chip shipments in particular?",
+     "question": "Why is the Anthropic proof not yet accepted as solving the Riemann hypothesis?",
      "options": [
-      "The chips were defective and unsafe",
-      "More than 30 per cent went to firms the Pentagon lists as Chinese military-backed companies",
-      "China refused to pay for the chips",
-      "The chips were older models no longer in use"
+      "Because Claude admitted it made the whole thing up",
+      "Because Anthropic refused to release the code",
+      "Because the US$1m prize has already been awarded to someone else",
+      "Because no human has yet read and verified the enormous proof"
      ],
-     "answer_index": 1,
-     "explanation": "A former US official highlighted that over 30 per cent of the chips went to companies designated as Chinese military companies, questioning whether a proper national security review occurred."
+     "answer_index": 3,
+     "explanation": "The proof runs to roughly 17 million lines of Lean code and nobody has read the full argument yet; mathematicians like Terence Tao say verification will take time."
     },
-    "background_beginner": "Advanced AI chips — tiny but powerful processors — are the engines behind modern artificial intelligence, and the best are made by US firms Nvidia and AMD. The United States and China are locked in a race to lead in AI, and Washington worries that selling its top chips to China could boost China's military. So the US government decides which chips can be exported. President Biden clamped down; President Trump loosened the rules in December 2025, letting Nvidia sell again. This keeps making headlines because it pits big company profits against national security fears, and because China is also building its own cheaper AI tools that US firms are starting to use.",
+    "background_beginner": "The Riemann hypothesis is a maths puzzle from 1859, named after German mathematician Bernhard Riemann. It asks whether prime numbers — numbers like 2, 3, 5 and 7 that divide only by one and themselves — follow a hidden pattern. For over 160 years nobody has been able to prove it, and it is seen as the most important unsolved problem in maths, with a US$1m prize attached. Recently, AI companies like Anthropic and OpenAI have been racing to show their chatbots can crack tough maths problems. Here, an Anthropic mathematician says he used the Claude chatbot to build a proof. It keeps making headlines because confirming such claims takes experts a long time.",
     "impact_score": 72,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--mN1BZhyy--/c_crop,h_450,w_800,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-03T234957Z_1_LYNXNPEMA220B_RTROPTP_3_SCALEWAY-DATACENTER-SWEDEN.JPG?itok=tyuFb7_P",
+    "image_url": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/0_0_5613_3742/master/5613.jpg?width=1920&quality=85&auto=format&fit=max&s=44971718597d1d5355637f97d411d4c5",
     "region": "AI and technology",
     "region_code": "AI_TECH",
-    "description": "A US House committee says the Trump administration signed off on nearly 900,000 advanced AI chips for Chinese companies over six months, many of them firms flagged as military-backed.",
+    "description": "A mathematician at AI company Anthropic says he used the Claude chatbot to crack the 167-year-old Riemann hypothesis, but no human has yet verified the enormous proof.",
     "tier": "GLOBAL",
     "category": "SCIENCE_TECH",
     "sources": [
      {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-signed-sales-ai-chips-china-6567216"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o"
      },
      {
       "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss"
-     },
-     {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-weighs-forcing-us-firms-disclose-chinese-ai-use-6562396"
+      "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
     "related_story_ids": [],
     "reading_minutes": 2,
-    "created_at": "2026-11-20T01:24:49.826746+00:00",
-    "published_date": "2026-11-20",
+    "created_at": "2026-11-21T19:26:10.203819+00:00",
+    "published_date": "2026-11-22",
     "has_fulltext": true
    },
    {
