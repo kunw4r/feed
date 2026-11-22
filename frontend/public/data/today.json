@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "generated_at": "2026-11-21T19:23:04.250998+00:00",
+ "generated_at": "2026-11-22T01:23:03.797006+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -589,6 +589,68 @@
     "created_at": "2026-11-21T07:25:25.136559+00:00",
     "published_date": "2026-11-21",
     "has_fulltext": true
+   },
+   {
+    "id": "929c02e1-b63d-53f6-85e9-7caa2fb886cb",
+    "title": "11 dead, over 180 hospitalised after drinking illicit alcohol in India",
+    "simplified_title": "Toxic Bootleg Liquor Kills at Least 11 in India's Manipur",
+    "quick_summary": "More than a dozen people have died and over 200 have been hospitalised in India's northeastern state of Manipur after drinking suspected tainted alcohol.",
+    "simplified_body": "At least 11 people have died, with later reports putting the toll at 14, and over 200 have been hospitalised in India's northeastern state of Manipur after drinking suspected adulterated liquor. The victims drank the alcohol in the Chakpikarong area of Chandel district, about 75 kilometres from the state capital, Imphal, with deaths reported between November 18 and 20.\n\nThis mostly affects poorer drinkers who buy cheap, unregulated liquor, sometimes sold for less than a dollar a bottle. The danger is methanol, a highly toxic industrial chemical that bootleggers sometimes add or that forms during crude brewing. If swallowed, it can cause blindness, liver damage and death. At least 12 people reportedly remain in critical condition.\n\nDeaths from illicit or adulterated alcohol are regularly reported in India. In May, at least 15 people died in Maharashtra, and in August, 13 died in Gujarat's Bhavnagar district, both from methanol-laced liquor. Here, police say the drink came from Sugnu in neighbouring Kakching district, as there's no known local brewing in Chandel.\n\nChief Minister Yumnam Khemchand Singh visited patients, ordered an inquiry and said those responsible would be arrested and punished. A case has been filed and two people have been arrested. The local administration has urged residents to avoid liquor from questionable sources and asked anyone who drank from the same batch to get a medical check-up, even without symptoms.",
+    "why_it_matters": "Mass poisonings from bootleg alcohol remain a recurring public-health tragedy in India, hitting the poorest hardest and exposing the dangers of an unregulated black market that formal liquor rules push people toward.",
+    "deep_analysis": "## Historical Context\n\nDeaths from illicit or \"spurious\" liquor are a long-running problem in India. The two sources point to a clear pattern of repeat incidents this year alone: at least 15 deaths in Pune and Pimpri-Chinchwad in Maharashtra in May, and 13 deaths in Gujarat's Bhavnagar district in August, both blamed on methanol. The common thread is methanol, an industrial chemical that is cheap and, at a glance, indistinguishable from the drinkable alcohol (ethanol) in proper spirits. Bootleggers sometimes use it to boost potency or cut costs, with deadly results.\n\n## Multiple Perspectives\n\nThe two sources give different figures, which is normal for a fast-moving story. CNA, reporting on November 20, cited 11 deaths and more than 180 hospitalised. DW, reporting over the following weekend, put the toll at least 14 with more than 200 hospitalised and 12 in critical condition — a later, higher count as the situation developed. Both agree on the core facts: the location (Manipur's Chandel district), the Chief Minister's response, and an ordered inquiry. Police frame it as a supply issue, tracing the liquor to a neighbouring district rather than local brewing. The local administration's angle is prevention — urging check-ups even for those without symptoms, since methanol poisoning can be delayed and severe.\n\n## What to Watch\n\nWatch whether the death toll climbs further as hospitalised patients, particularly those in critical condition, are treated — methanol poisoning can worsen over days. Also watch the inquiry: who gets charged beyond the two already arrested, and whether the supply chain from Sugnu is shut down. More broadly, these recurring tragedies tend to reignite debate over alcohol regulation and the black market that cheap, illicit liquor thrives in.",
+    "concepts": [
+     {
+      "term": "methanol",
+      "definition": "A highly toxic industrial chemical that looks and smells like drinkable alcohol but can cause blindness, organ damage and death when swallowed.",
+      "context": "Bootleg liquor sometimes contains methanol instead of, or alongside, safe drinking alcohol."
+     },
+     {
+      "term": "adulterated liquor",
+      "definition": "Alcohol that has been tampered with or mixed with other substances, often to cut costs or increase strength, making it unsafe to drink.",
+      "context": "The Manipur victims are believed to have drunk suspected adulterated liquor."
+     },
+     {
+      "term": "Chief Minister",
+      "definition": "The elected head of government of an Indian state, roughly equivalent to an Australian state premier.",
+      "context": "Chief Minister Yumnam Khemchand Singh ordered an inquiry into the deaths."
+     }
+    ],
+    "quiz": {
+     "question": "Why is bootleg liquor in India so dangerous to drink?",
+     "options": [
+      "It is sold exclusively to tourists",
+      "It is brewed only in Manipur",
+      "It can contain methanol, a toxic chemical that causes blindness and death",
+      "It is always far stronger than legal spirits"
+     ],
+     "answer_index": 2,
+     "explanation": "The sources explain that cheap, unregulated liquor can contain methanol, a highly toxic industrial chemical that causes blindness, liver damage and death when ingested."
+    },
+    "background_beginner": "In India, legal alcohol is heavily taxed and regulated, so cheap illegal liquor is widely made and sold outside official channels, sometimes for less than a dollar a bottle. The big danger is methanol — a toxic chemical that can slip into these home-brewed or black-market drinks. Every so often a bad batch poisons dozens or hundreds of people at once, killing many and blinding others. This latest case is in Manipur, a state in India's northeast. Similar mass poisonings happened earlier in 2026 in Maharashtra and Gujarat, which is why the story keeps coming up: the underlying black market and poverty that drive it haven't gone away.",
+    "impact_score": 45,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--a3Th7UZv--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/21/000_d86f6nq.jpg?itok=IythZQMi",
+    "region": "Asia",
+    "region_code": "ASIA",
+    "description": "More than a dozen people have died and over 200 have been hospitalised in India's northeastern state of Manipur after drinking suspected tainted alcohol.",
+    "tier": "GLOBAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/india-alcohol-poisoning-11-dead-6571401"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/us-judge-jails-indian-national-in-foiled-sikh-separatist-murder-plot/live-80008104?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-22T01:25:12.451895+00:00",
+    "published_date": "2026-11-22",
+    "has_fulltext": true
    }
   ],
   "EUROPE": [
@@ -861,6 +923,73 @@
     ],
     "reading_minutes": 2,
     "created_at": "2026-11-21T19:25:37.912182+00:00",
+    "published_date": "2026-11-22",
+    "has_fulltext": true
+   },
+   {
+    "id": "ee33df1f-7b3d-5793-b195-17b66bd6fe48",
+    "title": "Bahrain says Iranian attack causes fire at industrial facility",
+    "simplified_title": "Bahrain says Iranian strike sparks fire at industrial site",
+    "quick_summary": "Bahrain says an Iranian missile and drone attack hit a civilian industrial facility and started a fire, with material damage but no injuries reported.",
+    "simplified_body": "Bahrain says Iran launched aerial attacks late on Saturday, with one striking a civilian industrial facility and starting a fire. Bahrain's Defence Force said its air defences intercepted several of the strikes, and the Interior Ministry reported material damage but no injuries. Air raid sirens had earlier sounded, and residents were urged to move somewhere safe. The ministry didn't name or locate the facility.\n\nIran told a different story. Its Islamic Revolutionary Guard Corps (IRGC) said it ran a combined missile and drone operation against United States (US) military positions at the al-Riffa and Awali bases, claiming it destroyed two US Patriot air defence radars. Iran said the strike answered US drone flights over its airspace and a US attack on a radar site on its Hengam Island. Iran's state agency IRNA even suggested the fire came from a US interceptor missile that crashed on Sitra Island — a claim Bahrain does not share.\n\nBahrain hosts the US Navy's Fifth Fleet, which makes it a repeated target. The sources say attacks have come and gone since the US-Israel war on Iran began in late February, with three recent drone strikes after a quiet stretch. Other Gulf states have also been hit by Tehran.\n\nBahrain has asked the UN Security Council to enforce Resolution 2817, adopted on 11 March, which condemns Iranian attacks on Gulf states and Jordan. The Gulf Cooperation Council (GCC) voiced \"full solidarity\" and backed whatever steps Bahrain takes next.",
+    "why_it_matters": "Any widening of the Middle East war threatens global oil shipping lanes and energy prices, which flows straight through to fuel costs at Australian bowsers.",
+    "deep_analysis": "## Historical Context\n\nBahrain sits at the heart of this flashpoint because it hosts the US Navy's Fifth Fleet, making it a natural target whenever tensions between Iran and the United States flare. The article describes a US-Israel war on Iran that began in late February, with Gulf states coming under repeated fire from Tehran since then. Attacks on Bahrain have ebbed and flowed, including three drone strikes in recent days after a lull of several weeks. In the background, the UN Security Council adopted Resolution 2817 on 11 March, condemning Iranian attacks on Gulf states and Jordan and demanding an end to hostilities — a sign the conflict already had international attention before this latest strike.\n\n## Multiple Perspectives\n\nThe two sides tell sharply different stories about what was hit. Bahrain says the attack struck a *civilian industrial facility* and calls it \"Iranian aggression,\" without naming or locating the site. Iran's IRGC says it targeted *US military positions* at the al-Riffa and Awali bases and claims to have destroyed two US Patriot air defence radars — framing the strike as a response to US drone flights and a US attack on Iran's Hengam Island. Adding further confusion, Iran's IRNA cited an outlet blaming the fire on a malfunctioning US Patriot interceptor missile that crashed on Sitra Island. Iran's own semi-official Fars agency named different targets again (Sheikh Isa and Juffair), so even Iranian accounts aren't fully aligned. The GCC, meanwhile, lined up firmly behind Bahrain.\n\n## What to Watch\n\nKeep an eye on whether the UN Security Council takes concrete action on Resolution 2817, as Bahrain is demanding. Watch too for independent confirmation of what was actually struck — the gap between \"civilian facility\" and \"US military base\" matters hugely. And note the pattern: this strike followed a lull, so the tempo of future attacks will signal whether the conflict is escalating or settling.",
+    "concepts": [
+     {
+      "term": "Islamic Revolutionary Guard Corps",
+      "definition": "A powerful branch of Iran's armed forces, separate from its regular military, that claimed responsibility for this missile and drone operation.",
+      "context": "The IRGC said it targeted US bases, while Bahrain says a civilian site was hit."
+     },
+     {
+      "term": "Fifth Fleet",
+      "definition": "The US Navy formation based in Bahrain that covers the Gulf region, making the country a frequent target in US-Iran tensions.",
+      "context": "Bahrain hosts the US Navy's Fifth Fleet, central to why it keeps being attacked."
+     },
+     {
+      "term": "Patriot air defence radars",
+      "definition": "Radar systems that form part of the US Patriot missile defence network used to detect and intercept incoming threats.",
+      "context": "Iran claimed it destroyed two of them, and also blamed a Patriot malfunction for a crash and fire."
+     },
+     {
+      "term": "Gulf Cooperation Council",
+      "definition": "A bloc of Gulf Arab states that coordinate on security and economic matters.",
+      "context": "The GCC voiced full solidarity with Bahrain and backed its response to the attack."
+     }
+    ],
+    "quiz": {
+     "question": "Why do Bahrain's and Iran's accounts of the attack conflict?",
+     "options": [
+      "Bahrain claims it attacked Iran first",
+      "Both agree a civilian factory was deliberately targeted",
+      "Bahrain says a civilian industrial facility was hit, while Iran says it struck US military bases",
+      "Iran denies carrying out any attack at all"
+     ],
+     "answer_index": 2,
+     "explanation": "Bahrain describes the target as a civilian industrial facility, whereas the IRGC says it struck US military positions at the al-Riffa and Awali bases."
+    },
+    "background_beginner": "Bahrain is a small Gulf island nation that hosts the US Navy's Fifth Fleet, which puts it on the front line whenever Iran and the United States clash. According to the article, a US-Israel war on Iran began in late February, and since then Iran has repeatedly fired on Gulf states. Iran's Islamic Revolutionary Guard Corps (IRGC) carries out many of these strikes, often framing them as responses to US actions. The fighting keeps flaring because Bahrain and its neighbours sit between two heavily armed rivals. The United Nations has already condemned the attacks, and Gulf states band together through a group called the Gulf Cooperation Council.",
+    "impact_score": 72,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0202985284a-1795293848.jpg?resize=1920%2C1440",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Bahrain says an Iranian missile and drone attack hit a civilian industrial facility and started a fire, with material damage but no injuries reported.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "413d5b31-4022-5db0-b7b0-709a7558fc15",
+     "8105b12d-a342-59cc-8565-14c1e8c4f3cc",
+     "8e8be91f-27fb-5ce2-b5a0-91e45cfe7184"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-22T01:25:16.883488+00:00",
     "published_date": "2026-11-22",
     "has_fulltext": true
    },
@@ -1751,5 +1880,5 @@
    }
   ]
  },
- "total_stories": 26
+ "total_stories": 28
 }
