@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "generated_at": "2026-11-22T01:23:03.797006+00:00",
+ "generated_at": "2026-11-22T07:23:04.339553+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -75,143 +75,6 @@
     "has_fulltext": true
    },
    {
-    "id": "3e325949-8374-52db-a436-fc2ae52b47f8",
-    "title": "View from The Hill: Jobless numbers highlight that the Reserve Bank’s credibility is on the line",
-    "simplified_title": "Jobless Rate Rises, Putting Reserve Bank's Credibility On The Line",
-    "quick_summary": "Australia's unemployment rate ticked up to 4.9% in October, raising fresh questions about whether the Reserve Bank was right to lift interest rates this month.",
-    "simplified_body": "Australia's unemployment rate climbed to 4.9% in October, up from 4.7% in September — higher than expected. The rise lands just after the Reserve Bank of Australia (RBA) lifted interest rates at its November meeting, a decision made on a tight six-to-three board vote. Treasurer Jim Chalmers acknowledged the \"very real and serious pressure\" Australians are under, pointing to higher rates and global challenges.\n\nThis matters for anyone with a mortgage, a job, or a business. The RBA has a dual mandate: to keep inflation under control and to keep people employed. Critics argue the bank is ignoring the lags in monetary policy — that earlier hikes need more time to work before piling on more. The board minutes show the three dissenters feared the economy might be heading into \"a materially sharper downturn\".\n\nFor background: Governor Michele Bullock and deputy Andrew Hauser have lately been \"hawks\", meaning they prioritise crushing inflation even at the cost of economic pain. Treasury secretary Jenny Wilkinson is presumed to be one of the three who wanted to hold rates steady; the other two aren't known. A total of 100 basis points of tightening has already been delivered.\n\nThe next board meeting is in December, but it's expected to hold rates — too soon for a backflip. The February meeting now \"feels an age away\". If the bank finds it braked too hard and has to cut rates soon, that would be a \"break-glass moment\" for its reputation. Both Chalmers and Bullock dismiss the risk of recession, though Bullock concedes it will \"feel like a recession\" for many.",
-    "why_it_matters": "This directly affects every Australian with a home loan, a job or a small business, and it tests whether the Reserve Bank has judged the inflation-versus-jobs balance correctly.",
-    "deep_analysis": "## Historical Context\n\nThe Reserve Bank of Australia sets the cash rate, which flows through to the interest rates people pay on mortgages and businesses pay on loans. Decades ago, treasurers could effectively direct the bank, but today it operates independently — which is why Chalmers can voice concern without overruling a decision. The bank's job is guided by a \"dual mandate\": taming inflation while supporting employment. When inflation runs hot, the usual tool is raising rates to cool spending, but that same medicine can slow hiring and tip unemployment higher. This month's six-to-three vote shows just how finely balanced that judgement has become.\n\n## Multiple Perspectives\n\nThe majority, presumed to include Bullock and Hauser, are \"hawks\" — they judge that losing the fight against inflation would be catastrophic, even if the battle brings real pain now. The minority argued the opposite: having already tightened by 100 basis points, including a September move, it was prudent to wait and see how those hikes play out before adding more. They put less weight on inflation risks and more on the danger of a sharp downturn and rising joblessness. Chalmers, caught between, blames global pressures and higher rates while stopping short of criticising the bank directly.\n\n## What to Watch\n\nThe December meeting is expected to hold rates steady — too early for second thoughts. The real test is February, which analysts say now \"feels an age away\". If unemployment keeps climbing and the economy weakens, pressure will build for a rate cut, which would vindicate the dissenters and dent the bank's credibility. Watch the next jobs and inflation figures, and whether talk shifts from a possible February rise to a possible cut.",
-    "concepts": [
-     {
-      "term": "dual mandate",
-      "definition": "The Reserve Bank's two-part job: keeping inflation under control while also keeping employment strong — goals that can pull in opposite directions.",
-      "context": "The RBA raised rates partly to fight inflation, but the jobless rise shows the employment side of the mandate under strain."
-     },
-     {
-      "term": "basis points",
-      "definition": "A unit for measuring interest rate changes; 100 basis points equals one full percentage point.",
-      "context": "The bank has already delivered 100 basis points of tightening, which the dissenters felt needed more time to work."
-     },
-     {
-      "term": "hawks",
-      "definition": "Policymakers who prioritise fighting inflation, even if it means accepting slower growth or higher unemployment.",
-      "context": "Bullock and Hauser are described as hawks who view losing the inflation fight as catastrophic."
-     },
-     {
-      "term": "break-glass moment",
-      "definition": "An emergency situation requiring a sudden reversal — here, the bank quickly cutting rates after just raising them.",
-      "context": "If the RBA had to reduce rates soon after hiking, it would be a break-glass moment damaging its credibility."
-     }
-    ],
-    "quiz": {
-     "question": "Why do critics argue the Reserve Bank may have been wrong to raise rates in November?",
-     "options": [
-      "Because earlier rate hikes need more time to take effect before adding more",
-      "Because inflation had already fallen to zero",
-      "Because unemployment had dropped to a record low",
-      "Because the government ordered the bank to cut rates instead"
-     ],
-     "answer_index": 0,
-     "explanation": "Critics point to the lags in monetary policy — the 100 basis points already delivered should have been given more time to work, and the dissenters feared a sharper downturn."
-    },
-    "background_beginner": "The Reserve Bank of Australia (RBA) is the country's central bank, and its main job is setting the \"cash rate\" — the interest rate that shapes what people pay on mortgages and loans. It's led by Governor Michele Bullock and makes rate decisions by a board vote. When prices rise too fast (inflation), the bank usually lifts rates to cool spending, but that can also slow the economy and cost jobs. Treasurer Jim Chalmers runs the government's economic policy but can't order the independent bank around. This tug-of-war between fighting inflation and protecting jobs keeps coming up every time new unemployment or inflation figures are released.",
-    "impact_score": 72,
-    "image_url": "https://images.theconversation.com/files/773239/original/file-20261120-62-4q9wzt.jpg?ixlib=rb-4.1.1&rect=0%2C250%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Australia's unemployment rate ticked up to 4.9% in October, raising fresh questions about whether the Reserve Bank was right to lift interest rates this month.",
-    "tier": "LOCAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "The Conversation",
-      "url": "https://theconversation.com/view-from-the-hill-jobless-numbers-highlight-that-the-reserve-banks-credibility-is-on-the-line-296269"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "3fe16bf2-2bd3-50ba-b815-c5fff1e569c7",
-     "7b4eaa2c-570c-5394-9a32-11a83b9890fb"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-20T19:26:13.885628+00:00",
-    "published_date": "2026-11-21",
-    "has_fulltext": true
-   },
-   {
-    "id": "08ab2780-fe6d-516f-9c43-3ea125e68433",
-    "title": "Xi Jinping declares 'complete turnaround' in China's relations with Australia",
-    "simplified_title": "Xi Declares 'Full Turnaround' in China-Australia Relations",
-    "quick_summary": "Chinese President Xi Jinping has praised a \"full turnaround\" in China-Australia ties as he met Prime Minister Anthony Albanese on the sidelines of the APEC summit in Shenzhen.",
-    "simplified_body": "Xi Jinping and Anthony Albanese met in Shenzhen on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit, where Xi declared a \"full turnaround\" in relations between the two countries. Albanese agreed the relationship \"delivers prosperity\" for both nations but promised \"frank\" exchanges, saying ties should be managed around differences rather than defined by them. He then flew to Beijing for formal talks with Premier Li Qiang and an Australia-China business roundtable.\n\nThis matters most for trade. China is Australia's top trading partner, and the warming follows a bruising few years. After the former Coalition government pushed to keep telecoms firm Huawei out of Australia's 5G rollout and called for an inquiry into COVID-19's origins, Beijing slapped tariffs on key exports like barley, wine, beef, coal, lobsters and timber. Sources differ on the scale: ABC and the Guardian cite about $20 billion in tariffs, while DW puts the figure at $13 billion.\n\nSince Labor took office in 2022, most of those blocks have been lifted. But friction lingers — over a Chinese missile test in the South Pacific, Australia's tightened foreign investment screening on critical minerals, and Canberra's new defence and AI deals with Washington and the Philippines. Sources also disagree on whether this was the pair's fourth or fifth meeting.\n\nAustralian businesses, including BHP, Rio Tinto and Cochlear, want \"certainty\" and better market access — especially for beef, where 55% tariffs remain. The two leaders agreed to a new AI dialogue and named 2027 the Australia-China Year of Tourism.",
-    "why_it_matters": "China is Australia's biggest trading partner, so steadier relations directly affect jobs and prices across beef, wine, coal and mining — while Canberra tries to balance that bond with its security ties to the US.",
-    "deep_analysis": "## Historical Context\n\nAustralia-China relations hit their lowest point in decades under the former Coalition government. Two flashpoints stand out: Australia's move to keep Chinese telecommunications firm Huawei out of its 5G network, and the Morrison government's call for an independent international inquiry into the origins of the COVID-19 pandemic. Beijing responded with a punishing round of tariffs on key Australian exports — barley, wine, beef, lobsters, coal and timber — and effectively froze high-level talks. Since Albanese's Labor government came to office in 2022, an intense diplomatic campaign has seen most of those trade blocks lifted, setting the stage for Xi's \"full turnaround\" language.\n\n## Multiple Perspectives\n\nXi framed the thaw warmly, calling Albanese a \"China hand\" and pushing for deeper cooperation in agriculture, energy, the green economy and AI. Albanese struck a more measured tone — welcoming prosperity and dialogue, but insisting on \"frank\" exchanges and refusing to let differences define the relationship. Australian business wants predictability above all: executives from BHP, Rio Tinto, ANZ and Cochlear are chasing market access and a \"level playing field.\" Yet Canberra arrived carrying moves Beijing dislikes — a new Philippines defence pact, Quad military exercises with the US, Japan and India, a US-led critical minerals and AI agreement, and the push to end Chinese firm Landbridge's lease on the Port of Darwin. Note the sources diverge on the tariff total ($13bn vs $20bn) and the meeting count (fourth vs fifth).\n\n## What to Watch\n\nWatch the outstanding 55% tariffs on Australian beef tied to China's quota system, and whether the new AI dialogue and 2027 Year of Tourism produce substance. Iron ore is a live pressure point: Australia has accused China of \"manipulation\" via a central buying body that boosts Beijing's bargaining power with steelmakers. The deeper question is whether economic warmth can coexist with Australia's tightening security alignment with Washington.",
-    "concepts": [
-     {
-      "term": "APEC",
-      "definition": "The Asia-Pacific Economic Cooperation forum, a group of Pacific Rim economies that meets to promote trade and economic cooperation across the region.",
-      "context": "Xi and Albanese met on the sidelines of this summit in Shenzhen."
-     },
-     {
-      "term": "tariffs",
-      "definition": "Taxes or charges placed on imported goods, often used to make foreign products more expensive and pressure another country.",
-      "context": "China imposed these on Australian exports like barley, wine and beef during the diplomatic freeze."
-     },
-     {
-      "term": "critical minerals",
-      "definition": "Raw materials such as rare earths and lithium that are essential for modern technology, defence and clean energy, and are strategically contested.",
-      "context": "Australia signed a US-led agreement on these and tightened foreign investment screening in the sector."
-     },
-     {
-      "term": "foreign investment screening",
-      "definition": "A government process of reviewing and vetting investments from overseas, usually to protect national security or strategic industries.",
-      "context": "Australia tightening this in critical minerals became a point of friction with Beijing."
-     }
-    ],
-    "quiz": {
-     "question": "Why did China-Australia relations deteriorate under the former Coalition government?",
-     "options": [
-      "Australia imposed tariffs on Chinese iron ore imports",
-      "Australia refused to sign the APEC trade agreement",
-      "Australia sought to exclude Huawei from its 5G network and called for a COVID-19 origins inquiry",
-      "China banned all Australian tourists from entering the country"
-     ],
-     "answer_index": 2,
-     "explanation": "Beijing imposed trade tariffs after Australia moved to keep Huawei out of its 5G rollout and the Morrison government called for an independent inquiry into the origins of COVID-19."
-    },
-    "background_beginner": "China and Australia are major trading partners — China buys huge amounts of Australian iron ore, beef, wine and coal. A few years ago the relationship soured badly: Australia's then-government pushed to block Chinese tech firm Huawei from its phone networks and called for an inquiry into how COVID-19 began. An angry Beijing hit Australian goods with tariffs (extra charges that make exports harder to sell). When Anthony Albanese became prime minister in 2022, his government worked to repair ties, and most of those trade blocks have since been lifted. The topic keeps returning because Australia must juggle its vital trade with China against its close security partnership with the United States.",
-    "impact_score": 68,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/f50c154e4990b10292392d572c683d9d?impolicy=wcms_watermark_news&cropH=2660&cropW=4728&xPos=0&yPos=246&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "Chinese President Xi Jinping has praised a \"full turnaround\" in China-Australia ties as he met Prime Minister Anthony Albanese on the sidelines of the APEC summit in Shenzhen.",
-    "tier": "LOCAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-20/albanese-to-meet-xi-for-trade/107406222"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/20/xi-jinping-says-a-full-turnaround-has-been-achieved-in-australia-china-relations-praising-anthony-albanese"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/china-s-xi-praises-turnaround-in-relationship-with-australia/a-79999229?maca=en-rss-en-all-1573-rdf"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-20T19:25:27.129929+00:00",
-    "published_date": "2026-11-21",
-    "has_fulltext": true
-   },
-   {
     "id": "e10c4b4c-5874-5921-a50d-292542492968",
     "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
     "simplified_title": "Queensland Government Under Fire Over Ambulance Deaths",
@@ -271,6 +134,64 @@
     "related_story_ids": [],
     "reading_minutes": 4,
     "created_at": "2026-11-21T19:25:39.911711+00:00",
+    "published_date": "2026-11-22",
+    "has_fulltext": true
+   },
+   {
+    "id": "6282e965-7ec6-5cd5-9ecd-132e5b9a7a0e",
+    "title": "Government launches inquiry into peptides amid surge in hospital visits",
+    "simplified_title": "Government orders inquiry into peptides after hospital visits surge",
+    "quick_summary": "Health Minister Mark Butler has launched a parliamentary inquiry into peptides after a sharp rise in hospital visits and the first death linked to the unapproved substances.",
+    "simplified_body": "Health Minister Mark Butler has ordered an inquiry into how peptides are prescribed and used, pointing to unsafe online prescribing and a worrying jump in hospital visits. Peptides are short chains of amino acids that form proteins in the body. Some peptide-based medicines are approved by the Therapeutic Goods Administration (TGA), but many sold online are unregulated and often marketed on social media as cures for weight-loss, anti-ageing and muscle growth.\n\nThis affects everyday consumers, and especially young men swayed by fit-looking influencers online. Dan Repacholi, the Special Envoy for Men's Health, warned that \"just because someone with a sixpack is promoting something online doesn't mean it's safe\". The products pushed online haven't been checked for quality, safety or how well they work, and the TGA says they carry real health risks.\n\nThe numbers behind the concern are striking. NSW Health data showed monthly hospital presentations linked to unapproved peptides rose from five in July 2025 to 217 in September. The Australian Poisons Information Centre logged 345 cases in the first six months of this year — more than triple the figure for all of 2025. A coroner also found the death of actor Richard Norton was \"triggered by\" his injection of unapproved peptides, believed to be Australia's first such fatality.\n\nThe inquiry will begin consultation hearings this month, with a final report slated for mid-2027. Shadow Health Minister Anne Ruston urged people to only get prescriptions through a reputable doctor, while Sport Minister Anika Wells flagged peptides as an emerging risk for athletes.",
+    "why_it_matters": "Peptides are being marketed to Australians as \"wonder drugs\" online, yet they've now been linked to a death, hundreds of poisoning cases and a huge spike in hospital visits — making this a direct public-health issue at home.",
+    "deep_analysis": "## Historical Context\n\nPeptides sit in a grey zone between legitimate medicine and online supplement culture. Some peptide-based treatments are genuinely approved by the Therapeutic Goods Administration, which is why the category can look credible. The problem the inquiry targets is the explosion of unapproved versions sold through social media, telehealth and what the minister calls \"one-stop-shop-style dispensaries\" — products that have never been assessed for quality, safety or effectiveness. This mirrors a broader pattern where health trends spread faster online than regulation can keep up.\n\n## Multiple Perspectives\n\nThe government frames this as a consumer-safety and prescribing-integrity failure, with Mark Butler \"extremely concerned\" about unapproved peptides delivered via telehealth. Dan Repacholi adds a men's-health angle, worried about young blokes copying influencers. The opposition, via Anne Ruston, agrees in principle but keeps the message narrower — stick to reputable practitioners. Sport Minister Anika Wells raises a different dimension again: peptides as both a sporting-integrity issue and a health hazard for athletes. Notably, there's no voice here defending online peptide sellers, so the article presents a fairly one-sided consensus that stronger oversight is needed.\n\n## What to Watch\n\nKeep an eye on the consultation hearings starting this month and the final report due mid-2027 — its recommendations could reshape telehealth prescribing rules. Watch whether hospital and poisons-centre numbers keep climbing, and whether the TGA moves to restrict importation and advertising before the report lands.",
+    "concepts": [
+     {
+      "term": "peptides",
+      "definition": "Short chains of amino acids that form proteins in the body; some are approved medicines, but many sold online are unregulated.",
+      "context": "Marketed online for weight-loss, anti-ageing and muscle growth, they are at the centre of the new inquiry."
+     },
+     {
+      "term": "Therapeutic Goods Administration (TGA)",
+      "definition": "Australia's regulator that checks medicines and medical products for quality, safety and effectiveness before approval.",
+      "context": "It has approved some peptide medicines but warns unapproved online products haven't been checked."
+     },
+     {
+      "term": "telehealth",
+      "definition": "Medical consultations and prescribing done remotely, often online or by phone rather than in person.",
+      "context": "The minister is concerned about unapproved peptides being prescribed and delivered through telehealth services."
+     }
+    ],
+    "quiz": {
+     "question": "Why is the government especially concerned about the unapproved peptides sold online?",
+     "options": [
+      "They are banned in every other country",
+      "They can only be bought overseas",
+      "They haven't been checked for quality, safety or effectiveness",
+      "They are more expensive than approved medicines"
+     ],
+     "answer_index": 2,
+     "explanation": "The TGA warns that peptides promoted online haven't been checked for quality, safety or efficacy, which is why they pose potential health risks — the core reason for the inquiry."
+    },
+    "background_beginner": "Peptides are tiny building blocks of protein found naturally in the body. In recent years, products marketed as \"peptide medicines\" have taken off on social media, where influencers promote them for weight-loss, anti-ageing and bigger muscles. The trouble is that while a few are properly approved by Australia's medicines regulator, the TGA, many sold online are unregulated and untested. Reports of harm have been mounting — a surge in hospital visits, hundreds of poisoning calls, and a coroner linking an actor's death to peptide injections. Because these products are easy to buy and heavily hyped, the federal government has now launched an inquiry into how they're prescribed and sold.",
+    "impact_score": 58,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/336554c115138a5af032267fc3d708f7?impolicy=wcms_watermark_news&cropH=978&cropW=1738&xPos=262&yPos=0&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Health Minister Mark Butler has launched a parliamentary inquiry into peptides after a sharp rise in hospital visits and the first death linked to the unapproved substances.",
+    "tier": "LOCAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-22/health-minister-mark-butler-orders-peptide-inquiry/107414136"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-22T07:25:38.422794+00:00",
     "published_date": "2026-11-22",
     "has_fulltext": true
    },
@@ -341,132 +262,126 @@
     "has_fulltext": true
    },
    {
-    "id": "bf1de458-899f-52f1-b7be-e99b6d1c4088",
-    "title": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
-    "simplified_title": "Dangerous anaesthetic found in vapes after NSW hospitalisations",
-    "quick_summary": "Three people were hospitalised in New South Wales after using vapes found to contain etomidate, a powerful anaesthetic not approved for medical use in Australia.",
-    "simplified_body": "Three people in New South Wales (NSW) lost consciousness and ended up in hospital after using certain vapes, and tests of their blood and urine confirmed they'd taken etomidate — a strong, fast-acting sedative used as a general anaesthetic overseas but not registered for medical use in Australia. On Friday, NSW Health issued a public warning. All three had used non-nicotine refillable vapes. The department wouldn't say how old the patients were, where they were treated, or how they were faring.\n\nThis matters to anyone using illicit vapes, because you often can't tell what's inside. NSW Health warned that vapes sold as space pods, space oil, kpods, piu piu vapes or zombie vapes may contain etomidate — or other substances like ketamine, THC and potent opioids. Dr Darren Roberts of the NSW poisons information centre said etomidate's effects in a vape are unpredictable and can include confusion, slow breathing, vomiting, muscle spasms and becoming unresponsive. These effects can be life threatening, especially when mixed with alcohol, opioids, benzodiazepines or GHB.\n\nFor background: the NSW discovery comes about four months after Victorian health officials found the same anaesthetic in an illicit vape sold in Melbourne. Regular use of etomidate can also cause lasting harm, including disrupting hormones from the adrenal gland that regulate stress responses.\n\nWhat next: officials urge anyone feeling unwell after vaping to seek help and call triple zero. They recommend giving Naloxone — a free, prescription-free opioid overdose treatment — in case opioids were ingested. It won't reverse etomidate but is still safe to give. Roberts stressed: \"You won't get into trouble for seeking medical care.\"",
-    "why_it_matters": "Illicit vapes circulating in Australia can secretly contain powerful, unregulated drugs, so what looks like a harmless non-nicotine vape could put a user in hospital — a direct risk to young Australians who vape.",
-    "deep_analysis": "## Historical Context\n\nVaping has grown rapidly in Australia, and authorities have repeatedly warned that illicit, unregulated vapes can contain substances far beyond nicotine. This latest warning fits a pattern: NSW's discovery of etomidate in vapes comes about four months after Victorian health officials found the same powerful anaesthetic in an illicit vape sold in Melbourne. Because these products sit outside the regulated medical and consumer supply chains, there's no quality control over their contents — which is exactly why health departments keep issuing public alerts.\n\n## Multiple Perspectives\n\nFrom a public health view, the core problem is unpredictability: Dr Darren Roberts stressed that \"the contents found in non-nicotine vapes vary\" and \"you can't assume what's inside.\" Etomidate's effects in a vape are unpredictable and potentially life threatening, particularly when combined with other sedating substances like alcohol, opioids, benzodiazepines or GHB.\n\nFrom a harm-reduction standpoint, officials are trying to lower the barrier to getting help — hence the clear message that \"you won't get into trouble for seeking medical care.\" Their advice to administer Naloxone, even though it won't reverse etomidate, reflects a precautionary approach: it's safe to give and could help if opioids were also ingested.\n\n## What to Watch\n\nWatch whether etomidate-laced vapes turn up in other states, given they've now been identified in both Victoria and NSW. Also worth watching: how widely the named products (space pods, space oil, kpods, piu piu vapes, zombie vapes) are circulating, and whether regulators escalate their response. For users, the practical signal to monitor is symptoms — confusion, slow breathing, vomiting or unresponsiveness — which warrant calling triple zero immediately.",
+    "id": "76eeb00f-bb57-5336-b2fb-a6be26958d44",
+    "title": "'One-in-2,000-year weather' to be investigated post-blackout",
+    "simplified_title": "SA to probe claim rare storm caused Eyre Peninsula blackout",
+    "quick_summary": "The South Australian government will scrutinise ElectraNet's claim that a \"one-in-2,000-year weather event\" toppled transmission towers and blacked out the Eyre Peninsula, with the weather bureau casting doubt on the wind speeds involved.",
+    "simplified_body": "On Thursday afternoon, electricity to South Australia's Eyre Peninsula and West Coast was cut when two transmission towers collapsed and a third was badly damaged during intense storms. More than 20,000 properties lost power. Most were reconnected over the following 24 hours. ElectraNet, the company responsible for the state's high-voltage transmission lines, says it is running a \"complete and thorough review\" into the outage.\n\nElectraNet suggested the towers were likely brought down by a \"one-in-2,000-year weather event\". Executive Alex Trento said the towers were built to withstand wind gusts up to 172km/h, and that local winds probably exceeded that. But SA Premier Peter Malinauskas said investigators will examine two possibilities: either an unstoppable freak storm, or a problem with the infrastructure's specifications. The affected high-voltage line was finished only a few years ago at a cost of $300 million.\n\nThe Bureau of Meteorology (BOM) has pushed back on the wind claim. Senior meteorologist Jonathan How said gusts above 170km/h are usually only seen in tropical cyclones or tornadoes, and no tornadoes were detected on the Eyre Peninsula that day. He noted South Australia's wind record is 167km/h, set at Woomera in 1979, so 170km/h is \"probably unlikely\".\n\nThe scenes echo the 2016 statewide blackout, when towers also fell in the state's mid north. Trento said design standards were improved after that event and conceded a structural fault was possible, though he expressed confidence the towers met the appropriate standards. The coming investigation will test whether the \"freak weather\" explanation holds up.",
+    "why_it_matters": "Energy security is a raw nerve in South Australia a decade on from the 2016 statewide blackout, and whether a brand-new $300 million line failed to freak weather or faulty specs shapes how much Australians can trust the grid they pay for.",
+    "deep_analysis": "## Historical Context\n\nSouth Australia has a long, fraught relationship with grid reliability. The 2016 statewide blackout — when transmission towers were felled in the state's mid north during severe storms — became a national political flashpoint over renewable energy, grid resilience and who's to blame when the lights go out. This latest Eyre Peninsula outage lands squarely in that shadow, which is why the images of collapsed towers at Wharminda carry so much weight. ElectraNet says design standards were tightened after 2016, so a failure on a line completed only a few years ago raises uncomfortable questions.\n\n## Multiple Perspectives\n\nElectraNet frames the event as an act of nature beyond reasonable design: towers rated to 172km/h winds, hit by something \"very unique, very rare\" and possibly as high as 250km/h, meaning \"I don't think we could have done anything better\". The Bureau of Meteorology is sceptical, noting it couldn't confirm gusts above 170km/h, that such speeds usually need cyclones or tornadoes (none detected), and that the state record is 167km/h from 1979. The government, via Premier Malinauskas, is deliberately keeping both doors open — freak weather, or flawed specifications — and resisting a rush to judgement. Trento himself conceded a structural fault \"was a possibility\".\n\n## What to Watch\n\nThe investigation's central task is reconciling ElectraNet's \"one-in-2,000-year\" claim with the BOM's doubt about the wind speeds. Key signals: any hard wind data from near the collapse site (as opposed to Roxby Downs' ~100km/h reading), engineering analysis of whether the towers met their stated standards, and whether findings point to design, construction or genuinely unprecedented weather. The outcome will shape public trust and likely future spending on grid hardening.",
     "concepts": [
      {
-      "term": "etomidate",
-      "definition": "A strong, fast-acting sedative used as a general anaesthetic overseas but not registered for medical use in Australia; it has been found in some illicit vapes.",
-      "context": "Three hospitalised NSW patients tested positive for etomidate after using non-nicotine vapes."
+      "term": "transmission towers",
+      "definition": "The tall steel structures that carry high-voltage power lines long distances across the landscape, moving electricity from generators toward towns and cities.",
+      "context": "Two of these collapsed and a third was damaged, cutting power to the Eyre Peninsula."
      },
      {
-      "term": "Naloxone",
-      "definition": "A free, prescription-free medicine that treats opioid overdoses; it won't reverse etomidate but is safe to give in case opioids were also taken.",
-      "context": "NSW Health recommends giving Naloxone to anyone who becomes unresponsive after using any drug."
+      "term": "one-in-2,000-year weather event",
+      "definition": "A statistical way of describing an extreme event so severe it would be expected only about once every 2,000 years — meaning a roughly 0.05% chance in any given year.",
+      "context": "ElectraNet used this phrase to explain why the towers failed, a claim the government will scrutinise."
      },
      {
-      "term": "adrenal gland",
-      "definition": "A gland that produces hormones regulating the body's stress responses, which regular etomidate use can disrupt.",
-      "context": "Roberts warned etomidate can cause long-term harm by disrupting hormones from the adrenal gland."
+      "term": "Bureau of Meteorology (BOM)",
+      "definition": "Australia's national weather, climate and water agency, which records wind speeds and forecasts conditions.",
+      "context": "The BOM cast doubt on claims of 170km/h-plus gusts, noting the state record is 167km/h."
      }
     ],
     "quiz": {
-     "question": "Why do NSW Health officials recommend giving Naloxone to someone who becomes unresponsive after vaping, even though etomidate was found?",
+     "question": "Why does the Bureau of Meteorology doubt ElectraNet's suggestion that winds exceeded 170km/h?",
      "options": [
-      "Because Naloxone reverses the effects of etomidate",
-      "Because it is required by law before calling triple zero",
-      "Because the vape may also contain opioids, and Naloxone is safe to give",
-      "Because Naloxone is a general anaesthetic antidote"
+      "Because no storms occurred on the Eyre Peninsula that day",
+      "Because the storm happened at night when winds are weaker",
+      "Because gusts that high usually need cyclones or tornadoes, and none were detected, while the state record is 167km/h",
+      "Because the towers were rated to withstand 250km/h winds"
      ],
      "answer_index": 2,
-     "explanation": "Naloxone won't reverse etomidate (which isn't an opioid), but illicit vapes may also contain opioids, and officials say Naloxone is safe to administer as a precaution."
+     "explanation": "Meteorologist Jonathan How said 170km/h-plus gusts are typically only seen in tropical cyclones or tornadoes, none of which were detected, and South Australia's wind record is 167km/h set at Woomera in 1979 — making such speeds 'probably unlikely'."
     },
-    "background_beginner": "Vaping means inhaling vapour from an electronic device, and in Australia many vapes are sold illegally with no checks on what's actually in them. Health departments in states like New South Wales and Victoria keep issuing warnings because these illicit vapes sometimes contain hidden drugs instead of — or on top of — nicotine. In this case, authorities found etomidate, a powerful anaesthetic not approved for medical use here, in vapes after three people were hospitalised. The topic keeps coming up because vaping is popular, especially among young people, and dodgy products are hard to police, so new dangerous substances keep turning up in them.",
-    "impact_score": 58,
-    "image_url": "https://i.guim.co.uk/img/media/a8c083df952ff966868d4c06e9dd4da0fa335d1a/481_0_3661_2929/master/3661.jpg?width=1920&quality=85&auto=format&fit=max&s=a9ffc96624c6402a9243140352ec621a",
+    "background_beginner": "South Australia relies on a network of transmission towers and high-voltage lines to carry electricity across a big, sparsely populated state. In 2016, a severe storm knocked over towers and caused a blackout across the whole state, sparking years of political argument about grid reliability. Now, in late 2025, storms have again toppled towers — this time on the Eyre Peninsula — leaving more than 20,000 properties without power. The grid operator, ElectraNet, blames extraordinarily rare weather, but the national weather bureau isn't so sure. The state government has promised an investigation. It keeps coming up because reliable power in a storm-prone state is both an everyday necessity and a political hot potato.",
+    "impact_score": 42,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/93d501281c448a770986bcb3730c6aec?impolicy=wcms_watermark_news&cropH=864&cropW=1536&xPos=0&yPos=693&width=862&height=485&imformat=generic",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "Three people were hospitalised in New South Wales after using vapes found to contain etomidate, a powerful anaesthetic not approved for medical use in Australia.",
+    "description": "The South Australian government will scrutinise ElectraNet's claim that a \"one-in-2,000-year weather event\" toppled transmission towers and blacked out the Eyre Peninsula, with the weather bureau casting doubt on the wind speeds involved.",
     "tier": "LOCAL",
-    "category": "HEALTH",
+    "category": "SCIENCE_TECH",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-22/eyre-peninsula-blackout-weather-to-be-investigated/107404306"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 2,
-    "created_at": "2026-11-20T19:25:50.947588+00:00",
-    "published_date": "2026-11-21",
+    "related_story_ids": [
+     "22c09967-af44-5640-9801-3c2a800e28cb"
+    ],
+    "reading_minutes": 3,
+    "created_at": "2026-11-22T07:25:40.680492+00:00",
+    "published_date": "2026-11-22",
     "has_fulltext": true
    }
   ],
   "ASIA": [
    {
-    "id": "5fa6d703-3d5b-5449-a0b0-57e8c93504d6",
-    "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-    "simplified_title": "UN court rules Myanmar committed genocide against Rohingya",
-    "quick_summary": "The International Court of Justice has found Myanmar guilty of committing genocide against its Rohingya minority, the first time any state has been held responsible for genocide by an international court.",
-    "simplified_body": "The International Court of Justice (ICJ), the United Nations' top court, has ruled that Myanmar committed genocide against its Rohingya Muslim minority. Judges found by nine votes to six that \"genocidal intent is the only reasonable inference\" from the evidence, pointing to a 2017 military crackdown in Rakhine State that killed around 10,000 Rohingya and forced more than 700,000 to flee to Bangladesh. The court said about 815,000 people were targeted in some way, and that Myanmar had destroyed evidence by burning bodies and bulldozing cleared sites.\n\nThis matters enormously for the Rohingya, a long-persecuted group. Survivors described villages burned down, mass killings, and widespread sexual violence. Many Rohingya, including communities in Australia, celebrated the ruling as recognition that their suffering was real and that they were not, as Myanmar claimed, burning their own homes. Myanmar had always denied genocide, saying its forces were responding to attacks by the Arakan Rohingya Salvation Army (Arsa), a Rohingya militant group.\n\nThe case was brought by The Gambia. It is only the third time the ICJ has ruled on state-backed genocide since the 1948 Genocide Convention — the agreement that outlaws the crime — and the first time it found a state guilty. The court ordered Myanmar to allow safe returns, reunite families and pay reparations, with an exact figure set later.\n\nThese orders are legally binding, but the ICJ has no power to enforce them and cannot jail anyone, relying instead on the UN Security Council and political pressure. The UK is expelling Myanmar's defence attaché, and the ruling may shape other pending cases, including South Africa's genocide case against Israel over Gaza.",
-    "why_it_matters": "This is the first time an international court has held an entire state responsible for genocide, setting a precedent that could reshape global justice. Australia is home to Rohingya communities and has committed more than $1.26 billion in humanitarian assistance since 2017, so the pressure to turn the verdict into real action lands close to home.",
-    "deep_analysis": "## Historical Context\n\nThe Rohingya are a Muslim minority in Buddhist-majority Myanmar (formerly Burma) who have faced decades of persecution, including policies the court found discriminatory, such as limiting married couples to two children. The 2017 \"clearance operations\" in Rakhine State followed deadly attacks by the Arakan Rohingya Salvation Army (Arsa) on police posts, after which the military and local mobs launched a wave of violence. The Genocide Convention was signed in 1948 in the aftermath of the Holocaust, but proving a state — rather than individuals — committed genocide requires a very high evidential bar. The ICJ had ruled on state genocide only twice before, finding insufficient evidence both times.\n\n## Multiple Perspectives\n\nRohingya communities and human rights groups welcomed the ruling as long-awaited recognition. Lawyer Philippe Sands KC called it \"right up there with the great moments of international justice: Nuremberg, Pinochet.\" The UN human rights chief said the suffering was \"a stain on the conscience of humanity.\" Myanmar has consistently denied genocide, arguing it was responding to terrorist threats and that the Rohingya burned their own homes; its representative gave \"no comment\" after the verdict. The US stressed the importance of \"preventing politicisation\" while noting it is the leading donor to the Rohingya response. Australian Rohingya and Foreign Minister Penny Wong agree the verdict must translate into action.\n\n## What to Watch\n\nThe ICJ cannot enforce its own orders, so the key question is whether the UN Security Council and individual nations apply real pressure — sanctions, diplomacy and humanitarian support. Myanmar remains gripped by civil war since a 2021 coup, making safe returns difficult. Legal observers note the ruling set new precedents, including recognising rape as an act of genocide and rejecting a counter-terrorism defence, which could influence pending cases such as South Africa's case against Israel over Gaza.",
+    "id": "c9f31f0b-89bb-5361-805b-0003236b20c9",
+    "title": "Rohingya in Bangladesh welcome UN court’s genocide verdict but say they want to go home to Myanmar",
+    "simplified_title": "UN Court Rules Myanmar Committed Genocide Against Rohingya",
+    "quick_summary": "The UN's top court has found Myanmar responsible for genocide against the Rohingya, and refugees in Bangladesh welcomed the verdict but say they just want to go home.",
+    "simplified_body": "On Thursday 19 November, the International Court of Justice (ICJ) — the United Nations' (UN) highest court — ruled that Myanmar committed genocide against its Rohingya minority during a brutal 2017 military operation. It's the first time the court has ever ruled that a state committed genocide. The court ordered Myanmar to let the Rohingya return home safely, pay reparations, and prosecute those responsible. Myanmar's government dismissed the ruling as \"unfair\".\n\nThis matters most to the Rohingya themselves. About 1.2 million Rohingya refugees now live in crowded camps in Cox's Bazar, Bangladesh, enduring fire hazards, disease, monsoon landslides and strict work restrictions. Many watched the verdict on a big screen and called it a \"small victory\" — but community leaders said justice has only \"started\" and they won't be fully satisfied until they can safely return to Myanmar.\n\nHere's the background. In August 2017, Myanmar's military launched what it called a \"clearance campaign\" in Rakhine state after an attack by a Rohingya insurgent group. Security forces were accused of mass rapes, killings and burning thousands of homes. The court said evidence showed Myanmar forces killed about 10,000 Rohingya. Myanmar, a Buddhist-majority nation, denies the Rohingya even exist as a distinct ethnic group.\n\nWhat happens next is uncertain. The court's rulings are final and legally binding, but it cannot enforce them beyond reporting non-compliance to the UN Security Council. Bangladesh's Foreign Minister Khalilur Rahman visited the camps and pledged to push UN member nations to act, telling refugees \"You will not be alone.\"",
+    "why_it_matters": "This is the first time a UN court has ruled that a state committed genocide, setting a precedent for international accountability — and it keeps alive hopes of a safe return for over a million people trapped in refugee camps.",
+    "deep_analysis": "## Historical Context\n\nThe Rohingya are a Muslim ethnic minority who have long faced persecution in Buddhist-majority Myanmar, where the government denies they are a distinct ethnic group and effectively treats them as stateless. The crisis exploded in August 2017, when Myanmar's military launched a \"clearance campaign\" in Rakhine state following an attack by a Rohingya insurgent group. The operation triggered a mass exodus, and today roughly 1.2 million Rohingya live in refugee camps around Cox's Bazar in Bangladesh. This week's verdict is the culmination of years of legal effort to hold Myanmar accountable under the 1948 Genocide Convention, which requires proof of an intent to destroy a group \"in whole or in part\".\n\n## Multiple Perspectives\n\nRohingya refugees broadly welcomed the ruling but with clear reservations — leaders like Mohammad Rofik called it \"a victory\" and \"not an end\", while Sayed Ullah valued the recognition that the Rohingya are a distinct ethnic group. Others, like Mohammad Osman, want the world to impose \"severe punishment\" on Myanmar. Bangladesh, which hosts the refugees, is urging the international community to help repatriate them and has promised continued advocacy. Myanmar's military-supported government, by contrast, flatly rejected the verdict as \"unfair\". The gap between a binding legal finding and real-world enforcement sits at the heart of these competing views.\n\n## What to Watch\n\nThe key question is implementation. The ICJ's rulings are legally binding but unenforceable beyond referral to the UN Security Council, where geopolitics can stall action. Watch whether Myanmar makes any move toward reparations or safe return, whether any prosecutions occur, and how hard UN member nations — prompted by Bangladesh — push to follow up. For the refugees, the real test is whether they can ever return home voluntarily and safely.",
     "concepts": [
      {
-      "term": "International Court of Justice (ICJ)",
-      "definition": "The United Nations' top court, which settles disputes between states; it can issue binding rulings but cannot enforce them or jail individuals.",
-      "context": "The ICJ ruled Myanmar committed genocide against the Rohingya."
-     },
-     {
-      "term": "genocidal intent",
-      "definition": "The deliberate aim to destroy, in whole or in part, a national, ethnic, racial or religious group — the element that must be proven for an act to count as genocide.",
-      "context": "Judges found genocidal intent was the only reasonable inference from the evidence."
-     },
-     {
-      "term": "Genocide Convention",
-      "definition": "A 1948 international treaty, created after the Holocaust, that defines and outlaws genocide.",
-      "context": "It is only the third time the ICJ has ruled on state-backed genocide since the 1948 Genocide Convention."
+      "term": "genocide",
+      "definition": "Acts committed with intent to destroy, in whole or in part, a national, ethnic, racial or religious group — a crime defined under the 1948 Genocide Convention.",
+      "context": "The court ruled Myanmar committed genocide against the Rohingya, the first time it found a state responsible for the crime."
      },
      {
       "term": "reparations",
-      "definition": "Compensation a wrongdoer must pay to those it has harmed.",
-      "context": "The court ordered Myanmar to pay reparations, with an exact figure set later."
+      "definition": "Compensation or amends paid to make up for serious wrongs or harm done to a group of people.",
+      "context": "The court ordered Myanmar to pay reparations to the Rohingya Muslims."
+     },
+     {
+      "term": "repatriate",
+      "definition": "To return people to their home country.",
+      "context": "Bangladesh has been urging the international community to help repatriate the refugees to Myanmar."
      }
     ],
     "quiz": {
-     "question": "Why is this ICJ ruling described as unprecedented?",
+     "question": "Why is it uncertain how much of the court's ruling will actually be carried out?",
      "options": [
-      "It is the first time Myanmar admitted wrongdoing",
-      "It is the first ruling the ICJ has ever made",
-      "It is the first time an international court found a state responsible for committing genocide",
-      "It is the first time any court has heard a genocide case"
+      "Because Bangladesh opposes the judgment",
+      "Because the court can enforce it only by reporting non-compliance to the UN Security Council",
+      "Because the Rohingya have refused to return to Myanmar",
+      "Because the ruling is only a recommendation and not legally binding"
      ],
-     "answer_index": 2,
-     "explanation": "The ICJ had ruled on state-backed genocide twice before but never found a state guilty; this was the first time a state was held responsible for committing genocide."
+     "answer_index": 1,
+     "explanation": "The ICJ's rulings are final and legally binding, but the court has no way to enforce them beyond reporting non-compliance to the UN Security Council — so implementation remains uncertain."
     },
-    "background_beginner": "The Rohingya are a Muslim minority in Myanmar, a Buddhist-majority country in Southeast Asia that was once called Burma. They have been persecuted for decades and denied basic rights like citizenship. In 2017, Myanmar's military launched violent \"clearance operations\" after a Rohingya militant group attacked police posts. Thousands were killed and more than 700,000 fled to neighbouring Bangladesh, where many still live in refugee camps. The small nation of The Gambia took Myanmar to the International Court of Justice, the UN's top court, accusing it of genocide. The case keeps coming up because it tests whether the world can hold an entire government — not just individuals — accountable for one of the gravest crimes.",
-    "impact_score": 82,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
+    "background_beginner": "The Rohingya are a Muslim minority from Myanmar (formerly Burma), a mostly Buddhist country in Southeast Asia. For years the Myanmar government has refused to recognise them as citizens or even as a distinct ethnic group. In 2017, Myanmar's military drove hundreds of thousands out in a violent crackdown, and today about 1.2 million Rohingya live in refugee camps in neighbouring Bangladesh. The main players are Myanmar's military-backed government, the stateless Rohingya, Bangladesh (which hosts the refugees), and the International Court of Justice, the UN's top court. The story keeps coming up because the refugees still can't safely go home, and the world is debating how to hold Myanmar accountable.",
+    "impact_score": 78,
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--bSolIIpc--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/21/ap26324206520004.jpg?itok=hoPGziUV",
     "region": "Asia",
     "region_code": "ASIA",
-    "description": "The International Court of Justice has found Myanmar guilty of committing genocide against its Rohingya minority, the first time any state has been held responsible for genocide by an international court.",
+    "description": "The UN's top court has found Myanmar responsible for genocide against the Rohingya, and refugees in Bangladesh welcomed the verdict but say they just want to go home.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-20/icj-rohingya-genocide-case-community-reactions/107408880"
+      "name": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/rohingya-bangladesh-myanmar-genocide-verdict-6571141"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
+    "source_count": 1,
+    "confidence": 0.55,
     "related_story_ids": [
+     "5fa6d703-3d5b-5449-a0b0-57e8c93504d6",
      "bdfad584-0cbc-54d7-bf35-9ce753da960a"
     ],
-    "reading_minutes": 5,
-    "created_at": "2026-11-20T19:25:21.465264+00:00",
-    "published_date": "2026-11-21",
+    "reading_minutes": 3,
+    "created_at": "2026-11-22T07:25:35.876839+00:00",
+    "published_date": "2026-11-22",
     "has_fulltext": true
    },
    {
@@ -782,74 +697,136 @@
     "has_fulltext": true
    },
    {
-    "id": "c658e2a2-d64c-5d66-943d-9c7ebb54d76c",
-    "title": "Andy Burnham: UK to explore even closer ties with EU after agreeing deal",
-    "simplified_title": "UK and EU strike deal and float idea of closer ties",
-    "quick_summary": "Britain and the European Union have signed deals on food exports, carbon trading and a youth scheme, while Prime Minister Andy Burnham opened the door to even closer ties.",
-    "simplified_body": "At a summit in Brussels, the United Kingdom (UK) and the European Union (EU) agreed a package of deals covering British food exports, emissions trading and a new youth experience scheme. Most checks on British food exports will be scrapped from 2028 in return for the UK following some EU rules, and the two emissions trading systems will be linked, also aiming for 2028. Legislation to put the deal into UK law is expected next week.\n\nThe deal touches farmers, retailers, students and young people. The youth experience scheme would let up to 100,000 Europeans aged 18 to 31 travel, work and study in the UK each year, with the same number of young Britons able to do likewise in Europe, by no later than January 2030. The UK Treasury reckons the package could boost the economy by up to £17bn a year, or 0.5% of gross domestic product (GDP).\n\nThis is part of a post-Brexit \"reset\" that began under former PM Sir Keir Starmer. It has been 10 years since the Brexit referendum and more than six since Britain left. Labour's 2024 manifesto ruled out rejoining the single market, customs union or freedom of movement, and Burnham says he'll stick to that.\n\nBurnham says polling shows the public want closer ties and he wants \"informal brainstorming\" on the long-term relationship. Critics disagree: Conservative leader Kemi Badenoch calls the deal unfair and disputes the £17bn figure, while Reform's Nigel Farage calls it a \"betrayal\". Talks on EU student tuition fees remain a sticking point.",
-    "why_it_matters": "A friendlier UK–EU relationship reshapes trade, migration and youth opportunities across two of the world's biggest markets, which matters for Australian businesses and travellers who deal with both sides of the Channel.",
-    "deep_analysis": "## Historical Context\n\nIn 2016 the UK voted narrowly to leave the EU, and the split formally happened more than six years ago. Brexit added \"red tape\" — paperwork and border checks — for farmers, exporters and students moving between Britain and the continent. The \"reset\" of relations began as a personal project of former prime minister Sir Keir Starmer, operating within \"red lines\" that ruled out rejoining the single market, customs union or freedom of movement without a referendum. Friday's deals sit within those limits, but Burnham went further than any UK leader since the referendum by reopening debate about a possible return.\n\n## Multiple Perspectives\n\nSupporters frame the deals as practical wins: cheaper food, lower electricity costs and a claimed 0.5% boost to GDP, plus new travel and study options for young people. EU leaders Ursula von der Leyen and António Costa welcomed it, with Costa quipping Burnham was \"always welcome\" — a nod to both visiting and rejoining. Opponents push back hard. Badenoch says UK farmers will become \"rule takers\" from Brussels and disputes the £17bn figure, claiming modelling she has seen says 0.0%. Farage calls it a \"reverse\" and says Burnham has \"no mandate\". The Liberal Democrats' Ed Davey, by contrast, says the deal doesn't go far enough.\n\n## What to Watch\n\nLegislation lands in the UK Parliament next week, and Burnham needs to bring Labour MPs and voters along. Watch the tuition-fees talks, flagged as a potential stumbling block, with a six-month window to resolve them. New polling suggesting many leave-voting seats would now back rejoining will fuel the debate, but groups like Stay Out are campaigning hard against it. The real test is the \"brainstorming\" on a longer-term relationship, which officials say could take months.",
+    "id": "9618c22c-883e-5604-baed-5619c9c5b0f7",
+    "title": "Russia-bound ship attacked in Gulf of Finland",
+    "simplified_title": "Russian cargo ship ablaze after drone strike in Gulf of Finland",
+    "quick_summary": "A Russian cargo ship heading for Kaliningrad was set alight by drones in the Gulf of Finland, in a strike Finland says Ukraine likely carried out.",
+    "simplified_body": "On Saturday morning, a Russian cargo vessel called the Sparta II was struck by drones in the eastern Gulf of Finland and caught fire. The ship, which was bound for Kaliningrad, a Russian exclave wedged between Poland and Lithuania, later drifted into Finnish waters. Finnish authorities say Ukraine was likely behind the attack, though Kyiv has not commented. Kaliningrad's governor said two drones were used. The 16-member crew evacuated to lifeboats, then to a nearby Russian ship, and headed back to Russia.\n\nThis matters to Finland, Estonia and the wider region because the fighting is creeping closer to NATO (North Atlantic Treaty Organisation) territory. Finnish Prime Minister Petteri Orpo said \"war is spilling over into our immediate vicinity,\" adding Ukraine has the right to fight back. A Russian helicopter was also suspected of briefly violating Finnish airspace near Loviisa, possibly linked to rescue work.\n\nThe Sparta II is under US sanctions from 2022 and Ukrainian sanctions from earlier this year, and is run by Oboronlogistika, a company that provides logistics for Russia's Defence Ministry. Finnish officials could not rule out military cargo on board. Estonia sent a navy vessel to help, and Swedish combat aircraft operated under Finnish command. Finland and Sweden are NATO's newest members, joining in 2023 and 2024.\n\nThe strike follows a wider push by Ukraine to hit Russian targets far from the front line, including a Russian warship in the same area earlier this month and strikes on the bridge linking Crimea to Russia. Russia's Leningrad region governor said 80 drones were shot down overnight. Expect tighter maritime and air restrictions in the Gulf of Finland, and more pressure on NATO's eastern flank.",
+    "why_it_matters": "A shooting war is now touching the doorstep of NATO members, raising the risk of a wider conflict that would ripple through global security and trade — something Australia, as a strong backer of Ukraine, is watching closely.",
+    "deep_analysis": "## Historical Context\n\nRussia launched its full-scale invasion of Ukraine in 2022, and the war has steadily widened beyond Ukraine's borders. One major consequence was the end of Finnish and Swedish neutrality: both abandoned decades of non-alignment to join NATO, Finland in 2023 and Sweden in 2024. That turned the Baltic Sea into something close to a \"NATO lake,\" with Russia's Kaliningrad exclave — sitting between Poland and Lithuania — as an isolated and often tense outpost. Over the past year, Ukraine has ramped up long-range drone attacks deep inside Russia, including the Leningrad region, with some drones straying near Baltic airspace.\n\n## Multiple Perspectives\n\nFinland frames the strike as an unfortunate but understandable spillover: PM Orpo says Ukraine has \"the right to fight against the aggressor,\" while stressing Finnish authorities are managing the situation. Estonia's government echoed support for Ukraine. Ukraine itself has stayed silent on this ship, but President Zelensky has broadly justified recent strikes — including on the Crimean Bridge — as a fair response to repeated Russian attacks on Ukrainian bridges and infrastructure. Russia, which calls attacks on its commercial vessels in international waters \"terrorism\" and \"piracy,\" insists there was no threat to Kaliningrad's supplies. The sources note the Sparta II's military links, which complicates any purely \"civilian ship\" characterisation.\n\n## What to Watch\n\nWatch whether Ukraine acknowledges the strike, and what cargo the ship was actually carrying — Finnish officials could not rule out military materiel. Keep an eye on the airspace incident near Loviisa and whether such violations recur, as repeated incursions test NATO's response. More broadly, the question is how far Ukraine pushes its naval and drone campaign into the Baltic, and whether that draws NATO members into a more active protective role around shipping lanes.",
     "concepts": [
      {
-      "term": "emissions trading",
-      "definition": "A system where companies buy and sell permits to emit greenhouse gases, putting a price on carbon pollution; the UK and EU plan to link their two schemes.",
-      "context": "The deal aims to link the UK and EU emissions trading systems from 2028."
+      "term": "Kaliningrad",
+      "definition": "A piece of Russian territory that is separated from the rest of Russia, sitting on the Baltic Sea between Poland and Lithuania.",
+      "context": "The Sparta II was sailing to Kaliningrad when it was attacked, and the exclave is a recurring flashpoint between Russia and NATO."
      },
      {
-      "term": "youth experience scheme",
-      "definition": "A proposed arrangement letting young people from each side travel, work and study in the other's territory for a set period.",
-      "context": "Up to 100,000 young people aged 18 to 31 from each side could take part each year."
+      "term": "exclave",
+      "definition": "A part of a country that is geographically cut off from the main territory and surrounded by other nations.",
+      "context": "Kaliningrad is described as a Russian exclave, which is why resupplying it by sea matters so much to Moscow."
      },
      {
-      "term": "single market",
-      "definition": "The EU's zone of free movement for goods, services, capital and people, which the UK left after Brexit.",
-      "context": "Labour's 2024 manifesto ruled out rejoining the single market, customs union or freedom of movement."
+      "term": "NATO (North Atlantic Treaty Organisation)",
+      "definition": "A military alliance of mostly North American and European countries that promise to defend one another.",
+      "context": "Finland and Sweden recently joined NATO, so fighting near their waters raises fears about the war touching the alliance."
      },
      {
-      "term": "gross domestic product (GDP)",
-      "definition": "The total value of goods and services an economy produces, used as the main measure of its size.",
-      "context": "The Treasury estimates the deal could add up to 0.5% to UK GDP."
+      "term": "sanctions",
+      "definition": "Official penalties, such as trade or financial bans, used by governments to pressure a country or company.",
+      "context": "The Sparta II is under US and Ukrainian sanctions because of its ties to Russia's military logistics."
      }
     ],
     "quiz": {
-     "question": "Why do critics like Kemi Badenoch object to the food export part of the deal?",
+     "question": "Why does the attack on the Sparta II raise particular concern for Finland and its neighbours?",
      "options": [
-      "It bans all British food exports to the EU",
-      "It means the UK must follow some EU rules, making it a 'rule taker'",
-      "It forces the UK back into the single market",
-      "It raises tariffs on European food entering Britain"
+      "The fighting is moving close to NATO territory and their own waters",
+      "Kaliningrad has run out of supplies",
+      "It proves Ukraine has lost control of its drones",
+      "Russia has formally declared war on Finland"
      ],
-     "answer_index": 1,
-     "explanation": "Checks on British food exports would be scrapped in return for the UK following some EU regulations from 2028, which critics argue makes Britain a 'rule taker' from Brussels rather than a rule maker."
+     "answer_index": 0,
+     "explanation": "Finnish and Estonian leaders worry the war is 'spilling over' into neighbouring areas, and both are among NATO's newest members, so a strike and airspace violation near their waters heightens fears of the conflict widening."
     },
-    "background_beginner": "Britain and the European Union have been working out a new relationship ever since the UK voted to leave the bloc in the 2016 Brexit referendum, finally departing more than six years ago. Leaving added extra paperwork and border checks for businesses, farmers and students. The main players now are UK Prime Minister Andy Burnham, who wants warmer ties, and EU leaders Ursula von der Leyen and António Costa. Against closer links are Nigel Farage, a leading Brexit campaigner, and Conservative leader Kemi Badenoch. The topic keeps coming up because people still disagree over how close Britain should be to Europe — and whether it should ever rejoin.",
-    "impact_score": 68,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
+    "background_beginner": "Since Russia invaded Ukraine in 2022, the fighting has gradually spread beyond the front line. Ukraine has started using long-range drones to hit Russian ships, bridges and bases far from the border. The Baltic Sea is a sensitive zone because Finland and Sweden, long neutral, recently joined NATO — a Western military alliance — partly in response to Russia's invasion. Russia also keeps Kaliningrad, an isolated patch of its territory, on the Baltic coast between Poland and Lithuania, and relies on sea routes to supply it. This mix of nervous NATO neighbours, Russian shipping and Ukrainian drone strikes is why incidents in these waters keep making headlines.",
+    "impact_score": 62,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
     "region": "Europe incl. UK, Russia-Ukraine",
     "region_code": "EUROPE",
-    "description": "Britain and the European Union have signed deals on food exports, carbon trading and a youth scheme, while Prime Minister Andy Burnham opened the door to even closer ties.",
+    "description": "A Russian cargo ship heading for Kaliningrad was set alight by drones in the Gulf of Finland, in a strike Finland says Ukraine likely carried out.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o"
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
      },
      {
       "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-21/key-takeaways-from-uk-eu-summit/107406986"
+      "url": "https://www.abc.net.au/news/2026-11-22/russian-cargo-ship-burns-in-baltic-sea-after-drone-strike/107413782"
      },
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit"
+      "name": "DW",
+      "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-all-1573-rdf"
      }
     ],
     "source_count": 3,
     "confidence": 0.8500000000000001,
     "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-20T19:25:26.147900+00:00",
-    "published_date": "2026-11-21",
+    "reading_minutes": 2,
+    "created_at": "2026-11-22T07:25:50.645147+00:00",
+    "published_date": "2026-11-22",
+    "has_fulltext": true
+   },
+   {
+    "id": "39a8a519-30a7-521c-b7fe-544d834e73b3",
+    "title": "Thousands protest across Europe over living costs and housing",
+    "simplified_title": "Thousands protest across Europe over living costs and housing",
+    "quick_summary": "Students, workers and youth groups marched across France, Portugal and other European countries over the weekend, demanding action on rising prices, unaffordable housing and public service cuts.",
+    "simplified_body": "Thousands of people took to the streets across Europe to protest against rising living costs, unaffordable housing and cuts to public services. In France, Saturday marked the sixth consecutive weekend of demonstrations. The Ministry of Interior counted 82,500 people nationwide, including 21,500 in Paris, down from 106,000 the previous weekend; organisers claimed 150,000. Around 70,000 security forces were deployed, and while most protests were peaceful, riot police charged crowds in Paris and there was sporadic violence in Marseille.\n\nThe movement affects a broad mix of people. It began in September with high school students demanding better learning conditions, then grew to include trade unions and the Yellow Vests, a movement that emerged in 2018 over fuel prices and living costs. Protesters have also criticised police violence and a new law increasing protections for officers who use firearms. In Portugal, thousands marched through Lisbon in heavy rain for higher wages and affordable housing, organised by CGTP (Confederação Geral dos Trabalhadores Portugueses), the country's largest trade union federation.\n\nFor newcomers: these protests reflect overlapping worries about economic insecurity, education and future opportunities, though demands and scale differ by country. Portuguese property prices have more than doubled since 2017, and average annual earnings in 2025 sat 37 percent below the European Union (EU) average, according to Eurostat, the EU's statistics agency.\n\nThe protests have spread. Friday saw youth rallies in Germany and Sweden, an Italian strike by the CGIL union disrupting transport and schools, and a German campaign called Gen Z regelt (\"Generation Z takes charge\") in 73 locations. Organisers of an international youth strike planned action in at least 25 countries, and unions have called for more protests in the coming weeks.",
+    "why_it_matters": "Cost-of-living pressure, soaring housing costs and anxiety about young people's futures are driving a wave of unrest across multiple European countries at once — concerns that will feel very familiar to anyone watching the same squeeze play out in Australia.",
+    "deep_analysis": "## Historical Context\n\nFrance's current wave of protests began in mid-September 2025, sparked by high school students demanding better learning conditions. It has since broadened into a nationwide campaign against rising prices, inadequate public services and police brutality. A key thread is the Yellow Vests, a movement that first emerged in 2018 over rising fuel prices and living costs and rattled President Emmanuel Macron's government — this weekend marked its eighth anniversary. Turnout in France has fallen sharply over the six weekends: organisers reported 800,000 on the first rally on 17 October, 200,000 the following week, and 150,000 on Saturday, while the interior ministry's count dropped from 106,000 to 82,500.\n\n## Multiple Perspectives\n\nThe official and organiser figures diverge consistently — for Saturday, the interior ministry said 82,500 while organisers claimed 150,000 — so the true scale is contested. Protesters frame their grievances in stark terms: placards read \"I want to live, not survive\" and union figures describe young people forced to choose \"between having a roof over your head, getting medical care, and being able to eat your fill.\" A new French law increasing protections for officers using firearms is a flashpoint, dubbed a \"licence to kill\" by critics; Interior Minister Laurent Nunez urged vigilance over groups hostile to law enforcement. AFP counts at least 31 people seriously injured by security forces since the protests began, though authorities have not provided an official toll.\n\n## What to Watch\n\nWhether momentum holds matters: French turnout is dwindling, yet unions and activists have called for more protests in coming weeks, and one attendee vowed to return \"as long as we're needed.\" The international dimension is the bigger question — demonstrations were planned in at least 25 countries, spanning education funding, climate action and opposition to compulsory military service. Watch Italy, where union leader Maurizio Landini claimed more than a million participants in Friday's CGIL strike, and Portugal, where housing costs keep climbing.",
+    "concepts": [
+     {
+      "term": "Yellow Vests",
+      "definition": "A French protest movement that first emerged in 2018 over rising fuel prices and living costs, and has rejoined the current demonstrations on its eighth anniversary.",
+      "context": "The movement's return links today's cost-of-living anger to a wave of unrest that shook Macron's government years ago."
+     },
+     {
+      "term": "trade unions",
+      "definition": "Organised groups of workers that campaign collectively for better pay, conditions and public services.",
+      "context": "Unions have been central to the protests, from France to Portugal's CGTP and Italy's CGIL."
+     },
+     {
+      "term": "Eurostat",
+      "definition": "The European Union's official statistics agency, which publishes data on earnings, prices and economies across member states.",
+      "context": "Its figures showed Portuguese earnings in 2025 were 37 percent below the EU average, underlining the economic squeeze behind the marches."
+     }
+    ],
+    "quiz": {
+     "question": "What best explains why these protests have spread across multiple European countries?",
+     "options": [
+      "They were all responding to one new French law",
+      "Overlapping concerns about living costs, housing and young people's futures",
+      "A single political party organised every march",
+      "A natural disaster affected the whole region"
+     ],
+     "answer_index": 1,
+     "explanation": "The sources describe overlapping worries about economic insecurity, housing, education and future opportunities driving protests in several countries, even though specific demands and scale differ. The French police law was just one local flashpoint, not the shared cause."
+    },
+    "background_beginner": "Across Europe, students, workers and young people have been holding street protests about how expensive daily life has become — rent, food, and basic services. The biggest focus is France, where the marches started in September 2025 with high school students and grew to include trade unions (worker organisations) and the \"Yellow Vests,\" a movement that began back in 2018 over fuel prices. Similar rallies have popped up in Portugal, Italy, Germany, Sweden and beyond. The core reason it keeps coming up is simple: wages aren't keeping pace with rising prices and housing costs, so people feel they're struggling to get by and are demanding their governments do something.",
+    "impact_score": 58,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-21T171053Z_1177590545_RC2FSOAHFU7E_RTRMADP_3_PORTUGAL-POLITICS-PROTESTS-1795290649.jpg?resize=1920%2C1440",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "Students, workers and youth groups marched across France, Portugal and other European countries over the weekend, demanding action on rising prices, unaffordable housing and public service cuts.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss"
+     },
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-22T07:26:18.391622+00:00",
+    "published_date": "2026-11-22",
     "has_fulltext": true
    }
   ],
@@ -1136,63 +1113,61 @@
     "has_fulltext": true
    },
    {
-    "id": "684d8661-dead-5c18-98b8-8b58fc527687",
-    "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-    "simplified_title": "US and Venezuela sign military deal a year after Maduro's removal",
-    "quick_summary": "Venezuela's interim government has signed a military co-operation agreement with the United States, less than a year after US forces seized former leader Nicolás Maduro.",
-    "simplified_body": "The United States and Venezuela have re-established military ties. Venezuela's interim government, led by Delcy Rodríguez, signed a military co-operation agreement with US Secretary of Defence Pete Hegseth on Wednesday. Few details have been released, but Hegseth said Venezuela had gone from America's \"most aggressive regional threat to a compliant security partner\" in under 12 months. Rodríguez said the deal would help confront \"common threats\", including training troops and upgrading equipment.\n\nThe deal affects Venezuelans and the wider region because it marks a dramatic shift. Relations hit rock bottom late last year when the US doubled its reward for information leading to Maduro's capture to $50m (£38m) and then seized him in a military raid on 3 January. Maduro and his wife, Cilia Flores, are now in custody in New York on drug-trafficking and conspiracy to commit torture charges, which they deny.\n\nTo understand this, some background helps. Military co-operation was cut off in 2005 by then-president Hugo Chávez, who accused the US military office in Venezuela of being an arm of the Central Intelligence Agency (CIA). Relations worsened further under Maduro, who succeeded Chávez after his death. The new deal is part of what Hegseth called the Americas Counter Cartel Coalition.\n\nHegseth travelled on to neighbouring Colombia, whose president Abelardo de la Espriella is a close Trump ally and already part of the coalition. De la Espriella denied a New York Times report that he had rejected joint US operations, stressing any decision would respect Colombia's sovereignty.",
-    "why_it_matters": "A sharp US military pivot in South America reshapes power in the Western Hemisphere, with flow-on effects for drug-trafficking, regional stability and global oil markets that matter to allies like Australia.",
-    "deep_analysis": "## Historical Context\n\nUS-Venezuela military ties have a fraught past. Co-operation was terminated in 2005 by Hugo Chávez, Venezuela's left-wing president, who accused US personnel of disparaging his government and claimed the US military office at Fuerte Tiuna was \"an organ of the CIA... conspiring against the government\". Relations deteriorated further under Nicolás Maduro, who took over after Chávez died of cancer. By late last year they reached what the article describes as rock bottom, with a $50m bounty on Maduro and his seizure in a military raid on 3 January.\n\n## Multiple Perspectives\n\nHegseth frames the deal triumphantly, casting the January raid as answering Maduro's taunt of \"Come and get me!\" and warning narco-terrorists: \"we will hunt you down, we will find you, and we will kill you\". Interim President Rodríguez, Maduro's former vice-president, calls it \"extraordinarily relevant\" and a turn from \"very difficult moments\" toward \"mutual benefit\". In Colombia, President de la Espriella publicly denied a New York Times report that he rejected joint operations, insisting any decision respects Colombia's constitution and sovereignty — a reminder that regional partners want to manage how far US involvement goes.\n\n## What to Watch\n\nFew details of the deal have been published, so the substance — troop training, equipment and technology — remains unclear. Watch whether joint US operations against armed groups actually materialise in Colombia, how the broader Americas Counter Cartel Coalition expands, and the outcome of Maduro and Flores's New York court case, which they are contesting.",
+    "id": "fbe00002-eaca-58a8-a5ea-d5b378f6d0dc",
+    "title": "FBI reportedly investigating apparent hack of its criminal database",
+    "simplified_title": "FBI probes apparent hack of its criminal database",
+    "quick_summary": "The FBI is reportedly investigating a suspected breach of its national criminal information database, used by police across the US.",
+    "simplified_body": "The Federal Bureau of Investigation (FBI) — the United States' domestic intelligence and security service — is investigating an apparent breach of its criminal information database, according to US media citing two people briefed on the matter. The system involved is the National Crime Information Center (NCIC), which federal and local police use to share details on warrants and background checks. The FBI did not respond to the BBC's request for comment.\n\nThis affects law enforcement right across the US, because the NCIC holds what one former National Security Agency (NSA) analyst, Dan Lorhmann, called \"critical information relating to nationwide criminal activity\". Asked about it in a Fox News interview, President Donald Trump said he had \"just heard\" about the hack and said \"it's not good\", though he added, \"maybe we'll learn things that we would've never learned otherwise\".\n\nThis isn't the first time hackers have targeted the FBI. In September, the agency said it was investigating an apparent breach by cyber-crime group ShinyHunters, which claimed it had stolen sensitive information on all roughly 38,000 bureau staff. The latest news also lands after a string of tech outages last week that hit banking and air traffic control — which officials say were not cyber-attacks — and after White House National Cyber Director Sean Cairncross was fired this week.\n\nSeparately, NBC reported an apparent cyberattack on the US Department of Agriculture (USDA), with staff told on Thursday that its farm payment system had been targeted. The USDA has not commented publicly. Lorhmann said he still has \"faith in our experts in government\", while noting the level of cyber-attacks is rising globally.",
+    "why_it_matters": "A breach of the database that underpins US policing raises serious questions about how safe sensitive government data really is — a worry that echoes globally as cyber-attacks keep rising.",
+    "deep_analysis": "## Historical Context\n\nThe FBI is no stranger to being a target. As the source notes, in September the agency said it was investigating an apparent breach by the cyber-crime group ShinyHunters, which claimed to have stolen sensitive information on all of the bureau's roughly 38,000 staff. After that incident, a former FBI agent told the BBC he feared for the safety of current employees whose personal details could end up online. This latest apparent breach of the National Crime Information Center (NCIC) — the shared warrant and background-check database — fits a broader pattern the source describes of rising cyber-attacks worldwide.\n\n## Multiple Perspectives\n\nPresident Donald Trump offered a mixed reaction, saying he had \"just heard\" about the hack and didn't like it, but suggested \"maybe we'll learn things that we would've never learned otherwise\". Former NSA analyst Dan Lorhmann struck a reassuring but cautious note: he praised US agencies' \"amazing ability\" to protect such data and called them \"globally respected\", while acknowledging attack levels are climbing and saying he retains \"faith in our experts in government\". The FBI itself did not respond to the BBC's request for comment, so its own account of what happened is not yet on the record.\n\n## What to Watch\n\nKey open questions include what data, if any, was actually accessed, and whether the NCIC breach is linked to other recent incidents — the reported USDA farm-payment system attack, last week's banking and air-traffic outages (which officials say were *not* cyber-attacks), and the firing of White House National Cyber Director Sean Cairncross. Watch for official confirmation from the FBI and USDA, both of which had not commented publicly at the time of reporting.",
     "concepts": [
      {
-      "term": "military co-operation agreement",
-      "definition": "A formal pact between two countries to work together on defence matters, such as training troops, sharing equipment and technology.",
-      "context": "Venezuela's interim government signed one with US Secretary of Defence Pete Hegseth."
+      "term": "National Crime Information Center (NCIC)",
+      "definition": "A US database used by federal and local law enforcement to share information on warrants and background checks.",
+      "context": "Reports say this is the FBI database that was apparently breached."
      },
      {
-      "term": "Americas Counter Cartel Coalition",
-      "definition": "A US-led grouping of countries aimed at combating drug cartels and armed groups across the Americas.",
-      "context": "Hegseth described the new deal as part of this coalition, which Colombia had already joined."
+      "term": "ShinyHunters",
+      "definition": "A cyber-crime group that claimed it stole sensitive information on all of the FBI's staff in an earlier breach.",
+      "context": "The FBI said in September it was investigating an apparent breach by this group."
      },
      {
-      "term": "interim government",
-      "definition": "A temporary administration running a country until a more permanent government is established.",
-      "context": "Venezuela's interim government, led by Delcy Rodríguez, signed the deal after Maduro's removal."
+      "term": "US Department of Agriculture (USDA)",
+      "definition": "The US government department responsible for agriculture, including farm payment systems.",
+      "context": "NBC reported a separate apparent cyberattack on the USDA's farm payment system."
      }
     ],
     "quiz": {
-     "question": "Why does the new military deal mark such a dramatic shift in US-Venezuela relations?",
+     "question": "Why is the apparent breach of the NCIC considered significant?",
      "options": [
-      "Venezuela had invaded the United States the previous year",
-      "The two countries had never had any military ties before",
-      "The deal reverses an agreement signed only months earlier",
-      "Just last year the US was offering a $50m reward for Maduro and seized him in a raid"
+      "It is a private banking network",
+      "It is used by federal and local law enforcement to share warrant and background-check information",
+      "It only stores public press releases",
+      "It controls US air traffic control systems"
      ],
-     "answer_index": 3,
-     "explanation": "Relations had hit rock bottom, with the US doubling its reward for Maduro to $50m and seizing him on 3 January — making a co-operation deal less than a year later a stark turnaround."
+     "answer_index": 1,
+     "explanation": "The source explains the NCIC is a database used by federal and local law enforcement to share information on warrants and background checks, making a breach serious for policing nationwide."
     },
-    "background_beginner": "Venezuela is an oil-rich South American country long led by left-wing governments hostile to the United States. Hugo Chávez cut military ties with Washington in 2005, and his successor Nicolás Maduro clashed with the US even more, especially during the Trump administration. Late last year the US put a $50m reward on Maduro and then seized him in a military raid in January, charging him with drug-trafficking. His former vice-president, Delcy Rodríguez, now leads an interim government. This story keeps coming up because the sudden warming of ties — and US military action against \"narco-terrorists\" across Latin America — is reshaping power and security across the region.",
-    "impact_score": 72,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg",
+    "background_beginner": "The FBI (Federal Bureau of Investigation) is the United States' main domestic intelligence and security agency. It runs the National Crime Information Center (NCIC), a database that police around the country rely on to share details about warrants and background checks. Recently, hackers and cyber-crime groups have increasingly targeted big government and company systems to steal sensitive data. This story keeps coming up because the FBI has reportedly been hit before — including a September breach claimed by a group called ShinyHunters — and because a wave of tech outages and other reported attacks in the US has put the spotlight on how well important systems are being protected.",
+    "impact_score": 68,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
     "region": "North & South America",
     "region_code": "AMERICAS",
-    "description": "Venezuela's interim government has signed a military co-operation agreement with the United States, less than a year after US forces seized former leader Nicolás Maduro.",
+    "description": "The FBI is reportedly investigating a suspected breach of its national criminal information database, used by police across the US.",
     "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
+    "category": "SCIENCE_TECH",
     "sources": [
      {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo"
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
-    "related_story_ids": [
-     "eba314c2-876d-5799-949d-c8ead8f1e2ae"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-20T19:25:18.372764+00:00",
-    "published_date": "2026-11-21",
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-22T07:25:32.369528+00:00",
+    "published_date": "2026-11-22",
     "has_fulltext": true
    },
    {
@@ -1539,66 +1514,68 @@
     "has_fulltext": true
    },
    {
-    "id": "880d49fa-8e56-54e9-b53b-76d7788efc66",
-    "title": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for ‘many years’",
-    "simplified_title": "US report warns AUKUS subs would weaken its own navy",
-    "quick_summary": "A new US Congress report warns that selling nuclear-powered submarines to Australia under AUKUS would shrink America's own fleet for many years, raising fresh doubts the deal will go ahead.",
-    "simplified_body": "A new analysis from the US Congressional Budget Office (CBO), released on Friday, warns that handing nuclear-powered submarines to Australia would reduce the US Navy's own attack-submarine fleet \"for many years\". American shipyards are already struggling to build enough boats, and ramping up production to replace any sold to Australia would only deepen that strain.\n\nThis matters for Australia because of AUKUS, the 2021 security pact between Australia, the United Kingdom and the United States. Under \"Pillar One\", the US agreed to sell Australia between three and five in-service Virginia-class submarines starting in 2032. The report questions whether vessels flying the Australian flag could even be used in a US conflict with China, since Australia would control them. Defence Minister Richard Marles said back in 2023 that any Australian submarines would stay \"under the complete control of the Australian government of the day\".\n\nFor background: US shipyards currently build Virginia-class submarines at just 1.13 a year. They need to reach two a year for America's own needs, and 2.33 a year to have spares for Australia. Building a submarine that once took five to six years now takes 10 to 11. US law also says the president can only transfer a boat if doing so won't \"degrade\" American undersea capability, and the US can walk away without penalty.\n\nCritics, including former foreign minister Bob Carr, argue the subs will never arrive. But both governments insist AUKUS is on track, with broad bipartisan support. One alternative being floated: keep the submarines under US command but base them in Australia, so they could be deployed instantly in any crisis over Taiwan.",
-    "why_it_matters": "AUKUS is the centrepiece of Australia's future defence strategy and one of its biggest-ever spending commitments, so warnings from Washington that the promised submarines may never arrive go to the heart of the nation's security planning.",
-    "deep_analysis": "## Historical Context\n\nAUKUS was announced in 2021, tearing up an earlier Australian deal to buy conventional French submarines and pivoting to nuclear-powered boats built with US and UK help. \"Pillar One\" covers the submarines; the plan is for the US to sell Australia three to five in-service Virginia-class vessels from 2032, bridging the gap until Australia and the UK build a new class of their own. From the start, the sticking point has been America's own shipbuilding capacity, which has slowed markedly over two decades.\n\n## Multiple Perspectives\n\nThe CBO frames the trade-off bluntly: selling boats to Australia weakens the US fleet \"for many years\", yet notes the loss could be \"more than offset\" because Australian submarines based in the Western Pacific could respond faster to a Taiwan or South China Sea crisis — though only if Australia chose to join. Marles insists \"AUKUS is happening\", and US Defense Secretary Pete Hegseth reaffirmed support in September. Sceptics like Bob Carr say both capitals are \"living a lie\". The Congressional Research Service has floated keeping the subs under US command but operating them from Australian bases, which would guarantee their availability in a conflict.\n\n## What to Watch\n\nWatch the US submarine build rate — whether it climbs toward the two-plus-a-year figure needed. Watch how the US Navy's shipbuilding plan treats AUKUS, given it currently relegates the transfer to a footnote. And watch whether Washington leans toward the \"alternative division of labour\" that keeps command of the boats.",
+    "id": "015ae160-04f3-5ca3-9e75-b9844e7c929e",
+    "title": "'They are wrong': Defence minister denies US report on AUKUS submarines",
+    "simplified_title": "Marles Rejects US Report Warning AUKUS Will Weaken US Navy",
+    "quick_summary": "Australia's Defence Minister says a US budget office is \"wrong\" to warn that selling submarines to Australia under AUKUS would weaken the US Navy for years.",
+    "simplified_body": "Australia's Defence Minister Richard Marles has pushed back hard against a report from the US Congressional Budget Office (CBO), the independent agency that analyses budget matters for the US Congress. The report, released on Friday, warned that the US submarine industry is already struggling to meet the Navy's demand, and that selling nuclear-powered submarines to Australia under AUKUS would cut the number of attack submarines available to the US Navy \"for many years\". Marles told ABC's Insiders flatly that the CBO was wrong, insisting American production is increasing and that \"AUKUS is very much happening\".\n\nThis matters for Australia because AUKUS — a security pact between Australia, the United Kingdom and the United States — is meant to deliver Australia its first Virginia-class nuclear submarine by the early 2030s. Marles said the next big milestone is the Submarine Rotational Force — West, where US and UK boats will rotate through HMAS Stirling in Western Australia from late next year, letting Australian sailors learn naval nuclear propulsion.\n\nMarles also waved off fresh concerns about artificial intelligence (AI). US President Donald Trump has threatened \"tremendous taxes\" on American AI companies that build data centres overseas, just as Australia's data-centre boom has drawn a record $35 billion. Separately, ASIO chief Mike Burgess warned that foreign actors building data centres here could covertly access sensitive information. Marles called it \"a concern\" but said the government was mindful of cybersecurity.\n\nWhat happens next is a balancing act: Australia wants the investment, but Home Affairs Minister Tony Burke says ownership structures must be watched carefully. Marles expects more sceptical reports like the CBO's over the next decade.",
+    "why_it_matters": "AUKUS is the single biggest defence deal in Australia's history, so doubts from a respected US agency about whether America can actually spare the submarines go to the heart of the country's future security.",
+    "deep_analysis": "## Historical Context\n\nAUKUS was announced in 2021 as a landmark pact between Australia, the United Kingdom and the United States, with its centrepiece being the eventual supply of nuclear-powered submarines to Australia. The plan hinges on Australia buying US-built Virginia-class submarines in the early 2030s before a jointly developed boat arrives later. A persistent worry throughout has been whether American shipyards can build fast enough to arm both navies — exactly the concern the Congressional Budget Office has now put in writing.\n\n## Multiple Perspectives\n\nThe CBO, an independent analytical body, argues plainly that the US submarine industrial base is already stretched and that handing boats to Australia would shrink America's attack-submarine fleet for years. Marles rejects this outright, saying US production is \"absolutely increasing\" and pointing to sustainment and maintenance as equally important. On AI data centres, Trump wants the industry kept at home and threatens taxes on firms that build abroad, while Marles frames offshore investment as reducing US vulnerability and good for Australia — provided it's \"on our terms\". ASIO's Mike Burgess and Tony Burke stress the security risks that come with hosting such infrastructure.\n\n## What to Watch\n\nThe near-term test is the Submarine Rotational Force — West at HMAS Stirling, due around late 2026. Watch whether US production figures back Marles or the CBO, how Trump's data-centre tax threat lands on the $35 billion Australian boom, and how Australia polices foreign ownership of data centres without scaring off the investment it wants.",
     "concepts": [
      {
-      "term": "Virginia-class submarines",
-      "definition": "A class of nuclear-powered US attack submarines that America has agreed to sell to Australia under AUKUS.",
-      "context": "The deal involves selling three to five in-service Virginia-class submarines starting in 2032."
-     },
-     {
-      "term": "Pillar One",
-      "definition": "The part of the AUKUS pact dealing with providing Australia with nuclear-powered submarines.",
-      "context": "Under Pillar One, the US agreed to transfer submarines to Australia."
+      "term": "AUKUS",
+      "definition": "A security partnership between Australia, the United Kingdom and the United States, best known for its plan to give Australia nuclear-powered submarines.",
+      "context": "It is the deal the Defence Minister insists is 'very much happening' despite the US report's warnings."
      },
      {
       "term": "Congressional Budget Office (CBO)",
-      "definition": "A non-partisan US government agency that analyses the budgetary and economic impact of policies for Congress.",
-      "context": "The CBO released the detailed analysis warning about fleet impacts."
+      "definition": "An independent US agency that analyses budget and economic matters for the US Congress.",
+      "context": "Its report warned that selling submarines to Australia would reduce the US Navy's attack-submarine fleet for years."
      },
      {
-      "term": "AUKUS",
-      "definition": "A 2021 security partnership between Australia, the United Kingdom and the United States.",
-      "context": "The submarine sale sits at the heart of the AUKUS agreement."
+      "term": "Virginia-class nuclear submarine",
+      "definition": "A class of US-built nuclear-powered attack submarine that Australia is due to buy.",
+      "context": "Australia is meant to receive its first one in the early 2030s under AUKUS."
+     },
+     {
+      "term": "Submarine Rotational Force — West",
+      "definition": "A planned arrangement for US and UK nuclear-powered submarines to rotate through HMAS Stirling in Western Australia.",
+      "context": "Marles calls it the first milestone, letting Australian sailors gain nuclear-propulsion experience."
      }
     ],
     "quiz": {
-     "question": "Why does the CBO report question whether submarines sold to Australia would help the US in a conflict with China?",
+     "question": "Why does the Congressional Budget Office say selling submarines to Australia is a problem for the US?",
      "options": [
-      "Because Australia has refused to base them in the Pacific",
-      "Because the submarines would be too slow to reach the Pacific",
-      "Because Australia would control the submarines and their participation isn't guaranteed",
-      "Because the submarines would be unarmed"
+      "US shipyards are already struggling to meet the Navy's own demand",
+      "The submarines would be built in Australia instead of the US",
+      "Australia lacks sailors trained in nuclear propulsion",
+      "The submarines are too expensive for Australia to afford"
      ],
-     "answer_index": 2,
-     "explanation": "The report notes Australia would control its own submarines, and Marles said any deployment would be under the complete control of the Australian government of the day — so their involvement in a US conflict isn't guaranteed."
+     "answer_index": 0,
+     "explanation": "The CBO report says the US submarine industrial base is already struggling to meet the Navy's demand, so supplying Australia would further reduce America's available attack submarines for many years."
     },
-    "background_beginner": "AUKUS is a 2021 defence pact between Australia, the United Kingdom and the United States. Its headline promise is to give Australia nuclear-powered submarines — among the most capable in the world — partly by having the US sell Australia some of its existing Virginia-class boats from 2032. The catch is that American shipyards are already behind on building enough submarines for the US Navy itself. That tension keeps resurfacing: each new report asks whether the US can really spare any boats, and whether Australian-controlled submarines would even be available if the US went to war with China. It's a big, expensive, politically charged deal, so every warning about it makes headlines.",
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/36abe0c07983d9517697ee58dc02f807e9128811/1204_0_6827_5464/master/6827.jpg?width=1920&quality=85&auto=format&fit=max&s=5ed84caf0c707d448f57d9de942d6c28",
+    "background_beginner": "AUKUS is a 2021 defence pact between Australia, the UK and the US. Its main goal is to give Australia nuclear-powered submarines — first American-built Virginia-class boats, then a jointly designed one. Richard Marles is Australia's Defence Minister and a strong backer of the deal. The sticking point that keeps coming up is whether US shipyards can build submarines fast enough for both the American and Australian navies. A US Congressional Budget Office report says they can't easily, which Marles disputes. Alongside this, there's growing debate about artificial intelligence data centres — huge computing facilities — being built in Australia, and the security risks and opportunities they bring.",
+    "impact_score": 68,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/5d642a6feac9acfd2d7f1cbd983059a7?impolicy=wcms_watermark_news&cropH=1125&cropW=2000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
     "region": "Australian defence, ADF, AUKUS, regional security",
     "region_code": "ADF",
-    "description": "A new US Congress report warns that selling nuclear-powered submarines to Australia under AUKUS would shrink America's own fleet for many years, raising fresh doubts the deal will go ahead.",
+    "description": "Australia's Defence Minister says a US budget office is \"wrong\" to warn that selling submarines to Australia under AUKUS would weaken the US Navy for years.",
     "tier": "GLOBAL",
     "category": "POLITICS_POLICY",
     "sources": [
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years"
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-22/federal-politics-richard-marles-aukus-submarines-ai-datacentres/107413880"
      }
     ],
     "source_count": 1,
     "confidence": 0.55,
-    "related_story_ids": [],
+    "related_story_ids": [
+     "880d49fa-8e56-54e9-b53b-76d7788efc66"
+    ],
     "reading_minutes": 3,
-    "created_at": "2026-11-20T19:25:21.130412+00:00",
-    "published_date": "2026-11-21",
+    "created_at": "2026-11-22T07:25:37.279064+00:00",
+    "published_date": "2026-11-22",
     "has_fulltext": true
    },
    {
@@ -1666,85 +1643,6 @@
    }
   ],
   "AI_TECH": [
-   {
-    "id": "6af20230-cb09-51f1-b47a-f70287cba5e5",
-    "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-    "simplified_title": "Anthropic's record IPO can't stop a global AI sell-off",
-    "quick_summary": "Anthropic pulled off the biggest stock market float in history, but its shares wobbled and a jittery AI sell-off dragged markets down worldwide.",
-    "simplified_body": "Anthropic, the US company behind the Claude chatbot, floated on the Nasdaq exchange on Thursday in the largest initial public offering (IPO) ever, raising about $81bn and topping SpaceX's previous $75bn record. Shares priced at $83 briefly soared as high as $111.50 before closing their first day around $97, valuing the firm at roughly $1.3tn. By Friday the mood soured: shares fell as much as 12% back towards their launch price, and the Nasdaq wiped out all its 2026 gains.\n\nThe drop rippled far beyond one company. Chipmakers SanDisk and Micron fell sharply, and Nvidia dropped 7% after California subpoenaed it over whether its chips reached China. Asian markets had their worst week since 2020, with Taiwan, Japan and South Korea all sliding, and Japan's SoftBank falling 14.5%. In Europe, the Stoxx 600 and London's FTSE 100 both tumbled.\n\nAnthropic, founded in 2021, has grown revenue explosively but is burning huge sums on \"compute\" — the processing power from semiconductor chips in datacentres that trains its models. Investors are increasingly asking whether AI firms can earn enough to justify the billions being poured in. The S&P 500 and Dow briefly entered correction territory, meaning a fall of at least 10% from recent highs.\n\nNot everyone is cheering. Anti-AI protesters rallied in New York and San Francisco, raising concerns about the environment, surveillance and ties to immigration enforcement. One group called for a ban on \"recursive self-improvement\", where AI trains itself to get smarter — something chief executive Dario Amodei himself has warned could outrun human control. Analysts say the coming weeks will test whether this is a short dip or a deeper reckoning for the AI boom.",
-    "why_it_matters": "When Wall Street's AI darlings sneeze, Australian super funds and the ASX catch a cold — and Taiwan's TSMC, which makes the world's advanced chips, falling nearly 7% shows how exposed the whole region is to AI jitters.",
-    "deep_analysis": "## Historical Context\n\nAnthropic was founded in 2021 by former staff from rival labs and built its reputation on the Claude family of AI models and a strong \"AI safety\" message. Its float is a landmark because it is the first frontier AI lab — one building the most advanced models — to go public, and because at about $81bn it is the largest IPO on record, surpassing SpaceX's $75bn raise in June. That makes it a bellwether: a single company whose fortunes are read as a verdict on the entire AI boom.\n\n## Multiple Perspectives\n\nBulls, like the analysts at Yorkville Ives, framed the IPO as proof the \"AI Revolution growth thesis is not waning\", pointing to revenue that leapt to $16.2bn in the first half of 2026 from $4.6bn for all of 2025. Sceptics counter that Anthropic lost $104bn over nine months and that investors are now \"questioning whether the correction has further to run\". One analyst even suggested the mega-IPO was draining liquidity, forcing investors to sell other tech stocks to buy in. Meanwhile protesters outside Nasdaq and in San Francisco argued the deeper problem is putting \"profit before safety\", raising environmental, surveillance and immigration-enforcement concerns.\n\n## What to Watch\n\nWatch whether Anthropic's shares hold above their $83 launch price or slip below it. Keep an eye on chipmakers — Nvidia's California subpoena and the fallout from Jensen Huang's resignation could unsettle the sector further. Broader signals matter too: the US dollar at a 19-month high, gold's worst week since March, and Bitcoin below $60,000 all hint at investors pulling back from risk.",
-    "concepts": [
-     {
-      "term": "initial public offering (IPO)",
-      "definition": "The first time a private company sells its shares to the public on a stock exchange, letting anyone buy a slice of it and raising money for the business.",
-      "context": "Anthropic's IPO raised about $81bn, the largest ever."
-     },
-     {
-      "term": "compute",
-      "definition": "The raw processing power from arrays of semiconductor chips, usually in datacentres, needed to train and run AI models.",
-      "context": "Compute is Anthropic's single largest expense as it builds more advanced models."
-     },
-     {
-      "term": "correction territory",
-      "definition": "When a market index falls at least 10% from a recent high, a common marker that a downturn has become significant.",
-      "context": "The S&P 500 and Dow briefly entered correction territory during the sell-off."
-     },
-     {
-      "term": "recursive self-improvement",
-      "definition": "A process where an AI system trains itself to become more capable, potentially speeding up faster than people can oversee.",
-      "context": "Protesters called for a global ban on recursive self-improvement."
-     }
-    ],
-    "quiz": {
-     "question": "Why did some analysts suggest Anthropic's huge IPO may have actually hurt other tech stocks?",
-     "options": [
-      "Anthropic bought shares in its rivals to weaken them",
-      "Anthropic's chatbot gave bad investment advice",
-      "Investors sold other tech shares to raise cash to buy Anthropic, draining market liquidity",
-      "The IPO forced regulators to ban trading in chipmakers"
-     ],
-     "answer_index": 2,
-     "explanation": "Analyst Chris Beauchamp suggested the mega-IPO could be draining liquidity, as investors sold shares in other companies to fund their Anthropic purchases, putting pressure on rival tech names."
-    },
-    "background_beginner": "Anthropic is a US company started in 2021 that builds artificial intelligence, including the Claude chatbot, and markets itself as focused on making AI safe. \"Going public\", or an IPO, means a company sells shares so anyone can invest; Anthropic just did the biggest one ever, raising around $81bn. This matters because Anthropic is the first major \"frontier\" AI lab to list on the stock market, so investors treat it as a test of whether the whole AI boom — and the enormous spending behind it — is worth the money. When its shares swing, markets around the world react, which is why it keeps making headlines.",
-    "impact_score": 78,
-    "image_url": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=1920&quality=85&auto=format&fit=max&s=424e752e4e8d3cd344bf63a935b28bd2",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "Anthropic pulled off the biggest stock market float in history, but its shares wobbled and a jittery AI sell-off dragged markets down worldwide.",
-    "tier": "GLOBAL",
-    "category": "ECONOMY_MARKETS",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [
-     "073a5764-7eae-5d10-902a-5a2ab4c0a032",
-     "0da59b02-7964-59c9-bd4b-6036514dec0b",
-     "34b8ef30-194a-5ef1-bbd8-94c9b8a41005",
-     "6cb13f18-06c8-5ced-852d-900c0cb2b1da",
-     "73bfcf03-93c6-577e-b99d-0de921d5e328",
-     "8c2b781d-7d14-577b-bf17-cd85475f7b64",
-     "9c0637c4-f196-5a71-874a-bf36100d732e"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-20T19:25:35.681563+00:00",
-    "published_date": "2026-11-21",
-    "has_fulltext": true
-   },
    {
     "id": "129e5440-280f-5bd4-86fc-caf0a3215af9",
     "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
@@ -1817,6 +1715,69 @@
     "has_fulltext": true
    },
    {
+    "id": "22c32b3f-9e7e-5e79-9568-b2326384f482",
+    "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+    "simplified_title": "Meta Rethinks 2030 Net-Zero Goal as AI Emissions Spike",
+    "quick_summary": "Meta says it's re-evaluating its 2030 net-zero emissions target after its carbon footprint jumped to a record high, driven by its rapid build-out of AI data centres.",
+    "simplified_body": "Meta has signalled it may walk back its goal of reaching net-zero emissions by 2030. In its 2026 sustainability report, published on 19 November 2026, executives Rachel Peterson and Blair Swedeen wrote that \"our long-term ambitions haven't changed, but our operating environment has,\" blaming demand for artificial intelligence (AI) infrastructure that \"has grown faster than almost anyone projected.\" They say they're re-evaluating timelines, sequencing and interim milestones, including the 2030 net-zero date.\n\nThis matters because Meta's emissions are climbing fast. The report says total emissions surged from 15.6 million metric tonnes of carbon dioxide equivalent in 2024 to more than 21.7 million in 2025 — a record percentage jump larger than any other Big Tech rival. That footprint is now roughly comparable to the entire US state of Idaho, and bigger than states like Hawaii, Maine, South Dakota and New Hampshire. Much of the rise came from \"capital goods\" like data centre servers.\n\nNet-zero means cutting greenhouse gas emissions as close to zero as possible and offsetting the rest. The catch for tech giants is that running AI needs enormous amounts of electricity, and many of these hyperscale data centres still rely on burning natural gas, even as companies invest in renewables.\n\nWhat happens next is the real question. Meta's admission is notable because rivals Amazon, Google and Microsoft have all stuck by their original sustainability goals so far — though all of them acknowledge the same tension between green promises and the breakneck AI buildout.",
+    "why_it_matters": "When one of the world's biggest tech firms admits its climate deadline may slip because of AI, it's a warning sign about the hidden environmental cost of the technology now woven into everyday apps — including ones millions of Australians use daily.",
+    "deep_analysis": "## Historical Context\n\nOver the past decade, the major US tech companies competed to look like climate leaders, each pledging ambitious targets such as net-zero or carbon-negative operations around 2030. Meta's 2030 net-zero goal sat squarely in that pack. Those pledges were made before the current generative-AI boom, when projections for data-centre growth were far more modest. The arrival of large AI models changed the maths dramatically, as training and running them demands huge, sustained amounts of electricity.\n\n## Multiple Perspectives\n\nMeta frames this as pragmatism, not retreat — its executives insist \"long-term ambitions haven't changed\" while the \"operating environment has,\" and promise transparent year-over-year reporting. Critics will read a softened deadline as a climate pledge quietly eroding under commercial pressure. Notably, Amazon, Google and Microsoft have so far publicly held their original targets, which makes Meta an outlier in openly reconsidering. That said, the article notes all these firms acknowledge the same underlying challenge and are still building data centres that burn natural gas, so the difference may be candour rather than substance.\n\n## What to Watch\n\nKeep an eye on whether Meta formally revises or abandons the 2030 date, and what new interim milestones it sets. Watch too whether its rivals follow suit now that one major player has broken ranks — and how the gap between renewable-energy investments and continued reliance on natural gas plays out as emissions keep climbing.",
+    "concepts": [
+     {
+      "term": "net-zero",
+      "definition": "Cutting greenhouse gas emissions as close to zero as possible and offsetting any remaining emissions, so your net contribution to the atmosphere is zero.",
+      "context": "Meta is re-evaluating its goal of reaching net-zero emissions by 2030."
+     },
+     {
+      "term": "data centres",
+      "definition": "Large facilities full of computer servers that store data and run software — including the power-hungry systems behind AI.",
+      "context": "Much of Meta's emissions increase came from capital goods like data centre servers."
+     },
+     {
+      "term": "carbon dioxide equivalent",
+      "definition": "A standard unit that combines different greenhouse gases into a single figure based on their warming effect.",
+      "context": "Meta's emissions rose to more than 21.7 million metric tonnes of carbon dioxide equivalent in 2025."
+     },
+     {
+      "term": "capital goods",
+      "definition": "Physical assets a company buys to run its business, such as machinery or servers, as opposed to everyday consumables.",
+      "context": "Meta attributed much of its emissions increase to capital goods like data centre servers."
+     }
+    ],
+    "quiz": {
+     "question": "Why is Meta reconsidering its 2030 net-zero target?",
+     "options": [
+      "Renewable energy became too expensive to buy",
+      "Demand for AI infrastructure grew faster than projected, pushing emissions up",
+      "Governments forced it to change the deadline",
+      "Its rivals all abandoned their climate goals first"
+     ],
+     "answer_index": 1,
+     "explanation": "Meta's executives attributed the rethink to AI infrastructure demand growing 'faster than almost anyone projected,' which drove its emissions to a record high. Notably, rivals Amazon, Google and Microsoft have so far kept their original goals."
+    },
+    "background_beginner": "Meta is the US tech giant that owns Facebook, Instagram and WhatsApp. Like other big tech firms, it once promised to reach \"net-zero\" emissions — effectively cancelling out its climate pollution — by 2030. But the recent explosion in artificial intelligence (AI) has changed things. Running AI requires massive \"data centres\" full of servers that guzzle electricity, often generated by burning natural gas. As companies race to build these facilities, their emissions are rising instead of falling. This topic keeps coming up because it pits the tech industry's climate promises against its hunger to dominate AI — and Meta is now the first major player to publicly question whether it can hit its 2030 goal.",
+    "impact_score": 68,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-2560x1440.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "Meta says it's re-evaluating its 2030 net-zero emissions target after its carbon footprint jumped to a record high, driven by its rapid build-out of AI data centres.",
+    "tier": "GLOBAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-22T07:26:04.121693+00:00",
+    "published_date": "2026-11-22",
+    "has_fulltext": true
+   },
+   {
     "id": "01e1b8f2-bfaa-5275-b139-4afd79e3761e",
     "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
     "simplified_title": "Trump threatens penalties on US tech firms building data centres overseas",
@@ -1877,8 +1838,66 @@
     "created_at": "2026-11-21T07:24:55.646281+00:00",
     "published_date": "2026-11-21",
     "has_fulltext": true
+   },
+   {
+    "id": "96e23887-5a8e-5c1c-9476-109448458c6d",
+    "title": "Google rolls out new search homepage with AI chat history and no search button",
+    "simplified_title": "Google Redesigns Search Homepage, Drops the Search Button",
+    "quick_summary": "Google has rolled out a new desktop search homepage that adds artificial intelligence (AI) features and quietly removes the dedicated Google Search button.",
+    "simplified_body": "Google has officially launched a redesigned desktop homepage for Google.com after a few weeks of testing. The new look adds several buttons under the search bar, all tied to AI tools: one for image generation, one for analysing files, and one for brainstorming with Gemini, Google's AI chatbot. The familiar \"I'm Feeling Lucky\" button stays, but the dedicated Google Search button that used to sit beside it is gone.\n\nThis affects pretty much anyone who uses Google on a desktop, which is a huge chunk of the world. The change leans into easier access to AI chats and reflects how quickly Google's classic search is being reshaped into an AI experience. Google search vice-president (VP) Robby Stein confirmed the rollout on X after what he called a successful test.\n\nFor newcomers: the search button has been part of Google's homepage essentially forever. But in the modern interface it sat awkwardly — when you start typing, the autocomplete suggestions cover it up, so you had to click out of the text box to reach it. Most people just hit the Enter key to run a search anyway, making the button a bit redundant.\n\nWhat happens next is more of the same, by the look of it. Google is moving fast to fold AI into even its most time-tested features, so expect further tweaks to search as Gemini and related tools become more central to the experience.",
+    "why_it_matters": "Google search is the default front door to the internet for most Australians, so even small changes to its homepage quietly reshape how millions of people find information every day.",
+    "deep_analysis": "## Historical Context\n\nGoogle's homepage has long been famous for its minimalism: a logo, a search box, and two buttons — \"Google Search\" and \"I'm Feeling Lucky\". That simplicity became an icon of the web. Over the years the interface has gradually modernised, and as the article notes, the search button's position grew awkward because autocomplete suggestions would cover it while you typed. Removing it formalises what many people already did by just pressing Enter.\n\n## Multiple Perspectives\n\nFrom Google's point of view, the redesign — confirmed by search VP Robby Stein after a successful test — streamlines the page and surfaces newer AI tools like image generation, file analysis and brainstorming with Gemini. For everyday users, losing the search button changes little in practice, since the Enter key does the same job. More broadly, the shift signals a view of search as an \"AI experience\" rather than a simple keyword box, which some will welcome and others may see as Google reshaping a tool they relied on being stable and predictable.\n\n## What to Watch\n\nKeep an eye on how far the AI features expand across search, and whether the \"I'm Feeling Lucky\" button — the last of the old pair — eventually goes too. It's also worth watching whether these changes stay desktop-only or spread, and how users react to AI tools taking a more prominent spot on a page that was once defined by its restraint.",
+    "concepts": [
+     {
+      "term": "Gemini",
+      "definition": "Google's artificial intelligence chatbot, now built into search tools for tasks like brainstorming.",
+      "context": "The new homepage adds a button for brainstorming with Gemini directly under the search bar."
+     },
+     {
+      "term": "autocomplete",
+      "definition": "The feature that predicts and suggests full search queries as you type the first few letters.",
+      "context": "Autocomplete suggestions used to cover the old search button, making it awkward to click."
+     },
+     {
+      "term": "image generation",
+      "definition": "Using AI to create pictures from a text description rather than finding existing images.",
+      "context": "One of the new AI buttons on Google's redesigned homepage is for image generation."
+     }
+    ],
+    "quiz": {
+     "question": "Why does removing the Google Search button make little practical difference for most users?",
+     "options": [
+      "Google removed the search box as well",
+      "Nobody uses Google on desktop anymore",
+      "The button never actually worked",
+      "Most people already run searches by pressing the Enter key"
+     ],
+     "answer_index": 3,
+     "explanation": "The article notes the button was awkwardly placed and that pressing Enter already runs a search, so most people didn't rely on the button."
+    },
+    "background_beginner": "Google is the world's most-used search engine, and its homepage — a plain box where you type what you're looking for — has barely changed in style for decades. In recent years Google has been racing to add artificial intelligence (AI), software that can answer questions, write text and make images. Its AI chatbot is called Gemini. As AI tools spread, Google keeps reworking even its oldest features to put them front and centre. This story keeps coming up because every tweak to Google's search page affects billions of people, so even small design changes get noticed and debated.",
+    "impact_score": 42,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+    "region": "AI and technology",
+    "region_code": "AI_TECH",
+    "description": "Google has rolled out a new desktop search homepage that adds artificial intelligence (AI) features and quietly removes the dedicated Google Search button.",
+    "tier": "GLOBAL",
+    "category": "SCIENCE_TECH",
+    "sources": [
+     {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 1,
+    "created_at": "2026-11-22T07:26:03.574868+00:00",
+    "published_date": "2026-11-22",
+    "has_fulltext": true
    }
   ]
  },
- "total_stories": 28
+ "total_stories": 29
 }
