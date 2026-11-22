@@ -1,77 +1,147 @@
 {
- "date": "2026-11-22",
- "generated_at": "2026-11-22T07:23:04.339553+00:00",
+ "date": "2026-11-23",
+ "generated_at": "2026-11-22T19:23:04.272491+00:00",
  "regions": {
   "OCEANIA": [
    {
-    "id": "4f862455-71ff-5d7a-b97b-8d167c56cfd2",
-    "title": "Questions over future for Australian workers as mass lay-offs hit",
-    "simplified_title": "AI and a slowing economy drive a wave of Australian job cuts",
-    "quick_summary": "Australia's unemployment rate has jumped to 4.9% as mass lay-offs hit white-collar workers, with artificial intelligence and offshoring blamed alongside a deliberately slowing economy.",
-    "simplified_body": "More Australians are losing their jobs. The unemployment rate jumped to 4.9% in October — the highest since the COVID pandemic — as 17,800 more people found themselves out of work. Big names are shedding staff: Qantas is cutting 850 jobs in a deal with consulting firm Accenture, retailer General Pants went into administration (putting 500 jobs in doubt), and around 1,500 roles went at David Jones. Cuts at Bunnings, Canva, Atlassian, National Australia Bank and Commonwealth Bank have also been linked, at least partly, to artificial intelligence (AI) and technological change.\n\nThis hits experienced white-collar workers hardest. Tom Kearney, who spent 17 years in advertising, has been made redundant four times since 2019 and is now selling his home after falling behind on mortgage repayments. He's put in more than 100 job applications since February and landed just three interviews. Many workers in their 40s and 50s worry they may have to retrain for entirely new careers.\n\nSome background: the Reserve Bank of Australia (RBA) has been lifting interest rates to cool the economy and contain inflation. One economist calls rising unemployment the \"collateral damage\" the RBA expected. Experts note there's little hard evidence AI is yet causing widespread job losses — but unions fear some firms use AI as a \"Trojan horse\" to move jobs offshore without scrutiny.\n\nEconomists expect interest rates to stay on hold next month, and unemployment could tip past 5%. Researchers point to overseas models — Germany's \"works councils\" and Denmark's \"flexicurity\" system — as ways to give workers a fairer go as AI reshapes work.",
-    "why_it_matters": "This is a distinctly Australian story: household-name employers like Qantas, David Jones and the big banks are cutting jobs just as mortgage and cost-of-living pressures bite, raising hard questions about who protects workers when technology reshapes their careers.",
-    "deep_analysis": "## Historical Context\n\nJob losses from new technology aren't new — mechanisation, computers and offshoring have each reshaped the workforce before. What's different now is the speed and the targets: AI tools are spreading across white-collar roles once thought safe, from advertising to banking. Layered on top is a deliberate economic slowdown. The Reserve Bank of Australia (RBA) has been using interest rate rises to tame inflation, and slower growth with higher unemployment is the expected cost. The current 4.9% jobless rate is the highest of the post-COVID era, and it climbed faster than the RBA anticipated.\n\n## Multiple Perspectives\n\nThere's genuine disagreement here. Groups like the Business Council of Australia frame AI as an opportunity — higher productivity and better wages. Researchers counter that AI can intensify work, cause burnout and weaken workers' bargaining power, and that there's little evidence so far of AI causing widespread unemployment. Unions worry firms use \"AI transformation\" as cover for plain cost-cutting and offshoring. Economists read the jobs figures two ways: as proof the RBA's braking is working, or as a sign the economy \"already has one foot in a recession.\" Meanwhile workers like Tom Kearney simply want to know what older, experienced people are supposed to pivot into.\n\n## What to Watch\n\nWatch the RBA's next rates decision — economists expect a hold, and some think rate hikes may be done for a while. Watch whether unemployment tips past 5%. Policy-wise, the federal government has released only a voluntary guide encouraging firms to consult workers on AI; the debate is whether that becomes enforceable, borrowing from Germany's consultation rules or Denmark's \"flexicurity\" safety net. And watch whether more household-name employers announce AI-linked cuts.",
+    "id": "686216fb-cd2f-5f0e-97db-291c8d354309",
+    "title": "Australia may be headed for recession, former Federal Reserve economist says",
+    "simplified_title": "Could Australia Be Heading for Recession? A US Rule Suggests Maybe",
+    "quick_summary": "Australia's jobless rate is climbing fast enough that a recession warning tool called the \"Sahm rule\" could be triggered as early as December, though the Reserve Bank isn't forecasting a recession.",
+    "simplified_body": "Australia's unemployment rate jumped to 4.9 per cent in October — its highest level since 2021. Almost 44,000 jobs were lost in the month, leaving more than 750,000 Australians out of work. Because unemployment is rising quickly, some economists worry the Reserve Bank of Australia's (RBA) fight against inflation could tip the economy into recession.\n\nA lot of the attention is on the \"Sahm rule\", an early-warning indicator created by former US Federal Reserve economist Claudia Sahm. It watches how fast unemployment rises rather than waiting for official output figures. For Australia, it flashes a warning when the average jobless rate over three months is 0.75 percentage points above the lowest rate of the past year. Right now Australia sits at 0.6, so it hasn't triggered yet.\n\nTraditionally, a \"technical recession\" means two straight quarters (six months) of shrinking economic output — but that can only be confirmed up to nine months after it begins. Independent economist Saul Eslake says the Sahm rule gives an earlier read, like looking through the windscreen instead of the rear-view mirror. Previously unpublished RBA research from January 2020 shows the bank itself experimented with applying the rule to Australia.\n\nEslake says if unemployment keeps drifting up at its recent pace (0.06 of a percentage point a month), the rule could trigger in December, confirmed when data is published on 21 January. He stresses he isn't forecasting that — just flagging a risk that would raise questions about whether the RBA lifted rates too far. The RBA says it is not forecasting a recession at this stage.",
+    "why_it_matters": "This is squarely about Australia: rising joblessness and five rate rises this year mean many households may soon feel poorer, and RBA governor Michele Bullock has warned it could feel like a recession even if the official figures never record one.",
+    "deep_analysis": "## Historical Context\n\nAustralia has long leaned on the \"technical recession\" definition — two consecutive quarters of falling economic output. The problem is timing: that can only be confirmed up to nine months after a downturn has already begun. The article notes this measure can also miss sharp, short shocks; Eslake points to 1974, when the economy shrank 2 per cent in a single quarter yet never met the two-quarter test. The Sahm rule, created by Claudia Sahm in the US, was designed to spot trouble faster by tracking the speed of rising unemployment. The article says RBA researchers were studying how to apply it to Australia as early as January 2020, just before COVID-19, and discussed it again in a formal 2024 paper.\n\n## Multiple Perspectives\n\nThere's genuine disagreement here. Sahm herself told the ABC a recession is \"entirely possible\" within six to 12 months, warning that rising unemployment can \"snowball\" and that central banks have \"a long history of doing too much\". Eslake agrees the rule is a useful early warning and says it could trigger in December — but is careful to say he is not forecasting that outcome. The RBA takes a different view: chief economist Sarah Hunter told a parliamentary hearing in October that the indicators did not suggest a recession was near, and the bank is not forecasting one. Governor Michele Bullock sits somewhere in between, warning the economy will slow \"markedly\" and that people may feel like they're in a recession because they feel poorer.\n\n## What to Watch\n\nThe next unemployment data, due 21 January, is the key date — it will show whether the three-month average has pushed past the 0.75 percentage point threshold. Also worth watching: whether the RBA, having lifted rates five times this year, shifts its stance, and whether the debate turns to whether it tightened policy too hard.",
     "concepts": [
      {
-      "term": "redundancies",
-      "definition": "When an employer cuts a job because the role itself is no longer needed, rather than because of the worker's performance.",
-      "context": "Tom Kearney has been through four redundancies since 2019 as advertising work dried up."
+      "term": "Sahm rule",
+      "definition": "An early-warning recession indicator that watches how quickly unemployment rises, rather than waiting for official output figures.",
+      "context": "For Australia it flags a warning when the three-month average jobless rate is 0.75 percentage points above the lowest rate of the past year."
      },
      {
-      "term": "Reserve Bank of Australia (RBA)",
-      "definition": "Australia's central bank, which sets interest rates to manage inflation and keep the economy stable.",
-      "context": "The RBA has been lifting rates to cool the economy, with rising unemployment as expected 'collateral damage'."
+      "term": "technical recession",
+      "definition": "The traditional definition of a recession: two consecutive quarters (six months) of shrinking economic output.",
+      "context": "It can only be confirmed up to nine months after a downturn actually starts, which critics say is too slow."
      },
      {
-      "term": "flexicurity",
-      "definition": "A Danish system combining easy hiring and firing for employers with strong income support and retraining for workers who lose jobs.",
-      "context": "Denmark's 'flexicurity' system is cited as a model for protecting workers displaced by AI."
+      "term": "percentage points",
+      "definition": "The plain difference between two percentages, as opposed to a percentage change.",
+      "context": "Australia's Sahm reading is currently 0.6, below the 0.75 threshold that would signal a likely recession."
      },
      {
-      "term": "works councils",
-      "definition": "Elected groups of employee representatives that German employers must consult before major workplace changes.",
-      "context": "In Germany, employers must inform and consult 'works councils' before introducing AI."
+      "term": "Reserve Bank of Australia",
+      "definition": "Australia's central bank, which sets interest rates to manage inflation and the economy.",
+      "context": "Its five rate rises this year have fuelled concern it could tip the economy into recession."
      }
     ],
     "quiz": {
-     "question": "Why do unions worry that some employers may use AI as a \"Trojan horse\"?",
+     "question": "Why do some economists prefer the Sahm rule over the traditional \"technical recession\" definition?",
      "options": [
-      "To present ordinary cost-cutting and offshoring as innovative AI transformation",
-      "To avoid paying membership fees to unemployment insurance funds",
-      "To secretly give workers higher wages without telling shareholders",
-      "To force the Reserve Bank to raise interest rates"
+      "It gives an earlier warning instead of confirming a downturn months after it starts",
+      "It is set by the Reserve Bank of Australia each month",
+      "It only uses interest rate data",
+      "It guarantees a recession will never happen"
      ],
      "answer_index": 0,
-     "explanation": "The articles explain that a firm cutting jobs purely to cut costs may face criticism, but presenting the same decision as 'AI transformation' can appear innovative — so unions fear AI is used as cover for offshoring without scrutiny."
+     "explanation": "A technical recession can only be confirmed up to nine months after it begins, whereas the Sahm rule tracks rising unemployment to flag trouble earlier — Eslake likens it to looking through the windscreen rather than the rear-view mirror."
     },
-    "background_beginner": "Australia's economy is slowing. To bring down inflation, the Reserve Bank of Australia (the country's central bank) has kept interest rates high, which deliberately cools spending and pushes unemployment up. At the same time, artificial intelligence (AI) — computer systems that can do tasks once done by people — is spreading into office jobs. Big employers like Qantas, David Jones and the major banks have announced large job cuts, some linked to AI or to moving work overseas. This keeps coming up because experienced workers, especially those in their 40s and 50s, are losing careers and worry there's nowhere to pivot, sparking debate about how to protect them.",
-    "impact_score": 72,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/42c5b79d15a07e16d113f14a35a4658f?impolicy=wcms_watermark_news&cropH=1447&cropW=2573&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "background_beginner": "A recession is a period when a country's economy shrinks and people lose jobs. In Australia, the Reserve Bank of Australia (RBA) manages the economy mainly by raising or lowering interest rates to keep inflation in check — but raising rates too much can slow things down and cost jobs. Lately Australia's unemployment rate has climbed to its highest level in five years, which has economists debating whether a recession is coming. Part of the conversation is a US tool called the \"Sahm rule\", named after economist Claudia Sahm, which tries to spot recessions early by watching how fast unemployment rises. It keeps coming up because the usual way of defining a recession only confirms one long after it has begun.",
+    "impact_score": 68,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/d9f22e2c86cada0764677c34a3f9a166?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=214&width=862&height=485&imformat=generic",
     "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
     "region_code": "OCEANIA",
-    "description": "Australia's unemployment rate has jumped to 4.9% as mass lay-offs hit white-collar workers, with artificial intelligence and offshoring blamed alongside a deliberately slowing economy.",
+    "description": "Australia's jobless rate is climbing fast enough that a recession warning tool called the \"Sahm rule\" could be triggered as early as December, though the Reserve Bank isn't forecasting a recession.",
     "tier": "LOCAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
       "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-21/australians-lose-jobs-recession-fears-some-forced-to-sell-homes/107408374"
+      "url": "https://www.abc.net.au/news/2026-11-23/sahm-rule-recession-indicator-australia-november-2026/107408750"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "3e325949-8374-52db-a436-fc2ae52b47f8",
+     "3fe16bf2-2bd3-50ba-b815-c5fff1e569c7",
+     "4f862455-71ff-5d7a-b97b-8d167c56cfd2",
+     "7b4eaa2c-570c-5394-9a32-11a83b9890fb"
+    ],
+    "reading_minutes": 5,
+    "created_at": "2026-11-22T19:25:03.893253+00:00",
+    "published_date": "2026-11-23",
+    "has_fulltext": true
+   },
+   {
+    "id": "bb86a581-acb2-5594-bdc7-22598edaf9f0",
+    "title": "Victorian Labor bracing for poll defeat as Albanese keeps his distance",
+    "simplified_title": "Victorian Labor braces for heavy election defeat",
+    "quick_summary": "After 12 years in power, Victorian Labor is heading for a potentially historic loss, with the Liberals tipped to form majority government.",
+    "simplified_body": "Victoria goes to a state election this weekend, and Labor is bracing for a heavy defeat after 12 years in office. Polls put the Liberals on track for majority government, and some insiders fear Labor could be cut back to as few as 20 seats in the Legislative Assembly (the lower house). Prime Minister Anthony Albanese has kept his distance from the campaign.\n\nThe collapse is largely pinned on corruption allegations involving the CFMEU (Construction, Forestry and Maritime Employees Union) on the state's \"Big Build\" infrastructure projects, now being examined by a royal commission. In February, Geoffrey Watson SC alleged $15 billion of taxpayer money had been extorted on those projects. Voters also point to crime and net debt forecast to reach almost $200 billion by 2029-30.\n\nLabor won landslides in 2018 and 2022 under Daniel Andrews, who quit more than three years ago but still features in Liberal ads. Current Premier Ben Carroll has tried to signal a fresh start, but the Liberals, led by 36-year-old first-term MP (Member of Parliament) Jess Wilson, have tied him back to Andrews. The Greens, led by Ellen Sandell, hope to gain inner-Melbourne seats, though Liberal how-to-vote cards now favour Labor in most of them, which could blunt the Greens' run.\n\nOne Nation's vote has softened, but the party could still win a handful of seats and hold the balance of power in the upper house. If Wilson wins, commentators warn she won't get an easy honeymoon — voters fed up with both major parties will expect her to fix crime, services and the budget quickly.",
+    "why_it_matters": "This is a purely Australian story: a change of government in the nation's second-most populous state would end over a decade of Labor rule and reshape the political mood heading into the next federal contest.",
+    "deep_analysis": "## Historical Context\n\nLabor has dominated Victorian politics for much of the past half-century, but this would be the third time it has fallen at the hurdle of winning a fourth consecutive term. The commentary draws two comparisons. One is the 1992 defeat under Joan Kirner, when Labor was tarred as the \"Guilty Party\", shed 19 seats and saw its primary vote drop eight percentage points to 38.4%. The other, more alarming parallel is NSW (New South Wales) Labor in 2011, which lost 30 seats and crashed to a 25.6% primary vote amid scandal and corruption claims — a brand so toxic that Labor elsewhere distanced itself. This time the forecast collapse follows back-to-back landslides in 2018 and 2022.\n\n## Multiple Perspectives\n\nThe ABC analysis frames the loss as a rejection of a 12-year-old government weighed down by \"crime, debt and corruption\", with the CFMEU royal commission robbing Labor of its ability to campaign on infrastructure delivery. The Conversation offers a more balanced ledger, crediting Daniel Andrews with an \"outsized public policy legacy\" — the Metro Tunnel, level-crossing removals, voluntary assisted dying laws and Australia's first Treaty with First Nations communities — while arguing his \"getting shit done\" style became an alibi for evading accountability. On the Greens, the second ABC piece stresses that Liberal preferences, not just the Greens' own vote, may decide inner-Melbourne seats. On One Nation, The Conversation cautions against inflated predictions, noting preference flows cruel the party unless its primary vote climbs well above 30%.\n\n## What to Watch\n\nWatch the size of Labor's \"rusted on\" vote, whether the Greens convert a higher statewide primary into seats like Northcote despite unfavourable Liberal how-to-vote cards, and whether One Nation grabs the upper-house balance of power. Longer term, watch how a Wilson government fares — and whether a Liberal win in progressive Victoria signals anything for the party nationally.",
+    "concepts": [
+     {
+      "term": "royal commission",
+      "definition": "A powerful, government-ordered public inquiry with legal authority to investigate a serious issue, compel witnesses and gather evidence.",
+      "context": "A royal commission is examining corruption allegations around the CFMEU on Victoria's Big Build projects, which has dominated the campaign."
+     },
+     {
+      "term": "Big Build",
+      "definition": "The Victorian government's large program of major infrastructure projects, such as road, rail and tunnel construction.",
+      "context": "Once a Labor selling point, the term 'Big Build' has become associated in voters' minds with waste and the corruption allegations."
+     },
+     {
+      "term": "balance of power",
+      "definition": "The position held by a minor party or independents when neither major party has a majority, letting them decide which legislation passes.",
+      "context": "One Nation could win enough upper-house seats to hold the balance of power, giving it influence over the new government's agenda."
+     },
+     {
+      "term": "how-to-vote cards",
+      "definition": "Leaflets parties hand out at polling booths recommending the order voters number candidates, which strongly shapes where preferences flow.",
+      "context": "Liberal how-to-vote cards now place Labor above the Greens in most inner-Melbourne seats, which could cost the Greens wins."
+     }
+    ],
+    "quiz": {
+     "question": "Why do Liberal how-to-vote cards matter so much to the Greens in inner-Melbourne seats?",
+     "options": [
+      "The Liberals usually finish third there, so their voters' preferences often decide whether Labor or the Greens wins",
+      "Liberals are competing directly with the Greens to win those seats",
+      "The cards determine who wins the upper house balance of power",
+      "Greens voters tend to follow Liberal recommendations"
+     ],
+     "answer_index": 0,
+     "explanation": "In these seats the Liberal is likely to come third, so where Liberal voters' preferences flow — Labor or the Greens — can swing the final result, and Liberal voters are among the most likely to follow the card."
+    },
+    "background_beginner": "Victoria is one of Australia's most populous states, and its Labor Party has governed there for 12 years, winning big in 2018 and 2022 under premier Daniel Andrews. Andrews retired in 2023 but remains a lightning rod. His successors — Jacinta Allan, then current premier Ben Carroll — have struggled as corruption allegations emerged about the CFMEU union and the government's major \"Big Build\" construction projects, now under a royal commission. The main rival is the Liberal Party, led by Jess Wilson. Smaller players include the Greens, strong in inner Melbourne, and One Nation, a populist party led federally by Pauline Hanson. It keeps coming up because a weekend state election could end Labor's long reign.",
+    "impact_score": 66,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/50fce67e9313e42773ce65637f9ba24d?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "After 12 years in power, Victorian Labor is heading for a potentially historic loss, with the Liberals tipped to form majority government.",
+    "tier": "LOCAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-23/election-victorian-labor-election-defeat-albanese-stays-away/107414442"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-23/victorian-election-analysis-liberal-labor-greens-preference/107413848"
      },
      {
       "name": "The Conversation",
-      "url": "https://theconversation.com/with-ai-blamed-for-mass-layoffs-heres-how-we-can-ensure-workers-get-a-fairer-go-296948"
+      "url": "https://theconversation.com/victorias-12-year-labor-government-is-about-to-end-could-the-new-premier-kick-start-a-wider-liberal-party-redemption-296051"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
     "related_story_ids": [
-     "3e325949-8374-52db-a436-fc2ae52b47f8",
-     "7b4eaa2c-570c-5394-9a32-11a83b9890fb",
-     "b5421d0c-5cf9-5c9b-92f5-34b2a77d3354"
+     "66aeb220-5ad3-53e5-adf5-d006b9e1f93e"
     ],
     "reading_minutes": 4,
-    "created_at": "2026-11-21T01:24:34.849440+00:00",
-    "published_date": "2026-11-21",
+    "created_at": "2026-11-22T19:26:00.428908+00:00",
+    "published_date": "2026-11-23",
     "has_fulltext": true
    },
    {
@@ -193,72 +263,6 @@
     "reading_minutes": 2,
     "created_at": "2026-11-22T07:25:38.422794+00:00",
     "published_date": "2026-11-22",
-    "has_fulltext": true
-   },
-   {
-    "id": "192022df-488e-53c5-8311-79fd6a417f31",
-    "title": "Australia-wide rallies warn freebirths will soar under new rules",
-    "simplified_title": "Home birth insurance change sparks nationwide rallies by families",
-    "quick_summary": "From 1 January, private midwives must hold government insurance only available to \"endorsed\" midwives, and advocates warn thousands of women could be pushed into unsupported \"freebirths\".",
-    "simplified_body": "Thousands of people rallied at 26 locations across Australia, protesting the end of a longstanding rule that let privately practising midwives attend home births without private indemnity (liability) insurance. From 1 January, that exemption disappears, and only midwives covered by a new government insurance policy can attend. That policy is available only to \"endorsed\" midwives — those who have done extra study, including 5,000 clinical hours, and can prescribe medicines and order tests.\n\nThis matters most for pregnant women who want a home birth, especially in regional and remote areas where hospitals can be hours away. Only about 5 per cent of Australia's roughly 35,000 registered midwives are endorsed. Advocacy group Homebirth Australia warns women could feel forced into a \"freebirth\" — giving birth at home with no midwife or medical practitioner present.\n\nHere's the background. The exemption was set up in 2009 because no suitable insurance product existed. The law requires two midwives at every planned home birth: a lead \"endorsed\" midwife, plus a second midwife who often isn't endorsed. The Australian College of Midwives warns up to a third of private endorsed midwives — those who rely on non-endorsed colleagues as second attendants — could be pushed out. Health Minister Mark Butler calls insurance for all practitioners a \"no-brainer\".\n\nWhat next? Advocates want another extension and a permanent, affordable insurance fix by 31 December. The federal health department says the exemption was never meant to be permanent. Coronial inquests in New South Wales and Victoria have already examined freebirth-linked deaths.",
-    "why_it_matters": "Birth is something nearly every Australian family touches, and this change could reshape who gets to choose where they give birth — with the sharpest squeeze falling on women in the bush who already live hours from a hospital.",
-    "deep_analysis": "## Historical Context\n\nThe exemption at the centre of this fight dates back to 2009, when privately practising midwives attending home births were let off the usual insurance requirement simply because no suitable insurance product existed at the time. It was always framed as a stopgap, not a permanent arrangement. The current change traces to a decision by health ministers across the country about 18 months ago to bring home-birth midwives \"into line with every other health practitioner\" once an insurance product became available. Running alongside this is a broader, long-running tension over maternity access in regional Australia — illustrated by a separate case in South Australia's Mid North, where a trial birthing model at the Jamestown and Crystal Brook hospitals was abandoned after a community backlash and a petition of almost 12,000 signatures.\n\n## Multiple Perspectives\n\nThe government's view, through Minister Mark Butler and the federal health department, is that insurance for practitioners delivering high-stakes services like birthing is a \"no-brainer\", and that the policy aims to \"support safe and appropriate maternity care\" rather than discourage home birth.\n\nMidwives and advocates see it differently. The Australian College of Midwives and the Queensland Nurses and Midwives Union argue the insurance on offer isn't workable — endorsed midwives who rely on non-endorsed second attendants face burnout or closure. Western Sydney University's Professor Hannah Dahlen warns of a \"perfect storm\" where restricting midwife access actually increases the freebirths authorities most want to avoid. Regional midwives in places like Geraldton and Esperance stress there simply aren't enough endorsed midwives to go around. Notably, the Royal Australian and New Zealand College of Obstetricians and Gynaecologists declined to comment.\n\n## What to Watch\n\nThe 31 December deadline is the key pressure point — whether the government grants another extension or sticks firm. Watch for any move to create a working group for a \"permanent and affordable insurance solution\", and whether regional and remote areas get carve-outs. Longer term, the findings of the NSW and Victorian coronial inquests into freebirth-linked deaths may shape how safe, or risky, the fallout from this change is judged to be.",
-    "concepts": [
-     {
-      "term": "indemnity",
-      "definition": "Insurance that covers a professional against claims if something goes wrong in their work — here, protecting a midwife against liability during a birth.",
-      "context": "The old rule let private midwives attend home births without holding this cover; from January they must have it."
-     },
-     {
-      "term": "endorsed",
-      "definition": "A higher accreditation for midwives requiring extra study and 5,000 clinical hours, allowing them to prescribe medicines and order tests like blood tests and ultrasounds.",
-      "context": "Only about 5 per cent of Australia's midwives hold this status, and only they can access the new government insurance."
-     },
-     {
-      "term": "freebirth",
-      "definition": "Giving birth at home deliberately without a midwife or medical practitioner present, sometimes supported by family, a doula or a 'birth keeper'.",
-      "context": "Advocates fear the insurance change will push women into this riskier option because they can't access a midwife."
-     }
-    ],
-    "quiz": {
-     "question": "Why do advocates say the new insurance rule could actually make births less safe?",
-     "options": [
-      "It could cut midwife access, pushing women into unsupported 'freebirths'",
-      "It removes the requirement for any midwife training",
-      "It bans all home births outright across Australia",
-      "It forces hospitals to close in regional areas"
-     ],
-     "answer_index": 0,
-     "explanation": "Advocates and researchers like Professor Dahlen argue that with few endorsed midwives available, especially in the regions, women determined to birth at home may do so without any health professional present — the very outcome authorities most want to avoid."
-    },
-    "background_beginner": "In Australia, most babies are born in hospital, but a small number of families choose a planned home birth supported by a private midwife. The law requires two midwives at each home birth. For years, these midwives were allowed to work without professional liability (\"indemnity\") insurance because no suitable policy existed — an exemption set up in 2009. Now a new government insurance scheme is replacing it, but only \"endorsed\" midwives (about 5 per cent of all midwives) can access it. The main players are Homebirth Australia and midwife groups on one side, and federal Health Minister Mark Butler and health departments on the other. It keeps coming up because access to safe birthing, especially in rural areas, is a long-running sore point.",
-    "impact_score": 58,
-    "image_url": "https://live-production.wcms.abc-cdn.net.au/0db0f452c45dc76d65aa8be4f98bd759?impolicy=wcms_watermark_news&cropH=909&cropW=1616&xPos=0&yPos=21&width=862&height=485&imformat=generic",
-    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
-    "region_code": "OCEANIA",
-    "description": "From 1 January, private midwives must hold government insurance only available to \"endorsed\" midwives, and advocates warn thousands of women could be pushed into unsupported \"freebirths\".",
-    "tier": "LOCAL",
-    "category": "HEALTH",
-    "sources": [
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-21/homebirth-rallies-midwife-insurance-freebirth/107412380"
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/homebirth-insurance-rules-midwives-fear-freebirth-rise-ntwnfb"
-     },
-     {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-20/yorke-health-network-birthing-service-model-dumped-backlash-sa/107408252"
-     }
-    ],
-    "source_count": 3,
-    "confidence": 0.8500000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 4,
-    "created_at": "2026-11-21T07:25:05.907862+00:00",
-    "published_date": "2026-11-21",
     "has_fulltext": true
    },
    {
@@ -385,124 +389,135 @@
     "has_fulltext": true
    },
    {
-    "id": "e7d26ee0-5768-5308-9487-508fd6ff0797",
-    "title": "Vietnam scraps capital punishment for drug trafficking",
-    "simplified_title": "Vietnam Drops Death Penalty for Drug Trafficking",
-    "quick_summary": "Vietnam has scrapped capital punishment for drug trafficking and several other crimes, leaving the death penalty for just four offences.",
-    "simplified_body": "On Friday 20 November, Vietnam's National Assembly (the country's parliament) passed a revised penal code that abolishes the death penalty for drug trafficking and a handful of other crimes. From now on, capital punishment is available for only four offences: treason, murder, terrorism and illegal drug production. Crimes against humanity, war crimes, rebellion and the rape of a juvenile also come off the list, with their maximum penalty replaced by life imprisonment.\n\nThis matters most for people facing or already on death row. Amnesty International, a human rights group, estimates more than 1,200 people were awaiting execution in Vietnam at the end of 2023. As recently as September, 11 people were sentenced to die for trafficking drugs from France to Vietnam.\n\nFor background: communist Vietnam carries out executions by lethal injection, having retired its firing squads in 2013, and it has never publicly released how many people it puts to death. The change is the latest in a long wind-back from the 1985 penal code, which carried the death penalty for 44 separate offences.\n\nSome lawmakers had been reluctant to drop the death penalty for drug crimes. But Minister of Public Security Luong Tam Quang argued that many traffickers \"had been lured, cheated or forced\" into their actions and could still be rehabilitated, so execution was \"not necessary\". What happens next to those already condemned under the old law isn't spelled out in the announcement.",
-    "why_it_matters": "Vietnam is a major transit point in a region where drug offences often carry death, so narrowing who can be executed is a significant shift — and relevant to Australians, given the long history of Southeast Asian drug cases involving foreign nationals.",
-    "deep_analysis": "## Historical Context\n\nVietnam's use of capital punishment has been shrinking for decades. Its 1985 penal code listed the death penalty for 44 offences; Friday's revision leaves just four. The country switched from firing squads to lethal injection in 2013, and it has never published execution figures, which is why outside estimates — like Amnesty International's figure of more than 1,200 people on death row at the end of 2023 — are the main gauge of scale.\n\n## Multiple Perspectives\n\nSupporters of the change, including Minister of Public Security Luong Tam Quang, frame it around rehabilitation, arguing many traffickers were \"lured, cheated or forced\" and can make amends. Several National Assembly deputies had resisted, reflecting a tough-on-drugs stance common across the region. Human rights groups that track executions generally welcome narrowing the death penalty, though the lack of published data means the real-world effect is hard to verify.\n\n## What to Watch\n\nThe big open question is what happens to those already sentenced — such as the 11 people condemned in September for trafficking drugs from France — now that their offence no longer carries death. Whether sentences are commuted to life imprisonment, and whether Vietnam becomes more transparent about execution numbers, will show how far this reform reaches in practice.",
+    "id": "c645a35a-fa47-59c1-a3d7-3e5696a68b9d",
+    "title": "Three dead, 36 missing after Indonesia factory fire",
+    "simplified_title": "Deadly Fire Rips Through Indonesian Lolly Factory",
+    "quick_summary": "A fire tore through a confectionery factory west of Jakarta, killing at least three workers and leaving dozens missing.",
+    "simplified_body": "A fire swept through the Fonusa Agung Mulia confectionery factory in Cikande, in the Serang district of Indonesia's Banten province, about 50km west of the capital Jakarta. Firefighters were alerted around 4.30pm on Saturday (Nov 22 being the day after) and arrived to find the building already engulfed in flames, with the roof later collapsing in places. By Sunday at least three people were confirmed dead and four injured.\n\nThe number of missing workers differs between reports: CNA and The Guardian say 36 are unaccounted for, while ABC News puts the figure at 29. There's also disagreement over how many were inside — the Banten governor estimated 60, while a company representative said 300. The intense heat left recovered victims unidentifiable by sight, so authorities are collecting DNA samples from relatives. Anxious families gathered outside the charred factory waiting for news.\n\nThe plant makes Milkita, a brand of milk-based lollies, and is a subsidiary of UNIFAM (United Family Food), one of Indonesia's major consumer-food companies, founded in 1981. The cause is still under investigation, though survivors reportedly said the fire started in a cooling unit on the third floor. A fire official said the blaze was so advanced on arrival that they couldn't tell whether the factory's protection system was working.\n\nA joint search-and-rescue (SAR) team of police, military, the Indonesian Red Cross and volunteers is combing the site, with cooling operations continuing because leftover production materials could reignite. Deadly industrial fires are not uncommon in Indonesia, and this one is likely to renew scrutiny of workplace safety standards.",
+    "why_it_matters": "Indonesia is Australia's close neighbour and a major manufacturing hub, and repeated factory disasters like this raise hard questions about worker safety across the region's supply chains.",
+    "deep_analysis": "## Historical Context\n\nDeadly fires are a recurring problem in Indonesia. In December last year, a blaze likely sparked by a drone battery explosion tore through a seven-storey building in Jakarta and killed at least 22 people. In 2023, at least 13 people died in the country's east after an explosion at a nickel-processing plant. Reports note a series of industrial fires in recent years that have raised concerns about workplace safety standards and emergency preparedness at manufacturing sites. The Fonusa Agung Mulia plant sits in a heavily industrialised corridor west of Jakarta, where consumer-goods manufacturing is concentrated.\n\n## Multiple Perspectives\n\nThe sources don't fully agree on the scale. On the missing: CNA and The Guardian report 36 unaccounted for, while ABC News reports 29 (plus eight whose whereabouts were unconfirmed). On how many were inside: the governor estimated 60, but a company representative said 300. On the cause, the official position is that it remains under investigation; ABC reports survivors saying it began in a third-floor cooling unit. Fire officials stress they couldn't assess whether safety systems worked because flames were so advanced on arrival. Families at the scene represent the human stakes, waiting as DNA identification gets underway.\n\n## What to Watch\n\nWatch for a confirmed death toll as recovery continues and DNA matching proceeds — body bags reportedly contained remains of more than one person each, so counts may shift. The official cause and any findings about the factory's fire-protection systems will be key. Expect renewed debate about industrial safety enforcement in Indonesia, and possible statements from UNIFAM about compensation and operations.",
     "concepts": [
      {
-      "term": "penal code",
-      "definition": "The body of law that defines crimes and sets out their punishments.",
-      "context": "Vietnam's revised penal code removed drug trafficking from the list of crimes punishable by death."
+      "term": "confectionery factory",
+      "definition": "A plant that makes sweets, lollies or candies — in this case milk-based products sold under the Milkita brand.",
+      "context": "The fire destroyed a confectionery factory that produces Milkita milk-based lollies."
      },
      {
-      "term": "capital punishment",
-      "definition": "The practice of executing someone as a legal punishment for a crime; also called the death penalty.",
-      "context": "The law now limits capital punishment to only four offences."
+      "term": "search-and-rescue (SAR)",
+      "definition": "Coordinated teams, often combining police, military and volunteers, who locate and recover people in emergencies.",
+      "context": "A joint SAR team was deployed to find missing workers while protecting its own personnel."
      },
      {
-      "term": "death row",
-      "definition": "The status of prisoners who have been sentenced to death and are awaiting execution.",
-      "context": "Amnesty International estimates more than 1,200 people were on death row in Vietnam at the end of 2023."
-     },
-     {
-      "term": "life imprisonment",
-      "definition": "A prison sentence intended to last for the rest of the convicted person's life.",
-      "context": "Removed offences now carry a maximum penalty of life imprisonment instead of death."
+      "term": "DNA samples",
+      "definition": "Genetic material collected from relatives or belongings to identify bodies when visual identification isn't possible.",
+      "context": "The fire's heat left victims unrecognisable, so authorities turned to DNA to identify them."
      }
     ],
     "quiz": {
-     "question": "After Vietnam's revised penal code, which of these crimes can still carry the death penalty?",
+     "question": "Why are authorities collecting DNA samples from relatives of the missing workers?",
      "options": [
-      "War crimes",
-      "Rape of a juvenile",
-      "Drug trafficking",
-      "Illegal drug production"
+      "Because the fire's intensity left recovered victims unidentifiable by sight",
+      "Because the factory had no employee records",
+      "Because the workers were foreign nationals",
+      "Because the police suspect the fire was deliberately lit"
      ],
-     "answer_index": 3,
-     "explanation": "The revision keeps capital punishment for only four crimes — treason, murder, terrorism and illegal drug production. Drug trafficking, rape of a juvenile and war crimes were all removed and now carry life imprisonment."
+     "answer_index": 0,
+     "explanation": "The heat of the fire rendered the recovered victims unidentifiable through visual inspection, so DNA from relatives and personal belongings is being used to identify them."
     },
-    "background_beginner": "Vietnam is a one-party communist state in Southeast Asia, where many countries treat drug crimes very harshly, sometimes with death sentences. Vietnam carries out executions by lethal injection and has never revealed how many people it kills, so human rights groups like Amnesty International rely on estimates. For years the country has been slowly reducing the number of crimes punishable by death — from 44 offences in 1985 down to just a few today. The topic keeps coming up because drug trafficking through the region is common, cases often involve foreign nationals, and governments face a tug-of-war between being tough on crime and moving towards rehabilitation.",
+    "background_beginner": "Indonesia is a large Southeast Asian nation of more than 250 million people and a big manufacturing base. This story centres on a confectionery factory run by Fonusa Agung Mulia, a subsidiary of UNIFAM (United Family Food), which makes Milkita milk lollies and employs thousands. The company was founded in 1981. The factory, in Cikande near Jakarta, caught fire on a Saturday afternoon, killing at least three workers and leaving dozens missing. Stories like this keep surfacing because Indonesia has had several deadly industrial fires in recent years, prompting ongoing concern about whether factories have adequate fire protection, safety rules and emergency planning to keep workers safe.",
     "impact_score": 58,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--My-mIno7--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/21/000_66z82g6.jpg?itok=c2tq7UPG",
+    "image_url": "https://dam.mediacorp.sg/image/upload/s--oSpn3O6n--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-22T035626Z_1_LYNXNPEMAL02Q_RTROPTP_3_INDONESIA-FIRE.JPG?itok=MhuvrcKB",
     "region": "Asia",
     "region_code": "ASIA",
-    "description": "Vietnam has scrapped capital punishment for drug trafficking and several other crimes, leaving the death penalty for just four offences.",
+    "description": "A fire tore through a confectionery factory west of Jakarta, killing at least three workers and leaving dozens missing.",
     "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
+    "category": "CRIME_SAFETY",
     "sources": [
      {
       "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/vietnam-death-penalty-abolish-crime-6571011"
+      "url": "https://www.channelnewsasia.com/asia/indonesia-factory-fire-39-missing-6572421"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-22/bodies-recovered-after-indonesian-factory-fire/107414720"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
     "related_story_ids": [],
-    "reading_minutes": 1,
-    "created_at": "2026-11-21T07:25:20.294029+00:00",
-    "published_date": "2026-11-21",
+    "reading_minutes": 2,
+    "created_at": "2026-11-22T19:25:01.987694+00:00",
+    "published_date": "2026-11-23",
     "has_fulltext": true
    },
    {
-    "id": "fafca1f1-d90c-5bd5-a355-8b9e3a0bd554",
-    "title": "Meta's India offices hit by opposition protests over account removals",
-    "simplified_title": "Congress Youth Wing Storms Meta Offices Over Account Removals",
-    "quick_summary": "India's opposition Congress party clashed with police at Meta offices, protesting the removal of Instagram accounts belonging to its members.",
-    "simplified_body": "The youth wing of India's main opposition Congress party clashed with police outside Meta's offices, protesting the company's removal of some Instagram accounts belonging to its members. According to footage the group released on Saturday 21 November, protesters stormed the building housing Meta's Hyderabad office, smashed plants and clashed with police. In Mumbai, workers spray-painted anti-Meta slogans, and in Gurugram near New Delhi they held banners demanding accounts be restored. Meta declined to comment.\n\nThis matters most to Congress members, journalists, creators and influencers who say their accounts have been restricted. Two accounts were restored after Friday's protests, but a Congress social media organiser told Reuters that thousands remain blocked. Meta's ruling-party critics, meanwhile, accused Congress of vandalising a private company's office. Modi's governing party spokesperson called it the \"Congress Model\".\n\nHere's the background. Meta owns Instagram, Facebook and WhatsApp, and India is its biggest market by users. Prime Minister Narendra Modi's government says it only orders content removed if it breaches local laws or threatens public safety or national security. Congress has long accused platforms of curbing dissent and favouring the government. Meta says it restricts content purely to comply with local law. In February the government tightened the timeline for taking down unlawful content from 36 hours to just three hours after being notified.\n\nWhat next? The Indian Youth Congress has warned it will \"storm your offices across the country\" unless accounts are restored. Meta's own disclosures show it restricted over 5.4 million posts or accounts in India under local laws in the first half of 2026 — up from about 70,000 in the previous six months — so the free-speech debate is unlikely to cool down.",
-    "why_it_matters": "When the world's biggest social media company and a major democracy's government tangle over who gets silenced online, it's a live test of free speech that platforms like Instagram — used daily by millions of Australians — face everywhere.",
-    "deep_analysis": "## Historical Context\n\nIndia is Meta's largest market by number of users, which gives the company enormous reach and makes it a lightning rod in the country's politics. Congress, once India's dominant party and now its main opposition, has for years accused Meta and other platforms of removing its accounts and favouring Prime Minister Narendra Modi's government. The government frames its takedown orders as routine law enforcement — removing content that breaches local laws or threatens public safety or national security. The tension escalated sharply in February, when the government cut the deadline for platforms to remove flagged unlawful content from 36 hours down to three.\n\n## Multiple Perspectives\n\nThe three sides see this very differently. The **Indian Youth Congress** casts it as censorship: it wants accounts restored and Meta to explain how its algorithms restrict posts, arguing thousands of journalists, creators and influencers critical of the government remain blocked. **Modi's ruling party** flips the script, condemning the protesters for vandalising a private company's Hyderabad office and \"flaunting it on social media\". **Meta** stays neutral in public, declining to comment on the protests and repeating that it restricts content only to comply with local law — noting most removals were legal obligations. Meanwhile, Reporters Without Borders says removal of journalistic content has been rising in India this year, and free-speech activists warn the new three-hour rule leaves almost no time to review takedown requests.\n\n## What to Watch\n\nWatch whether the Youth Congress follows through on its threat to stage protests at Meta offices nationwide, and whether more accounts get restored. The staggering jump in restricted posts — from roughly 70,000 to over 5.4 million in six months — is the number to track; if it keeps climbing, expect louder scrutiny of both the government's orders and Meta's compliance.",
+    "id": "b3d606fe-1585-5fc0-897e-764834493f68",
+    "title": "South Korean education minister resigns over AI-driven exam cheating scandal",
+    "simplified_title": "South Korean education minister quits over AI exam cheating scandal",
+    "quick_summary": "South Korea's education minister has resigned after an AI-assisted cheating scandal threw the country's all-important university entrance exam into chaos.",
+    "simplified_body": "South Korea's Education Minister Choi Kyo-jin resigned on Sunday over an Artificial Intelligence (AI)-assisted cheating scandal that erupted just before the Suneung, the country's crucial university entrance exam. The panic began a week earlier when the top scorer in a national tax accountancy exam confessed he had used a miniature camera to photograph questions, fed them to an AI system, and read the answers off a smartphone. Choi said the exam finished \"without any major incidents\" but admitted officials \"failed to prepare adequately in advance\". President Lee Jae Myung accepted his resignation.\n\nThis affects roughly 500,000 students who sat the Suneung, which largely dictates which university they attend and, in turn, their careers, jobs and social standing. The confession sent authorities scrambling: they blocked public wifi, doubled supervisors, placed stickers over shirt buttons to block hidden cameras, inspected glasses and watches, and even sent nationwide emergency alerts to catch phones that hadn't been handed in.\n\nThe Suneung takes up to nine hours (the Guardian puts it at eight) and the whole country bends around it — flights are rescheduled during the English listening test and the stock market opens late. Officials found 111 cases of misconduct involving electronic devices on exam day, nearly half detected through the emergency alerts. Choi drew public anger after telling a parliamentary hearing that, \"due to my age\", he wasn't confident he could catch cheaters.\n\nPresident Lee has been calling for an overhaul of the exam system, so the resignation may fuel wider reform. Students caught cheating now face a 10-year ban from retaking the exam and possible criminal prosecution.",
+    "why_it_matters": "It shows how quickly cheap AI tools can undermine high-stakes testing — a worry for any country, including Australia, where standardised exams shape university entry and careers.",
+    "deep_analysis": "## Historical Context\n\nSouth Korea treats the Suneung as a near-sacred national event. The eight-to-nine-hour exam has long been seen as a ticket to prestigious universities, well-paid jobs and even better marriage prospects in a fiercely competitive society. The country already goes to extraordinary lengths to protect it: aircraft takeoffs and landings are rescheduled during the 25-minute English listening paper, artillery fire and tank movements are suspended, the stock market opens an hour late, and cars are stopped 200 metres from every centre. Into that high-pressure tradition arrived a new threat — AI tools paired with tiny concealed cameras — exposed when April's top tax accountancy scorer, identified by the BBC as 34-year-old Han Won-seok, confessed to cheating after getting just one of 160 questions wrong.\n\n## Multiple Perspectives\n\nThe government framed its scramble as decisive, rolling out unprecedented measures including the first-ever use of the national disaster alert system to catch cheaters. Teachers' unions, however, criticised the response as belated. Honest students were left anxious — some worried their ordinary spectacles would be mistaken for smart glasses, with one swapping to contact lenses to avoid suspicion. A high-school student even filed a constitutional petition to stop the exam going ahead, which a court rejected for insufficient evidence of irreparable harm. Choi himself accepted responsibility, while his \"due to my age\" remark suggested a minister caught flat-footed. President Lee, already pushing to overhaul the exam system, used the moment to accept the resignation.\n\n## What to Watch\n\nWatch whether the scandal accelerates Lee's promised overhaul of the exam system, and how the tightened penalties — a 10-year retake ban and criminal prosecution — are enforced. The deeper question is whether patch-on fixes like button stickers and emergency alerts can keep pace with increasingly cheap, concealable AI tools.",
     "concepts": [
      {
-      "term": "Meta",
-      "definition": "The US technology company that owns Instagram, Facebook and WhatsApp; India is its biggest market by number of users.",
-      "context": "Protesters targeted Meta's offices over the removal of Instagram accounts."
+      "term": "Suneung",
+      "definition": "South Korea's annual university entrance exam, lasting up to nine hours, which heavily shapes which university a student attends and their future career.",
+      "context": "About 500,000 students sat the Suneung this year under tightened anti-cheating measures."
      },
      {
-      "term": "Congress",
-      "definition": "India's main opposition party, once the country's dominant political force; its youth wing led the protests.",
-      "context": "Congress has long accused platforms of removing its accounts and favouring the government."
+      "term": "AI",
+      "definition": "Artificial Intelligence — computer systems that can perform tasks like answering questions, which the cheat used to generate exam answers from photographed questions.",
+      "context": "The cheat photographed questions and fed them to an AI system to get the answers."
      },
      {
-      "term": "takedown requests",
-      "definition": "Official demands that a platform remove specific content or accounts, often because a government says they break local law.",
-      "context": "A new rule gives social media companies very little time to review takedown requests."
+      "term": "emergency alerts",
+      "definition": "Nationwide phone warnings sent via the disaster alert system; here used to make any phone not handed in blare out loudly, even on silent, revealing hidden devices.",
+      "context": "Nearly half of the 111 misconduct cases were detected through the emergency alerts."
      }
     ],
     "quiz": {
-     "question": "Why does the Congress youth wing say it is protesting against Meta?",
+     "question": "Why did the government send nationwide emergency alerts during the Suneung?",
      "options": [
-      "Meta refused to launch a new app in India",
-      "Meta raised its advertising prices in India",
-      "Meta removed some Instagram accounts belonging to its members",
-      "Meta closed its offices in Hyderabad and Mumbai"
+      "To tell students the exam start time had changed",
+      "To warn students about a natural disaster near exam centres",
+      "To make any phones not handed in sound off and reveal hidden devices",
+      "To broadcast the exam answers to all candidates"
      ],
      "answer_index": 2,
-     "explanation": "The protests were over Meta's removal of some Instagram accounts of Youth Congress members, with the group demanding they be restored."
+     "explanation": "The alerts were designed to make smartphones blare out — even on silent — so officials could catch test-takers who had failed to hand over their devices; nearly half the 111 misconduct cases were found this way."
     },
-    "background_beginner": "Meta is the US company behind Instagram, Facebook and WhatsApp, and India — with more users than anywhere else — is its biggest market. India's government, led by Prime Minister Narendra Modi, can order platforms to remove content it says breaks local law or threatens safety. The opposition Congress party, India's former ruling party, argues this is really about silencing critics and that its accounts keep getting taken down. This clash keeps flaring up because social media is now where much of India's political argument happens, so who controls what stays online — the government, the companies, or users — is a recurring fight.",
+    "background_beginner": "The Suneung is South Korea's make-or-break university entrance exam, taken by around half a million students each year. It carries huge weight because standardised test scores largely decide who gets into top universities and, from there, good jobs and social status — so the whole country reorganises around exam day. This story blew up when the top scorer in a separate tax accountancy exam confessed he'd cheated using a hidden camera and AI to find answers. With the Suneung only days away, panic spread that students might do the same. Officials rushed out drastic countermeasures, but Education Minister Choi Kyo-jin couldn't calm the public and resigned, taking responsibility for the chaos.",
     "impact_score": 58,
-    "image_url": "https://dam.mediacorp.sg/image/upload/s--Ny-LfWcA--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-21T055449Z_1_LYNXNPEMAK047_RTROPTP_3_INDIA-PROTEST-META.JPG?itok=dE7uMMC5",
+    "image_url": "https://s.france24.com/media/display/43d4fdb6-e627-11f1-b6c0-ebb478925cf0/w:1280/p:16x9/15c35b71c836cc0a45a17a8bf1b03197d906546e.jpg",
     "region": "Asia",
     "region_code": "ASIA",
-    "description": "India's opposition Congress party clashed with police at Meta offices, protesting the removal of Instagram accounts belonging to its members.",
+    "description": "South Korea's education minister has resigned after an AI-assisted cheating scandal threw the country's all-important university entrance exam into chaos.",
     "tier": "GLOBAL",
     "category": "SOCIETY_CULTURE",
     "sources": [
      {
-      "name": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/india-congress-party-meta-protests-censorship-6571316"
+      "name": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261122-south-korea-education-chief-resigns-amid-ai-cheating-scandal"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no"
      }
     ],
-    "source_count": 1,
-    "confidence": 0.55,
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
     "related_story_ids": [],
     "reading_minutes": 2,
-    "created_at": "2026-11-21T07:25:25.136559+00:00",
-    "published_date": "2026-11-21",
+    "created_at": "2026-11-22T19:25:43.652632+00:00",
+    "published_date": "2026-11-23",
     "has_fulltext": true
    },
    {
@@ -904,6 +919,69 @@
     "has_fulltext": true
    },
    {
+    "id": "61ecaa92-99e5-5250-ba12-1b5db04c2620",
+    "title": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
+    "simplified_title": "Settler Arson Attacks Spark 'Jewish Terrorism' Row in Israel",
+    "quick_summary": "Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have triggered sharp condemnation from Israeli opposition leaders, who branded them \"Jewish terrorism\".",
+    "simplified_body": "Dozens of militant Israeli settlers raided at least four Palestinian communities in the occupied West Bank overnight on Saturday, setting fire to about a dozen vehicles and several homes and scrawling racist graffiti. In Kafr Malik, near Ramallah, one Hebrew slogan read \"This is the first revenge\". Israeli police said they had launched an investigation with forensic teams.\n\nThe attacks have caused a political row in Israel. Opposition leader Gadi Eisenkot called them \"Jewish terrorism\" and blamed far-right ministers Itamar Ben-Gvir and Bezalel Smotrich for bringing the area \"to the brink of unchecked anarchy\". Yair Lapid said the violence was the product of government \"criminal negligence\", while Yair Golan and Noam Tibon warned of a possible third intifada — a major Palestinian uprising. Prime Minister Benjamin Netanyahu has not yet responded.\n\nThe West Bank is Palestinian territory that the United Nations (UN) regards as under Israeli occupation since 1967. Since the 7 October 2023 attacks on Israel led by Hamas, settlement expansion and violence against Palestinians there have surged, with more than 1,100 Palestinians killed by Israeli forces or settlers. An inconclusive election last month stripped Netanyahu of his majority; Eisenkot has been asked to form a government, with 28 days to do so.\n\nMore international pressure is building. Australia announced sanctions on three people and four Israeli entities over illegal settlement expansion, a day after the United Kingdom (UK) sanctioned eight Israeli construction companies. Whether Netanyahu responds, and whether a new government forms, will shape what comes next.",
+    "why_it_matters": "Australia has just sanctioned three people and four Israeli entities over illegal West Bank settlements, so this isn't a distant quarrel — Canberra is actively taking sides as fears of a wider explosion grow.",
+    "deep_analysis": "## Historical Context\n\nThe West Bank has been under Israeli military occupation since 1967, and the United Nations regards it as Palestinian territory. Over decades, Israel has built settlements there that much of the international community considers illegal under international law. \"Intifada\" refers to past Palestinian uprisings against the occupation, and the warnings of a \"third intifada\" draw on that history. Since the 7 October 2023 Hamas-led attacks, the article notes a surge in settlement expansion and settler violence, with more than 1,100 Palestinians killed in the West Bank by Israeli forces or settlers.\n\n## Multiple Perspectives\n\nIsrael's opposition is unusually united and blunt here. Eisenkot, Lapid, Golan and Tibon all frame the arson as \"Jewish terrorism\" and tie it directly to government policy — Lapid citing \"criminal negligence\" and \"silence\", Golan arguing only replacing the government can prevent escalation. They single out far-right ministers Ben-Gvir and Smotrich. Netanyahu, notably, has not responded to the accusations. Palestinians, per local reports, describe burning vehicles, torched homes and an agricultural building across villages including Deir al-Sudan, Deir Ballut and Deir Abu Mashal, plus a 72-year-old woman shot dead near Jericho. Internationally, Australia, the UK and the UN treat the settlements as illegal.\n\n## What to Watch\n\nWatch whether Netanyahu responds and whether Israel deploys the tools Eisenkot urged — administrative detention and Shin Bet operations. Watch the government-formation clock: Eisenkot has 28 days, with a possible 14-day extension, and his prospects are described as uncertain. And watch whether more countries follow Australia and the UK with sanctions, deepening what Golan called Israel's \"unprecedented international isolation\".",
+    "concepts": [
+     {
+      "term": "Jewish terrorism",
+      "definition": "The phrase used by Israeli opposition leaders to describe violent attacks by militant Israeli settlers against Palestinians and their property.",
+      "context": "Eisenkot, Lapid and others used it to condemn the arson attacks and pin responsibility on the government."
+     },
+     {
+      "term": "third intifada",
+      "definition": "A feared new large-scale Palestinian uprising against Israeli occupation, following earlier uprisings known as intifadas.",
+      "context": "Golan and Tibon warned the West Bank was 'on the brink of an explosion' that could trigger one."
+     },
+     {
+      "term": "occupied West Bank",
+      "definition": "Palestinian territory the UN regards as under Israeli military occupation since 1967.",
+      "context": "The setting for the settler attacks and the focus of Australian and UK sanctions."
+     },
+     {
+      "term": "administrative detention",
+      "definition": "Holding someone without trial or formal charge, a tool Eisenkot urged the government to use against the rioters.",
+      "context": "Named alongside Shin Bet operations as a way to stop the settler violence."
+     }
+    ],
+    "quiz": {
+     "question": "Why did the settler arson attacks cause a political row inside Israel?",
+     "options": [
+      "Opposition leaders accused Netanyahu's government of enabling 'Jewish terrorism' through its silence and policies",
+      "Netanyahu ordered the attacks himself and admitted it publicly",
+      "Australia threatened to invade the West Bank in response",
+      "The attacks were carried out by Palestinian militants against settlers"
+     ],
+     "answer_index": 0,
+     "explanation": "Figures like Eisenkot, Lapid and Golan called the arson 'Jewish terrorism' and blamed government negligence and far-right ministers; Netanyahu had not responded."
+    },
+    "background_beginner": "The West Bank is land the United Nations considers Palestinian territory, occupied by Israel since 1967. Over the years Israel has built settlements there that much of the world sees as illegal, and tensions between Israeli settlers and Palestinians frequently turn violent. The main players here are Israeli Prime Minister Benjamin Netanyahu, his far-right ministers Ben-Gvir and Smotrich, and opposition figures like Gadi Eisenkot who oppose them. Violence spiked after the 7 October 2023 Hamas-led attacks on Israel. It keeps coming up because settler attacks, Palestinian deaths and international sanctions — now including from Australia and the UK — keep escalating, raising fears of a wider uprising.",
+    "impact_score": 72,
+    "image_url": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=1920&quality=85&auto=format&fit=max&s=58a4640898cf347bcdf65309ff47773b",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have triggered sharp condemnation from Israeli opposition leaders, who branded them \"Jewish terrorism\".",
+    "tier": "GLOBAL",
+    "category": "SOCIETY_CULTURE",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-22T19:24:59.841006+00:00",
+    "published_date": "2026-11-23",
+    "has_fulltext": true
+   },
+   {
     "id": "ee33df1f-7b3d-5793-b195-17b66bd6fe48",
     "title": "Bahrain says Iranian attack causes fire at industrial facility",
     "simplified_title": "Bahrain says Iranian strike sparks fire at industrial site",
@@ -971,145 +1049,135 @@
     "has_fulltext": true
    },
    {
-    "id": "9fd0f19c-2cc9-5a1b-8d7e-a6dd6d9e13b7",
-    "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-    "simplified_title": "Saudi Arabia Intercepts Houthi Missiles Aimed at Riyadh",
-    "quick_summary": "A Saudi-led coalition shot down three Houthi ballistic missiles headed for Riyadh after launching air raids on Yemen, sharply escalating cross-border attacks.",
-    "simplified_body": "Early on Saturday, the Saudi-led coalition said it intercepted and destroyed three ballistic missiles that Yemen's Houthi rebels fired at the Saudi capital, Riyadh. Hours later it said it downed a drone sent towards the kingdom's south. The attacks followed a coalition \"special operation\" on Friday that hit the Red Sea port of Hodeida, which the coalition says is used to smuggle Iranian weapons, plus military targets in Sanaa, Saada and Taiz.\n\nThis hits ordinary people on both sides. Riyadh issued eight emergency alerts in 24 hours, and a Houthi strike two days earlier damaged the Public Investment Fund tower — Saudi Arabia's sovereign wealth fund headquarters and the city's tallest skyscraper. The Houthis warned airlines that Saudi airspace was \"unsafe\" and told shipping firms to evacuate Jeddah port.\n\nBackground: Yemen's civil war pits the Iran-backed Houthis, who seized the capital Sanaa in 2014, against an internationally recognised government backed by the Saudi coalition, which intervened in 2015. That war killed hundreds of thousands and caused one of the world's worst humanitarian crises. A four-year truce collapsed in July, and the Houthis launched a sweeping offensive in September, now advancing near Aden.\n\nCasualty claims are contested: the Houthis say coalition strikes killed 41 people in 24 hours, while Saudi-backed forces say their attacks killed or wounded 193 Houthi fighters. Neither figure could be independently verified. The United Nations said it was watching with concern, warning the fighting could threaten supply routes for humanitarian aid.",
-    "why_it_matters": "Saudi Arabia is the world's top oil exporter, so sustained attacks on its capital and ports risk rattling global energy markets — something that flows through to petrol prices at Australian pumps.",
-    "deep_analysis": "## Historical Context\n\nYemen's war has run for roughly a decade. The Houthis, a movement from northern Yemen, took the capital Sanaa in 2014, pushing out the internationally recognised government. A Saudi-led coalition intervened in early 2015, triggering a conflict that left hundreds of thousands dead and produced what the UN has repeatedly called one of the world's worst humanitarian crises. A four-year truce brought relative calm until it collapsed in July. Since September the Houthis have been on the offensive, taking ground near the Bab al-Mandab strait and advancing towards Aden, the interim capital.\n\n## Multiple Perspectives\n\nThe coalition frames its Hodeida strikes as targeting smuggling and weapons-transport capabilities, and the recognised government backs that, accusing the Houthis of receiving smuggled Iranian weapons through the port. The Houthis cast their missile and drone launches as reprisals, and claim \"accurate and direct\" hits on a power station and Jizan port. Casualty figures diverge sharply and, as both articles stress, cannot be independently verified. The UN, standing apart, frames the escalation purely through its humanitarian risk.\n\n## What to Watch\n\nWatch whether the Houthis follow through on threats to Jeddah, other Red Sea ports and Riyadh's financial district, and whether warnings that Saudi airspace is \"unsafe\" disrupt aviation. On the ground, the Houthi advance towards Aden could reshape the war. Any strike that seriously damages oil or financial infrastructure would be the moment markets react.",
+    "id": "322f4ed3-c99a-532f-baec-973cae3aee49",
+    "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+    "simplified_title": "Drone Attacks Kill Four Near Sudan's Capital, Damage UN Building",
+    "quick_summary": "Drone attacks blamed on Sudan's paramilitary Rapid Support Forces killed four people around the capital Khartoum and damaged a United Nations building.",
+    "simplified_body": "Early on Sunday, drone attacks struck residential areas in and around Sudan's capital, Khartoum, killing four people and damaging a United Nations (UN) building while staff were inside. Explosions rang out between roughly 2am and 4:30am as the army tried to shoot the drones down. Three people were killed and nine wounded when a drone hit a home in northern Omdurman, and a child was killed in a separate strike south of the capital. The attacks are blamed on the Rapid Support Forces (RSF), a paramilitary group.\n\nThe violence hits civilians and aid workers hardest. The UN's humanitarian office, which coordinates emergency relief, called the damage to its building in a civilian neighbourhood \"unacceptable\". A Sudanese army source claimed the drones were launched from Ethiopia's Bahir Dar airport, an allegation that could not be independently verified. Ethiopia has previously denied letting the RSF attack from its territory.\n\nSudan's war began in April 2023 between the national army and the RSF. It has become one of the world's worst humanitarian crises, with 13 million people displaced and some regions facing famine. Both sides increasingly rely on drones: the UN says more than 1,100 people were killed by drones in the first half of this year, and UNICEF, the UN Children's Fund, says drones caused about two-thirds of children killed or injured between January and September.\n\nSudan has lodged complaints with the UN Security Council and the African Union over the alleged Ethiopian-based operations. It has also accused RSF fighters of executing captured soldiers near the Ethiopian border, a claim that is also unverified. Expect continued drone warfare and mounting diplomatic friction between Sudan and Ethiopia.",
+    "why_it_matters": "Sudan's war is one of the world's largest displacement crises, and the growing reliance on drones is putting civilians, children and aid workers — including UN staff Australia helps fund through humanitarian programs — at escalating risk.",
+    "deep_analysis": "## Historical Context\n\nSudan's war broke out in April 2023 between the national army and the Rapid Support Forces (RSF), a paramilitary group. What began as a power struggle has spiralled into one of the world's worst humanitarian crises, with 13 million people displaced and some regions facing famine. As the fighting has dragged on, both sides have leaned increasingly on drone warfare to strike enemy targets — a shift that has proven especially deadly for civilians.\n\n## Multiple Perspectives\n\nThe Sudanese army source blames the RSF and says the drones were launched from Ethiopia's Bahir Dar airport, and the government has lodged formal complaints with the UN Security Council and the African Union. Ethiopia, for its part, has previously denied allowing the RSF to operate from its soil, and the article notes the launch-site allegation could not be independently verified. The UN's humanitarian office condemned the strike near its building as \"unacceptable\", focusing on the threat to civilians and aid workers. A separate government accusation — that the RSF executed captured soldiers near the Ethiopian border — also remains unverified.\n\n## What to Watch\n\nWatch whether the drone campaign intensifies and spreads further into residential and civilian areas. Diplomatically, keep an eye on how the UN Security Council and African Union respond to Sudan's complaints, and whether tensions with Ethiopia escalate. The toll on children — already about two-thirds of those killed or injured by drones — is a key indicator of how the war's shifting tactics are affecting the most vulnerable.",
     "concepts": [
      {
-      "term": "ballistic missiles",
-      "definition": "Powerful rockets that follow a high, arcing flight path to hit distant targets, hard to shoot down once launched.",
-      "context": "The coalition said it intercepted three ballistic missiles aimed at Riyadh."
+      "term": "Rapid Support Forces (RSF)",
+      "definition": "A Sudanese paramilitary group fighting the national army; blamed for the drone attacks described here.",
+      "context": "The attacks are blamed on the RSF, which has been at war with Sudan's army since April 2023."
      },
      {
-      "term": "sovereign wealth fund",
-      "definition": "A government-owned investment fund that manages a country's surplus money, often from oil revenue.",
-      "context": "The damaged Public Investment Fund tower houses Saudi Arabia's sovereign wealth fund."
+      "term": "UN Security Council",
+      "definition": "The United Nations body responsible for maintaining international peace and security.",
+      "context": "Sudan lodged formal complaints with the Security Council over alleged drone operations from Ethiopia."
      },
      {
-      "term": "special operation",
-      "definition": "A targeted, limited military action, here used by the coalition to describe its strikes on Yemeni ports and cities.",
-      "context": "The coalition launched a 'special operation' on Hodeida and other targets."
+      "term": "African Union",
+      "definition": "A continental organisation bringing together African nations to coordinate on political and security issues.",
+      "context": "Sudan also complained to the African Union about the alleged Ethiopian-based attacks."
      },
      {
-      "term": "coalition",
-      "definition": "A group of countries acting together militarily, here led by Saudi Arabia against the Houthis.",
-      "context": "The Saudi-led coalition said it destroyed another drone fired towards the kingdom's south."
+      "term": "UNICEF",
+      "definition": "The UN Children's Fund, which works to protect children's rights and welfare worldwide.",
+      "context": "UNICEF reported drones caused about two-thirds of children killed or injured in Sudan this year."
      }
     ],
     "quiz": {
-     "question": "Why did the Houthis say they launched missiles at Riyadh on Saturday?",
+     "question": "Why are drone attacks a particular concern for civilians in Sudan's war?",
      "options": [
-      "In reprisal for the coalition's 'special operation' strikes on Hodeida and other targets",
-      "Because the UN asked them to escalate the conflict",
-      "In response to a rise in global oil prices",
-      "To mark the anniversary of the 2015 coalition intervention"
+      "They are only used by the Sudanese army",
+      "They caused about two-thirds of children killed or injured and killed over 1,100 people in six months",
+      "They have replaced all ground fighting",
+      "They are banned under a recent ceasefire"
      ],
-     "answer_index": 0,
-     "explanation": "Both articles state the Houthis vowed revenge and struck Riyadh after the coalition's Friday 'special operation' on Hodeida and other sites."
+     "answer_index": 1,
+     "explanation": "The UN reported more than 1,100 people killed by drones in the first half of the year, and UNICEF said drones accounted for about two-thirds of children killed or injured from January to September — showing how deadly they are for civilians."
     },
-    "background_beginner": "Yemen, on the southern tip of the Arabian Peninsula, has been in civil war for about a decade. On one side are the Houthis, an armed movement backed by Iran that seized the capital, Sanaa, in 2014. On the other is Yemen's internationally recognised government, supported by a military coalition led by neighbouring Saudi Arabia, which stepped in during 2015. The war has killed hundreds of thousands and left millions needing aid. A truce held for four years but broke down in July 2026, and the Houthis began a major offensive. They regularly fire missiles and drones across the border at Saudi Arabia, which tries to shoot them down — which is why it keeps making headlines.",
+    "background_beginner": "Sudan, a large country in northeast Africa, has been gripped by civil war since April 2023. The fighting pits the national army against the Rapid Support Forces (RSF), a powerful paramilitary group — two former allies now battling for control. The conflict has become one of the world's worst humanitarian disasters, forcing 13 million people from their homes and pushing some areas towards famine. Lately, both sides increasingly use drones to strike each other, and these attacks often hit homes, killing and wounding civilians, including many children. Sudan accuses neighbouring Ethiopia of letting the RSF launch drones from its territory — a claim Ethiopia denies — keeping the war in the headlines.",
     "impact_score": 68,
-    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b010dd74d22-1795231191.jpg?resize=1200%2C675",
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03005929fe-1795358809.jpg?resize=1920%2C1440",
     "region": "Middle East & Africa",
     "region_code": "MIDDLE_EAST_AFRICA",
-    "description": "A Saudi-led coalition shot down three Houthi ballistic missiles headed for Riyadh after launching air raids on Yemen, sharply escalating cross-border attacks.",
+    "description": "Drone attacks blamed on Sudan's paramilitary Rapid Support Forces killed four people around the capital Khartoum and damaged a United Nations building.",
     "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
+    "category": "CRIME_SAFETY",
     "sources": [
      {
       "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss"
-     },
-     {
-      "name": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation"
+      "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [
-     "6811232b-d600-5417-ac05-40c7d735f867",
-     "7308cd9f-3015-5c23-9b39-94db15faaabb",
-     "81a14a1d-600e-5120-9f0a-ff82714d6222",
-     "938d55fd-561c-5289-999e-daf1c9d0d934",
-     "9c55d09b-8aa4-542f-b2b5-9e7ed820161e"
-    ],
-    "reading_minutes": 1,
-    "created_at": "2026-11-21T07:24:54.630629+00:00",
-    "published_date": "2026-11-21",
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-22T19:24:58.023834+00:00",
+    "published_date": "2026-11-23",
     "has_fulltext": true
    }
   ],
   "AMERICAS": [
    {
-    "id": "0fbedfd4-c4b1-5192-ae71-857716042e0d",
-    "title": "Palisades fire: Man guilty of starting one of California's deadliest blazes",
-    "simplified_title": "Man found guilty of starting deadly LA Palisades fire",
-    "quick_summary": "A Los Angeles jury has convicted 30-year-old Jonathan Rinderknecht of arson for starting the 2025 Palisades fire that killed 12 people and destroyed thousands of buildings.",
-    "simplified_body": "A jury in Los Angeles has found Jonathan Rinderknecht, a 30-year-old US-French man and former ride-share driver, guilty on two federal arson charges. Prosecutors said he lit a brush fire on 1 January 2025 in the hills of the Santa Monica Mountains. Crews initially put it out, but it kept smouldering underground in root systems and flared back up days later amid fierce winds, becoming the catastrophic Palisades fire.\n\nThe blaze killed 12 people, destroyed roughly 6,800 buildings across Pacific Palisades and parts of Malibu, and caused an estimated US$150 billion in property losses. One charge covered the original fire, the other the damage when it reignited. Rinderknecht had pleaded not guilty and is due to be sentenced on 17 March, facing between five and 20 years on each count — up to 40 years total.\n\nThis was the second trial. An earlier one ended in June when a hung jury (a jury that can't agree) led the judge to declare a mistrial, and prosecutors retried the case with modified charges. They relied on security camera footage, iPhone geolocation data and witness testimony, arguing he resented the wealthy. His defence argued there wasn't enough physical evidence and that fireworks could have sparked the blaze.\n\nThe Palisades fire was one of several that hit Los Angeles in January 2025. A separate fire in Eaton Canyon, blamed on sparks from an electrical transmission tower, killed 19 people in Altadena. Together the fires left 31 dead and destroyed about 16,000 structures. Many residents are still displaced and struggling to rebuild.",
-    "why_it_matters": "It's a rare arson conviction for one of the deadliest fire disasters in Los Angeles history, and a reminder for fire-prone places like Australia of how a single ignition in dry, windy conditions can turn catastrophic.",
-    "deep_analysis": "## Historical Context\n\nThe January 2025 Los Angeles fires were among the most destructive in California's history, erupting back-to-back across the region during fierce winds. The Palisades fire tore through an affluent seaside area, while a separate blaze in Eaton Canyon devastated Altadena. Combined, the two fires killed 31 people and destroyed roughly 16,000 structures, ranking as the deadliest wildfire disaster Los Angeles County has seen. Proving who or what starts a fire is notoriously hard, which is what makes this conviction notable — and why it took a retrial to secure.\n\n## Multiple Perspectives\n\nProsecutors, led by the US Attorney's Office for the Central District of California, framed the verdict as accountability and \"a measure of justice\" for grieving and displaced families. They portrayed Rinderknecht as a lonely man resentful of the wealthy, pointing to phone and camera data placing him at the scene. The defence said it was \"disappointed\" but respected the jury, having argued the case lacked physical evidence and that fireworks could have been the cause. Los Angeles Mayor Karen Bass — herself heavily criticised over the response — acknowledged that no verdict can undo the loss, with many still unable to rebuild.\n\n## What to Watch\n\nSentencing is set for 17 March, where the length of prison time (potentially up to 40 years) will be decided. Watch too for civil claims and rebuilding efforts given the enormous estimated losses, and for scrutiny of the Eaton Canyon fire's separate cause tied to electrical infrastructure, which could raise questions about utility responsibility.",
+    "id": "340ea5e9-b402-562b-8b45-a4c8bb245ee1",
+    "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
+    "simplified_title": "Measles kills young child in Virginia as US loses elimination status",
+    "quick_summary": "A child under five has died of measles in Virginia, just days after the US lost its 26-year status as having eliminated the disease.",
+    "simplified_body": "A young child, under the age of five, has died from a measles-related illness in Virginia, the state's health department announced on Friday. Authorities kept the details private out of respect for the family. It's the state's first measles death since 1978, and it landed just days after the United States (US) lost its official status as having eliminated the virus — a designation it had held for 26 years.\n\nThis hits unvaccinated children hardest. Virginia has logged 220 cases this year, most in the centre of the state, and nearly all among people who weren't vaccinated. Across the country, the picture is grim: Pennsylvania, the worst-hit state, has reported 1,631 cases and eight deaths; Wisconsin has reported two deaths; and New York recorded a death of a seven-month-old, its first in over three decades.\n\nMeasles is a highly contagious virus, usually prevented by the combined measles, mumps and rubella (MMR) vaccine. \"Elimination\" means a disease is no longer constantly spreading within a country — losing that status signals it has regained a foothold. Confusingly, the US Centers for Disease Control and Prevention (CDC) confirms only six measles deaths nationally in 2026, fewer than the states themselves report; the CDC doesn't name the states involved. It has tracked more than 5,800 cases this year, the most since 1991.\n\nIn August, President Donald Trump issued an executive order cutting recommended childhood vaccinations and falsely suggested the MMR shot could be dangerous. The CDC, meanwhile, says vaccination — not the elimination label — is what protects people, and has sent around US$100 million to health departments to boost vaccination and outbreak response.",
+    "why_it_matters": "A wealthy nation losing measles-elimination status after 26 years shows how quickly falling vaccination rates can revive a deadly disease — a cautionary tale for Australia, which still holds its own elimination status.",
+    "deep_analysis": "## Historical Context\n\nMeasles was declared eliminated in the US in 2000, meaning the virus was no longer continuously spreading within the country's borders. Losing that status after 26 years is a historic setback. Virginia's own figures underline the shift: the state hadn't recorded a measles-related death since 1978, and New York's recent death was its first in more than three decades. The national case count — more than 5,800 in 2026 — is the highest since 1991. For most of the past generation, measles deaths in the US were vanishingly rare, which makes the current surge a genuine reversal rather than a routine bad season.\n\n## Multiple Perspectives\n\nThere's a clear tension in the official response. The CDC maintains that \"vaccination, not the elimination designation, is what protects Americans,\" and has committed roughly US$100 million since August to strengthen vaccination, surveillance and outbreak response. Against that, President Trump's August executive order reduced recommended childhood vaccinations and included the false claim that giving the MMR vaccine as one shot could be \"lethal.\" Immunologist Frederic Bertley frames the spread as evidence the virus is gaining a foothold. There's also a data discrepancy worth flagging: individual states report more deaths (Pennsylvania eight, Wisconsin two, New York one, Virginia one) than the CDC's confirmed national figure of six, and the CDC doesn't specify states.\n\n## What to Watch\n\nWatch whether the CDC's funding and messaging can lift vaccination rates enough to slow the outbreaks and eventually regain elimination status. Keep an eye on whether mixed political messaging on the MMR vaccine undermines that effort, and whether the gap between state-reported and CDC-confirmed death tolls gets reconciled as the year closes.",
     "concepts": [
      {
-      "term": "arson",
-      "definition": "The crime of deliberately setting fire to property.",
-      "context": "Rinderknecht was convicted on two federal arson charges for starting the fire."
+      "term": "measles",
+      "definition": "A highly contagious viral illness that spreads easily and can be fatal, especially in young children.",
+      "context": "The virus at the centre of the outbreaks sweeping several US states in 2026."
      },
      {
-      "term": "mistrial",
-      "definition": "When a trial is ended without a verdict, often because the jury can't reach agreement, meaning it may be retried.",
-      "context": "The first trial ended in a mistrial in June before prosecutors retried the case."
+      "term": "MMR",
+      "definition": "The combined measles, mumps and rubella vaccine, a single shot that protects against all three diseases.",
+      "context": "The standard vaccine that prevents measles, which Trump falsely suggested could be dangerous."
      },
      {
-      "term": "geolocation data",
-      "definition": "Information from a device, like a phone, that records where it has been.",
-      "context": "Prosecutors used iPhone geolocation data to place the defendant at the scene."
+      "term": "elimination",
+      "definition": "The status a country earns when a disease is no longer constantly spreading within its borders.",
+      "context": "The US lost this designation for measles after holding it for 26 years."
      },
      {
-      "term": "transmission tower",
-      "definition": "A tall structure that carries high-voltage electrical power lines across the landscape.",
-      "context": "The separate Eaton Canyon fire was blamed on sparks from an electrical transmission tower."
+      "term": "CDC",
+      "definition": "The US Centers for Disease Control and Prevention, the national public health agency.",
+      "context": "The body tracking measles cases and funding vaccination efforts across the states."
      }
     ],
     "quiz": {
-     "question": "Why did the Palisades fire become so destructive days after it was first lit?",
+     "question": "Why is the US losing its measles \"elimination\" status significant?",
      "options": [
-      "Firefighters never responded to the original blaze",
-      "It kept smouldering underground and reignited in fierce winds",
-      "It merged with the Eaton Canyon fire",
-      "It was deliberately relit by the same man a second time"
+      "It automatically bans the MMR vaccine",
+      "It signals the virus is spreading continuously within the country again after 26 years",
+      "It means measles has been cured nationwide",
+      "It means the vaccine has stopped working entirely"
      ],
      "answer_index": 1,
-     "explanation": "Crews initially suppressed the 1 January brush fire, but it continued smouldering in root systems underground and flared back up days later amid strong winds, becoming catastrophic."
+     "explanation": "Elimination means a disease is no longer constantly spreading within a country; losing it after 26 years signals measles has regained a foothold and is circulating again, as seen in the 5,800-plus cases this year."
     },
-    "background_beginner": "In January 2025, a series of wildfires swept through the Los Angeles area during strong winds. The worst, the Palisades fire, hit the wealthy seaside neighbourhood of Pacific Palisades and nearby Malibu, killing 12 people and destroying thousands of homes. A separate fire in Eaton Canyon devastated the suburb of Altadena. Together they became the deadliest fire disaster in Los Angeles County's history. Investigators pointed to Jonathan Rinderknecht, a former ride-share driver, as the person who lit the Palisades blaze. His case keeps coming up because it's a rare criminal prosecution tied to such a massive disaster, and because many residents are still displaced and rebuilding.",
+    "background_beginner": "Measles is a highly contagious virus that was largely tamed in wealthy countries by the measles, mumps and rubella (MMR) vaccine. The US declared it \"eliminated\" in 2000, meaning it no longer spread constantly within the country. In 2026, outbreaks returned in force, mostly among unvaccinated people, and the US lost that elimination status. The main players are state health departments reporting cases and deaths, the US Centers for Disease Control and Prevention (CDC) coordinating the national response, and President Donald Trump, whose August order cut recommended childhood vaccinations and questioned the MMR vaccine. The topic keeps resurfacing because falling vaccination rates let a preventable, deadly disease spread again.",
     "impact_score": 72,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afb96c11f41c-1794873025.jpg?resize=1920%2C1440",
     "region": "North & South America",
     "region_code": "AMERICAS",
-    "description": "A Los Angeles jury has convicted 30-year-old Jonathan Rinderknecht of arson for starting the 2025 Palisades fire that killed 12 people and destroyed thousands of buildings.",
+    "description": "A child under five has died of measles in Virginia, just days after the US lost its 26-year status as having eliminated the disease.",
     "tier": "GLOBAL",
-    "category": "CRIME_SAFETY",
+    "category": "HEALTH",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o"
-     },
-     {
-      "name": "DW",
-      "url": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-rdf"
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss"
      }
     ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "67fb7ad2-9e27-54a0-89d2-665f0f45176a",
+     "e0ea3b44-6841-564f-99eb-a1ce4cc32d37",
+     "f7a1b98e-7636-5ad2-b8b6-0f55130901c5"
+    ],
     "reading_minutes": 2,
-    "created_at": "2026-11-21T07:24:54.877750+00:00",
-    "published_date": "2026-11-21",
+    "created_at": "2026-11-22T19:25:33.697048+00:00",
+    "published_date": "2026-11-23",
     "has_fulltext": true
    },
    {
@@ -1168,6 +1236,71 @@
     "reading_minutes": 2,
     "created_at": "2026-11-22T07:25:32.369528+00:00",
     "published_date": "2026-11-22",
+    "has_fulltext": true
+   },
+   {
+    "id": "a5b1355a-d043-564b-a9ac-e9b1d1acd315",
+    "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
+    "simplified_title": "El Salvador's troops battle gangs in Haiti's capital",
+    "quick_summary": "El Salvador has sent over 2,000 soldiers to help Haiti fight the gangs controlling much of its capital, and many Haitians are celebrating president Nayib Bukele as a saviour.",
+    "simplified_body": "Since mid-October, El Salvador's authoritarian president Nayib Bukele has sent more than 2,000 soldiers to Haiti to help local police push back the heavily armed gangs that control much of the capital, Port-au-Prince. Last week, Haitian police and Salvadoran troops retook the Sylvio Cator football stadium, which gangs had used as a base. Bukele says his forces now have \"the upper hand\", though this week saw heavy fighting in a gang stronghold called Village of God, and police reported killing at least 34 suspected criminals near the stadium.\n\nThe gang crisis has displaced more than 1.5 million people and killed thousands, so many Haitians are overjoyed. On the streets, crowds chant \"Viv Bukele!\" and describe him as a God-sent liberator. People shared stories of homes burned and neighbourhoods they still can't safely enter.\n\nBukele became famous for a harsh crackdown at home that began in early 2022. More than 90,000 Salvadorans have been jailed, giving El Salvador the world's highest per capita incarceration rate. Murders fell sharply, but critics say democracy and the rule of law were gutted, with thousands jailed without due process. The operation in Haiti was triggered by the 18 October abduction of four Salvadoran aviation technicians working for a United Nations (UN)-backed security force.\n\nWhat happens next is uncertain. Vice-president Félix Ulloa says troops will withdraw once the four men are recovered, insisting \"we are not there to stay\" — yet Bukele has hinted at bigger ambitions, and he faces an election in February. Some Haitians fear being abandoned \"halfway\", while others worry his forces can't reliably tell gang members from civilians.",
+    "why_it_matters": "A foreign strongman waging war on gangs raises big questions about whether security can be bought at the cost of democracy and human rights — a debate that resonates across the globe, including in the Pacific where Australia closely watches regional security interventions.",
+    "deep_analysis": "## Historical Context\n\nHaiti has endured decades of instability, and gang violence surged dramatically after an armed uprising that started in February 2024, when criminals captured much of Port-au-Prince. The national football ground, Sylvio Cator stadium — named after a Haitian athlete who won silver at the 1928 Olympics — fell under gang control, forcing the national team to play World Cup qualifiers abroad. Bukele's own reputation was forged at home: since early 2022, his mass-incarceration campaign has jailed more than 90,000 Salvadorans, slashing murder rates while drawing accusations that El Salvador's democracy has died. One activist noted that Haiti once sheltered independence hero Simón Bolívar in the early 1800s, framing Salvadoran help as a historic return of the favour.\n\n## Multiple Perspectives\n\nMany Haitians are elated, celebrating Bukele with banners, rallies and chants, seeing \"decisive\" foreign action as an indictment of their own and other leaders' failures. Writer and activist Monique Clesca argues Haiti's crisis is so dire — with reports of girls taken as sexual slaves and gang rape — that urgent action outweighs concerns about democracy. Bukele projects confidence, posting cinematic clips of helicopter strikes. Sceptics, however, worry he may be exaggerating his troops' role with online propaganda, and fear his indiscriminate approach — which jailed thousands of innocent Salvadorans without due process — could harm Haitian civilians and inflame an already war-like situation.\n\n## What to Watch\n\nWatch whether Salvadoran troops withdraw after recovering the four abducted technicians, as the vice-president promised, or stay longer as Bukele's hints suggest. The February election gives him a political incentive to keep burnishing his gang-busting image abroad. Also watch the civilian toll as fighting intensifies in gang strongholds, and whether early gains hold or the offensive makes the capital more volatile.",
+    "concepts": [
+     {
+      "term": "Nayib Bukele",
+      "definition": "El Salvador's authoritarian president, known for a harsh anti-gang crackdown at home, who has now sent soldiers to help Haiti fight its gangs.",
+      "context": "He is being celebrated by many Haitians as a saviour while critics warn his methods trample democracy and human rights."
+     },
+     {
+      "term": "Port-au-Prince",
+      "definition": "Haiti's capital city, much of which has been captured and controlled by heavily armed gangs.",
+      "context": "It is the focus of the joint Haitian-Salvadoran military operation to retake territory from gangs."
+     },
+     {
+      "term": "per capita incarceration rate",
+      "definition": "A measure of how many people are imprisoned relative to the size of a country's population.",
+      "context": "El Salvador now has the world's highest such rate after jailing more than 90,000 people since 2022."
+     },
+     {
+      "term": "due process",
+      "definition": "The legal requirement that people be treated fairly by the justice system, including fair trials before punishment.",
+      "context": "Critics say thousands of innocent Salvadorans were jailed without it during Bukele's crackdown."
+     }
+    ],
+    "quiz": {
+     "question": "What event triggered El Salvador sending troops to Haiti?",
+     "options": [
+      "The abduction of four Salvadoran aviation technicians on 18 October",
+      "A request from the United Nations to run Haiti's government",
+      "The capture of the Sylvio Cator football stadium by gangs",
+      "Bukele winning re-election in February"
+     ],
+     "answer_index": 0,
+     "explanation": "The article states the operation's trigger was the 18 October abduction of four Salvadoran aviation technicians who worked for a UN-backed security force."
+    },
+    "background_beginner": "Haiti, a Caribbean nation, has slid into chaos as armed gangs seized control of much of its capital, Port-au-Prince, displacing over 1.5 million people. Into this stepped Nayib Bukele, the president of El Salvador, a small Central American country. Bukele became famous (and controversial) for a brutal crackdown that jailed tens of thousands and dramatically cut his country's murder rate — making him a hero to some and a threat to democracy to others. In October 2025, after four of his citizens were kidnapped in Haiti, he sent over 2,000 soldiers to fight the gangs. The story keeps coming up because it tests whether tough security tactics justify the human-rights costs that come with them.",
+    "impact_score": 62,
+    "image_url": "https://i.guim.co.uk/img/media/d9bf18b7198e8e707b00e1c6907fa834d2d1bec4/373_0_2800_2240/master/2800.jpg?width=1920&quality=85&auto=format&fit=max&s=c539a513e5b8d893c65ba6ee7c5c7998",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "El Salvador has sent over 2,000 soldiers to help Haiti fight the gangs controlling much of its capital, and many Haitians are celebrating president Nayib Bukele as a saviour.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [
+     "5ff178e3-bec6-5569-b4bc-82cf962b8de5"
+    ],
+    "reading_minutes": 6,
+    "created_at": "2026-11-22T19:25:35.326537+00:00",
+    "published_date": "2026-11-23",
     "has_fulltext": true
    },
    {
@@ -1235,144 +1368,146 @@
   ],
   "GLOBAL_SYSTEMS": [
    {
-    "id": "a2c4501f-4f84-5452-9716-814d76c72683",
-    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-    "simplified_title": "Anthropic shares slide as AI sell-off rattles global markets",
-    "quick_summary": "Anthropic's stock fell on its second trading day as a broad sell-off in artificial intelligence and tech stocks dragged markets down worldwide.",
-    "simplified_body": "Anthropic, the company behind the Claude chatbot, floated on the US stock market on Thursday in what was described as the biggest initial public offering (IPO) in history. After a strong debut — shares jumped 17% to $97.17 — the stock tumbled on Friday, falling back towards its $83 offer price. The BBC reports it closed down 8.5%; the Guardian puts the fall at about 9%, landing around $88.\n\nThe drop came amid a wider rout. The Nasdaq Composite plunged 5.3% on Friday and, per the Guardian, erased all its 2026 gains, with roughly $4 trillion wiped off its value over the week. The S&P 500 and the Dow Jones Industrial Average both slid into \"correction territory\" — down 10% or more from recent highs. The selling spread globally: Asian markets had their worst week since 2020, and Taiwan suffered what was reported as its biggest weekly fall since 1990.\n\nThis matters because a small handful of tech giants have spent more than $1 trillion on AI in the past year, fuelling fears of a financial bubble. Anthropic was the first \"frontier\" AI firm to go public, so investors had no direct comparison to price it. Chip giant Nvidia also plunged — the sources disagree on why, with the BBC citing an unconfirmed US accounting investigation and the Guardian pointing to a California subpoena over chips ending up in China.\n\nAnalysts say Wall Street is shifting from \"rewarding growth at any price\" towards demanding profits and clear cash flow. Expect continued volatility as investors weigh whether the huge AI spending will ever pay off.",
-    "why_it_matters": "A global tech sell-off reaches Australian super funds and the ASX, which are heavily exposed to US tech and the AI boom, so a bursting bubble would be felt in retirement savings here.",
-    "deep_analysis": "## Historical Context\n\nThe run-up to this week was defined by an extraordinary surge in AI spending — more than $1 trillion from a handful of major tech companies in a single year. That scale has fuelled persistent talk of a financial bubble, echoing past manias where investment outran proven returns. Anthropic's listing was meant to be a confidence test: the first frontier AI firm to go public, with no direct peer to anchor its valuation. Analysts compared it to Elon Musk's SpaceX debut in June, which also swung wildly in its first weeks and was, at the time, the largest IPO on record — a title Anthropic has now reportedly taken.\n\n## Multiple Perspectives\n\nOptimists point out AI demand is still \"very strong\" and that the IPO proved appetite for AI exposure. Sceptics, however, note the flotation failed to steady nerves. Ed Moya of AlphaSense framed the core question as how much investors will pay for growth, with Wall Street now demanding \"a clearer path to profitability\". IG's Chris Beauchamp floated a mechanical explanation — Anthropic may be \"draining market liquidity\" as investors sell other tech stocks to buy into it. Capital.com's Daniela Hathorn warned the mood has shifted from \"buying the dip\" to questioning whether the correction has further to run, with weakness now spreading beyond the biggest names. Note the sources diverge on Nvidia's troubles.\n\n## What to Watch\n\nWatch whether Anthropic stabilises or keeps sliding towards its $83 price, and whether the Nvidia investigations (accounting per the BBC, chip-export per the Guardian) are confirmed. Broader signals include interest-rate fears lifting the US dollar to a 19-month high, gold sliding, and Bitcoin dropping below $60,000. Taiwan's exchange has already pledged to steady its market — a sign regulators are watching closely.",
+    "id": "a2b2cda8-b728-5d08-9bac-693b10cdddef",
+    "title": "COP31 climate talks fail to reach deal amid fossil fuel and money rows",
+    "simplified_title": "COP31 climate talks collapse over fossil fuels and money",
+    "quick_summary": "The UN's COP31 climate summit in Turkey ended without a main deal after countries clashed over mentioning fossil fuels and funding help for poorer nations.",
+    "simplified_body": "The COP31 (Conference of the Parties) climate summit, held in Antalya, Turkey, and co-led by Australia and Türkiye, failed to reach its main agreement. After two weeks of talks that ran 44 hours past their Friday deadline, it became the longest UN (United Nations) climate summit ever. The draft \"Antalya pact\" didn't directly mention fossil fuels, so the EU (European Union), the UK, Pacific island nations and others rejected it as too weak.\n\nThe breakdown affects almost 200 countries and the billions of people exposed to a warming planet. Developing nations were angry that the deal set no concrete figures or baseline for the promised tripling of climate finance to help them cope with heatwaves, droughts and floods. Oil producers like Saudi Arabia and Russia pushed back against naming fossil fuels at all. Any deal needs near-unanimous consensus, so a few hard \"red lines\" sank it.\n\nThese summits run yearly so countries can agree how to cut the emissions driving climate change. At Paris in 2015, nearly 200 nations agreed to try to limit warming to 1.5C above late-1800s levels. This was the first COP held after the UN confirmed the world is set to \"overshoot\" that 1.5C threshold.\n\nThe collapse doesn't erase obligations from earlier COPs. Some progress passed, including a \"just transition\" framework for workers shifting to clean energy and a Turkish goal to lift electricity's share of energy use to 35% by 2035. UN climate chief Simon Stiell said he'll seek advice on reforming the consensus process. COP32 is scheduled for November 2027 in Ethiopia.",
+    "why_it_matters": "Australia co-led these talks, with Climate Minister Chris Bowen as president of negotiations saying \"Australia left nothing on the field\" — so a rare failure on our watch puts the whole consensus-based UN climate process under scrutiny.",
+    "deep_analysis": "## Historical Context\n\nYearly UN climate summits, known as COPs, bring nearly 200 countries together to negotiate action on global warming. The landmark moment was Paris in 2015, when nations agreed to try to hold warming to 1.5C above pre-industrial levels. For years these deals avoided naming fossil fuels outright; only the 2023 COP28 agreement explicitly called to \"transition away\" from them. The last time a COP's main political deal collapsed without agreement was Copenhagen in 2009, making COP31's breakdown a rare and significant event.\n\n## Multiple Perspectives\n\nThe split was stark. The EU, UK, Norway, Panama and the Marshall Islands refused to endorse a pact that didn't mention fossil fuels — Ireland's Darragh O'Brien said the talks had been \"hijacked by some oil states\". Saudi Arabia and Russia resisted naming fossil fuels, with Russia warning that moving too fast could cause \"fuel poverty\". Yet it wasn't a simple rich-versus-poor divide: the Africa group, China, Pakistan and Ghana chose not to block the deal, arguing consensus and multilateralism mattered. Power Shift Africa's Mohamed Adow called it \"the worst Cop ever\" and accused Europe of \"staggering\" hypocrisy for demanding fossil fuel roadmaps while expanding fossil fuels itself. Climate Analytics' Bill Hare, by contrast, saw \"a real line in the sand moment\".\n\n## What to Watch\n\nExpect debate over whether the consensus rule — which lets a handful of nations veto a deal — can still work in a divided world; Simon Stiell has signalled possible reform. Watch the fight over climate finance baselines, the contested role of carbon capture and storage, and how carbon-removal technologies that \"do not yet exist at scale\" are meant to pull warming back below 1.5C. Next stop: COP32 in Ethiopia in November 2027.",
     "concepts": [
      {
-      "term": "initial public offering (IPO)",
-      "definition": "The first time a private company sells its shares to the public on a stock exchange, letting anyone buy a stake.",
-      "context": "Anthropic floated on the US market in what was described as the biggest IPO in history."
+      "term": "Antalya pact",
+      "definition": "The draft final deal put forward by the Turkish and Australian presidencies of COP31, which failed to win the consensus needed to pass.",
+      "context": "Named after Antalya, the Turkish city hosting the summit, it was meant to be the main outcome but was rejected for not mentioning fossil fuels."
      },
      {
-      "term": "correction territory",
-      "definition": "When a market index falls 10% or more from a recent high point — a notable but not catastrophic decline.",
-      "context": "The S&P 500 and the Dow Jones both slid into correction territory during the sell-off."
+      "term": "consensus",
+      "definition": "A decision-making rule where a deal needs near-unanimous agreement, meaning even a few objecting countries can block it.",
+      "context": "The UN climate process relies on consensus, which is why strong 'red lines' from some nations caused the whole deal to fail."
      },
      {
-      "term": "frontier AI firm",
-      "definition": "A company building the most advanced, cutting-edge artificial intelligence systems, pushing the limits of what the technology can do.",
-      "context": "Anthropic was the first frontier AI firm to go public, so investors had no direct comparison."
+      "term": "overshoot",
+      "definition": "When global warming temporarily rises past a target like 1.5C, with hopes of bringing it back down later.",
+      "context": "COP31 was the first summit held after the UN confirmed the world is set to overshoot the 1.5C Paris target."
      },
      {
-      "term": "financial bubble",
-      "definition": "When prices for an asset rise far above its real value on hype, risking a sharp crash when confidence fades.",
-      "context": "The pace of AI spending has fuelled fears of a financial bubble."
+      "term": "just transition",
+      "definition": "A framework to support workers and communities as economies shift from high-carbon industries towards clean energy.",
+      "context": "A just transition mechanism was one of the few areas where COP31 made progress despite the main deal collapsing."
      }
     ],
     "quiz": {
-     "question": "Why did analysts expect Anthropic's shares to be especially volatile in its first days of trading?",
+     "question": "Why did the EU, UK and Pacific island nations reject the final COP31 draft deal?",
      "options": [
-      "Because governments were threatening to shut it down",
-      "Because it was the first frontier AI firm to go public, with no direct peers to compare it to",
-      "Because it was banned from several stock exchanges",
-      "Because it had reported record losses the day before"
+      "It failed to directly mention fossil fuels, the main cause of global warming",
+      "It set warming targets that were too strict for their economies",
+      "It banned the use of carbon capture and storage technology",
+      "It removed all obligations agreed at previous COP summits"
      ],
-     "answer_index": 1,
-     "explanation": "The sources note Anthropic was the first frontier AI firm to list, so investors had no direct comparison to price it, making swings likely."
+     "answer_index": 0,
+     "explanation": "These nations objected because the draft didn't mention fossil fuels at all, which they argued made it too weak and risked greenwashing. Developing countries also objected to the lack of concrete finance figures."
     },
-    "background_beginner": "Anthropic is an artificial intelligence company best known for Claude, a chatbot that answers questions and writes text. This week it \"floated\" — sold shares to the public for the first time — on the US Nasdaq stock exchange, in what reports call the biggest such debut ever. It's a big deal because AI companies have been spending enormous sums building their technology, and investors are nervously asking whether all that money will ever turn a profit. When Anthropic's shares wobbled, it knocked confidence across the whole tech sector, dragging down giants like Nvidia and markets from Japan to Europe. The worry keeps resurfacing: is AI a genuine revolution, or an overhyped bubble?",
+    "background_beginner": "Every year the United Nations runs a big climate meeting called a COP, where nearly 200 countries try to agree on how to slow global warming. The most famous was Paris in 2015, where nations promised to try to keep warming below 1.5C above 1800s levels. These talks keep coming up because the planet keeps heating and deals need regular updating. The sticking points are always the same: should agreements name fossil fuels (coal, oil and gas) as the main problem, and how much money should rich countries give poorer ones to cope? COP31 was held in Turkey and co-led by Australia, and it collapsed over exactly those two arguments.",
     "impact_score": 78,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
     "region": "Global economy, markets, trade, international institutions",
     "region_code": "GLOBAL_SYSTEMS",
-    "description": "Anthropic's stock fell on its second trading day as a broad sell-off in artificial intelligence and tech stocks dragged markets down worldwide.",
+    "description": "The UN's COP31 climate summit in Turkey ended without a main deal after countries clashed over mentioning fossil fuels and funding help for poorer nations.",
+    "tier": "GLOBAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-23/cop31-talks-break-down-in-longest-ever-un-climate-debate/107414772"
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "517f40d9-1ac7-5f2f-90cd-20962fa91b96",
+     "656e9d79-176e-5aa4-a858-9a9eb0b0fd2f"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-11-22T19:25:03.052998+00:00",
+    "published_date": "2026-11-23",
+    "has_fulltext": true
+   },
+   {
+    "id": "ec2f3761-ffd9-5b26-9d0b-62e1cfc28018",
+    "title": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
+    "simplified_title": "UK-EU Deal to Scrap Most Food Border Checks from 2028",
+    "quick_summary": "Britain and the EU have agreed a deal to remove most physical checks on food, plant and animal exports from March 2028, which producers have cautiously welcomed.",
+    "simplified_body": "Britain and the European Union (EU) have struck a deal to scrap the vast majority of physical checks on food, plants and animal products. Known as the sanitary and phytosanitary (SPS) deal, it's due to take effect on 1 March 2028 and should reopen the EU market for UK goods like fresh sausages, burgers, seed potatoes and molluscs, while letting small British delis import European cheese and wine again. In return, the UK will follow some EU regulations.\n\nIt affects food exporters hit hard after Brexit, when Britain left the EU and decades-old trading arrangements were upended. Scottish seed potato farmers, who once made up three-quarters of UK production in a sector worth about £112m a year, were shut out of the EU entirely. Shellfish producers also struggled: three of four mussel companies in the Menai strait between the Welsh mainland and Anglesey stopped trading. Many producers say they'll stay cautious until the deal is actually in force.\n\nThe Treasury reckons the deal could boost the UK economy by up to £17bn a year, with no new cost to taxpayers. It also includes a youth mobility scheme. A separate proposal to lower tuition fees for EU students in the UK hasn't been agreed, though Foreign Secretary Ed Miliband insists the food, energy and mobility deals will go ahead regardless.\n\nReaction is split. Prime Minister Andy Burnham calls it a \"win-win\" that could cut red tape and living costs. Conservative leader Kemi Badenoch says it's unfair, forcing UK farmers to follow Brussels rules, while Reform UK's Nigel Farage brands it a \"betrayal\". Growers expect trading to fully resume only in 2029.",
+    "why_it_matters": "This deal reshapes how one of the world's biggest economies trades food with its nearest neighbours, and marks a notable softening of the hard lines drawn after Brexit — something worth watching for anyone tracking how countries unwind, or rebuild, major trade barriers.",
+    "deep_analysis": "## Historical Context\n\nBritain voted to leave the EU in the 2016 referendum, and the departure replaced seamless, frictionless trade with the bloc with a system of checks, certificates and veterinary sign-offs. For perishable goods that was a serious blow: dairy exporters faced bureaucratic delays and product waste, and whole product categories were simply shut out. Seed potatoes were never included in the post-Brexit trade deal after the two sides disagreed over certification, halting a trade in which Scottish farmers had been among the world's biggest exporters for chips and crisps. The new SPS deal is essentially an attempt to patch some of the most painful gaps that opened up after 2016.\n\n## Multiple Perspectives\n\nProducers are broadly positive but wary. Wyke Farms' Rich Clothier welcomes the end of veterinary checks, noting the industry is \"pretty aligned anyway\", while Offshore Shellfish's Sarah Holmyard calls the ability to export class B shellfish \"a huge win\". Yet seed potato operator Iain Barbour warns \"nobody's going to believe this until it has actually physically happened\", and says the March 2028 start is slightly late for the growing cycle. Politically, the government frames it as a £17bn-a-year, cost-free \"win-win\". Opponents disagree sharply: Badenoch disputes the £17bn figure and objects to following Brussels rules; Farage calls it a betrayal; the Lib Dems' Ed Davey says it doesn't go far enough. On tuition fees, universities like Manchester warn that EU students paying domestic fees could strip £500m from the sector.\n\n## What to Watch\n\nWhether the promised Parliamentary legislation lands on schedule for 2028; whether the separate tuition fees negotiation is resolved, and how universities are compensated; whether lapsed sectors — closed mussel firms, abandoned seed potato varieties — can actually rebuild. Miliband's comment that \"all the options will be on the table\", including rejoining, hints at a longer-term debate about the UK's EU relationship.",
+    "concepts": [
+     {
+      "term": "sanitary and phytosanitary (SPS) deal",
+      "definition": "An agreement covering rules on food safety and animal and plant health, here used to cut most physical border checks between the UK and EU.",
+      "context": "This is the core of the agreement and the main reason checks on food exports will be removed."
+     },
+     {
+      "term": "seed potatoes",
+      "definition": "Potatoes grown specifically to be planted to produce the next crop, rather than to be eaten.",
+      "context": "Scottish seed potato farmers were a major export sector that was completely shut out of the EU after Brexit."
+     },
+     {
+      "term": "molluscs",
+      "definition": "A group of shellfish including mussels, oysters, clams, cockles and scallops.",
+      "context": "Exporting live bivalve molluscs became difficult after Brexit, forcing several producers to close."
+     },
+     {
+      "term": "youth mobility scheme",
+      "definition": "An arrangement allowing young people to live and work across borders more easily.",
+      "context": "It's part of the wider package alongside the food and energy agreements."
+     }
+    ],
+    "quiz": {
+     "question": "Why do many producers, like seed potato grower Iain Barbour, remain cautious about the deal despite welcoming it?",
+     "options": [
+      "Because it only takes effect in March 2028 and they want to see it actually happen",
+      "Because it increases the cost of veterinary checks",
+      "Because the deal has already been cancelled once before",
+      "Because it bans the export of fresh sausages and burgers"
+     ],
+     "answer_index": 0,
+     "explanation": "The deal doesn't come into force until 1 March 2028, so producers like Barbour say nobody will believe it until it physically happens, and many expect to fully resume trading only in 2029."
+    },
+    "background_beginner": "Britain left the European Union (a group of nearby countries that trade freely with each other) after a 2016 vote called Brexit. Leaving meant new paperwork and inspections on goods crossing the border, which made exporting fresh food — like cheese, shellfish and seed potatoes — slow, costly or impossible. Some businesses adapted; others closed. The main players are the UK government, the European Commission (the EU's executive), and food producers caught in the middle. It keeps coming up because people keep arguing over how close Britain's ties to Europe should be. This new deal tries to remove most food checks from 2028 in exchange for Britain following some EU rules.",
+    "impact_score": 68,
+    "image_url": "https://i.guim.co.uk/img/media/fc6bd21dee533825a97356697dc7e6c3f56c42e6/0_153_3464_4329/master/3464.jpg?width=1920&quality=85&auto=format&fit=max&s=d1a1ce1f743b9b9fe398af7397bca448",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "Britain and the EU have agreed a deal to remove most physical checks on food, plant and animal exports from March 2028, which producers have cautiously welcomed.",
     "tier": "GLOBAL",
     "category": "ECONOMY_MARKETS",
     "sources": [
      {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks"
      },
      {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o"
      }
     ],
     "source_count": 2,
     "confidence": 0.7000000000000001,
     "related_story_ids": [
-     "073a5764-7eae-5d10-902a-5a2ab4c0a032",
-     "0da59b02-7964-59c9-bd4b-6036514dec0b",
-     "34b8ef30-194a-5ef1-bbd8-94c9b8a41005",
-     "6af20230-cb09-51f1-b47a-f70287cba5e5",
-     "6cb13f18-06c8-5ced-852d-900c0cb2b1da",
-     "73bfcf03-93c6-577e-b99d-0de921d5e328",
-     "8c2b781d-7d14-577b-bf17-cd85475f7b64",
-     "9c0637c4-f196-5a71-874a-bf36100d732e"
+     "c658e2a2-d64c-5d66-943d-9c7ebb54d76c"
     ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-21T07:24:59.828663+00:00",
-    "published_date": "2026-11-21",
-    "has_fulltext": true
-   },
-   {
-    "id": "517f40d9-1ac7-5f2f-90cd-20962fa91b96",
-    "title": "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal",
-    "simplified_title": "Cop31 climate talks run overtime in fight over fossil fuels",
-    "quick_summary": "Nearly 200 countries blew past the Friday deadline at the Cop31 summit in Turkey, deadlocked over a draft climate deal that didn't mention fossil fuels.",
-    "simplified_body": "The Cop31 United Nations (UN) climate summit in Antalya, Turkey, went into overtime, blowing past its scheduled Friday evening finish as nearly 200 countries failed to agree on a draft deal. An early, sprawling version of the text strongly called to speed up phasing out coal, oil and gas, but a shorter version released on Thursday dropped any mention of fossil fuels and watered down goals on electrification. \"At this point, no one is happy,\" said Brazil's climate secretary.\n\nThis affects basically everyone, because the deal shapes how fast the world moves off the fuels driving climate breakdown. Eight countries — Panama, Belgium, Côte d'Ivoire, Finland, Greece, the Solomon Islands, Sweden and others — demanded the \"transition away from fossil fuels\" language be restored. Civil society groups called it the \"worst Cop ever\", frustrated that a just transition mechanism and climate finance for poorer nations stalled.\n\nCop summits are the UN's annual climate negotiations, where every country effectively holds a veto, so deals need near-universal agreement. Several insiders accused Saudi Arabia, a longtime obstructer, of pushing carbon capture utilisation and storage (CCUS) as what one expert called a \"Trojan horse for fossil fuel interests\". African ministers from Ghana, Zambia, Senegal, Kenya and Sierra Leone staged a dramatic protest, saying they were being asked to pay for a crisis they didn't cause. \"We didn't come here to beg,\" said Ghana's Zanetor Agyeman-Rawlings.\n\nA new draft wasn't expected until Saturday morning. Australia's climate minister Chris Bowen, who is presiding over the talks, insisted \"no one has said to me, let's give up and go home.\" Overruns are common — the last Cop to finish on time was in Italy in 2003.",
-    "why_it_matters": "An Australian, climate minister Chris Bowen, is personally presiding over these fraught negotiations, putting the country's diplomacy under a global spotlight on whether a deal can be salvaged.",
-    "deep_analysis": "## Historical Context\n\nCop (Conference of the Parties) is the UN's annual climate summit, where nearly every nation negotiates together — and because outcomes rely on consensus, a handful of countries can slow or block progress. The 1.5C temperature goal referenced in the text was agreed in Paris, setting the benchmark these talks keep measuring themselves against. Overtime is the norm rather than the exception: the article notes the last Cop to finish on schedule was in Italy in 2003, with some dragging into the Sunday after the planned Friday close.\n\n## Multiple Perspectives\n\nThe divisions here are stark. Eight countries, led by Panama, insist a cover document that doesn't even mention fossil fuels is unacceptable — Panama sent president Chris Bowen a list of non-negotiable \"red lines\". African ministers framed the money question in historical terms, accusing rich nations of a \"third exploitation\" after slavery and colonialism by using carbon taxes to block their use of critical minerals. The European Union, accused of obstructing finance talks, countered that it is \"by far\" the world's leading donor, citing €32.3bn in public funds for 2025. Meanwhile insiders point to Saudi Arabia pushing CCUS, which analyst Neil Grant described as a \"Trojan horse for fossil fuel interests\".\n\n## What to Watch\n\nThe immediate signal is Saturday morning's new draft: whether \"transition away from fossil fuels\" language returns, and how heavily CCUS features. Watch too for movement on climate finance and the stalled just transition mechanism, the issues African nations and civil society say are dealbreakers. Bowen's handling as president will shape both the outcome and perceptions of Australian climate diplomacy.",
-    "concepts": [
-     {
-      "term": "CCUS",
-      "definition": "Carbon capture utilisation and storage — technology that traps carbon dioxide emissions so they aren't released into the atmosphere, which critics argue can be used to justify continued fossil fuel use.",
-      "context": "Saudi Arabia was reportedly pushing for CCUS to be strongly referenced in the final deal."
-     },
-     {
-      "term": "just transition mechanism",
-      "definition": "A framework meant to ensure the shift to low-carbon energy is fair, embedding social, racial and economic justice rather than leaving workers and poorer communities behind.",
-      "context": "Civil society groups were frustrated the just transition mechanism agreed last year wasn't carried forward."
-     },
-     {
-      "term": "electrification",
-      "definition": "Replacing fossil-fuel-powered systems (like petrol cars or gas heating) with ones that run on electricity, ideally from clean sources.",
-      "context": "The shorter Thursday draft weakened goals on electrification."
-     },
-     {
-      "term": "climate finance",
-      "definition": "Money provided by wealthier, higher-polluting nations to help developing countries cut emissions and cope with climate impacts.",
-      "context": "African nations wanted serious discussion of climate finance, accusing richer countries of obstructing it."
-     }
-    ],
-    "quiz": {
-     "question": "Why did eight countries including Panama object to the Thursday draft deal?",
-     "options": [
-      "It made no mention of fossil fuels and weakened electrification goals",
-      "It banned carbon capture technology entirely",
-      "It removed Australia as president of the talks",
-      "It set the temperature goal above 1.5C"
-     ],
-     "answer_index": 0,
-     "explanation": "The shorter Thursday version dropped any mention of fossil fuels and weakened electrification goals, prompting eight countries to demand the 'transition away from fossil fuels' language be restored."
-    },
-    "background_beginner": "Cop is the United Nations' yearly climate summit, where nearly every country sends negotiators to thrash out how the world tackles global warming. This one, Cop31, is being held in Antalya, Turkey, and is chaired by Australia's climate minister, Chris Bowen. The big recurring fight is whether rich and poor nations can agree on cutting fossil fuels (coal, oil and gas) and on who pays for the damage already caused. Decisions need near-universal agreement, so progress is slow and talks often run past their deadline. This year, a draft deal that left out fossil fuels sparked anger, with African nations and campaigners saying wealthy polluters aren't doing enough.",
-    "impact_score": 72,
-    "image_url": "https://i.guim.co.uk/img/media/eff0017ef98eb013ac9a7d931a6c35a43492efd1/337_0_5000_4000/master/5000.jpg?width=1920&quality=85&auto=format&fit=max&s=1f337ef472351325166a72b881250ce8",
-    "region": "Global economy, markets, trade, international institutions",
-    "region_code": "GLOBAL_SYSTEMS",
-    "description": "Nearly 200 countries blew past the Friday deadline at the Cop31 summit in Turkey, deadlocked over a draft climate deal that didn't mention fossil fuels.",
-    "tier": "GLOBAL",
-    "category": "ENVIRONMENT_CLIMATE",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [
-     "656e9d79-176e-5aa4-a858-9a9eb0b0fd2f"
-    ],
-    "reading_minutes": 3,
-    "created_at": "2026-11-21T07:24:57.291226+00:00",
-    "published_date": "2026-11-21",
+    "reading_minutes": 4,
+    "created_at": "2026-11-22T19:25:49.521957+00:00",
+    "published_date": "2026-11-23",
     "has_fulltext": true
    },
    {
@@ -1444,6 +1579,69 @@
    }
   ],
   "ADF": [
+   {
+    "id": "c07f70f4-4194-53a6-b1dc-815b8518f181",
+    "title": "US-China power gap narrows as Beijing gains ground, Lowy report finds",
+    "simplified_title": "US Power in Asia Slips as China Closes the Gap",
+    "quick_summary": "The Lowy Institute's 2026 Asia Power Index found the United States lost significant power and influence in Asia this year while China held steady, narrowing the gap to its tightest on record.",
+    "simplified_body": "The Lowy Institute, an Australian think tank, released its 2026 Asia Power Index and found the United States (US) had a record decline in diplomatic influence across Asia. The report blamed missteps by the Trump administration, including its war with Iran, which depleted US long-range missile stockpiles and drew attention away from the Indo-Pacific. China, meanwhile, held steady and strengthened its military, cultural influence and resilience. China now ranks first for both Economic Relationship and Diplomatic Influence, ahead of the US.\n\nThis matters for every country caught between the two superpowers. The US still leads overall, but the gap in military capability is the narrowest ever recorded, and the two are almost tied on economic capability. The authors stress the shift reflects a decline in US power rather than a rise in China's.\n\nThe Index scores countries on their \"comprehensive power\" — a mix of economic, military, diplomatic and cultural measures. Australia dipped slightly and fell one place to sixth, now behind Russia. The report credited Prime Minister Anthony Albanese with advancing economic interests but rated him weaker on diplomacy in Asia. South-East Asia had a rough year, with the Middle East conflict and Strait of Hormuz closure disrupting energy supplies, lifting fuel and fertiliser prices, and squeezing food production.\n\nIndia was a standout, growing its overall influence even as most countries went backwards. Prime Minister Narendra Modi is now rated the second-most effective regional leader, behind China's Xi Jinping, with researchers pointing to his stability and continuity. Watch whether US distraction continues and whether China keeps steadily closing the gap.",
+    "why_it_matters": "Australia sits right in the middle of this US-China contest, and the report shows its own standing slipping to sixth, behind Russia — a reminder that shifts in regional power land directly on our doorstep.",
+    "deep_analysis": "## Historical Context\n\nThe Lowy Institute's Asia Power Index has run for eight years, tracking how countries rank across economic, military, diplomatic and cultural measures. Over that time the US has remained the dominant power, but the trend lines tell a story of a steadily shrinking lead. Researcher Jack Sato noted the US advantage in military capability has fallen from 27 points in 2018 to just over 15 now. The 2026 edition marks the narrowest gap between the two superpowers since the Index began, with the economic capability difference down to 5.3 points.\n\n## Multiple Perspectives\n\nThe report's authors, Hunter Marston and Jack Sato, are clear that the narrowing \"owes more to Washington's missteps than to any advances on Beijing's part.\" Survey respondents saw the US as \"distracted and disengaged.\" The US faced criticism for pressing allies to spend more on their own defence and calling for fewer joint exercises with South Korea. China is framed as holding steady rather than surging. For smaller nations, the picture is tougher — diplomatic influence fell in nearly every country, and Indonesia saw the biggest drop, which the report tied to a \"haphazard approach to foreign policy\" under President Prabowo Subianto. India bucked the trend, credited for stability and continuity under Modi and Minister S. Jaishankar.\n\n## What to Watch\n\nKeep an eye on whether the US remains tied up in the Middle East and how that affects its Indo-Pacific focus. Watch China's continued military expansion and whether it starts making genuine gains rather than simply benefiting from US decline. For India, the question is whether it can sustain its rise despite internal challenges that dented its Economic Capability and Resilience scores. And for Australia, whether it can lift its diplomatic standing in the region.",
+    "concepts": [
+     {
+      "term": "Asia Power Index",
+      "definition": "An annual Lowy Institute report that ranks countries in Asia on their overall power, combining economic, military, diplomatic and cultural measures.",
+      "context": "The 2026 edition found the US lost ground while China held steady."
+     },
+     {
+      "term": "comprehensive power",
+      "definition": "A single combined score measuring a country's total influence across economic, military, diplomatic and cultural dimensions.",
+      "context": "Australia's comprehensive power dipped slightly, dropping it to sixth place."
+     },
+     {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage in the Middle East through which much of the world's oil and gas is shipped.",
+      "context": "Its closure disrupted energy supplies and pushed up fuel and fertiliser prices across the region."
+     },
+     {
+      "term": "Indo-Pacific",
+      "definition": "The broad strategic region spanning the Indian and Pacific oceans, central to US-China competition.",
+      "context": "Conflicts elsewhere drew US attention and defence networks away from the Indo-Pacific."
+     }
+    ],
+    "quiz": {
+     "question": "According to the report, why has the gap between US and Chinese power narrowed?",
+     "options": [
+      "Australia shifted its support from the US to China",
+      "China made rapid advances that overtook the US",
+      "India's rise pushed both superpowers down",
+      "It reflects a decline in US power rather than a rise in China's"
+     ],
+     "answer_index": 3,
+     "explanation": "The authors and researcher Jack Sato stressed the narrowing \"owes more to Washington's missteps than to any advances on Beijing's part\" — it reflects a decline in US power rather than a rise in China's."
+    },
+    "background_beginner": "Each year the Lowy Institute, an Australian think tank, publishes its Asia Power Index, which ranks countries by how much clout they hold in Asia. The main players are the two superpowers — the United States and China — along with rising nations like India and middle powers like Australia. For years the US has been the dominant force, but China has been steadily catching up, especially on economics and military strength. The topic keeps coming up because so much of the world's trade, security and future growth runs through Asia, and smaller countries in the region must constantly balance between the two giants. The 2026 report shows that balance shifting.",
+    "impact_score": 72,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/a69fa3626f6bc5b2f4a186f16d444332?impolicy=wcms_watermark_news&cropH=1959&cropW=3483&xPos=0&yPos=144&width=862&height=485&imformat=generic",
+    "region": "Australian defence, ADF, AUKUS, regional security",
+    "region_code": "ADF",
+    "description": "The Lowy Institute's 2026 Asia Power Index found the United States lost significant power and influence in Asia this year while China held steady, narrowing the gap to its tightest on record.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-22/us-loses-influence-in-asia-as-china-gains-in-lowy-power-index/107411514"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-22T19:25:30.907113+00:00",
+    "published_date": "2026-11-23",
+    "has_fulltext": true
+   },
    {
     "id": "2fe58836-078b-585d-bbb6-f68414ade22e",
     "title": "International UN talks on controlling use of autonomous weapons collapse",
@@ -1576,69 +1774,6 @@
     "reading_minutes": 3,
     "created_at": "2026-11-22T07:25:37.279064+00:00",
     "published_date": "2026-11-22",
-    "has_fulltext": true
-   },
-   {
-    "id": "bbb4ecf7-2163-51e2-8882-2ec0c07c5a66",
-    "title": "Let's see whether North Korea absorbs the experience it's getting in Ukraine | The Strategist",
-    "simplified_title": "Will North Korea Learn Real Lessons From Fighting in Ukraine?",
-    "quick_summary": "North Korea's gains from sending troops to the Russia–Ukraine war depend less on battle-hardened soldiers and more on whether its system actually turns those lessons into new training, tactics and weapons.",
-    "simplified_body": "North Korea has sent soldiers to fight alongside Russia in the war against Ukraine, including in Moscow's Kursk operations, which Pyongyang itself has admitted to. The real question, according to analysts at the Australian Strategic Policy Institute (ASPI), isn't how skilled those individual soldiers become. It's whether North Korea's military system absorbs what they learn and bakes it into revised training manuals, tactics and weapons production — a process the article calls \"selective institutionalisation\".\n\nThis matters for allies across the Indo-Pacific (the region spanning the Indian and Pacific Oceans). If North Korea improves its drone-supported artillery and gains advanced Russian technology, the United States and its allies may need to pour more military resources into the Korean Peninsula — leaving less flexibility for other regional contingencies. The most likely early gains are in small-unit tactics: better dispersion, concealment and defences against drone surveillance.\n\nHere's the background a newcomer needs. North Korea's progress is usually judged by flashy missile launches and weapons displays, but battlefield experience doesn't automatically produce real innovation. In its party-centred system, lessons must be reported, evaluated, politically approved and funded before they spread. The 2023 Malligyong-1 satellite launches show both sides of this: the system can mobilise fast for favoured programs, but political filtering can also block lessons that challenge established doctrine.\n\nWhat happens next is uncertain. Many of the war's lessons may not transfer, because the Korean Peninsula is mountainous and densely packed with forces, unlike mostly flat Ukraine. Genuine innovation would show up as revised manuals, new weapons designs and changed production. For now, evidence of combat participation is strong, but proof of systematic, military-wide learning is not yet established.",
-    "why_it_matters": "For Australia, the stakes reach beyond Korea: if North Korea's capabilities grow, allied resources may be tied down on the peninsula, squeezing operational flexibility elsewhere in the Indo-Pacific where Australian interests sit — and Australia's seat on the Multilateral Sanctions Monitoring Team gives it a window into exactly this.",
-    "deep_analysis": "## Historical Context\n\nNorth Korea's military build-up has long paired big strategic ambitions with very few chances to test gear and tactics in real combat. For decades, outside observers have measured its progress through missile tests and parades rather than battlefield performance. The Russia–Ukraine war changes that equation by giving Pyongyang sustained exposure to modern warfare — drones, electromagnetic warfare, dispersed infantry — plus potential access to Russian military-technical help. Satellite imagery analysed by the Center for Strategic and International Studies has tracked munitions transfers from North Korea to Russia since 2023, and the Multilateral Sanctions Monitoring Team's June 2025 report to the UN Security Council documented the deepening cooperation, including reported Russian air-defence and electromagnetic-warfare assistance.\n\n## Multiple Perspectives\n\nThe article's core argument is that experience alone proves little; the decisive factor is institutionalisation — whether information is transmitted, evaluated, authorised and built into doctrine or production. One view holds that North Korea's centralised, party-driven system can push favoured programs forward with impressive speed, as the successful 2023 Malligyong-1 orbit showed after two failures. The counterpoint is that the very same system can suppress lessons that threaten established doctrine, through political filtering and organisational rigidity. There's also a geography-based caution: adaptation on flat, lower-density Ukrainian battlefields may not translate to the mountainous, densely packed Korean Peninsula with its different communications and electromagnetic conditions.\n\n## What to Watch\n\nLook for concrete indicators of genuine learning rather than headline counts of what's shipped or received: revised training manuals, wider adoption of drone-supported artillery tactics, changes in weapons design, and adjustments to production processes. These would separate isolated battlefield adaptation from improvements embedded across the whole force. Also worth watching is whether North Korea can move beyond small-unit survival and artillery targeting toward integrated multi-domain operations — a far higher bar. For now, public evidence of that complete process is limited.",
-    "concepts": [
-     {
-      "term": "selective institutionalisation",
-      "definition": "The process by which a military filters battlefield lessons — transmitting, evaluating, approving and then building the useful ones into training, doctrine or production, while politics and priorities decide which lessons survive.",
-      "context": "The article argues this is the decisive mechanism determining whether North Korea actually benefits from combat experience."
-     },
-     {
-      "term": "small-unit tactics",
-      "definition": "How small groups of soldiers manoeuvre and fight — things like spreading out, staying concealed, and avoiding detection by drones.",
-      "context": "This is where North Korea's earliest and most likely gains from the war are expected to appear."
-     },
-     {
-      "term": "electromagnetic warfare",
-      "definition": "Military use of the electromagnetic spectrum — jamming, spoofing and protecting communications, radar and signals.",
-      "context": "Russia reportedly assisted North Korea in this area, but peninsula conditions differ, which may limit how well lessons transfer."
-     },
-     {
-      "term": "Multilateral Sanctions Monitoring Team",
-      "definition": "An international group, which Australia takes part in, that tracks North Korea's sanctions-busting and military cooperation with Russia.",
-      "context": "Its June 2025 report to the UN Security Council documented Russia–North Korea military cooperation and reported Russian assistance."
-     }
-    ],
-    "quiz": {
-     "question": "According to the article, what mainly determines whether North Korea benefits militarily from the Ukraine war?",
-     "options": [
-      "The individual combat skills of returning soldiers",
-      "Whether its system institutionalises battlefield lessons into training, tactics and production",
-      "How many troops it sends to Russia",
-      "The number of missiles it launches each year"
-     ],
-     "answer_index": 1,
-     "explanation": "The article stresses that improved individual skills matter far less than 'selective institutionalisation' — whether lessons are evaluated, approved and built into training, doctrine and production across the whole military."
-    },
-    "background_beginner": "North Korea is a secretive, tightly controlled country whose ruling party runs the military. It has spent decades building up weapons — especially missiles — but rarely gets to test them in actual war. Russia invaded Ukraine in 2022, and since then North Korea has supplied Russia with weapons and even sent soldiers to fight, including in Russia's Kursk operations. In return, Russia reportedly offers military technology and training. This keeps coming up because every real war teaches armies lessons, and allies like the United States and Australia worry that North Korea could use this hard-won experience to become more dangerous, especially around the Korean Peninsula and the wider Indo-Pacific region.",
-    "impact_score": 62,
-    "image_url": "https://www.aspistrategist.org.au/wp-content/uploads/2026/11/GettyImages-2258928119-scaled-e1795145037842.jpg",
-    "region": "Australian defence, ADF, AUKUS, regional security",
-    "region_code": "ADF",
-    "description": "North Korea's gains from sending troops to the Russia–Ukraine war depend less on battle-hardened soldiers and more on whether its system actually turns those lessons into new training, tactics and weapons.",
-    "tier": "GLOBAL",
-    "category": "POLITICS_POLICY",
-    "sources": [
-     {
-      "name": "ASPI Strategist",
-      "url": "https://www.aspistrategist.org.au/north-korea-gains-experience-in-ukraine-now-lets-see-whether-it-absorbs-it/"
-     }
-    ],
-    "source_count": 1,
-    "confidence": 0.55,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-21T07:25:32.290630+00:00",
-    "published_date": "2026-11-21",
     "has_fulltext": true
    }
   ],
@@ -1778,68 +1913,6 @@
     "has_fulltext": true
    },
    {
-    "id": "01e1b8f2-bfaa-5275-b139-4afd79e3761e",
-    "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
-    "simplified_title": "Trump threatens penalties on US tech firms building data centres overseas",
-    "quick_summary": "President Trump says he'll hit American tech companies with \"tremendous penalties\" if they build AI data centres outside the US, though he's given no detail and hadn't told his own officials.",
-    "simplified_body": "Donald Trump told reporters at the White House on Friday that he wants to stop US companies from building artificial intelligence (AI) data centres overseas, threatening a \"tremendous tax\" or \"tremendous penalties\" on firms that do. He offered little detail and admitted he hadn't even raised the idea with his own cabinet yet, so whether it becomes real policy remains unclear.\n\nThis matters to the big American tech firms — sometimes called \"hyperscalers\" because of their huge AI investments. Companies like Meta and Google have already signed deals to build data centres abroad: Meta has broken ground in Alberta, Canada, Anthropic has agreed to lease a site in Nova Scotia, and Google announced a €13bn investment in Finland. Trump singled out the Finland build, saying he was \"not allowing that to happen\". His reasoning is competition with China, which he says would otherwise \"take all of them\".\n\nData centres are the warehouse-style buildings full of advanced chips and servers that run AI tools like Claude and ChatGPT. They became a hot-button issue in the November US midterm elections, where many Democrats won by promising tougher rules — driven by local worries about noise and energy use. As of April there were roughly 3,000 across the US, with another 1,500 being built or approved, according to the Pew Research Centre.\n\nThe threat follows new rules this week requiring a licence to buy advanced chips, so officials can track whether China is quietly renting US computing power from overseas. How any overseas-build ban would actually be enforced is still an open question.",
-    "why_it_matters": "If the US clamps down on where its tech giants can build, it reshapes the global race for AI infrastructure — and countries courting these projects, including places in our own Asia-Pacific region, could find the rules suddenly shifting under them.",
-    "deep_analysis": "## Historical Context\n\nThe push to keep data centres on American soil is the latest front in a long-running contest between the US and China over artificial intelligence. Earlier in the week, Washington announced that firms would need a licence to buy advanced computer chips, so officials could monitor whether the computing power was being used to serve Chinese companies or smuggled into China. This came alongside reporting that the US had nonetheless signed off on sales of nearly 900,000 AI chips to China over six months — a sign the policy picture is messy. Data centres also surfaced as a genuine domestic issue in the 3 November midterm elections, where Democratic candidates ran on tougher construction rules, tapping into local anger over noise and energy consumption.\n\n## Multiple Perspectives\n\nTrump frames this as national security and economic nationalism: keep the infrastructure, and the jobs, at home, and don't let China \"take all of them\". Yet he also urged American communities to welcome the projects and squeeze concessions from developers — \"make them pay you... but don't shut them off\". The tech industry, facing local pushback, has been offering transparency and fewer government handouts. Companies like Meta, Google and Anthropic, meanwhile, have been expanding abroad — to Canada, which pitches itself as having less local resistance, and to Finland, where one Google build was partly halted over clearing more than 300 hectares of forest. Both the BBC and Guardian stress a key unknown: nobody, including apparently the administration, knows how such a ban would be enforced.\n\n## What to Watch\n\nWatch whether this off-the-cuff remark becomes actual policy, given Trump admitted he hadn't briefed his own cabinet. Keep an eye on how South East Asian countries that invested heavily in data centres respond to the chip-licensing rules, and whether firms with signed overseas deals — in Canada, Finland and elsewhere — push back or pause.",
-    "concepts": [
-     {
-      "term": "data centres",
-      "definition": "Large warehouse-style buildings that house the advanced computer chips and servers needed to run AI programmes such as Claude and ChatGPT.",
-      "context": "They are the physical backbone of the AI boom, and where they get built is now a political flashpoint."
-     },
-     {
-      "term": "hyperscalers",
-      "definition": "Big technology firms whose investments in AI and computing infrastructure are enormous in scale.",
-      "context": "Companies like Meta and Google fall into this group and are the ones Trump's threat would target."
-     },
-     {
-      "term": "midterm elections",
-      "definition": "US congressional and state elections held midway through a presidential term; these ones were on 3 November.",
-      "context": "Data centre regulation became a winning campaign issue for several Democratic candidates."
-     }
-    ],
-    "quiz": {
-     "question": "Why did Trump say he wants US tech firms to keep data centres inside the US?",
-     "options": [
-      "Because American land is cheaper than overseas land",
-      "To comply with a new United Nations treaty",
-      "Because he fears China would otherwise 'take all of them'",
-      "To reduce their electricity bills"
-     ],
-     "answer_index": 2,
-     "explanation": "Trump framed the threat around competition with China, saying 'China will take all of them, and we're not allowing that to happen' — it's about the US–China AI race, not cost or treaties."
-    },
-    "background_beginner": "Data centres are huge buildings packed with computers and chips that power artificial intelligence tools like ChatGPT and Claude. Building them has become big business, and the United States and China are racing to lead in AI. US President Donald Trump wants American tech giants — such as Meta and Google — to build these facilities at home rather than abroad, arguing that otherwise China benefits. The topic keeps coming up because AI is booming, the chips involved are strategically sensitive, and local communities in the US have pushed back over noise and energy use, making it a live political issue after the November 2026 midterm elections.",
-    "impact_score": 62,
-    "image_url": "https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/0_0_4285_2857/master/4285.jpg?width=1920&quality=85&auto=format&fit=max&s=45a956b605ad8eef451bb067b1409691",
-    "region": "AI and technology",
-    "region_code": "AI_TECH",
-    "description": "President Trump says he'll hit American tech companies with \"tremendous penalties\" if they build AI data centres outside the US, though he's given no detail and hadn't told his own officials.",
-    "tier": "GLOBAL",
-    "category": "SCIENCE_TECH",
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
-     },
-     {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
-     }
-    ],
-    "source_count": 2,
-    "confidence": 0.7000000000000001,
-    "related_story_ids": [],
-    "reading_minutes": 3,
-    "created_at": "2026-11-21T07:24:55.646281+00:00",
-    "published_date": "2026-11-21",
-    "has_fulltext": true
-   },
-   {
     "id": "96e23887-5a8e-5c1c-9476-109448458c6d",
     "title": "Google rolls out new search homepage with AI chat history and no search button",
     "simplified_title": "Google Redesigns Search Homepage, Drops the Search Button",
@@ -1899,5 +1972,5 @@
    }
   ]
  },
- "total_stories": 29
+ "total_stories": 30
 }
