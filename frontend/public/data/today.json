@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "generated_at": "2026-11-22T19:23:04.272491+00:00",
+ "generated_at": "2026-11-23T01:23:04.147178+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -141,6 +141,64 @@
     ],
     "reading_minutes": 4,
     "created_at": "2026-11-22T19:26:00.428908+00:00",
+    "published_date": "2026-11-23",
+    "has_fulltext": true
+   },
+   {
+    "id": "ff840907-3ad1-5982-8de3-32841b68866b",
+    "title": "PBS medicines to cost no more than $25 until end of decade",
+    "simplified_title": "PBS medicines capped at $25 until 2030",
+    "quick_summary": "The federal government will freeze the maximum price of subsidised PBS medicines at $25 until the end of the decade to ease cost-of-living pressures.",
+    "simplified_body": "The federal government has announced that medicines on the Pharmaceutical Benefits Scheme (PBS) will cost no more than $25 until 2030. Rather than cutting the price, the government is freezing the maximum co-payment at $25, so it won't creep up with inflation each year. Ministers say they'll move quickly to legislate the change, which will cost the budget an extra $242 million over three years.\n\nThis affects millions of general patients — people who don't hold a concession card. It brings them closer to concession card holders, whose prescriptions are already frozen at $7.70 until 2030. Health Minister Mark Butler said people without concession cards are also struggling, and the Pharmacy Guild and consumer groups say the saving matters most for those managing ongoing conditions like diabetes, asthma or high blood pressure.\n\nThe PBS is a scheme where the government subsidises certain medicines to make them cheaper. An independent body recommends what gets listed, with more than 900 prescription medicines currently on it. Cheaper medicines have been a key part of Labor's election pitches: ahead of 2022 it promised to cut most PBS medicines from $42.50 to $30, and in 2025 it promised $25.\n\nPrime Minister Anthony Albanese warned this is among \"limited\" cost-of-living relief, saying the government wants measures that don't worsen inflation. A Consumers Health Forum survey of more than 5,000 adults found almost half went without needed healthcare in the past year, with cost a major reason people skipped filling prescriptions.",
+    "why_it_matters": "For millions of Australians juggling tight household budgets, a frozen $25 cap means regular prescriptions won't keep climbing — potentially the difference between buying petrol and buying your pills.",
+    "deep_analysis": "## Historical Context\n\nCheaper medicines have become one of Labor's signature cost-of-living levers because the Commonwealth directly controls what patients pay at the pharmacy counter, and the effect is immediately visible every time someone fills a script. The PBS co-payment is normally indexed to inflation, so it slowly rises each year. Labor's recent track record shows a steady push downward: a promise to drop most medicines from $42.50 to $30 before the 2022 election, then a 2025 promise to cut to $25 at a cost of $690 million over four years. This latest move freezes that $25 figure rather than lowering it further.\n\n## Multiple Perspectives\n\nThe government frames the freeze as responsible relief that keeps people healthy and, in Albanese's view, doesn't fuel inflation — he argues healthier people ease budget pressure over time. Treasurer Jim Chalmers has flagged cheaper medicines and more bulk billing as options while trying to rein in spending. Advocates are supportive: the Pharmacy Guild's Trent Twomey says people shouldn't have to delay treatment because the budget won't stretch, and the Consumers Health Forum points to survey evidence that cost is driving people to skip prescriptions. The notable caution comes from Albanese himself, who stresses relief options are \"limited\".\n\n## What to Watch\n\nKeep an eye on whether the legislation passes smoothly and how quickly it takes effect. Also worth watching: what other \"limited\" cost-of-living measures the government rolls out, particularly the hinted expansion of bulk billing, and whether freezing (rather than cutting) the co-payment draws any debate about value for the $242 million cost.",
+    "concepts": [
+     {
+      "term": "PBS co-payment",
+      "definition": "The capped amount a patient pays for a subsidised medicine, with the government covering the rest of the cost.",
+      "context": "Freezing it at $25 stops the price creeping up with inflation each year."
+     },
+     {
+      "term": "concession card holders",
+      "definition": "People eligible for government concessions (such as pensioners or low-income earners) who pay a lower set price for medicines.",
+      "context": "Their PBS prescriptions are already frozen at $7.70 until 2030."
+     },
+     {
+      "term": "indexed to inflation",
+      "definition": "Automatically adjusted upward in line with rising prices across the economy.",
+      "context": "The PBS co-payment is normally indexed each year, which is why it creeps up over time."
+     }
+    ],
+    "quiz": {
+     "question": "What exactly is the government doing to PBS medicine prices with this announcement?",
+     "options": [
+      "Freezing the maximum co-payment at $25 until 2030 so it doesn't rise with inflation",
+      "Cutting the maximum price from $25 down to $7.70",
+      "Raising the price to keep pace with inflation",
+      "Removing all patient costs for PBS medicines"
+     ],
+     "answer_index": 0,
+     "explanation": "The government is freezing the maximum co-payment at $25 until the end of the decade, which stops the usual inflation-linked increases — it is not cutting the price further or making medicines free."
+    },
+    "background_beginner": "The Pharmaceutical Benefits Scheme (PBS) is an Australian government program that subsidises the cost of many prescription medicines, so patients pay only a set capped amount and the government covers the rest. More than 900 medicines are on it, chosen on the advice of an independent body. Over the years the patient price usually rises slightly because it's linked to inflation. The federal Labor government has repeatedly promised cheaper medicines at elections — dropping the cap from $42.50 to $30, then to $25 — because it's a visible, direct way to ease household budgets. It keeps coming up as cost-of-living pressures squeeze families.",
+    "impact_score": 62,
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/02a824c81aefedabe56defab740352b6?impolicy=wcms_watermark_news&cropH=1125&cropW=2000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "The federal government will freeze the maximum price of subsidised PBS medicines at $25 until the end of the decade to ease cost-of-living pressures.",
+    "tier": "LOCAL",
+    "category": "HEALTH",
+    "sources": [
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-23/albanese-cheaper-medicines-pbs-script-cost-of-living/107415508"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 3,
+    "created_at": "2026-11-23T01:24:47.639308+00:00",
     "published_date": "2026-11-23",
     "has_fulltext": true
    },
@@ -712,6 +770,76 @@
     "has_fulltext": true
    },
    {
+    "id": "93e44862-9c09-5176-b2f2-4159980d3c51",
+    "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+    "simplified_title": "Russian warship sunk in Libyan port in suspected Ukrainian drone attack",
+    "quick_summary": "A Russian navy corvette was sunk at the Libyan port of Benghazi in a suspected Ukrainian sea-drone strike, dramatically widening the war's reach.",
+    "simplified_body": "In the early hours of Sunday, a Russian navy corvette called the Merkury was hit by a suspected Ukrainian sea-drone attack while docked at the port of Benghazi in eastern Libya. The ship had stopped to refuel and take on supplies. Officials from Libya's eastern government said at least four drones were shot down but two struck the vessel, triggering a huge night-time explosion. Satellite imagery later showed the Merkury had capsized and sunk. Hours later, a Russia-linked cargo ship, the Ascalon, was also hit by a drone nearby; its crew were rescued with only minor injuries.\n\nThis matters because it stretches the nearly five-year war far beyond eastern Europe. Benghazi sits in the Mediterranean, over 1,000 miles from southern Ukraine. Libya's eastern authority, aligned with Russia, condemned the strike as a violation of its sovereignty, while Tripoli's internationally recognised government warned against hosting foreign forces. No one has claimed responsibility, and Moscow has not commented.\n\nFor background: Libya split into rival governments after leader Muammar Gaddafi was overthrown in 2011. The east is controlled by the Libyan National Army under General Khalifa Haftar, who has been aligned with Russia. Ukraine began the war with no navy but built sea drones — small, uncrewed, remote-controlled boats packed with explosives — that pushed Russia's Black Sea fleet into retreat. A Ukrainian special forces unit is reportedly based in western Libya.\n\nAnalysts say Ukraine is the most likely culprit. If confirmed, it would be one of Kyiv's most successful naval strikes of the war. Experts warn Haftar's forces may respond, and separate drone attacks on Russian ships in the Baltic Sea suggest the fighting is spreading onto new fronts.",
+    "why_it_matters": "A near five-year war has suddenly reached a North African port on another continent, showing how cheap drones can project conflict thousands of kilometres and threaten civilian shipping — a reminder for a trading nation like Australia of how vulnerable maritime routes have become.",
+    "deep_analysis": "## Historical Context\n\nLibya has been split and unstable since its long-time leader Muammar Gaddafi was overthrown in 2011, leaving two rival governments: the internationally recognised Government of National Unity in Tripoli, and the eastern Government of National Stability backed by General Khalifa Haftar's Libyan National Army. Haftar's camp has drawn close to Russia, and Benghazi's port has become increasingly useful to Moscow — especially for supplying Russian mercenary forces in Africa and as a Mediterranean foothold after Russia lost its bases in Syria.\n\nUkraine, meanwhile, started the war with no navy at all. It developed sea drones that proved able to threaten and sink Russian warships in the Black Sea, forcing the Russian fleet to retreat from Sevastopol in occupied Crimea to the eastern port of Novorossiysk.\n\n## Multiple Perspectives\n\nLibya's eastern GNS condemned the strike as a breach of its sovereignty and maritime safety, insisting Libya is not party to the war, and says it is coordinating with Russian counterparts to investigate. Tripoli's GNU warned against letting civilian ports be dragged into \"external conflicts\". The United Nations mission in Libya called for an immediate, independent and transparent investigation.\n\nAnalysts are blunter. Jalel Harchaoui of the Royal United Services Institute told the BBC that Ukraine is \"the only actor brazen enough to pull something like that off\" and expects Haftar's family to retaliate and question who is hosting the Ukrainians. Russia has stayed silent, and no one has formally claimed the attack.\n\n## What to Watch\n\nWatch for official confirmation of who carried out the strike, and for any response from Haftar's forces against suspected Ukrainian operatives. Also watch the widening geography: a Russian cargo ship, the Sparta II, was struck in the Baltic Sea and drifted into Finnish waters, with the Estonian navy warning further Gulf of Finland attacks can't be ruled out — raising fears the war is edging toward NATO territory.",
+    "concepts": [
+     {
+      "term": "corvette",
+      "definition": "The smallest class of warship, smaller than a frigate.",
+      "context": "The Merkury was a Russian navy corvette that had stopped to refuel in Benghazi."
+     },
+     {
+      "term": "sea-drone",
+      "definition": "A small, uncrewed, remotely controlled boat, often packed with explosives, used to attack ships.",
+      "context": "Ukraine built sea drones that forced Russia's Black Sea fleet to retreat."
+     },
+     {
+      "term": "sovereignty",
+      "definition": "A nation's right to control its own territory and affairs without outside interference.",
+      "context": "Libya's eastern authority called the strike a violation of its sovereignty."
+     },
+     {
+      "term": "corvette",
+      "definition": "",
+      "context": ""
+     }
+    ],
+    "quiz": {
+     "question": "Why is the strike on the Merkury considered significant beyond the loss of one ship?",
+     "options": [
+      "It triggered a formal declaration of war by Libya",
+      "It extended the Russia-Ukraine war over 1,000 miles away to a North African port",
+      "It was the first time a drone had ever been used in combat",
+      "It destroyed Russia's entire Black Sea fleet"
+     ],
+     "answer_index": 1,
+     "explanation": "The attack happened in Benghazi, more than 1,000 miles from southern Ukraine, marking a notable geographic expansion of the nearly five-year war onto another continent."
+    },
+    "background_beginner": "Russia and Ukraine have been at war for almost five years. Ukraine started with no navy but invented \"sea drones\" — small, explosive-packed robot boats — that have sunk and damaged Russian warships, pushing Russia's fleet out of Crimea. Libya, a North African country, has been split since its leader Muammar Gaddafi was toppled in 2011, with rival governments in the east and west. The eastern side, run by General Khalifa Haftar, has grown friendly with Russia and lets Russian ships use the port of Benghazi. Now a Russian warship has been sunk there in a suspected Ukrainian attack, showing how this war keeps spilling into new places far from the front lines.",
+    "impact_score": 68,
+    "image_url": "https://i.guim.co.uk/img/media/c0fd8f62484ab4d64caf50f26325c52bf73a9bd9/117_0_1057_610/master/1057.jpg?width=1920&quality=85&auto=format&fit=max&s=ccd395292f0e98bac30e458517bf0d29",
+    "region": "Europe incl. UK, Russia-Ukraine",
+    "region_code": "EUROPE",
+    "description": "A Russian navy corvette was sunk at the Libyan port of Benghazi in a suspected Ukrainian sea-drone strike, dramatically widening the war's reach.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+     },
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "3e8a9d3e-ea09-5b62-b974-1bdf1c4629da",
+     "9618c22c-883e-5604-baed-5619c9c5b0f7"
+    ],
+    "reading_minutes": 4,
+    "created_at": "2026-11-23T01:24:51.788127+00:00",
+    "published_date": "2026-11-23",
+    "has_fulltext": true
+   },
+   {
     "id": "9618c22c-883e-5604-baed-5619c9c5b0f7",
     "title": "Russia-bound ship attacked in Gulf of Finland",
     "simplified_title": "Russian cargo ship ablaze after drone strike in Gulf of Finland",
@@ -1114,6 +1242,82 @@
   ],
   "AMERICAS": [
    {
+    "id": "fb64a382-c227-59c9-983f-0f1ccfa2d7e8",
+    "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+    "simplified_title": "Democrats Win Biggest House Majority Since 1992",
+    "quick_summary": "Democrats have locked in at least 258 seats in the US House of Representatives — their largest majority in over three decades — after flipping a North Carolina seat in a recount.",
+    "simplified_body": "The US House of Representatives is the lower chamber of Congress, the country's law-making body. In the 2026 midterm elections, the Democratic Party won at least 258 of its 435 seats — the most since 1992. The milestone was reached on Sunday when Democrat Chuck Hubbard defeated long-serving Republican Virginia Foxx in North Carolina's 5th district by just 330 votes, after Foxx requested and lost a recount. Republicans hold at least 173 seats, with four races still undecided.\n\nThis matters because Democrats also flipped the Senate, giving them control of both chambers of Congress while Republican President Donald Trump stays in the White House. That's called \"divided government\". Democrats plan a 100-day agenda on cost-of-living issues and a wave of investigations into Trump, using their subpoena powers. Trump, though, can veto any bill they pass.\n\nMidterms happen halfway through a president's four-year term and are often read as a verdict on them. Experts say voters punished Republicans over the cost of living, the US-Israel war on Iran, corruption concerns and immigration raids by ICE (US Immigration and Customs Enforcement). A Reuters/Ipsos poll put Trump's approval at just 32 percent in November.\n\nThe new 120th Congress is sworn in on January 3. Democrat Hakeem Jeffries is in line to become the first Black Speaker of the House. He hasn't ruled out a third attempt to impeach Trump, while the White House has warned that the planned investigations could amount to \"blatant criminality\".",
+    "why_it_matters": "A US Congress controlled by Trump's opponents reshapes the final two years of his presidency — affecting global trade, security and the Iran war, all of which ripple through to Australia as a close US ally.",
+    "deep_analysis": "## Historical Context\n\nThe 258-seat tally is a genuine landmark. It matches the majority Democrats won in 1992 when Bill Clinton was first elected president, and edges past the 257 they held when Barack Obama won in 2008. It still falls short of the Franklin D. Roosevelt-era peaks, when Democratic House majorities swelled past 300. On the other side, Republicans have fallen to one of their lowest seat counts in decades — well below their 247 seats in 2014, the 230 that powered Newt Gingrich's 1994 \"revolution\", or their 1920 high of 301.\n\nThe scale of the win is striking because it spanned deep-red territory. Hubbard himself lost to Foxx by nine percentage points in 2024, yet flipped the seat two years later — part of a pattern that saw Democrats win in South Carolina, Texas, Alaska and Iowa.\n\n## Multiple Perspectives\n\nDemocrats are reading the result as a \"mandate for change\", in the words of Representative Alexandria Ocasio-Cortez. But there's a visible split on how to use it. Progressives like Jason Crow stress urgency on healthcare and ICE; centrist Tom Suozzi argues for spending 75% of time on affordability and only 25% on accountability. Troy Carter put it plainly: the caucus is \"not a monolith\".\n\nRepublicans, led in the minority by Jim Jordan, have vowed to \"fight their way back\". The White House has gone further, warning that standard congressional oversight could amount to \"blatant criminality\" — an unusually sharp framing of what is a routine function. Trump and VP JD Vance have blamed inflation from the Iran war for the losses.\n\n## What to Watch\n\nFour races remain uncalled — in Tennessee and Minnesota, plus two Louisiana runoffs in December — so the majority could still grow. Watch whether Jeffries secures the speakership on 3 January, how hard Democrats push impeachment versus affordability, and whether Trump's veto pen stalemates the whole agenda.",
+    "concepts": [
+     {
+      "term": "House of Representatives",
+      "definition": "The lower chamber of the US Congress, with 435 voting members allocated to states by population; it writes and passes laws alongside the Senate.",
+      "context": "Democrats won at least 258 of its seats, their biggest majority since 1992."
+     },
+     {
+      "term": "recount",
+      "definition": "A re-tallying of votes, allowed in North Carolina when the winning margin is under 1%, to confirm a very close result.",
+      "context": "Virginia Foxx requested one but still lost to Hubbard by 330 votes."
+     },
+     {
+      "term": "divided government",
+      "definition": "When one party controls Congress and the opposing party holds the presidency, forcing the two to negotiate.",
+      "context": "Democrats hold both chambers while Republican Trump keeps the White House."
+     },
+     {
+      "term": "subpoena powers",
+      "definition": "The legal authority of congressional committees to compel witnesses to testify or hand over documents.",
+      "context": "Democrats plan to use them to investigate Trump and his family's finances."
+     }
+    ],
+    "quiz": {
+     "question": "Why does winning the House majority not give Democrats total control over new laws?",
+     "options": [
+      "The Senate can overturn any House vote by itself",
+      "Recounts can reverse the overall result",
+      "President Trump can still veto legislation they pass",
+      "House majorities expire after 100 days"
+     ],
+     "answer_index": 2,
+     "explanation": "Even with both chambers of Congress, Democrats face a Republican president who can veto bills — a classic feature of divided government."
+    },
+    "background_beginner": "The United States elects its Congress — the House of Representatives and the Senate — separately from its president. \"Midterm\" elections fall halfway through a president's four-year term and are usually seen as a report card on how they're doing. Right now the president is Republican Donald Trump, serving his second term since 2025. His main opposition is the Democratic Party. These contests keep making headlines because control of Congress decides whether a president can pass laws easily or gets blocked and investigated. In the 2026 midterms, Democrats swept to their biggest House win since 1992, flipping even long-held Republican seats amid voter anger over living costs and the Iran war.",
+    "impact_score": 78,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Democrats have locked in at least 258 seats in the US House of Representatives — their largest majority in over three decades — after flipping a North Carolina seat in a recount.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno"
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss"
+     },
+     {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority"
+     }
+    ],
+    "source_count": 3,
+    "confidence": 0.8500000000000001,
+    "related_story_ids": [
+     "0a9d85f5-6938-52e2-854d-3cb4c9ae80a4",
+     "4c0f9068-7247-5f02-aeef-e66210078880",
+     "cc51fc8a-1c55-531c-9f65-15e050e48c28",
+     "e6c79d17-1ee7-594f-af94-02864e98b995"
+    ],
+    "reading_minutes": 2,
+    "created_at": "2026-11-23T01:24:52.321747+00:00",
+    "published_date": "2026-11-23",
+    "has_fulltext": true
+   },
+   {
     "id": "340ea5e9-b402-562b-8b45-a4c8bb245ee1",
     "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
     "simplified_title": "Measles kills young child in Virginia as US loses elimination status",
@@ -1367,6 +1571,76 @@
    }
   ],
   "GLOBAL_SYSTEMS": [
+   {
+    "id": "e5bae483-2c62-55be-91c4-0b7d0a54a8f2",
+    "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+    "simplified_title": "AI bubble fears spark global share market sell-off",
+    "quick_summary": "Fears that the artificial intelligence boom is unsustainable have triggered steep share market falls across Asia, the United States and Australia.",
+    "simplified_body": "Share markets across the world have tumbled as investors worry the artificial intelligence (AI) boom may be running out of steam. On Friday, the United States benchmark S&P 500 index closed 3.7 per cent lower — its seventh straight loss — while the tech-heavy Nasdaq dropped 5.3 per cent, wiping out all its gains for 2026. The falls rippled through Asia: South Korea's Korea Composite Stock Price Index (Kospi) shed 5.2 per cent on Friday and fell as much as 3.7 per cent again on Monday, with Japan and Taiwan also hit hard.\n\nAustralia hasn't been spared. The ASX 200 (the index of Australia's 200 biggest listed companies) was heading for its seventh straight losing session, with bank stocks dragging while gold miners rallied. Copper slumped to its lowest since March — a worry given it's tied to electrification and data centres. BHP still unveiled plans to double its South Australian copper output by 2040.\n\nFor newcomers: tech firms have poured multi-trillion-dollar sums into the infrastructure needed to power AI, and investors have long questioned whether those bets will pay off. Strategist Gerard Minack reckons AI stocks sit 37 per cent below their June peak. He calls it an \"earnings bubble\" rather than a valuation bubble, meaning the concern is whether company profits can hold up.\n\nWhat's next is uncertain. Fears have been stoked by expectations that the incoming Democratic-led US Congress will tighten regulation, plus an alleged spying scandal at chip giant Nvidia. Minack says a short \"tradeable rally\" is possible, but still believes the AI bubble is unsustainable — and flags Anthropic's planned stock market float as a potential \"clarifying moment\".",
+    "why_it_matters": "When global AI jitters hit, Australian super balances, bank shares and commodity exporters all feel it — and this sell-off lands just as local data hints the economy may be sliding toward recession.",
+    "deep_analysis": "## Historical Context\n\nBooms built on new technology have burst before. The source notes two famous examples: Japan's 1980s bubble, whose biggest correction was about 26 per cent in 1987 after the US market crash, and the dot-com (Technology, Media, Telecom) cycle, whose steepest drop was around 28 per cent in 1998. By those measures, strategist Gerard Minack argues today's AI slump — roughly 37 per cent below its June peak on the Goldman Sachs broad AI index — is already a bigger \"puncture\". Crucially, he says the earlier two were driven by external shocks and were valuation bubbles, which \"rarely reflate once they have sprung a serious leak.\" This one, he argues, reflects AI-specific concerns and is an earnings bubble.\n\n## Multiple Perspectives\n\nThere's genuine disagreement about what comes next. Minack warns the AI bubble is unsustainable and that current cheap-looking prices may simply be signalling an \"imminent large decline in earnings\" — his \"shovel sellers\" point is that chipmakers profit now, but if the firms chasing AI riches \"only find clay\", demand for their gear falls. Yet he also concedes a \"tradeable rally\" is possible if earnings hold up longer than rock-bottom valuations imply. Meanwhile the Australian picture is mixed: BHP is confidently expanding copper, gold miners are rallying as a safe haven, but JP Morgan's analyst sees \"trouble brewing\" for banks, and weak business activity data points to recession risk.\n\n## What to Watch\n\nKeep an eye on Anthropic's planned float, which Minack calls a potential \"clarifying moment\" for whether selling AI can actually be profitable. Watch too for moves by the incoming Democratic-led US Congress on regulation, the Nvidia spying allegations, copper and commodity prices, and Australian unemployment and house-price trends — all flagged as building pressures.",
+    "concepts": [
+     {
+      "term": "earnings bubble",
+      "definition": "A market boom where the worry is whether company profits can keep up, rather than whether share prices have simply run too far ahead of value.",
+      "context": "Minack distinguishes this from a 'valuation bubble', arguing it changes how the AI sell-off might play out."
+     },
+     {
+      "term": "ASX 200",
+      "definition": "The benchmark index tracking the 200 largest companies listed on the Australian share market.",
+      "context": "It was heading for its seventh straight losing session during the global sell-off."
+     },
+     {
+      "term": "Kospi",
+      "definition": "South Korea's main stock market index, short for the Korea Composite Stock Price Index.",
+      "context": "It fell 5.2 per cent on Friday and up to 3.7 per cent again on Monday."
+     },
+     {
+      "term": "Nasdaq",
+      "definition": "A major US stock exchange and index heavily weighted toward technology companies.",
+      "context": "It dropped 5.3 per cent, erasing all its 2026 gains as AI fears mounted."
+     }
+    ],
+    "quiz": {
+     "question": "Why does Gerard Minack argue this AI sell-off differs from Japan's 1980s and the dot-com bubbles?",
+     "options": [
+      "It was caused by an external shock rather than internal concerns",
+      "It only affects Australian banks and copper miners",
+      "It is an earnings bubble reflecting AI-specific concerns, not a valuation bubble",
+      "It has fallen far less than those earlier corrections"
+     ],
+     "answer_index": 2,
+     "explanation": "Minack describes the earlier two as valuation bubbles driven by external shocks, while he calls the current one an earnings bubble reflecting AI-specific concerns."
+    },
+    "background_beginner": "Over the past few years, companies betting on artificial intelligence (AI) — software that can write, reason and crunch huge amounts of data — have attracted enormous investment, sending their share prices soaring. Chipmakers like Nvidia, which supply the hardware AI needs, became especially valuable. But investors have long wondered whether the multi-trillion-dollar spending will ever turn into solid profits. When doubts flare, AI-linked shares fall sharply, dragging whole markets down with them because these firms are now so large. It keeps coming up because so much money, and so many hopes, now ride on AI paying off — and because ordinary savers' retirement funds are exposed to it.",
+    "impact_score": 78,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T015144Z_77722265_RC21IOA70JJX_RTRMADP_3_SOUTHKOREA-MARKETS-1-1795393000_0f55a3-1795395323.jpg?resize=1200%2C630&quality=80",
+    "region": "Global economy, markets, trade, international institutions",
+    "region_code": "GLOBAL_SYSTEMS",
+    "description": "Fears that the artificial intelligence boom is unsustainable have triggered steep share market falls across Asia, the United States and Australia.",
+    "tier": "GLOBAL",
+    "category": "ECONOMY_MARKETS",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss"
+     },
+     {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "b210fe97-7069-566d-a093-df6ed96c0c7a",
+     "bb3e3171-a71c-5e10-a59e-4f736b595be5"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-11-23T01:25:00.790070+00:00",
+    "published_date": "2026-11-23",
+    "has_fulltext": true
+   },
    {
     "id": "a2b2cda8-b728-5d08-9bac-693b10cdddef",
     "title": "COP31 climate talks fail to reach deal amid fossil fuel and money rows",
@@ -1972,5 +2246,5 @@
    }
   ]
  },
- "total_stories": 30
+ "total_stories": 34
 }
