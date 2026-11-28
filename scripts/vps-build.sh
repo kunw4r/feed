@@ -5,6 +5,8 @@ set -euo pipefail
 cd /opt/brainfeed
 export PATH="/usr/local/bin:/usr/bin:$PATH"
 unset ANTHROPIC_API_KEY
+# Long-lived subscription token from `claude setup-token` (valid 1 year; gitignored, chmod 600)
+set -a; [ -f /opt/brainfeed/.claude-token ] && . /opt/brainfeed/.claude-token; set +a
 git pull --rebase -q
 python3 scripts/build_feed.py --incremental --excerpt 3
 git add frontend/public/data/today.json frontend/public/data/articles frontend/public/data/archive

@@ -12,3 +12,4 @@ backend/data/
 .venv/
 tsconfig.tsbuildinfo
 graphify-out/
+.claude-token
