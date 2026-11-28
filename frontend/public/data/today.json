@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "generated_at": "2026-11-28T02:48:56.255930+00:00",
+ "generated_at": "2026-11-28T07:23:04.192606+00:00",
  "regions": {
   "OCEANIA": [
    {
@@ -63,6 +63,64 @@
     "related_story_ids": [],
     "reading_minutes": 4,
     "created_at": "2026-11-28T02:52:48.154735+00:00",
+    "published_date": "2026-11-28",
+    "has_fulltext": true
+   },
+   {
+    "id": "10e0abd7-7057-59e2-a609-81da5c8b286e",
+    "title": "Men accused of orchestrating Iran-linked antisemitic attacks in Sydney and Melbourne named and sanctioned",
+    "simplified_title": "Two men sanctioned over Iran-linked antisemitic attacks in Australia",
+    "quick_summary": "Australia has named and sanctioned two men it alleges orchestrated Iran-backed antisemitic arson attacks in Sydney and Melbourne.",
+    "simplified_body": "Foreign Affairs Minister Penny Wong has publicly named Zohair Hassib and Kazem Hamad, alleging they were behind \"horrific antisemitic arson attacks\" on Australia's Jewish community in 2024. The government says the pair acted on behalf of Iran's Islamic Revolutionary Guard Corps (IRGC) and used \"a complex chain of proxies\" to target Lewis' Continental Kitchen in Sydney and the Adass Israel synagogue in Melbourne.\n\nBoth men have now had \"counter-terrorism financing sanctions\" placed on them, making it a criminal offence to use, deal with or provide their assets. Hassib is an Australian citizen now in Iran; Hamad is a former resident living in Iraq. Breaching Australian sanctions carries up to 10 years' imprisonment plus heavy fines. Wong said the move helps disrupt the IRGC's ability to attack Australians.\n\nFor background: these two were first flagged in the Australian Security Intelligence Organisation's (ASIO) annual threat assessment in June, when director general Mike Burgess alleged an Australian in Iran \"orchestrated\" the Bondi firebombing as a senior agent of the IRGC's Quds Force. In response to the 2024 attacks, Australia expelled Iran's ambassador and three diplomats, suspended its Tehran embassy, and listed the IRGC as a state sponsor of terrorism.\n\nWhat's next is uncertain. A separate audit released the same day found Australia's sanctions watchdog issued warning letters in 80% of actions, and 42% of 91 investigations since 2022 ended with no regulatory action. Greens leader David Shoebridge called for a review, saying a \"stern letter\" isn't enough. Wong conceded more needed to be done to strengthen enforcement.",
+    "why_it_matters": "This is a rare case of Australia publicly naming foreign agents it blames for terror attacks on home soil, and it deepens an already serious diplomatic rift with Iran that saw Tehran's ambassador expelled.",
+    "deep_analysis": "## Historical Context\n\nThe attacks in question happened in 2024: an arson attack on Lewis' Continental Kitchen in Sydney (referred to as the Bondi firebombing) and an attack on the Adass Israel synagogue in Melbourne. Australia responded strongly, expelling Iran's ambassador plus three diplomats, suspending its embassy in Tehran, and listing the IRGC as a state sponsor of terrorism. ASIO first referenced these individuals in its June threat assessment; Friday's announcement names them publicly for the first time.\n\n## Multiple Perspectives\n\nThe government, through Penny Wong, frames the sanctions as \"an important step in disrupting the IRGC's ability to conduct attacks against Australians.\" The Greens, through leader David Shoebridge, argue the broader sanctions regime is toothless — pointing to a new audit showing most enforcement amounts to warning letters, and calling a letter \"not good enough\" for serious breaches. Wong defended the enforcement record but conceded \"more needed to be done\" and said the government is \"working to strengthen our enforcement function.\" Note that the government's claims against Hassib and Hamad are allegations; the article consistently uses \"alleged\" language.\n\n## What to Watch\n\nKeep an eye on whether the sanctions regime gets the review Shoebridge is demanding, and whether enforcement is actually strengthened as Wong promised. The Australian National Audit Office findings — 80% of actions being warning letters and 42% of investigations ending with no action — are likely to fuel ongoing political pressure. Also worth watching is the continued diplomatic fallout with Iran following the ambassador's expulsion and the embassy suspension.",
+    "concepts": [
+     {
+      "term": "Islamic Revolutionary Guard Corps (IRGC)",
+      "definition": "A powerful branch of Iran's armed forces that Australia has listed as a state sponsor of terrorism, and which the government alleges was behind the attacks.",
+      "context": "The government says the two men acted on behalf of the IRGC."
+     },
+     {
+      "term": "counter-terrorism financing sanctions",
+      "definition": "Legal measures that make it a criminal offence to use, deal with or provide money and assets to named individuals, aimed at cutting off funding for attacks.",
+      "context": "These are the specific sanctions imposed on Hassib and Hamad."
+     },
+     {
+      "term": "Quds Force",
+      "definition": "A unit of the IRGC that supports armed and terrorist groups overseas, which ASIO alleges one of the men was a senior agent of.",
+      "context": "Mike Burgess alleged the man who orchestrated the Bondi firebombing was a senior Quds Force agent."
+     }
+    ],
+    "quiz": {
+     "question": "What did the government say its sanctions on the two named men actually do?",
+     "options": [
+      "Freeze all Iranian government assets in Australia",
+      "Strip them of Australian citizenship",
+      "Automatically jail them if they enter Australia",
+      "Make it a criminal offence to use or provide their assets"
+     ],
+     "answer_index": 3,
+     "explanation": "The counter-terrorism financing sanctions make it a criminal offence to use, deal with, or make assets available to the two sanctioned individuals."
+    },
+    "background_beginner": "In 2024, two antisemitic arson attacks hit Australia's Jewish community — one at a Sydney restaurant (the Bondi firebombing) and one at a Melbourne synagogue. Australia's spy agency, ASIO, later alleged these were orchestrated from overseas on behalf of Iran's military, specifically the Islamic Revolutionary Guard Corps. The Australian government reacted by expelling Iran's ambassador and listing the IRGC as a terrorism sponsor. The story keeps resurfacing because it ties together domestic security, antisemitism, and a tense relationship with Iran. The latest development: Foreign Affairs Minister Penny Wong has named the two men allegedly responsible and placed financial sanctions on them, while critics question whether Australia enforces such sanctions properly.",
+    "impact_score": 68,
+    "image_url": "https://i.guim.co.uk/img/media/852119fa93cd80663ba9cad997162a6613b75fe4/528_0_5278_4222/master/5278.jpg?width=1920&quality=85&auto=format&fit=max&s=f6cdcac905106c5c5f41e90020e786bb",
+    "region": "Australia, New Zealand & Pacific (incl. Brisbane/QLD)",
+    "region_code": "OCEANIA",
+    "description": "Australia has named and sanctioned two men it alleges orchestrated Iran-backed antisemitic arson attacks in Sydney and Melbourne.",
+    "tier": "LOCAL",
+    "category": "CRIME_SAFETY",
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/28/pair-behind-alleged-iran-backed-antisemitic-attacks-sydney-melbourne-named-sanctioned-penny-wong-ntwnfb"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-28T07:25:09.738236+00:00",
     "published_date": "2026-11-28",
     "has_fulltext": true
    },
@@ -1058,6 +1116,81 @@
     "has_fulltext": true
    },
    {
+    "id": "e881a60e-c485-52f5-a5b5-4672d97116ad",
+    "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+    "simplified_title": "US fires on cargo ship enforcing its blockade of Iran",
+    "quick_summary": "The US military says it disabled a Palau-flagged merchant ship in the Gulf of Oman for allegedly trying to breach its blockade of Iranian ports.",
+    "simplified_body": "US aircraft fired \"precision munitions\" at the stern of the Palau-flagged M/V Pacific Archer on Thursday in the Gulf of Oman, knocking out the ship's propulsion but leaving the civilian crew unharmed, according to US Central Command (CENTCOM), the body that runs American forces in the Middle East. US officials say the vessel had left the Iranian port of Bandar Abbas; ship-tracking sites list its destination as Singapore. It is at least the 15th ship the US says it has disabled since the blockade began, and the sixth since it resumed.\n\nThis affects global shipping and anyone moving goods near Iran, because the US is now stopping and redirecting commercial traffic by force. CENTCOM says it has redirected 158 merchant ships and disabled those that refuse to comply, and insists it issues multiple warnings before firing.\n\nThe sources disagree on the timeline. Al Jazeera says the blockade started in April, was paused during talks with Tehran, then resumed in July; DW says it launched in mid-July after an agreement collapsed. DW also reports the wider war broke out in February after US and Israeli strikes on Iran, which led Iran to blockade the Strait of Hormuz, a key oil shipping channel. Iran's Islamic Revolutionary Guard Corps (IRGC) claims one of its tankers struck a naval mine; the claim couldn't be independently verified.\n\nTensions are rising elsewhere too. Kuwait summoned Iran's ambassador after a drone strike killed two Italian technicians at a military site; Iran denies responsibility. Iran's navy commander vowed operations to \"break the naval blockade\", while UN Secretary-General Antonio Guterres urged all parties to show restraint.",
+    "why_it_matters": "Roughly a fifth of the world's oil passes through this region, so a shooting blockade near the Strait of Hormuz can ripple out to fuel prices and shipping costs globally, including for Australian importers and motorists.",
+    "deep_analysis": "## Historical Context\n\nThe Strait of Hormuz and the Gulf of Oman sit on one of the planet's busiest energy corridors, which is why military friction there draws outsized attention. According to DW, the current war broke out in February after the US and Israel launched strikes on Iran, prompting Tehran to blockade the Strait of Hormuz. The US then imposed its own blockade on Iranian ports. The two sources differ on exactly when: Al Jazeera dates the US blockade to April with a pause for talks and a July resumption, while DW puts the launch in mid-July after an agreement collapsed. Either way, the Pacific Archer is part of a sustained campaign, not a one-off.\n\n## Multiple Perspectives\n\nWashington frames this as lawful enforcement: CENTCOM says it warns ships repeatedly, has redirected 158 vessels, and only disables those that refuse to comply, stressing crews are left unharmed. Tehran frames it as aggression on its waters. Iran's navy commander, Shahram Irani, promised operations to break the blockade and \"drive the enemy out of the region's waters\", and the IRGC claims one of its tankers hit a naval mine — a claim the reporting says couldn't be independently verified. The UN, via Secretary-General Antonio Guterres, is urging restraint and warning that renewed hostilities would be devastating. The separate Kuwait drone strike — which Iran denies — shows how quickly civilians and third countries can be drawn in.\n\n## What to Watch\n\nWatch whether Iran follows through on threats to challenge the blockade directly, which would risk direct US-Iran clashes at sea. Watch the pace of disabled ships (one roughly every two to three weeks lately) and whether shipping firms keep servicing Iranian ports. And watch the diplomatic fallout from the Kuwait strike, which has already drawn a summons and UN condemnation.",
+    "concepts": [
+     {
+      "term": "blockade",
+      "definition": "A military operation to block ships from entering or leaving a country's ports, used here to cut off Iran's maritime trade.",
+      "context": "The US is enforcing a blockade of Iranian ports and firing on ships that try to breach it."
+     },
+     {
+      "term": "CENTCOM",
+      "definition": "US Central Command, the arm of the American military responsible for forces across the Middle East.",
+      "context": "CENTCOM announced the strike and says it has redirected 158 merchant ships."
+     },
+     {
+      "term": "precision munitions",
+      "definition": "Guided weapons designed to hit a specific target accurately, here aimed at the ship's stern to disable it rather than sink it.",
+      "context": "US aircraft fired precision munitions at the stern of the Pacific Archer."
+     },
+     {
+      "term": "Strait of Hormuz",
+      "definition": "A narrow sea passage at the mouth of the Persian Gulf that is a critical route for global oil shipments.",
+      "context": "Iran imposed its own blockade on the Strait of Hormuz after US and Israeli strikes."
+     }
+    ],
+    "quiz": {
+     "question": "Why does a blockade in the Gulf of Oman and Strait of Hormuz draw global concern?",
+     "options": [
+      "Because the region is a critical corridor for global oil and shipping",
+      "Because Palau owns most of the world's merchant fleet",
+      "Because it is the only route between Europe and Asia",
+      "Because the UN has military bases there"
+     ],
+     "answer_index": 0,
+     "explanation": "The Strait of Hormuz is one of the world's busiest energy shipping routes, so disruptions there can affect global oil supply and prices well beyond the immediate conflict."
+    },
+    "background_beginner": "This is about an ongoing conflict between the United States and Iran centred on the seas around the Persian Gulf. The US military (through its regional command, CENTCOM) has set up a blockade stopping cargo ships from trading with Iranian ports, redirecting most and disabling those that refuse. Iran, through its Revolutionary Guard and navy, has pushed back with its own moves around the Strait of Hormuz, a vital oil shipping lane. According to DW, the war flared in February after US and Israeli strikes on Iran. It keeps making headlines because each disabled ship, mine claim or drone strike risks pulling in more countries and sending shockwaves through global energy supplies.",
+    "impact_score": 72,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afba6a9-1794877097.jpg?resize=1920%2C1440",
+    "region": "Middle East & Africa",
+    "region_code": "MIDDLE_EAST_AFRICA",
+    "description": "The US military says it disabled a Palau-flagged merchant ship in the Gulf of Oman for allegedly trying to breach its blockade of Iranian ports.",
+    "tier": "GLOBAL",
+    "category": "POLITICS_POLICY",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss"
+     },
+     {
+      "name": "DW",
+      "url": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf"
+     }
+    ],
+    "source_count": 2,
+    "confidence": 0.7000000000000001,
+    "related_story_ids": [
+     "4baeb561-9dde-5523-9cc1-d2b0ea035a8e",
+     "5308dde1-05e0-5095-8f85-5cb1b422b338",
+     "557dcd33-1a01-5f2b-9c3c-7cf791cbb8b1",
+     "7827fbef-2c69-5fe5-a84c-09826397aff5",
+     "a1953172-37fc-55b9-a715-9bbde7c2c360",
+     "ca667764-ae44-53f5-8c27-fb4c51bd5fe3",
+     "cad29bbf-4722-5feb-87b8-780580640433"
+    ],
+    "reading_minutes": 1,
+    "created_at": "2026-11-28T07:25:12.803506+00:00",
+    "published_date": "2026-11-28",
+    "has_fulltext": true
+   },
+   {
     "id": "e687931e-6f6e-5ee6-8f51-93fcb134f0b1",
     "title": "Momentous decision looms after judges call for Netanyahu charges to be dropped",
     "simplified_title": "Judges Urge End to Netanyahu's Long Corruption Trial",
@@ -1377,6 +1510,64 @@
     "related_story_ids": [],
     "reading_minutes": 3,
     "created_at": "2026-11-28T02:54:19.295787+00:00",
+    "published_date": "2026-11-28",
+    "has_fulltext": true
+   },
+   {
+    "id": "793533ca-f67d-5226-9d91-216562d1ac1a",
+    "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
+    "simplified_title": "El Nino floods swamp cities across Peru and Ecuador",
+    "quick_summary": "Exceptionally strong El Nino rains have flooded cities in Peru and Ecuador, killing dozens and forcing national emergencies.",
+    "simplified_body": "Heavy downpours tied to an exceptionally strong El Nino have swamped several cities in Peru and Ecuador. In Piura, northern Peru, waist-high water filled streets after 12 hours of rain, with roughly 2,000 families affected. Patients were moved out of a flooded hospital ward, and the armed forces deployed pumping equipment — though some residents complained machines stopped for lack of fuel. In Ecuador, authorities reported 34 people dead and 47,000 affected, with people in Manta wading through chest-deep water after two rivers burst their banks.\n\nThis hits ordinary residents hardest — people losing furniture, appliances and homes, and dealing with burst sewers and foul-smelling floodwater. Both countries, along with other Latin American nations, have declared national emergencies. Peru's president postponed an overseas trip to manage the crisis.\n\nEl Nino is a natural phenomenon: sea surface temperatures rise in the central and eastern equatorial Pacific Ocean, shifting wind and rain patterns worldwide. This year's episode is projected to be the strongest on record and has already been linked to severe weather across the continent. Peru's navy also blamed it for ocean swells that damaged coastal infrastructure and closed dozens of ports.\n\nMore trouble may be coming. Peru's weather service warned of further moderate to heavy rain over the following four days. On a global scale, the Food and Agriculture Organization (FAO) and World Food Programme (WFP) warned hunger is set to worsen in 16 hotspots over six months, driven by conflict and extreme weather including El Nino.",
+    "why_it_matters": "El Nino reshapes weather worldwide, and Australia sits at the other end of the cycle — the same pattern that drenches South America typically brings hotter, drier conditions and heightened bushfire and drought risk here.",
+    "deep_analysis": "## Historical Context\n\nEl Nino is a recurring natural climate pattern, not a one-off event. It describes a warming of sea surface temperatures in the central and eastern equatorial Pacific Ocean, which shifts global wind and rain patterns. Historically, strong El Nino years have brought devastating flooding to the Pacific coast of South America — Peru and Ecuador are especially exposed because warmer coastal waters fuel intense rainfall. The article notes this year's episode is projected to be the strongest on record, which helps explain the scale of the deluges hitting Piura, Manta and other cities.\n\n## Multiple Perspectives\n\nFor residents like those quoted in Piura and Manta, this is a story of total loss — homes flooded, appliances ruined, and burst sewers adding a public-health hazard. For governments, it's a test of emergency response: Peru deployed its armed forces and pumping gear, yet residents complained of fuel shortages halting the machines, pointing to gaps between declared emergencies and on-the-ground delivery. At the international level, UN agencies frame El Nino as one driver among several — alongside armed conflict — pushing global hunger higher, with Sudan, South Sudan, Somalia, northern Nigeria and Yemen flagged as most at risk.\n\n## What to Watch\n\nPeru's National Meteorology and Hydrology Service warned of more moderate to heavy rain over four days, so the immediate flood risk isn't over. Watch whether the death and displacement tolls climb beyond Ecuador's reported 34 dead and 47,000 affected, whether port closures and coastal damage deepen economic strain, and how the FAO and WFP's six-month hunger warning plays out in the named hotspots.",
+    "concepts": [
+     {
+      "term": "El Nino",
+      "definition": "A natural climate pattern where sea surface temperatures rise in the central and eastern equatorial Pacific Ocean, shifting wind and rain patterns worldwide.",
+      "context": "This year's episode is projected to be the strongest on record and is linked to the flooding across Peru and Ecuador."
+     },
+     {
+      "term": "national emergencies",
+      "definition": "Official government declarations that unlock extra powers and resources to respond to a crisis.",
+      "context": "Peru, Ecuador and other Latin American countries declared these because of the El Nino flooding."
+     },
+     {
+      "term": "World Food Programme (WFP)",
+      "definition": "The United Nations agency that provides food assistance and responds to hunger crises around the world.",
+      "context": "It warned alongside the FAO that hunger would worsen in 16 global hotspots partly due to El Nino."
+     }
+    ],
+    "quiz": {
+     "question": "Why are Peru and Ecuador especially vulnerable to this year's El Nino?",
+     "options": [
+      "Warmer sea temperatures off their Pacific coast fuel intense rainfall and flooding",
+      "El Nino only affects countries in Africa",
+      "They sit far inland away from any ocean influence",
+      "Their governments refused to declare emergencies"
+     ],
+     "answer_index": 0,
+     "explanation": "El Nino warms sea surface temperatures in the eastern equatorial Pacific, driving heavy rain along the South American coast — which is why cities like Piura and Manta flooded."
+    },
+    "background_beginner": "El Nino is a natural weather cycle that happens every few years when the Pacific Ocean near the equator gets unusually warm. That warmth changes winds and rainfall right around the globe — bringing heavy rain and flooding to places like Peru and Ecuador on South America's western coast, while often drying out other regions. It keeps coming up because it's powerful and unpredictable, and a strong El Nino can wreck homes, close ports, and even push up food prices far away. In this case, the countries most affected are Peru and Ecuador, with their governments, armies and emergency services scrambling to respond, and UN agencies warning of flow-on hunger worldwide.",
+    "impact_score": 68,
+    "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261127__D8VC4PZ__v1__HighRes__PeruClimateWeatherFloodElNino-1795838301.jpg?resize=1920%2C1440",
+    "region": "North & South America",
+    "region_code": "AMERICAS",
+    "description": "Exceptionally strong El Nino rains have flooded cities in Peru and Ecuador, killing dozens and forcing national emergencies.",
+    "tier": "GLOBAL",
+    "category": "ENVIRONMENT_CLIMATE",
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss"
+     }
+    ],
+    "source_count": 1,
+    "confidence": 0.55,
+    "related_story_ids": [],
+    "reading_minutes": 2,
+    "created_at": "2026-11-28T07:25:10.156603+00:00",
     "published_date": "2026-11-28",
     "has_fulltext": true
    },
@@ -2416,5 +2607,5 @@
    }
   ]
  },
- "total_stories": 37
+ "total_stories": 40
 }
