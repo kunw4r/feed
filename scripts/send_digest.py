@@ -12,6 +12,7 @@ import html
 import json
 import os
 import sys
+from datetime import datetime, timedelta, timezone
 from urllib.parse import quote
 from pathlib import Path
 
@@ -81,7 +82,13 @@ def main() -> int:
     if not key or not to:
         print("digest: RESEND_API_KEY / DIGEST_TO not set, skipping")
         return 0
-    subject, body = build_html(json.loads(TODAY.read_text()))
+    edition = json.loads(TODAY.read_text())
+    # The VPS builds editions; if it stalls, don't re-send yesterday's stories as "this morning"
+    age = datetime.now(timezone.utc) - datetime.fromisoformat(edition["generated_at"])
+    if age > timedelta(hours=20):
+        print(f"digest: edition is {age.total_seconds() / 3600:.0f}h old ({edition['generated_at']}), skipping")
+        return 1 if os.environ.get("GITHUB_ACTIONS") else 0
+    subject, body = build_html(edition)
     try:
         r = httpx.post(
             "https://api.resend.com/emails",
